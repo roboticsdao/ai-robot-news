@@ -6,7 +6,7 @@ DTSTART;TZID=Asia/Tokyo:20260619T090000
 DTEND;TZID=Asia/Tokyo:20260619T091500
 SUMMARY:🤖 AI Robot News | 2026.06.19
 DESCRIPTION:AI Robot News
-URL:file:///Users/souyang/Library/Mobile%20Documents/com~apple~CloudDocs/AI-Robot-News/AI_Robot_News_20260619.html
+URL:https://roboticsdao.github.io/ai-robot-news/latest.html
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
