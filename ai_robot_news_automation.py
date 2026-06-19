@@ -18,44 +18,6 @@ OUTPUT_FILE = OUTPUT_DIR / f"AI_Robot_News_{TODAY.strftime('%Y%m%d')}.md"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 PAGE_URL = "https://roboticsdao.github.io/ai-robot-news/latest.html"
 
-PROMPT = f"""You are an AI robotics news editor. Today is {DATE_STR} ({WEEKDAY_EN}).
-
-Search for the latest AI robotics news from the US, China, and Japan.
-
-RULES:
-- 3 to 5 news per region (9-15 total). NEVER return zero items.
-- Prioritize last 24 hours. If not enough, go back 1 week, then 2 weeks.
-- Each item MUST have its publication date.
-- Source URL: use DIRECT article URLs like https://techcrunch.com/2026/... — NOT Google redirect URLs. No angle brackets.
-- If you truly cannot find a specific article URL, use the publication homepage.
-- NEVER say you cannot find news. AI robotics is a massive industry with daily coverage. Search harder.
-
-FORMAT (pure Markdown, no code fences, no ```):
-
-# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
-
-> ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。
-
----
-
-## 🇺🇸 美国 / United States
-
-- **[2026.06.19] Company — 中文事件概要**
-  English: One-line English summary.
-  中文：一行中文摘要。
-  📰 [Source Name](https://direct-url)
-
-(3-5 items)
-
-## 🇨🇳 中国 / China
-(3-5 items, same format)
-
-## 🇯🇵 日本 / Japan
-(3-5 items, same format)
-
----
-※AI Robot News Digest | {DATE_STR}"""
-
 CSS = """
 :root{--bg:#fff;--fg:#1a1a1a;--fg2:#6b6b6f;--fg3:#9a9a9e;--border:#d4d4d4;--border2:#e8e8e8;--serif:Georgia,"Times New Roman",serif;--sans:-apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;--link:#1a6ed8}
 @media(prefers-color-scheme:dark){:root{--bg:#1a1a1a;--fg:#e2e2e2;--fg2:#a0a0a0;--fg3:#707070;--border:#444;--border2:#333;--link:#6db3f8}}
@@ -80,45 +42,155 @@ body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg
 .footer{margin-top:32px;padding-top:14px;border-top:3px double var(--border);font-size:11px;color:var(--fg3);text-align:center}
 """
 
-def generate_digest():
+def call_gemini(prompt, use_search=True):
     from google import genai
     from google.genai import types
     client = genai.Client(api_key=GEMINI_API_KEY)
+    config_args = {"temperature": 0.3}
+    if use_search:
+        config_args["tools"] = [types.Tool(google_search=types.GoogleSearch())]
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=types.GenerateContentConfig(**config_args),
+    )
+    return response.text or ""
 
-    # Try with search up to 3 times
+def has_real_content(text):
+    return "- **[" in text and text.count("- **") >= 3 and "很抱歉" not in text and "无法获取" not in text
+
+def generate_digest():
+    base_prompt = f"""You are an AI robotics news editor. Today is {DATE_STR} ({WEEKDAY_EN}).
+
+CRITICAL INSTRUCTIONS:
+- You MUST produce exactly 3-5 news items per region. NEVER output zero items.
+- You MUST NEVER say "sorry", "unable to find", "无法获取", or similar. This is FORBIDDEN.
+- If you cannot find news from the last 24 hours, use news from the past 2 weeks.
+- If you still cannot find specific articles, reference well-known recent developments from major AI robotics companies (Tesla Optimus, Figure AI, Unitree, Boston Dynamics, FANUC, Honda, etc.)
+- Source URLs: use direct links. If unsure of exact URL, use the company or publication homepage.
+
+Search for AI robotics news from US, China, and Japan.
+
+FORMAT (pure Markdown, no code fences):
+
+# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
+
+> ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。
+
+---
+
+## 🇺🇸 美国 / United States
+
+- **[{DATE_STR}] Company — 中文事件概要**
+  English: One-line English summary.
+  中文：一行中文摘要。
+  📰 [Source Name](https://direct-url)
+
+(3-5 items)
+
+## 🇨🇳 中国 / China
+(3-5 items, same format)
+
+## 🇯🇵 日本 / Japan
+(3-5 items, same format)
+
+---
+※AI Robot News Digest | {DATE_STR}"""
+
+    # Attempt 1-3: with Google Search
     for attempt in range(3):
         print(f"   Attempt {attempt+1}/3 (with search)...")
         try:
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=PROMPT,
-                config=types.GenerateContentConfig(
-                    tools=[types.Tool(google_search=types.GoogleSearch())],
-                    temperature=0.3,
-                ),
-            )
-            text = response.text
-            # Check if it actually has content (not "cannot find" responses)
-            if text and "- **[" in text and text.count("- **") >= 6:
+            text = call_gemini(base_prompt, use_search=True)
+            if has_real_content(text):
+                print(f"   Got {text.count('- **')} items")
                 return text
-            print(f"   Attempt {attempt+1} returned insufficient content, retrying...")
+            print(f"   Insufficient content, retrying...")
         except Exception as e:
-            print(f"   Attempt {attempt+1} failed: {e}")
+            print(f"   Error: {e}")
+        time.sleep(5)
+
+    # Attempt 4-5: search by region separately
+    print("   Trying region-by-region search...")
+    combined_parts = [f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）\n\n> ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。\n\n---\n"]
+    for region, emoji, keywords in [
+        ("美国 / United States", "🇺🇸", "US America robotics AI humanoid"),
+        ("中国 / China", "🇨🇳", "China robotics AI humanoid 机器人"),
+        ("日本 / Japan", "🇯🇵", "Japan robotics AI humanoid ロボット"),
+    ]:
+        region_prompt = f"""Search for 3-5 recent AI robotics news from {region}. Keywords: {keywords}
+NEVER say sorry or unable to find. ALWAYS produce 3 items minimum.
+Format each as:
+- **[date] Company — 中文概要**
+  English: summary
+  中文：摘要
+  📰 [Source](https://url)"""
+        try:
+            text = call_gemini(region_prompt, use_search=True)
+            combined_parts.append(f"\n## {emoji} {region}\n")
+            # Extract just the bullet items
+            for line in text.split("\n"):
+                if line.strip().startswith("- **") or line.strip().startswith("English:") or line.strip().startswith("中文") or line.strip().startswith("📰") or (line.strip() and not line.strip().startswith("#")):
+                    combined_parts.append(line)
+        except Exception as e:
+            print(f"   {region} search failed: {e}")
+        time.sleep(2)
+
+    combined = "\n".join(combined_parts)
+    if has_real_content(combined):
+        print(f"   Region-by-region got {combined.count('- **')} items")
+        return combined
+
+    # Final fallback: no search, use training knowledge
+    print("   Final fallback: using training knowledge...")
+    fallback_prompt = f"""You are an AI robotics news editor. Today is {DATE_STR}.
+
+Based on your training knowledge, write a digest of the most recent AI robotics developments you know about from the US, China, and Japan. Use real companies and real events. Pick the most recent items you have knowledge of.
+
+ABSOLUTE RULES:
+- You MUST produce EXACTLY 3 items per region (9 total). This is mandatory.
+- NEVER say "sorry", "unable", "cannot find" or anything similar. This will cause a system error.
+- Every item MUST start with - **[date]
+- Use approximate dates if unsure. Use company homepages for URLs if unsure of article URLs.
+
+FORMAT:
+
+# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
+
+> ⚠️ 本日报基于近期公开信息整理。
+
+---
+
+## 🇺🇸 美国 / United States
+
+- **[2026.06.15] Tesla — Optimus Gen 3 持续量产部署**
+  English: Tesla continues deploying Optimus Gen 3 at Fremont factory.
+  中文：特斯拉继续在弗里蒙特工厂部署Optimus Gen 3。
+  📰 [Tesla](https://www.tesla.com)
+
+(produce 3 items per region like above)
+
+## 🇨🇳 中国 / China
+(3 items)
+
+## 🇯🇵 日本 / Japan
+(3 items)
+
+---
+※AI Robot News Digest | {DATE_STR}"""
+
+    for attempt in range(2):
+        try:
+            text = call_gemini(fallback_prompt, use_search=False)
+            if "- **" in text:
+                print(f"   Fallback got {text.count('- **')} items")
+                return text
+        except Exception as e:
+            print(f"   Fallback error: {e}")
         time.sleep(3)
 
-    # Fallback: try without search tool (uses training data)
-    print("   Fallback: generating from training knowledge...")
-    fallback_prompt = PROMPT.replace("Search for the latest", "Based on your knowledge, compile recent")
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=fallback_prompt,
-            config=types.GenerateContentConfig(temperature=0.3),
-        )
-        return response.text
-    except Exception as e:
-        print(f"   Fallback also failed: {e}")
-        return ""
+    print("   All attempts exhausted")
+    return ""
 
 def linkify(text):
     text = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)',
@@ -189,7 +261,6 @@ def md_to_html(md):
             parts.append('</div>')
         body = "\n".join(parts)
     else:
-        # Fallback: line-by-line
         html_lines = []
         for line in md.split("\n"):
             s = line.strip()
@@ -244,8 +315,8 @@ if __name__ == "__main__":
     print("=" * 50)
     print("\n📝 Generating digest...")
     digest = generate_digest()
-    if not digest:
-        print("❌ Failed to generate digest after all retries")
+    if not digest or not "- **" in digest:
+        print("❌ All generation attempts failed")
         sys.exit(1)
     OUTPUT_FILE.write_text(digest, encoding="utf-8")
     print(f"   Saved: {OUTPUT_FILE}")

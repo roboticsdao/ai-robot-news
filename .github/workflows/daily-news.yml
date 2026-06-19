@@ -8,13 +8,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
       - run: pip install google-genai
-      - name: Generate digest
+      - name: Generate and publish
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ai_robot_news_automation.py
@@ -23,5 +24,5 @@ jobs:
           git config user.name "AI Robot News Bot"
           git config user.email "bot@example.com"
           git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md || true
-          git diff --cached --quiet || git commit -m "update $(date +%Y.%m.%d)"
+          git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           git push
