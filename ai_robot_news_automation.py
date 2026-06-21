@@ -42,6 +42,12 @@ body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg
 .footer{margin-top:32px;padding-top:14px;border-top:3px double var(--border);font-size:11px;color:var(--fg3);text-align:center}
 """
 
+REGIONS = [
+    ("🇺🇸", "美国 / United States", "US AI robotics humanoid robot Tesla Optimus Figure Boston Dynamics"),
+    ("🇨🇳", "中国 / China", "China AI robotics humanoid robot 中国 机器人 人形 Unitree 宇树 小鹏 优必选"),
+    ("🇯🇵", "日本 / Japan", "Japan AI robotics humanoid robot 日本 ロボット Honda Fanuc Telexistence Toyota"),
+]
+
 def call_gemini(prompt, use_search=True):
     from google import genai
     from google.genai import types
@@ -56,141 +62,84 @@ def call_gemini(prompt, use_search=True):
     )
     return response.text or ""
 
-def has_real_content(text):
-    return "- **[" in text and text.count("- **") >= 3 and "很抱歉" not in text and "无法获取" not in text
+def fetch_region(flag, label, keywords):
+    prompt = f"""Search for 3 to 5 recent AI robotics news specifically from {label}.
+Search keywords: {keywords}
+Today is {DATE_STR}.
+
+CRITICAL RULES:
+- You MUST return 3-5 news items. NEVER return zero.
+- Prioritize last 24 hours, then expand to 2 weeks if needed.
+- NEVER say "sorry", "unable to find", "无法获取". This is FORBIDDEN.
+- Each item MUST start with: - **[date] Company — Chinese summary**
+- Source URL: use direct article URLs (https://reuters.com/..., https://techcrunch.com/...). If you only have a Google redirect URL, use the source publication's homepage instead (e.g. https://www.reuters.com, https://techcrunch.com).
+- NEVER use vertexaisearch.cloud.google.com URLs.
+
+FORMAT (exactly this, pure Markdown):
+
+- **[2026.06.19] Company — 中文事件概要**
+  English: One-line English summary of the news.
+  中文：一行中文摘要。
+  📰 [Source Name](https://direct-article-url)
+
+- **[2026.06.18] Another Company — 另一个事件概要**
+  English: Summary.
+  中文：摘要。
+  📰 [Source Name](https://direct-url)
+
+(produce 3-5 items)"""
+
+    for attempt in range(3):
+        try:
+            text = call_gemini(prompt, use_search=True)
+            # Clean Google redirect URLs
+            text = re.sub(r'https://vertexaisearch\.cloud\.google\.com/[^\s\)]+', 'https://www.google.com/search?q=' + keywords.split()[0], text)
+            if "- **" in text and "很抱歉" not in text and "无法获取" not in text:
+                print(f"   {flag} Got {text.count('- **')} items (attempt {attempt+1})")
+                return text
+            print(f"   {flag} Attempt {attempt+1}: insufficient content")
+        except Exception as e:
+            print(f"   {flag} Attempt {attempt+1} error: {e}")
+        time.sleep(3)
+
+    # Fallback without search
+    print(f"   {flag} Using training data fallback...")
+    fallback = f"""Based on your training knowledge, list 3 recent AI robotics news items from {label}.
+Use real companies and real events. Pick the most recent you know about.
+You MUST produce exactly 3 items. NEVER say sorry or unable.
+Format each exactly as:
+- **[approximate date] Company — 中文概要**
+  English: summary
+  中文：摘要
+  📰 [Source](https://company-or-publication-homepage)"""
+    try:
+        text = call_gemini(fallback, use_search=False)
+        if "- **" in text:
+            return text
+    except Exception as e:
+        print(f"   {flag} Fallback error: {e}")
+    return ""
 
 def generate_digest():
-    base_prompt = f"""You are an AI robotics news editor. Today is {DATE_STR} ({WEEKDAY_EN}).
-
-CRITICAL INSTRUCTIONS:
-- You MUST produce exactly 3-5 news items per region. NEVER output zero items.
-- You MUST NEVER say "sorry", "unable to find", "无法获取", or similar. This is FORBIDDEN.
-- If you cannot find news from the last 24 hours, use news from the past 2 weeks.
-- If you still cannot find specific articles, reference well-known recent developments from major AI robotics companies (Tesla Optimus, Figure AI, Unitree, Boston Dynamics, FANUC, Honda, etc.)
-- Source URLs: use direct links. If unsure of exact URL, use the company or publication homepage.
-
-Search for AI robotics news from US, China, and Japan.
-
-FORMAT (pure Markdown, no code fences):
-
-# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
+    header = f"""# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
 
 > ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。
 
 ---
-
-## 🇺🇸 美国 / United States
-
-- **[{DATE_STR}] Company — 中文事件概要**
-  English: One-line English summary.
-  中文：一行中文摘要。
-  📰 [Source Name](https://direct-url)
-
-(3-5 items)
-
-## 🇨🇳 中国 / China
-(3-5 items, same format)
-
-## 🇯🇵 日本 / Japan
-(3-5 items, same format)
-
----
-※AI Robot News Digest | {DATE_STR}"""
-
-    # Attempt 1-3: with Google Search
-    for attempt in range(3):
-        print(f"   Attempt {attempt+1}/3 (with search)...")
-        try:
-            text = call_gemini(base_prompt, use_search=True)
-            if has_real_content(text):
-                print(f"   Got {text.count('- **')} items")
-                return text
-            print(f"   Insufficient content, retrying...")
-        except Exception as e:
-            print(f"   Error: {e}")
-        time.sleep(5)
-
-    # Attempt 4-5: search by region separately
-    print("   Trying region-by-region search...")
-    combined_parts = [f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）\n\n> ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。\n\n---\n"]
-    for region, emoji, keywords in [
-        ("美国 / United States", "🇺🇸", "US America robotics AI humanoid"),
-        ("中国 / China", "🇨🇳", "China robotics AI humanoid 机器人"),
-        ("日本 / Japan", "🇯🇵", "Japan robotics AI humanoid ロボット"),
-    ]:
-        region_prompt = f"""Search for 3-5 recent AI robotics news from {region}. Keywords: {keywords}
-NEVER say sorry or unable to find. ALWAYS produce 3 items minimum.
-Format each as:
-- **[date] Company — 中文概要**
-  English: summary
-  中文：摘要
-  📰 [Source](https://url)"""
-        try:
-            text = call_gemini(region_prompt, use_search=True)
-            combined_parts.append(f"\n## {emoji} {region}\n")
-            # Extract just the bullet items
-            for line in text.split("\n"):
-                if line.strip().startswith("- **") or line.strip().startswith("English:") or line.strip().startswith("中文") or line.strip().startswith("📰") or (line.strip() and not line.strip().startswith("#")):
-                    combined_parts.append(line)
-        except Exception as e:
-            print(f"   {region} search failed: {e}")
+"""
+    parts = [header]
+    for flag, label, keywords in REGIONS:
+        print(f"\n   Fetching {flag} {label}...")
+        region_content = fetch_region(flag, label, keywords)
+        parts.append(f"\n## {flag} {label}\n")
+        if region_content:
+            parts.append(region_content)
+        else:
+            parts.append("- **[" + DATE_STR + "] 暂无更新 — No updates available**\n  English: No recent news found for this region.\n  中文：该地区暂无最新新闻。")
         time.sleep(2)
 
-    combined = "\n".join(combined_parts)
-    if has_real_content(combined):
-        print(f"   Region-by-region got {combined.count('- **')} items")
-        return combined
-
-    # Final fallback: no search, use training knowledge
-    print("   Final fallback: using training knowledge...")
-    fallback_prompt = f"""You are an AI robotics news editor. Today is {DATE_STR}.
-
-Based on your training knowledge, write a digest of the most recent AI robotics developments you know about from the US, China, and Japan. Use real companies and real events. Pick the most recent items you have knowledge of.
-
-ABSOLUTE RULES:
-- You MUST produce EXACTLY 3 items per region (9 total). This is mandatory.
-- NEVER say "sorry", "unable", "cannot find" or anything similar. This will cause a system error.
-- Every item MUST start with - **[date]
-- Use approximate dates if unsure. Use company homepages for URLs if unsure of article URLs.
-
-FORMAT:
-
-# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
-
-> ⚠️ 本日报基于近期公开信息整理。
-
----
-
-## 🇺🇸 美国 / United States
-
-- **[2026.06.15] Tesla — Optimus Gen 3 持续量产部署**
-  English: Tesla continues deploying Optimus Gen 3 at Fremont factory.
-  中文：特斯拉继续在弗里蒙特工厂部署Optimus Gen 3。
-  📰 [Tesla](https://www.tesla.com)
-
-(produce 3 items per region like above)
-
-## 🇨🇳 中国 / China
-(3 items)
-
-## 🇯🇵 日本 / Japan
-(3 items)
-
----
-※AI Robot News Digest | {DATE_STR}"""
-
-    for attempt in range(2):
-        try:
-            text = call_gemini(fallback_prompt, use_search=False)
-            if "- **" in text:
-                print(f"   Fallback got {text.count('- **')} items")
-                return text
-        except Exception as e:
-            print(f"   Fallback error: {e}")
-        time.sleep(3)
-
-    print("   All attempts exhausted")
-    return ""
+    parts.append(f"\n---\n※AI Robot News Digest | {DATE_STR}")
+    return "\n".join(parts)
 
 def linkify(text):
     text = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)',
@@ -223,9 +172,9 @@ def md_to_html(md):
             current_region = (flag, label)
             current_items = []
         elif s.startswith("- **"):
-            match = re.match(r'-\s*\*\*\[?(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]?\s*(.+?)\*\*', s)
+            match = re.match(r'-\s*\*\*\[?([^\]]+?)\]?\s*(.+?)\*\*', s)
             if match:
-                current_items.append({"date": match.group(1), "title": match.group(2).lstrip("] ").strip(), "lines": []})
+                current_items.append({"date": match.group(1).strip(), "title": match.group(2).lstrip("] ").strip(), "lines": []})
             else:
                 title = re.sub(r'^\-\s*\*\*(.+?)\*\*.*', r'\1', s)
                 current_items.append({"date": "", "title": title, "lines": []})
@@ -235,46 +184,28 @@ def md_to_html(md):
     if current_region and current_items:
         regions.append((current_region, current_items))
 
-    has_items = any(items for _, items in regions)
-
-    if has_items:
-        parts = []
-        for (flag, label), items in regions:
-            parts.append(f'<div class="region"><div class="region-head">{flag} {label}</div>')
-            for it in items:
-                en_line = zh_line = src_html = ""
-                for ln in it["lines"]:
-                    if ln.startswith("📰"):
-                        ln_linked = linkify(ln.replace("📰", "").strip())
-                        src_html = f'<div class="item-src">📰 {ln_linked}</div>'
-                    elif ln.lower().startswith("english:") or ln.lower().startswith("en:"):
-                        en_line = ln.split(":", 1)[1].strip()
-                    elif "中文" in ln[:4]:
-                        zh_line = re.split(r'[：:]', ln, 1)[-1].strip()
-                    elif not en_line and not any('\u4e00' <= c <= '\u9fff' for c in ln[:10]):
-                        en_line = ln
-                    elif not zh_line:
-                        zh_line = ln
-                en_html = f'<p class="item-en">{en_line}</p>' if en_line else ""
-                zh_html = f'<p class="item-zh">{zh_line}</p>' if zh_line else ""
-                parts.append(f'<div class="item"><div class="item-date">{it["date"]}</div><div class="item-title">{it["title"]}</div>{en_html}{zh_html}{src_html}</div>')
-            parts.append('</div>')
-        body = "\n".join(parts)
-    else:
-        html_lines = []
-        for line in md.split("\n"):
-            s = line.strip()
-            if not s or s.startswith("# ") or s.startswith("> "):
-                continue
-            s = linkify(s)
-            s = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
-            if s.startswith("## "):
-                html_lines.append(f'<div class="region"><div class="region-head">{s[3:]}</div></div>')
-            elif s.startswith("---"):
-                html_lines.append('<hr style="border:none;border-top:0.5px solid var(--border2);margin:16px 0">')
-            else:
-                html_lines.append(f'<p style="font-size:14px;margin:6px 0">{s}</p>')
-        body = "\n".join(html_lines)
+    parts = []
+    for (flag, label), items in regions:
+        parts.append(f'<div class="region"><div class="region-head">{flag} {label}</div>')
+        for it in items:
+            en_line = zh_line = src_html = ""
+            for ln in it["lines"]:
+                if ln.startswith("📰"):
+                    ln_linked = linkify(ln.replace("📰", "").strip())
+                    src_html = f'<div class="item-src">📰 {ln_linked}</div>'
+                elif ln.lower().startswith("english:") or ln.lower().startswith("en:"):
+                    en_line = ln.split(":", 1)[1].strip()
+                elif "中文" in ln[:4]:
+                    zh_line = re.split(r'[：:]', ln, 1)[-1].strip()
+                elif not en_line and not any('\u4e00' <= c <= '\u9fff' for c in ln[:10]):
+                    en_line = ln
+                elif not zh_line:
+                    zh_line = ln
+            en_html = f'<p class="item-en">{en_line}</p>' if en_line else ""
+            zh_html = f'<p class="item-zh">{zh_line}</p>' if zh_line else ""
+            parts.append(f'<div class="item"><div class="item-date">{it["date"]}</div><div class="item-title">{it["title"]}</div>{en_html}{zh_html}{src_html}</div>')
+        parts.append('</div>')
+    body = "\n".join(parts)
 
     if not disclaimer:
         disclaimer = "⚠ 本日报优先收录24小时内新闻，不足部分回溯至近两周。"
@@ -313,12 +244,13 @@ def push_to_github(html_content):
 if __name__ == "__main__":
     print(f"🤖 AI Robot News — {DATE_STR} ({WEEKDAY_JP})")
     print("=" * 50)
-    print("\n📝 Generating digest...")
+    print("\n📝 Generating digest (region by region)...")
     digest = generate_digest()
-    if not digest or not "- **" in digest:
-        print("❌ All generation attempts failed")
+    if not digest or digest.count("- **") < 3:
+        print("❌ Failed to generate enough content")
         sys.exit(1)
     OUTPUT_FILE.write_text(digest, encoding="utf-8")
+    print(f"\n   Total items: {digest.count('- **')}")
     print(f"   Saved: {OUTPUT_FILE}")
     print("\n🌐 Publishing...")
     try:
