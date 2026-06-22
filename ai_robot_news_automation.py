@@ -218,7 +218,7 @@ def md_to_html(md, item_count=0):
             label = re.sub(r'[🇺🇸🇨🇳🇯🇵]\s*', '', heading).strip()
             current_region, current_items = (flag, label), []
         elif s.startswith("- **"):
-            match = re.match(r'-\s*\*\*\[?([^\]]+?)\]?\s*(.+?)\*\*', s)
+            match = re.match(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]\s*(.+?)\*\*', s)
             if match: current_items.append({"date":match.group(1).strip(),"title":match.group(2).lstrip("] ").strip(),"lines":[]})
             else: current_items.append({"date":"","title":re.sub(r'^\-\s*\*\*(.+?)\*\*.*',r'\1',s),"lines":[]})
         elif current_items and not s.startswith("## ") and not s.startswith("# ") and not s.startswith("---") and s:
