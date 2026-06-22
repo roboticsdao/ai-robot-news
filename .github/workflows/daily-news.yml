@@ -30,5 +30,3 @@ jobs:
           git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md || true
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           git push || true
-      - name: Keepalive
-        uses: gautamkrishnar/keepalive-workflow@v2
