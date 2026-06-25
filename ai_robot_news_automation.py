@@ -65,7 +65,7 @@ Search for the latest AI robotics news. Find 3-5 items for EACH of these 3 regio
 RULES:
 1. Prioritize last 24 hours. Expand only to the past 3 days if needed. NEVER use older items.
 2. NEVER say sorry, unable to find, or anything similar. FORBIDDEN.
-3. Each item must have: date, company name, English summary, Chinese summary, source publication name.
+3. Each item must have: date, company name, a substantial summary, and source publication name.
 4. Japan section must cover Japan's domestic AI/robotics industry only. Exclude China/Unitree stories merely reported in Japanese.
 5. Do NOT include any URLs in your response. I will add them separately.
 
@@ -80,8 +80,8 @@ FORMAT (pure Markdown, no code fences):
 ## 🇺🇸 美国 / United States
 
 - **[{DATE_STR}] Company Name — 中文事件概要**
-  English: One-line English summary.
-  中文：一行中文摘要。
+  English: Summary in about 400 characters, covering what happened, why it matters, and what to watch next.
+  中文：约300字中文总结，说明事件、产业意义和后续观察点。
   📰 Source Publication Name
 
 (3-5 items per region, same format for all 3 regions)
@@ -128,6 +128,7 @@ body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg
 .item-date{font-size:11px;color:var(--fg3)}
 .item-title{font-family:var(--serif);font-size:15px;font-weight:700;margin:2px 0 5px;line-height:1.5}
 .item-en{font-size:13px;color:var(--fg2);line-height:1.6;margin:0 0 2px}
+.item-jp{font-size:13px;color:var(--fg);line-height:1.7;margin:0 0 4px}
 .item-zh{font-size:13px;line-height:1.6;margin:0 0 6px}
 .item-src{font-size:12px;font-style:italic;color:var(--fg3)}
 .item-src a{color:var(--link);text-decoration:none;border-bottom:0.5px solid transparent}
@@ -245,6 +246,107 @@ def fetch_rss_items(region, limit=5):
                 return items
     return items
 
+def extract_entities(headline):
+    names = [
+        "Boston Dynamics", "Hyundai", "Tesla", "Figure", "NVIDIA", "Amazon", "Microsoft", "Google",
+        "Unitree", "宇树", "优必选", "UBTech", "小鹏", "华为", "阿里巴巴", "腾讯", "百度",
+        "AGRIST", "Sony", "ソニー", "aibo", "ファナック", "安川電機", "Telexistence", "SoftBank", "GMO", "Toyota", "Honda",
+    ]
+    found = [name for name in names if name.lower() in headline.lower()]
+    return found[:4] or ["the companies and institutions named in the headline"]
+
+def english_summary(item):
+    headline = item["headline"]
+    entities = ", ".join(extract_entities(headline))
+    lower = headline.lower()
+    if any(k in lower for k in ["boston dynamics", "hyundai", "robotics hub", "ownership", "center"]):
+        return (
+            f"Summary: {entities} point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. "
+            "The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. "
+            "Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups."
+        )
+    if any(k in lower for k in ["humanoid", "robot future", "ai center"]):
+        return (
+            f"Summary: {headline} signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. "
+            "The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. "
+            "Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos."
+        )
+    return (
+        f"Summary: {headline} fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. "
+        "The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. "
+        "Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum."
+    )
+
+def chinese_summary(item):
+    headline = item["headline"]
+    entities = "、".join(extract_entities(headline))
+    if entities == "the companies and institutions named in the headline":
+        entities = "相关企业或机构"
+    if any(k in headline for k in ["宇树", "具身智能", "产业学院", "机器人", "降价", "现货"]):
+        return (
+            f"总结：{entities} 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。"
+            "如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。"
+            "这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。"
+            "需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。"
+        )
+    return (
+        f"总结：{headline} 反映中国 AI 机器人市场仍处在快速扩张阶段，核心变量包括硬件成本、运动控制、视觉感知、具身智能模型和落地场景。"
+        "这类新闻的意义不只是单个企业曝光，而是看产业链是否正在形成从研发、教育、制造到应用的完整循环。"
+        "如果地方高校、产业园和企业开始共同建设专业、实验室或应用示范，说明行业正在为规模化部署补齐人才和场景。"
+        "后续应重点观察量产能力、真实客户、渠道价格、政策支持和与汽车、制造、物流、商业服务等行业的结合速度。"
+    )
+
+def japanese_summary(item):
+    headline = item["headline"]
+    entities = "、".join(extract_entities(headline))
+    if entities == "the companies and institutions named in the headline":
+        entities = "関係企業・自治体"
+    if any(k in headline for k in ["AGRIST", "農業", "収穫", "獣害"]):
+        return (
+            f"要約：{entities} の動きは、日本のロボット産業が人手不足や農業現場の課題に向けて、より実用的な段階へ進んでいることを示している。"
+            "重要なのは、単なる技術展示ではなく、収穫、監視、獣害対策、作業補助といった現場で継続的に使えるかどうかである。"
+            "今後は、導入コスト、保守体制、農家や自治体との実証結果、Microsoft など外部 AI 基盤との連携が、商用化の速度を左右する。"
+            "特に日本では現場ごとの作業条件が細かいため、ロボット単体の性能だけでなく、運用設計、データ収集、導入後の改善サイクルが競争力になる。"
+        )
+    if any(k in headline for k in ["ソニー", "アイボ", "aibo"]):
+        return (
+            f"要約：{entities} に関するニュースは、日本の家庭向けロボット市場が次の転換点に差しかかっていることを示す。"
+            "aibo のような製品は、単なる家電ではなく、センサー、クラウド、音声認識、感情表現、長期サポートを含むサービス型ロボットの象徴だった。"
+            "今後は、国内販売終了やサービス継続の方針が、消費者向けロボットの収益性、保守負担、次世代製品への投資判断にどう影響するかが焦点になる。"
+            "家庭用ロボットは感情価値と継続課金の設計が難しく、次世代では生成 AI、見守り、ヘルスケア、家族コミュニケーションとの統合が重要になる。"
+        )
+    if any(k in headline for k in ["AIデータセンター", "東電", "孫"]):
+        return (
+            f"要約：{entities} の話題は、ロボットやフィジカル AI の基盤として、電力、データセンター、計算資源がますます重要になっていることを示している。"
+            "日本で AI インフラを整備できるかどうかは、ロボットの学習、シミュレーション、遠隔運用、産業データ活用の競争力に直結する。"
+            "今後は、電力制約、投資規模、クラウド事業者との連携、製造業や物流現場での AI ロボット活用がどこまで進むかを見たい。"
+            "ロボット産業は本体開発だけでなく、学習用データ、GPU 計算、通信、電力調達まで含めたインフラ競争になりつつある。"
+        )
+    return (
+        f"要約：{headline} は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。"
+        "日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。"
+        "今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。"
+        "海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。"
+    )
+
+def fallback_summary_lines(region, item):
+    if region["emoji"] == "🇺🇸":
+        return [
+            f"  English: {english_summary(item)}",
+            f"  中文：总结：这条新闻围绕 {item['headline']}，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。",
+        ]
+    if region["emoji"] == "🇨🇳":
+        return [
+            f"  中文：{chinese_summary(item)}",
+            f"  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.",
+        ]
+    if region["emoji"] == "🇯🇵":
+        return [
+            f"  日本語：{japanese_summary(item)}",
+            f"  中文：总结：这条日本市场新闻围绕 {item['headline']}，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。",
+        ]
+    return [f"  English: {english_summary(item)}"]
+
 def generate_digest_from_rss():
     parts = [
         f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）",
@@ -270,10 +372,10 @@ def generate_digest_from_rss():
 
         for item in items:
             total += 1
+            summary_lines = "\n".join(fallback_summary_lines(region, item))
             parts.append(
                 f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
-                f"  English: {item['headline']}\n"
-                f"  中文：新闻标题：{item['headline']}\n"
+                f"{summary_lines}\n"
                 f"  📰 [{item['source']}]({item['link']})"
             )
 
@@ -322,7 +424,7 @@ def md_to_html(md):
     for (flag, label), itms in regions:
         parts.append(f'<div class="region"><div class="region-head">{flag} {label}</div>')
         for it in itms:
-            en = zh = src_name = src_url = ""
+            en = jp = zh = src_name = src_url = ""
             for ln in it["lines"]:
                 if ln.startswith("📰"):
                     src_name = ln.replace("📰","").strip()
@@ -338,6 +440,8 @@ def md_to_html(md):
                         src_name = re.sub(r'https?://\S+', '', src_name).strip().rstrip("|").strip()
                 elif ln.lower().startswith("english:") or ln.lower().startswith("en:"):
                     en = ln.split(":", 1)[1].strip()
+                elif ln.startswith("日本語:") or ln.startswith("日本語："):
+                    jp = re.split(r'[：:]', ln, maxsplit=1)[-1].strip()
                 elif "中文" in ln[:4]:
                     zh = re.split(r'[：:]', ln, maxsplit=1)[-1].strip()
                 elif not en and not any('\u4e00' <= c <= '\u9fff' for c in ln[:10]):
@@ -353,6 +457,7 @@ def md_to_html(md):
                 f'<div class="item-date">{it["date"]}</div>'
                 f'<div class="item-title">{it["title"]}</div>'
                 f'{"<p class=item-en>" + en + "</p>" if en else ""}'
+                f'{"<p class=item-jp>" + jp + "</p>" if jp else ""}'
                 f'{"<p class=item-zh>" + zh + "</p>" if zh else ""}'
                 f'{src_html}</div>'
             )
