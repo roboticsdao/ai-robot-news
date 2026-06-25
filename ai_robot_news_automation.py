@@ -144,7 +144,7 @@ def call_gemini(prompt, use_search=True):
     if use_search:
         config_args["tools"] = [types.Tool(google_search=types.GoogleSearch())]
     response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=prompt,
+        model="gemini-2.0-flash", contents=prompt,
         config=types.GenerateContentConfig(**config_args))
     return response.text or ""
 
