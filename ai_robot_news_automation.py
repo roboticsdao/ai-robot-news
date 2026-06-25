@@ -104,7 +104,7 @@ def generate_digest():
         try:
             print(f"   Attempt {attempt+1}/3...")
             resp = client.models.generate_content(
-                model="gemini-2.0-flash",
+                model="gemini-2.0-flash-lite",
                 contents=PROMPT,
                 config=types.GenerateContentConfig(
                     tools=[types.Tool(google_search=types.GoogleSearch())],
@@ -135,7 +135,7 @@ def generate_digest():
     print("   Fallback (no search)...")
     try:
         resp = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-2.0-flash-lite",
             contents=PROMPT.replace("Search for the latest", "Based on your knowledge, compile recent"),
             config=types.GenerateContentConfig(temperature=0.3),
         )
