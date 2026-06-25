@@ -40,10 +40,21 @@ REGIONS = [
     {
         "emoji": "🇯🇵",
         "label": "日本 / Japan",
-        "query": '("AI robotics" OR "humanoid robot" OR ロボット OR 机器人) (Japan OR 日本 OR Honda OR Fanuc OR Telexistence)',
+        "query": "日本 ロボット AI",
+        "queries": [
+            "日本 ロボット AI",
+            "国内 ロボット AI",
+            "日本 ヒューマノイド ロボット",
+            "日本 フィジカルAI ロボット",
+            "ソニー アイボ ロボット",
+            "AGRIST 収穫ロボット AI",
+            "ファナック ロボット AI",
+            "安川電機 ロボット AI",
+        ],
         "hl": "ja",
         "gl": "JP",
         "ceid": "JP:ja",
+        "exclude_terms": ["中国", "China", "中国製", "中国経済", "人民網", "Unitree", "ユニツリー", "宇樹", "宇树", "매일경제", "디지털투데이"],
     },
 ]
 
@@ -55,7 +66,8 @@ RULES:
 1. Prioritize last 24 hours. Expand only to the past 3 days if needed. NEVER use older items.
 2. NEVER say sorry, unable to find, or anything similar. FORBIDDEN.
 3. Each item must have: date, company name, English summary, Chinese summary, source publication name.
-4. Do NOT include any URLs in your response. I will add them separately.
+4. Japan section must cover Japan's domestic AI/robotics industry only. Exclude China/Unitree stories merely reported in Japanese.
+5. Do NOT include any URLs in your response. I will add them separately.
 
 FORMAT (pure Markdown, no code fences):
 
@@ -193,38 +205,44 @@ def has_recent_content(text):
     return all((parse_item_date(d) or TODAY.date()) >= CUTOFF_DATE for d in dates)
 
 def fetch_rss_items(region, limit=5):
-    params = {
-        "q": f'{region["query"]} when:3d',
-        "hl": region["hl"],
-        "gl": region["gl"],
-        "ceid": region["ceid"],
-    }
-    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=20) as response:
-        xml = response.read()
-
-    root = ET.fromstring(xml)
     items = []
     seen = set()
-    for node in root.findall("./channel/item"):
-        raw_title = node.findtext("title", "")
-        link = node.findtext("link", "")
-        published = node.findtext("pubDate", "")
-        headline, source = parse_google_news_title(raw_title)
-        if not headline or headline.lower() in seen:
-            continue
-        seen.add(headline.lower())
-        try:
-            dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
-            date = dt.strftime("%Y.%m.%d")
-        except Exception:
-            date = DATE_STR
-        if parse_item_date(date) < CUTOFF_DATE:
-            continue
-        items.append({"date": date, "headline": headline, "source": source, "link": link})
-        if len(items) >= limit:
-            break
+    exclude_terms = region.get("exclude_terms", [])
+    queries = region.get("queries") or [region["query"]]
+    for query in queries:
+        params = {
+            "q": f"{query} when:3d -中国 -China -Unitree -ユニツリー",
+            "hl": region["hl"],
+            "gl": region["gl"],
+            "ceid": region["ceid"],
+        }
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=20) as response:
+            xml = response.read()
+
+        root = ET.fromstring(xml)
+        for node in root.findall("./channel/item"):
+            raw_title = node.findtext("title", "")
+            link = node.findtext("link", "")
+            published = node.findtext("pubDate", "")
+            headline, source = parse_google_news_title(raw_title)
+            if not headline or headline.lower() in seen:
+                continue
+            combined = f"{headline} {source}"
+            if any(term.lower() in combined.lower() for term in exclude_terms):
+                continue
+            seen.add(headline.lower())
+            try:
+                dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
+                date = dt.strftime("%Y.%m.%d")
+            except Exception:
+                date = DATE_STR
+            if parse_item_date(date) < CUTOFF_DATE:
+                continue
+            items.append({"date": date, "headline": headline, "source": source, "link": link})
+            if len(items) >= limit:
+                return items
     return items
 
 def generate_digest_from_rss():
