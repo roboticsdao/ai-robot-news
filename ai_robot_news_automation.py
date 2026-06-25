@@ -8,6 +8,7 @@ LOCAL_TZ = timezone(timedelta(hours=9))
 TODAY = datetime.now(LOCAL_TZ)
 DATE_STR = TODAY.strftime("%Y.%m.%d")
 TIME_STR = TODAY.strftime("%H:%M")
+CUTOFF_DATE = (TODAY - timedelta(days=3)).date()
 WEEKDAY_MAP = {0:"月",1:"火",2:"水",3:"木",4:"金",5:"土",6:"日"}
 WEEKDAY_EN = TODAY.strftime("%A")
 WEEKDAY_JP = WEEKDAY_MAP[TODAY.weekday()]
@@ -51,7 +52,7 @@ PROMPT = f"""You are an AI robotics industry news editor. Today is {DATE_STR} ({
 Search for the latest AI robotics news. Find 3-5 items for EACH of these 3 regions: United States, China, Japan. Total 9-15 items.
 
 RULES:
-1. Prioritize last 24 hours. Expand to 2 weeks if needed. NEVER return zero items.
+1. Prioritize last 24 hours. Expand only to the past 3 days if needed. NEVER use older items.
 2. NEVER say sorry, unable to find, or anything similar. FORBIDDEN.
 3. Each item must have: date, company name, English summary, Chinese summary, source publication name.
 4. Do NOT include any URLs in your response. I will add them separately.
@@ -60,7 +61,7 @@ FORMAT (pure Markdown, no code fences):
 
 # 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）
 
-> ⚠️ 本日报优先收录24小时内新闻，不足部分回溯至近两周。
+> ⚠️ 本日报优先收录24小时内新闻，不足部分仅回溯至近3天。
 
 ---
 
@@ -144,10 +145,10 @@ def generate_digest():
                 ),
             )
             text = resp.text or ""
-            if "- **[" in text and text.count("- **") >= 6:
+            if has_recent_content(text) and text.count("- **") >= 6:
                 print(f"   Got {text.count('- **')} items")
                 return text
-            if "- **" in text and text.count("- **") >= 3:
+            if has_recent_content(text) and text.count("- **") >= 3:
                 print(f"   Got {text.count('- **')} items (partial)")
                 return text
             print(f"   Only {text.count('- **')} items, retrying...")
@@ -177,9 +178,23 @@ def parse_google_news_title(title):
         return headline.strip(), source.strip()
     return title, "Google News"
 
+def parse_item_date(value):
+    for fmt in ("%Y.%m.%d", "%Y-%m-%d", "%Y/%m/%d"):
+        try:
+            return datetime.strptime(value, fmt).date()
+        except ValueError:
+            pass
+    return None
+
+def has_recent_content(text):
+    dates = re.findall(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]', text or "")
+    if not dates:
+        return False
+    return all((parse_item_date(d) or TODAY.date()) >= CUTOFF_DATE for d in dates)
+
 def fetch_rss_items(region, limit=5):
     params = {
-        "q": f'{region["query"]} when:14d',
+        "q": f'{region["query"]} when:3d',
         "hl": region["hl"],
         "gl": region["gl"],
         "ceid": region["ceid"],
@@ -205,6 +220,8 @@ def fetch_rss_items(region, limit=5):
             date = dt.strftime("%Y.%m.%d")
         except Exception:
             date = DATE_STR
+        if parse_item_date(date) < CUTOFF_DATE:
+            continue
         items.append({"date": date, "headline": headline, "source": source, "link": link})
         if len(items) >= limit:
             break
@@ -214,7 +231,7 @@ def generate_digest_from_rss():
     parts = [
         f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）",
         "",
-        "> ⚠️ 本日报使用 Google News RSS 自动收录近两周 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。",
+        "> ⚠️ 本日报使用 Google News RSS 自动收录近3天 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。",
         "",
         "---",
     ]
