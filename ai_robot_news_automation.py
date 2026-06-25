@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import os, subprocess, re, sys, time, json, urllib.parse
+import html
+import os, subprocess, re, sys, time, json, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -17,6 +18,33 @@ OUTPUT_FILE = OUTPUT_DIR / f"AI_Robot_News_{TODAY.strftime('%Y%m%d')}.md"
 HISTORY_FILE = OUTPUT_DIR / "history.json"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY","")
 PAGE_URL = "https://roboticsdao.github.io/ai-robot-news/latest.html"
+
+REGIONS = [
+    {
+        "emoji": "🇺🇸",
+        "label": "美国 / United States",
+        "query": '("AI robotics" OR "humanoid robot" OR "robotics startup") (US OR America OR Tesla OR Figure OR Boston Dynamics)',
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en",
+    },
+    {
+        "emoji": "🇨🇳",
+        "label": "中国 / China",
+        "query": '("AI robotics" OR "humanoid robot" OR 机器人 OR 具身智能) (China OR 中国 OR Unitree OR 宇树 OR UBTech OR 优必选)',
+        "hl": "zh-CN",
+        "gl": "CN",
+        "ceid": "CN:zh-Hans",
+    },
+    {
+        "emoji": "🇯🇵",
+        "label": "日本 / Japan",
+        "query": '("AI robotics" OR "humanoid robot" OR ロボット OR 机器人) (Japan OR 日本 OR Honda OR Fanuc OR Telexistence)',
+        "hl": "ja",
+        "gl": "JP",
+        "ceid": "JP:ja",
+    },
+]
 
 PROMPT = f"""You are an AI robotics industry news editor. Today is {DATE_STR} ({WEEKDAY_EN}).
 
@@ -97,6 +125,10 @@ body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg
 HISTORY_JS = '<script>(function(){var B=window.location.href.replace(/\\/[^/]*$/,""),btn=document.getElementById("historyBtn"),panel=document.getElementById("historyPanel"),list=document.getElementById("historyList"),H=[],hid=JSON.parse(localStorage.getItem("hidden_dates")||"[]");btn.onclick=function(e){e.stopPropagation();panel.classList.toggle("open");if(panel.classList.contains("open"))load()};document.onclick=function(){panel.classList.remove("open")};panel.onclick=function(e){e.stopPropagation()};function load(){fetch(B+"/history.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){H=d.filter(function(x){return hid.indexOf(x.id)===-1});render()}).catch(function(){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\'})}function render(){if(!H.length){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\';return}var c=window.location.pathname.split("/").pop();list.innerHTML=H.map(function(h){var ic=(c===h.file||(c==="latest.html"&&h===H[0]));return\'<div class="history-item \'+(ic?"history-current":"")+\'" data-file="\'+h.file+\'"><div><span class="date">\'+h.date+\'</span><span class="time">\'+h.time+\'</span></div><div style="display:flex;align-items:center;gap:6px"><span class="items">\'+h.count+\' items</span><button class="del-btn" data-id="\'+h.id+\'">✕</button></div></div>\'}).join("");list.querySelectorAll(".history-item").forEach(function(el){el.onclick=function(){window.location.href=B+"/"+this.dataset.file}});list.querySelectorAll(".del-btn").forEach(function(el){el.onclick=function(e){e.stopPropagation();var id=this.dataset.id;hid.push(id);localStorage.setItem("hidden_dates",JSON.stringify(hid));H=H.filter(function(h){return h.id!==id});render()}})}})();</script>'
 
 def generate_digest():
+    if not GEMINI_API_KEY:
+        print("   GEMINI_API_KEY is missing; using Google News RSS fallback")
+        return generate_digest_from_rss()
+
     from google import genai
     from google.genai import types
     client = genai.Client(api_key=GEMINI_API_KEY)
@@ -131,18 +163,87 @@ def generate_digest():
                 continue
             print(f"   Error: {err[:100]}")
         time.sleep(5)
-    # Fallback without search
-    print("   Fallback (no search)...")
-    try:
-        resp = client.models.generate_content(
-            model="gemini-2.0-flash-lite",
-            contents=PROMPT.replace("Search for the latest", "Based on your knowledge, compile recent"),
-            config=types.GenerateContentConfig(temperature=0.3),
-        )
-        return resp.text or ""
-    except Exception as e:
-        print(f"   Fallback error: {e}")
-    return ""
+    print("   Gemini did not return enough grounded items; using Google News RSS fallback")
+    return generate_digest_from_rss()
+
+def strip_html(value):
+    value = re.sub(r"<[^>]+>", " ", value or "")
+    return html.unescape(re.sub(r"\s+", " ", value)).strip()
+
+def parse_google_news_title(title):
+    title = strip_html(title)
+    if " - " in title:
+        headline, source = title.rsplit(" - ", 1)
+        return headline.strip(), source.strip()
+    return title, "Google News"
+
+def fetch_rss_items(region, limit=5):
+    params = {
+        "q": f'{region["query"]} when:14d',
+        "hl": region["hl"],
+        "gl": region["gl"],
+        "ceid": region["ceid"],
+    }
+    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as response:
+        xml = response.read()
+
+    root = ET.fromstring(xml)
+    items = []
+    seen = set()
+    for node in root.findall("./channel/item"):
+        raw_title = node.findtext("title", "")
+        link = node.findtext("link", "")
+        published = node.findtext("pubDate", "")
+        headline, source = parse_google_news_title(raw_title)
+        if not headline or headline.lower() in seen:
+            continue
+        seen.add(headline.lower())
+        try:
+            dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
+            date = dt.strftime("%Y.%m.%d")
+        except Exception:
+            date = DATE_STR
+        items.append({"date": date, "headline": headline, "source": source, "link": link})
+        if len(items) >= limit:
+            break
+    return items
+
+def generate_digest_from_rss():
+    parts = [
+        f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）",
+        "",
+        "> ⚠️ 本日报使用 Google News RSS 自动收录近两周 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。",
+        "",
+        "---",
+    ]
+
+    total = 0
+    for region in REGIONS:
+        print(f"   RSS fallback: {region['emoji']} {region['label']}")
+        try:
+            items = fetch_rss_items(region)
+        except Exception as e:
+            print(f"   RSS error for {region['label']}: {e}")
+            items = []
+
+        parts.append(f"\n## {region['emoji']} {region['label']}\n")
+        if not items:
+            parts.append(f"- **[{DATE_STR}] No RSS result — 暂无可验证 RSS 新闻**\n  English: Google News RSS returned no recent result for this region.\n  中文：本地区暂未抓取到可验证的 Google News RSS 结果。\n  📰 Google News")
+            continue
+
+        for item in items:
+            total += 1
+            parts.append(
+                f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
+                f"  English: {item['headline']}\n"
+                f"  中文：新闻标题：{item['headline']}\n"
+                f"  📰 [{item['source']}]({item['link']})"
+            )
+
+    parts.append(f"\n---\n※AI Robot News Digest | {DATE_STR} | RSS fallback items: {total}")
+    return "\n\n".join(parts)
 
 def make_search_link(title):
     clean = re.sub(r'\[\d{4}[\.\-/]\d{2}[\.\-/]\d{2}\]\s*', '', title)
@@ -186,12 +287,20 @@ def md_to_html(md):
     for (flag, label), itms in regions:
         parts.append(f'<div class="region"><div class="region-head">{flag} {label}</div>')
         for it in itms:
-            en = zh = src_name = ""
+            en = zh = src_name = src_url = ""
             for ln in it["lines"]:
                 if ln.startswith("📰"):
                     src_name = ln.replace("📰","").strip()
-                    src_name = re.sub(r'\[([^\]]+)\].*', r'\1', src_name)
-                    src_name = re.sub(r'https?://\S+', '', src_name).strip().rstrip("|").strip()
+                    m = re.search(r'\[([^\]]+)\]\((https?://[^\)]+)\)', src_name)
+                    if m:
+                        src_name = m.group(1).strip()
+                        src_url = m.group(2).strip()
+                    else:
+                        url_m = re.search(r'(https?://\S+)', src_name)
+                        if url_m:
+                            src_url = url_m.group(1).strip()
+                        src_name = re.sub(r'\[([^\]]+)\].*', r'\1', src_name)
+                        src_name = re.sub(r'https?://\S+', '', src_name).strip().rstrip("|").strip()
                 elif ln.lower().startswith("english:") or ln.lower().startswith("en:"):
                     en = ln.split(":", 1)[1].strip()
                 elif "中文" in ln[:4]:
@@ -200,7 +309,7 @@ def md_to_html(md):
                     en = ln
                 elif not zh:
                     zh = ln
-            search_url = make_search_link(it["title"])
+            search_url = src_url or make_search_link(it["title"])
             if not src_name:
                 src_name = "Google News"
             src_html = f'<div class="item-src">📰 <a href="{search_url}" target="_blank">{src_name} ↗</a></div>' if search_url else f'<div class="item-src">📰 {src_name}</div>'
