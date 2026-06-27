@@ -32,10 +32,10 @@
   中文：总结：这条新闻围绕 Hyundai eyes full ownership of Boston Dynamics，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWdHp1UlRLWl9ZUzJHSGY2VlRIOUFaNVZKRTcySlc2RHBScldncHpDb3Uyc1A0cDhzMENHRzJGaURCU3dtT3dqZkhtejJlMXZaWHNFR0VBbw?oc=5)
 
-- **[2026.06.25] Barron's — A Pure Play on Humanoid Robots Is Coming to the Nasdaq**
-  English: Summary: A Pure Play on Humanoid Robots Is Coming to the Nasdaq signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
-  中文：总结：这条新闻围绕 A Pure Play on Humanoid Robots Is Coming to the Nasdaq，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [Barron's](https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0lhYm5XeTk1SDFfT1JVWlc3NDh6ZFpEdGN6bWV2UnJaaGx5MDlxTlU2ek80bDVqcHdLYWlzSzZTLUVVbGRVaG85T0ZTTmlrakJwU3BKX2tpazdSRjFxdTlMLXhDMjl4a2ZyckJDNS1TSjVTOTFIbFJkVW9GakVVeEd5M3FIN0htT3c?oc=5)
+- **[2026.06.24] The Business Journals — Boston Dynamics plans $100 million, 1,250-job Waltham expansion**
+  English: Summary: Boston Dynamics point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Boston Dynamics plans $100 million, 1,250-job Waltham expansion，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [The Business Journals](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWppZEtNUEJTR1Mwd1JrdUxuX1ZfeUMwWXpMZ0dPLXJ2Vm9MNVNtVllIUWlxTHo2bzNPbS1NeWNFY25ZdU5FX0dkVmVDWktnWjF1eVRkZWpmYkk5QXBqOERxc0NjTkd1MHZObFBRbGdlTlJTbFc1SXJNdTQ3T1pERzlhX3FwTGJCMVd2TXZaSUNQRTFkb01lbEdxNGQ1TXZ4RmpJT3ZMYkdMUQ?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -46,11 +46,6 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE93QXdkSlNjY1ZaY3dmZGZ4OTFmT0FYSzZSYVBWalRPbno1eTZUNHRBUDAtNmZWOXJpeVlKdDY0WUI3cGl0RndVekI2N1pTVWp6azFmVkFmMlBVT1o5bXl1ZHlR?oc=5)
 
-- **[2026.06.26] 搜狐网 — 陪伴类机器人卖了5000台，优必选能松口气了？**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [搜狐网](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUtJUlEyTnRJQ2ZuN0Z1XzFENDRDUWx3Yk9tbmpPdTdkNFRkTWJYOWgxZWFaUVVlemd0NzNmZk9maWlpRnJMMHhXeU5vR0ZHZnFlR0JIcWVRT3doYW1CQW9kd0ZUbHBZX1luVXJ5S0RjMjBVY0pvdC1zTmJqeE11al82RjBpZmRVT19B?oc=5)
-
 - **[2026.06.26] 奥一网 — 宇树科技具身智能产业学院落户广东岭南职院**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
@@ -60,6 +55,11 @@
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [广州日报新花城](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUlWVlVYeHVTa3pTWkJUNEU2VEdReFM3UFpuczVlMXFhVGN1SVotc19tUGwtdDVFV3Q2RThzaFNVeDlvM1loMWt4bVEwcnRhY1dqWTVmLXlXUWVLLUwxRHdQLU84a0hSWTl2bURJLUVRbmluVVFNb1VOT0VnblJRdEVuRUI?oc=5)
+
+- **[2026.06.26] 搜狐网 — 优必选发布轮式工业人形机器人Cruzr Y1，展示料箱拆垛、码垛**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUVxUk1vWVd0QXhXSDZLRmJXRDlDbFhxV2JBTjNDeTBGSDRmUUFHZDNKUi1UNWZBc0NxSTN1TF9KbGpMV0RhNmh5c190SmpxWENXSUNKMHNzVEk0RXBzOWNNQjlpcmtrWE5QNEhMTzgtYXZDRDcwSEV2UGNpZDF3NnFGcElQbDJJ?oc=5)
 
 - **[2026.06.25] 财富号 — 宇树机器人大降价#宇树科技#机器人#人形机器人**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
