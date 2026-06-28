@@ -61,10 +61,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [奥一网](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NamRyZzNKNUJzVWxwS0hnY1MxVmU0MEgxZnhRbmN1SEFsUFB0X0NmRWZYNGVJWXEtYXU3NVBRRTdIbi1ldXhCaDd5dTcxWTdsNGZqV0YxcmdNU1IzYVRMcU1GVGhkQQ?oc=5)
 
-- **[2026.06.26] 凤凰网科技 — 优必选发布轮式工业人形机器人Cruzr Y1，展示料箱拆垛、码垛**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+- **[2026.06.26] 广州日报新花城 — 广州应用科技学院携手宇树科技共建具身智能产业学院**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ld0kwZ2gxZF9NS1BDMnhYOWtPdjJsLUxUaDlHVEFETjdGNVBNM295c0FSTDZjNERSN29fdEVvVTg0dmx0S1g1M2dadnE?oc=5)
+  📰 [广州日报新花城](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUlWVlVYeHVTa3pTWkJUNEU2VEdReFM3UFpuczVlMXFhVGN1SVotc19tUGwtdDVFV3Q2RThzaFNVeDlvM1loMWt4bVEwcnRhY1dqWTVmLXlXUWVLLUwxRHdQLU84a0hSWTl2bURJLUVRbmluVVFNb1VOT0VnblJRdEVuRUI?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
