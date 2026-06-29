@@ -90,10 +90,10 @@
   中文：总结：这条日本市场新闻围绕 Ugo、AIロボットによる案内業務実証 ビックカメラで，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [電波タイムズ](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sUXFZa25faWlMcG9BRTdPRUNiLTJFQzBQaDFpSG91ZjRBMGlMVkZxbjd3VmFxZXRQWlN5azdKWlpIMXFuUGFidXRsaWpuZ3VNTnQ0RXdRcWNKTm8xckZPOUE0S2ltQQ?oc=5)
 
-- **[2026.06.28] Yahoo!ニュース — 【日本株】2026年・夏の「おすすめ新興株」2銘柄！格安スーパーを展開する「トライアルHD」、装着型ロボットスーツが海外でも伸びる「CYBERDYNE」に注目！（ダイヤモンド・ザイ）**
-  日本語：要約：【日本株】2026年・夏の「おすすめ新興株」2銘柄！格安スーパーを展開する「トライアルHD」、装着型ロボットスーツが海外でも伸びる「CYBERDYNE」に注目！（ダイヤモンド・ザイ） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 【日本株】2026年・夏の「おすすめ新興株」2銘柄！格安スーパーを展開する「トライアルHD」、装着型ロボットスーツが海外でも伸びる「CYBERDYNE」に注目！（ダイヤモンド・ザイ），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBPc1lnSEhfUmlyeTJlQ2VRZVdqUDYycVU4T2VaLWU2RURzZXJoME1SSkZGQjVFb0dDZS1DVTRjOEI3WEdhQXR1WDhlVWxPTkIwNTNnNkd1R1NTQTdyZTROeWMwXzZscVVOeXJBanVYdTRkQ0FhQ3FSSVJuMHBRNGc?oc=5)
+- **[2026.06.29] イザ！ — 衰退か、AIネイティブ経営による生存か。労働人口激減時代に日本企業が取るべき道**
+  日本語：要約：衰退か、AIネイティブ経営による生存か。労働人口激減時代に日本企業が取るべき道 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 衰退か、AIネイティブ経営による生存か。労働人口激減時代に日本企業が取るべき道，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [イザ！](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZOGxaTFBWeV82SGlRYjBKeEZoWlFYWm1RQnVLWHFRdnZac2xOcUc3aVdQbmxHRmk5SE9lN0FJbFJSUUlPcUQ3UWlDUWpsMk81OTVYT2l3eS0yV193MmNfU3A4S3JlVmQ2bEFlN3hkbkIxb3ZIWUMwNnVB?oc=5)
 
 
 ---
