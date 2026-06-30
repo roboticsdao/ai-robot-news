@@ -36,10 +36,10 @@
 ## 🇨🇳 中国 / China
 
 
-- **[2026.06.29] 21财经 — 优必选涨超5% 资金等待超仿生人形机器人发售**
+- **[2026.06.30] 21财经 — 优必选涨超5% 资金等待超仿生人形机器人发售**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcU1qOXQwMlo1ZDhYQ2lQenBWb3Vnam9EWDc5WEV2eXA0M21SNGI1VlluTm5yMlVyd1U1dEJSenZMcktpa3FpdmxYZlN4MXZJcktRSmVscjZhYUxLMXJhT3JRQmtJaWxxTW1HUlVoVGhwZVhnUVJQUVF2TW5iZW1rWFVqTFJOWS1lUWdNaQ?oc=5)
+  📰 [21财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0hnVTJLVjZTdTFWU3JJcVU1eURyRGdlZkVfZnNBa2UtY29DcTRidXNSczE2NzYtVXNJeUlLcWpITFk3bzF0NWN3S05GaHhxaV96ak96Zlc4QjQ2N2tPaVVtcEQwWEF5SExTb3k5WWVtWUU4bzJVLUFPNWtXTF95dVEzaXdva3ppdFRJcGFsYzdhaWJk?oc=5)
 
 - **[2026.06.29] 搜狐网 — 20天预定量破5000台：优必选真人仿生机器人明天正式发布**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -65,6 +65,16 @@
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.06.30] MONOist — 現場に近づくフィジカルAIとヒューマノイド、ロボットテクノロジージャパン2026**
+  日本語：要約：現場に近づくフィジカルAIとヒューマノイド、ロボットテクノロジージャパン2026 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 現場に近づくフィジカルAIとヒューマノイド、ロボットテクノロジージャパン2026，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [MONOist](https://news.google.com/rss/articles/CBMickFVX3lxTFBiT0VkYzFHc2l5WElzc3BrTXg5ZURMRkp2NHpuYy1ncnBKZTNNMFpsMUNoYUVYNkhNMUZDZkVsYmhZb05zZzh5dlV2all5Um5lYU5ZUTZSRlNodHg0VHBxOVhVaVB4R21Bcy1WRjljUGtVQQ?oc=5)
+
+- **[2026.06.30] Yahoo!ニュース — 国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞）**
+  日本語：要約：国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jX1BqMjdoT2VOUW9ibkhJdWtvYW5QMjNmSzg5ZC05cUtiUjlrZmp1bVZLcnpPR2d4WFNQY1RhTW9lQ2JMeEFDMUdwamlCeVFETS1ZTWZuUmRNd0VzamhYRy05WVhZZXVFZEJ1aThPQXVIVzloNzZnN1VNSU10Rm8?oc=5)
+
 - **[2026.06.30] 静岡新聞DIGITAL — 磨こう！ マネー力＝注目株 機械、ロボットを制御 現場効率化にＡＩ技術 静岡東海証券執行役員営業推進部長 松本直士氏**
   日本語：要約：磨こう！ マネー力＝注目株 機械、ロボットを制御 現場効率化にＡＩ技術 静岡東海証券執行役員営業推進部長 松本直士氏 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 磨こう！ マネー力＝注目株 機械、ロボットを制御 現場効率化にＡＩ技術 静岡東海証券執行役員営業推進部長 松本直士氏，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
@@ -79,16 +89,6 @@
   日本語：要約：鴻海、シャープと組み日本の主権AIに参入 ソフトバンク国産モデルに40社超が参加へ は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 鴻海、シャープと組み日本の主権AIに参入 ソフトバンク国産モデルに40社超が参加へ，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [finance.biggo.jp](https://news.google.com/rss/articles/CBMidEFVX3lxTE9ubHl0VlJiRmR5c3h5d2o2YVdHN25CSFJ4RTJLNWwtT2NDaDRxdXVSeUFaNjVqSFBHaVU1RV9FVE94OXluVGUtVUVUeHRTanJhMDZhWnN3c212WFZYTS12ZjN0bDlnN1ZuYU1QQU9McW9Kb1RJ?oc=5)
-
-- **[2026.06.30] Excite エキサイト — 日本ロボティクス市場、2034年までに33億米ドルに達する見込み | CAGR 1.71%で成長**
-  日本語：要約：日本ロボティクス市場、2034年までに33億米ドルに達する見込み | CAGR 1.71%で成長 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 日本ロボティクス市場、2034年までに33億米ドルに達する見込み | CAGR 1.71%で成長，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Excite エキサイト](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUXk4MGFRNDE2VnNFb211NEZiX3FZYTduM2Nld0o5NlVTRWtwTy0xUk55R0FYRTZBcnlHTGdDVlphTjFCbTU2RkpxUlRYeUJOcmtISHdVUXppR3RiU0ozVXlHaXpRZGN1T2c?oc=5)
-
-- **[2026.06.29] Mshale — 【Geminiの**
-  日本語：要約：【Geminiの は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 【Geminiの，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Mshale](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sS1lLb1p5R2M0anBPc2pwSEdENnZVd1FXaVgzT2lKX2gtQnF3aXd6SG5qTUxTdmdwWkZjc2xobnRCaDgtUlFBMmhFaENHUjVPaVdBSTFlSU5KdjJTTVBOdw?oc=5)
 
 
 ---
