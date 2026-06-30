@@ -1,0 +1,100 @@
+# 🤖 AI Robot News | 2026.07.01（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报使用 Google News RSS 自动收录近3天 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.06.30] Ars Technica — South Korea to spend $1T on more memory chip production and humanoid robots**
+  English: Summary: South Korea to spend $1T on more memory chip production and humanoid robots signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 South Korea to spend $1T on more memory chip production and humanoid robots，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNU9hRmtBOEQ3S2F4RGRES1JXaW84ODNUQlpGQ2tFckZnT2RsSE5ubzdJbHQ5eVRvZXVVdmlSQmVaOHdNRGpRRGlFOTJnSGVmUm13M2FaY0o5UjVVWkpSSXlTZFFDMUxRd0tNajg1b1J1R1FoWnFqQnEtbXduS08xRTRfeGlWajVmeFJPaV8xTTdVTHIzR2owTk42UWRQODZ3TDdzeFpub3BlLVhBbWhN?oc=5)
+
+- **[2026.06.30] GlobeNewswire — Welcome to Robot Park: Where Apptronik’s Apollo Goes to**
+  English: Summary: Welcome to Robot Park: Where Apptronik’s Apollo Goes to fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 Welcome to Robot Park: Where Apptronik’s Apollo Goes to，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [GlobeNewswire](https://news.google.com/rss/articles/CBMimwJBVV95cUxNOUJmX2IzeE1wRUVyaF9LejZYMUxsellReW4tbVpQVmI1MmFab1YxYVJHSlcwdHI0NGNwbVdLNk5FU3RLX09wSzRIaTlxZ2NicDAtQk9sOGRvRmhnZFN0RXF6eU5uNkJ0bWFQOXU5Y0FQVkFiSndPNVhweXVGcXA2blFqeHcwTWNYUTloVVR1c2ludUxWcXlDeThDajUyVjJqWC1qRGhPaEVZZ196ZjRIMDRPVDREWHppUVBybUlSeFRwRHpJMEUxVjM4eTNJVVVHSDlaRDBFakJrNldrbndDN1lHTEN2UllLU2UxSTRXZDN3cGNoSGRscEtoSVdFUEFTOUNMUzhaRFppbWpCMl93S3pCdnZlMFBrS0lV?oc=5)
+
+- **[2026.06.30] A3 Association for Advancing Automation — Industry Insights: Apptronik Launches New Humanoid, Physical AI Warehouse**
+  English: Summary: Industry Insights: Apptronik Launches New Humanoid, Physical AI Warehouse signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Industry Insights: Apptronik Launches New Humanoid, Physical AI Warehouse，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVoyYzFTV0Jla2lQOHVGNUNLUHJKdm9OYUJvN0l6LWxURURpM0QxTXdPQnVxbnFLdnJqTU91d0hHT0ZsQnZIT0dMOC1aX1RyS0ZaNU1UUjFVXzhQNmp2aHQ2c29uX2Z3b19TeUYtcVBMbjZyTWRPOUV3Ul9oX0xxaEVoZVFsUWs3MjZzZHpLMmlxWG9ibUlkU0dxbzd2MUQyTjFrOVU3cWlicHVWYm5HYW5NcTVDQ05fbktpOGZmdGY?oc=5)
+
+- **[2026.06.30] 아시아경제 — Woori Asset Management Launches 'Physical AI BIG2 Plus' Fund Featuring Tesla and Hyundai Motor Company**
+  English: Summary: Hyundai, Tesla point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Woori Asset Management Launches 'Physical AI BIG2 Plus' Fund Featuring Tesla and Hyundai Motor Company，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [아시아경제](https://news.google.com/rss/articles/CBMickFVX3lxTFBhd2llZFlYNUpzMlpjTURsUDZoOGlTUElwcHhDRXJBb1RGTXNLeFMtY2toS2NtYjZMUlVOSWJzWUdRRHJSa1A3X29od0lqd1poMnRFQXlDY3RsZVE0ZEZ5aEVfR2hUU0dDTEhvM3IwaGtNQQ?oc=5)
+
+- **[2026.06.28] 조선일보 — Soccer's Offside Line: AI and Robots' Unconquered Challenge**
+  English: Summary: Soccer's Offside Line: AI and Robots' Unconquered Challenge fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 Soccer's Offside Line: AI and Robots' Unconquered Challenge，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [조선일보](https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVltU1BHT0FZMlg4ZWttT2dDa1JBQXRxRzkwUlVmTEhIeUowbUE4TjJPNUxvOXZCMXBXak41UWFfeXZWTThxSWJNR3BnRzdyMzA4cEZmeWdTZzEtemI4WER0YXhkQWctaFU2V3V4S3ZWY0tLcXNSMjR3Q2FmMFNlWTdCanNPNjg?oc=5)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.06.30] 新京报 — 仿生人形机器人上新，优必选发布男女两版产品**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [新京报](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZTjVxYjhEWUl1WHZOWVZJMXRKRFA0VXhXbE9INlBIRzFNWjBidTgxWWpHUzh2OUN6Z0JKZVltVllBeDNnZlJ3b1VfSG9pdmt4RWxBVEpiU2RpSUNsRThrWXpwQnQ?oc=5)
+
+- **[2026.06.30] thepaper.cn — 优必选发布超仿生机器人U1系列，顶配男版99万，女版88万**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNEduaGNlblJvM1M0VWEzcXJ2REFUYkxGSVd0WG5UbW1LU3YwV3ROT2xVbnF3d25lenlVMTkwMlBaSVo2ZkgtcXQ1b1hXMTN5cWluNlNPOXJWZ1h6MVE?oc=5)
+
+- **[2026.07.01] 中金在线 — 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [中金在线](https://news.google.com/rss/articles/CBMickFVX3lxTE5hMUlVOHI5TU41dmhOWU5PbkNOcnJtTFR1OWxhYkRtcVVhUlludEV6VklzOTdLSW9BSmc1MHB5Zkd0X1k5TU5ueTdRWFlTdFgzejFKc0FJdDNOZW9EeFJROHdFTFp2Vkg0bzVpUVNiS2czZw?oc=5)
+
+- **[2026.07.01] 新浪财经 — 超仿生人形机器人来了！售价11.98万起，网友不淡定了｜科技观察**
+  中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxOazJJVFFtVklLVlYyNWFTcVM2RmxMc0dMYnhzcmN2OUVoaWxXenJDLUJmQ0F5SG9lMTFoQkhpQ1NTNGc5NTMwQUQ4YVFjOXM3Q25GV2k4VkdTQl8wazh3Nk80eUtraWxQaUJVMU9lU2x3VlhGa2xVSnp4MkhIb1Y3VWJhYk1ILURhUnRlNGU5Rm9BdXJvWkkxT3NyMDBua1Z0V0MtWS1SNA?oc=5)
+
+- **[2026.06.30] 财富号 — 优必选发布首款仿生机器人？机器人新品加速落地，事关这些股！绿的谐波，领益智造，三花智控.....**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [财富号](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVWtCZU1rTktNcVcwWWhCTjhqRE1DMTVFeHFGR2FTLVktNHdqYzhKbmF6NVNxTWRSNGg5XzhJeWhMbV9ZNm5qWEdMb25VLVpLV1dyOEZXZlNJdUl1cFFjeThTZjN3bGY4NXhYbmxCamtCRTMzZFF6N0ZCS0dDZW1PSmdSdFFmNk1mY2dYSFB4aFMyVmQ5QkZNQk9WcjdTLXJDRHlQbDcwdTNfN2hZU2xhMnNfanRjZWdmNlpjVFRZTnQwc3dUamdKUFE3eDR5bU9KZXFxbFhrT3N5LWFkMUJoZENnWUo1MUNqU1ZNMDNDbGZSWmlnbVg1YU9rNDNzWThPUVE?oc=5)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.06.30] nomura.co.jp — 日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説**
+  日本語：要約：日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [nomura.co.jp](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54c3lidzJpeGlWUWxrdW9XcTAxRElDWFFiYjF5ZVVqZF9ISkctMkZ0UExOZ2hzOU55MmhjNmRkN0syQ0c0ZUstSkFRajYtSFJyY3dDWUNqcFAzVHI3VVM0?oc=5)
+
+- **[2026.07.01] 日本経済新聞 — ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします**
+  日本語：要約：ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMifkFVX3lxTE12VERJdFAwZG5ZUDBNMXkzR2FCeE1vOVdsLXE0YkMxYVZCZW80Mkd4bjYtd0VBaW5BYkNwWnoyQUtDT3M4NEFISWtJNUdCMkNxM3JpOE1SQWdZYkVFTzY4LWR5MWhVVXZnTjdTR2JFMW9HR3pIM3dIOGFWbFM4dw?oc=5)
+
+- **[2026.06.30] Impress Watch — 国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動**
+  日本語：要約：国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Impress Watch](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vblRIWERobk96LTRzMTFsSnpnWmJubXp2R3FmWEktb1pGTzYwTDFDbV9PWWF2Y0xxUmRjQjZ3N0VlYWc3VV9pQXl5c3V0OTRGVjlHbVJ2WnJhNVZhLWZtNk5ORHU?oc=5)
+
+- **[2026.07.01] EnterpriseZine — ネコ型配膳ロボ、AIロボ接客……省力化を進めるすかいらーくが、AIで「対人接客」を可視化する狙いは？**
+  日本語：要約：ネコ型配膳ロボ、AIロボ接客……省力化を進めるすかいらーくが、AIで「対人接客」を可視化する狙いは？ は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 ネコ型配膳ロボ、AIロボ接客……省力化を進めるすかいらーくが、AIで「対人接客」を可視化する狙いは？，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [EnterpriseZine](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yc0thYUhuY3VBNlRrTUh2T3RIbFVOY3JiT2ZaZ0s4UUFxQ1hfcF9fbnNoVEZ4RTBQc3gtRUtneVZlQzlQN0ZldVZZdi1BNWt4R2xybGN3cGFTdw?oc=5)
+
+- **[2026.06.30] Yahoo!ニュース — 国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省**
+  日本語：要約：国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5fOHp2VkRmS09jb1ctWFZoalg0T0VKZWFOYjhyeGtiWU9wclZvdXdieHl0eEgtaDhRd0Nla1l3dVVkTE9hWGUyTHVpWHNQd2VJTkVYWThMNEN5bENoaGZWUWF5ck5TWWpIbGcwRmhXR3ZtNzR6b2pBNEJJa1kwZWs?oc=5)
+
+
+---
+※AI Robot News Digest | 2026.07.01 | RSS fallback items: 15
