@@ -41,30 +41,30 @@
 ## 🇨🇳 中国 / China
 
 
+- **[2026.07.01] 天天基金 — 优必选人形机器人规模化量产提速 机构扎堆盯上这几只人形机器人概念股**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [天天基金](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LdF9hUFQ0dlZXZng5empIQXIyNHFQZ2xfcFNCaEt6MFBPWHIzdDFSUVR2WGgwakxHVkQ1VEktZWNEeGEzSEhacWU3Z1FVSnE3LUpYaHBtd0VSVU5RMHRrTmVn?oc=5)
+
 - **[2026.06.30] 新京报 — 仿生人形机器人上新，优必选发布男女两版产品**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新京报](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZTjVxYjhEWUl1WHZOWVZJMXRKRFA0VXhXbE9INlBIRzFNWjBidTgxWWpHUzh2OUN6Z0JKZVltVllBeDNnZlJ3b1VfSG9pdmt4RWxBVEpiU2RpSUNsRThrWXpwQnQ?oc=5)
-
-- **[2026.06.30] thepaper.cn — 优必选发布超仿生机器人U1系列，顶配男版99万，女版88万**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNEduaGNlblJvM1M0VWEzcXJ2REFUYkxGSVd0WG5UbW1LU3YwV3ROT2xVbnF3d25lenlVMTkwMlBaSVo2ZkgtcXQ1b1hXMTN5cWluNlNPOXJWZ1h6MVE?oc=5)
 
 - **[2026.07.01] 中金在线 — 优必选仿生机器人引热议 人形机器人正迎来加速发展的重要节点**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [中金在线](https://news.google.com/rss/articles/CBMickFVX3lxTE5hMUlVOHI5TU41dmhOWU5PbkNOcnJtTFR1OWxhYkRtcVVhUlludEV6VklzOTdLSW9BSmc1MHB5Zkd0X1k5TU5ueTdRWFlTdFgzejFKc0FJdDNOZW9EeFJROHdFTFp2Vkg0bzVpUVNiS2czZw?oc=5)
 
+- **[2026.06.30] thepaper.cn — 优必选发布超仿生机器人U1系列，顶配男版99万，女版88万**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [thepaper.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNEduaGNlblJvM1M0VWEzcXJ2REFUYkxGSVd0WG5UbW1LU3YwV3ROT2xVbnF3d25lenlVMTkwMlBaSVo2ZkgtcXQ1b1hXMTN5cWluNlNPOXJWZ1h6MVE?oc=5)
+
 - **[2026.07.01] 新浪财经 — 超仿生人形机器人来了！售价11.98万起，网友不淡定了｜科技观察**
   中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxOazJJVFFtVklLVlYyNWFTcVM2RmxMc0dMYnhzcmN2OUVoaWxXenJDLUJmQ0F5SG9lMTFoQkhpQ1NTNGc5NTMwQUQ4YVFjOXM3Q25GV2k4VkdTQl8wazh3Nk80eUtraWxQaUJVMU9lU2x3VlhGa2xVSnp4MkhIb1Y3VWJhYk1ILURhUnRlNGU5Rm9BdXJvWkkxT3NyMDBua1Z0V0MtWS1SNA?oc=5)
-
-- **[2026.06.30] 财富号 — 优必选发布首款仿生机器人？机器人新品加速落地，事关这些股！绿的谐波，领益智造，三花智控.....**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [财富号](https://news.google.com/rss/articles/CBMiggJBVV95cUxQVWtCZU1rTktNcVcwWWhCTjhqRE1DMTVFeHFGR2FTLVktNHdqYzhKbmF6NVNxTWRSNGg5XzhJeWhMbV9ZNm5qWEdMb25VLVpLV1dyOEZXZlNJdUl1cFFjeThTZjN3bGY4NXhYbmxCamtCRTMzZFF6N0ZCS0dDZW1PSmdSdFFmNk1mY2dYSFB4aFMyVmQ5QkZNQk9WcjdTLXJDRHlQbDcwdTNfN2hZU2xhMnNfanRjZWdmNlpjVFRZTnQwc3dUamdKUFE3eDR5bU9KZXFxbFhrT3N5LWFkMUJoZENnWUo1MUNqU1ZNMDNDbGZSWmlnbVg1YU9rNDNzWThPUVE?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
@@ -74,11 +74,6 @@
   日本語：要約：日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [nomura.co.jp](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54c3lidzJpeGlWUWxrdW9XcTAxRElDWFFiYjF5ZVVqZF9ISkctMkZ0UExOZ2hzOU55MmhjNmRkN0syQ0c0ZUstSkFRajYtSFJyY3dDWUNqcFAzVHI3VVM0?oc=5)
-
-- **[2026.07.01] 日本経済新聞 — ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします**
-  日本語：要約：ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 ペッパー君と配膳ロボ 「AIロボット、18分野で2040年に1000万台」など3本をお届けします，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMifkFVX3lxTE12VERJdFAwZG5ZUDBNMXkzR2FCeE1vOVdsLXE0YkMxYVZCZW80Mkd4bjYtd0VBaW5BYkNwWnoyQUtDT3M4NEFISWtJNUdCMkNxM3JpOE1SQWdZYkVFTzY4LWR5MWhVVXZnTjdTR2JFMW9HR3pIM3dIOGFWbFM4dw?oc=5)
 
 - **[2026.06.30] Impress Watch — 国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動**
   日本語：要約：国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
@@ -90,10 +85,15 @@
   中文：总结：这条日本市场新闻围绕 ネコ型配膳ロボ、AIロボ接客……省力化を進めるすかいらーくが、AIで「対人接客」を可視化する狙いは？，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [EnterpriseZine](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yc0thYUhuY3VBNlRrTUh2T3RIbFVOY3JiT2ZaZ0s4UUFxQ1hfcF9fbnNoVEZ4RTBQc3gtRUtneVZlQzlQN0ZldVZZdi1BNWt4R2xybGN3cGFTdw?oc=5)
 
-- **[2026.06.30] Yahoo!ニュース — 国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省**
-  日本語：要約：国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 国産「フィジカルAI」の開発体制が決定 Noetraと産総研を採択--経産省，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5fOHp2VkRmS09jb1ctWFZoalg0T0VKZWFOYjhyeGtiWU9wclZvdXdieHl0eEgtaDhRd0Nla1l3dVVkTE9hWGUyTHVpWHNQd2VJTkVYWThMNEN5bENoaGZWUWF5ck5TWWpIbGcwRmhXR3ZtNzR6b2pBNEJJa1kwZWs?oc=5)
+- **[2026.06.29] PR TIMES — 日本ロボットシステムインテグレータ協会、ロボット関連機器の展示イベント「ロボットFA関連商品説明会」を7月23日に大宮ソニックシティで開催。**
+  日本語：要約：日本ロボットシステムインテグレータ協会、ロボット関連機器の展示イベント「ロボットFA関連商品説明会」を7月23日に大宮ソニックシティで開催。 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 日本ロボットシステムインテグレータ協会、ロボット関連機器の展示イベント「ロボットFA関連商品説明会」を7月23日に大宮ソニックシティで開催。，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSUk5SlFDaWhXX2ZFaDhRdzYwQmQ2a1N4NXUyN04xaEhPbTZMZ0NwNHFGcGx2OEJYdjAwYUl2dDVFbzg0TU5mS0pLZk0wQU03VTBnVnpINWFtam9rci1VLU96NXpXUkFKNHc?oc=5)
+
+- **[2026.06.30] Yahoo!ニュース — 国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞）**
+  日本語：要約：国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 国産AI、ソフトバンク設立の新会社に3873億円支援へ 経産省（朝日新聞），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jX1BqMjdoT2VOUW9ibkhJdWtvYW5QMjNmSzg5ZC05cUtiUjlrZmp1bVZLcnpPR2d4WFNQY1RhTW9lQ2JMeEFDMUdwamlCeVFETS1ZTWZuUmRNd0VzamhYRy05WVhZZXVFZEJ1aThPQXVIVzloNzZnN1VNSU10Rm8?oc=5)
 
 
 ---
