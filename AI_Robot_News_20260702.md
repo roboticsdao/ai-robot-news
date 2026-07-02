@@ -17,6 +17,11 @@
   中文：总结：这条新闻围绕 South Korea to spend $1T on more memory chip production and humanoid robots，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNU9hRmtBOEQ3S2F4RGRES1JXaW84ODNUQlpGQ2tFckZnT2RsSE5ubzdJbHQ5eVRvZXVVdmlSQmVaOHdNRGpRRGlFOTJnSGVmUm13M2FaY0o5UjVVWkpSSXlTZFFDMUxRd0tNajg1b1J1R1FoWnFqQnEtbXduS08xRTRfeGlWajVmeFJPaV8xTTdVTHIzR2owTk42UWRQODZ3TDdzeFpub3BlLVhBbWhN?oc=5)
 
+- **[2026.06.30] Yahoo Finance — Apptronik launches robot training hub, unveils Apollo 2 humanoid robot**
+  English: Summary: Apptronik launches robot training hub, unveils Apollo 2 humanoid robot signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Apptronik launches robot training hub, unveils Apollo 2 humanoid robot，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Yahoo Finance](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0M1WUVvQmVkdmdNX2RTNzlJTGF4Z01rNjllRVRDS1NVemFLVjR5TG1DNFllOGQ0YUZYUWtnY2o1UGFfbEhld0dhY1FDYnhpWnFPSi1yaFIxMHBTSDZkZkNONVoxaEpsSXF1SjR1SDBsT2VNaDFETHE1RHQ0dVZnT0xVX2JKQ19JWGxCRldVMjdKSkhQMy1wMzByWThDZnV6aGRj?oc=5)
+
 - **[2026.07.01] marketscreener.com — US car sales on cruise control despite pressures**
   English: Summary: US car sales on cruise control despite pressures fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
   中文：总结：这条新闻围绕 US car sales on cruise control despite pressures，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -32,11 +37,6 @@
   中文：总结：这条新闻围绕 Woori Asset Management Launches 'Physical AI BIG2 Plus' Fund Featuring Tesla and Hyundai Motor Company，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [아시아경제](https://news.google.com/rss/articles/CBMickFVX3lxTFBhd2llZFlYNUpzMlpjTURsUDZoOGlTUElwcHhDRXJBb1RGTXNLeFMtY2toS2NtYjZMUlVOSWJzWUdRRHJSa1A3X29od0lqd1poMnRFQXlDY3RsZVE0ZEZ5aEVfR2hUU0dDTEhvM3IwaGtNQQ?oc=5)
 
-- **[2026.06.30] MSN — Soccer's offside line: AI and robots' unconquered challenge**
-  English: Summary: Soccer's offside line: AI and robots' unconquered challenge fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
-  中文：总结：这条新闻围绕 Soccer's offside line: AI and robots' unconquered challenge，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [MSN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFlWSHp5OHptYzRhZ1BaTzF3N3FSdEU2TUdpVENhUE5qTTU1SmFadnpQQkZ5MjVoMVp0Z0VaLXl0cF9ZcElkaEdfZ1RoWWNvQkV2X0toRHlUbnJqY0QtWHUyWkVaekJRa3kzZFBRaWtTMnlfYnBMaE5sd3dEbDRBVW14QzdkeXhLRS1kNlp5Yi12QkFyaDJVY1R5Yl9qVkxueVBTdHhSd2hXdw?oc=5)
-
 
 ## 🇨🇳 中国 / China
 
@@ -44,7 +44,7 @@
 - **[2026.07.02] 新浪财经 — 优必选仿生机器人开售，U1 Pro款深夜优惠1万元，有二次元玩家直言“一点吸引力都没有” 人形机器人家用场景为何难啃？**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkxsSlJFendINVVOREFvZ282T2pCM2JfMlZUZnl4VFQ0LTRKX2ZOcUpNN2JRVXJYMHhqcmtEdVV0V0Y2MWVtREt2RTUxYXIyWVFPbFRjazQ1QVBLMDNtUDllX1h6RFVnX1FGdWgxNm5qby13SUhfWEItZ2FTQmdMTXkzUGhrcmE3NkxGUXlQQV9sVHRqX21TXzM0SnVyaVRKNVJXTUluMA?oc=5)
+  📰 [新浪财经](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUNkcGhIWnZNNzF2STlucVRVRFFEejhNNGZPX2tMMjQwVmNyYjMzQzBBLU1STU5GTzJFVnVYX2Q3WHI4ZWptdHNRRkV3MncyM3FkNHFfZllyODAwdVg3NnRsdDJPSTh3bFZjODRYQ3pwbklZa0NfT3VmR085T3FvbzZEVmRDdm8?oc=5)
 
 - **[2026.07.01] hznews.hangzhou.com.cn — 1.3万人抢着下单的优必选机器人 原来只卖“情绪价值”，连“仿生”都差点意思**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
