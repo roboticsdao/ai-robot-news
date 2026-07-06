@@ -12,6 +12,11 @@
 ## 🇺🇸 美国 / United States
 
 
+- **[2026.07.06] PR Newswire — Hyundai Motor Brings Atlas Humanoid Robot to FIFA World Cup 2026™ in First-Ever Live Match Environment Robotics Integration**
+  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Hyundai Motor Brings Atlas Humanoid Robot to FIFA World Cup 2026™ in First-Ever Live Match Environment Robotics Integration，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [PR Newswire](https://news.google.com/rss/articles/CBMiigJBVV95cUxQUVVPMVNFVGs3WDMwR29pY3NMSExYOHU4bnhyd3M2cjVyMl9GcUZWSThUUlVSd2FTYUZnaXpWOHBnTjlSbHdaNUU1dGItZDBSLURWM3dod3IwOU1XUmE2cExiZmMxVlJUWFkzeDRFZzdkWE1QLUozUGJhalNGOEVPd28wYXk4VlRYNnI5ZXl3Q25KcU1NcHN5YXpNVjlpb2czbGE4aHZON2VsUUJkbktyQkNrMm05Qm92YUVXaTg0VGN6bGhiR2NKalFDWUpuWHZvdlR4TnN5alRtd3B6RlU0UTl6LU5MeHJLNzdGMUE5VnY4d1EtMVR1cjNUSmtuMmxzMTE5anlfclJrdw?oc=5)
+
 - **[2026.07.06] Fortune — Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match**
   English: Summary: Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
   中文：总结：这条新闻围绕 Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -22,20 +27,15 @@
   中文：总结：这条新闻围绕 Hyundai Upgrades World Cup Stunts With First Robot-Powered Halftime Activation，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [ADWEEK](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVpJREU3WjNVeHU0QTNkc1BrX19VeWQ2UGVRdmczZHdteF84TXlhZ1RSemd5d0dJbTFMdnVTUnBMa0VlZm9VeWpXWVdlc0Z5M1h0QVY3ai1nejBSNnpkaW1aOWhLalhGWHRWbGI0d3RsNWliQm03Wkp3U3dkT3FSXzJkSjV5MF9u?oc=5)
 
-- **[2026.07.06] Bloomberg.com — Hyundai Motor Showcases Humanoid at World Cup in Robotics Push**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai Motor Showcases Humanoid at World Cup in Robotics Push，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVklka1RpSGhmNFZLMjlyQUdZSm5GQmFBQ21PRnhlVUEtSmUwU1IwdEhfaVBVY0Nnd0FJZ2pBaFk5NU5HQ3lTLTgxUkZkd1kyMUppNFlQN3V0NEFIYzNza1Y0c25FN2paV1lWMFRRUUhhUDB4aW5Cdmx4OGdyRDRhemM1bDNOWHRfSTZXVF9JSWlNU3NpR1J1aDRRWUdQcU9ONWZhYzhZTmR1UWdJa1N0ZmVNRQ?oc=5)
+- **[2026.07.06] The Straits Times — Atlas, the humanoid robot, delivers match ball at World Cup**
+  English: Summary: Atlas, the humanoid robot, delivers match ball at World Cup signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Atlas, the humanoid robot, delivers match ball at World Cup，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVIxRVlFSVlqNGliUHBXaG53TGhzb0xUREx0UWU3Wjh3ZzFsVlJHeHhRbzJnSUtzb0VNSVBSd2xnN3FyS2VuQ2FLR0xfSlQ3MVQwek11Y1BYSDU5UUZLTHFOcjlRQTF3bVlSUTk2YVlxRXZwNXNZQ3UwZGhLTDd4b2JOWWh4d3MtTU1udktBRTdHRlhUbFdqVE1wRm5HUDVXdThr?oc=5)
 
-- **[2026.07.04] TradingView — Worried About Tesla's 7% Slump Post Solid Q2 Deliveries? Grab These ETFs**
-  English: Summary: Worried About Tesla's 7% Slump Post Solid Q2 Deliveries? Grab These ETFs fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
-  中文：总结：这条新闻围绕 Worried About Tesla's 7% Slump Post Solid Q2 Deliveries? Grab These ETFs，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [TradingView](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFhDT1dQLXdrQ0t1RFBLdGI5dlk4UXA1WmpBN0JQZmhVYlNpMlloRmNQSU9KUlVrVnF0R3pmX0dhbmlRVWFhQVlfakR0MzRGOXZOSzNhUC1sc3hFOGRVWDQ4S1lCeEZGc0d4RU95WjhsVy00b2V1Mnh3SUU4Mjd3cUtSSWZhaEFfUVdRUjRjd1dZUmpEWGY0VTlWZThOd3ZSOHMyMDI2eE1xeV9waVMzb0UxLXhVc1F3UzRmSHA2SjZuR08y?oc=5)
-
-- **[2026.07.05] marketscreener.com — South Korean groups pledge $204bn for AI and advanced industries**
-  English: Summary: South Korean groups pledge $204bn for AI and advanced industries fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
-  中文：总结：这条新闻围绕 South Korean groups pledge $204bn for AI and advanced industries，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [marketscreener.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3dELXJVVDlwVFhPaE1KajFYRXI5eVlxZFd1T3RjQndGLWlpbFI4SjBua0NlamItS3VleDFDbnBvQzVlUWY3d2c2S1NuZllPNnl3QWwzTVcwZDExNGREOXQ4akpHbFBkSGVaelZLdHBwV2REdzBjd0pjOHV1V3Z2aEp0Qml4MjFTXzZsMGIxdG1mcFpYaG9tdkZtQ3I3U0ZPdVRtQXZjZ1lVc2NWYWp6S1JWNkVZa00?oc=5)
+- **[2026.07.04] Qoo10.co.id — Atlas Becomes Simpler, Boston Dynamics Signals a Faster Path to Mass Production**
+  English: Summary: Boston Dynamics point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Atlas Becomes Simpler, Boston Dynamics Signals a Faster Path to Mass Production，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Qoo10.co.id](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTJ3SlAtVERVOWFRYXNsUUpIMldlYUdZX3NkazU2SXUyc3U1VEI4NnFFSHkyUXBQNjBrZWRka0V0ZnRhRk90S2NFYWFaX3V2RHhzem8yQkRMMkcyN3VqRHQtU2lZbldYcGtXdjVmaF9wamRMSVpzTjRNME92R0RzX01fT1JlUk1FNmg4MGludXZ4b0NzN3N5U1k1SlA3cjFVWEd6ZWFRcHbSAbABQVVfeXFMTjNiaVBxOEdQVWN4Um1aRGptVUp1SkVNbkNwVlV3U3dzRElUcVJOc0pCcFFIeWJGaS03MEh0RmtBTVJhQjFfVG1IakN4LUk5LXRtSG9ROWpwdE5YXzczOWd6TnlKZXJiWWNZb041REhvMU1PNEZZYmtXS1EwN1pDQ0NDN1BQR0JVdjkwTEpXWXZOZS0yRUNUa3h6Szd2RzFfZG52eVBoQ3F6TU8wYXFzUW4?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -90,10 +90,10 @@
   中文：总结：这条日本市场新闻围绕 TSMCが語るAI時代の半導体戦略、A13/CoWoS/COUPEで激増する演算需要に対応，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [マイナビニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiZ01wb0lrY29Ha3JUVXVDRUgxeF95M01DdHcwRkNXdEE3bkVPM0VOM0s0UElHN0c1R3NXYW96VmJodkVzLWtfalZBOUc1WWlCeWh1bm1IWU1SQTI3VXRQeFlKM0d6Tkt4?oc=5)
 
-- **[2026.07.05] Yahoo!ニュース — 農作業、ロボットスーツで高齢化に対応 身体機能維持・向上へデータ収集も（日本農業新聞）**
-  日本語：要約：関係企業・自治体 の動きは、日本のロボット産業が人手不足や農業現場の課題に向けて、より実用的な段階へ進んでいることを示している。重要なのは、単なる技術展示ではなく、収穫、監視、獣害対策、作業補助といった現場で継続的に使えるかどうかである。今後は、導入コスト、保守体制、農家や自治体との実証結果、Microsoft など外部 AI 基盤との連携が、商用化の速度を左右する。特に日本では現場ごとの作業条件が細かいため、ロボット単体の性能だけでなく、運用設計、データ収集、導入後の改善サイクルが競争力になる。
-  中文：总结：这条日本市场新闻围绕 農作業、ロボットスーツで高齢化に対応 身体機能維持・向上へデータ収集も（日本農業新聞），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qa2tEX2tkZkUzbDZYcW9rRmdrVC1BeVczaHE0SExLS1I2YTB2S1BnWkIwVHFseVBsb3BaY21YUU9pbHVHNkwzNGtMZS0zTE1Wc2xRakpFTFhEX0N5RVhNZFI4LTY0VmdjTzYzT0k5UnZKbjdab0dGNkRiVWlIa0E?oc=5)
+- **[2026.07.03] MONOist — 陸上自衛隊から四足歩行型警備ロボットシステムの導入検証業務を受託：ロボット開発ニュース**
+  日本語：要約：陸上自衛隊から四足歩行型警備ロボットシステムの導入検証業務を受託：ロボット開発ニュース は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 陸上自衛隊から四足歩行型警備ロボットシステムの導入検証業務を受託：ロボット開発ニュース，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [MONOist](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zY2t4S0dQdGt2SmFlZVo0cG10OGZJbmg3ZXJFbmkzUE1sWTZ6ZkVjQWdMVGlvcWJUVlhaS01udm9vRXdwd0gxSzl6OGZFcHRDRjNWNjdsSk1SOHZxakJUM1NibHFrbVR0eTJ1V2pXdw?oc=5)
 
 
 ---
