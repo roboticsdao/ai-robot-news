@@ -56,15 +56,15 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxORldCSmRWUFNadTRiTG94SjBkbXdSUXJaOGUzanRqbTRUT2R3aFNGdXNYRjNYM0ZSTEZ0a0F2TU1oa3BEYXpnblA1RnRwVVNKRWZJQ2h2UUFWUXEwSjVTUHRUSnRmYUZCMUdsUjVjR24zdWhKd1FxTnFOZXpjclBFSmtKbzlmV2Z0UGxabWpxaEx4bHRXQkM2WnhHRXJHcjNZQ2dGS0dNQQ?oc=5)
 
-- **[2026.07.08] 新浪网 — 宇树科技科创板IPO注册生效，科技牛市还有下半场吗？**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪网](https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2dJUHRndjlfY284MmVpREc5dTRTamtMWTZtU1FPejlsSDhfbHFpSGRudWtHWFJaSEVvUC05S1dPUHJpS2JabUxEMFNwWTA5QXJ1UkFFckFoeGUtRExuY25teXhpb0JXaWhqdVlJMXNUWmtrV0JpNWFCRDk5RXFtM2VB?oc=5)
-
 - **[2026.07.06] 21财经 — 99万元的陪伴机器人，续航仅4小时？优必选回应：行业普遍情况**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQTEzNHNKQkJzbGtUZWFsWlJFNVdBbmpIeXgwS3QzR3M0THNXQlp4bXhDR2NCVHU3YV8zVXpkRjJuYWY3bmxCbkxORFhLd21FWGFYVTR2WTl2S1ZQd3BfYUJ1Z3pSQXZ4OEdWYm1xRTh0SGtta2l0MkN0YTZZVGVNWUlhOGluYzBFbU9yQg?oc=5)
+
+- **[2026.07.08] 新浪网 — 宇树科技科创板IPO注册生效，科技牛市还有下半场吗？**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [新浪网](https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2dJUHRndjlfY284MmVpREc5dTRTamtMWTZtU1FPejlsSDhfbHFpSGRudWtHWFJaSEVvUC05S1dPUHJpS2JabUxEMFNwWTA5QXJ1UkFFckFoeGUtRExuY25teXhpb0JXaWhqdVlJMXNUWmtrV0JpNWFCRDk5RXFtM2VB?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
