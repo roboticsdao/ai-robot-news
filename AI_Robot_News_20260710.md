@@ -46,10 +46,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE40MHNtN2J6VW1lYy1WZ2dLZ1ZkVEN4cjZPem4tUXpOQ0Z3UXlRSUhOSzJUV1dnY2dNMDVBc21qQXRvWWhnRGt5cFl1cFo?oc=5)
 
-- **[2026.07.10] 新浪财经 — 全球首例：医生远程操控宇树G1人形机器人完成活体动物外科手术**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+- **[2026.07.09] 新浪财经 — 优必选闯C端，万台订单待考**
+  中文：总结：优必选闯C端，万台订单待考 反映中国 AI 机器人市场仍处在快速扩张阶段，核心变量包括硬件成本、运动控制、视觉感知、具身智能模型和落地场景。这类新闻的意义不只是单个企业曝光，而是看产业链是否正在形成从研发、教育、制造到应用的完整循环。如果地方高校、产业园和企业开始共同建设专业、实验室或应用示范，说明行业正在为规模化部署补齐人才和场景。后续应重点观察量产能力、真实客户、渠道价格、政策支持和与汽车、制造、物流、商业服务等行业的结合速度。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMilwNBVV95cUxPMDlCX3dpRjNPYnZDV2E0NnB2MHpBVlk4eVdDaDNsMXVacER0cTNLWk9sVTlqa2VIWW9QcjBGZUZtUGlEZFpVd0RYQzltSlRNcW5BOGgxVXF4QW9PMFZiZWpwc1BUMWpzdlBORGItRVRwenBqb1Q4ZFByV2JBaGZGalVGc3liSTVnYXZOUDZmX0RfVC1sYkVGZGloNEwtMUNHRDZ6Mkh2cXBlOVlxam8tWHBuMWFKeEpIM0x5UklScmJrZk9zLVdjZDM5RFEwUGFTNFFfMkpVeHh2MHEwMVFJaDFlQi1YakNZeHBDUGk1TTZ6YmUxMlV5TnMzM294cHBlclZGd2U0bXRuYWJmaFNWQmZtLWFqUEhHZGVxSG42X1k2WUVXMWJWeGV5ZTRaaVNRWENnanZfaFRzS05DUFJ6QlJNVDlZR2x6X0NSZmk4TzdGYWUzcTdSa2t4eW5XNHM3cWJBZnl2ZG9uZ3M0RERJMVRCUXpQeE5UZ0NacktYc0xCWmNMT2dFZ0ZXYkZ1b3VpdjdncjJzcw?oc=5)
+  📰 [新浪财经](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkhVZEVCSUJKZC1ZQ0xFTE5KcEd2RWhlYzhNTHZteXRrRXFpNXd5NUREZGZSNXZ1ZndaeHhwRGQwQ1NjUTJHRWZHb3hOU1J1MmpVU3VmbWFTVkhHS014VS02NVRDLXpyTTdKMDN4c2tmUFFIcUM2OFJrTTN1SElocTJOMWZVRnB4S0E?oc=5)
 
 - **[2026.07.09] 搜狐网 — 人形机器人手术第一刀：华人科学家用宇树G1完成活体胆囊切除**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
