@@ -17,11 +17,6 @@
   中文：总结：这条新闻围绕 Boston Dynamics' New Atlas Humanoid Robot is Ready for Factories，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Yahoo Tech](https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2VmXzFNWHNDVFZSc1VUbmJzUklvcTFCMUdOUGJ6QlVySnJ6dWswNU5lcHdTTjRBZC1hcDVsY1Z0Z2RfXzFKMmxWTDlrbzdWYTRQQ2hYXzZrR0t2SklrMTg1cHVDcko5SUN4Ni1PTjVpaXdxZ3JYSm5JWUxaUzlmZFBISnJGRW9DMkR6UkdDVnp0NE50MFE?oc=5)
 
-- **[2026.07.09] upi.com — Hyundai robot Atlas performs at World Cup**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai robot Atlas performs at World Cup，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [upi.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSW51a1MtVm0xVmlnUFlSWWFGellKSzhHZ0hjczlRY19qd1FMcy13V3dHb09rNzdrbk9ST3RiWlhkeUZEdHZleU5uZ3FTajZ1VXVUX3JKN2R4VEU0RGltclVGb2FnLUUwd2I5V1BhS0JOSUYzNnM5YklqRFMteklBdXJGWVNwa1k0bTRTMTJVZFpVR2tzdkJ6VWxzSXFZVkZiUUQ4OExaajhhWWd6VEVfMUY5bVl4azQ10gG-AUFVX3lxTE4zNURtSFhsM3BPRHl0cWRveWFqRFJQTUt6bGJFcFE3X0JvT1dVa0UtcWhnd0J0aTFHMGNiU3p1U0dYWEZOaDRjQ1ozQm8xWExQdURpNlJ3Mk9IZ01mUGZQSUtYbHJiSFN6NFN1T0NwWGtUUTBQTVRRY3l5eFRVVEpuOXRXZEhlRkVaZER0UUtzV2RHZ1dqMFVKczdKMVFicm80WXBkUTlBMVdMMk4yaDZPeDc2WGxSNzBjbXR1SXc?oc=5)
-
 - **[2026.07.11] TechEBlog - — Three Atlases Row as One, Boston Dynamics' Humanoid Robots Deliver Viking Row at Headquarters**
   English: Summary: Boston Dynamics point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Three Atlases Row as One, Boston Dynamics' Humanoid Robots Deliver Viking Row at Headquarters，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -37,9 +32,19 @@
   中文：总结：这条新闻围绕 Hyundai Puts Atlas Into A Live World Cup Halftime Show，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [WeRSM](https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdExRQ2sxTm9xeTkyYnFzSG5rejZMYkc4QWl1aGw0QWljSVFQX3pBQWZEZTNPelp4bzFiLWVpMWJYajl3RnRJMjZIclRrb1hYd0VwbkJfUzJQRFlfTHBCU2lYZ1lUUTNFUlB2Q044amlfU192cE9oZ1dETXBfdw?oc=5)
 
+- **[2026.07.10] PRWeek US — 3 ways brands are winning the 2026 World Cup: Lego, Panini and Hyundai star in sports’ biggest tournament**
+  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 3 ways brands are winning the 2026 World Cup: Lego, Panini and Hyundai star in sports’ biggest tournament，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [PRWeek US](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLW1wVmhnQ01yTGpsNjEtZUdvemNBb2ZocWRSUDVuMkVPeEFRcTU0ZXg4eV9RRWxSRHYzdGFOaXFTcVdFd0t3R19aVlRzeUJYaUtYTHhxQmpuZjNGZWtqS2VaYTBVQTB2bFZRSVVDclFZN0RvbHFFeFhmakhCRzZjQ3R4cFpma2p0LUdOQllSZngzd3lqSWNBeVc2LWdvUFh6TktqOTQyZXI0UXc5Tl9XZjVxWHEzY1ZhUHlqQXI0Q3FCMnFE?oc=5)
+
 
 ## 🇨🇳 中国 / China
 
+
+- **[2026.07.11] 财联社 — 马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GZnNKYzlQUFlrVzZtX0x3bGhhdmZzaEFjUW5SQkFGYW9QXzktVGtBZF9LUlRQUzFwejBzZi1yNzlqbzh1TV9OWQ?oc=5)
 
 - **[2026.07.11] 新浪网 — 宇树科技王兴兴：当下机器人就像30年前的个人电脑 不再是小众科技玩具**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -51,20 +56,15 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2JHVnc4MUpaS3gtYTdaMWM2Y0h2MjJuei0yVmxMV19BOG9lOHlyYksycWpCanpYa3dFVVloOTZzamw0M1o3SGdLSTN5SFBpalBXdzE5TDRFNEdnaUYyMmt6UFFFOFlxcmdOV3JxeUNNQ0M1UVIyRkpBRjJodWdYWlZkdmwwRDFl?oc=5)
 
-- **[2026.07.10] 财联社 — 马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature**
+- **[2026.07.11] 凤凰网 — 104天过会、募资42亿，宇树科技把人形机器人推上台前，订单最先挤爆的是减速器和丝杠**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GZnNKYzlQUFlrVzZtX0x3bGhhdmZzaEFjUW5SQkFGYW9QXzktVGtBZF9LUlRQUzFwejBzZi1yNzlqbzh1TV9OWQ?oc=5)
-
-- **[2026.07.11] 凤凰网财经 — 104天过会、募资42亿，宇树科技把人形机器人推上台前，订单最先挤爆的是减速器和丝杠**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [凤凰网财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TbE1VbEREdllPVmY5M181VGh4R05wRUc1RDZJN3UxVmp4Q3FuTmg0Vmt1ZF9RVHY5clJuMXdRYUVCZ3VfZFFxclF6WXJnNUlt?oc=5)
+  📰 [凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TbE1VbEREdllPVmY5M181VGh4R05wRUc1RDZJN3UxVmp4Q3FuTmg0Vmt1ZF9RVHY5clJuMXdRYUVCZ3VfZFFxclF6WXJnNUlt?oc=5)
 
 - **[2026.07.10] 搜狐网 — 宇树G1人形机器人成功完成活体动物腹腔镜手术，人形机器人板块活跃，中鼎股份涨停**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [搜狐网](https://news.google.com/rss/articles/CBMiVkFVX3lxTE02V3MyUHQzbnNTZHZuUTVtZ0I1UThFVTFOVlQ0UzJLZzdFRVYxR21SN2JadlRhTTNaV1UxVzUzUF9lcnNDcnY1MjRUSHItQ2ZBVkFVUnRB?oc=5)
+  📰 [搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUY4YWp0Ymsyb05TR2lQYW1zcGtDaVE0XzdiTlZaOVZWRjl2REVnbGtnNkJGNUhOcjF6eXFEUGpuYm9FU3piYkRkSXBhZ3o3aUVGYTdaM21hdHhHZktvMVVFaDJ1dktXNDFhZUtkNkd5Mngtb0x5ajNRc2lDbU5NM09xY0VHTnJnOUtHdA?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
