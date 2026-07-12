@@ -32,10 +32,10 @@
   中文：总结：这条新闻围绕 Hyundai Puts Atlas Into A Live World Cup Halftime Show，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [WeRSM](https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdExRQ2sxTm9xeTkyYnFzSG5rejZMYkc4QWl1aGw0QWljSVFQX3pBQWZEZTNPelp4bzFiLWVpMWJYajl3RnRJMjZIclRrb1hYd0VwbkJfUzJQRFlfTHBCU2lYZ1lUUTNFUlB2Q044amlfU192cE9oZ1dETXBfdw?oc=5)
 
-- **[2026.07.10] PRWeek US — 3 ways brands are winning the 2026 World Cup: Lego, Panini and Hyundai star in sports’ biggest tournament**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 3 ways brands are winning the 2026 World Cup: Lego, Panini and Hyundai star in sports’ biggest tournament，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [PRWeek US](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLW1wVmhnQ01yTGpsNjEtZUdvemNBb2ZocWRSUDVuMkVPeEFRcTU0ZXg4eV9RRWxSRHYzdGFOaXFTcVdFd0t3R19aVlRzeUJYaUtYTHhxQmpuZjNGZWtqS2VaYTBVQTB2bFZRSVVDclFZN0RvbHFFeFhmakhCRzZjQ3R4cFpma2p0LUdOQllSZngzd3lqSWNBeVc2LWdvUFh6TktqOTQyZXI0UXc5Tl9XZjVxWHEzY1ZhUHlqQXI0Q3FCMnFE?oc=5)
+- **[2026.07.09] MSN — Automakers lead $20B US robotics investment surge**
+  English: Summary: Automakers lead $20B US robotics investment surge fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 Automakers lead $20B US robotics investment surge，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [MSN](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmpnelJzVGVZbGRsd1V0NmI2MWk0bnFDV1d6YllWMlhibDc1S2dVb2xhQ1BfRUdOSHIyeU1RNVpSUGRxdG9PTzZXNnNjVnVYcktLTEp0VG5SR0VGdDRNVWNtLVZpRnlYRDBDc3ZWaF9odzk3RGRneTVHcVZ2cUhDSU5nZE1BNUJ6NkFkNDB3MzMzbTRjZksxeGIwZ3dhSWd5eC1qWnh6Vzg5MW8tNTdxZUc3SkNVSmZaaTdEZUR6LTltOXJka2ozc3dtdXFnN3dyQlVVMA?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -90,10 +90,10 @@
   中文：总结：这条日本市场新闻围绕 清水建設が建設現場に「フィジカルAI」実装へ、日本一高いビルで二足歩行ロボが自律巡回，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrZHFkd3RZZXdHdkxHTnltOGN6dzVNdW56Ry1vVDdwOThTaURrbUZDRUVERDNacjZmcDZHZkppQzBFYTh3MkVPYXZSTVhQOUtPZG1MOXFRdk5kLTFoWWJxRHFGRS1PTkZWZ0p5N01fUC1rVzhW?oc=5)
 
-- **[2026.07.09] アットプレス — 「AI博覧会 Summer 2026」新宿住友ビル 三角広場にて8月26日・27日に開催～国産AIで日本のAI導入を推進。LLMからフィジカルAI・ロボットまで幅広く出展...**
-  日本語：要約：「AI博覧会 Summer 2026」新宿住友ビル 三角広場にて8月26日・27日に開催～国産AIで日本のAI導入を推進。LLMからフィジカルAI・ロボットまで幅広く出展... は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 「AI博覧会 Summer 2026」新宿住友ビル 三角広場にて8月26日・27日に開催～国産AIで日本のAI導入を推進。LLMからフィジカルAI・ロボットまで幅広く出展...，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FbFI0eklaOHhjSG9SMUcwQ2ZWcWpDY01YZDQ1TjQ0NXJtN0VGYVhnN2duTFkyVTBRbTdMSl9PdVdfT29FTXE1WnMtWUZwMHM?oc=5)
+- **[2026.07.11] PR TIMES — 米国発ロボット格闘技団体「REK」日本初上陸！実機ヒューマノイドが激突する「REK TOKYO 2026」7月25日(土)秋葉原で開催**
+  日本語：要約：米国発ロボット格闘技団体「REK」日本初上陸！実機ヒューマノイドが激突する「REK TOKYO 2026」7月25日(土)秋葉原で開催 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 米国発ロボット格闘技団体「REK」日本初上陸！実機ヒューマノイドが激突する「REK TOKYO 2026」7月25日(土)秋葉原で開催，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZGV2NmRleW5LRXl0cVJTLTRlQ0h2LTlvLTdvSFR4akNRbE9yM0pkMXVMM0xfRld3X2ozTU43STAwN3VLYkVxb3doMEJseThJT3FjVkt1M2NYQVZuUVdfNkZPd3k2cWxHM0E?oc=5)
 
 
 ---
