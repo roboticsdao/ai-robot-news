@@ -51,20 +51,20 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪网](https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISEtHMmtKVHQ5dmVzOU5MT3pRcHhrWWpUaklOUU9YLWlSOWZUUm1mOFpFRkhocW84b20zZ1IzQ1ZDRXcwaEJSLUdRSUhoN1d6TXNGaXdSS3E4NmRBYVVBOTdVTTliVGhTaDlNT2FUdmY5OGRT?oc=5)
 
-- **[2026.07.12] 电商派 — 宇树科技创始人王兴兴：机器人一定会走向普通消费者**
+- **[2026.07.13] 腾讯新闻 — 这应该就是宇树机器人吧果然还是按套路出牌， 依旧招牌动作**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [电商派](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JY1VmZzlMVVU1Z1JrUjhmMUJqeEUxdGVCOVpsUTlIRDBQbFZUc3BRdWVtT2s1QXRqMExLQkNSZmxvamZ0Q2cwdWswWEF1OXRrdGxESFdlT1hiVnZFUlVhbE5ONUc?oc=5)
+  📰 [腾讯新闻](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zX1g2Q2lWX2xSY2RHaHNoaEZBenJIWHBCUVFiTTVBVFVyRGZMWmVTQ1dNazVDZGthRkZoMDRfZW8tZUUwOGhsQTFvc0htdUJ2M2dYZl9B?oc=5)
 
 - **[2026.07.11] 财联社 — 马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GZnNKYzlQUFlrVzZtX0x3bGhhdmZzaEFjUW5SQkFGYW9QXzktVGtBZF9LUlRQUzFwejBzZi1yNzlqbzh1TV9OWQ?oc=5)
 
-- **[2026.07.11] 凤凰网财经 — 104天过会、募资42亿，宇树科技把人形机器人推上台前，订单最先挤爆的是减速器和丝杠**
+- **[2026.07.12] 电商派 — 宇树科技创始人王兴兴：机器人一定会走向普通消费者**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [凤凰网财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TbE1VbEREdllPVmY5M181VGh4R05wRUc1RDZJN3UxVmp4Q3FuTmg0Vmt1ZF9RVHY5clJuMXdRYUVCZ3VfZFFxclF6WXJnNUlt?oc=5)
+  📰 [电商派](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JY1VmZzlMVVU1Z1JrUjhmMUJqeEUxdGVCOVpsUTlIRDBQbFZUc3BRdWVtT2s1QXRqMExLQkNSZmxvamZ0Q2cwdWswWEF1OXRrdGxESFdlT1hiVnZFUlVhbE5ONUc?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
@@ -85,15 +85,15 @@
   中文：总结：这条日本市场新闻围绕 韓日AI企業の協力活性化へ 韓国貿易投資公社と日経新聞社がイベント，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [聯合ニュース](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JVmEtejZhRm5FcHR5U2VvQnU3YS01SDlVc25lUkZCZjdDS3FVMWlBZ2ZKamJmb003ZEVxb0gyODNPcy1UU1dqVmdDSUVlUUhXRUQtX19HSGVNUQ?oc=5)
 
+- **[2026.07.13] 現代ビジネス — 「なぜ富裕層は世界を、日本を壊すのか」呑気な日本人は知らない…AI社会がもたらす「永遠の下層階級」という恐怖**
+  日本語：要約：「なぜ富裕層は世界を、日本を壊すのか」呑気な日本人は知らない…AI社会がもたらす「永遠の下層階級」という恐怖 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 「なぜ富裕層は世界を、日本を壊すのか」呑気な日本人は知らない…AI社会がもたらす「永遠の下層階級」という恐怖，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [現代ビジネス](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GdlhXV0ZHRTZmVWxGRlNvMklobmdzZDFqcVRGZzgwMVdWU1dRa2VHTC1QRzd0QXRNX25XRS1NalJUUjJtaGI4NThmTThzSGpBZERIRkVuRU0?oc=5)
+
 - **[2026.07.10] 首相官邸 — 人工知能戦略本部**
   日本語：要約：人工知能戦略本部 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 人工知能戦略本部，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [首相官邸](https://news.google.com/rss/articles/CBMidkFVX3lxTE4tajN1a2locGVtTGxvSmVpVEpOdVNFY2ZBR1NWcGdHUEROZVU1VjRBNUViWk9aNlZlUTh5cWdjTjBfTER5WHUzanYzN04xSEc3TnM0Q19URnhvQ21TbnBUR0YzbUxmTjFZWWg3N3lnbk5lUDFPUWc?oc=5)
-
-- **[2026.07.10] ugo.plus — お知らせ｜フィジカルAIコミュニティ「AI Robot Japan」のWebサイトがリニューアル**
-  日本語：要約：お知らせ｜フィジカルAIコミュニティ「AI Robot Japan」のWebサイトがリニューアル は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 お知らせ｜フィジカルAIコミュニティ「AI Robot Japan」のWebサイトがリニューアル，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [ugo.plus](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1d4M3JrdWgtb29aYWpyS1RWM3R6X0hqLV9hb2hPQ1pXbVcxcHJYVUF2M2lGa1hGbFhYaU9QSGJiS1BaY3NaMnYyWUI5YUItd1N6Z1RSelE3Wkp6eGFtMjlTLVJlZw?oc=5)
 
 
 ---
