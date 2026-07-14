@@ -51,10 +51,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪网](https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISEtHMmtKVHQ5dmVzOU5MT3pRcHhrWWpUaklOUU9YLWlSOWZUUm1mOFpFRkhocW84b20zZ1IzQ1ZDRXcwaEJSLUdRSUhoN1d6TXNGaXdSS3E4NmRBYVVBOTdVTTliVGhTaDlNT2FUdmY5OGRT?oc=5)
 
-- **[2026.07.13] qq.com — 这应该就是宇树机器人吧果然还是按套路出牌， 依旧招牌动作**
+- **[2026.07.13] 腾讯新闻 — 这应该就是宇树机器人吧果然还是按套路出牌， 依旧招牌动作**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [qq.com](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zX1g2Q2lWX2xSY2RHaHNoaEZBenJIWHBCUVFiTTVBVFVyRGZMWmVTQ1dNazVDZGthRkZoMDRfZW8tZUUwOGhsQTFvc0htdUJ2M2dYZl9B?oc=5)
+  📰 [腾讯新闻](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zX1g2Q2lWX2xSY2RHaHNoaEZBenJIWHBCUVFiTTVBVFVyRGZMWmVTQ1dNazVDZGthRkZoMDRfZW8tZUUwOGhsQTFvc0htdUJ2M2dYZl9B?oc=5)
 
 - **[2026.07.12] 搜狐网 — 优必选回应仿生机器人伦理争议**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -69,6 +69,11 @@
 
 ## 🇯🇵 日本 / Japan
 
+
+- **[2026.07.14] 朝日新聞 — AI基本計画が閣議決定 サイバー環境激変、わずか半年で改定 [AIの時代]**
+  日本語：要約：AI基本計画が閣議決定 サイバー環境激変、わずか半年で改定 [AIの時代] は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 AI基本計画が閣議決定 サイバー環境激変、わずか半年で改定 [AIの時代]，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94blJ2dXE4X1B5MHZjejVsVkl0TzNqcjJrbmZQcFhJelBXMnZhNWYxZUZBYTdkWktqOV9oSDVwUi05SFN2WWhzQzF6Q0RUQXA0VkdIR1ZVZkhiSHBDbnVCTldsNnM5bDQ?oc=5)
 
 - **[2026.07.14] スマートモビリティJP — 三菱自と東大発スタートアアップ、国産人型ロボットを2027年に量産開始へ。三菱自京都工場で月産1000台を目指す**
   日本語：要約：三菱自と東大発スタートアアップ、国産人型ロボットを2027年に量産開始へ。三菱自京都工場で月産1000台を目指す は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
@@ -89,11 +94,6 @@
   日本語：要約：医療に「フィジカルAI」を 無休で実験可能 「日本の勝ち筋」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 医療に「フィジカルAI」を 無休で実験可能 「日本の勝ち筋」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [東京新聞デジタル](https://news.google.com/rss/articles/CBMiU0FVX3lxTE45bG1ET1ppYktaV2JaYUJkdlM5OHdudDFqdFNfNWsxdWhSQUJiWTJTUWdCMXZoTmQ5ZkhjbndGWjhyZEZSU0s0ZG5qYS1KMHRzZlBn?oc=5)
-
-- **[2026.07.13] 日本経済新聞 — 日本経済新聞 印刷画面**
-  日本語：要約：日本経済新聞 印刷画面 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 日本経済新聞 印刷画面，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFpfSF9MdnQ0MzlLWnJpUXR2NWVkd21EcWh3YU9mczVCX2JsQWRsRGZPbFNuRzk1bk11cnlRQVJyUEJta1VaN1pvekVUemZKakJycGdaaXF5T2NsblptRTRRU0lURW00V0VYajhyYlpxSGlEUllpY3FIMk90S0tqR1puNmNtRnJyU2JYVE1ELTA?oc=5)
 
 
 ---
