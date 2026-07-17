@@ -80,20 +80,20 @@
   中文：总结：这条日本市场新闻围绕 ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWpGa2ZFekRYcVBOUzF2Q3ZRVTFORnMzMF9TbjlpQWhfRWRSZzZUNWdyX3FmOHZDUHppYTJZS2NpTXdJcnZnN1ZiRHc0VGFhVUl5Z2QybFpsdG9rZEg0bXJSWQ?oc=5)
 
+- **[2026.07.16] Yahoo!ニュース — 日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」**
+  日本語：要約：日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMnp0MEFFVUhRckxKX0R3QU0yZ1BPek54RDNLQnNKNjBoMFhvQWwwZm9kQ3ZwTXBmMHFOMUVwUEVHWDV0QlctNy1mR01FU0t2b3Bvb2Zfb3d6RnJJV3hKX1dycEVyUXBMM1dsbjBUc191djhHdGNZdU42cGN1QzA?oc=5)
+
 - **[2026.07.17] BigGo ファイナンス — 黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う**
   日本語：要約：黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE0xR2xsQWZoRUNSaGJZZUhyUmtneVVjVUptd1F3U3I3TzlvQ3hfYW90T0RNWk5QeWR1WjlyS29mRTNpUkRmS2hEMllwbHE4ZEFaT3RyaTVISk5BcVV4MVBObzFHLV90dzlPUHBZTWttMS1wRGhV?oc=5)
 
-- **[2026.07.17] Business Insider Japan — ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件**
-  日本語：要約：ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Business Insider Japan](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0dOQVB6Y214TGFnbDR5d3FGOHdMa2xhSTVaV01uQkZDTHlPNFhXMkUtRzdFckEwMmdQajZ0N3B1dVZzZzM5eGU5RDBLSWh1cm1UQ0RBNDNDQXc1bGYtVUlkMnpvOVlGODZNaFp6eHRSaTY1YlBrN3dmMUxSeTZ1MWVnSW4?oc=5)
-
-- **[2026.07.16] arabnews.jp — Nvidia、AI開発で日本のロボット企業と提携**
-  日本語：要約：Nvidia、AI開発で日本のロボット企業と提携 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 Nvidia、AI開発で日本のロボット企業と提携，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [arabnews.jp](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sUzlaU0dyQ2NzZUpsV1NxSENaQWstVE1LSXZpb2xWN2lienFxTVlmYzFOMGVvM2c3ckFFX3kzR2JzZGNQcWRocGw4YUFIa29wdVN3M2tzV2tzRzlLNXlXZ3d2XzY1T1U?oc=5)
+- **[2026.07.17] Biz/Zine — 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性**
+  日本語：要約：富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Biz/Zine](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Fb0swejBlR0tUY0k0S3VkQTlGQThxV1JSZTVMSDNuREtxeUxZaG9NcTVLNUdtd3NRZDBNN2VBaVdMQ3BBaXg4cFVzSkk4Qk1R?oc=5)
 
 
 ---
