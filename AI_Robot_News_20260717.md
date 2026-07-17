@@ -46,10 +46,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFZHdWpyczFMZTZDdXBBMy03YjdEdEE0OXZjd0VfQXppSlZseHNNaWVka0JJODRFRUZJNFZsY2VjVEoxS0paZm9OelFKaEpneXNJU2J3UGJ0MW5KV0Q1Yk0zTVJTS05sd0NydzFiTWFEcUNDVVRyd25Fc041STd2WjBGSy1VLWxU?oc=5)
 
-- **[2026.07.16] 新浪财经 — 机器人天团亮相 探访宇树具身智能体验馆亚洲首店**
+- **[2026.07.16] 新浪网 — 机器人天团亮相 探访宇树具身智能体验馆亚洲首店**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tUWFHdWhPdXM5TEExbXVhZlJ2Rkc2OHoyNS1Wa0JDd1IxUjdHaUoxV3NDamZRTnVMR1hLQ1FvYXMzZi04ODJLOVZ4VlVQVkk?oc=5)
+  📰 [新浪网](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nMlZHMkhRRkdzUk5UMmo1Y09SSWxiVGxUZHVBWE1oOEI1UkRNTW5VbHR0SWFlZ1lEZ25La0VtQ2I3LThzcEhGZG5WVQ?oc=5)
 
 - **[2026.07.16] 腾讯新闻 — 宇树机器人亮相王力宏演唱会激情伴舞，后空翻超稳落地，“火力全开”太超前！马斯克转发点赞：令人惊叹！**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -61,10 +61,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [OFweek机器人网](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zaGpyLWxiN24waWFlR3lLTTRLTC1TSHI5Tm0xRk9NeFJqOGRXdUpKdFdQT1lxV3VMWGxUalNtU2JLVVoxYjdRYURQUGw5NENPZmhPWktZQklpTU5GR0ozaWFBai1UVHJvVzNYbkR3cw?oc=5)
 
-- **[2026.07.16] 财富号 — 奔驰4S店，要开始卖机器人了**
-  中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+- **[2026.07.15] 东方财富 — 波士集团与优必选签署仿生人形机器人销售战略合作协议**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [财富号](https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZnlxTHctVDZuVldHUDZVWWZPVXY0UkZnRzJuMDI4VXNRUWhNZGF5VFc4eDI5ZEZuM0l3VkU1OU14c3ZGZ2hRbnFqaUx4U3Z2bW5WaUFENWhUSWM2SVYxbG9mWmExbXVyeEE?oc=5)
+  📰 [东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBha1B4dkhYMk1hclJqTGlKaW1NNWE5dmxZRWZqX1M3SzBRdVF4akE1Yzk4WmNhb1NFTFVISnlNZ182clpDc0ptMVpjNjVqbVNULXRBYV9zeWRyNjZKbUsxUw?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
@@ -80,20 +80,20 @@
   中文：总结：这条日本市场新闻围绕 ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWpGa2ZFekRYcVBOUzF2Q3ZRVTFORnMzMF9TbjlpQWhfRWRSZzZUNWdyX3FmOHZDUHppYTJZS2NpTXdJcnZnN1ZiRHc0VGFhVUl5Z2QybFpsdG9rZEg0bXJSWQ?oc=5)
 
+- **[2026.07.17] Biz/Zine — 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性**
+  日本語：要約：富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Biz/Zine](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Fb0swejBlR0tUY0k0S3VkQTlGQThxV1JSZTVMSDNuREtxeUxZaG9NcTVLNUdtd3NRZDBNN2VBaVdMQ3BBaXg4cFVzSkk4Qk1R?oc=5)
+
 - **[2026.07.16] Yahoo!ニュース — 日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」**
   日本語：要約：日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 日本政府、「国家AIインフラ」計画始動--NVIDIAが計算基盤を提供 高市総理「大変心強い」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMnp0MEFFVUhRckxKX0R3QU0yZ1BPek54RDNLQnNKNjBoMFhvQWwwZm9kQ3ZwTXBmMHFOMUVwUEVHWDV0QlctNy1mR01FU0t2b3Bvb2Zfb3d6RnJJV3hKX1dycEVyUXBMM1dsbjBUc191djhHdGNZdU42cGN1QzA?oc=5)
 
-- **[2026.07.17] BigGo ファイナンス — 黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う**
-  日本語：要約：黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE0xR2xsQWZoRUNSaGJZZUhyUmtneVVjVUptd1F3U3I3TzlvQ3hfYW90T0RNWk5QeWR1WjlyS29mRTNpUkRmS2hEMllwbHE4ZEFaT3RyaTVISk5BcVV4MVBObzFHLV90dzlPUHBZTWttMS1wRGhV?oc=5)
-
-- **[2026.07.17] Biz/Zine — 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性**
-  日本語：要約：富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 富士通とファナックらロボット3社がフィジカルAIで協業──NVIDIAフアンCEOが語る日本の可能性，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Biz/Zine](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Fb0swejBlR0tUY0k0S3VkQTlGQThxV1JSZTVMSDNuREtxeUxZaG9NcTVLNUdtd3NRZDBNN2VBaVdMQ3BBaXg4cFVzSkk4Qk1R?oc=5)
+- **[2026.07.17] Business Insider Japan — ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件**
+  日本語：要約：ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 ジェンスン・フアンCEO「企業も国家も知能を外注すべきではない」NVIDIAが富士通と描く日本製AIの条件，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Business Insider Japan](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0dOQVB6Y214TGFnbDR5d3FGOHdMa2xhSTVaV01uQkZDTHlPNFhXMkUtRzdFckEwMmdQajZ0N3B1dVZzZzM5eGU5RDBLSWh1cm1UQ0RBNDNDQXc1bGYtVUlkMnpvOVlGODZNaFp6eHRSaTY1YlBrN3dmMUxSeTZ1MWVnSW4?oc=5)
 
 
 ---
