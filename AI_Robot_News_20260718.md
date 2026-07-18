@@ -51,10 +51,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪财经](https://news.google.com/rss/articles/CBMifEFVX3lxTE5DQlczOVVFVnlaRXJQUW9ubHpHMG1yaGhkSjVGVmRDZV84WEdwbDYwdXl6YmZyanhvUlRIa1FscWtvVTU2UVpzSG1maHZjV2ZlWTdpbUFsTkRDUy14UmZTVEdia282Q3dzUTRxbU5yaWhneXhtVVhYdGxYY1o?oc=5)
 
-- **[2026.07.17] 东方财富 — 宇树科技亚洲首家具身智能体验馆落地，机器人ETF易方达（159530）连续4日获资金加仓**
+- **[2026.07.17] 东方财富网 — 宇树科技亚洲首家具身智能体验馆落地，机器人ETF易方达（159530）连续4日获资金加仓**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [东方财富](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJS2pFZ010dGdNYS1KRTQyRHZoODJQU1E2Y0o5VG1weVdCN1ItM1Q0UWlORzNmd2MwNnpYVmY4TnI2T1lITHBVUUs4X09MZldqUVVPSDAtcGhWQ0pLcUh1TWpB?oc=5)
+  📰 [东方财富网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJS2pFZ010dGdNYS1KRTQyRHZoODJQU1E2Y0o5VG1weVdCN1ItM1Q0UWlORzNmd2MwNnpYVmY4TnI2T1lITHBVUUs4X09MZldqUVVPSDAtcGhWQ0pLcUh1TWpB?oc=5)
 
 - **[2026.07.17] 搜狐网 — 优必选机器人真机细节曝光：全身版15.98万元，主打情感陪伴不是男女友和伴侣，易产生使用痕迹，不适用七天无理由退货**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -80,15 +80,15 @@
   中文：总结：这条日本市场新闻围绕 フィジカルAI時代における日本のロボットメーカーの取り組み：モノづくり総合版 編集後記，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [MONOist](https://news.google.com/rss/articles/CBMib0FVX3lxTFAtN1VVZm1ET3BZLU5JUWpHY2d5bnp1NWFyamh3TW9Gcy1KbW1ZVS1NRTZ1X1FQU2ZiUnhQX2tnMjYwTmtBM0dmYlRoNVZEa2xJZXVtSUlERE04UlZRR2J3WE01cWxwcF81dDJ2cmpnZw?oc=5)
 
-- **[2026.07.17] ロボスタ — NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表**
-  日本語：要約：NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [ロボスタ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5paVZYTHRLXzctYVJSTi12STdHMm9LRTcxTHdfVmNBRHdUcE5td2IxejRpZGxETEpEMFNCOWZaaWtJay1NcTFEeGZTWmdQVnlkcTBtTWtvTTBtQ3VRODkwRzZnRlI?oc=5)
-
 - **[2026.07.16] 株式会社インプレス — ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める**
   日本語：要約：ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWpGa2ZFekRYcVBOUzF2Q3ZRVTFORnMzMF9TbjlpQWhfRWRSZzZUNWdyX3FmOHZDUHppYTJZS2NpTXdJcnZnN1ZiRHc0VGFhVUl5Z2QybFpsdG9rZEg0bXJSWQ?oc=5)
+
+- **[2026.07.17] ロボスタ — NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表**
+  日本語：要約：NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 NVIDIAが世界モデルの推進コミュニティ「Cosmos Coalition」を日本企業に拡大・フィジカルAI向け新モデル「Cosmos 3 Edge」も発表，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [ロボスタ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5paVZYTHRLXzctYVJSTi12STdHMm9LRTcxTHdfVmNBRHdUcE5td2IxejRpZGxETEpEMFNCOWZaaWtJay1NcTFEeGZTWmdQVnlkcTBtTWtvTTBtQ3VRODkwRzZnRlI?oc=5)
 
 - **[2026.07.16] Fujitsu Global — 富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始**
   日本語：要約：富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
