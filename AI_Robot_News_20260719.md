@@ -12,6 +12,11 @@
 ## 🇺🇸 美国 / United States
 
 
+- **[2026.07.19] Chosunbiz — Chung Eui-sun lifts Boston Dynamics stake as Hyundai Group moves to full control and IPO - CHOSUNBIZ**
+  English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Chung Eui-sun lifts Boston Dynamics stake as Hyundai Group moves to full control and IPO - CHOSUNBIZ，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Chosunbiz](https://news.google.com/rss/articles/CBMiggFBVV95cUxNckpaSU5FbnkyZlJYT1RFb3A5SUFrWVZ1UGF3VEs4Mm4xQ2RXZ19IOHZ1amFIaHc2RUI3U0hJSGY5emx0MUxmU2pRay1WeE84VG42VlRvMlBYcDN0dDR0QUJsMFdrUnhkdlJCMjFPVDdVS3IybmhidUN0RE4wcDJtMGln0gGWAUFVX3lxTFBOUTJnS2dLdnFacFdYUWw1UTh3UjlXX3N1OXA3Zzh6ckl2UkE2S1Fwc09OOWp4aXJRUG12QkZ4elMxaXZEWWtTTFVOR3UyUGNqWVYwaVlLVklxUERfZVNydTFsdGtZUHhHeGhEWTg0NWdGajlnajBfNmFYbEhuTExweHJNRWg3UzJ5c3I3MzZhZDRoUXJUUQ?oc=5)
+
 - **[2026.07.16] Engadget — Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics**
   English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai Reportedly Looking To Take Total Control Of Robotics Giant Boston Dynamics，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -31,11 +36,6 @@
   English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai to acquire remaining Boston Dynamics stake: sources，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Yonhap News Agency](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uaXRQWi1ndE1JQkl1MkVkZEtqSDFfbG5oZ2JhbkNWd2lhS2x6cUpFNnllSm5wY2Nyb0ZVY2tnMlltN1VOaEppWlU3aFdISFJQN2VUUGVRVmVuQQ?oc=5)
-
-- **[2026.07.16] ET Auto — Hyundai Motor to fully acquire Boston Dynamics, plans humanoid robot deployment in US plant**
-  English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai Motor to fully acquire Boston Dynamics, plans humanoid robot deployment in US plant，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [ET Auto](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa0tjUEFLN3FERE5vaUVGU3FEaUkzSG96NEtHSmZBSjQwcEk0TnJCcU9FSk8ySzI1QllPOG1CaEJEZ2lWcWJlaWlUZGVLQlZTbUpmVElOcEtaREZhaTlvWFlPLUxON1Vkc00yc3YxaGUzYUFSN2VabzJzcUljSDYwRm1pTjFJWEtyRzdYUGp3MG5PT0pLQ25GeHhObTVpSGl4bzFzdDBONWNFQ3lpbU9HbjlqMnFrYk1FNEJTTEZTT0Rfa1Y4Smd5Q3hGcXNqVXluRUZnSThuSGxvc1VPaFZPTFJKWnBEelVLUzhHWm9Ia0QteWk1WWfSAfsBQVVfeXFMTm9vNTJoOExXZ1A5dERRVElldW95Vkd2dklMSWlnZmlscHBNSWhwSUtqdFdvb3FIY1lSTHZCWWhlVk41bnRlM1Y1eHp5NmIzSFJlSVpiMjBGTVMyWFZkczlobl9MbDVIYnVxSGt1TU9aYmdBRVpycHIxbkYwSjFaN25ya054RkVQUzRiVnYxVVpNenAxcHlXVTgyUWdwYjlnNG9zeTFhVTJQVkxnRGR6TFQtRjNrOEp4WWtjUGZielNYV0NNS19maGp1aFJQMVpqblVyLXhPMzNGVGF6cjlEeVJNbXBxeTNIUXd5RDV4cm9MT3V5cFJ6anhPWWs?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -70,6 +70,11 @@
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.07.16] Fujitsu Global — 富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始**
+  日本語：要約：富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Fujitsu Global](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yck1ZMnJQOF8yRVctV3NPZy1ZaHJrMm85U3g1Mk5UME1qeWMxN3hCSnhyaWl6ZFdHajZHcnZZcExtdDVoLTlXUDFnZmZoMm44cFZLRHdhYkhudDFWZXdj?oc=5)
+
 - **[2026.07.18] ABEMA — “日本の勝ち筋”…？フィジカルAIって何 人手不足の問題解消なるか**
   日本語：要約：“日本の勝ち筋”…？フィジカルAIって何 人手不足の問題解消なるか は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 “日本の勝ち筋”…？フィジカルAIって何 人手不足の問題解消なるか，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
@@ -84,11 +89,6 @@
   日本語：要約：ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 ニュース 日本独自のフィジカルAIを作り、AIロボットの社会実装を進める，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kYWpGa2ZFekRYcVBOUzF2Q3ZRVTFORnMzMF9TbjlpQWhfRWRSZzZUNWdyX3FmOHZDUHppYTJZS2NpTXdJcnZnN1ZiRHc0VGFhVUl5Z2QybFpsdG9rZEg0bXJSWQ?oc=5)
-
-- **[2026.07.16] Fujitsu Global — 富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始**
-  日本語：要約：富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 富士通が、ファナック、安川電機、川崎重工業の各社と、NVIDIAの技術を取り入れたフィジカルAIの社会実装に向けた事業検討を開始，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Fujitsu Global](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yck1ZMnJQOF8yRVctV3NPZy1ZaHJrMm85U3g1Mk5UME1qeWMxN3hCSnhyaWl6ZFdHajZHcnZZcExtdDVoLTlXUDFnZmZoMm44cFZLRHdhYkhudDFWZXdj?oc=5)
 
 - **[2026.07.17] 日経ビジネス電子版 — エヌビディアCEO「日本よ、もっと速く」 国産基盤始動、フィジカルAIで連携**
   日本語：要約：エヌビディアCEO「日本よ、もっと速く」 国産基盤始動、フィジカルAIで連携 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
