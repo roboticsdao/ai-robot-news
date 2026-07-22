@@ -41,6 +41,11 @@
 ## 🇨🇳 中国 / China
 
 
+- **[2026.07.22] Sohu — 优必选已领衔制定八项人形机器人国行标**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkNBZkNfaGNOYnJMeTZEVHcxQWZOQXN0bnhtb2VyTXN0NjhicmtwZEk0am4zOWFWRWpoNWY1MlVwMVA2d0tQR0FQVW5sZTNqQzJ6UEhrMDJ0cDdBV2hucWZhTkdwcnd3aTVRc3FvYmhNUTJlS3U2TElzUVpFUGpMUjZzdG10ODVNblpJeg?oc=5)
+
 - **[2026.07.21] 新浪网 — 生成式人工智能和人形机器人企业增长很快，普通人如何进入这些行业？**
   中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
@@ -51,20 +56,15 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [南方财经](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yUkZoNHU4aGFocURrWXJnTjBZZkRycGV6VEhiZkRVUFVmNkh5YlEwcmRJdDV5azFMZnlwOWNsMnNWN21vSWxLOWpYNmUwVE01dktxUC0tNUJpUGJDMGtlXzdTTHlSNWsx?oc=5)
 
-- **[2026.07.20] Sohu — 从研究院到子公司，宝山与宇树再牵手，人形机器人的“自我造血”时代来了！**
+- **[2026.07.20] 智东西 — 今天，宇树最新模型发布**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [Sohu](https://news.google.com/rss/articles/CBMijwFBVV95cUxObDN1QkQ5cXVoeDF0UXRXeXI5SDhGSWxsTndBWWlLd01HSlBIRmI4Tl93Njg2X2piT1UyMFhQOXFOdWtlcEM0VHFPeFkzWVlIbDc5cU1nbEg2RjhGUDZaTDhpU0FBaGlSQXpxSVJzZG5FWVczNEtZc2JIbjFyNWRRVFBnQUVyWmRXV3ZPcHNuMA?oc=5)
+  📰 [智东西](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GejdzWUotb2JqNlZUaHZJYkpKcjh3YWljc2lLRXhvcnRJVTJnVDQ2dEVHbmJtNzBvU2xOcE1BQ1g2WTEzTGc?oc=5)
 
-- **[2026.07.21] 新浪财经 — WAIC，机器人变了|上海世博展览馆|具身智能|宇树科技|产业链|阶跃星辰_手机新浪网**
+- **[2026.07.21] 新浪网 — WAIC，机器人变了|上海世博展览馆|具身智能|宇树科技|产业链|阶跃星辰_手机新浪网**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMiuwNBVV95cUxPMTlrUEZKakMtSkE1d2RzallGUkJwYjh6RWotdThwVG8xVktmb1VwSno5UHlCY05KWDRVWDN6VlJRdVcxcXRNX2d1QXZnWHQ5NlFDZ09JOURxUUNQZFlKbVBvX0NrakJieERWa3RGejNTUXp4bWlvVjRpN3YxeVJ1a1VKNDF3SmwyMzVJYkFCTENBcFFUVXZXTloyUnpvaWZJemNLdllIMnVFVjdpT0tqVnp3TFB3Szc1V2o2b3pIeXREaDN3LVg2OU9zX3dTTWo2UmlkUHhOejlGWnUxRHlhMEZNN0NCSVV3cE11RFRWajNxX2xDM0tVQThQU2lNWVJfaTJZeXVlZWs0SVpYbnhvbmpzTFg5T0h4RGhnckpyaEhCVmpyN1lPVWhjQXdDVVJQTjZjZHBMZUNWNlM2c1VpZlh3dlp0c0U3ZlR6amR3c3k5Z2dMN2pJOUxzTDJLRnlDYUxhYlVVTEdtMTViTmo1UVdOd201S1RPRGNySDZtaFI0MEpXWUExR1F2QXB6Ynk5c2szTlhpVkNHUlpVbHRuLTRtR3ZyLVJ2RDVfS1JoTFhVYjVWUVpzVFZTVQ?oc=5)
-
-- **[2026.07.21] article.9466.com — 宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [article.9466.com](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kMnJNc0JhZTVXTmRJMGZQZUZtc0szNGRaRDRzVDh6NmR2aDcydDNaakRkZXp2X3VUVjFRZHpXb2l0R2xLNnlZZVlidVZoVlU?oc=5)
+  📰 [新浪网](https://news.google.com/rss/articles/CBMiuwNBVV95cUxPMTlrUEZKakMtSkE1d2RzallGUkJwYjh6RWotdThwVG8xVktmb1VwSno5UHlCY05KWDRVWDN6VlJRdVcxcXRNX2d1QXZnWHQ5NlFDZ09JOURxUUNQZFlKbVBvX0NrakJieERWa3RGejNTUXp4bWlvVjRpN3YxeVJ1a1VKNDF3SmwyMzVJYkFCTENBcFFUVXZXTloyUnpvaWZJemNLdllIMnVFVjdpT0tqVnp3TFB3Szc1V2o2b3pIeXREaDN3LVg2OU9zX3dTTWo2UmlkUHhOejlGWnUxRHlhMEZNN0NCSVV3cE11RFRWajNxX2xDM0tVQThQU2lNWVJfaTJZeXVlZWs0SVpYbnhvbmpzTFg5T0h4RGhnckpyaEhCVmpyN1lPVWhjQXdDVVJQTjZjZHBMZUNWNlM2c1VpZlh3dlp0c0U3ZlR6amR3c3k5Z2dMN2pJOUxzTDJLRnlDYUxhYlVVTEdtMTViTmo1UVdOd201S1RPRGNySDZtaFI0MEpXWUExR1F2QXB6Ynk5c2szTlhpVkNHUlpVbHRuLTRtR3ZyLVJ2RDVfS1JoTFhVYjVWUVpzVFZTVQ?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
@@ -80,6 +80,11 @@
   中文：总结：这条日本市场新闻围绕 AIが実世界で働く時代へ。経産省が示したフィジカルAI政策とNoetraの挑戦，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [ソフトバンク](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JUEt2b0RmV3diRHF0UlhDbXdLSXBMT0xUYlZpaDJ5VkZPYWlfd2RQeVUya09pT3p3ZlZzc05CUEhoQl9rTkVpUlNsVzRLV2NVTHdiNmRwWTBqSWRF?oc=5)
 
+- **[2026.07.22] Yahoo!ファイナンス — iシェアーズ オートメーション&ロボット ETF【2522】：株価・株式情報（夜間PTS含む）**
+  日本語：要約：iシェアーズ オートメーション&ロボット ETF【2522】：株価・株式情報（夜間PTS含む） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 iシェアーズ オートメーション&ロボット ETF【2522】：株価・株式情報（夜間PTS含む），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIanlCX0dzOFRGcDJGaFpTWGgwNzloNUU1RGhjYVM5N2E2dGxMNktvbXNfVjNlUTlMNnJCMVdGR3BiZ24yUENkcGk0MUxpdWRwNkE?oc=5)
+
 - **[2026.07.22] ビジネスネットワーク — 「日本のAI、意外な実需が製造業」GMOインターネット 武田氏**
   日本語：要約：「日本のAI、意外な実需が製造業」GMOインターネット 武田氏 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 「日本のAI、意外な実需が製造業」GMOインターネット 武田氏，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
@@ -89,11 +94,6 @@
   日本語：要約：日本発AIフライトコントローラー開発へ アトラックラボ、福島県補助金に採択 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 日本発AIフライトコントローラー開発へ アトラックラボ、福島県補助金に採択，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE52Qlhfay1MVWJRVUZZcGZGQktHVjh2NDlIblJMX2FkWHc1bmJWUG9URGZJeW1PUldJeVBreG5rWDVYdWdCWDRrZ2JJajJmZUxSekFya2VtcC1vb2NRd1h1VUxpdkVoM2dfWGc?oc=5)
-
-- **[2026.07.22] ITmedia — フィジカルAIが変える現場の現実 シャープら44社がNoetraに参画：海外依存脱却へ1兆円規模の国家プロジェクト**
-  日本語：要約：フィジカルAIが変える現場の現実 シャープら44社がNoetraに参画：海外依存脱却へ1兆円規模の国家プロジェクト は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 フィジカルAIが変える現場の現実 シャープら44社がNoetraに参画：海外依存脱却へ1兆円規模の国家プロジェクト，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [ITmedia](https://news.google.com/rss/articles/CBMibEFVX3lxTE9yeUZBaU5tbXh3Z1pvLWZkQnljbzBiUVVhM1IxdnoxMUZ6V043UzRUNnlOY0xwR2ZTVW1takU2MUFfaDg4NFRJYkpaZEtNMFZabmE4RTRfN2ZqemNWTm1yZWluRnpocUN2NXd5Vg?oc=5)
 
 
 ---
