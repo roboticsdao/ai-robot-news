@@ -41,6 +41,11 @@
 ## 🇨🇳 中国 / China
 
 
+- **[2026.07.23] 新浪网 — 宇树科技创始人预测的具身智能“ChatGPT时刻”何时到来？**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNGM4Sm0wTldHekcxbDU4TWUtSzNFN0xsQlZaa0ZYMTR4dzVYUkFsTUFud2hDWTdMSGp6OXYzbzVhQ0xVX1hvUmk4NXlvalc0TkNJdXVGSW1YT2ljN0JnbUdSbWtUWTR0YWRvNTk3REFGc1lnbk1GRHNBOTlBNTQ?oc=5)
+
 - **[2026.07.23] 新浪财经 — 宇树王兴兴：具身智能“ChatGPT时刻”有望最快两三年内到来**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
@@ -51,20 +56,15 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDFLVGhhc0ZPN1VWTVdJYWtWdDN3ZnpyU082cnl2X2ZjN2I0Mk9mSGNlWXJ5UktiTE0teTNNQ1FtWDZsd3RBWXVIQU1yN2pfWEItdmRaNTgxZDE2dDVkS1lUQWtNWEZ0eXZ3QVNNbkhrdmJ2MjRhMXQ1QUF4MVZGbFQyRElveUV3YmZFVA?oc=5)
 
-- **[2026.07.22] 财富号 — 优必选订单暴涨，风口还是泡沫？万亿机器人行业要变天了？押注情感机器人，优必选有戏吗？#人工智能#机器**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [财富号](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSzVWcE5QRFR0eEZOamtRdVVzbnY1Y0U2LTFEblN0ZU1kY05OaDFkTzM0VklVRlV6MTN1WndIcUVNT0FPakpkQUdFZm9ZdGRwZ1ZYcEc0N2liczdlb0c1bWwyT0pYYTVPeWV3?oc=5)
-
 - **[2026.07.22] 驱动之家 — 宇树科技：具身智能GPT时刻最快在两三年内到来-快科技-科技改变生活**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE85SXFiVERMRGtpd09fa1huX3VGY3ZUMkVjUmRuUmliU2NuMlpfbm5vQUNvR0k2ZzVBTFQ2UkdLNTZCaEpaOFJzVWhIWTFiVnJvanBabjRCVDA?oc=5)
 
-- **[2026.07.22] 集微网 — 宇树科技：机器人领域的“GPT时刻”仍需数年才能到来**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+- **[2026.07.22] 财富号 — 优必选订单暴涨，风口还是泡沫？万亿机器人行业要变天了？押注情感机器人，优必选有戏吗？#人工智能#机器**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [集微网](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Zc0N5eEhVZkNicVpkSTdQNklxbU02cEVJTk1GcWotb2xCUDBIWVc0Qzd4eGYtX0VQUEJ3d29jb19KMFk?oc=5)
+  📰 [财富号](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSzVWcE5QRFR0eEZOamtRdVVzbnY1Y0U2LTFEblN0ZU1kY05OaDFkTzM0VklVRlV6MTN1WndIcUVNT0FPakpkQUdFZm9ZdGRwZ1ZYcEc0N2liczdlb0c1bWwyT0pYYTVPeWV3?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
