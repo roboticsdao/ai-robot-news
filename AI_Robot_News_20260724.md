@@ -41,20 +41,15 @@
 ## 🇨🇳 中国 / China
 
 
-- **[2026.07.23] Sohu — 宇树王兴兴：具身智能“ChatGPT时刻”最快两三年内到来**
+- **[2026.07.23] 搜狐网 — 宇树王兴兴：具身智能“ChatGPT时刻”最快两三年内到来**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHRCMnQ0MkF3ZWZHQS1TN0Z0NnZNOG1kS3JlTC1ReHltb2trXzBUTlJtdGJWSlJHRnF4T3V3ck9sREVRd1FtX1pZcjVSb2EtRGhuV2VZb0NXYWtTT21xWi00TDgweXlJUFlQWHZNZ1JZTmxvajdWd2lib2cxeXlRd1A4eXVuVWlL?oc=5)
+  📰 [搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHRCMnQ0MkF3ZWZHQS1TN0Z0NnZNOG1kS3JlTC1ReHltb2trXzBUTlJtdGJWSlJHRnF4T3V3ck9sREVRd1FtX1pZcjVSb2EtRGhuV2VZb0NXYWtTT21xWi00TDgweXlJUFlQWHZNZ1JZTmxvajdWd2lib2cxeXlRd1A4eXVuVWlL?oc=5)
 
 - **[2026.07.23] 新浪网 — 宇树科技创始人预测的具身智能“ChatGPT时刻”何时到来？**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNGM4Sm0wTldHekcxbDU4TWUtSzNFN0xsQlZaa0ZYMTR4dzVYUkFsTUFud2hDWTdMSGp6OXYzbzVhQ0xVX1hvUmk4NXlvalc0TkNJdXVGSW1YT2ljN0JnbUdSbWtUWTR0YWRvNTk3REFGc1lnbk1GRHNBOTlBNTQ?oc=5)
-
-- **[2026.07.23] 腾讯新闻 — 内蒙古乌海市宇树机器人表演，我们在喜悦多市集，机器人不仅能跳舞表演，还能做迎宾员，还能做服务员**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [腾讯新闻](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMks4bGZoZ2pnYW02b2diczZaejBSMUI5ZFZ4bGI0a21qYmFJUS1iOGVGa0UzM1Fhc215S1c5emRfakpxU1ZDUHhha3hObHQzV3lXaHRR?oc=5)
 
 - **[2026.07.23] 新浪财经 — 宇树王兴兴：具身智能“ChatGPT时刻”有望最快两三年内到来**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -66,6 +61,11 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE85SXFiVERMRGtpd09fa1huX3VGY3ZUMkVjUmRuUmliU2NuMlpfbm5vQUNvR0k2ZzVBTFQ2UkdLNTZCaEpaOFJzVWhIWTFiVnJvanBabjRCVDA?oc=5)
 
+- **[2026.07.23] 腾讯新闻 — 内蒙古乌海市宇树机器人表演，我们在喜悦多市集，机器人不仅能跳舞表演，还能做迎宾员，还能做服务员**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [腾讯新闻](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMks4bGZoZ2pnYW02b2diczZaejBSMUI5ZFZ4bGI0a21qYmFJUS1iOGVGa0UzM1Fhc215S1c5emRfakpxU1ZDUHhha3hObHQzV3lXaHRR?oc=5)
+
 
 ## 🇯🇵 日本 / Japan
 
@@ -75,15 +75,15 @@
   中文：总结：这条日本市场新闻围绕 三菱自、ヒト型ロボ量産でAI銘柄へ 自動車株で先行反転，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [日本経済新聞](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wUDhNTUY1dm9tSHpKQjIyUXgzWFJIVExpSWV6MzlzN2lEcEZuSnY2NmQyUDdzS09GcmFudE1odnNpUkxwOGRpN0FsaHB6YTNtSlp2MUtEZmRya3FUaE1MdVhQa0xfSjdCdGV0dFpEcVk4dXhqYTRCRnFLS1U2dw?oc=5)
 
-- **[2026.07.23] AIsmiley — 「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27**
-  日本語：要約：「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [AIsmiley](https://news.google.com/rss/articles/CBMiakFVX3lxTE45MldiT1RjSm9GRTJyc1BzUGw1MC1XTktKNUhVeWlINVJCQjJ6dkp1S3NFT1lTQjRVU3I4S01pbVRjTUJyZnloYVFseGRpRVhaQzF2WDhqcm5wTHVQQ09Mb2dZRHJrcDdEV3c?oc=5)
-
 - **[2026.07.22] TradingView — ロボットAI企業のノエトラは、日本にとって「最後のチャンス」だとCEOが語る**
   日本語：要約：ロボットAI企業のノエトラは、日本にとって「最後のチャンス」だとCEOが語る は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 ロボットAI企業のノエトラは、日本にとって「最後のチャンス」だとCEOが語る，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [TradingView](https://news.google.com/rss/articles/CBMid0FVX3lxTFAzQWx1aFRUYWl1NXJ0SzR6WU4zWXFIaXk0NHloa0pxaXJUTVdpa0hSTUZ6S3hTWlotRFJZcXBfVHotUFM2bWxIazFRZUcybER5QW5lV0NXejYwSE02LWJnd1UwVFl4TF9EUzRtWW9BT0FORTlQaWZR?oc=5)
+
+- **[2026.07.23] AIsmiley — 「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27**
+  日本語：要約：「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 「最強のヒューマノイドは 日本から生まれる」｜AI博覧会 Summer 2026｜8/26-27，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [AIsmiley](https://news.google.com/rss/articles/CBMiakFVX3lxTE45MldiT1RjSm9GRTJyc1BzUGw1MC1XTktKNUhVeWlINVJCQjJ6dkp1S3NFT1lTQjRVU3I4S01pbVRjTUJyZnloYVFseGRpRVhaQzF2WDhqcm5wTHVQQ09Mb2dZRHJrcDdEV3c?oc=5)
 
 - **[2026.07.23] アットプレス — 「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇**
   日本語：要約：「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
