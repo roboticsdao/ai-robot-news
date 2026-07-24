@@ -17,10 +17,10 @@
   中文：总结：这条新闻围绕 Hyundai claims humanoid robot plan is not part of talks with striking workers，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Ars Technica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5)
 
-- **[2026.07.23] 매일경제 — Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market**
-  English: Summary: Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
-  中文：总结：这条新闻围绕 Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [매일경제](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5OHFfc3ZHTWNIdTh6TEJpLXFTRUp4cjljV09wYXhrd0dPeEhQUFNoQkh6SmY0TEpwVF81QWlNTlFOZ1BfS2tKRmY2WTlKaGZlazVUM1NHRQ?oc=5)
+- **[2026.07.24] The Robot Report — Uber co-founder raises $1.7B for new robotics startup ATOMS**
+  English: Summary: Uber co-founder raises $1.7B for new robotics startup ATOMS fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 Uber co-founder raises $1.7B for new robotics startup ATOMS，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [The Robot Report](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkJjaERlYllqaTNCcnJySVo4YjJHdGxNVnZqQVJLd2tOaTZGVmN2TGRYMV8tbWRBek1GM3d1S3dMTnRhZzJfMFhneXhIc19vLVpTblpIVVFEYS1xeTZfRXhmQjRHTFdpbm1nTFFESmVfcEtzcVBPZDBHVUtJSk00RS1zTWpiRFpUSGZ5eTZsb0hSSUtn?oc=5)
 
 - **[2026.07.23] Forkliftaction — Hyundai moves to acquire 100% of Boston Dynamics, Korea, Republic Of. News story in Forkliftaction News**
   English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
@@ -32,10 +32,10 @@
   中文：总结：这条新闻围绕 Hyundai’s full Boston Dynamics takeover sparks preemptive robot strike，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [MSN](https://news.google.com/rss/articles/CBMiggJBVV95cUxQY05hYjlzMURxMjduZHk3dVdqbU84dnRTZG5fRXRMMFZYSHlISFI1WVZZVlcyT0lLbDJBMURpYk1YQ1NEeDVXQ3FkV1FmcExyWG5neFctSTQ2OThVQUtrMHFoMW5Qc2JFeGRMZXFXQmx5TERYODFzM2dYQWZkd3pyYTdud3NJTUstZVJ6MmwzLWJuZ3Q4ZXVSM3J1VmUwS0xZdEMtU1VzVmhqWDlSS1k5TXMtNGR4OVV1WWZzQkpzVXAybERIUnYxV3QwZnIydFk5T1lvcUZZRnBaSlJ0dXQ5RDdudEl1ZUE4UmEwWGZ1MzhWLVJwZkRTaEVzbWp5eDFKaXc?oc=5)
 
-- **[2026.07.21] The Korea Herald — Hyundai deepens FIFA partnership with robotics push**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai deepens FIFA partnership with robotics push，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QZEhUckxsS2t3eUFzYkUtOVMtVHFqdjJtZ1RKQkx4a3FDNnhTdkR3OFYwYTdtTDN0SE10c0lYSFI5TVRmM216bnp1MDFHeGctYVZDR2hSUQ?oc=5)
+- **[2026.07.23] 매일경제 — Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market**
+  English: Summary: Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [매일경제](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5OHFfc3ZHTWNIdTh6TEJpLXFTRUp4cjljV09wYXhrd0dPeEhQUFNoQkh6SmY0TEpwVF81QWlNTlFOZ1BfS2tKRmY2WTlKaGZlazVUM1NHRQ?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -46,10 +46,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHRCMnQ0MkF3ZWZHQS1TN0Z0NnZNOG1kS3JlTC1ReHltb2trXzBUTlJtdGJWSlJHRnF4T3V3ck9sREVRd1FtX1pZcjVSb2EtRGhuV2VZb0NXYWtTT21xWi00TDgweXlJUFlQWHZNZ1JZTmxvajdWd2lib2cxeXlRd1A4eXVuVWlL?oc=5)
 
-- **[2026.07.23] 新浪网 — 王兴兴：具身智能的“ChatGPT时刻”有望两三年内到来**
-  中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+- **[2026.07.23] 新浪网 — 宇树科技创始人预测的具身智能“ChatGPT时刻”何时到来？**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Z011dUR6VXROTFg1VHkwc3NxTFF5NldITndQbGg2bFVfUGIwTUMxTFNoMV9WNXh6dk5VSy1PSzBGbTh6RHZfMGZHanp1MklENGtDdnI5RDBNTXB2MlVUUUp0OVIzR0lQRmxNekY5N1hra0F2ejd2YzA5TjNVbXc?oc=5)
+  📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNGM4Sm0wTldHekcxbDU4TWUtSzNFN0xsQlZaa0ZYMTR4dzVYUkFsTUFud2hDWTdMSGp6OXYzbzVhQ0xVX1hvUmk4NXlvalc0TkNJdXVGSW1YT2ljN0JnbUdSbWtUWTR0YWRvNTk3REFGc1lnbk1GRHNBOTlBNTQ?oc=5)
 
 - **[2026.07.23] 腾讯新闻 — 内蒙古乌海市宇树机器人表演，我们在喜悦多市集，机器人不仅能跳舞表演，还能做迎宾员，还能做服务员**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -88,7 +88,7 @@
 - **[2026.07.23] アットプレス — 「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇**
   日本語：要約：「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 「AI博覧会 Summer 2026」カンファレンス第1弾スピーカーを発表！二足歩行ヒューマノイドのドーナッツロボティクス、国産LLM「PLaMo」のPreferred Networksが登壇，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYOEZDclYwNGI2S1JDSEhDNk13bHhvbTQwblAzc0dHV05HbzZPMExLdlAzNGtuTEhPdGNDQTkzOXlORWFxS0l0OFlzTkpqRVU?oc=5)
+  📰 [アットプレス](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yckJMaDlGN3BNZlFMN2VwWmdjOEc5bjVCcjdiTTlha1R5S3ZmRjJObFdaN2kyNTltbVRBbXhCNWczNlcxX0JuMlBYT1I3UQ?oc=5)
 
 - **[2026.07.21] ソフトバンク — AIが実世界で働く時代へ。経産省が示したフィジカルAI政策とNoetraの挑戦**
   日本語：要約：AIが実世界で働く時代へ。経産省が示したフィジカルAI政策とNoetraの挑戦 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
