@@ -12,11 +12,6 @@
 ## 🇺🇸 美国 / United States
 
 
-- **[2026.07.23] Ars Technica — Hyundai claims humanoid robot plan is not part of talks with striking workers**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai claims humanoid robot plan is not part of talks with striking workers，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [Ars Technica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5)
-
 - **[2026.07.25] Tech Times — AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory**
   English: Summary: AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
   中文：总结：这条新闻围绕 AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -37,6 +32,11 @@
   中文：总结：这条新闻围绕 Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [매일경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rYkplZDlqV0N2N1hUQlVMSmdYT1BEaExhcUQzUXhwLVlNbUdSVXVJX3NPeUFHdHhfNVhYS3B3a2hSTGxzWk1UVzJnQkVrY1EwSFE?oc=5)
 
+- **[2026.07.23] The Korea Herald — Samsung, LG Display pitch OLED for humanoid face**
+  English: Summary: Samsung, LG Display pitch OLED for humanoid face signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Samsung, LG Display pitch OLED for humanoid face，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUGlvOEFLLWdBa2JHZDB1bjR0cTlfNjAxMHl4bEthRnM2S1pCWEhCbHNHTndtWExnN3c2ZVR4dkVfb1k5T2g3bHhBRnNnWERDUDJBbzRWUQ?oc=5)
+
 
 ## 🇨🇳 中国 / China
 
@@ -56,15 +56,15 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [DoNews](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NENldGNGVlNvd09zRnBENGFaRm9XVEwtWHBJcDljcUxhLTlSOG5hNmJhU0VCQnRVVFVQTFlfSEtpSkxsSzRSd0F0OWJhQzA0LXpHSDFrSWxfWWtGdUE?oc=5)
 
-- **[2026.07.24] FX168 — 人形机器人概念股观察丨优必选(09880.HK)震荡下跌近5%，公司已牵头制定八项人形机器人首批国家标准**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [FX168](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWY4V21HUjRENTJaNk1nc28yeFotYnhEVGhYa2l4OUQ4MEIzX0RkRW1NTEtZYS1xaXFhYzl3bTB5SllxMkNMSGNDUHlTVFBRanhFX1VIMk5vNEwxbWF6MkoyalVzNmhiR01aMDRkbEt3elJsdEp0dExTWjlXYUxhYm9mbTA?oc=5)
-
 - **[2026.07.23] 新浪网 — 宇树科技创始人预测的具身智能“ChatGPT时刻”何时到来？**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNGM4Sm0wTldHekcxbDU4TWUtSzNFN0xsQlZaa0ZYMTR4dzVYUkFsTUFud2hDWTdMSGp6OXYzbzVhQ0xVX1hvUmk4NXlvalc0TkNJdXVGSW1YT2ljN0JnbUdSbWtUWTR0YWRvNTk3REFGc1lnbk1GRHNBOTlBNTQ?oc=5)
+
+- **[2026.07.24] FX168 — 人形机器人概念股观察丨优必选(09880.HK)震荡下跌近5%，公司已牵头制定八项人形机器人首批国家标准**
+  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [FX168](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWY4V21HUjRENTJaNk1nc28yeFotYnhEVGhYa2l4OUQ4MEIzX0RkRW1NTEtZYS1xaXFhYzl3bTB5SllxMkNMSGNDUHlTVFBRanhFX1VIMk5vNEwxbWF6MkoyalVzNmhiR01aMDRkbEt3elJsdEp0dExTWjlXYUxhYm9mbTA?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
