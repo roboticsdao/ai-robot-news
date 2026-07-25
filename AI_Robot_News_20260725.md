@@ -17,6 +17,11 @@
   中文：总结：这条新闻围绕 Hyundai claims humanoid robot plan is not part of talks with striking workers，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Ars Technica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5)
 
+- **[2026.07.25] Tech Times — AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory**
+  English: Summary: AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Tech Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTExpZ0xBX1hoZFRxa1pxRE0tZWkzMHpVOE1pd3ZWdldjR293dk5sakFwazgteENCcTUwZXF4Wkx1SElDV2l4UmVzRDFVNkhfQzBTVjBLSWVJWmtVMkdsdUFKVFhzbzVMLWpkZ0syRkh1RkxGeWpPMkw1RjNjdjY5N3Bsdm1VR3RtZFdNODRtZWYwZ3lUbFFsTFV5UzVtbHFhZE4tNXNDYmVlaXN3RzZnZlE1WW1aM1NoejJBSFB1dldBZ3I0aUJjOUVR?oc=5)
+
 - **[2026.07.23] Forkliftaction — Hyundai moves to acquire 100% of Boston Dynamics, Korea, Republic Of. News story in Forkliftaction News**
   English: Summary: Boston Dynamics, Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai moves to acquire 100% of Boston Dynamics, Korea, Republic Of. News story in Forkliftaction News，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -32,39 +37,34 @@
   中文：总结：这条新闻围绕 Samsung Electro-Mechanics, LG Innotek vie for humanoid robot camera market，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [매일경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rYkplZDlqV0N2N1hUQlVMSmdYT1BEaExhcUQzUXhwLVlNbUdSVXVJX3NPeUFHdHhfNVhYS3B3a2hSTGxzWk1UVzJnQkVrY1EwSFE?oc=5)
 
-- **[2026.07.23] Crypto Briefing — Tesla raises 2026 capex guidance to over $25B as it bets big on AI and robotics**
-  English: Summary: Tesla raises 2026 capex guidance to over $25B as it bets big on AI and robotics fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
-  中文：总结：这条新闻围绕 Tesla raises 2026 capex guidance to over $25B as it bets big on AI and robotics，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [Crypto Briefing](https://news.google.com/rss/articles/CBMidkFVX3lxTE5acTRjZzA0S3VmczhNYVU5N2xFMnVha1JGOVhJQkFmSk84QW1JdUhtQ0dlSi1zZlNMaUxsQ0NjOGdGMHR2ZnlxU2tVOG5uWEJQV3RLTGRCNjNKUUtEVloxQTdqSWVfaWdoTzRCR1Y4RDZkak1aLWc?oc=5)
-
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.07.24] Sohu — 全国首个！宇树科技基础教育具身智能实验室落地成都锦江**
+- **[2026.07.25] 新浪财经 — 顶尖机器人技术进校园！全国首个宇树科技基础教育具身智能实验室落地成都**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkttZGNYQUNnby1rVk9JOWtFXzdiTWxtN19KYkk3c0dmTkZldkl1YkJRZkNva09vNXEtSjVqYUJWM2dTRUFlcWFtb1J4a3F1OW1FNmw0dUJOWGNJY3Q2Y0QyWDZkUGZJNUFwS2h5dUxyMEt5NnRZNXpVbm9yMDRhSGRxOGhIVHJidUNySw?oc=5)
+  📰 [新浪财经](https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2xUQVdQZE54djFpYU90cFptT2FVRExRMF9mQnBWTFFvNTc4eERKQWtiRjdleUhyRF92Q0FjM2g2dThvUmFLTE5neEdvaUZWZm5ITVpEM3pMOXhOR3hfRU1WdDVPTlY1dWY5V1A1d1l5TnRXRTJKdUVJNHBSWUU3QUktZnhlXzdFMHZxZGV1QTNBUUkzVDJiOGNmT3RVTUFvbGUzWl9kM3dpV2RFSkJsbkhB?oc=5)
 
-- **[2026.07.24] 新浪财经 — 优必选在盐城成立智能机器人公司**
+- **[2026.07.24] 观点网 — 成都市与宇树科技签署战略合作协议 聚焦具身智能等领域**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsTlNBQ1hIWlpQcUZyeWYzanB4MUowY21SMXNSeXJiRWJvNmdITm92LWFQeS1qT3RCVTdKbjdGd3M0WjRvMm1LU3VmQkYtQQ?oc=5)
+
+- **[2026.07.24] DoNews — 宇树科技发布As2-W轮足机器人，支持180kg负重与30km续航**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [DoNews](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NENldGNGVlNvd09zRnBENGFaRm9XVEwtWHBJcDljcUxhLTlSOG5hNmJhU0VCQnRVVFVQTFlfSEtpSkxsSzRSd0F0OWJhQzA0LXpHSDFrSWxfWWtGdUE?oc=5)
+
+- **[2026.07.24] FX168 — 人形机器人概念股观察丨优必选(09880.HK)震荡下跌近5%，公司已牵头制定八项人形机器人首批国家标准**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMiT0FVX3lxTE11bk91MHI1Um9vTHVwUmhzeVQ0LVY4dVBTRzJ1Z3VVUkFlZ1EyZko2N2VhN0lFNEVUcUs1SnE3QzFsd0JhejNnNDNQRFhpUlE?oc=5)
+  📰 [FX168](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWY4V21HUjRENTJaNk1nc28yeFotYnhEVGhYa2l4OUQ4MEIzX0RkRW1NTEtZYS1xaXFhYzl3bTB5SllxMkNMSGNDUHlTVFBRanhFX1VIMk5vNEwxbWF6MkoyalVzNmhiR01aMDRkbEt3elJsdEp0dExTWjlXYUxhYm9mbTA?oc=5)
 
-- **[2026.07.22] Pchome电脑之家 — 优必选牵头制定八项人形机器人首批国标，覆盖运动控制等维度**
-  中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [Pchome电脑之家](https://news.google.com/rss/articles/CBMiVEFVX3lxTE91Q1ZnX21PR3J6UzBJVGhsZy1fbXF3UHpscEMwaWE2ajZvRDVNVmR3YkxTQnhkVDIwelFrckJRbmxkbVdxQlNoZ0VkcnN1eUVzbTA4Zg?oc=5)
-
-- **[2026.07.22] 鞭牛士 — 宇树科技王兴兴:具身智能的「ChatGPT时刻」有望最快在两三年内到来**
+- **[2026.07.23] 新浪网 — 宇树科技创始人预测的具身智能“ChatGPT时刻”何时到来？**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [鞭牛士](https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VnFQc0xWVXZmNTBQYXY0b0tCSkFHVmp5aENWWTVUMzBHRjdpOWdTMFVGcHdCTTlhaUd1YlFQc2ZtNEZWdUctZEdZZk5WUm1jM3c?oc=5)
-
-- **[2026.07.23] 新浪财经 — 人形机器人行业，正在等待一个属于自己的“安卓”|具身智能机器人|宇树科技|工信部|资本|数据_手机新浪网**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUnZSSS0ySVJFR1N4QzUtdk16NE1HaS1qT29EX2FaTTlQSHBxT1JqakNLMHFYcDMzVEVPemU1UWxhU1Bwb3ZwWWYzcFVTWUVhUDAtVGNGWVlidi1zR3pSTmI0b2RwUkZJaENFN1FQTzVtWWt5V0JLLWoyWVB4RV9TcG1hczZUWGJ0Z01BRGRVanhZZkRyVDBJTlM0ZkQ2djB2N1Nfd0l5VWY5R3MxVXNOeV9KMm44b0tGSm55d2hMREwzMzRzdzR3bGRKVlk1ejEtX3UyZnNtSFNJd21ZTjJfaFZSMXNUTmphMkdkdVRMNWlBdXVvZEFta0Ryd2NjbjdQVFMzZmhwcGZLTllsbHdGVFZuOU5KWU54M0NkUzg4TjRpUHRJUTlpODVsMA?oc=5)
+  📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNGM4Sm0wTldHekcxbDU4TWUtSzNFN0xsQlZaa0ZYMTR4dzVYUkFsTUFud2hDWTdMSGp6OXYzbzVhQ0xVX1hvUmk4NXlvalc0TkNJdXVGSW1YT2ljN0JnbUdSbWtUWTR0YWRvNTk3REFGc1lnbk1GRHNBOTlBNTQ?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
