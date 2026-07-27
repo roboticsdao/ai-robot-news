@@ -17,6 +17,11 @@
   中文：总结：这条新闻围绕 Hyundai Motor Group Establishes AVP Unit in Silicon Valley; Chairman Chung Euisun Declares "We Will Lead in Physical AI"，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFAxWG14ZFo1MEozMU5vSmpLVU8xRjFiOXQ0YmVwLTJRMmJIYjJBZnZjcGVHRkFqSzdGd1FPZ2E5enNvQUlUY2ZXMWY3QjZjdTA1cGppb1lhV3N3b0hDNHdfUUhHQ0c5ZThGN1kwWXBWMmN0SHJQS2c?oc=5)
 
+- **[2026.07.27] 한국금융신문 — Why Is Kia's Stock Lagging Despite Beating Hyundai on Earnings?**
+  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Why Is Kia's Stock Lagging Despite Beating Hyundai on Earnings?，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [한국금융신문](https://news.google.com/rss/articles/CBMifEFVX3lxTE1EUmdFUFhXX3d1RDdiaHVwTEFFOUpCbGdRalczMU1vVG82SC1sd1htMDlKMk5uQ1h3NDZfVF9IWUhYVlVtaWRzY25haFlLdEJFTmpPTlpNWWlUMkxmZU1HdjJaZVVpcW5JZWF1OS1aLXZKWl94eW93Qk9RQWw?oc=5)
+
 - **[2026.07.25] bloomingbit — Hyundai’s Chung Says Big Tech Partnerships Can Build Physical AI Ecosystem, Meets Nvidia CEO Huang**
   English: Summary: Hyundai, NVIDIA point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai’s Chung Says Big Tech Partnerships Can Build Physical AI Ecosystem, Meets Nvidia CEO Huang，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -36,6 +41,11 @@
 ## 🇨🇳 中国 / China
 
 
+- **[2026.07.26] finance.sina.com.cn — 全球首发 宇树机器人街头争霸赛亮相成都春熙路**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [finance.sina.com.cn](https://news.google.com/rss/articles/CBMipARBVV95cUxQN0xvUFNUVHJjZk5ubUg1bkdFdjVrSDQ3d2xnUEpmVVl2bzJaU2NPTVVUcG1YUU5DX0pHTjdNWHZVVHpqRE1id3p4WkRBU1ZhejVCQkp0ZU5TR3U4TXdTeUlncHJmV2pWY2o1T1dNSndrdVYzOTZ1VS0tVzVub2l0UVZoLTNtaDc3c3dzZzFMbkhuRk9LMFVTQU5EejlJcmZUMm1IQnJCSDhsUHpyT1RYcHFHZENENnZmRzFKSXVsTTFFdWQ3SzROZm9pTjZUNEFOTzNRTktycUo0eDNteU1uRTRNNDYySFNtdE5uQldYNGd2Z3BMVFVrcFFyekZ3aFVmcGJoU1VvZ2pmZkd4SVBHRGFwVWF4VHM1LUFJV1BrLXFpc2I0WlduMUVZVF9sQnhPRWJPekhnTnByNndfVFlYVnJqNzFLeGF2bjdZb1BQYWJ2VUNqZjJSRFJ2OC1UQ3VfbTBQd1JFb2VXNG8tYTdKWXRFUzlCazc5aWhkV1VNekk1TU5yVHlkN1N6b2czQUZ1azJXdml4WWdKdHNhQ1BCSkdMdURVVE9KX1p4QnpWMjFlWWJUYTgwY25PZXZTYWI0d3FiaElRWFB0SDBNNHVGejhJTE1SY2tjWUlacllIZEI1dGFQMzZfdGd5VHhCM21RM1Zzd2N1bUpSMTU0bHZCSnZJSEhTQUlURVZOTWR5TklqaHAyTllsUkJWWlNTTTI3b1dOQg?oc=5)
+
 - **[2026.07.26] 搜狐网 — 宇树机器人进课堂，实战课超50%——长江工程职院“创新班”让学生毕业即上岗**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
@@ -46,15 +56,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [财富号](https://news.google.com/rss/articles/CBMia0FVX3lxTE1KaUdnSDVvUVl0c1Fld1d3N2VrOHdYWlktNWsyVXJ2WVB2MlRpRHpGYktWZnJaTkdFNktsT0lIWFhyN2lvSHFBOW5iYzZRdzFxc0tuLXpwcVlYbmpCMnNiWlhTdFZ0YXRYb1JJ?oc=5)
 
-- **[2026.07.26] finance.sina.com.cn — 全球首发 宇树机器人街头争霸赛亮相成都春熙路**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [finance.sina.com.cn](https://news.google.com/rss/articles/CBMiugRBVV95cUxPZGVCZ1hVc0N6Y0l3WHZmekU2X1lnLXdSOXZrZHp0TWd5NG8wR1FiQ1dncGZpeG56ZWxhVlB6U0xEdlB3c1hqc29vZ2tHelhMUnZhdFVZeFI0UHZRSDZhTDFPeXpRODVlZW42VFpBR21CQVFzSFlmaE9MNDN1SFU1ZVRqQldLUU55aEdNUGFjRVhGQVhEUk1xVUU4OWVFY3E5US1FWEJLVnByQnktNUE3dndxaExQQnRGMHo1b0R6RmlUR1M3dl9nVWRHUHFtTXJiY3VZRkp4Z2k5RVJXZGFkNlUtTHNNVmdsQnI0U3k2V09JaUdPUW5yWWVQb216eHRKeFBvVXNBRzZwMGQ4TTR3Y1VxQkZ5UmVmUnhjcVF1emhYT3dGcTViNGJIU2pLelk4NEVTWlpXNjhtdjF6T3FmdGJPeUd2Y1prX01CUENuTlJhb1lQQ2xObnJfX0pGUVdCVTRSRmVTQmJoS3hza3NsNDl2Y1hQS1l0b29naTVkOWFUTEYwdzlwcXp4LVRTSkg2SEktVndZRUp0Z1BKYnZBbVFvVDNBbmFNWGFWVS1KeFRPZzR6ZEVjZVZuc19uUUpXdHQ5YmRuZDZ0VEh6NXR3QW52emVISElLV2J3RktxNHpZZ0N2Y0F5TW5Ca3BsWEZ4SUEtSGVGc0lCVTJBZHJ4YkxmREgwTzJacElKaWtwVURkYkc5YV9pNEpkeEM4QWFqOHNJemcwODJoMmFvMTM3dnhLcDNwNHVqMUE?oc=5)
-
-- **[2026.07.25] 手机新浪网 — 优必选在盐城成立智能机器人公司**
+- **[2026.07.25] 新浪网 — 优必选在盐城成立智能机器人公司**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [手机新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBnMVpRYktXbjVsUTBZRzVKLUMxdGk2OUtleGF2VDNsLVR1ZENiN1dTTlZMWXg4T3h6S0c5eEZ4SllYeEFHdnZIRzhoemZvTnZnNkRtZDhRSmdlNldRTFRTSG82QWUzY3pSZlcxS3V2bFBfZw?oc=5)
+  📰 [新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTFBnMVpRYktXbjVsUTBZRzVKLUMxdGk2OUtleGF2VDNsLVR1ZENiN1dTTlZMWXg4T3h6S0c5eEZ4SllYeEFHdnZIRzhoemZvTnZnNkRtZDhRSmdlNldRTFRTSG82QWUzY3pSZlcxS3V2bFBfZw?oc=5)
 
 - **[2026.07.24] 观点网 — 成都市与宇树科技签署战略合作协议 聚焦具身智能等领域**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -70,6 +75,16 @@
   中文：总结：这条日本市场新闻围绕 ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [global.toshiba](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ25wX3ZhcG03YmlJYUlWVVl2ajFJZmt4SmtCbWIydXFvVno2TXZ2N091U2VfQjRLaklveHlhQmJGMlB2cEtqRVZjTXNXT3lnYWxwWjE3dnY4SmlOaUdtV1lzbjh4R1IyQndlVWh2SDl4RlBFVE1tdGFnZzNwSGpfUk00MUY4N180NTEw?oc=5)
 
+- **[2026.07.27] Yahoo!ニュース — 独立系SIerの富士ソフト、「Actionable AI」戦略を発表 AIを『使う』から『動かす』へ（日本ネット経済新聞）**
+  日本語：要約：独立系SIerの富士ソフト、「Actionable AI」戦略を発表 AIを『使う』から『動かす』へ（日本ネット経済新聞） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 独立系SIerの富士ソフト、「Actionable AI」戦略を発表 AIを『使う』から『動かす』へ（日本ネット経済新聞），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fR3c0NDBmMDlpUHJ6T0lyM2tWRUdWY29BendLWGZLWk5ieDhUSUJhUGNpeldzd0FmOUpaUl9VeFFBZ1lIUjM0QnpoYy0zejZSNEtNQk9ycnBUSVQzcDhLMjVJdEhyOTVFbkhsbUhCYjNwOWdwRDRkOHBwd2hRRmc?oc=5)
+
+- **[2026.07.27] @DIME アットダイム — NVIDIAがNoetraと連携し国家レベルのフィジカルAIの実現に向けたNVIDIA Vera Rubin AIファクトリーを構築へ、経済産業省や国内主要企業が支援**
+  日本語：要約：NVIDIAがNoetraと連携し国家レベルのフィジカルAIの実現に向けたNVIDIA Vera Rubin AIファクトリーを構築へ、経済産業省や国内主要企業が支援 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 NVIDIAがNoetraと連携し国家レベルのフィジカルAIの実現に向けたNVIDIA Vera Rubin AIファクトリーを構築へ、経済産業省や国内主要企業が支援，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE1NWGlKZy1Henh2ZkJDRm90VElpYVJ0TmMta28zSVZ6NkJLeWtxVkNfdWNCSjY4X01lWi1XQ0VXb3c2R2M2?oc=5)
+
 - **[2026.07.25] MONOist — さらばDX、「AX」時代へ――NECやソニーセミコン描くAI自律化最前線：1週間を凝縮！ 今週の製造業ニュース**
   日本語：要約：ソニー に関するニュースは、日本の家庭向けロボット市場が次の転換点に差しかかっていることを示す。aibo のような製品は、単なる家電ではなく、センサー、クラウド、音声認識、感情表現、長期サポートを含むサービス型ロボットの象徴だった。今後は、国内販売終了やサービス継続の方針が、消費者向けロボットの収益性、保守負担、次世代製品への投資判断にどう影響するかが焦点になる。家庭用ロボットは感情価値と継続課金の設計が難しく、次世代では生成 AI、見守り、ヘルスケア、家族コミュニケーションとの統合が重要になる。
   中文：总结：这条日本市场新闻围绕 さらばDX、「AX」時代へ――NECやソニーセミコン描くAI自律化最前線：1週間を凝縮！ 今週の製造業ニュース，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
@@ -80,16 +95,6 @@
   中文：总结：这条日本市场新闻围绕 AIやロボットなどの最先端技術体感「TECH BEAT Shizuoka」閉幕＝静岡市 | 静岡のニュース | SBSNEWS | 静岡放送，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [TBS NEWS DIG](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQzlCYjk2OFRwenpJYUlWSkN6ZW5uUi1raGpyY0szbFp5YVFMX0hjTUdmdEtpb0V3TDduWWhzcEIycU1iVzRoeWMzN3J5TDZzN2VzQ1VuZlVZUQ?oc=5)
 
-- **[2026.07.26] 中日BIZナビ — 険しい日本の「AI主権」 米の「ミュトス」利用停止に翻弄：ニュース**
-  日本語：要約：険しい日本の「AI主権」 米の「ミュトス」利用停止に翻弄：ニュース は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 険しい日本の「AI主権」 米の「ミュトス」利用停止に翻弄：ニュース，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [中日BIZナビ](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LaVN3ZG9xRV8weng1ZFVPbEFVejI2QVhKNGIxQXRlYkdpSF9LZzRmMFRZZDBjNFdwNER1NzFoYTExY21Zc1g0b0liOTZOT2t1bnBoVXdCRmNEY2hpV09V?oc=5)
-
-- **[2026.07.24] Yahoo!ファイナンス — 日本精工－4日ぶり反落 ロボット向け駆動装置育成 36年度に売上高1000億円に＝日経(トレーダーズ・ウェブ)**
-  日本語：要約：日本精工－4日ぶり反落 ロボット向け駆動装置育成 36年度に売上高1000億円に＝日経(トレーダーズ・ウェブ) は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 日本精工－4日ぶり反落 ロボット向け駆動装置育成 36年度に売上高1000億円に＝日経(トレーダーズ・ウェブ)，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxPME1zV1NYZDJiYnE1OHlkNDV2b0R6bWJPZ2dDLUh2X3JsWURwWmc5NlI1VVhJMUxjYUNSaG16bGFPdlZtM19SWEZQSE9wc0F5dDVJbnZDMDFaWmVhaF9OcTliQ1hId3hYaC1vcTZoR3ZuVGRuZnd6NkgzQ2VGTGFKbndFSzlYaWc?oc=5)
-
 
 ---
-※AI Robot News Digest | 2026.07.27 | RSS fallback items: 14
+※AI Robot News Digest | 2026.07.27 | RSS fallback items: 15
