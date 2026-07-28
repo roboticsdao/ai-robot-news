@@ -61,19 +61,24 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [雪球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TY1hSTjU5MmdtOGkyTEpMazZmS0RTaDQwWmFqRnhkOUdXTnVWQ0FqbnBGVzBkSHUxRjZjV2NNSGNxSkptQ2Y2ZUE3dEhTUnRq?oc=5)
 
-- **[2026.07.27] 手机新浪网 — 宇树科技目前最急需的AI算法岗有哪些细分方向**
+- **[2026.07.26] Sohu — 宇树机器人进课堂，实战课超50%——长江工程职院“创新班”让学生毕业即上岗**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [手机新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSmpSQnpXU0ZKdjBFUm1xNV9wVXpscW16LV9vX2RVSEk4ZHpmZ2hpTmpDSThfRHFtUi1qSkNNUkJGUEE0M0tCRl80SXVYUFdacm85ZVVnZDZyTXhRbmt2M2M3S0hlTVJJaTlNc2hiaEczRWxMME9mbG8yZUNJY2c?oc=5)
+  📰 [Sohu](https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVA5TzdITWExR2lEa05XajI1cm14OEh0RUpyVGJ6a040VnVaSDgxQ0UtM1RpR2tQMjFjNEs1akQ3cE53MTVVdVU2YVItT0oxUklTenhHcTEyeDdRaXZueW9XN29LRi0zMmdBRGRCY0MyQWVlVlBGd2dPTk1CSGFJTTVYTGxIcTBhZkZFUno5WQ?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.07.28] Yahoo!ニュース — AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間（朝日新聞）**
-  日本語：要約：AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間（朝日新聞） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間（朝日新聞），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBuMzNGSm9uajZIWnE4LXN3czZ1TWxURkhRaEw3VTVuVGU4V1Z1MWdDRXN3bkhvWS1GVDNTQ1d2RFo1dFVITTRqZV94ZHpJTzE3bzlXdHhieWVZcnkxVFRiV0VUcV8tOGlCY1Z1OXZZaUs4YlNzZzFsMDN6VmxPZ0k?oc=5)
+- **[2026.07.28] 朝日新聞 — AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間 [AIの時代]**
+  日本語：要約：AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間 [AIの時代] は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 AIも論文の共著者に…科学誌創刊へ 研究への貢献明示、責任は人間 [AIの時代]，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44RFFvOTJtVHJ0WUVicFdMcmZIZzRhQ0c3aWRkNDZvMTdfdExxbWJEQ0NMRUM2QThwelFtdXEzdEJYUzhRZkp2OXJZdV9EanlZT0M1ZDJBc2JmNnotQWNqWlJmakQ3Nkk?oc=5)
+
+- **[2026.07.28] Yahoo!ニュース — 政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT）**
+  日本語：要約：政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEV5TWlWdlhRa2dFTDBxSGowYWZzRG9KTlBleG12QW40VUhFMW5ZaGxOX0Jmb0FMblZkUmw1RDZHZWlXUTVNTmRZODB2MUJtSlh6TXJ3S2QwQW5HWUh2azZjSEEtU1V4SWlXclgwTFVzcThTeE5pWnZrQzM3Sm5wWERyWnJNejla?oc=5)
 
 - **[2026.07.27] 沖縄タイムス社 — 京都先端科学大学 工学部生が設計・製作したAI搭載ロボットによる競技会のライブ配信を7月24日（金）に実施**
   日本語：要約：京都先端科学大学 工学部生が設計・製作したAI搭載ロボットによる競技会のライブ配信を7月24日（金）に実施 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
@@ -89,11 +94,6 @@
   日本語：要約：ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [global.toshiba](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ25wX3ZhcG03YmlJYUlWVVl2ajFJZmt4SmtCbWIydXFvVno2TXZ2N091U2VfQjRLaklveHlhQmJGMlB2cEtqRVZjTXNXT3lnYWxwWjE3dnY4SmlOaUdtV1lzbjh4R1IyQndlVWh2SDl4RlBFVE1tdGFnZzNwSGpfUk00MUY4N180NTEw?oc=5)
-
-- **[2026.07.27] Межа. Новини України. — 三菱自動車が月産千体の人型AIロボットを目指す、ハイランダーズと提携**
-  日本語：要約：三菱自動車が月産千体の人型AIロボットを目指す、ハイランダーズと提携 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 三菱自動車が月産千体の人型AIロボットを目指す、ハイランダーズと提携，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Межа. Новини України.](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vZ0h2VnIzeUZxUTlIUlNZcFZtS1o2SlplZmdHODl0OGVtb2tkQnQzZGw2bUo0MlhYZmpkbk8zTm5lSXRJQzJYTERpb0lhSHA3TkpITGtHQWhld0hxTFRNWkZLNnBUUU0?oc=5)
 
 
 ---
