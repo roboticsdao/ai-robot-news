@@ -22,6 +22,11 @@
   中文：总结：这条新闻围绕 SoftBank Eyes $500 Million+ Gravis Robotics Deal to Expand AI Push，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVk1OZnhMZE1hQTN4Z081Skdsc19NZGRqQWV2WEJaRkpuWjJ4NG9WTFlKaFVzOTRhQk11R1dFbTk5UWwySE1qU2oxRmRUNWNqSG42QWpfcmttOEpkdXF4MjRrcFQzSFZobmh5a2FHWkxxRTVkM05sQ2gzUkwzNlc2Rm9BVm84a3lyUVhseWxEdm95ZzR4REhuNnRtM1YyNHhUZjI1RXdhTC1HRjA1d2pwY0NlZzZ2bV9DTE9UcmZWUUk3Zw?oc=5)
 
+- **[2026.07.28] Chosunbiz — LG Innotek partners with TDK to advance robot vision and tactile sensing - CHOSUNBIZ**
+  English: Summary: LG Innotek partners with TDK to advance robot vision and tactile sensing - CHOSUNBIZ fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 LG Innotek partners with TDK to advance robot vision and tactile sensing - CHOSUNBIZ，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTE01MENWS1RTQ2RnYmdCZlBrSlFkOXpuQ0M0cWs1dTlWT3otVWU1OGljSEFXV2p0R0Z1R0xOWERnREIyVF9sOXhldk95T00yWGUwN1YwajVTYzJFdnBhNzYxcFcyR1VoaF9PMWgyVG9vTDVMeXgtWmJFQ2JR0gGOAUFVX3lxTFBudXQ3QS1RQ3c1clFaRGhNQVpYU1VNcUFZbGdHNk0xZkU0M3lmcHZsRHVjNWJqUnBfT1Z2dVBuQVhoSnhLbDRzMTVESXdYNzM2ZTczNGlUMVozYUtaaXAxMnlqdENzeXcyM09FS3RWTTdPZk92WTRBTjBWS1lsLU92WE1FY3M2eEpLWF92dHc?oc=5)
+
 - **[2026.07.26] finance.biggo.com — Hyundai Motor Group Establishes AVP Unit in Silicon Valley; Chairman Chung Euisun Declares "We Will Lead in Physical AI"**
   English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai Motor Group Establishes AVP Unit in Silicon Valley; Chairman Chung Euisun Declares "We Will Lead in Physical AI"，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
@@ -31,11 +36,6 @@
   English: Summary: Hyundai, NVIDIA point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai’s Chung Says Big Tech Partnerships Can Build Physical AI Ecosystem, Meets Nvidia CEO Huang，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE85bUQxSXBxVWEzTVJFdTg0RUk1UDFQQXVJQV9YTHY1eExxeXlGRVBTazFOVldkTExGOEhudnowdk1hMWQ0MUpmMzBONzZjRUlCbGY0Rg?oc=5)
-
-- **[2026.07.26] 아시아경제 — ‘Samsung Humanoid’ Countdown... LG, Hyundai Motor Kick Off the Robot Wars [Weekend Money]**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 ‘Samsung Humanoid’ Countdown... LG, Hyundai Motor Kick Off the Robot Wars [Weekend Money]，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [아시아경제](https://news.google.com/rss/articles/CBMickFVX3lxTE9vLUJFX2FDZDQ0Mi1QdXlpTkdGaHlDcWFlajBpVXp1dExqbzVDVy1fX2tPTmExUVhyMkIxb2NYOHJscG04VlVqY3hCd2RNQk5UdUFlMHFhUTc1c1hjRFFpejNOQTVWMXVfRy1GM1Yydlc3UQ?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -78,7 +78,12 @@
 - **[2026.07.28] Yahoo!ニュース — 政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT）**
   日本語：要約：政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEV5TWlWdlhRa2dFTDBxSGowYWZzRG9KTlBleG12QW40VUhFMW5ZaGxOX0Jmb0FMblZkUmw1RDZHZWlXUTVNTmRZODB2MUJtSlh6TXJ3S2QwQW5HWUh2azZjSEEtU1V4SWlXclgwTFVzcThTeE5pWnZrQzM3Sm5wWERyWnJNejla?oc=5)
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE11Q0RCdGhQRjF0TDNuS1BwVmx4dDBKSzZUWm83UlZjcF9pS1ptckExd3pEWTdlZFZWSDdrWEF1Rnl1Y01odi1JUVY2b3pmQmRFUjNkWjR2QWpvR2FDRVFmNVdwRW9nQlQ0QlRHWV9LVW5KSEUwQlF5Q25Jdmt4Vmc?oc=5)
+
+- **[2026.07.28] BigGo ファイナンス — LG Innotek、日本のTDKと「ロボットの目と皮膚」を共同開発…フィジカルAIで提携**
+  日本語：要約：LG Innotek、日本のTDKと「ロボットの目と皮膚」を共同開発…フィジカルAIで提携 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 LG Innotek、日本のTDKと「ロボットの目と皮膚」を共同開発…フィジカルAIで提携，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE45a2g5UC1tam95U3VXbzlLLVhTbHJjUU9sMGlQRS1jeWs5bW54ajVYT2hUZmFydEdGQW13NGZKWWx4blE2UDEtR0szb0FPaVhwWloxUjZvUHpKT3hUZGhXODMtYjViUmhzSTZoelRGVEZhbENt?oc=5)
 
 - **[2026.07.27] 沖縄タイムス社 — 京都先端科学大学 工学部生が設計・製作したAI搭載ロボットによる競技会のライブ配信を7月24日（金）に実施**
   日本語：要約：京都先端科学大学 工学部生が設計・製作したAI搭載ロボットによる競技会のライブ配信を7月24日（金）に実施 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
@@ -89,11 +94,6 @@
   日本語：要約：AI半導体の“爆熱”を誰が冷やすのか…8兆円データセンター冷却市場、日本勢の逆襲 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 AI半導体の“爆熱”を誰が冷やすのか…8兆円データセンター冷却市場、日本勢の逆襲，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [au Webポータル](https://news.google.com/rss/articles/CBMie0FVX3lxTFByeW5fZlQyUzRIWkZ1b3dMajM4UGIydFVTTWVOTVh6ZXZfR1gtRVBtUUNrZWF3c3hON25KdGtISnRLUkc1bWttWFNuaTk2Z1VpWUdkY3BOWTZMZXhKNTdoU1VJZ3liZnNjZ0I2Z3FWM1dtbjI4TTQ2R2RSMA?oc=5)
-
-- **[2026.07.27] global.toshiba — ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON**
-  日本語：要約：ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 ハノーバーメッセ2026から見えた、AI時代に日本の製造業が取り組むべきこと | DiGiTAL CONVENTiON，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [global.toshiba](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ25wX3ZhcG03YmlJYUlWVVl2ajFJZmt4SmtCbWIydXFvVno2TXZ2N091U2VfQjRLaklveHlhQmJGMlB2cEtqRVZjTXNXT3lnYWxwWjE3dnY4SmlOaUdtV1lzbjh4R1IyQndlVWh2SDl4RlBFVE1tdGFnZzNwSGpfUk00MUY4N180NTEw?oc=5)
 
 
 ---
