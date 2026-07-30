@@ -12,10 +12,10 @@
 ## 🇺🇸 美国 / United States
 
 
-- **[2026.07.29] How-To Geek — Hyundai’s $880 million humanoid robot bet is about to get real—30,000 units a year by 2028**
+- **[2026.07.29] howtogeek.com — Hyundai’s $880 million humanoid robot bet is about to get real—30,000 units a year by 2028**
   English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai’s $880 million humanoid robot bet is about to get real—30,000 units a year by 2028，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [How-To Geek](https://news.google.com/rss/articles/CBMib0FVX3lxTE9ONkFjZVYtVkM4cXdFekpBS2drRFVBS21feXBJMXRMbVh3WGJuZTMzaUdHaTJXU0xKMk1wUlRCWnhsR1g3XzliTnFrV3VqeGs0eW5JV19VRm41Tk9tRl9BX0Q3bjFnNDFEdms1MDFQMA?oc=5)
+  📰 [howtogeek.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9ONkFjZVYtVkM4cXdFekpBS2drRFVBS21feXBJMXRMbVh3WGJuZTMzaUdHaTJXU0xKMk1wUlRCWnhsR1g3XzliTnFrV3VqeGs0eW5JV19VRm41Tk9tRl9BX0Q3bjFnNDFEdms1MDFQMA?oc=5)
 
 - **[2026.07.29] Chosunbiz — Hyundai Mobis tops order goal and accelerates global expansion with EV tech - CHOSUNBIZ**
   English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
@@ -90,10 +90,10 @@
   中文：总结：这条日本市场新闻围绕 政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE11Q0RCdGhQRjF0TDNuS1BwVmx4dDBKSzZUWm83UlZjcF9pS1ptckExd3pEWTdlZFZWSDdrWEF1Rnl1Y01odi1JUVY2b3pmQmRFUjNkWjR2QWpvR2FDRVFmNVdwRW9nQlQ0QlRHWV9LVW5KSEUwQlF5Q25Jdmt4Vmc?oc=5)
 
-- **[2026.07.29] jiji.com — ストックマーク、Noetra等が進めるフィジカルAI向け「国産マルチモーダル基盤モデル」の開発に参画**
+- **[2026.07.29] 時事ドットコム — ストックマーク、Noetra等が進めるフィジカルAI向け「国産マルチモーダル基盤モデル」の開発に参画**
   日本語：要約：ストックマーク、Noetra等が進めるフィジカルAI向け「国産マルチモーダル基盤モデル」の開発に参画 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 ストックマーク、Noetra等が進めるフィジカルAI向け「国産マルチモーダル基盤モデル」の開発に参画，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [jiji.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tSGlBbWJWWEVnRjVNQldlbHJBLUUxTDRJSkV5bHkwYTBIMGkyWlVwT0lhbmJkUWZUYkJDS0Z1eGtOWm9GT2N6U0ZCTkY0dXNRR3N4ZldtMnRaRmxSRWN5S0tNbnpRWGNBQ2Nj?oc=5)
+  📰 [時事ドットコム](https://news.google.com/rss/articles/CBMia0FVX3lxTE5tSGlBbWJWWEVnRjVNQldlbHJBLUUxTDRJSkV5bHkwYTBIMGkyWlVwT0lhbmJkUWZUYkJDS0Z1eGtOWm9GT2N6U0ZCTkY0dXNRR3N4ZldtMnRaRmxSRWN5S0tNbnpRWGNBQ2Nj?oc=5)
 
 
 ---
