@@ -27,44 +27,44 @@
   中文：总结：这条新闻围绕 Google Expands Its Robotics AI，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [TradingView](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmFodlptVUdabW9UZDYzX19pOXRKeUN6WmhkTW5tN01jTE1LbFVaci01TE50ZW12Uk1Wa0lvLXUwbURoRnhaZkZsMUFqanJqdXRnZDNMa0MyUEt6OUg1cTRmUVlKa3pEeDZyZm5oTjlRMVlOcWFFMGJpdTJEQ0NsMzZBZmdBVjZ0aGI1eEZTVENubm1B?oc=5)
 
-- **[2026.07.29] Seoul Economic Daily — Hyundai Motor, Hyundai Mobis Rally on Physical AI, Robotics Hopes**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai Motor, Hyundai Mobis Rally on Physical AI, Robotics Hopes，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [Seoul Economic Daily](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm5GNDNrSk9RajEtcXhjYWVMRlpjSWkteUZDb0M5WTI3ZWV1aUk2cFRoTk9mTG9sWl93dzV2N2RfUVA1X0xMRlA4NlBxV3VhZjVLMzk2dmhMTGN2RFIwaWktSmktdmlpRDZjSVZOLWkyU0hIb2xDN3BJRlZvLV9UTXkxVHE4TFE3ZFdPZF90aU9xNTBvT21sRFBtQ2hiVUpf?oc=5)
-
 - **[2026.07.29] Chosunbiz — Hyundai Mobis tops order goal and accelerates global expansion with EV tech - CHOSUNBIZ**
   English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 Hyundai Mobis tops order goal and accelerates global expansion with EV tech - CHOSUNBIZ，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Chosunbiz](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVF2SjZGSzdLb2w3RkxWY0lSR3Y3YWJ0aWlYNW1MaFVSVnBKM2RjdTQ1eHl3SVBKZzc1Z2E0RzlJcFBqb0Z2R29iLTlmRG9pWXJhODg1RkstVzdEQzBZRy1GRkx3MG9ueFVCLVhvZklCTGp3LWd5ZkUtQTVJWlM1N0t30gGWAUFVX3lxTE1aNGhtNDFSZGNzVW4wOGJ5TXVCcGVwaWhVTDN3UFh4V3JWOV93cGlRUTVGMlpYcl9Kby0tNV9lMTdDMlV0bUZjM2xJMGVqeWdIdUZUMHNscmRTTFl4d3NpWXdMRmU0VzlFaVpuZG9ydUY5Wjg2bS1NdTZMZDAzZ1VIS1RWb3lmaU1NNXdBRGtmTmtGcExXZw?oc=5)
 
+- **[2026.07.30] marketscreener.com — Hyundai Motor Invests KRW70 Billion in Hyundai Motor Securities MMT**
+  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
+  中文：总结：这条新闻围绕 Hyundai Motor Invests KRW70 Billion in Hyundai Motor Securities MMT，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [marketscreener.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTU5QlV4VUc4M0hISHQyNWY2NHV2OWo1aVJNZlBXcnpmSUxiRzhDZ21wQnlGdVRWU0NSaUpqQkNpc09uYS1SWVRwTG1CT0RLLTgzVzlacHM3T0hvd1lMR20wUFZrV0Z5NENzNTctY0ZkLTFhaG40UkdVS0NDb2lmMlFOTnFWZzRFNjl3UkpLMFJfOG1IeHpPaENtSVIyVERsclZ3eDJUM25nS1JjbHlGN2F6dURUSUJZWmEwQg?oc=5)
+
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.08.01] 中金在线 — 宇树科技8月10日打新！人形机器人赛道迎重磅催化(附股)_证券要闻**
+- **[2026.08.01] news.cnfol.com — 宇树科技8月10日打新！人形机器人赛道迎重磅催化(附股)_证券要闻**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [中金在线](https://news.google.com/rss/articles/CBMibkFVX3lxTE9HRmg2elR6TndfTHRZR0Q3M2tZNmw5NlZ0czhKS0N6aGlwMV94dlMzU0s3cGJDYmZaZTJwSjE3bzJPNHdTMmJ2UlB4QkJnTnROVHlacEVQY21CR0JaSDBGeVhnM3dtcG55ek5nSEtn?oc=5)
+  📰 [news.cnfol.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE9HRmg2elR6TndfTHRZR0Q3M2tZNmw5NlZ0czhKS0N6aGlwMV94dlMzU0s3cGJDYmZaZTJwSjE3bzJPNHdTMmJ2UlB4QkJnTnROVHlacEVQY21CR0JaSDBGeVhnM3dtcG55ek5nSEtn?oc=5)
+
+- **[2026.07.31] QQ News — 宇树机器人武术表演新出182男友机器人**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [QQ News](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFU1ZGd0lmbUtXT0xrazJVUjJhRFQ5Qk0wVFpnMURDOHRCdDBza0ZCY3pjTE5LNGNIb1NCdEp1NnBNMzRkQXF5WGQzcjZfRDV4dFZXSnZR?oc=5)
 
 - **[2026.07.31] Sohu — 宇树、智元IPO进入冲刺阶段 港股人形机器人概念集体拉涨**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1ZQdTNUX0VYNzZVWFNEeUpSSjZWR29DY0J0M0N0MlRxTXVQWWl5U2x0UmJvblMyVkhKRS1ibEthUzdrNFhFTVBaNjh3NE1FT0huOXl6RW1oaUVSZ2cxTUFzVjBYalc1V3kwdURkdm56Zl9tckYwcTQtWDcxb21yWE9lTHB0VXh2?oc=5)
 
-- **[2026.07.31] 同花顺财经 — 宇树科技启动申购！越跌越买，机器人ETF招商7月累计净流入2.61亿元**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TNnVULWcteGNBMzNNaGlhdzI5ZTFJcGFBTlBzZDlwN19heVp4ckFYVDJFM1dJakxYSXJ1SW1rMWhITjVoVmIwZTJvOXZkZU9URzFFNWJGd1NZV2o1Z1E?oc=5)
-
 - **[2026.07.31] 东方财富 — 港股异动丨宇树科技IPO获批，机器人概念股走高，速腾聚创、范式智能涨超7%**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [东方财富](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3EtMk1ob1ZrMWRmQ1QyV2MxalhXcXJCREdqdy1lWHh0WWc4Z3lxc2xINkdPd3V0akxqMzFYRXd0bjRFOFpOcGlYM2JndDdJX1hWUTBQRDBtcWVvOFZWbl9OZUtmdU1QajhGeDJ0dlQ4MG1kM3EyZ2lsdmhaMElsVGRWNVZWQXBkSnpReEF4UFEzcFBjYmZGVFY5ZEgxTmdhN1lTQWo3VWd0aFFnMTV5MWliSQ?oc=5)
 
-- **[2026.07.31] hstong.com — 港股异动| 宇树科技IPO获批，机器人概念股普升！来福谐波涨近19%，五一视界涨逾16% 港美股资讯**
+- **[2026.07.31] 同花顺财经 — 宇树科技启动申购！越跌越买，机器人ETF招商7月累计净流入2.61亿元**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [hstong.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0ZEpzUzhoT05TMjRNd3BsMW9uYkd6cHBpa3dDUXBhNHZtVWRhWFR1ai1DQzVlR2EzeHgySUExTV9fb2EwbEJGVnBFWWpHdmlVS2hhdzNuREtIV2tyYURwNkln?oc=5)
+  📰 [同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TNnVULWcteGNBMzNNaGlhdzI5ZTFJcGFBTlBzZDlwN19heVp4ckFYVDJFM1dJakxYSXJ1SW1rMWhITjVoVmIwZTJvOXZkZU9URzFFNWJGd1NZV2o1Z1E?oc=5)
 
 
 ## 🇯🇵 日本 / Japan
