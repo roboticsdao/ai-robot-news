@@ -41,15 +41,20 @@
 ## 🇨🇳 中国 / China
 
 
-- **[2026.08.04] 搜狐网 — 观智潮 | 宇树科技打新在即，背后的具身智能浙江军团有多牛**
+- **[2026.08.04] 搜狐网 — 宇树科技敲钟，人形机器人产业加速落地，金发科技携材料方案站上风口**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1RtRWhJUllaZ0JJS0sySVJBWEZtVmYxOTh6NXRNQU1vZF9hWW8xVGhtSURSYmM2SldHZWtHOVppd1ZLT2F4NWc0d3FtR2pjMllIUWVLWjRYeDlVY3ZKeVJRV00yZHBZRWJUQzllRVgwVmNCaWFYZjhjN05EVEZqcVRWNC1namNPcmNnbA?oc=5)
+  📰 [搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzRNTjBzZ1pELW5zcURXUjRmRE1ockdPajBWOFpGcG5SVVVSVnY3NzRQSDVwZDJTeVFMRHJRa1M3N0MtVUhQRlNxUy1OSXR0V0JBSDIxYnRQZXBiQkFpZXBmbS02SnV0VnJpTjMxZE04Y2tFSnFXcDU2U0htaW5zYmRTTm1PeG1lSWlybQ?oc=5)
 
 - **[2026.08.02] 财富号 — 宇树IPO点燃机器人赛道，世界机器人大会密集轰炸，周一机器人板块一触即发？**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [财富号](https://news.google.com/rss/articles/CBMia0FVX3lxTE1jZVd5djk5SFN6dDlRWXU2VnBsN3cwZ0VmeC11bkxmSFB3TS12dGF5a1BfMEFxejJURmVYbnlURXJWMWhCdTFBYlZRbTJnZ3QwZnA2clIwQWFvT0hLYTRBb2hZR3hOX093N1FF?oc=5)
+
+- **[2026.08.04] 搜狐网 — 观智潮 | 宇树科技打新在即，背后的具身智能浙江军团有多牛**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1RtRWhJUllaZ0JJS0sySVJBWEZtVmYxOTh6NXRNQU1vZF9hWW8xVGhtSURSYmM2SldHZWtHOVppd1ZLT2F4NWc0d3FtR2pjMllIUWVLWjRYeDlVY3ZKeVJRV00yZHBZRWJUQzllRVgwVmNCaWFYZjhjN05EVEZqcVRWNC1namNPcmNnbA?oc=5)
 
 - **[2026.08.03] 手机新浪网 — 宇树要IPO啦！十大核心供应商大揭秘，带你一口气看懂机器人黑科技。 ​**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -61,39 +66,34 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ock5lb1pmSS04SG5rZVVBMHZTS0oyamcxOXdPMWNuaEt5RnFvX3lHejhmS3RsSUVBc1NWbmJZa1dxTlh3S2VXNXRWcjNMVnFhWjlz?oc=5)
 
-- **[2026.08.02] 36 Kr — 人形机器人行业真的没门槛吗？**
-  中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [36 Kr](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tS2VxYVZKeHBWQ3VzaUh6SkhNY0ttUVNFT3hnVUdHVTg4REttUS01bjVpMlJ5bzdTVThjQmtxeXVhZGdUUS04RDYwU3EyZw?oc=5)
-
 
 ## 🇯🇵 日本 / Japan
 
+
+- **[2026.08.04] PR TIMES — AIRoA、研究開発と法人機能を平和島拠点（約3,500㎡）へ集約**
+  日本語：要約：AIRoA、研究開発と法人機能を平和島拠点（約3,500㎡）へ集約 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 AIRoA、研究開発と法人機能を平和島拠点（約3,500㎡）へ集約，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUjJnd0NPY0N5SktndWVpZUZ6TURGeVhQNFB0Z0dBdnZqcDFGSjhvb0loMmxkcS1ycmVma1B0cHZkYmF6WjRhZlRha2lzd0hTa2NsQkJkbFRwUVVlWFkwbXZnMTZBb1pYSUE?oc=5)
 
 - **[2026.08.04] 日経クロステック Active — 矢崎総業が描くAIと人の協働、新拠点で次世代スマートファクトリーの実現へ**
   日本語：要約：矢崎総業が描くAIと人の協働、新拠点で次世代スマートファクトリーの実現へ は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 矢崎総業が描くAIと人の協働、新拠点で次世代スマートファクトリーの実現へ，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [日経クロステック Active](https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2tGZnRFMzZ4LTROWjViLXNNN1Fka3pMUEhfVVN5Yjd5MnN1NkkweURDbnNKYmowN0xCdUVzOFVmbTZkTXNqajhVWF9BNUJxYjFuUktrc1lnSWdJclYtQVhuLXRLc29CakQ0YzZNaE1MZ1Z3X2RlazBWY3JPLWZjWlhfVWZ3Uk9wZTNvRA?oc=5)
 
-- **[2026.08.03] PR TIMES — 2025年度GENIAC採択事業において収集・開発したロボット動作データセットおよびロボット基盤モデルを一般公開**
-  日本語：要約：2025年度GENIAC採択事業において収集・開発したロボット動作データセットおよびロボット基盤モデルを一般公開 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 2025年度GENIAC採択事業において収集・開発したロボット動作データセットおよびロボット基盤モデルを一般公開，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE13Z0t2Y2oxVi03Z2dlY2p0ZE45c3JYZlFVX3duUzNSVl91T0xqb0gyWU9lbW03VnVrWGNrd0hmZEFVU08tejQ5Q24xX2IzQ1JrVDJLdXVwN2l4VjljR2FDQll2U0lMd0xfTXc?oc=5)
-
-- **[2026.08.03] MONOist — NVIDIAがアステラスや富士フイルムと連携、AIで医療分野支援へ：医療機器ニュース**
+- **[2026.08.03] monoist.itmedia.co.jp — NVIDIAがアステラスや富士フイルムと連携、AIで医療分野支援へ：医療機器ニュース**
   日本語：要約：NVIDIAがアステラスや富士フイルムと連携、AIで医療分野支援へ：医療機器ニュース は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 NVIDIAがアステラスや富士フイルムと連携、AIで医療分野支援へ：医療機器ニュース，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [MONOist](https://news.google.com/rss/articles/CBMib0FVX3lxTE1HSWpLV0tYZnRGZENMcTFiamRQRXhrQm5hb04teUkxSi0zdVQwdlNsUFpLX1dBZ21QTUZwVE5pYU5naG5IbFBOUXlNanpVTWoxZkVhU3JPYjBMX0lKNWgxSmhWMGZhMkZQOTVDSmQtWQ?oc=5)
+  📰 [monoist.itmedia.co.jp](https://news.google.com/rss/articles/CBMib0FVX3lxTE1HSWpLV0tYZnRGZENMcTFiamRQRXhrQm5hb04teUkxSi0zdVQwdlNsUFpLX1dBZ21QTUZwVE5pYU5naG5IbFBOUXlNanpVTWoxZkVhU3JPYjBMX0lKNWgxSmhWMGZhMkZQOTVDSmQtWQ?oc=5)
+
+- **[2026.08.04] アットプレス — アジア最大級の分析・科学総合展「JASIS 2026」を 9月2日(水)から幕張メッセで開催 ラボオートメーション・フィジカルAI ― 研究開発を変える最新ソリューショ...**
+  日本語：要約：アジア最大級の分析・科学総合展「JASIS 2026」を 9月2日(水)から幕張メッセで開催 ラボオートメーション・フィジカルAI ― 研究開発を変える最新ソリューショ... は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 アジア最大級の分析・科学総合展「JASIS 2026」を 9月2日(水)から幕張メッセで開催 ラボオートメーション・フィジカルAI ― 研究開発を変える最新ソリューショ...，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [アットプレス](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBETmlrcEp1WXlOYVhvUWtsdGxhcVRYZzR4NldKcEozdjRDUmFfX0trSDFZWDcyLWJWbG5sMlBTRFFHTXc1dGVIWlkyM29kZw?oc=5)
 
 - **[2026.08.03] 公明党 — 緊急改定されたＡＩ基本計画の中身は？**
   日本語：要約：緊急改定されたＡＩ基本計画の中身は？ は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 緊急改定されたＡＩ基本計画の中身は？，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [公明党](https://news.google.com/rss/articles/CBMizAJBVV95cUxQYy1vZkZHZlVGTmZYa0lJTUJ3TFUydkFRV0o3VWRiZk9EcW9Kc2laLVRURngxN1EyWWg3S1lLbGlFSFFvLS1JdUZEdHdqZG12N19PT1l5dExzZmc4ajBVYlJnaW91cU1ndXFrQWN3X2pyUEtqMEV2blhxbGY3VDBwd0MzcWRvSkNWU25FbW9vMzY5YWZwQ0VFVnNjTUJMVFJ6MmR4R2c2cGFKaDJpYWxILVo1UHIyUzVzSVRSTF9sTEdZNTZoem5jVnZDUExhd05oWTVGdEdZeEZuc0VRdGtaM0R4M0VDdmtyb25KLVRST09MTlBqajZfXy16VHYwWkhkVUllbzl5NHE1V2taWXVFLVVhMko2MVdOcWtGUTZ2WmY2S3pJNDdoOE54YVBVZTE0bmUtaHE5OVQ2NkdlY0Vma3ExbVY5cnFYV3YtNw?oc=5)
-
-- **[2026.08.04] アットプレス — 日本のエッジコンピューティング市場は2034年までにUSD 6,334.9 Millionに達し、CAGR 21.84%で成長すると予測**
-  日本語：要約：日本のエッジコンピューティング市場は2034年までにUSD 6,334.9 Millionに達し、CAGR 21.84%で成長すると予測 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 日本のエッジコンピューティング市場は2034年までにUSD 6,334.9 Millionに達し、CAGR 21.84%で成長すると予測，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdlllRkY2MU9KYkQxODUyQ0xmeU54N0YyMl9EckJWM2xraUxxVmRoXzlMSmdBM3RIcHdzRGMxRGI0VEtXeDBIT0RzMm9ZV3M?oc=5)
 
 
 ---
