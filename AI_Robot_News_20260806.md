@@ -56,44 +56,44 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪新闻_手机新浪网](https://news.google.com/rss/articles/CBMiekFVX3lxTFBQbDliU05ia0xKcG5kSm8xVnF5dUcyU0ZFQ09leXRPUDhWZHNqSzRUQUtpaWZDV0NiY1ZTdXc2RFVaODQxbTAzbHcxVkMwYkd2TUZyNV9HSmozME1YWjRST3RiZU8yLVdmNkowQTIwenI3NXl4MU05LTVB?oc=5)
 
-- **[2026.08.05] 经济参考报 — 世博展览馆展示的宇树GD-01机器人**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [经济参考报](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2RuX3RPdjBmVFhaNTJlZndjTW53bTBMN3pfREMtZzMxNlJjVzlHdDU3cGtBVnRXV3YwVHZnSUZ6WjMwUzAyazNGUHp5aGFNVXJZVU9VaW02Qy1KY0c1d1ZRUWRpci1DRm5qd2hlWTlfajZPVjh5RTlBeVNoYk1BRA?oc=5)
-
 - **[2026.08.05] 第一财经 — 人形机器人价值如何衡量？宇树询价透视硬科技估值范式丨数新风**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sbFlxRHdPX0xWVnNLM05zeWxzdXh4N2JyYl8yX0lFQS1vcUhNSHRXZDY1Nk5zRTNPczVQZHQ1S2h2d3A2MVkwRTh3SS02S0JTdnFmMw?oc=5)
 
+- **[2026.08.05] 经济参考报 — 世博展览馆展示的宇树GD-01机器人**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [经济参考报](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2RuX3RPdjBmVFhaNTJlZndjTW53bTBMN3pfREMtZzMxNlJjVzlHdDU3cGtBVnRXV3YwVHZnSUZ6WjMwUzAyazNGUHp5aGFNVXJZVU9VaW02Qy1KY0c1d1ZRUWRpci1DRm5qd2hlWTlfajZPVjh5RTlBeVNoYk1BRA?oc=5)
+
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.08.05] Yahoo!ニュース — AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN）**
+- **[2026.08.05] news.yahoo.co.jp — AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN）**
   日本語：要約：AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeGcyeGlCVXd1UFVsd0hjWVVIWkI5ckp2ZXlWVFAza2loRUEyVUVIWjZUZkFNSnJGaU9FdUNOdVhiTlBRU1hkazFnT1NQaHY5ZHgySk9oT0FuSGpRRm5CdDQ3U1ZGa0hPVy1PTXdDeWVjRmtwQW5tUEZsdFY0YzQ?oc=5)
+  📰 [news.yahoo.co.jp](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeGcyeGlCVXd1UFVsd0hjWVVIWkI5ckp2ZXlWVFAza2loRUEyVUVIWjZUZkFNSnJGaU9FdUNOdVhiTlBRU1hkazFnT1NQaHY5ZHgySk9oT0FuSGpRRm5CdDQ3U1ZGa0hPVy1PTXdDeWVjRmtwQW5tUEZsdFY0YzQ?oc=5)
 
 - **[2026.08.05] ITmedia — 「準国産」うたう人型ロボ登場 本体価格は500万円から 目指すは「純国産」（1/2 ページ）**
   日本語：要約：「準国産」うたう人型ロボ登場 本体価格は500万円から 目指すは「純国産」（1/2 ページ） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 「準国産」うたう人型ロボ登場 本体価格は500万円から 目指すは「純国産」（1/2 ページ），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [ITmedia](https://news.google.com/rss/articles/CBMibEFVX3lxTFA2ZnhWWHY0RGtOQkRYU2Ezd2RTaUNaUVYwRXFkc0U0TWlrQ194cEM3b090Q1VXR2FkLXNMd25tUHdJeFZxaFA4M1RSODFUQnV2TnVqR011RW9zVWluZXIybjVGZUpHMnVQNWpzMg?oc=5)
 
-- **[2026.08.04] jiji.com — RobotBank、次世代Physical AIの開発プロジェクトを始動：時事ドットコム**
+- **[2026.08.04] 時事ドットコム — RobotBank、次世代Physical AIの開発プロジェクトを始動：時事ドットコム**
   日本語：要約：RobotBank、次世代Physical AIの開発プロジェクトを始動：時事ドットコム は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 RobotBank、次世代Physical AIの開発プロジェクトを始動：時事ドットコム，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [jiji.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQWUo0N3ExR2dJSFJHdGY4TGphZUdDRXBBQXBwdWFLaXU2ZXNwSjlIQTFzRUMySHM3T1lvVGxTN3RXRVZRa0tkMk5VdEtkc2tCeUV6Zk5paHJqWVRFRnJJTmxQUW5jTjFSTTRZ?oc=5)
+  📰 [時事ドットコム](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQWUo0N3ExR2dJSFJHdGY4TGphZUdDRXBBQXBwdWFLaXU2ZXNwSjlIQTFzRUMySHM3T1lvVGxTN3RXRVZRa0tkMk5VdEtkc2tCeUV6Zk5paHJqWVRFRnJJTmxQUW5jTjFSTTRZ?oc=5)
 
 - **[2026.08.04] 日経クロステック — 国産AI開発ノエトラ・丹波社長の焦燥 「一度失敗したら、もう後がない」**
   日本語：要約：国産AI開発ノエトラ・丹波社長の焦燥 「一度失敗したら、もう後がない」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 国産AI開発ノエトラ・丹波社長の焦燥 「一度失敗したら、もう後がない」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [日経クロステック](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10LXVDeG9ELVFDX0dBVlNoR1pTekFRcHd4YldQZVR5alVNRzY5bFIzYjk4X1VXVm1JR2xJTDRjZDBWdnNpaDNPRDFpRnJGQzJNT210SE1BUEl6bkhCNjNua25xcG9raEk?oc=5)
 
-- **[2026.08.05] PlusWeb3 — ヒューマノイドAIロボット開発のアトム、みずほ銀行と15億円融資契約 量産化に向け開発体制を強化**
-  日本語：要約：ヒューマノイドAIロボット開発のアトム、みずほ銀行と15億円融資契約 量産化に向け開発体制を強化 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 ヒューマノイドAIロボット開発のアトム、みずほ銀行と15億円融資契約 量産化に向け開発体制を強化，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [PlusWeb3](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdHdvUlJrN0M3QXlkdFBBaEZPYm0xUzIySkR6aWdVdmhTaExtSjhPX2gwRUw1TERfU2hvLVk0emllNmx2ekk5eWdEaVdBRlJ1eElRNEstYmxyVjV1UHJF?oc=5)
+- **[2026.08.05] news.yahoo.co.jp — AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ (TBS NEWS DIG Powered by JNN)**
+  日本語：要約：AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ (TBS NEWS DIG Powered by JNN) は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ (TBS NEWS DIG Powered by JNN)，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [news.yahoo.co.jp](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjJ5Z0JKUzczMDl0MWFwMF9sMHRXaEZXcE9LTzJEYW5aRlZXVDIySkVMOHd4TUo4ZWYxbUJlNTVkLTZpNUZjdU93dnc2LVcwS2FFSFBISl81UXRYM2RtYnBoM2pqV1pOWTZDYmFDdVpMSzItUHhGQXVvMmJzaklUdzViMUc5M1Zpa3VKT3hR?oc=5)
 
 
 ---
