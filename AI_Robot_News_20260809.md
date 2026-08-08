@@ -46,39 +46,39 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5)
 
-- **[2026.08.08] 21财经 — 宇树科技IPO网上路演，王兴兴线上发声**
+- **[2026.08.09] 21财经 — 宇树科技明日申购；上半年人形机器人领域新设企业11.6万户丨21早新闻**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [21财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHhlNGhybUFvcWItWUM4eVptWFAxRDZSN0lIbHlsVno2bVB2T2NWTHNIMW9qMDN4WnVaMnktYTZLSUx5TDdUN1Z5MkowSjdnMkxRNEpyYUh6blcyclFLOUVvcmJOY1JoR1VFRlJiTEVMZEUzNzB6V2VuZ1VtQW5WSndhN3hvUWlMbHJ2NExzQW41YkN4?oc=5)
+  📰 [21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxObXdFYWs0SzI4Z25Ya1FyelhQbF9EcXBNcTZtX09JT3B6VC02RGRCUGdzNFQ2dl83OHljNW0zUVByaGZPaExuNkRiOHZEb2NVREhhNjJ5aC1jN1hhNTJaUHVubTVEZmF1OHZhcy1oQmhnUTVXbUtUbHpyaXk4NTRPV2V4ZFRDSjNvOTNoQg?oc=5)
 
 - **[2026.08.08] 雪球 — 宇树科技10日开启IPO申购 具身智能赛道迎来IPO密集期|深度**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [雪球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE03amtuNzAtVXM5R29peTNaOFpVTXRHaThXYXpuQ0JYb1hlZktpSDFqQ09QaXdNOXg3b0dYS0JuWmNzRm9QS05MMjJiVVFDTGNU?oc=5)
 
-- **[2026.08.08] sohu.com — 宇树科技王兴兴：人形机器人距离工业场景规模化部署仍需时间**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [sohu.com](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzQ3cyYlhhZ0xoR2IycFhSZWZYZUtmMk95MHZaY21RY0d0a2NvdGdhTFBldlFuZE1BYWtvMEtOMXZyd0dWcW9aSjI4UGZKUW12UEhIMUdB?oc=5)
-
 - **[2026.08.08] 新浪网 — 人形机器人“ChatGPT时刻”预计何时到来？**
   中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBkeHlyTXhzeFdGUnFidmQwN1REMkRxWlM2RTg1Nm83ZDJvSk0yWkZIMm90YTlxejZmUzg1bVphUGNtVXpyM0p0NGVldzNDRzhPX0Fnbms3RGVKQmtJYnNhRXYxRTZTdGpocDVhMVhwUlZhMFR6cXh6LUZpVTZoc1k?oc=5)
 
+- **[2026.08.08] ZAKER新闻 — 宇树科技IPO网上路演，王兴兴线上发声- 21世纪经济报道**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [ZAKER新闻](https://news.google.com/rss/articles/CBMid0FVX3lxTE95cE1sX1N0LWpYdl9DYkRkd04tVmN2eFNMcmk4T3FXWkNZenRNajVEdnk3LXBhakY0TkxaM202c0dhcWVYUkJsY0pfRGdEWmxqMWFhWXJURFNFWTBDZ0FFOU8ybkliblhnMGc3ZmVZU3pkX0xwOTJ3?oc=5)
+
 
 ## 🇯🇵 日本 / Japan
 
-
-- **[2026.08.09] BigGo ファイナンス — CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」**
-  日本語：要約：CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBxMDFJOFZFc1VzN1Z6UEk0blBzbU5hYnJCZ2RYN2RNZEJhS0RDWVBxVnVacHRfOVNzazliNTFWM09sNVJhQ0dlZU04WWZFVGNTX3VYSHFaemtnd0owRGZMcGhyX0xWZXdYOXhqWnpOa0ZoOXpO?oc=5)
 
 - **[2026.08.07] nomura.co.jp — 日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説**
   日本語：要約：日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 日本成長戦略会議、「フィジカルAI推し」鮮明 市場評価の切り上がりも期待 野村證券ストラテジストが解説，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [nomura.co.jp](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54c3lidzJpeGlWUWxrdW9XcTAxRElDWFFiYjF5ZVVqZF9ISkctMkZ0UExOZ2hzOU55MmhjNmRkN0syQ0c0ZUstSkFRajYtSFJyY3dDWUNqcFAzVHI3VVM0?oc=5)
+
+- **[2026.08.09] BigGo ファイナンス — CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」**
+  日本語：要約：CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 CarbonSix、製造現場のAI転換を加速…「今年を量産売上元年に」，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBxMDFJOFZFc1VzN1Z6UEk0blBzbU5hYnJCZ2RYN2RNZEJhS0RDWVBxVnVacHRfOVNzazliNTFWM09sNVJhQ0dlZU04WWZFVGNTX3VYSHFaemtnd0owRGZMcGhyX0xWZXdYOXhqWnpOa0ZoOXpO?oc=5)
 
 - **[2026.08.09] tv-tokyo.co.jp — ニッポン！こんな未来があるなんて～薬作りの革新と月面ロボ！ＡＩと電力問題(テレ東、2026/8/9 26:50 OA)の番組情報ページ**
   日本語：要約：ニッポン！こんな未来があるなんて～薬作りの革新と月面ロボ！ＡＩと電力問題(テレ東、2026/8/9 26:50 OA)の番組情報ページ は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
