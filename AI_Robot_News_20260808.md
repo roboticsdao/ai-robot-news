@@ -41,20 +41,20 @@
 ## 🇨🇳 中国 / China
 
 
-- **[2026.08.07] 21jingji.com — DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路**
+- **[2026.08.07] 21财经 — DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [21jingji.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl8wa2dyRVpmbkZwaW9Ja19KelI2Z2t3LWk4VEJUbWl6SE44RDUyQzlUQjZKQ0tIWUdCbHhzUlVRN1dLN0ZoOGlxaEpZU1dfS2xuVV9wSzVNa2FleVhHRENqdDJBZ09ON1ZFMDFoWEtKN0QzYXBlTGR0MFNFeUYwVmtZejFaa0pzZ3E2cg?oc=5)
+  📰 [21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl8wa2dyRVpmbkZwaW9Ja19KelI2Z2t3LWk4VEJUbWl6SE44RDUyQzlUQjZKQ0tIWUdCbHhzUlVRN1dLN0ZoOGlxaEpZU1dfS2xuVV9wSzVNa2FleVhHRENqdDJBZ09ON1ZFMDFoWEtKN0QzYXBlTGR0MFNFeUYwVmtZejFaa0pzZ3E2cg?oc=5)
 
 - **[2026.08.07] 观点网 — 宇树科技王枫：四足机器人毛利率连续三年上升**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YVjZOa1REYTN4UzJJMlFmQ1VhV0twYnM3VHl5Y215bWY4VjNXZVZoenhha1VZVGVJY2dHS0N0VUgyN3hiZFk2Y1R3aHFHZw?oc=5)
 
-- **[2026.08.07] cls.cn — 王兴兴最新发声！谈及上市、具身智能行业发展**
+- **[2026.08.07] 财联社 — 王兴兴最新发声！谈及上市、具身智能行业发展**
   中文：总结：相关企业或机构 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [cls.cn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5)
+  📰 [财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5)
 
 - **[2026.08.07] 富途牛牛 — 优必选在极氪开展多台人形机器人协同实训- Futubull**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
@@ -70,6 +70,11 @@
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.08.08] tv-tokyo.co.jp — ニッポン！こんな未来があるなんて～薬作りの革新と月面ロボ！ＡＩと電力問題**
+  日本語：要約：ニッポン！こんな未来があるなんて～薬作りの革新と月面ロボ！ＡＩと電力問題 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 ニッポン！こんな未来があるなんて～薬作りの革新と月面ロボ！ＡＩと電力問題，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [tv-tokyo.co.jp](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWVMbVEtUGxTeHZzQUo3X2gyeTVhbGQyb1lMSnNlM3l4aVJsOENRLXJSMXc2eU1OcExrTkJBWUtmT1RwWFFlOW9IeEVRTHVKeWlsbmJHVEgwLXlEeWR5cy1iUjAzdFdzaTlJRUpnNEw4VXFaRC1FSDJEVHplX193dVQxN0w?oc=5)
+
 - **[2026.08.07] blog.google — Google、日本のオープンソース半導体設計エコシステム確立に向けて OpenSUSI に特別賛助会員として参加**
   日本語：要約：Google、日本のオープンソース半導体設計エコシステム確立に向けて OpenSUSI に特別賛助会員として参加 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 Google、日本のオープンソース半導体設計エコシステム確立に向けて OpenSUSI に特別賛助会員として参加，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
@@ -80,20 +85,15 @@
   中文：总结：这条日本市场新闻围绕 【Tenniix】お盆休み特別企画｜夏のテニス応援セール開催！最大¥30,000 OFF，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1RaGpYc1VVWWlXcVU4M2xTVXMzdkx5b0diV0lBS004QVFDZGVGQWxlZExJNDJoOGRVY2s4ZWQyMkFRM1FZOVZhekROZTJYdkFxMUN6Q0NhSFQzLU13T1p5a3dYcjQtVUlaTVE?oc=5)
 
+- **[2026.08.08] South65 — OrbbecがROSCon JP 2026でロボットレス型データ収集プラットフォームを日本初公開**
+  日本語：要約：OrbbecがROSCon JP 2026でロボットレス型データ収集プラットフォームを日本初公開 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
+  中文：总结：这条日本市场新闻围绕 OrbbecがROSCon JP 2026でロボットレス型データ収集プラットフォームを日本初公開，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
+  📰 [South65](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPM1BlV0g0T2h2N2lNaFltTTRTS3hENTNKTURRbVhzNURpSzEtZDJwSlhZNFhQcnNZRWxKdml4amdZX25ORTYyaXhRa2dRbHJxYUx1M1U3NHZNczJjNEpxNzVqSGFxOVltWWxieEZUMndCSTRTN2xXQTY4OWs4Rkg0V2VaSkdaZ2FwTHAzblhmUEpJVms4bjgyUnllYlU3bUtSQjRlOUJCcHlMNHlQdDFMbWNQMFRsYXFaeFNoekFEekMyZWxhQkljTUF1QWlSaXJQbDBhTGdEcDZHOVpyV2oycXgzcUFDWWxvVjljcWEtTXdMdG53UlloY2ZwZkktYjRxUHdIY3gtY2Nnd3Nqc19HVWdnY3pSLXRfdDVoOEJFakwxS0JveDM0X3kta2pqX09lb053Rm5rSDZDSUdKY1hrMHdn0gHHAkFVX3lxTFBIZDZDQ081SzBMV1BOQ0RaN3BLWVYyeE5sNjQxMXdzSjg3TDZVYzNzOThDQ2lHdUtBc3BhZTkyVVJWaHMzbUFzV1JXWkdPbDFvMVVOUkVrR3lZX01RVU9YNXU4RTNYOFM4RGVOMEQ0N3VINFFSMy00ZFZ4TkNMQ0NvUnNjOWpyNDM5a1NRT3pyOGFoaXQzejBnOWY4UGZId1VYaG5EZWRPbFNDZnVZMGszcS1uQVVSYjZQOGJjeEEwbjJvZ0c4cjlrRjFubVVKZUZzZzlJV011SEhkOEt4bTRWakw1WFBKYlBybEZZbUFTUDIzam9adVZSbmItaWJZVFE5eWdyUjRTLUY2aDlTMHlsenhrcFVFODI5clNmakJMSThzWHktZi1fbWdpYTlvR1FJb0JtUXMzbVNaWmNGb002SzUxTUt5SQ?oc=5)
+
 - **[2026.08.05] Yahoo!ニュース — AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN）**
   日本語：要約：AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN） は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
   中文：总结：这条日本市场新闻围绕 AIスタートアップが人型ロボット発表 日本の空間に合わせた設計 医療現場など実装へ（TBS NEWS DIG Powered by JNN），重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
   📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBVeGcyeGlCVXd1UFVsd0hjWVVIWkI5ckp2ZXlWVFAza2loRUEyVUVIWjZUZkFNSnJGaU9FdUNOdVhiTlBRU1hkazFnT1NQaHY5ZHgySk9oT0FuSGpRRm5CdDQ3U1ZGa0hPVy1PTXdDeWVjRmtwQW5tUEZsdFY0YzQ?oc=5)
-
-- **[2026.08.07] Newscast.jp — 日本の農業用ロボット市場、2034年までに15億1,346万米ドル超へ拡大と予測 ― 年平均成長率（CAGR）14.9%を記録**
-  日本語：要約：関係企業・自治体 の動きは、日本のロボット産業が人手不足や農業現場の課題に向けて、より実用的な段階へ進んでいることを示している。重要なのは、単なる技術展示ではなく、収穫、監視、獣害対策、作業補助といった現場で継続的に使えるかどうかである。今後は、導入コスト、保守体制、農家や自治体との実証結果、Microsoft など外部 AI 基盤との連携が、商用化の速度を左右する。特に日本では現場ごとの作業条件が細かいため、ロボット単体の性能だけでなく、運用設計、データ収集、導入後の改善サイクルが競争力になる。
-  中文：总结：这条日本市场新闻围绕 日本の農業用ロボット市場、2034年までに15億1,346万米ドル超へ拡大と予測 ― 年平均成長率（CAGR）14.9%を記録，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [Newscast.jp](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hazUtWUhBODBJTEJROGxOMndyNDQ4RnJHaHdFQWZnaF9nbmpkODBvdWdySTh3RlFuTkg1dmhXSzBrdk9ybndFM0hfVGlxcXM?oc=5)
-
-- **[2026.08.06] 公明党 — ＡＩロボが下水道点検**
-  日本語：要約：ＡＩロボが下水道点検 は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。
-  中文：总结：这条日本市场新闻围绕 ＡＩロボが下水道点検，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。
-  📰 [公明党](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbkx1NWs1bkdtU3V6TjNTSG9FY0h0NUNHQ0dBNjg0ejkteVRJcFQ3dDM2TTQ1OXJCRnlQdktJckpDODBWZXhjQ3RLNHphYmZnX3M5SjREdFRyVnVIbjZfUjFiZlNkTnNwaEVxNVVuZEk4T1VBUDktQkhnUUtPMFc4VGVpd1VPQWJILWRKeVVaTF9mU0E5eVpiMXgyQnBNbEEzV2FjVWs0T1VReWs1UGp2S25DWHlYbFJnbGNvV3E3TTZUVmt6b1R4dWZYNGdiNkx3Z2s1a1ZwN2hnLWJjVjJiNnR0VWo1Rnl6QlFkbw?oc=5)
 
 
 ---
