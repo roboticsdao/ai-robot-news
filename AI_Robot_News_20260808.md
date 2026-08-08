@@ -27,10 +27,10 @@
   中文：总结：这条新闻围绕 Better Robotics Stock: Tesla vs. Nvidia，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [The Globe and Mail](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEg0bG1Hcy1ITXBsMm1KNlFwYXZyUGxsb0o3d2twYm9ybUdWZWdBMVhJQUxZMWVHdlA4eGtDRUc0Tm1MNFJraUZJT2l0UHBURWtuV0ctdWtNUUFWTnVXc2tNM3Bub1FBLXUxR1V6WHRjZEJhb05fQ2hXOWN3VzIxOTdUbkVUaktfVUdaVWZmaTdCQmpsamQ4emZobGNXMkp6Y2dzaEtRSl92alo4cjNMaGV6NWp3dy1kU3VjMEtKMGE?oc=5)
 
-- **[2026.08.05] pressreader.com — ROBOT ROLLOUT TO CHANGE THE FACE OF CAR MAKING**
+- **[2026.08.05] PressReader — ROBOT ROLLOUT TO CHANGE THE FACE OF CAR MAKING**
   English: Summary: ROBOT ROLLOUT TO CHANGE THE FACE OF CAR MAKING fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
   中文：总结：这条新闻围绕 ROBOT ROLLOUT TO CHANGE THE FACE OF CAR MAKING，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [pressreader.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE1nbUdWd1NZMnVkX2h6bF9sczJGYkZocDJldW9wck1lUzZuVUpJdm45YmZBOC1DNlE5Wk9YYVdBeXlNVVBuN0kzemltSElHTUhkek0yNmpNRFRmZmNoVXhwalM1VmVVcGJLd0o5YVVoVVg?oc=5)
+  📰 [PressReader](https://news.google.com/rss/articles/CBMicEFVX3lxTE1nbUdWd1NZMnVkX2h6bF9sczJGYkZocDJldW9wck1lUzZuVUpJdm45YmZBOC1DNlE5Wk9YYVdBeXlNVVBuN0kzemltSElHTUhkek0yNmpNRFRmZmNoVXhwalM1VmVVcGJLd0o5YVVoVVg?oc=5)
 
 - **[2026.08.06] The Economic Times — Robotics startup Solinas Integrity bags $5.5 million from Hero Enterprise, Mela Ventures**
   English: Summary: Robotics startup Solinas Integrity bags $5.5 million from Hero Enterprise, Mela Ventures fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
@@ -41,10 +41,10 @@
 ## 🇨🇳 中国 / China
 
 
-- **[2026.08.07] 21财经 — DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路**
+- **[2026.08.07] 21jingji.com — DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl8wa2dyRVpmbkZwaW9Ja19KelI2Z2t3LWk4VEJUbWl6SE44RDUyQzlUQjZKQ0tIWUdCbHhzUlVRN1dLN0ZoOGlxaEpZU1dfS2xuVV9wSzVNa2FleVhHRENqdDJBZ09ON1ZFMDFoWEtKN0QzYXBlTGR0MFNFeUYwVmtZejFaa0pzZ3E2cg?oc=5)
+  📰 [21jingji.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl8wa2dyRVpmbkZwaW9Ja19KelI2Z2t3LWk4VEJUbWl6SE44RDUyQzlUQjZKQ0tIWUdCbHhzUlVRN1dLN0ZoOGlxaEpZU1dfS2xuVV9wSzVNa2FleVhHRENqdDJBZ09ON1ZFMDFoWEtKN0QzYXBlTGR0MFNFeUYwVmtZejFaa0pzZ3E2cg?oc=5)
 
 - **[2026.08.07] 观点网 — 宇树科技王枫：四足机器人毛利率连续三年上升**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
