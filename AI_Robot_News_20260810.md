@@ -26,20 +26,20 @@
 ## 🇨🇳 中国 / China
 
 
+- **[2026.08.10] 新浪财经 — A股迎“人形机器人第一股”打新时刻 宇树科技启动申购**
+  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
+  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
+  📰 [新浪财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThGQVZCbTFtUjBjYTBseElsUmdXaUI5bS1zSzFlSzV4T1J3QTBlYUNnWVc0S1FFQ2JPcFZhLWRDSG5DaW5BemVjSEUxSWlWS0xfNWRPamd4M1BqTGlDTlFwdm12dUZJNWxrZWk3NDlfYWVJLVAxQ25iclZBSFI5Q082ZUlZeURodEpjZkwweXI2OXp3?oc=5)
+
 - **[2026.08.10] 凤凰网 — 宇树科技今日申购，具身智能赛道将迎“估值锚”**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DRi00MzUwNjdrYzhEclpmSm52REZqejFuS3d4Y3lKVU1zSzNlYzItLXB0bHB5YVo5dE9tTjF2eHdzZ0xYMXBVVjdWSW43X2dX?oc=5)
 
-- **[2026.08.10] 新浪财经 — A股迎“人形机器人第一股”打新时刻 宇树科技启动申购**
-  中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
-  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZnNKWW9LWkJWa1J1aUVPeU5yT1NfcGY2anVZY1o3dW1wZ3FmcVcwaWJ6czJPTjlkb29zTjBFQmI5XzlaZTRaLTRaWEpVQWgwb2k1aFZhR2otYWpDWWxBSEhkR3kyUjVkc0UyUUlDNV9vVkhlQ0JDZQ?oc=5)
-
 - **[2026.08.09] 观点网 — 湖北首家宇树科技产业学院成立 聚焦紧缺岗位人才培养**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMTdjT0M0QkRRREh0Z2VKTGhTcEFtLXhZMEEzbXNvRVBsS0RyeGNqNF9mSksydXQ0YlRVb3UxRzZnNFZpaVNrTjdLY1BwUQ?oc=5)
+  📰 [观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTYnh6LXRTbm9wVUw5LTdsb2c4MXItTEl6X3laalo4T1huWEYxQmVXelBhck9nTHFMNFNBWXFrTkExVTdla1ZfdHVNTDNrb2lhNWUwMEFDSVZvSHFISHpZa3JB?oc=5)
 
 - **[2026.08.09] 搜狐网 — “人形机器人第一股”周一申购！“宇树科技中一签能赚多少”上热搜**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
