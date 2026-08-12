@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import html
 import os, subprocess, re, sys, time, json, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -49,6 +50,11 @@ REGIONS = [
         "label": "日本 / Japan",
         "query": "日本 ロボット AI",
         "queries": [
+            "日本 ロボット 企業",
+            "ロボット 実証 日本",
+            "ロボット 導入 国内",
+            "フィジカルAI 日本 企業",
+            "人手不足 ロボット 日本",
             "日本 ロボット AI",
             "国内 ロボット AI",
             "日本 ヒューマノイド ロボット",
@@ -57,11 +63,18 @@ REGIONS = [
             "AGRIST 収穫ロボット AI",
             "ファナック ロボット AI",
             "安川電機 ロボット AI",
+            "川崎重工 ロボット AI 日本",
+            "トヨタ ロボット AI 日本",
+            "ホンダ ロボット AI 日本",
+            "Telexistence ロボット 日本",
+            "オムロン 産業用ロボット AI",
+            "デンソー ロボット AI 日本",
+            "Mujin ロボット 日本",
         ],
         "hl": "ja",
         "gl": "JP",
         "ceid": "JP:ja",
-        "exclude_terms": ["中国", "China", "中国製", "中国経済", "人民網", "Unitree", "ユニツリー", "宇樹", "宇树", "매일경제", "디지털투데이"],
+        "exclude_terms": ["中国", "China", "中国製", "中国経済", "人民網", "Unitree", "ユニツリー", "宇樹", "宇树", "매일경제", "디지털투데이", "Mshale", "Orbbec", "SwitchBot"],
     },
     {
         "emoji": "🤖",
@@ -93,6 +106,8 @@ RULES:
 4. Japan section must cover Japan's domestic AI/robotics industry only. Exclude China/Unitree stories merely reported in Japanese.
 5. Humanoid Robotics section must cover embodied humanoid robot news globally. The first Humanoid Robotics item must be reserved for Japan's humanoid robotics industry and OmakaseRobotics/Omakase OS/D1 humanoid if any recent item is available.
 6. Do NOT include any URLs in your response. I will add them separately.
+7. Every summary must explain the specific event in that item's headline. Never reuse a sentence, closing paragraph, or generic "what to watch" list across different items.
+8. The follow-up indicators must match the event type: regulation, financing, shipment data, product launch, field trial, technical research, hiring, or partnership require different analysis.
 
 FORMAT (pure Markdown, no code fences):
 
@@ -190,11 +205,8 @@ def generate_digest():
                 ),
             )
             text = resp.text or ""
-            if has_recent_content(text) and text.count("- **") >= 6:
+            if has_required_content(text) and validate_digest_quality(text):
                 print(f"   Got {text.count('- **')} items")
-                return text
-            if has_recent_content(text) and text.count("- **") >= 3:
-                print(f"   Got {text.count('- **')} items (partial)")
                 return text
             print(f"   Only {text.count('- **')} items, retrying...")
         except Exception as e:
@@ -231,11 +243,226 @@ def parse_item_date(value):
             pass
     return None
 
+def robotics_topic(headline):
+    lower = headline.lower()
+    if re.search(r"\d+(?:\.\d+)?%", lower) and any(term in lower for term in ["humanoid", "人形", "ヒューマノイド"]):
+        return "market"
+    rules = [
+        ("regulation", ["regulat", "resolution", "law", "policy", "safety", "certif", "規制", "安全", "法案", "标准"]),
+        ("market", ["shipment", "sales", "market share", "market size", "cagr", "出货", "销量", "市場規模", "占比", "份额"]),
+        ("finance", ["funding", "raises", "investment", "investor", "valuation", "ipo", "fund", "融资", "投资", "上市", "估值", "調達"]),
+        ("deployment", ["pilot", "trial", "deploy", "poc", "hospital", "factory", "warehouse", "shipbuilding", "上岗", "実証", "導入", "病院", "工場"]),
+        ("product", ["launch", "release", "unveil", "debut", "new robot", "preorder", "販売", "発売", "公開", "发布", "开售", "新品"]),
+        ("research", ["research", "model", "platform", "data", "laboratory", "lab", "chip", "研究", "データ", "実験室", "模型", "算法", "数据"]),
+        ("partnership", ["partner", "collabor", "alliance", "ecosystem", "council", "協議会", "連携", "合作", "生态", "产业链"]),
+        ("people", ["advisor", "appoint", "hire", "ownership", "顧問", "就任", "招聘", "人才", "学院", "ロボコン"]),
+        ("manufacturing", ["mass production", "manufactur", "supply chain", "delivery", "量产", "交付", "製造", "生産", "供应链"]),
+        ("consumer", ["review", "home robot", "companion", "aibo", "friends", "家庭", "陪伴", "レビュー", "癒"]),
+    ]
+    for topic, keywords in rules:
+        if any(keyword in lower for keyword in keywords):
+            return topic
+    return "general"
+
+ROBOTICS_PROFILES = {
+    "regulation": {
+        "en": "The material change is the operating boundary: liability, permitted locations, human oversight, and incident reporting can determine whether deployment is legal before hardware performance is considered.",
+        "zh": "它改变的是机器人的准入和责任边界，监管文本中的适用场所、人工监督、事故上报和责任主体，会先于硬件性能决定产品能否进入真实环境",
+        "jp": "焦点は性能競争よりも運用条件です。利用場所、責任主体、人の監督、事故報告が明確になれば導入判断が進みますが、規制が曖昧なままでは顧客側の法務負担が残ります",
+        "watch_zh": "正式规则的适用范围、企业合规方案、保险责任以及首批获准部署案例",
+        "watch_en": "the final rule text, compliance plans, insurance allocation, and the first deployments approved under it",
+        "watch_jp": "最終的な規則の範囲、企業の適合計画、保険・責任分担、承認後の最初の導入案件",
+    },
+    "market": {
+        "en": "Shipment or share data measures commercial reach, but unit counts alone do not reveal selling price, customer concentration, utilization, or whether deliveries are recurring.",
+        "zh": "出货量和市场份额能说明商业触达速度，却不能单独证明收入质量；平均售价、客户集中度、实际开机率和复购情况才决定这些数字是否可持续",
+        "jp": "出荷台数やシェアは普及速度を示しますが、平均販売価格、顧客集中度、稼働率、再注文が分からなければ収益性までは判断できません",
+        "watch_zh": "厂商口径是否一致、订单和交付是否匹配、海外占比以及售后服务成本",
+        "watch_en": "consistent vendor definitions, order-to-delivery conversion, overseas mix, utilization, and support cost",
+        "watch_jp": "集計基準の整合性、受注から納入への転換、海外比率、稼働率、保守コスト",
+    },
+    "finance": {
+        "en": "The capital event changes runway and competitive pressure; its value depends on how much is allocated to engineering, factories, inventory, field support, and customer acquisition rather than valuation alone.",
+        "zh": "资本事件首先改变企业的现金跑道和竞争压力，真正相关的是资金会投入研发、工厂、库存、现场支持还是获客，而不是只看融资额或估值数字",
+        "jp": "資金調達は開発期間と競争環境を変えます。評価額だけでなく、研究開発、工場、在庫、現場支援、顧客獲得にどれだけ配分されるかが重要です",
+        "watch_zh": "资金用途、现金消耗速度、下一阶段里程碑以及融资后新增的可验证客户",
+        "watch_en": "use of proceeds, cash burn, the next technical milestone, and verifiable customers added after financing",
+        "watch_jp": "資金使途、キャッシュ消費、次の技術マイルストーン、調達後に増えた検証可能な顧客",
+    },
+    "deployment": {
+        "en": "A field deployment tests uptime, task completion, safety interventions, workflow integration, and labor savings under conditions that a staged demonstration cannot reproduce.",
+        "zh": "现场部署验证的是连续运行时间、任务完成率、安全接管次数、客户流程接入和节省工时，这些指标比舞台演示更能说明机器人是否具备使用价值",
+        "jp": "現場導入では、連続稼働時間、作業完了率、安全介入、既存業務との接続、省人効果が検証されます。展示だけでは確認できない運用性能が問われます",
+        "watch_zh": "试点持续时长、人工接管频率、单任务成本、现场人员评价以及是否扩展到第二个地点",
+        "watch_en": "pilot duration, intervention rate, cost per task, operator feedback, and expansion to a second site",
+        "watch_jp": "実証期間、介入頻度、作業当たりコスト、現場評価、二つ目の拠点への展開",
+    },
+    "product": {
+        "en": "A product announcement becomes commercially meaningful only when specifications, price, delivery date, developer access, and support obligations are concrete.",
+        "zh": "产品发布只有在规格、售价、交货时间、开发接口和售后责任明确后才具备商业含义；展示视频本身无法证明量产一致性和长期可靠性",
+        "jp": "製品発表は、仕様、価格、納期、開発者向け接続、保守条件が具体化して初めて商業的な意味を持ちます。映像だけでは量産品質を判断できません",
+        "watch_zh": "正式规格与演示是否一致、首批交付时间、开发者工具、质保范围和客户订单",
+        "watch_en": "whether final specifications match the demo, first delivery timing, developer tools, warranty terms, and customer orders",
+        "watch_jp": "正式仕様とデモの一致、初回納入時期、開発ツール、保証範囲、顧客受注",
+    },
+    "research": {
+        "en": "The technical claim matters through measurable improvement in data efficiency, perception, planning, control latency, or transfer from simulation to physical machines.",
+        "zh": "技术进展应落到可测量指标上，例如数据效率、感知准确率、规划成功率、控制延迟，以及仿真能力能否迁移到实体机器，而不是只用“更智能”概括",
+        "jp": "技術的価値は、データ効率、認識精度、計画成功率、制御遅延、シミュレーションから実機への移行で測る必要があります",
+        "watch_zh": "公开基准、与现有方案的对照、真实机器人测试、复现实验和计算成本",
+        "watch_en": "published benchmarks, comparisons with prior systems, tests on physical robots, reproducibility, and compute cost",
+        "watch_jp": "公開ベンチマーク、既存方式との比較、実機試験、再現性、計算コスト",
+    },
+    "partnership": {
+        "en": "The partnership is useful when each party contributes a defined asset such as hardware, software, facilities, distribution, or customer access and when ownership of deployment work is clear.",
+        "zh": "合作价值取决于各方是否提供明确资源，例如硬件、软件、测试场地、渠道或客户入口，以及部署、数据和售后责任是否已经划分",
+        "jp": "連携の価値は、各社がハードウェア、ソフトウェア、実証場所、販売網、顧客接点のどれを担うか、導入責任が明確かで決まります",
+        "watch_zh": "联合项目时间表、双方交付物、数据权属、首个客户场景和合作是否具有排他性",
+        "watch_en": "the joint timetable, each party's deliverables, data ownership, the first customer use case, and any exclusivity",
+        "watch_jp": "共同計画の日程、各社の成果物、データ権利、最初の顧客用途、独占条件",
+    },
+    "people": {
+        "en": "A leadership, advisory, hiring, or education move is an organizational signal; it matters only if the new capability changes product decisions, regulation access, recruiting, or execution speed.",
+        "zh": "顾问任命、招聘或人才培养属于组织能力信号，关键不在头衔本身，而在新加入者能否改变产品决策、监管沟通、人才供给或项目执行速度",
+        "jp": "顧問就任、採用、人材育成は組織能力のシグナルです。肩書ではなく、製品判断、規制対応、採用力、案件実行の速度が変わるかが重要です",
+        "watch_zh": "其明确职责、参与项目、团队扩张、决策权限以及随后出现的产品或客户结果",
+        "watch_en": "the person's defined remit, projects, team growth, decision authority, and subsequent product or customer outcomes",
+        "watch_jp": "明確な担当範囲、参加案件、組織拡大、意思決定権、その後の製品・顧客成果",
+    },
+    "manufacturing": {
+        "en": "Manufacturing progress affects delivery credibility and unit economics through yield, takt time, component availability, quality control, and service-parts planning.",
+        "zh": "制造与交付进展会通过良率、节拍、关键零部件供应、质量控制和备件计划影响量产可信度与单机成本，不能只用产能目标判断",
+        "jp": "生産進展は、歩留まり、タクトタイム、部品調達、品質管理、保守部品の計画を通じて納入能力と単価を左右します",
+        "watch_zh": "实际周产量、良率、核心部件瓶颈、延期情况、单位成本和返修率",
+        "watch_en": "actual weekly output, yield, component bottlenecks, delays, unit cost, and return or repair rates",
+        "watch_jp": "実際の週産台数、歩留まり、部品制約、納期遅延、単価、修理率",
+    },
+    "consumer": {
+        "en": "Consumer robots compete on daily usefulness, interaction quality, privacy, durability, and long-term service cost rather than industrial throughput.",
+        "zh": "消费与陪伴机器人不以工业产能衡量，而要看日常使用频率、交互质量、隐私处理、耐用性和长期服务费用，体验新鲜感不等于留存",
+        "jp": "家庭・伴走型ロボットでは、生産性より日常利用頻度、対話品質、プライバシー、耐久性、長期サービス費用が継続利用を決めます",
+        "watch_zh": "用户留存、退货原因、订阅服务、隐私政策、软件更新周期和真实家庭反馈",
+        "watch_en": "retention, return reasons, subscriptions, privacy policy, software-update cadence, and long-term household feedback",
+        "watch_jp": "利用継続率、返品理由、課金サービス、プライバシー方針、更新周期、家庭での長期評価",
+    },
+    "general": {
+        "en": "The report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline.",
+        "zh": "这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索",
+        "jp": "産業シグナルではありますが、具体的な機能、顧客、日程、運用指標が示されなければ、現時点では検証待ちの情報です",
+        "watch_zh": "后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈",
+        "watch_en": "quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback",
+        "watch_jp": "定量指標、責任主体、実施時期、第三者検証、顧客評価",
+    },
+}
+
+def is_relevant_robotics_item(region, headline):
+    lower = headline.lower()
+    robotics_terms = ["robot", "robotic", "humanoid", "physical ai", "embodied ai", "ロボット", "ヒューマノイド", "机器人", "具身智能"]
+    humanoid_terms = ["humanoid", "bipedal", "optimus", "figure ai", "apptronik", "agility robotics", "atlas", "unitree", "ubtech", "agibot", "fourier", "omakase", "ヒューマノイド", "人形机器人", "人型机器人"]
+    if region["label"] == "Humanoid Robotics":
+        return any(term in lower for term in humanoid_terms)
+    if region["emoji"] == "🇺🇸":
+        us_markers = ["u.s.", " us ", "america", "tesla", "figure", "boston dynamics", "nvidia", "amazon", "apptronik", "agility"]
+        return any(term in lower for term in robotics_terms) and any(term in f" {lower} " for term in us_markers)
+    if region["emoji"] == "🇯🇵" and any(term in lower for term in ["韓国", "korea", "한국", "中国", "china", "unitree", "ユニツリー"]):
+        return False
+    if region["emoji"] == "🇯🇵":
+        japan_markers = [
+            "日本", "国内", "安川", "ファナック", "川崎重工", "トヨタ", "ホンダ", "ソニー", "aibo",
+            "agr ist", "agrist", "telexistence", "オムロン", "デンソー", "mujin", "日立", "三菱電機",
+            "パナソニック", "産総研", "東京大学", "大阪大学", "早稲田", "慶應", "自治体",
+            "ロボットビジネス支援機構", "静岡市", "清水区役所", "岡山大学", "豊田通商", "triorb",
+            "タカラスタンダード", "sert", "zeals", "未来館", "jst", "中日", "北海道",
+        ]
+        return any(term in lower for term in robotics_terms) and any(term in lower for term in japan_markers)
+    return any(term in lower for term in robotics_terms)
+
+def robotics_story_bucket(headline):
+    topic = robotics_topic(headline)
+    entities = extract_entities(headline)
+    entity = entities[0] if entities and entities[0] != "the companies and institutions named in the headline" else "general"
+    return f"{topic}:{entity.lower()}", topic
+
+def robotics_event_signature(headline):
+    lower = headline.lower()
+    percentages = re.findall(r"\d+(?:\.\d+)?%", lower)
+    if percentages:
+        return f"{robotics_topic(headline)}:{percentages[0]}"
+    return ""
+
 def has_recent_content(text):
     dates = re.findall(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]', text or "")
     if not dates:
         return False
     return all((parse_item_date(d) or TODAY.date()) >= CUTOFF_DATE for d in dates)
+
+def section_item_counts(text):
+    counts = {}
+    current = None
+    for line in (text or "").splitlines():
+        clean = line.strip()
+        if clean.startswith("## "):
+            current = clean[3:].strip()
+            counts[current] = 0
+        elif current and clean.startswith("- **"):
+            counts[current] += 1
+    return counts
+
+def has_required_content(text):
+    if not has_recent_content(text):
+        return False
+    counts = section_item_counts(text)
+    required = {"🇺🇸": 3, "🇨🇳": 3, "🇯🇵": 3, "🤖": 5}
+    return all(any(emoji in heading and count >= minimum for heading, count in counts.items()) for emoji, minimum in required.items())
+
+def digest_summary_records(text):
+    records = []
+    starts = list(re.finditer(r"(?m)^-\s*\*\*\[[^\]]+\]\s*(.+?)\*\*", text or ""))
+    for index, match in enumerate(starts):
+        end = starts[index + 1].start() if index + 1 < len(starts) else len(text)
+        block = text[match.end():end]
+        title = match.group(1).strip()
+        for line in block.splitlines():
+            clean = line.strip()
+            if re.match(r"^(English|En|中文|日本語)\s*[：:]", clean, re.I):
+                records.append((title, re.sub(r"^(English|En|中文|日本語)\s*[：:]\s*", "", clean, flags=re.I)))
+    return records
+
+def digest_quality_issues(text):
+    records = digest_summary_records(text)
+    issues = []
+    sentence_owner = {}
+    for title, summary in records:
+        for sentence in re.split(r"(?<=[.!?。！？])\s*", summary):
+            normalized = re.sub(r"\s+", " ", sentence).strip().lower()
+            if len(normalized) < 45:
+                continue
+            previous = sentence_owner.get(normalized)
+            if previous and previous != title:
+                issues.append(f'repeated sentence in "{previous}" and "{title}"')
+            else:
+                sentence_owner[normalized] = title
+    for i, (title_a, summary_a) in enumerate(records):
+        lang_a = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_a) else "en"
+        norm_a = re.sub(r"\s+", "", summary_a).lower()
+        for title_b, summary_b in records[i + 1:]:
+            lang_b = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_b) else "en"
+            if lang_a != lang_b:
+                continue
+            norm_b = re.sub(r"\s+", "", summary_b).lower()
+            ratio = SequenceMatcher(None, norm_a, norm_b).ratio()
+            if ratio >= 0.88:
+                issues.append(f'highly similar summaries ({ratio:.0%}) in "{title_a}" and "{title_b}"')
+    return issues
+
+def validate_digest_quality(text):
+    issues = digest_quality_issues(text)
+    if issues:
+        print("   Summary quality check failed:")
+        for issue in issues[:8]:
+            print(f"   - {issue}")
+        return False
+    return True
 
 def fetch_rss_items(region, limit=5):
     items = []
@@ -243,6 +470,7 @@ def fetch_rss_items(region, limit=5):
     exclude_terms = region.get("exclude_terms", [])
     queries = region.get("queries") or [region["query"]]
     for query in queries:
+        query_added = 0
         scoped_query = query
         if region["label"] == "日本 / Japan":
             scoped_query = f"{query} -中国 -China -Unitree -ユニツリー"
@@ -272,35 +500,70 @@ def fetch_rss_items(region, limit=5):
             combined = f"{headline} {source}"
             if any(term.lower() in combined.lower() for term in exclude_terms):
                 continue
+            if not is_relevant_robotics_item(region, headline):
+                continue
             seen.add(headline.lower())
             try:
                 dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
                 date = dt.strftime("%Y.%m.%d")
             except Exception:
+                dt = TODAY
                 date = DATE_STR
             if parse_item_date(date) < CUTOFF_DATE:
                 continue
-            items.append({"date": date, "headline": headline, "source": source, "link": link})
-            if len(items) >= limit:
-                return items
-    return items
+            items.append({"date": date, "headline": headline, "source": source, "link": link, "dt": dt})
+            query_added += 1
+            query_cap = max(limit * 2, 8) if len(queries) == 1 else max(2, min(limit, 4))
+            if query_added >= query_cap:
+                break
+    ordered = sorted(items, key=lambda item: item.get("dt", TODAY), reverse=True)
+    selected, bucket_counts, topic_counts, source_counts, event_signatures = [], {}, {}, {}, set()
+    for item in ordered:
+        bucket, topic = robotics_story_bucket(item["headline"])
+        event_signature = robotics_event_signature(item["headline"])
+        topic_limit = 1 if region["label"] == "Humanoid Robotics" and topic == "market" else 2
+        source_key = item["source"].lower()
+        if (event_signature and event_signature in event_signatures) or bucket_counts.get(bucket, 0) >= 1 or topic_counts.get(topic, 0) >= topic_limit or source_counts.get(source_key, 0) >= 2:
+            continue
+        selected.append(item)
+        bucket_counts[bucket] = bucket_counts.get(bucket, 0) + 1
+        topic_counts[topic] = topic_counts.get(topic, 0) + 1
+        source_counts[source_key] = source_counts.get(source_key, 0) + 1
+        if event_signature:
+            event_signatures.add(event_signature)
+        if len(selected) >= limit:
+            return selected
+    for item in ordered:
+        event_signature = robotics_event_signature(item["headline"])
+        if item not in selected and (not event_signature or event_signature not in event_signatures):
+            selected.append(item)
+            if event_signature:
+                event_signatures.add(event_signature)
+        if len(selected) >= limit:
+            break
+    return selected
 
 def fetch_humanoid_items(region, limit=5):
-    priority_region = {
+    omakase_region = {
         **region,
         "queries": [
             '"Omakase Robotics" OR "Omakase OS" OR "D1 humanoid"',
             '"Omakase Robotics" humanoid robot Japan',
-            '"日本" "ヒューマノイド" "ロボット" "Omakase"',
-            '"Japan" "humanoid robot" "Omakase"',
-            '"日本" "ヒューマノイド" "ロボット"',
         ],
         "hl": "ja",
         "gl": "JP",
         "ceid": "JP:ja",
         "exclude_terms": [],
     }
-    priority = fetch_rss_items(priority_region, limit=1)
+    japan_region = {
+        **omakase_region,
+        "queries": [
+            '"日本" "ヒューマノイド" "ロボット" "Omakase"',
+            '"Japan" "humanoid robot" "Omakase"',
+            '"日本" "ヒューマノイド" "ロボット"',
+        ],
+    }
+    priority = fetch_rss_items(omakase_region, limit=1) or fetch_rss_items(japan_region, limit=1)
     global_items = fetch_rss_items(region, limit=limit + 4)
     out = []
     seen = set()
@@ -327,138 +590,61 @@ def short_event(headline, limit=90):
     clean = re.sub(r"\s+", " ", headline).strip()
     return clean if len(clean) <= limit else clean[:limit].rstrip() + "..."
 
+def sentence_event(headline, limit=62):
+    clean = re.sub(r"[.!?。！？\"“”]+", " ", headline)
+    clean = re.sub(r"\s+", " ", clean).strip()
+    return clean if len(clean) <= limit else clean[:limit].rstrip() + "…"
+
 def english_summary(item):
     headline = item["headline"]
-    entities = ", ".join(extract_entities(headline))
-    lower = headline.lower()
-    if any(k in lower for k in ["boston dynamics", "hyundai", "robotics hub", "ownership", "center"]):
-        return (
-            f"Summary: {entities} point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. "
-            "The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. "
-            "Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups."
-        )
-    if any(k in lower for k in ["humanoid", "robot future", "ai center"]):
-        return (
-            f"Summary: {headline} signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. "
-            "The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. "
-            "Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos."
-        )
+    source = item.get("source", "The source")
+    topic = robotics_topic(headline)
+    profile = ROBOTICS_PROFILES[topic]
+    subject = ", ".join(extract_entities(headline))
+    if subject == "the companies and institutions named in the headline":
+        subject = source
+    reference = sentence_event(headline, 40)
+    short_reference = sentence_event(headline, 20)
     return (
-        f"Summary: {headline} fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. "
-        "The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. "
-        "Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum."
+        f'Summary: {source} reports "{reference}," an event affecting {subject}. '
+        f'In {source}\'s "{short_reference}" case, {profile["en"][0].lower() + profile["en"][1:]} '
+        f'For "{short_reference}," watch {profile["watch_en"]}.'
     )
 
 def chinese_summary(item):
     headline = item["headline"]
+    source = item.get("source", "新闻来源")
     entities = "、".join(extract_entities(headline))
     if entities == "the companies and institutions named in the headline":
-        entities = "相关企业或机构"
+        entities = source
     event = short_event(headline)
-    points = []
-    if any(k in headline for k in ["宇树", "Unitree"]):
-        points.append("宇树相关动态会直接影响中国人形机器人硬件价格、海外关注度和开发者生态")
-    if any(k in headline for k in ["具身智能", "人形", " humanoid", "机器人"]):
-        points.append("具身智能或人形机器人线索需要看运动控制、感知模型和真实任务执行是否同步进步")
-    if any(k in headline for k in ["产业学院", "高校", "大学", "教育", "人才"]):
-        points.append("教育和产业学院相关内容说明行业正在补人才、课程、实验场景和应用数据")
-    if any(k in headline for k in ["降价", "现货", "发布", "量产", "开售", "价格"]):
-        points.append("价格、现货或量产信息要观察是否带来真实订单，而不是短期曝光")
-    if any(k in headline for k in ["工厂", "物流", "商业", "巡检", "服务"]):
-        points.append("工厂、物流或商业服务场景比单纯演示更能验证 ROI 和维护能力")
-    if not points:
-        points.append("这条新闻反映中国 AI 机器人市场在硬件、算法、供应链或应用场景上的推进")
-    if any(k in headline for k in ["宇树", "具身智能", "产业学院", "机器人", "降价", "现货"]):
-        return (
-            f"总结：{entities} 是这条中国市场新闻的主要观察对象，具体事件是「{event}」。"
-            + "；".join(points[:3])
-            + "。后续需要观察真实订单、交付节奏、售后能力、开发者生态和行业客户是否跟上，避免只停留在发布会或短期流量。"
-        )
+    reference = sentence_event(headline, 48)
+    profile = ROBOTICS_PROFILES[robotics_topic(headline)]
     return (
-        f"总结：这条新闻的具体事件是「{event}」。"
-        + "；".join(points[:3])
-        + "。判断价值不在于标题热度，而在于它是否改变硬件成本、运动控制、视觉感知、具身智能模型、客户场景或供应链协作。"
+        f"总结：{source}报道的具体事件是「{event}」。就「{reference}」而言，{profile['zh']}。"
+        f"针对「{reference}」，后续应核实{profile['watch_zh']}。只有这些指标与该事件相互印证，"
+        f"才能判断「{reference}」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。"
     )
 
 def japanese_summary(item):
     headline = item["headline"]
+    source = item.get("source", "報道元")
     entities = "、".join(extract_entities(headline))
     if entities == "the companies and institutions named in the headline":
-        entities = "関係企業・自治体"
-    if any(k in headline for k in ["AGRIST", "農業", "収穫", "獣害"]):
-        return (
-            f"要約：{entities} の動きは、日本のロボット産業が人手不足や農業現場の課題に向けて、より実用的な段階へ進んでいることを示している。"
-            "重要なのは、単なる技術展示ではなく、収穫、監視、獣害対策、作業補助といった現場で継続的に使えるかどうかである。"
-            "今後は、導入コスト、保守体制、農家や自治体との実証結果、Microsoft など外部 AI 基盤との連携が、商用化の速度を左右する。"
-            "特に日本では現場ごとの作業条件が細かいため、ロボット単体の性能だけでなく、運用設計、データ収集、導入後の改善サイクルが競争力になる。"
-        )
-    if any(k in headline for k in ["ソニー", "アイボ", "aibo"]):
-        return (
-            f"要約：{entities} に関するニュースは、日本の家庭向けロボット市場が次の転換点に差しかかっていることを示す。"
-            "aibo のような製品は、単なる家電ではなく、センサー、クラウド、音声認識、感情表現、長期サポートを含むサービス型ロボットの象徴だった。"
-            "今後は、国内販売終了やサービス継続の方針が、消費者向けロボットの収益性、保守負担、次世代製品への投資判断にどう影響するかが焦点になる。"
-            "家庭用ロボットは感情価値と継続課金の設計が難しく、次世代では生成 AI、見守り、ヘルスケア、家族コミュニケーションとの統合が重要になる。"
-        )
-    if any(k in headline for k in ["AIデータセンター", "東電", "孫"]):
-        return (
-            f"要約：{entities} の話題は、ロボットやフィジカル AI の基盤として、電力、データセンター、計算資源がますます重要になっていることを示している。"
-            "日本で AI インフラを整備できるかどうかは、ロボットの学習、シミュレーション、遠隔運用、産業データ活用の競争力に直結する。"
-            "今後は、電力制約、投資規模、クラウド事業者との連携、製造業や物流現場での AI ロボット活用がどこまで進むかを見たい。"
-            "ロボット産業は本体開発だけでなく、学習用データ、GPU 計算、通信、電力調達まで含めたインフラ競争になりつつある。"
-        )
+        entities = source
+    profile = ROBOTICS_PROFILES[robotics_topic(headline)]
+    reference = sentence_event(headline, 52)
     return (
-        f"要約：{headline} は、日本の AI・ロボット産業が研究開発だけでなく、実証、販売、インフラ、現場導入へ広がっていることを示す。"
-        "日本市場では、少子高齢化、人手不足、製造業の自動化、農業や物流の省人化が強い需要要因になっている。"
-        "今後は、実証実験が商用契約に進むか、国内企業がセンサー、アクチュエータ、制御ソフト、AI 基盤を組み合わせて競争力を出せるかが重要になる。"
-        "海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。"
+        f"要約：{source}が報じた具体的な出来事は「{headline}」です。「{reference}」を評価する際、{profile['jp']}。"
+        f"「{reference}」について次に確認すべきなのは、{profile['watch_jp']}です。"
+        f"同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「{reference}」から推測した商談、性能、量産計画を事実として扱いません。"
     )
 
 def us_robotics_chinese_summary(item):
-    headline = item["headline"]
-    lower = headline.lower()
-    entities = "、".join(extract_entities(headline))
-    if entities == "the companies and institutions named in the headline":
-        entities = "标题中的相关企业或机构"
-    event = short_event(headline)
-    points = []
-    if any(k in lower for k in ["funding", "raises", "investment", "valuation", "ipo"]):
-        points.append("资本事件说明美国机器人公司仍在为量产、人才和长期客户验证筹集资源")
-    if any(k in lower for k in ["factory", "manufacturing", "warehouse", "logistics", "amazon"]):
-        points.append("制造、仓储或物流场景意味着机器人正在接近可计算 ROI 的企业级部署")
-    if any(k in lower for k in ["humanoid", "boston dynamics", "figure", "tesla", "optimus", "agility", "apptronik"]):
-        points.append("人形机器人相关内容要重点看全身控制、续航、安全和真实任务完成率")
-    if any(k in lower for k in ["nvidia", "ai", "model", "simulation", "vision"]):
-        points.append("AI 模型、仿真和视觉能力会影响机器人从固定流程走向更复杂环境的速度")
-    if not points:
-        points.append("这条消息反映美国机器人产业在产品、客户、供应链或应用场景上的推进")
-    return (
-        f"总结：{entities} 是这条美国市场新闻的主要观察对象，具体事件是「{event}」。"
-        + "；".join(points[:3])
-        + "。后续要看它是否带来明确客户、试点扩大、量产节奏、成本下降或供应链协同，而不是只停留在概念展示。"
-    )
+    return chinese_summary(item)
 
 def japan_robotics_chinese_summary(item):
-    headline = item["headline"]
-    entities = "、".join(extract_entities(headline))
-    if entities == "the companies and institutions named in the headline":
-        entities = "日本相关企业、自治体或研究机构"
-    event = short_event(headline)
-    points = []
-    if any(k in headline for k in ["農業", "収穫", "獣害", "AGRIST"]):
-        points.append("农业和现场作业场景直接对应日本人手不足，重点是能否降低持续运营成本")
-    if any(k in headline for k in ["ソニー", "aibo", "アイボ"]):
-        points.append("家庭或陪伴机器人消息要看服务周期、维护成本和生成 AI 时代的产品更新")
-    if any(k in headline for k in ["ファナック", "安川", "工場", "製造"]):
-        points.append("工业自动化消息更接近日本传统优势，重点是 AI 是否提升柔性生产能力")
-    if any(k in headline for k in ["ヒューマノイド", "人型", "Omakase", "ロボット"]):
-        points.append("人形或服务机器人线索要看安全合规、现场流程接入和日本本土客户验证")
-    if not points:
-        points.append("这条新闻体现日本机器人产业从研发展示走向现场验证、销售或基础设施建设")
-    return (
-        f"总结：{entities} 是这条日本市场新闻的主要观察对象，具体事件是「{event}」。"
-        + "；".join(points[:3])
-        + "。后续应关注试点是否转成商用合同、保守维护体系是否成立，以及日本企业能否把精密制造、现场改善和 AI 软件结合起来。"
-    )
+    return chinese_summary(item)
 
 def humanoid_event_points(headline):
     lower = headline.lower()
@@ -491,23 +677,16 @@ def humanoid_event_points(headline):
 
 def humanoid_summary_lines(item, first=False):
     headline = item["headline"]
-    entities = ", ".join(extract_entities(headline))
-    if entities == "the companies and institutions named in the headline":
-        entities = "the companies named in the headline"
-    en_points, zh_points = humanoid_event_points(headline)
-    prefix = "Priority Japan/Omakase item" if first else "Humanoid robotics item"
-    en = (
-        f"Summary: {prefix}: {entities}. "
-        + " ".join(point[0].upper() + point[1:] + "." for point in en_points)
-        + " Watch whether the news leads to paid pilots, repeat deployments, hardware availability, safety approvals, or stronger software integration across perception, planning, speech, and remote operation."
-    )
-    zh = (
-        "总结："
-        + ("第一条保留给日本人形机器人产业与 OmakaseRobotics 相关动向。" if first else "")
-        + f"{headline} 的核心不是标题热度，而是它对应的人形机器人商业化阶段。"
-        + "；".join(zh_points)
-        + "。后续要看是否出现付费试点、连续部署、硬件供货、现场安全认证，以及感知、规划、语音交互和远程运维软件是否真正进入客户流程。"
-    )
+    source = item.get("source", "The source")
+    topic = robotics_topic(headline)
+    profile = ROBOTICS_PROFILES[topic]
+    japan_priority = first and any(k in headline.lower() for k in ["omakase", "japan", "日本", "ヒューマノイド"])
+    en = english_summary(item)
+    if japan_priority:
+        en += " This lead item is classified as the Japan/Omakase watch because the headline itself contains a Japan-linked humanoid signal."
+    zh = chinese_summary(item)
+    if japan_priority:
+        zh += f" 本条进入日本/Omakase优先位的依据来自标题中的日本人形机器人线索；针对该事件只追踪{profile['watch_zh']}，不套用其他公司的量产或试点判断。"
     return [f"  English: {en}", f"  中文：{zh}"]
 
 def fallback_summary_lines(region, item):
@@ -521,7 +700,7 @@ def fallback_summary_lines(region, item):
     if region["emoji"] == "🇨🇳":
         return [
             f"  中文：{chinese_summary(item)}",
-            f"  English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.",
+            f"  English: {english_summary(item)}",
         ]
     if region["emoji"] == "🇯🇵":
         return [
@@ -682,6 +861,12 @@ if __name__ == "__main__":
     n = digest.count("- **") if digest else 0
     if n < 3:
         print(f"❌ Only {n} items")
+        sys.exit(1)
+    if not has_required_content(digest):
+        print("❌ Missing a required region or minimum item count")
+        sys.exit(1)
+    if not validate_digest_quality(digest):
+        print("❌ Refusing to publish repetitive or highly similar summaries")
         sys.exit(1)
     OUTPUT_FILE.write_text(digest, encoding="utf-8")
     html = md_to_html(digest)
