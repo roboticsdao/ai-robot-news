@@ -22,20 +22,20 @@
   中文：总结：这条新闻围绕 New OMNI Humanoid Robot 2026 Release SHAKES AI Industry (AI NEWS) Newhook (lo8Abuh9O6)，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oMGdTOHVHQ3UtLWQ4YWh5YVdOMUZxSmR5Rm5nR2lidFV2cW41Rk9YSTlEN25ycHotcDMzQlBrV3p5WkpSWExyRTAyZ2hsVG1aV1c2c0xSSHdVRGM?oc=5)
 
+- **[2026.08.10] 아시아경제 — [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI**
+  English: Summary: [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
+  中文：总结：这条新闻围绕 [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [아시아경제](https://news.google.com/rss/articles/CBMiekFVX3lxTE5kamEzc1VZczFFYXk1aGJhcXA5SXFqbGNaTFpILTByaHFnWmNMZXhJQ0o4Qk1DTXJGa2sxTDItQkJsdmw4UmgyMzZYOW5jR0VLLWJiVnNfd293NWMwM1V5NWtXZXFWV2NORkZPRm5RWkpUbURzWno3QU53?oc=5)
+
+- **[2026.08.11] TechRepublic — Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo**
+  English: Summary: Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo signals that humanoid and AI-enabled robots are moving from research showcases toward real industrial planning. The key issue is not only whether a robot can perform impressive tasks, but whether companies can support safe deployment, maintenance, training data, and repeatable unit economics. Investors and builders should watch partnerships, hiring, factory capacity, and the first commercial use cases that prove robots can work reliably outside controlled demos.
+  中文：总结：这条新闻围绕 Figure 03 Humanoid Robot Climbs Ladder Autonomously in New Demo，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
+  📰 [TechRepublic](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVlFTDMyVzBQWTFmbjI4X2RPYkZLdjFzM3BYdmlua0oxTlh4OHV2TGhHeEhsNmhvdHZEenRpMC1VZGJRbjR6TERVbnZiMTVYbnR0cmZicTlqbEVYOC05WlRNazdtOE5jbWlwN01rbXJrUXptNGZoeUhHUGhnSXdJM29kTktiZWdWa0E?oc=5)
+
 - **[2026.08.11] Tech Times — South Korea Uses Hyundai Wia Parking Robot Trial to Rewrite Parking Law**
   English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
   中文：总结：这条新闻围绕 South Korea Uses Hyundai Wia Parking Robot Trial to Rewrite Parking Law，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
   📰 [Tech Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWhyZkw5ZXdJSnF6azlPejh6RUpWeTVnZXV1NmludHlUeXV4Q0RLajN5MHpZN1FGX2lzbWpSZUZfUHBsWnNBUDhqUHlkOGhqSXlsdG1EbW1XQVUxOXVVenR6NjFxMFF3ZVZsTEpCaFVmODJ6bGZYQlVtNG9tNTA3dFhMYmtpTWtqSGlvTVBwS1pHVlpiVlVzai13aldkM3psZVNEWGJMZmlEd1p6NEdOM3B5VkQzZEY4RGR3d0g3UG0?oc=5)
-
-- **[2026.08.10] pulse.mk.co.kr — Hyundai Motor preferred shares outperform on dividend support**
-  English: Summary: Hyundai point to a more industrial phase for the robotics market: capital, manufacturing capacity, and local hiring are becoming as important as demos. The story matters because advanced robotics centers can shorten the path from prototype to deployable machines, especially in humanoids, logistics, inspection, and factory automation. Watch whether the investment leads to new products, customer pilots, supplier expansion, or deeper integration with automotive and AI software groups.
-  中文：总结：这条新闻围绕 Hyundai Motor preferred shares outperform on dividend support，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [pulse.mk.co.kr](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIMWpMSFhQQUQ4dDRCbUlCYXdYaWdyT0ItVHFEQi1CbUpzXzhadGpnN1JETWNsY1ZNM3dYbXRuVzBUcURMUFNkVE56cWE0NlhBX2p5TGx4NA?oc=5)
-
-- **[2026.08.10] 아시아경제 — [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI**
-  English: Summary: [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI fits the broader AI robotics cycle in which hardware makers, AI labs, and industrial users are trying to turn robotic capability into practical deployment. The important question is whether this news changes adoption speed, cost curves, supply chains, or customer confidence. Follow-up signals include pilot programs, production targets, safety approvals, enterprise customers, and whether related suppliers in sensors, actuators, chips, simulation, and fleet software also gain momentum.
-  中文：总结：这条新闻围绕 [Mega Project Success Factors]③ Ecosystem Over Technology...Urgent Need for Regulatory Reform in Physical AI，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。
-  📰 [아시아경제](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90VjEyUHRYeDNiSnhhRDN5NUhPak5WOUZYTkxsdFBIVUdEQngzZEZ6dklmWFl6dko3bHlVdnRObENNSXNHRXp2Zy1rMlJqZzVXLXVGMDRUWExZZXBVemdUWnk4TEo?oc=5)
 
 
 ## 🇨🇳 中国 / China
@@ -46,10 +46,10 @@
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
   📰 [shyp.gov.cn](https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQnJqckREbWFsSm0xNHVodTg0VHdIOHEyQ2ZCTmRVSTNJQnlfRUs4MHhLU0FweFJpUkt6TGpXZUljSFpuNlpwX2pXRnJvZ1A4amdNRW5tT2NrTmUydC0xdi1NSWswMi1JQzRWYg?oc=5)
 
-- **[2026.08.11] 10jqka.com.cn — 优必选等成立新机器人公司 注册资本1000万**
+- **[2026.08.11] 同花顺 — 优必选等成立新机器人公司 注册资本1000万**
   中文：总结：优必选 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
   English: This item shows how China's robotics ecosystem is expanding across hardware, embodied AI, education, manufacturing, and commercial deployment. Watch whether pilots turn into repeatable orders and whether lower hardware costs accelerate adoption.
-  📰 [10jqka.com.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hdXg3bDFWNmFVekk0VXVPcW9BVzBsOVlCV3dhV0phNXVCWXR3cFc1U0pobWJrdDVRTzY1SnhfMjFjU1c1eF9vTEZCQ2E4eWt5Zm5FTDZHaFlrZEJSWEE?oc=5)
+  📰 [同花顺](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hdXg3bDFWNmFVekk0VXVPcW9BVzBsOVlCV3dhV0phNXVCWXR3cFc1U0pobWJrdDVRTzY1SnhfMjFjU1c1eF9vTEZCQ2E4eWt5Zm5FTDZHaFlrZEJSWEE?oc=5)
 
 - **[2026.08.12] 新浪网 — 宇树科技网上申购为什么这么火爆？**
   中文：总结：宇树 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。
