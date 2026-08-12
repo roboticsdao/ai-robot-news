@@ -25,6 +25,13 @@ REGIONS = [
         "emoji": "🇺🇸",
         "label": "美国 / United States",
         "query": '("AI robotics" OR "humanoid robot" OR "robotics startup") (US OR America OR Tesla OR Figure OR Boston Dynamics)',
+        "queries": [
+            '("AI robotics" OR "robotics startup") (US OR America)',
+            '("humanoid robot" OR "humanoid robotics") (Tesla OR Optimus OR Figure OR Apptronik OR Agility Robotics)',
+            '("Boston Dynamics" OR "Atlas robot" OR "Stretch robot")',
+            '("robotics startup" OR "robot automation") (Amazon OR warehouse OR logistics OR factory) US',
+            '("physical AI" OR "embodied AI") robotics NVIDIA US',
+        ],
         "hl": "en-US",
         "gl": "US",
         "ceid": "US:en",
@@ -56,18 +63,36 @@ REGIONS = [
         "ceid": "JP:ja",
         "exclude_terms": ["中国", "China", "中国製", "中国経済", "人民網", "Unitree", "ユニツリー", "宇樹", "宇树", "매일경제", "디지털투데이"],
     },
+    {
+        "emoji": "🤖",
+        "label": "Humanoid Robotics",
+        "query": '("humanoid robot" OR "humanoid robotics" OR "embodied AI" OR "bipedal robot")',
+        "queries": [
+            '"Omakase Robotics" OR "Omakase OS" OR "D1 humanoid" OR "日本 ヒューマノイド ロボット"',
+            '"humanoid robot" "Japan" robotics Omakase',
+            '"humanoid robot" OR "humanoid robotics" OR "bipedal robot"',
+            '"Figure AI" OR "Boston Dynamics Atlas" OR "Tesla Optimus" OR "Agility Robotics" OR "Apptronik Apollo"',
+            '"Unitree G1" OR "Agibot" OR "UBTech" OR "Fourier GR-1" humanoid',
+        ],
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en",
+        "min_items": 5,
+        "exclude_terms": ["fiction", "movie", "anime", "toy"],
+    },
 ]
 
 PROMPT = f"""You are an AI robotics industry news editor. Today is {DATE_STR} ({WEEKDAY_EN}).
 
-Search for the latest AI robotics news. Find 3-5 items for EACH of these 3 regions: United States, China, Japan. Total 9-15 items.
+Search for the latest AI robotics news. Find 3-5 items for United States, China, and Japan. Also add a final "Humanoid Robotics" section with at least 5 non-duplicate global humanoid robotics items. Total 14-20 items.
 
 RULES:
 1. Prioritize last 24 hours. Expand only to the past 3 days if needed. NEVER use older items.
 2. NEVER say sorry, unable to find, or anything similar. FORBIDDEN.
 3. Each item must have: date, company name, a substantial summary, and source publication name.
 4. Japan section must cover Japan's domestic AI/robotics industry only. Exclude China/Unitree stories merely reported in Japanese.
-5. Do NOT include any URLs in your response. I will add them separately.
+5. Humanoid Robotics section must cover embodied humanoid robot news globally. The first Humanoid Robotics item must be reserved for Japan's humanoid robotics industry and OmakaseRobotics/Omakase OS/D1 humanoid if any recent item is available.
+6. Do NOT include any URLs in your response. I will add them separately.
 
 FORMAT (pure Markdown, no code fences):
 
@@ -89,6 +114,13 @@ FORMAT (pure Markdown, no code fences):
 ## 🇨🇳 中国 / China
 
 ## 🇯🇵 日本 / Japan
+
+## 🤖 Humanoid Robotics
+
+- **[{DATE_STR}] Company Name — 中文事件概要**
+  English: Summary in about 400 characters, covering what happened, why it matters, and what to watch next.
+  中文：约300字中文总结，说明事件、产业意义和后续观察点。
+  📰 Source Publication Name
 
 ---
 ※AI Robot News Digest | {DATE_STR}"""
@@ -211,16 +243,23 @@ def fetch_rss_items(region, limit=5):
     exclude_terms = region.get("exclude_terms", [])
     queries = region.get("queries") or [region["query"]]
     for query in queries:
+        scoped_query = query
+        if region["label"] == "日本 / Japan":
+            scoped_query = f"{query} -中国 -China -Unitree -ユニツリー"
         params = {
-            "q": f"{query} when:3d -中国 -China -Unitree -ユニツリー",
+            "q": f"{scoped_query} when:3d",
             "hl": region["hl"],
             "gl": region["gl"],
             "ceid": region["ceid"],
         }
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=20) as response:
-            xml = response.read()
+        try:
+            with urllib.request.urlopen(req, timeout=25) as response:
+                xml = response.read()
+        except Exception as ex:
+            print(f"   RSS query failed: {query[:70]}... ({ex})")
+            continue
 
         root = ET.fromstring(xml)
         for node in root.findall("./channel/item"):
@@ -246,6 +285,35 @@ def fetch_rss_items(region, limit=5):
                 return items
     return items
 
+def fetch_humanoid_items(region, limit=5):
+    priority_region = {
+        **region,
+        "queries": [
+            '"Omakase Robotics" OR "Omakase OS" OR "D1 humanoid"',
+            '"Omakase Robotics" humanoid robot Japan',
+            '"日本" "ヒューマノイド" "ロボット" "Omakase"',
+            '"Japan" "humanoid robot" "Omakase"',
+            '"日本" "ヒューマノイド" "ロボット"',
+        ],
+        "hl": "ja",
+        "gl": "JP",
+        "ceid": "JP:ja",
+        "exclude_terms": [],
+    }
+    priority = fetch_rss_items(priority_region, limit=1)
+    global_items = fetch_rss_items(region, limit=limit + 4)
+    out = []
+    seen = set()
+    for item in priority + global_items:
+        key = re.sub(r"\W+", "", item["headline"].lower())[:90]
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(item)
+        if len(out) >= limit:
+            break
+    return out
+
 def extract_entities(headline):
     names = [
         "Boston Dynamics", "Hyundai", "Tesla", "Figure", "NVIDIA", "Amazon", "Microsoft", "Google",
@@ -254,6 +322,10 @@ def extract_entities(headline):
     ]
     found = [name for name in names if name.lower() in headline.lower()]
     return found[:4] or ["the companies and institutions named in the headline"]
+
+def short_event(headline, limit=90):
+    clean = re.sub(r"\s+", " ", headline).strip()
+    return clean if len(clean) <= limit else clean[:limit].rstrip() + "..."
 
 def english_summary(item):
     headline = item["headline"]
@@ -282,18 +354,30 @@ def chinese_summary(item):
     entities = "、".join(extract_entities(headline))
     if entities == "the companies and institutions named in the headline":
         entities = "相关企业或机构"
+    event = short_event(headline)
+    points = []
+    if any(k in headline for k in ["宇树", "Unitree"]):
+        points.append("宇树相关动态会直接影响中国人形机器人硬件价格、海外关注度和开发者生态")
+    if any(k in headline for k in ["具身智能", "人形", " humanoid", "机器人"]):
+        points.append("具身智能或人形机器人线索需要看运动控制、感知模型和真实任务执行是否同步进步")
+    if any(k in headline for k in ["产业学院", "高校", "大学", "教育", "人才"]):
+        points.append("教育和产业学院相关内容说明行业正在补人才、课程、实验场景和应用数据")
+    if any(k in headline for k in ["降价", "现货", "发布", "量产", "开售", "价格"]):
+        points.append("价格、现货或量产信息要观察是否带来真实订单，而不是短期曝光")
+    if any(k in headline for k in ["工厂", "物流", "商业", "巡检", "服务"]):
+        points.append("工厂、物流或商业服务场景比单纯演示更能验证 ROI 和维护能力")
+    if not points:
+        points.append("这条新闻反映中国 AI 机器人市场在硬件、算法、供应链或应用场景上的推进")
     if any(k in headline for k in ["宇树", "具身智能", "产业学院", "机器人", "降价", "现货"]):
         return (
-            f"总结：{entities} 相关动态说明，中国 AI 机器人产业正在从单点产品发布，转向教育体系、供应链、渠道和应用场景的同步建设。"
-            "如果高校、地方产业园和机器人企业形成更紧密合作，后续人才培养、数据采集、真实场景测试和批量部署都会更快。"
-            "这也意味着竞争重点不再只是单台机器人的运动能力，而是能否把硬件、算法、课程、售后和行业客户组织成长期生态。"
-            "需要继续观察的是：产品是否真正进入工厂、商业服务和公共场景，价格下降是否带来规模化订单，以及具身智能模型能否和国产硬件形成稳定闭环。"
+            f"总结：{entities} 是这条中国市场新闻的主要观察对象，具体事件是「{event}」。"
+            + "；".join(points[:3])
+            + "。后续需要观察真实订单、交付节奏、售后能力、开发者生态和行业客户是否跟上，避免只停留在发布会或短期流量。"
         )
     return (
-        f"总结：{headline} 反映中国 AI 机器人市场仍处在快速扩张阶段，核心变量包括硬件成本、运动控制、视觉感知、具身智能模型和落地场景。"
-        "这类新闻的意义不只是单个企业曝光，而是看产业链是否正在形成从研发、教育、制造到应用的完整循环。"
-        "如果地方高校、产业园和企业开始共同建设专业、实验室或应用示范，说明行业正在为规模化部署补齐人才和场景。"
-        "后续应重点观察量产能力、真实客户、渠道价格、政策支持和与汽车、制造、物流、商业服务等行业的结合速度。"
+        f"总结：这条新闻的具体事件是「{event}」。"
+        + "；".join(points[:3])
+        + "。判断价值不在于标题热度，而在于它是否改变硬件成本、运动控制、视觉感知、具身智能模型、客户场景或供应链协作。"
     )
 
 def japanese_summary(item):
@@ -329,11 +413,110 @@ def japanese_summary(item):
         "海外勢との違いを出すには、精密部品、現場改善、保守網、顧客との共同開発を組み合わせた日本型の実装力が問われる。"
     )
 
+def us_robotics_chinese_summary(item):
+    headline = item["headline"]
+    lower = headline.lower()
+    entities = "、".join(extract_entities(headline))
+    if entities == "the companies and institutions named in the headline":
+        entities = "标题中的相关企业或机构"
+    event = short_event(headline)
+    points = []
+    if any(k in lower for k in ["funding", "raises", "investment", "valuation", "ipo"]):
+        points.append("资本事件说明美国机器人公司仍在为量产、人才和长期客户验证筹集资源")
+    if any(k in lower for k in ["factory", "manufacturing", "warehouse", "logistics", "amazon"]):
+        points.append("制造、仓储或物流场景意味着机器人正在接近可计算 ROI 的企业级部署")
+    if any(k in lower for k in ["humanoid", "boston dynamics", "figure", "tesla", "optimus", "agility", "apptronik"]):
+        points.append("人形机器人相关内容要重点看全身控制、续航、安全和真实任务完成率")
+    if any(k in lower for k in ["nvidia", "ai", "model", "simulation", "vision"]):
+        points.append("AI 模型、仿真和视觉能力会影响机器人从固定流程走向更复杂环境的速度")
+    if not points:
+        points.append("这条消息反映美国机器人产业在产品、客户、供应链或应用场景上的推进")
+    return (
+        f"总结：{entities} 是这条美国市场新闻的主要观察对象，具体事件是「{event}」。"
+        + "；".join(points[:3])
+        + "。后续要看它是否带来明确客户、试点扩大、量产节奏、成本下降或供应链协同，而不是只停留在概念展示。"
+    )
+
+def japan_robotics_chinese_summary(item):
+    headline = item["headline"]
+    entities = "、".join(extract_entities(headline))
+    if entities == "the companies and institutions named in the headline":
+        entities = "日本相关企业、自治体或研究机构"
+    event = short_event(headline)
+    points = []
+    if any(k in headline for k in ["農業", "収穫", "獣害", "AGRIST"]):
+        points.append("农业和现场作业场景直接对应日本人手不足，重点是能否降低持续运营成本")
+    if any(k in headline for k in ["ソニー", "aibo", "アイボ"]):
+        points.append("家庭或陪伴机器人消息要看服务周期、维护成本和生成 AI 时代的产品更新")
+    if any(k in headline for k in ["ファナック", "安川", "工場", "製造"]):
+        points.append("工业自动化消息更接近日本传统优势，重点是 AI 是否提升柔性生产能力")
+    if any(k in headline for k in ["ヒューマノイド", "人型", "Omakase", "ロボット"]):
+        points.append("人形或服务机器人线索要看安全合规、现场流程接入和日本本土客户验证")
+    if not points:
+        points.append("这条新闻体现日本机器人产业从研发展示走向现场验证、销售或基础设施建设")
+    return (
+        f"总结：{entities} 是这条日本市场新闻的主要观察对象，具体事件是「{event}」。"
+        + "；".join(points[:3])
+        + "。后续应关注试点是否转成商用合同、保守维护体系是否成立，以及日本企业能否把精密制造、现场改善和 AI 软件结合起来。"
+    )
+
+def humanoid_event_points(headline):
+    lower = headline.lower()
+    en, zh = [], []
+    if any(k in lower for k in ["omakase", "d1", "japan", "日本", "ヒューマノイド"]):
+        en.append("Japan is relevant because humanoid deployment there is tied to labor shortages, service work, safety rules, and local operating software")
+        zh.append("日本线索的重点在于人手不足、服务业现场、安全合规和本土机器人操作系统能否结合起来")
+    if any(k in lower for k in ["hospital", "airport", "warehouse", "factory", "logistics", "retail", "hotel", "hospitality"]):
+        en.append("the headline points to field deployment rather than a lab demo, so reliability and workflow integration are the main tests")
+        zh.append("标题指向真实场景部署，而不是单纯实验室演示，因此可靠性、流程接入和现场维护是关键")
+    if any(k in lower for k in ["tesla", "optimus"]):
+        en.append("Tesla Optimus news matters because manufacturing scale and internal factory use could change cost expectations")
+        zh.append("Tesla Optimus 的意义在于制造规模和内部工厂应用可能改变人形机器人成本预期")
+    if any(k in lower for k in ["figure", "apptronik", "agility", "boston dynamics", "atlas"]):
+        en.append("US developers are competing on whole-body control, enterprise pilots, and credible commercialization timelines")
+        zh.append("美国开发商竞争重点在全身控制、企业试点和可验证的商业化时间表")
+    if any(k in lower for k in ["unitree", "ubtech", "agibot", "fourier", "china", "中国", "宇树", "优必选", "智元"]):
+        en.append("China-linked humanoid news is important for price pressure, fast iteration, and component supply-chain depth")
+        zh.append("中国相关人形机器人新闻主要影响价格压力、迭代速度和零部件供应链深度")
+    if any(k in lower for k in ["funding", "raises", "investment", "valuation", "ipo"]):
+        en.append("capital-market activity shows investors are still underwriting a long deployment cycle")
+        zh.append("融资或估值新闻说明资本仍在为人形机器人的长期部署周期买单")
+    if any(k in lower for k in ["release", "launch", "unveil", "announces", "sales", "preorder", "販売"]):
+        en.append("a launch or sales signal should be judged by order quality, support capacity, and repeatable use cases")
+        zh.append("发布或销售消息需要看订单质量、交付支持能力和可重复使用场景")
+    if not en:
+        en.append("the item should be read as a signal of where humanoid robotics is moving from demos toward useful work")
+        zh.append("这条消息应被视为人形机器人从演示走向有用劳动的产业信号")
+    return en[:4], zh[:4]
+
+def humanoid_summary_lines(item, first=False):
+    headline = item["headline"]
+    entities = ", ".join(extract_entities(headline))
+    if entities == "the companies and institutions named in the headline":
+        entities = "the companies named in the headline"
+    en_points, zh_points = humanoid_event_points(headline)
+    prefix = "Priority Japan/Omakase item" if first else "Humanoid robotics item"
+    en = (
+        f"Summary: {prefix}: {entities}. "
+        + " ".join(point[0].upper() + point[1:] + "." for point in en_points)
+        + " Watch whether the news leads to paid pilots, repeat deployments, hardware availability, safety approvals, or stronger software integration across perception, planning, speech, and remote operation."
+    )
+    zh = (
+        "总结："
+        + ("第一条保留给日本人形机器人产业与 OmakaseRobotics 相关动向。" if first else "")
+        + f"{headline} 的核心不是标题热度，而是它对应的人形机器人商业化阶段。"
+        + "；".join(zh_points)
+        + "。后续要看是否出现付费试点、连续部署、硬件供货、现场安全认证，以及感知、规划、语音交互和远程运维软件是否真正进入客户流程。"
+    )
+    return [f"  English: {en}", f"  中文：{zh}"]
+
 def fallback_summary_lines(region, item):
+    if region["label"] == "Humanoid Robotics":
+        return humanoid_summary_lines(item)
     if region["emoji"] == "🇺🇸":
         return [
             f"  English: {english_summary(item)}",
-            f"  中文：总结：这条新闻围绕 {item['headline']}，重点在于美国机器人产业正从演示阶段走向资本投入、产能建设和企业级部署。后续要看相关公司能否把 AI、硬件制造、供应链和真实客户场景结合起来。",
+            f"  中文：{us_robotics_chinese_summary(item)}",
         ]
     if region["emoji"] == "🇨🇳":
         return [
@@ -343,7 +526,7 @@ def fallback_summary_lines(region, item):
     if region["emoji"] == "🇯🇵":
         return [
             f"  日本語：{japanese_summary(item)}",
-            f"  中文：总结：这条日本市场新闻围绕 {item['headline']}，重点不是单个标题本身，而是日本 AI/机器人产业在农业、家庭机器人、工业自动化、AI 基础设施或现场实证中的落地进展。后续要看这些项目能否从试验走向持续商业化。",
+            f"  中文：{japan_robotics_chinese_summary(item)}",
         ]
     return [f"  English: {english_summary(item)}"]
 
@@ -360,7 +543,7 @@ def generate_digest_from_rss():
     for region in REGIONS:
         print(f"   RSS fallback: {region['emoji']} {region['label']}")
         try:
-            items = fetch_rss_items(region)
+            items = fetch_humanoid_items(region, region.get("min_items", 5)) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region)
         except Exception as e:
             print(f"   RSS error for {region['label']}: {e}")
             items = []
@@ -370,9 +553,12 @@ def generate_digest_from_rss():
             parts.append(f"- **[{DATE_STR}] No RSS result — 暂无可验证 RSS 新闻**\n  English: Google News RSS returned no recent result for this region.\n  中文：本地区暂未抓取到可验证的 Google News RSS 结果。\n  📰 Google News")
             continue
 
-        for item in items:
+        for idx, item in enumerate(items):
             total += 1
-            summary_lines = "\n".join(fallback_summary_lines(region, item))
+            if region["label"] == "Humanoid Robotics":
+                summary_lines = "\n".join(humanoid_summary_lines(item, first=(idx == 0)))
+            else:
+                summary_lines = "\n".join(fallback_summary_lines(region, item))
             parts.append(
                 f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
                 f"{summary_lines}\n"
@@ -402,7 +588,7 @@ def md_to_html(md):
                 regions.append((cur, items))
             h = s[3:].strip()
             f = ""
-            for e in ["🇺🇸","🇨🇳","🇯🇵"]:
+            for e in ["🇺🇸","🇨🇳","🇯🇵","🤖"]:
                 if e in h:
                     f = e
                     break
