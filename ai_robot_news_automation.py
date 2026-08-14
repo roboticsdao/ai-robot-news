@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import html
-import os, subprocess, re, sys, time, json, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import os, subprocess, re, sys, time, json, unicodedata, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -464,7 +464,50 @@ def validate_digest_quality(text):
         return False
     return True
 
-def fetch_rss_items(region, limit=5):
+def canonical_headline(headline):
+    clean = unicodedata.normalize("NFKC", headline or "").lower()
+    clean = re.sub(r"\s*[（(][^()（）]{2,40}[）)]\s*$", "", clean)
+    clean = re.sub(r"[^\w\u3040-\u30ff\u3400-\u9fff]+", "", clean)
+    return clean
+
+def headline_tokens(headline):
+    stop = {"the", "and", "for", "with", "from", "into", "that", "this", "its", "due", "new", "by", "at", "to", "in", "of", "on", "a", "an"}
+    tokens = []
+    for token in re.findall(r"[a-z0-9]+", unicodedata.normalize("NFKC", headline or "").lower()):
+        if token in stop or len(token) < 3:
+            continue
+        if token.startswith("invest"):
+            token = "invest"
+        elif token.endswith("s") and len(token) > 4:
+            token = token[:-1]
+        tokens.append(token)
+    return set(tokens)
+
+def duplicate_story(headline, other_headlines):
+    canonical = canonical_headline(headline)
+    if not canonical:
+        return False
+    entities = {name.lower() for name in extract_entities(headline) if not name.startswith("the companies")}
+    tokens = headline_tokens(headline)
+    humanoid = any(term in headline.lower() for term in ["humanoid", "ヒューマノイド", "人形机器人", "人型机器人"])
+    for other in other_headlines:
+        other_canonical = canonical_headline(other)
+        if canonical == other_canonical:
+            return True
+        if min(len(canonical), len(other_canonical)) >= 24 and SequenceMatcher(None, canonical, other_canonical).ratio() >= 0.78:
+            return True
+        other_tokens = headline_tokens(other)
+        shared_tokens = tokens & other_tokens
+        token_union = tokens | other_tokens
+        if len(shared_tokens) >= 4 and token_union and len(shared_tokens) / len(token_union) >= 0.35:
+            return True
+        other_entities = {name.lower() for name in extract_entities(other) if not name.startswith("the companies")}
+        other_humanoid = any(term in other.lower() for term in ["humanoid", "ヒューマノイド", "人形机器人", "人型机器人"])
+        if humanoid and other_humanoid and len(entities & other_entities) >= 2:
+            return True
+    return False
+
+def fetch_rss_items(region, limit=5, exclude_headlines=None):
     items = []
     seen = set()
     exclude_terms = region.get("exclude_terms", [])
@@ -517,8 +560,11 @@ def fetch_rss_items(region, limit=5):
             if query_added >= query_cap:
                 break
     ordered = sorted(items, key=lambda item: item.get("dt", TODAY), reverse=True)
+    excluded = list(exclude_headlines or [])
     selected, bucket_counts, topic_counts, source_counts, event_signatures = [], {}, {}, {}, set()
     for item in ordered:
+        if duplicate_story(item["headline"], excluded + [selected_item["headline"] for selected_item in selected]):
+            continue
         bucket, topic = robotics_story_bucket(item["headline"])
         event_signature = robotics_event_signature(item["headline"])
         topic_limit = 1 if region["label"] == "Humanoid Robotics" and topic == "market" else 2
@@ -535,7 +581,7 @@ def fetch_rss_items(region, limit=5):
             return selected
     for item in ordered:
         event_signature = robotics_event_signature(item["headline"])
-        if item not in selected and (not event_signature or event_signature not in event_signatures):
+        if item not in selected and not duplicate_story(item["headline"], excluded + [selected_item["headline"] for selected_item in selected]) and (not event_signature or event_signature not in event_signatures):
             selected.append(item)
             if event_signature:
                 event_signatures.add(event_signature)
@@ -543,7 +589,7 @@ def fetch_rss_items(region, limit=5):
             break
     return selected
 
-def fetch_humanoid_items(region, limit=5):
+def fetch_humanoid_items(region, limit=5, exclude_headlines=None):
     omakase_region = {
         **region,
         "queries": [
@@ -563,13 +609,15 @@ def fetch_humanoid_items(region, limit=5):
             '"日本" "ヒューマノイド" "ロボット"',
         ],
     }
-    priority = fetch_rss_items(omakase_region, limit=1) or fetch_rss_items(japan_region, limit=1)
-    global_items = fetch_rss_items(region, limit=limit + 4)
+    excluded = list(exclude_headlines or [])
+    priority = fetch_rss_items(omakase_region, limit=1, exclude_headlines=excluded) or fetch_rss_items(japan_region, limit=1, exclude_headlines=excluded)
+    priority_headlines = [item["headline"] for item in priority]
+    global_items = fetch_rss_items(region, limit=limit + 8, exclude_headlines=excluded + priority_headlines)
     out = []
     seen = set()
     for item in priority + global_items:
-        key = re.sub(r"\W+", "", item["headline"].lower())[:90]
-        if key in seen:
+        key = canonical_headline(item["headline"])
+        if key in seen or duplicate_story(item["headline"], [existing["headline"] for existing in out]):
             continue
         seen.add(key)
         out.append(item)
@@ -579,7 +627,7 @@ def fetch_humanoid_items(region, limit=5):
 
 def extract_entities(headline):
     names = [
-        "Boston Dynamics", "Hyundai", "Tesla", "Figure", "NVIDIA", "Amazon", "Microsoft", "Google",
+        "Boston Dynamics", "Hyundai", "Tesla", "Figure", "NVIDIA", "LG", "Amazon", "Microsoft", "Google",
         "Unitree", "宇树", "优必选", "UBTech", "小鹏", "华为", "阿里巴巴", "腾讯", "百度",
         "AGRIST", "Sony", "ソニー", "aibo", "ファナック", "安川電機", "Telexistence", "SoftBank", "GMO", "Toyota", "Honda",
     ]
@@ -719,10 +767,11 @@ def generate_digest_from_rss():
     ]
 
     total = 0
+    global_headlines = []
     for region in REGIONS:
         print(f"   RSS fallback: {region['emoji']} {region['label']}")
         try:
-            items = fetch_humanoid_items(region, region.get("min_items", 5)) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region)
+            items = fetch_humanoid_items(region, region.get("min_items", 5), exclude_headlines=global_headlines) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region, exclude_headlines=global_headlines)
         except Exception as e:
             print(f"   RSS error for {region['label']}: {e}")
             items = []
@@ -734,6 +783,7 @@ def generate_digest_from_rss():
 
         for idx, item in enumerate(items):
             total += 1
+            global_headlines.append(item["headline"])
             if region["label"] == "Humanoid Robotics":
                 summary_lines = "\n".join(humanoid_summary_lines(item, first=(idx == 0)))
             else:
