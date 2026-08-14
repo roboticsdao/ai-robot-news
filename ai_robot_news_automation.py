@@ -5,6 +5,8 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from article_summaries import enrich_articles, summarize_articles, summary_quality_issues
+
 LOCAL_TZ = timezone(timedelta(hours=9))
 TODAY = datetime.now(LOCAL_TZ)
 DATE_STR = TODAY.strftime("%Y.%m.%d")
@@ -186,42 +188,6 @@ body{font-family:var(--sans);margin:0 auto;padding:28px 0;background:var(--bg);c
 HISTORY_JS = '<script>(function(){var B=window.location.href.replace(/\\/[^/]*$/,""),btn=document.getElementById("historyBtn"),panel=document.getElementById("historyPanel"),list=document.getElementById("historyList"),H=[],hid=JSON.parse(localStorage.getItem("hidden_dates")||"[]");btn.onclick=function(e){e.stopPropagation();panel.classList.toggle("open");if(panel.classList.contains("open"))load()};document.onclick=function(){panel.classList.remove("open")};panel.onclick=function(e){e.stopPropagation()};function load(){fetch(B+"/history.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){H=d.filter(function(x){return hid.indexOf(x.id)===-1});render()}).catch(function(){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\'})}function render(){if(!H.length){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\';return}var c=window.location.pathname.split("/").pop();list.innerHTML=H.map(function(h){var ic=(c===h.file||(c==="latest.html"&&h===H[0]));return\'<div class="history-item \'+(ic?"history-current":"")+\'" data-file="\'+h.file+\'"><div><span class="date">\'+h.date+\'</span><span class="time">\'+h.time+\'</span></div><div style="display:flex;align-items:center;gap:6px"><span class="items">\'+h.count+\' items</span><button class="del-btn" data-id="\'+h.id+\'">✕</button></div></div>\'}).join("");list.querySelectorAll(".history-item").forEach(function(el){el.onclick=function(){window.location.href=B+"/"+this.dataset.file}});list.querySelectorAll(".del-btn").forEach(function(el){el.onclick=function(e){e.stopPropagation();var id=this.dataset.id;hid.push(id);localStorage.setItem("hidden_dates",JSON.stringify(hid));H=H.filter(function(h){return h.id!==id});render()}})}})();</script>'
 
 def generate_digest():
-    if not GEMINI_API_KEY:
-        print("   GEMINI_API_KEY is missing; using Google News RSS fallback")
-        return generate_digest_from_rss()
-
-    from google import genai
-    from google.genai import types
-    client = genai.Client(api_key=GEMINI_API_KEY)
-    for attempt in range(3):
-        try:
-            print(f"   Attempt {attempt+1}/3...")
-            resp = client.models.generate_content(
-                model="gemini-2.0-flash-lite",
-                contents=PROMPT,
-                config=types.GenerateContentConfig(
-                    tools=[types.Tool(google_search=types.GoogleSearch())],
-                    temperature=0.3,
-                ),
-            )
-            text = resp.text or ""
-            if has_required_content(text) and validate_digest_quality(text):
-                print(f"   Got {text.count('- **')} items")
-                return text
-            print(f"   Only {text.count('- **')} items, retrying...")
-        except Exception as e:
-            err = str(e)
-            if "429" in err:
-                wait = 65
-                m = re.search(r'retry in (\d+)', err.lower())
-                if m:
-                    wait = int(m.group(1)) + 5
-                print(f"   Rate limited, waiting {wait}s...")
-                time.sleep(wait)
-                continue
-            print(f"   Error: {err[:100]}")
-        time.sleep(5)
-    print("   Gemini did not return enough grounded items; using Google News RSS fallback")
     return generate_digest_from_rss()
 
 def strip_html(value):
@@ -761,40 +727,62 @@ def generate_digest_from_rss():
     parts = [
         f"# 🤖 AI Robot News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）",
         "",
-        "> ⚠️ 本日报使用 Google News RSS 自动收录近3天 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。",
+        "> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。",
         "",
         "---",
     ]
 
-    total = 0
+    grouped_items = []
     global_headlines = []
     for region in REGIONS:
-        print(f"   RSS fallback: {region['emoji']} {region['label']}")
+        print(f"   RSS/body fetch: {region['emoji']} {region['label']}")
+        target = region.get("min_items", 5)
+        candidate_limit = target + 4
         try:
-            items = fetch_humanoid_items(region, region.get("min_items", 5), exclude_headlines=global_headlines) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region, exclude_headlines=global_headlines)
+            candidates = fetch_humanoid_items(region, candidate_limit, exclude_headlines=global_headlines) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region, candidate_limit, exclude_headlines=global_headlines)
+            for item in candidates:
+                item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
+                item["region_label"] = region["label"]
+            items = enrich_articles(candidates)[:target]
         except Exception as e:
-            print(f"   RSS error for {region['label']}: {e}")
+            print(f"   Article fetch error for {region['label']}: {e}")
             items = []
+        global_headlines.extend(item["headline"] for item in items)
+        grouped_items.append((region, items))
 
+    flat_items = [item for _, items in grouped_items for item in items]
+    summarized = summarize_articles(flat_items, GEMINI_API_KEY)
+    issues = summary_quality_issues(summarized)
+    if issues:
+        raise RuntimeError("; ".join(issues[:5]))
+    summarized_by_region = {}
+    for item in summarized:
+        summarized_by_region.setdefault(item["region_label"], []).append(item)
+
+    total = 0
+    for region, _ in grouped_items:
+        items = summarized_by_region.get(region["label"], [])
         parts.append(f"\n## {region['emoji']} {region['label']}\n")
         if not items:
-            parts.append(f"- **[{DATE_STR}] No RSS result — 暂无可验证 RSS 新闻**\n  English: Google News RSS returned no recent result for this region.\n  中文：本地区暂未抓取到可验证的 Google News RSS 结果。\n  📰 Google News")
+            parts.append(f"- **[{DATE_STR}] No readable source — 暂无可读取全文的新闻**\n  中文：本地区近期文章正文均无法可靠读取，因此未生成推测性摘要。\n  📰 Google News")
             continue
-
-        for idx, item in enumerate(items):
+        for item in items:
             total += 1
-            global_headlines.append(item["headline"])
-            if region["label"] == "Humanoid Robotics":
-                summary_lines = "\n".join(humanoid_summary_lines(item, first=(idx == 0)))
+            if item["summary_language"] == "Japanese":
+                local_line = f"  日本語：{item['local_summary']}\n"
+            elif item["summary_language"] == "Chinese":
+                local_line = ""
             else:
-                summary_lines = "\n".join(fallback_summary_lines(region, item))
+                local_line = f"  English: {item['local_summary']}\n"
+            zh = item.get("zh_summary", "")
+            zh_line = f"  中文：总结：{zh}\n" if zh else ""
             parts.append(
                 f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
-                f"{summary_lines}\n"
+                f"{local_line}{zh_line}"
                 f"  📰 [{item['source']}]({item['link']})"
             )
 
-    parts.append(f"\n---\n※AI Robot News Digest | {DATE_STR} | RSS fallback items: {total}")
+    parts.append(f"\n---\n※AI Robot News Digest | {DATE_STR} | full-text items: {total}")
     return "\n\n".join(parts)
 
 def make_search_link(title):
