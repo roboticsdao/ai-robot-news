@@ -2,7 +2,7 @@
 
 
 
-> ⚠️ 本日报使用 Google News RSS 自动收录近3天 AI 机器人相关新闻；Gemini API 不可用或额度耗尽时会启用此兜底。
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
 
 
 
@@ -12,118 +12,98 @@
 ## 🇺🇸 美国 / United States
 
 
-- **[2026.08.14] unite.ai — LG to Unveil Next-Gen Bipedal Humanoid Robot Built on NVIDIA Isaac GR00T**
-  English: Summary: unite.ai reports "LG to Unveil Next-Gen Bipedal Humanoid R…," an event affecting NVIDIA, LG. In unite.ai's "LG to Unveil Next-Ge…" case, a product announcement becomes commercially meaningful only when specifications, price, delivery date, developer access, and support obligations are concrete. For "LG to Unveil Next-Ge…," watch whether final specifications match the demo, first delivery timing, developer tools, warranty terms, and customer orders.
-  中文：总结：unite.ai报道的具体事件是「LG to Unveil Next-Gen Bipedal Humanoid Robot Built on NVIDIA Isaac GR00T」。就「LG to Unveil Next-Gen Bipedal Humanoid Robot Bui…」而言，产品发布只有在规格、售价、交货时间、开发接口和售后责任明确后才具备商业含义；展示视频本身无法证明量产一致性和长期可靠性。针对「LG to Unveil Next-Gen Bipedal Humanoid Robot Bui…」，后续应核实正式规格与演示是否一致、首批交付时间、开发者工具、质保范围和客户订单。只有这些指标与该事件相互印证，才能判断「LG to Unveil Next-Gen Bipedal Humanoid Robot Bui…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [unite.ai](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXN2eDZneFpUclJWamVvNnZ4ZXM1NFdhV3FpOTRZSWlmNS1lUlV5NlF6VlVRV3ZVUTJPM0hIMC1xNWtSQlNhOGJUNy1GLXNhM2pjQThfU01JSzF6V3Y0UEt5V3poa0w3bjhjTElGSVNIWVJQVlc2MTJTNW05S2x2OFFCN2FDUmo5aWxyeWJ1RVAzMWZXTnlLRm9n?oc=5)
-
-- **[2026.08.14] TipRanks — Agility Robotics Emphasizes Safety‑First Design for Humanoid Robot Deployments**
-  English: Summary: TipRanks reports "Agility Robotics Emphasizes Safety‑First…," an event affecting TipRanks. In TipRanks's "Agility Robotics Emp…" case, the material change is the operating boundary: liability, permitted locations, human oversight, and incident reporting can determine whether deployment is legal before hardware performance is considered. For "Agility Robotics Emp…," watch the final rule text, compliance plans, insurance allocation, and the first deployments approved under it.
-  中文：总结：TipRanks报道的具体事件是「Agility Robotics Emphasizes Safety‑First Design for Humanoid Robot Deployments」。就「Agility Robotics Emphasizes Safety‑First Design…」而言，它改变的是机器人的准入和责任边界，监管文本中的适用场所、人工监督、事故上报和责任主体，会先于硬件性能决定产品能否进入真实环境。针对「Agility Robotics Emphasizes Safety‑First Design…」，后续应核实正式规则的适用范围、企业合规方案、保险责任以及首批获准部署案例。只有这些指标与该事件相互印证，才能判断「Agility Robotics Emphasizes Safety‑First Design…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [TipRanks](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1NiNW8xX2M4Y0w2blliYl92YV9DQ2ZFSWxKa05TNmRWdGc2U2JGOUZRcjVRYy12b0VrSERwMDNUTTBxZlNqLUdtMFdRdjE3WldrZnE1UWd3RVlNTzBuVVJnZEp0S0FLQ05uUDZvOGNUajJzcFB2YS01c2ZnS01ma1lTOWNrUE5pelNSVHJjOXp1YWh6UXpmY0NRaFNDZnV4ZjJSTVY5cWxjZ3hzWVp5cHBDUXpKSkdWcEhHVnAySVVlRGM?oc=5)
+- **[2026.08.14] The Manila Times — LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T**
+  English: LG and NVIDIA Collaboration Moves Beyond Strategic Blueprints into Execution SEOUL, South Korea, Aug. 14, 2026 /PRNewswire/ -- LG today announced they're developing a next-generation bipedal humanoid robot built using NVIDIA Isaac GR00T, NVIDIA's open reasoning humanoid foundation model, for a public unveiling in the first quarter of next year.
+  📰 [The Manila Times](https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/2405475)
 
 - **[2026.08.13] International Business Times — Asteria invests $1 million in Figure AI, BMW robot supplier**
-  English: Summary: International Business Times reports "Asteria invests $1 million in Figure AI,…," an event affecting Figure. In International Business Times's "Asteria invests $1 m…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "Asteria invests $1 m…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  中文：总结：International Business Times报道的具体事件是「Asteria invests $1 million in Figure AI, BMW robot supplier」。就「Asteria invests $1 million in Figure AI, BMW rob…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「Asteria invests $1 million in Figure AI, BMW rob…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「Asteria invests $1 million in Figure AI, BMW rob…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [International Business Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1BfZUtSWWw1WEg5aklYS1drRkVEY2F6UzljTW9hTE5rSm1aLU15R0o5QTlNUDNvUGZGWGwxU0RFQjFlTU1fWG5DNlQtWENYM25QbS1ETDVCNk9ORmVPWWRtaGhBYXVoMElSZGw3bHJzNTRDUXBWV3pGdFRCR1o1N25aY2N5WjAwc0RZZg?oc=5)
+  English: KEY POINTS - Asteria invests $1 million in Figure AI as the first deal from a U.S.-based AI and robotics fund - Figure AI develops Helix-powered humanoid robots and has deployed Figure 02 at BMW's Spartanburg plant - Asteria's June fund targets unlisted AI, physical AI and robotics companies for partnerships and synergies Japanese software company Asteria said on August 13 it had decided to invest $1 million in U.S.
+  📰 [International Business Times](https://jp.ibtimes.com/asteria-invests-1-million-figure-ai-bmw-robot-supplier-103664)
 
 - **[2026.08.13] The Motley Fool — Jensen Huang Just Signed 7 Japanese Industrial Giants Into Nvidia's Physical AI Coalition. Here's Why $1 Trillion in Confirmed Demand Should Matter to Investors.**
-  English: Summary: The Motley Fool reports "Jensen Huang Just Signed 7 Japanese Indu…," an event affecting NVIDIA. In The Motley Fool's "Jensen Huang Just Si…" case, the capital event changes runway and competitive pressure; its value depends on how much is allocated to engineering, factories, inventory, field support, and customer acquisition rather than valuation alone. For "Jensen Huang Just Si…," watch use of proceeds, cash burn, the next technical milestone, and verifiable customers added after financing.
-  中文：总结：The Motley Fool报道的具体事件是「Jensen Huang Just Signed 7 Japanese Industrial Giants Into Nvidia's Physical AI Coalition....」。就「Jensen Huang Just Signed 7 Japanese Industrial G…」而言，资本事件首先改变企业的现金跑道和竞争压力，真正相关的是资金会投入研发、工厂、库存、现场支持还是获客，而不是只看融资额或估值数字。针对「Jensen Huang Just Signed 7 Japanese Industrial G…」，后续应核实资金用途、现金消耗速度、下一阶段里程碑以及融资后新增的可验证客户。只有这些指标与该事件相互印证，才能判断「Jensen Huang Just Signed 7 Japanese Industrial G…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2dOaUwweHNITkE1THU2UW1SNU9TczkwMTlIY19EbngxWk82SjM2NGY2Mjhyc0c0T0d0b3RXTnNva1RSbDJid0NSZldNWXpmTVpVUWI0UkdrcGVINms2Tmk4SUYzWTFmS0p4V084ZXc3SzRVQWo0d1R3T2IzT0JWZGE2a0xRNUlkaFBDY3lwdmQta1BBSURWaQ?oc=5)
+  English: When Jensen Huang flew to Tokyo last month and signed seven Japanese industrial giants into Nvidia's (NVDA +0.54%) new physical AI coalition, he was locking in a massive, long-lived stream of demand for Nvidia's chips and software, and that is something I think investors should really pay attention to. "Physical AI" refers to AI that controls robots, factory lines, and machines in the real world instead of just chatbots on a screen.
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/13/jensen-huang-just-signed-7-japanese-industrial-gia/)
 
 - **[2026.08.13] Evertiq — Tokyo Electron, Nvidia expand collaboration for agentic AI, robotics**
-  English: Summary: Evertiq reports "Tokyo Electron, Nvidia expand collaborat…," an event affecting NVIDIA. In Evertiq's "Tokyo Electron, Nvid…" case, the technical claim matters through measurable improvement in data efficiency, perception, planning, control latency, or transfer from simulation to physical machines. For "Tokyo Electron, Nvid…," watch published benchmarks, comparisons with prior systems, tests on physical robots, reproducibility, and compute cost.
-  中文：总结：Evertiq报道的具体事件是「Tokyo Electron, Nvidia expand collaboration for agentic AI, robotics」。就「Tokyo Electron, Nvidia expand collaboration for…」而言，技术进展应落到可测量指标上，例如数据效率、感知准确率、规划成功率、控制延迟，以及仿真能力能否迁移到实体机器，而不是只用“更智能”概括。针对「Tokyo Electron, Nvidia expand collaboration for…」，后续应核实公开基准、与现有方案的对照、真实机器人测试、复现实验和计算成本。只有这些指标与该事件相互印证，才能判断「Tokyo Electron, Nvidia expand collaboration for…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [Evertiq](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDdKOTR0c2V3Rjl2RFF2Vmg1Y1NpTTJFT3Vhb09NaEt5LWo3RE4xb3FlYmRqMjNwdEdhcm40Qk9FWHptMDZEOENYbWg3RlVGT0J6dmxEV2VFdFJ0M1lFLWFoWUxzNkxfb1VkYVVrc1BfYzVOS1J6OHNmcFloOUdDc2VWMzhrUEVVQnRxZjI5dEdXYVhVUkYyM0tEMk9oNEhZNGVxd2NkZw?oc=5)
+  English: Tokyo Electron, Nvidia expand collaboration for agentic AI, robotics Tokyo Electron (TEL) is collaborating with Nvidia, utilizing Nvidia Agent Toolkit including Nvidia NeMo, Nvidia NIM, Nvidia NemoClaw blueprints and the open robot development platform Nvidia Isaac within TEL’s “Epsira” concept for digital transformation (DX) solutions.
+  📰 [Evertiq](https://evertiq.com/design/2026-08-13-tokyo-electron-nvidia-expand-collaboration-for-agentic-ai-robotics)
+
+- **[2026.08.13] 동아사이언스 — Boston Dynamics humanoid Atlas masters backflips and breakdance with ZEST**
+  English: Researchers have developed a learning framework that enables robots to learn a wide range of movements without separate training for each specific motion, by jointly training on diverse motion data such as motion capture, video, and animation. A humanoid robot using the framework successfully performed complex full-body movements including crawling, breakdancing, and backflips.
+  📰 [동아사이언스](https://www.dongascience.com/en/news/79408)
 
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.08.14] 第一财经 — 沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得更多成就**
-  中文：总结：第一财经报道的具体事件是「沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得更多成就」。就「沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得更多成就」而言，资本事件首先改变企业的现金跑道和竞争压力，真正相关的是资金会投入研发、工厂、库存、现场支持还是获客，而不是只看融资额或估值数字。针对「沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得更多成就」，后续应核实资金用途、现金消耗速度、下一阶段里程碑以及融资后新增的可验证客户。只有这些指标与该事件相互印证，才能判断「沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得更多成就」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  English: Summary: 第一财经 reports "沈萌：当前人形机器人难以真正替人工作 宇树高估值募资将助力其 在技术转化进程取得…," an event affecting 宇树. In 第一财经's "沈萌：当前人形机器人难以真正替人工作 宇…" case, the capital event changes runway and competitive pressure; its value depends on how much is allocated to engineering, factories, inventory, field support, and customer acquisition rather than valuation alone. For "沈萌：当前人形机器人难以真正替人工作 宇…," watch use of proceeds, cash burn, the next technical milestone, and verifiable customers added after financing.
-  📰 [第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iRHExTUJEcnZtbTFycFhNWTY1a1hlRHUycDgxNjhQeDRuUVBPTmJRc2RuamNNa0ZuUUZkZHFiTUtyVl9ER3l3WnBfWkpaa2h2VkhzQQ?oc=5)
+- **[2026.08.14] 中华网 — 恒富证券首席经济学家周聪：宇树科技即将上市，具身智能机器人企业的IPO大潮即将拉开帷幕！**
+  中文：总结：8月10日，宇树科技正式启动科创板申购，A股即将迎来“人形机器人第一股”。当天，“宇树科技打新”一度登上社交平台热搜。恒富证券首席经济学家周聪接受成都广播电视台采访，就宇树上市及具身智能机器人行业进行了市场分析。 周聪：宇树上市是“标杆”，产生价值锚 周聪在采访中指出，宇树上市是一个标志性的事件： “作为国内的头部龙头，他的上市最重要的就是起到一个标杆的作用，产生价值锚。宇树科技可能成为未来其他产业进入资本市场的重要参考。” 宇树科技此次科创板IPO发行价为150.80元/股，对应发行市值约609.93亿元。8月10日网上申购启动后，初步有效申购倍数超8288倍，触发回拨机制。周聪认为，609亿的发行市值，为整个具身智能赛道提供了一个估值参照坐标——后来者可以以此为基础做加法或减法。
+  📰 [中华网](https://tech.china.com/articles/20260814/202608141940388.html)
 
 - **[2026.08.14] 凤凰网科技 — 供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感**
-  中文：总结：凤凰网科技报道的具体事件是「供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感」。就「供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感」而言，制造与交付进展会通过良率、节拍、关键零部件供应、质量控制和备件计划影响量产可信度与单机成本，不能只用产能目标判断。针对「供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感」，后续应核实实际周产量、良率、核心部件瓶颈、延期情况、单位成本和返修率。只有这些指标与该事件相互印证，才能判断「供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  English: Summary: 凤凰网科技 reports "供应链绕不开中国 纽约时报：美国想自己造人形机器人，现实很骨感," an event affecting 凤凰网科技. In 凤凰网科技's "供应链绕不开中国 纽约时报：美国想自己造…" case, manufacturing progress affects delivery credibility and unit economics through yield, takt time, component availability, quality control, and service-parts planning. For "供应链绕不开中国 纽约时报：美国想自己造…," watch actual weekly output, yield, component bottlenecks, delays, unit cost, and return or repair rates.
-  📰 [凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE93Y1FmWWM5VndKTEFZNVNlNUFVZFlGYUlxNFZlbnBKRlcyNkV3eVFNTTlMTTRldk1Ia3NjNy1hLWZ2dy14TFdFUTR3NmU?oc=5)
+  中文：总结：哈格蒂想在美国造人形机器人 凤凰网科技讯 北京时间8月14日，《纽约时报》发文称，在中国人形机器人风靡全球的背景下，美国也想自主制造人形机器人，但是过程并不容易。美国从业者表示，一些费尽心机想把中国零部件排除在供应链之外的美国公司，只会把产品做得更贵。 当泰迪·哈格蒂(Teddy Haggerty)决定在美国制造人形机器人时，他非常清楚自己面临的挑战。 自2022年以来，哈格蒂一直是中国头部人形机器人制造商宇树科技在北美的主要经销商。这一角色让他近距离观察到了一个由中国企业主导的行业：中国企业生产机器人成本更低，规模也是美国制造商迄今无法企及的。 “在中国，这些机器人已经在街上到处走了，”他说，“他们的经验比我们丰富太多了。” 哈格蒂是宇树科技的经销商 但在长岛郊区一个绿树成荫的工业园区仓库里，30岁的哈格蒂正试图完成一项看似异想天开的任务：在美国生产人形机器人。
+  📰 [凤凰网科技](https://tech.ifeng.com/c/8vZoIEkUm8c)
 
-- **[2026.08.14] 中国江苏网 — 作答｜机器人采访“机器人”：一群年轻人造出“童年机甲梦”**
-  中文：总结：中国江苏网报道的具体事件是「作答｜机器人采访“机器人”：一群年轻人造出“童年机甲梦”」。就「作答｜机器人采访 机器人 ：一群年轻人造出 童年机甲梦」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「作答｜机器人采访 机器人 ：一群年轻人造出 童年机甲梦」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「作答｜机器人采访 机器人 ：一群年轻人造出 童年机甲梦」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  English: Summary: 中国江苏网 reports "作答｜机器人采访 机器人 ：一群年轻人造出 童年机甲梦," an event affecting 中国江苏网. In 中国江苏网's "作答｜机器人采访 机器人 ：一群年轻人造…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "作答｜机器人采访 机器人 ：一群年轻人造…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  📰 [中国江苏网](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTdKUm0tNHlCU3lfbi1yWWZTNHktdlRDVVl5Q2ItTDdyNTF4dm1LemJyaXVRNkdXOUgweVhISXhXaVh0bUNqSXRERC11LWwtb1F5b0s1Q3R3YWtXbmR0cG4wcVBkc0ZIUFVVNzFOdGdnR0tPOTVSMzY1OTFvM2JWMTN0RDg2YkkzQzhr?oc=5)
+- **[2026.08.14] 新浪财经 — 最高奖励500万元 贵州加码扶持具身智能数据采集企业**
+  中文：总结：最高奖励500万元 贵州加码扶持具身智能数据采集企业 中经记者 石健 北京报道 随着具身智能入列国家“十五五”规划纲要重点战略布局的六大未来产业之一，行业正进入快速爆发期。从下场跑步的人形机器人到进厂打螺丝的工业机器人，机器人训练对于数据的需求不断加大，推动具身智能数据采集成为产业核心刚需。 《中国经营报》记者注意到，近期贵州大数据局发布《贵州省大数据发展专项资金支持数据产业发展指南（数据采集领域）》（2026年版）（以下简称“《指南》”），进一步加大具身智能数据采集企业的政策支持力度。
+  📰 [新浪财经](https://finance.sina.cn/2026-08-13/detail-ininecsr3458783.d.html?vt=4&cid=76729&node_id=76729)
+
+- **[2026.08.14] chinanews.com.cn — 你好 机器人丨机器人已经可以开餐厅了？看看它们如何“花式营业”**
+  中文：总结：发布时间：2026年08月14日 08:10 来源：中国新闻网 数据显示，2025年北京机器人产业营收超过450亿元，集聚骨干企业400余家，全市智能机器人企业超2万家，人形机器人整机单位近30家，数量位居全国前列。 在北京，机器人已经可以“组队创业”开餐厅。在北京的机器人餐厅，机器人不仅能炒菜，还能调制饮品，2分钟即可做出一杯鸡尾酒或果茶，就餐区更有能唱、跳、RAP(说唱)的互动机器人随时“乱入”，给顾客拉满情绪价值。此外，机器人除了服务酷爱潮流的年轻人，在养老院里也在掌勺炒菜，如今北京的养老院里，也有着完善的机器人“护工队”，照顾老人的衣食起居样样在行。(记者 谢龙飞 董泽宇 实习生 仇晨昕) 责任编辑：【黄钰涵】
+  📰 [chinanews.com.cn](https://www.chinanews.com.cn/cj/shipin/cns/2026/08-14/news1065342.shtml)
 
 - **[2026.08.14] Sohu — “人形机器人第一股”宇树科技网上8734股遭弃购，专家解析弃购原因**
-  中文：总结：Sohu报道的具体事件是「“人形机器人第一股”宇树科技网上8734股遭弃购，专家解析弃购原因」。就「人形机器人第一股 宇树科技网上8734股遭弃购，专家解析弃购原因」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「人形机器人第一股 宇树科技网上8734股遭弃购，专家解析弃购原因」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「人形机器人第一股 宇树科技网上8734股遭弃购，专家解析弃购原因」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  English: Summary: Sohu reports "人形机器人第一股 宇树科技网上8734股遭弃购，专家解析弃购原因," an event affecting 宇树. In Sohu's "人形机器人第一股 宇树科技网上8734股…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "人形机器人第一股 宇树科技网上8734股…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  📰 [Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2xjRkZlMnJEMHBubXlSMklTNDhIdkdPY0R1RjBTQ0psX1hNQUJkWnhEUWoxRXJpYlVBcExJMFpIb2dPTzNTUERKNXQ5MFRhWmhia2paWnBsU1lQYS1TTVM3N0VvdGNEdGRIV0NzSkNMa214VmhZMkFkM1RIQ2k4QzRjbDZyWHNuVWg5dA?oc=5)
-
-- **[2026.08.14] shkjb.com — AI+机器人赋能直播，探索硅基碳基共生新生态**
-  中文：总结：shkjb.com报道的具体事件是「AI+机器人赋能直播，探索硅基碳基共生新生态」。就「AI+机器人赋能直播，探索硅基碳基共生新生态」而言，合作价值取决于各方是否提供明确资源，例如硬件、软件、测试场地、渠道或客户入口，以及部署、数据和售后责任是否已经划分。针对「AI+机器人赋能直播，探索硅基碳基共生新生态」，后续应核实联合项目时间表、双方交付物、数据权属、首个客户场景和合作是否具有排他性。只有这些指标与该事件相互印证，才能判断「AI+机器人赋能直播，探索硅基碳基共生新生态」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  English: Summary: shkjb.com reports "AI+机器人赋能直播，探索硅基碳基共生新生态," an event affecting shkjb.com. In shkjb.com's "AI+机器人赋能直播，探索硅基碳基共生新…" case, the partnership is useful when each party contributes a defined asset such as hardware, software, facilities, distribution, or customer access and when ownership of deployment work is clear. For "AI+机器人赋能直播，探索硅基碳基共生新…," watch the joint timetable, each party's deliverables, data ownership, the first customer use case, and any exclusivity.
-  📰 [shkjb.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtV0dabmp2WmZDd1pTblhmN21BTlh6NUpob1lXYXVRSXlGV0FnUEFsT0JHVnV5LXBOeXRIbC0zdm5WYTJpNjBjejY3a25iYlhSMVA5MnBObw?oc=5)
+  中文：总结：“人形机器人第一股”宇树科技网上8734股遭弃购，专家解析弃购原因 被誉为A股“人形机器人第一股”之称的宇树科技8月13日公告，网上投资者缴款认购的股份数量9,698,266股，网上投资者放弃认购数量8,734股；网下投资者缴款认购的股份数量22,650,148股，网下投资者放弃认购数量0股。 网上、网下投资者放弃认购股数全部由保荐人（主承销商）包销，保荐人（主承销商）包销股份的数量为8,734股，包销金额为1,317,087.20元，包销股份数量占扣除最终战略配售部分后本次发行数量的比例约为0.03%，包销股份数量占本次发行总规模的比例约为0.02%。 知名经济学家盘和林指出，从认购结构不难看出，专业机构对宇树科技基本面认可度非常之高。网下参与申购的均为公募基金、社保基金、券商自营、私募基金等专业投资主体，零弃购的表现，代表机构长期看好公司在四足机器人、人形机器人领域的技术壁垒、产品落地能力以及商业化拓展空间。8734股的弃购，全部来自网上散户投资者，这里面的原因是多方面的，有可能是部分中签股民忘记缴款、资金账户余额不足等客观因素导致。
+  📰 [Sohu](https://m.sohu.com/a/1062609002_121345914?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
 
 
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.08.14] RBB TODAY — 最先端技術の遠隔溶接ロボット「WELDEMOTO」を兵庫の高丸工業が開発、宝角合金製作所が国内第1号機の導入を決定**
+  日本語：産業用ロボットの「企画から納品まで」を遂行する高丸工業株式会社（本社：兵庫県西宮市、代表：高丸 正、以下：高丸工業）は、一般的なPCで「どこでも・誰でも・簡単に」操作できる最先端の溶接ロボットシステム『WELDEMOTO（ウェルデモート）』を2024年に開発いたしました。 これまで期間限定での貸出やテスト導入を行ってまいりましたが、このたび7月3日に、株式会社宝角合金製作所（本社：兵庫県姫路市、以下、宝角合金製作所）に本格導入され、国内で初めて本格的な稼働がスタートいたしました。 遠隔溶接ロボットシステム『WELDEMOTO（ウェルデモート）』、一般的なPCで「どこでも・誰でも・簡単に」操作できる 悲願だった「誰でも・どこでも使える産業用ロボット」 の開発に３代目が成功 産業用ロボットはメーカー毎に操作パネルが異なるなど取り扱いが非常に難しく、国内でロボットを扱える人材は1万人に1人と言われています。
+  📰 [RBB TODAY](https://www.rbbtoday.com/release/prtimes2-today/20260814/1336756.html)
+
 - **[2026.08.13] スマートグリッドフォーラム — フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想**
-  日本語：要約：スマートグリッドフォーラムが報じた具体的な出来事は「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」です。「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」を評価する際、産業シグナルではありますが、具体的な機能、顧客、日程、運用指標が示されなければ、現時点では検証待ちの情報です。「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」について次に確認すべきなのは、定量指標、責任主体、実施時期、第三者検証、顧客評価です。同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」から推測した商談、性能、量産計画を事実として扱いません。
-  中文：总结：スマートグリッドフォーラム报道的具体事件是「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」。就「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [スマートグリッドフォーラム](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KV2JYS2JCT3ZXQU9lVE8ybDZfWFNyTC1oVFRJYmxrUHJHWEw3R3dRRURkMmZySGlJRUNhd05JcktPejlwc01IVXY2MGdSMDZpc1BaRA?oc=5)
-
-- **[2026.08.13] Yahoo!ニュース — 「ロボット大国」日本に試練？58.9兆円「汎用ロボット市場」で勝敗分ける“ある力” (ビジネス＋IT)**
-  日本語：要約：Yahoo!ニュースが報じた具体的な出来事は「「ロボット大国」日本に試練？58.9兆円「汎用ロボット市場」で勝敗分ける“ある力” (ビジネス＋IT)」です。「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋IT)」を評価する際、産業シグナルではありますが、具体的な機能、顧客、日程、運用指標が示されなければ、現時点では検証待ちの情報です。「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋IT)」について次に確認すべきなのは、定量指標、責任主体、実施時期、第三者検証、顧客評価です。同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋IT)」から推測した商談、性能、量産計画を事実として扱いません。
-  中文：总结：Yahoo!ニュース报道的具体事件是「「ロボット大国」日本に試練？58.9兆円「汎用ロボット市場」で勝敗分ける“ある力” (ビジネス＋IT)」。就「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋I…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋I…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「「ロボット大国」日本に試練 58 9兆円「汎用ロボット市場」で勝敗分ける ある力 (ビジネス＋I…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2UwMG94TVpXcktHTnk1X1I4eXNORzB6Q21VajNVMUNHZk45Uk5fMHJwRVkxNWR6RnN3T2NrOGZZczhkczJydUlpRGtPbldZeldTcDkwVWNzaE1iS2phZVJLWVdmeF9vdkhMYk55cUdUVlVDS1JsaGQxN2FEMzgtMjJUZmdQUkZNNmVZcDRn?oc=5)
-
-- **[2026.08.12] AGARA紀伊民報 — 【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～**
-  日本語：要約：AGARA紀伊民報が報じた具体的な出来事は「【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～」です。「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿泊まで一…」を評価する際、現場導入では、連続稼働時間、作業完了率、安全介入、既存業務との接続、省人効果が検証されます。展示だけでは確認できない運用性能が問われます。「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿泊まで一…」について次に確認すべきなのは、実証期間、介入頻度、作業当たりコスト、現場評価、二つ目の拠点への展開です。同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿泊まで一…」から推測した商談、性能、量産計画を事実として扱いません。
-  中文：总结：AGARA紀伊民報报道的具体事件是「【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～」。就「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿…」而言，现场部署验证的是连续运行时间、任务完成率、安全接管次数、客户流程接入和节省工时，这些指标比舞台演示更能说明机器人是否具备使用价值。针对「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿…」，后续应核实试点持续时长、人工接管频率、单任务成本、现场人员评价以及是否扩展到第二个地点。只有这些指标与该事件相互印证，才能判断「【岡山大学】 坂も、砂利も、段差もある だから走る価値がある ～岡山大学が地図・許認可・保管・宿…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [AGARA紀伊民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicE9LUFdnVmYwMWg2cnpwTUJqSnkxdjFEQWN5V0t0YmpnTGtTaXJmekFoRTEzb0RyMTM2RUwyR3UzZEdOeUtEVzFoQXVPU2RtV3YtaTU1b3FQNmNUaE80SQ?oc=5)
-
-- **[2026.08.13] Yahoo!ニュース — エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリューションとロボット技術をつなぐ (日本ネット経済新聞)**
-  日本語：要約：Yahoo!ニュースが報じた具体的な出来事は「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリューションとロボット技術をつなぐ (日本ネット経済新聞)」です。「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリ…」を評価する際、産業シグナルではありますが、具体的な機能、顧客、日程、運用指標が示されなければ、現時点では検証待ちの情報です。「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリ…」について次に確認すべきなのは、定量指標、責任主体、実施時期、第三者検証、顧客評価です。同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリ…」から推測した商談、性能、量産計画を事実として扱いません。
-  中文：总结：Yahoo!ニュース报道的具体事件是「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した物流ソリューションとロボット技術をつなぐ (日本ネット経済新聞)」。就「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「エスポリアとHAI ROBOTICS JAPAN、日本市場で物流自動化を共同展開 ECに特化した…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnZUeU5iMDBvV2ZhTTU2b3V3REVUX2V5TXVBcDQxNXBabDF5RnRBUUxOSzBZcVBfWkx2ZjlycmpzRVJiRGQtZlhzM1pOcWtoLURaOG9KR0ZjZl9FNjJET1IwYV9PSUpaZTJqQTdaV3RZN0RwdW42Tk91X1l2Z09KOFpIemEzbERVQkNaWjFn?oc=5)
+  日本語：フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想 2026年8月13日 (木曜) 17:48 2026年7月16日、富士通株式会社（以下、富士通）は、産業用ロボットで世界に知られるファナック株式会社（以下、ファナック）、株式会社安川電機（以下、安川電機）、川崎重工業株式会社（以下、川崎重工業）の3社、そして半導体大手の米NVIDIAと「フィジカルAI」分野での新たな事業構想を発表した（写真1、写真2、図1参照）。 現場でロボットが自律動作する本技術の開発にあたり、富士通とロボット3社が提携しNVIDIAの技術を活用する。主導権を握る「ソブリン（主権）性」の確保も併せて掲げた。産業界の新たなテーマとして躍り出たフィジカルAI、そして世界的な企業による新構想の意義を読み解く。
+  📰 [スマートグリッドフォーラム](https://sgforum.impress.co.jp/article/5921)
 
 - **[2026.08.12] finance.biggo.jp — IKKA-KY、毅金精密に1.35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う**
-  日本語：要約：finance.biggo.jpが報じた具体的な出来事は「IKKA-KY、毅金精密に1.35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」です。「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」を評価する際、産業シグナルではありますが、具体的な機能、顧客、日程、運用指標が示されなければ、現時点では検証待ちの情報です。「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」について次に確認すべきなのは、定量指標、責任主体、実施時期、第三者検証、顧客評価です。同件では見出しで確認できる事実と産業上の読み取りを分け、追加発表や数値が出るまでは「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」から推測した商談、性能、量産計画を事実として扱いません。
-  中文：总结：finance.biggo.jp报道的具体事件是「IKKA-KY、毅金精密に1.35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」。就「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「IKKA-KY、毅金精密に1 35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [finance.biggo.jp](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbGtmVHdHYWo1b2t4WFE4LVhVT19FVXdUZ01SbmxFbHAwek9vMzBBdGZyZVM4RDR0a2VxbGw5TEZKbXFGTWRYVlZLSDU5dmt1ZDJsaXZaVkgxcjl0OHZXNUtpZ1BYMXZzZ0FuZWx0UHN2cWNO?oc=5)
+  日本語：IKKA-KY、毅金精密に1.35億台湾ドル出資 日本の人型ロボット国家プロジェクト参入狙う 能率集団傘下の自動車部品大手、IKKA-KY（2250.TW）は12日、重要な戦略的布石を発表した。取締役会において、関係会社である毅金精密の株式20.85%を1株当たり34.17台湾ドルで取得することを決議。取引総額は1.35億台湾ドル（約7億円）を超えない範囲となる。この動きはグループ内の経営資源統合にとどまらず、日本政府が最近立ち上げた人型ロボットの国家製造チームによる商機を見据え、IKKA-KYが重要部品のサプライチェーンを先行的に確保する狙いがあると市場では受け止められている。 IKKA-KYは同日、2026年上半期の決算も発表した。連結売上高は15.73億台湾ドル（約80億円）、税引後純利益は3063.3万台湾ドル（約2億円）、1株当たり利益（EPS）は0.84台湾ドルとなった。取締役会はまた、1株当たり3台湾ドルの現金配当を決議。12日の終値60.3台湾ドルを基準に計算すると、現金配当利回りは約4.98%となる。同社は下半期の業績を楽観視しており、四半期ごとの増益と、かつての高収益体質への回帰を見込んでいる。
+  📰 [finance.biggo.jp](https://finance.biggo.jp/news/5c6098a8-c98d-4dc3-924f-7cae26de4a49)
+
+- **[2026.08.12] iotnews.jp — 安川電機、Google DeepMindの「Gemini」をロボットに搭載する「エージェンティック・ロボットシステム」を開発**
+  日本語：株式会社安川電機は2026年7月15日、同社のAIロボット「MOTOMAN NEXT」と、Google DeepMindが開発した生成AI「Gemini Robotics ER 1.6」を連携させた「エージェンティック・ロボットシステム」を発表した。 一般に、生成AIを物理ロボットの頭脳として機能させる試みは広がりを見せているが、AIがいかに高度な判断を下しても、それを現実世界の物理的な動作として正確に遂行できなければ、真の自律化（エージェンティックな動作）には至らない。 この課題に対し、安川電機の「MOTOMAN NEXT」は、自律的な作業に不可欠な「マシンビジョンサービス（見る）」、「パスプランニングサービス（動作を自律計画する）」、「力覚サービス（触れて感じる）」といった高度な制御機能を、ロボット本体に標準搭載している点に強みがある。
+  📰 [iotnews.jp](https://iotnews.jp/robotics/275213/)
+
+- **[2026.08.12] AGARA紀伊民報 — 【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～**
+  日本語：【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～ 国立大学法人岡山大学 2026（令和8）年 8月 12日 国立大学法人岡山大学 https://www.okayama-u.ac.jp/ ＜発表のポイント＞ - 岡山県吉備中央町を自動配送ロボット・小型モビリティの走行実証フィールドとして整備し、参加企業・研究機関の募集を開始しました。実施期間は2026年9月1日～11月20日です。 - ロボット走行用の点群地図、GNSS自己位置マップと機器貸出を提供するほか、走行許可の警察手続きは岡山大学が代行します。ロボット保管拠点・屋外作業場・宿泊補助も用意しています。 ◆概 要 国立大学法人岡山大学（本部：岡山市北区、学長：那須保友）学術研究院医歯薬学域（医）医療情報化診療支援技術開発講座（整形外科）の長谷井嬢教授（特任）は、同学術研究院環境生命自然科学学域と連携し、岡山県吉備中央町を自動配送ロボット・小型モビリティの走行実証フィールドとして整備し、参加企業・研究機関の募集を開始しました。
+  📰 [AGARA紀伊民報](https://www.agara.co.jp/article/672245?rct=pr_times)
 
 
 ## 🤖 Humanoid Robotics
 
 
-- **[2026.08.13] レスポンス（Response.jp） — ロボットは「触覚」で進化する！ ヒューマノイド・フィジカルAI時代の最前線［オンラインセミナー］ 1枚目の写真・画像**
-  English: Summary: レスポンス（Response.jp） reports "ロボットは「触覚」で進化する ヒューマノイド・フィジカルAI時代の最前線［オンラ…," an event affecting レスポンス（Response.jp）. In レスポンス（Response.jp）'s "ロボットは「触覚」で進化する ヒューマノ…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "ロボットは「触覚」で進化する ヒューマノ…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback. This lead item is classified as the Japan/Omakase watch because the headline itself contains a Japan-linked humanoid signal.
-  中文：总结：レスポンス（Response.jp）报道的具体事件是「ロボットは「触覚」で進化する！ ヒューマノイド・フィジカルAI時代の最前線［オンラインセミナー］ 1枚目の写真・画像」。就「ロボットは「触覚」で進化する ヒューマノイド・フィジカルAI時代の最前線［オンラインセミナー］…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「ロボットは「触覚」で進化する ヒューマノイド・フィジカルAI時代の最前線［オンラインセミナー］…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「ロボットは「触覚」で進化する ヒューマノイド・フィジカルAI時代の最前線［オンラインセミナー］…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。 本条进入日本/Omakase优先位的依据来自标题中的日本人形机器人线索；针对该事件只追踪后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈，不套用其他公司的量产或试点判断。
-  📰 [レスポンス（Response.jp）](https://news.google.com/rss/articles/CBMibEFVX3lxTE43cG8yYWQ1TVIxNFJyQmxSX2twS3c3ZkNVUGstaDRHUWJ6NkxpRDJZblR2V0QyX2c0NmR0MWZpMGU0d3ItNHgwSWJaYTFVY2VOQ05TdmM3cHJQOUVpMVQtV0ZUZEFmX1V6cWJfeg?oc=5)
-
-- **[2026.08.14] China Daily Global Edition — World Humanoid Robot Games draws 2,056 entries to Beijing**
-  English: Summary: China Daily Global Edition reports "World Humanoid Robot Games draws 2,056 e…," an event affecting China Daily Global Edition. In China Daily Global Edition's "World Humanoid Robot…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "World Humanoid Robot…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  中文：总结：China Daily Global Edition报道的具体事件是「World Humanoid Robot Games draws 2,056 entries to Beijing」。就「World Humanoid Robot Games draws 2,056 entries t…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「World Humanoid Robot Games draws 2,056 entries t…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「World Humanoid Robot Games draws 2,056 entries t…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [China Daily Global Edition](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2VkRkE5blJWLURQSE15YjhNQ1RmeTNyWlI0RFVJNmJRVFZRVXlFTkZfaEtoWEdTTHN3ZHl3RzBKSjFxazJGNDV6dEp5WWVYbnFhOU9ybGRhX3pxekF4UVNrRXUyZkNPOGZJNmRJSUR0VGR0R2pnNXJiZTl2RjQ3cQ?oc=5)
-
-- **[2026.08.13] TradingView — Shaires Holdings Announces Investment In Anthropic, Stripe And Figure AI**
-  English: Summary: TradingView reports "Shaires Holdings Announces Investment In…," an event affecting Figure. In TradingView's "Shaires Holdings Ann…" case, the capital event changes runway and competitive pressure; its value depends on how much is allocated to engineering, factories, inventory, field support, and customer acquisition rather than valuation alone. For "Shaires Holdings Ann…," watch use of proceeds, cash burn, the next technical milestone, and verifiable customers added after financing.
-  中文：总结：TradingView报道的具体事件是「Shaires Holdings Announces Investment In Anthropic, Stripe And Figure AI」。就「Shaires Holdings Announces Investment In Anthrop…」而言，资本事件首先改变企业的现金跑道和竞争压力，真正相关的是资金会投入研发、工厂、库存、现场支持还是获客，而不是只看融资额或估值数字。针对「Shaires Holdings Announces Investment In Anthrop…」，后续应核实资金用途、现金消耗速度、下一阶段里程碑以及融资后新增的可验证客户。只有这些指标与该事件相互印证，才能判断「Shaires Holdings Announces Investment In Anthrop…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [TradingView](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHFwbWM2MHA0bElndTdmWF9wa1FNSHFUdjdzS0lvc1M3b3lXLUhNaERMWWhCWWxURWRLakd2YU9TX2ZmVzNxcVBnVS1Ual8tVGRvbU56S3lYVktXZXFpR2V3bWY1b2sydFBVSEd2b3BHbGpkWXVMaWNwRE42MFBWSTNMOHNjREVJbU1lYUVCUGJwLURxZjVJUkZnT1hjdERZdnFBU0hOZUJwenBEbC1CTlJDbFd3OWRhdFAta0xRMWtUWUhBMDhKTjVsRVp2NGp1TWh1RlN3TQ?oc=5)
-
 - **[2026.08.13] 36Kr — Is Agibot Overtaking Unitree? Credibility, Performance & Real-World Comparison**
-  English: Summary: 36Kr reports "Is Agibot Overtaking Unitree Credibility…," an event affecting Unitree. In 36Kr's "Is Agibot Overtaking…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "Is Agibot Overtaking…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  中文：总结：36Kr报道的具体事件是「Is Agibot Overtaking Unitree? Credibility, Performance & Real-World Comparison」。就「Is Agibot Overtaking Unitree Credibility, Perfor…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「Is Agibot Overtaking Unitree Credibility, Perfor…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「Is Agibot Overtaking Unitree Credibility, Perfor…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZQm53WGZVdTJBZXhwVUh6TFdvRkx4TXhoRUVYMVVFbWpiWUt2X2xGUE9iTVlZcExGdzJtb3RQR0JjaUNpWGZWU0I4S2wzV0FTNUpJ?oc=5)
+  English: With shipments of 19,100 units, a 272% year-on-year growth rate, and a 70% share in industrial and commercial scenarios, Chinese manufacturers account for over 97% of the global total. Recently, the first-half 2026 report released by US market research institution SAG shows that humanoid robots are accelerating their transition from "PPT concepts" to real-world applications.
+  📰 [36Kr](https://eu.36kr.com/en/p/3937316458806659)
 
 - **[2026.08.13] Interesting Engineering — Samsung advances in-house humanoid robot development with cost edge**
-  English: Summary: Interesting Engineering reports "Samsung advances in-house humanoid robot…," an event affecting Interesting Engineering. In Interesting Engineering's "Samsung advances in-…" case, the report is an industry signal, but its significance depends on the concrete capability, customer, timetable, and operating metric named beyond the headline. For "Samsung advances in-…," watch quantified metrics, accountable owners, deployment timing, independent validation, and customer feedback.
-  中文：总结：Interesting Engineering报道的具体事件是「Samsung advances in-house humanoid robot development with cost edge」。就「Samsung advances in-house humanoid robot develop…」而言，这是一条产业信号，但其重要性仍取决于新闻能否给出明确能力、客户、时间表和运行指标；没有这些信息时，只能把它视为待验证线索。针对「Samsung advances in-house humanoid robot develop…」，后续应核实后续公告中的量化指标、责任主体、落地时间、第三方验证和客户反馈。只有这些指标与该事件相互印证，才能判断「Samsung advances in-house humanoid robot develop…」究竟改变了产品能力、商业节奏还是竞争位置；在没有进一步数据时，不把该标题之外的推测写成事实。
-  📰 [Interesting Engineering](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1lkSjlMN0o2d1F5RXFqWU01THAwaGpSY0F4aXlLd0R2dlRZeThYeWdMMzU0cWZhYjl2TDBRS3ZIaUhjRXotcHAtdUpOa25xWG9fVVR4TmdHUWJwNExWVjlobFlsT09OWWJXVkdieHhRbWE3eTluS19aWkZrRFRCZkNia3hxMWtwVFMxV3JfWHc?oc=5)
+  English: Samsung Electronics has reportedly been developing a humanoid robot internally for years, separate from its publicly announced Robotics eXperience (RX) division and Rainbow Robotics subsidiary. Korean media reports say the confidential project has reached an advanced stage and could outperform several domestic competitors. The company is also said to be adapting motor technology from its home-appliance business to develop the robot’s actuators, which can account for up to 60 percent of humanoid production costs.
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/samsungs-humanoid-robot-with-lower-costs)
+
+- **[2026.08.13] The Robot Report — Experts to discuss the state of humanoid robots at RoboBusiness**
+  English: Humanoid robots have captured the world’s attention, attracting billions in investment and generating excitement about the future. But beyond the viral videos and ambitious promises, where does the technology really stand? At RoboBusiness, which will take place on Oct. 20 and 21 and in Santa Clara, Calif., humanoid robot experts will participate in the “State of Humanoids” panel.
+  📰 [The Robot Report](https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/)
+
+- **[2026.08.13] digitimes — AgiBot overtakes Unitree as China expands its lead in humanoid robots**
+  English: Global humanoid robot shipments nearly quadrupled in the first half of 2026, with Chinese suppliers accounting for more than 97% of the market and AgiBot moving ahead of Unitree Robotics, according to Bloomberg, citing data from market researcher... The article requires paid subscription. Subscribe Now
+  📰 [digitimes](https://www.digitimes.com/news/a20260812PD207/shipments-robot-2026-market-data.html)
+
+- **[2026.08.11] Japan Wire by Kyodo News — EXPLAINER: What is Unitree and why are China’s humanoid robot makers racing to list?**
+  English: BEIJING - Chinese robot maker Unitree has priced its Shanghai initial public offering at 150.8 yuan per share, with subscriptions to start on Monday, as it seeks to raise 6.1 billion yuan ($904 million) in a deal that would see it become the first mainland-listed humanoid robot manufacturer. Below are some facts about Unitree, and why it is leading several Chinese robotics companies towards public listings.
+  📰 [Japan Wire by Kyodo News](https://english.kyodonews.net/articles/-/81900)
 
 
 ---
-※AI Robot News Digest | 2026.08.14 | RSS fallback items: 20
+※AI Robot News Digest | 2026.08.14 | full-text items: 20
