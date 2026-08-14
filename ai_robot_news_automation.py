@@ -741,7 +741,7 @@ def generate_digest_from_rss():
     for region in REGIONS:
         print(f"   RSS/body fetch: {region['emoji']} {region['label']}")
         target = region.get("min_items", 5)
-        candidate_limit = target + 4
+        candidate_limit = target + 8
         try:
             candidates = fetch_humanoid_items(region, candidate_limit, exclude_headlines=global_headlines) if region["label"] == "Humanoid Robotics" else fetch_rss_items(region, candidate_limit, exclude_headlines=global_headlines)
             for item in candidates:
