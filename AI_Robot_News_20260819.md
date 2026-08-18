@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.19（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.18] inkl — How U.S. military funding propelled China's robot dogs**
+  English: China's Unitree Robotics based designs for its successful robot dogs on innovations funded by the U. S. military, according to a former U. S. defense technology official and three top researchers. Unitree's $1,600 Go2 model helped the company dominate the global market following its Shanghai IPO. The designs drew on breakthroughs financed by the U. S. DEVCOM Army Research Laboratory and other military programs, turning into the first Unitree robot with scale. Researchers noted its dimensions were nearly identical to the MIT-developed Mini Cheetah. In June, the Pentagon added Unitree to a list of Chinese military companies, limiting future U. S. military use of its technology.
+  中文：总结：中国宇树科技最成功的机器狗设计基于美国军方资助的创新成果，前美国国防技术官员和三名顶级研究人员透露了这一消息。 宇树售价1,600美元的Go2型号推出后帮助该公司迅速主导全球四足机器人市场，其上海IPO引发了疯狂需求。 这些机器人利用了美国DEVCOM陆军研究实验室及其他军事项目资助的四足运动突破。 研究人员指出，其Go系列机器人的尺寸与麻省理工学院开发的Mini Cheetah几乎“毫米级”相同。 今年6月，五角大楼将宇树列入中国军事企业名单，限制美国军方未来使用其技术。
+  📰 [inkl](https://www.inkl.com/news/how-u-s-military-funding-propelled-chinas-robot-dogs)
+
+- **[2026.08.18] finance.biggo.com — LG Electronics, Nvidia Build Robot 'Data Virtuous Cycle'—Targeting 12 Years' Worth of Training Data by Year-End**
+  English: LG Electronics and Nvidia are building a data virtuous cycle system for robot learning, planning to deploy hundreds of robots at the Yangjae Data Factory in Seoul by year-end to secure 100,000 hours of training data, equivalent to roughly 12 years' worth. Officials from both companies, including Madison Huang, Jung So-young, Ryu Jae-cheol, Hyun Shin-kyun, and Jung Soo-heon, met to review collaboration and commercialization plans following an MOU signed at Nvidia's U. S. headquarters. The 10,000-square-meter facility utilizes LG's humanoid robot LG CLOiD and integrates Nvidia's physical AI technologies such as the Omniverse library, Cosmos open-world model, and Isaac platform to advance Robot Foundation Models.
+  中文：总结：LG电子与英伟达正在为机器人学习构建“数据良性循环”系统，计划于年底前在首尔良재数据工厂部署数百台机器人，以获取10万小时的训练数据，相当于大约12年的数据量。 包括Madison Huang、郑素英、柳在哲、贤信均和郑秀宪在内的双方官员在英伟达美国总部签署MOU后，会面审议了合作与商业化计划。 该占地10,000平方米的设施利用LG的类人机器人LG CLOiD，并整合了英伟达的物理AI技术（如Omniverse库、Cosmos开源世界模型和Isaac平台）以推进机器人基础模型。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/0892af90-c86e-418e-9aba-c8d32ea41f4c)
+
+- **[2026.08.18] Yonhap News Agency — Nvidia executive visits LG Electronics robotics hub**
+  English: Madison Huang, a senior director at Nvidia and daughter of CEO Jensen Huang, visited LG Electronics' robotics hub in South Korea on Tuesday to discuss expanding AI infrastructure and robotics partnerships. The visit follows LG's announcement to unveil a next-generation humanoid robot capable of bipedal walking in the first quarter of 2027, built on Nvidia's platform following an MOU signed by LG Group Chairman Koo Kwang-mo and Jensen Huang in California. Representatives reviewed operations at LG's Seoul robotics factory, which targets full operation by the end of the year using the LG CLOiD humanoid robot and Nvidia's physical AI technologies, including Omniverse libraries, Cosmos world foundation models, and the Isaac open robotics development platform.
+  中文：总结：英伟达高级总监兼CEO黄仁勋之女Madison Huang于周二访问了LG电子在韩国的机器人枢纽，讨论扩大人工智能基础设施和机器人领域的合作伙伴关系。 在此之前，LG宣布计划于2027年第一季度推出基于英伟达平台的下一代双足人形机器人，此前LG集团会长具光谟与黄仁勋在加州签署了谅解备忘录。 双方代表参观了LG首尔机器人工厂的运营情况，该工厂旨在年底前全面投运，目前使用LG CLOiD人形机器人以及英伟达的物理AI技术（包括Omniverse库、Cosmos世界基础模型和Isaac开源机器人开发平台）。
+  📰 [Yonhap News Agency](https://en.yna.co.kr/view/AEN20260818008100320)
+
+- **[2026.08.18] Businesskorea — LG, Nvidia Accelerate Physical AI Robot Partnership**
+  English: LG Group is partnering with Nvidia to co-develop a next-generation bipedal humanoid robot equipped with Nvidia's Jetson Thor computing module and Isaac GR00T foundation model, targeting a debut in the first quarter of 2027. The partnership was formalized via an MOU signed on August 13 by LG Group Chairman Koo Kwang-mo and Nvidia CEO Jensen Huang. LG affiliates will contribute across the hardware supply chain, with LG Electronics supplying actuators, LG Innotek and LG Energy Solution providing sensors and batteries, and LG CNS building a physical AI data factory using its Physical Works platform. Nvidia senior director Madison Huang visited LG's Yangjae R&D Campus in Seoul on August 18 for closed-door discussions with LG executives.
+  中文：总结：LG集团正与英伟达合作共同开发下一代双足人形机器人，配备英伟达的Jetson Thor计算模块和Isaac GR00T基础模型，目标在2027年第一季度亮相。 双方于8月13日在英伟达总部签署战略商业合作谅解备忘录，由LG集团会长具光谟和英伟达CEO黄仁勋确立了合作关系。 LG各附属公司将贡献硬件供应链，LG Electronics提供执行器，LG Innotek和LG Energy Solution分别供应传感器和电池，LG CNS利用其Physical Works平台建设物理AI数据工厂。 英伟达高级总监Madison Huang于8月18日访问了位于首尔的LG电子良才研发园区，与LG高管进行闭门讨论。
+  📰 [Businesskorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=274944)
+
+- **[2026.08.18] IEEE Spectrum — What Robotics Experts Think of Tesla’s Optimus Robot**
+  English: Following Tesla's introduction of several Optimus humanoid robot prototypes on September 30, roboticists and industry experts evaluated the robot's approach and future potential. Georgia Chalvatzaki, assistant professor at Technische Universität Darmstadt, noted that while the prototype's engineering achievements in a year are impressive, its behaviors are less advanced than Honda's Asimo from 20 years ago, though she praised the cheap and accessible electric motor hardware for academic research. Kate Darling, research specialist at MIT Media Lab, also contributed perspectives on the robot's capabilities alongside other academic and industry experts.
+  中文：总结：在特斯拉于9月30日推出多款Optimus人形机器人原型后，机器人专家和行业专家评估了该机器人的技术路径与未来潜力。 达姆施塔特工业大学助理教授Georgia Chalvatzaki指出，虽然该原型在一年内取得的工程成就令人印象深刻，但其表现出的行为不如本田20年前的Asimo先进，不过她赞赏其廉价且易获取的电动机硬件可用于学术研究。 麻省理工学院媒体实验室研究专家Kate Darling及其他学术界和行业专家也对该机器人的能力发表了见解。
+  📰 [IEEE Spectrum](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/dennis-hong)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.19] 证券时报 — 宇树科技今日登陆科创板 A股“人形机器人第一股”来了**
+  中文：总结：宇树科技于8月19日正式登陆科创板，发行价为150. 80元/股，对应市值约609. 93亿元，成为A股“人形机器人第一股”。 从2016年在杭州创立时的10万元注册资本和估值，到如今市值增长超过4500倍，宇树完成了从实验室样机到资本化新阶段的跨越。 公司创始人王兴兴指出，宇树凭借自研算法、机械设计和成本控制实现了快速交付，2025年营收达16. 99亿元，人形机器人出货超5500台，全球市占率达32. 4%。 随着行业从融资竞赛转向订单、毛利率等交付确定性的比拼，宇树募资近一半投入模型研发，并获得DeepSeek以1. 4亿元战略配售入股。
+  📰 [证券时报](https://www.stcn.com/article/detail/4085007.html)
+
+- **[2026.08.19] 新浪财经 — 中国机器人，还会带来多少惊喜**
+  中文：总结：自2015年创办以来，世界机器人大会已从早期的技术引进和交流平台，成长为备受全球产业青睐的中国主场。 我国已连续十三年成为全球最大工业机器人市场，自主品牌工业机器人国内市场占有率突破50%。 随着经济由高速增长转向高质量发展，国家前瞻布局未来产业，将人形机器人和具身智能作为新质生产力重点培育方向。 当前机器人产业正从“从0到1”的搭建迈向“从1到N”的迭代升级，核心考验在于如何创造实际价值。 尽管减速器和伺服电机等核心部件实现了突破，但在高端芯片和底层操作系统等环节与国际先进水平仍存在差距。
+  📰 [新浪财经](https://finance.sina.com.cn/wm/2026-08-19/doc-ininuvcf9664788.shtml)
+
+- **[2026.08.19] 东方财富 — 宇树科技8月19日上市！机构：机器人行业转向“量产与需求验证定价”**
+  中文：总结：宇树科技宣布其股票将于2026年8月19日在上交所科创板上市，此前发布了“超人”机器人视频展示跳高与奔跑速度。 华泰证券指出，机器人行业正从主题定价转向量产与需求验证定价，宇树上市定价有望成为板块估值锚。 数据显示，中国7月工业机器人产量98,677套同比增30. 2%，1-7月累计635,056套同比增28. 5%，1-5月规上企业营收突破900亿元同比增长26. 9%。 湘财证券与申万宏源认为机器人产业已进入商业落地阶段，人形机器人产销量有望进入正循环，汽车零部件企业正大规模切入机器人赛道。
+  📰 [东方财富](https://wap.eastmoney.com/a/202608183844410467.html)
+
+- **[2026.08.18] 智东西 — 对话IEEE亚太区高级业务总监：中国学者机器人投稿处于全球前列，中企正定义行业标准**
+  中文：总结：IEEE亚太区高级业务总监华宁在接受采访时表示，中国学者在机器人、量子计算和电网领域的期刊投稿和学术会议参与度均处于全球前列，如2025年IROS大会参会人数超过2,800人创下历史纪录。 量子计算方面，2025年美国IEEE量子周参会人数超1,700人且60%来自工业界，显示其已进入工程应用阶段。 标准制定方面，已有320多家中国企业在IEEE标准协会引领和发起标准制定，已出版标准超200项，正在制定的超400项。 同时，前沿技术的跨学科融合正在加速，如AI与智能电网及机器人的结合。
+  📰 [智东西](https://zhidx.com/p/586020.html)
+
+- **[2026.08.18] 手机新浪网 — 宇树科技发布人形机器人视频**
+  中文：总结：8月17日，宇树科技发布了一段30秒的“超人”人形机器人视频，展示其可原地跳高2米、极限速度达12. 66m/s（0. 85米腿长），超越全人类原地跳高和奔跑速度纪录。 宇树科技表示该整机仅用3个多月研发，未来几个月仍有很大完善空间。 此外，宇树科技公布科创板IPO发行结果，发行价为150. 80元/股，对应市值约609. 93亿元（约合90亿美元），网上中签率为0. 0181%，成为科创板史上新股中签难度最高之一。
+  📰 [手机新浪网](https://k.sina.com.cn/article_1288429914_m4ccbe15a033019q9e.html?from=finance)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.18] PR TIMES — 【協賛企業募集開始】「※日本初」ロボティクス×フィジカルAI 特化ビジネスカンファレンス開催決定 導入意思決定者300名~が集結する「Physical AI CROSS」を2027年3月に有明で開催 | 株式会社Growth DXのプレスリリース**
+  日本語：株式会社Growth DXは、ロボティクス×フィジカルAIに特化した日本初（自社調べ）のビジネスカンファレンス「Physical AI CROSS」を2027年3月2日に都内で開催することを発表し、協賛・出展企業の募集を開始した。 インフラや製造、物流などの現場で人手不足解消から新たな付加価値創造への移行が進む中、導入意思決定者300名の参加を見込む。 本カンファレンスでは、実機のデモ展示やトークセッションを通じた情報発信、有効なビジネスマッチングの創出を目的としている。
+  中文：总结：Growth DX株式会社宣布，将于2027年3月2日在东京举办日本首场（根据该公司调查）专注于机器人与物理AI的商业大会“Physical AI CROSS”，并开始招募赞助和参展企业。 在基础设施、制造和物流等现场从解决劳动力短缺向创造新附加价值转变的背景下，预计将吸引300名采购决策者参加。 本届大会旨在通过实机演示和专题讨论传递信息，并创造有效的商业匹配机会。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000028.000151821.html)
+
+- **[2026.08.18] PR TIMES — ギークプラス、ヒューマノイド「Gino」を日本国内で初公開**
+  日本語：株式会社ギークプラスは、2026年9月8日から11日まで東京ビッグサイトで開催される「国際物流総合展2026」において、新型ヒューマノイドロボット「Gino」を日本国内で初めて公開し、実機を展示すると発表した。 「Gino」は、統合AIフレームワーク「Gravity」を採用し、人間からの複雑な作業指示や周囲の状況を認識して実行手順に分解する最新のヒューマノイドロボットである。 全身協調制御によりピッキング作業などの1タスクあたりの作業時間を約30％削減可能とし、多様な形状の荷物の把持や自動化に対応する。
+  中文：总结：株式会社Geek+宣布，将在2026年9月8日至11日于东京国际展览中心举办的“国际物流综合展2026”上，首次在日本国内公开并展示新型人形机器人“Gino”的实体机。 “Gino”采用集成AI框架“Gravity”，是一款能够理解人类复杂工作指令和周围环境并将其分解为执行步骤的最新人形机器人。 通过全身协同控制，拣货等任务的单任务作业时间可减少约30%，并能适应各种形状货物的抓取与自动化作业。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000048.000060368.html)
+
+- **[2026.08.18] Yahoo!ニュース — Google・NVIDIAが「動画生成AI」でロボットの未来を予測、世界モデルで日本が勝つワケ（ビジネス＋IT）**
+  日本語：世界モデルの進化により動画生成AIの競争軸が変化し、ロボット向けでは生成した世界が物理法則に沿っているか、現実のロボットで動作するかなどの厳しい評価が求められている。 WorldArena 2. 0はその象徴であり、仮想空間と現実の間の「Sim-to-Real」の隔たりが存在することを示している。 そのため今後は、工場やロボットの作業成功・失敗といった現実世界の現場データそのものが重要視される。 日本企業では、富士通がファナック、安川電機、川崎重工業とフィジカルAIの社会実装を検討しており、製造現場で長年蓄積された暗黙知が世界モデルを育てる資産に変わる可能性がある。
+  中文：总结：随着世界模型的演进，视频生成AI的竞争焦点正在发生变化，针对机器人的应用要求更严格的评估，例如生成的世界是否符合物理规律、在现实机器人中是否可行。 WorldArena 2. 0就是这一变化的象征，研究表明虚拟空间与现实之间仍然存在“Sim-to-Real”的鸿沟。 因此，未来的价值不仅在于模型大小，更在于工厂中机器如何运作、机器人成功或失败等现实世界的现场数据本身。 在日本企业中，富士通正与发那科、安川电机和川崎重工探讨物理AI的社会应用，制造现场长期积累的隐性知识有望转变为培育世界模型的资产。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/0a7921f504484ce922ef44ece6f5bf14b9bbc746?page=3)
+
+- **[2026.08.18] TBS NEWS DIG — 【ハリウッドの動画AIが「ロボット」の頭脳になる】たった2年で「40年分の進化」／OpenAIに勝った「集中とスピード」／「次のチャンスは日本のロボット」Runway CEO【1on1 Tech】**
+  日本語：動画生成AIを牽引するRunwayの共同創業者兼CEOであるクリストバル・バレンズエラ氏が、動画AIの進化やロボットとの未来について語った。 同氏は、動画AIが重力や光などの物理法則を理解し始めていると述べ、AIが現実世界をシミュレーションすることで日本のロボットの「頭脳」になる未来が近づいているとの見解を示している。 チリ出身でニューヨーク大学ティッシュ芸術学部に在籍したバレンズエラ氏は、2023年にTIME誌の「AI分野で最も影響力のある100人」に選出されている。
+  中文：总结：引领视频生成AI发展的Runway联合创始人兼CEO克里斯托瓦尔·瓦伦苏埃拉探讨了视频AI的演进及其与机器人的未来。 他表示，视频AI正开始理解重力、光线等物理法则，随着AI模拟现实世界，它将成为日本机器人“大脑”的未来已近在咫尺。 出身智利并在纽约大学蒂施艺术学院就读的瓦伦苏埃拉于2023年被《时代》杂志评选为“AI领域最具影响力的100人之一”。
+  📰 [TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/withbloomberg/2880075?display=1)
+
+- **[2026.08.17] 株式会社インプレス — 脳理論に基づくAIモデルでヒューマノイドロボットが介護動作を学習 NCNPと早稲田大学が実証**
+  日本語：国立精神・神経医療研究センター（NCNP）と早稲田大学の研究グループは、脳理論に基づいたAIモデル「Scalable PV-RNN」をヒューマノイドロボット「AIREC」に実装し、視覚・固有受容感覚を統合しながら複数の介護動作を学習できることを実証したと発表した。 開発されたAIは、特徴抽出や次元削減などを用いることなく、「予測誤差を最小化する」という単一の計算原理のみで、約3万次元の感覚情報を統合し未来の感覚を予測する。 実験では、マネキンに対する力学的に複雑な「体位変換」と柔軟物体を扱う「清拭」の2つの動作を同時に学習できることが確認された。
+  中文：总结：国立精神与神经医疗研究中心（NCNP）与早稻田大学的研究小组宣布，已将基于大脑理论的AI模型“Scalable PV-RNN”实现于人形机器人“AIREC”中，并证实其能够在整合视觉与本体感觉的同时学习多种护理动作。 开发的AI无需特征提取或降维，仅通过“最小化预测误差”单一计算原理，即可整合约3万维的感觉信息并预测未来感觉。 实验确认，该模型可同时学习针对人体模型的力学复杂“体位变换”以及处理柔软物体的“擦拭”这两种不同的护理动作。
+  📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2133147.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.18] 日本経済新聞 — 富士経済、ヒューマノイドロボットの世界市場調査結果を発表**
+  English: 株式会社富士経済は、ヒューマノイドロボットの世界市場を種類別に調査し、「2026年版 ワールドワイドロボット関連市場の現状と将来展望 ヒューマノイドロボット・部材編」にまとめた。 二足歩行型ヒューマノイドロボットの世界市場は、2035年頃からの本格普及が見込まれ、2040年には2025年比92. 3倍の6兆円規模に拡大すると予測されている。 ヒューマノイドロボットは労働力不足や高齢化の解決策として期待されているが、汎用AIの性能、歩行・制御の安定性、量産体制の確立などが課題となっている。
+  中文：总结：株式会社富士经济按类型调查了人形机器人的全球市场，并将其汇总在《2026年版全球机器人相关市场现状与未来展望 人形机器人及部件篇》中。 预计二足步行型人形机器人全球市场将于2035年前后全面普及，到2040年将扩大至6万亿日元，为2025年的92. 3倍。 人形机器人作为解决劳动力短缺和老龄化问题的手段备受期待，但通用AI性能、步行与控制稳定性以及量产体制的建立仍是面临的课题。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZRSP711219_Y6A810C2000000/)
+
+- **[2026.08.19] CNET — The Humanoid Robot Revolution Is Missing Some Parts**
+  English: Robot vacuums have evolved significantly since early models like the Neato XV Signature Pro and Ecovacs Deebot N795, incorporating lidar navigation, advanced sensors, and AI training to handle cleaning tasks effectively. Building on this rapid progress, companies are now showcasing humanoid robots capable of doing chores, such as 1X Technologies' bipedal Neo priced at $20,000 to preorder. However, experts note that these preorders represent early-stage prototypes rather than market-ready products. The primary challenge lies not just in hardware reliability, but in developing training data and large language models for physical AI so robots can safely operate in unstructured home environments.
+  中文：总结：自Neato XV Signature Pro和Ecovacs Deebot N795等早期型号以来，扫地机器人取得了显著发展，融入了激光雷达导航、先进传感器和AI训练以有效处理清洁任务。 在此快速进展的基础上，各大公司现在正展示能够做家务的人形机器人，例如1X Technologies售价20,000美元可预订的双足Neo机器人。 然而，专家指出这些预订代表的是早期原型，而非准备上市的产品。 主要的挑战不仅在于硬件可靠性，还在于开发用于物理AI的训练数据和大语言模型，以便机器人在无序的家庭环境中安全运行。
+  📰 [CNET](https://www.cnet.com/tech/computing/humanoid-robots-for-the-home-reality-versus-hype/)
+
+- **[2026.08.19] Georgia Southern University — Georgia Southern University unveils state-of-the-art humanoid robot to redefine engineering education and research**
+  English: Georgia Southern University has unveiled a state-of-the-art humanoid robot in its Allen E. Paulson College of Engineering and Computing (AEPCEC) to serve as a cornerstone for advanced research and applied classroom learning. Designed to interact in human environments, the robot will allow students across disciplines like computer science, mechanical engineering, electrical engineering, and information technology to study human-robot interaction, machine learning, and autonomous navigation. University officials noted that integrating this platform prepares students to meet regional workforce demands in logistics centers, automated ports, and advanced manufacturing facilities while fostering interdisciplinary research.
+  中文：总结：佐治亚南方大学在其艾伦·E·保尔森工程与计算学院（AEPCEC）推出了一款最先进的人形机器人，作为高级研究和应用课堂学习的基石。 该机器人专为在人类环境中互动而设计，将允许计算机科学、机械工程、电气工程和信息技术等多个学科的学生研究人机交互、机器学习和自主导航。 大学官员指出，整合这一平台有助于学生满足物流中心、自动化港口和先进制造设施对区域人才的需求，同时促进跨学科研究。
+  📰 [Georgia Southern University](https://www.georgiasouthern.edu/2026/08/18/georgia-southern-university-unveils-state-of-the-art-humanoid-robot-to-redefine-engineering-education-and-research)
+
+- **[2026.08.19] The Lufkin Daily News — FILE PHOTO: Child sits next to Unitree's G1 humanoid robots as he interacts with a Unitree's GO2 robot, at a Unitree store in Beijing**
+  English: A photo shows a child sitting next to Unitree's G1 humanoid robots while interacting with a Unitree GO2 robot at a Unitree store in Beijing.
+  中文：总结：一张照片显示，一名儿童在北京的一家宇树科技专卖店里与宇树的GO2机器人互动，身旁放置着宇树的G1人形机器人。
+  📰 [The Lufkin Daily News](https://lufkindailynews.com/news_reuters/top_news/file-photo-child-sits-next-to-unitrees-g1-humanoid-robots-as-he-interacts-with-a/image_c596ff22-542c-5a0b-bd1f-110e3cbf7b41.html)
+
+- **[2026.08.18] Chosunbiz — Humanoid cleaning services chase data as Korea joins global robot race - CHOSUNBIZ**
+  English: U. S. robot startup Tau Robotics launched an in-home cleaning service using humanoid robots in San Francisco for $30 per hour, where human employees remotely monitor and control the robots in real time. The primary objective of the service is to collect real-world data, including head and wrist camera feeds, joint positions, force, balance, spatial information, and control commands, which are used to train Vision-Language-Action (VLA) models. Similar data collection efforts are underway globally, with Tesla hiring Optimus operators, Figure AI utilizing human motion data, Chinese companies operating mass-data factories, and Korean firms like LG, Samsung, and ROBOTIS building dedicated robot training infrastructure.
+  中文：总结：美国机器人初创公司Tau Robotics在旧金山推出了一项收费为每小时30美元的家庭清洁服务，由人类员工实时远程监控和控制机器人。 该服务的核心目的是收集真实世界的数据，包括头部和手腕摄像头画面、关节位置、受力、平衡、空间信息及控制指令，用于训练视觉-语言-动作（VLA）模型。 全球范围内正在展开类似的数据收集行动，特斯拉招聘Optimus操作员，Figure AI利用人类运动数据，中国企业运营大规模数据工厂，而韩国企业如LG、Samsung和ROBOTIS也在建设专门的机器人训练基础设施。
+  📰 [Chosunbiz](https://biz.chosun.com/en/en-industry/2026/08/18/MSVQEXW4SNACPFPPUBAZ55XANQ/?outputType=amp)
+
+
+---
+※AI Robot News Digest | 2026.08.19 | full-text items: 20
