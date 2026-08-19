@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.20（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.20] CPG Click Oil and Gas — Chinese Manufacturer Challenging Tesla and Boston Dynamics with Humanoid Robots Could Be Valued Over $7 Billion After IPO in Shanghai and Plans to Raise 4.2 Billion Yuan for Expanded Production and Investment in AI and Robotics**
+  English: Unitree Technology, a Chinese manufacturer of humanoid and quadruped robots based in Hangzhou, prepared for an initial public offering in Shanghai with an estimated valuation exceeding $7 billion. Sponsored by Citic Securities, the company planned to raise 4. 2 billion yuan to finance innovation, production expansion, and artificial intelligence and robotics investments. The IPO pricing process was scheduled to begin in August 2026, with the projected valuation spanning six to twelve months after listing. Unitree’s humanoid robots compete globally with projects from Tesla and Boston Dynamics, alongside the company's established portfolio of quadruped robots used for mobility.
+  中文：总结：总部位于杭州的中国人形与四足机器人制造商宇树科技准备在上交所进行首次公开募股，预估估值超过$7 billion，并计划募集4. 2 billion yuan以资助创新、生产扩展以及在人工智能和机器人领域的投资。 在保荐机构中信证券的报告中，该公司的估值在上市后六到十二个月内预计可达到500亿至559亿元人民币。 宇树科技的人形机器人在全球市场上与特斯拉和波士顿动力等巨头展开竞争，其产品组合中还包括用于移动的四足机器人。
+  📰 [CPG Click Oil and Gas](https://en.clickpetroleoegas.com.br/chinese-manufacturer-challenging-tesla-and-boston-dynamics-with-humanoid-robots-valued-at-over-7-billion-after-ipo-in-shanghai-plans-to-ctl01/)
+
+- **[2026.08.19] Benzinga — Tesla Optimus Rival Unitree Robotics Explodes 629% in Shanghai Debut, Briefly Hits $66 Billion Valuation**
+  English: Unitree Robotics experienced a 629% increase from its IPO price during its Shanghai trading debut on Wednesday, with shares opening at 1,100 yuan ($163. 12) and reaching a market capitalization of approximately 445 billion yuan ($66 billion). By midday, the stock held at 883. 9 yuan ($131. 08) per share with a market cap of about 357 billion yuan ($52. 94 billion). Founder Wang Xingxing's net worth rose to over 107 billion yuan ($15. 87 billion), while early investors included DeepSeek, which invested about 140. 8 million yuan ($20. 88 million) in the IPO, and Tencent. In 2025, Unitree generated 1. 7 billion yuan ($252 million) in revenue, selling 5,215 humanoid robots and 23,037 quadrupeds.
+  中文：总结：宇树科技周三在上海股市迎来首次亮相，股价较发行价飙升629%，开盘价为1,100 yuan（$163. 12），公司市值触及约445 billion yuan（$66 billion）。 截至午盘，股价维持在883. 9 yuan（$131. 08）每股，市值约为357 billion yuan（$52. 94 billion）。 创始人王兴兴的身家增至107 billion yuan（$15. 87 billion）以上，现有投资者包括向IPO投资约140. 8 million yuan（$20. 88 million）的DeepSeek以及腾讯。 2025年，宇树实现营业收入1. 7 billion yuan（$252 million），售出5,215台人形机器人和23,037台四足机器人。
+  📰 [Benzinga](https://www.benzinga.com/markets/ipos/26/08/61292864/tesla-optimus-rival-unitree-robotics-explodes-629-in-shanghai-debut-briefly-hits-66-billion-valuation)
+
+- **[2026.08.18] AiThority — Actuate 26: Foxglove Launches Agentic Data Platform for Physical AI, Collaborates with NVIDIA on Semantic Search**
+  English: Foxglove launched an agentic data platform for Physical AI featuring an intelligent AI layer that allows robotics developers to search, visualize, compare, debug, and curate multimodal datasets using natural language. Available through the Agent Sidebar and MCP server, the platform automates the transformation of raw multimodal data into high-value datasets and evaluations. Additionally, Foxglove collaborated with NVIDIA to introduce Semantic Search powered by open NVIDIA Cosmos world models, enabling fully managed indexing and inference on raw logs stored in customer cloud storage without data duplication.
+  中文：总结：Foxglove推出了面向物理AI的智能数据平台，具备智能AI层，允许机器人开发者通过自然语言搜索、可视化、比较、调试和策划多模态数据集。 该平台通过Agent Sidebar和MCP服务器提供，可自动将原始多模态数据转化为高价值数据集和评估结果。 此外，Foxglove与NVIDIA合作推出了由开放的NVIDIA Cosmos世界模型驱动的语义搜索功能，能够在客户云存储中存储的原始日志上实现完全托管的索引和推理，且无需复制数据。
+  📰 [AiThority](https://aithority.com/robots/actuate-26-foxglove-launches-agentic-data-platform-for-physical-ai-collaborates-with-nvidia-on-semantic-search/)
+
+- **[2026.08.18] moomoo.com — $Micropolis AI Robotics (MCRP.US)$ $MCRP Emirate's, Abu Dhabi putting $15 Billion in projects On Nvidia List👀 According to S&P Global Ratings, assets, pipeline includes 11 transport projects worth AED35bn, five infrastructure projects valued at AED11bn,**
+  English: According to S&P Global Ratings, Abu Dhabi's asset pipeline includes 11 transport projects worth AED35bn, five infrastructure projects valued at AED11bn, and eight social infrastructure developments worth AED9bn.
+  中文：总结：根据标普全球评级的消息，阿布扎比的资产储备包括价值350亿迪拉姆的11个交通项目、价值110亿迪拉姆的5个基础设施项目以及价值90亿迪拉姆的8个社会基础设施开发项目。
+  📰 [moomoo.com](https://www.moomoo.com/community/feed/micropolis-ai-robotics-mcrp-us-mcrp-emirate-s-abu-dhabi-117119211143973)
+
+- **[2026.08.18] spectrum.ieee.org — What Robotics Experts Think of Tesla’s Optimus Robot**
+  English: Tesla introduced prototypes of its Optimus humanoid robot on September 30, 2022, prompting diverse reactions across the robotics community. Carnegie Mellon University associate professor Henny Admoni noted that while the prototype achievements were impressive for a single year of work, the demonstrated behaviors were less advanced than Honda's Asimo from 20 years prior, though she praised the prospect of accessible hardware for academic research. Other experts commenting on the robot included Kate Darling, Animesh Garg, Ryan Gariepy, Keerthana Gopalakrishnan, Dennis Hong, Christian Hubicki, Will Jackson, Gary Marcus, Marc Raibert, Brandon Rohrer, Siddhartha Srinivasa, Mikell Taylor, and Cynthia Yeung.
+  中文：总结：特斯拉于2022年9月30日推出了其Optimus人形机器人原型，引发了机器人学界的广泛且各异的反应。 卡耐基梅隆大学副教授Henny Admoni指出，尽管工程师在一年内取得的成果令人印象深刻，但展示的行为不如本田20年前的Asimo先进，不过她对可用于学术研究的廉价硬件前景表示期待。 其他对该机器人发表评论的专家包括Kate Darling、Animesh Garg、Ryan Gariepy、Keerthana Gopalakrishnan、Dennis Hong、Christian Hubicki、Will Jackson、Gary Marcus、Marc Raibert、Brandon Rohrer、Siddhartha Srinivasa、Mikell Taylor和Cynthia Yeung。
+  📰 [spectrum.ieee.org](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/gary-marcus)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.20] 新浪网 — 宇树科技今日登陆科创板，A 股人形机器人第一股正式登场**
+  中文：总结：宇树科技于8月19日正式在上交所科创板挂牌交易，股票代码为688836，成为A股市场人形机器人整机第一股。 公司以每股150. 80元的价格公开发行4044. 64万股，募集资金总额接近61亿元，发行后总市值约609. 93亿元。 本次IPO网上有效申购户数达到978. 46万户，网上中签率仅0. 018%，刷新科创板历史最低中签率。 从以四足机器人起步且全球累计出货量突破3万台开始，宇树拓展至H1和G1系列等人形机器人，2025年人形机器人出货量超过5500台。
+  📰 [新浪网](https://k.sina.com.cn/article_7451676903_1bc2790e700101au5q.html?from=finance)
+
+- **[2026.08.20] 21财经 — 宇树科技上市狂欢背后 人形机器人赛道走向“称重期”**
+  中文：总结：宇树科技于8月19日在上交所科创板上市，开盘报1100元/股，总市值达4449亿元，随后收盘报845元/股，总市值3418亿元，全日成交额231. 60亿元。 经机构询价确定发行价为150. 80元/股，实际募资金额达60. 99亿元。 创始人王兴兴直接持有21. 44%股份，按收盘价计算持股市值达732亿元。 2023年至2025年，公司营业收入由1. 59亿元增至16. 99亿元，2025年人形机器人出货量超5500台，其中科研教育场景收入占比达73. 60%。
+  📰 [21财经](https://m.21jingji.com/article/20260820/b507775e7bc546c0e644554da96b94da.html)
+
+- **[2026.08.20] epaper.tianjinwe.com — 智能客服机器人“海小慧” 投用**
+  中文：总结：AI智能客服机器人“海小慧”于昨日在中国海油安全生产培训中心投用，这是中国海油海洋油气领域首个集“客服+考评+助教”功能于一体的智能终端。 该机器人由中国海油安全生产培训中心自主研发，搭载可触控大屏、高清摄像头及麦克风，支持实时语音与视觉交互，能指路、答疑并讲解海洋石油开采工艺及设备维护等专业知识。 此外，它内置了针对压力表拆装、离心泵启动、滤网清洗3项实操科目的智能评分系统，借助视觉与语音双重识别辅助考核，并依托大模型保障生产数据安全。
+  📰 [epaper.tianjinwe.com](https://epaper.tianjinwe.com/tjrb/html/2026-08/20/content_143086_3755551.htm)
+
+- **[2026.08.20] 新浪网 — 宇树科技主要生产哪些机器人产品？**
+  中文：总结：宇树科技在上交所科创板挂牌上市，发行价150. 80元/股，开盘报1100元，总市值达4449亿元。 公司的核心机器人产品矩阵包括累计销量超3万台的四足机器人（如售价9997元起的消费级Go2、行业级B2及科研级Aliengo），以及人形机器人（包括2023年推出的全尺寸H1、2024年发布且售价9. 9万元起的中型G1、2025年推出且Air款售2. 99万元起的轻量型R1）。 2025年其人形机器人出货超5500台，位居全球第一。
+  📰 [新浪网](https://k.sina.com.cn/article_7879776480_1d5abd8e006801lmj6.html)
+
+- **[2026.08.20] 新浪财经 — 宇树科技上市，王兴兴等高管今天说了什么？|四足机器人|具身智能|科创板|机器人|A股_手机新浪网**
+  中文：总结：宇树科技于8月19日正式登陆科创板，发行价为150. 80元/股，当日收盘价为845元/股。 该公司被称为A股市场“人形机器人第一股”，专注于高性能通用人形机器人、四足机器人、组件及具身智能模型的研发、生产和销售，并在全球率先实现高性能四足机器人的公开销售与行业落地。 在上市仪式现场，董事长王兴兴表示创新是企业发展的根基，联合创始人陈立、财务总监王枫以及董事会秘书傅风华也分别表达了对公司走到这一天的激动心情与期望。
+  📰 [新浪财经](https://finance.sina.cn/hy/2026-08-19/detail-ininvwqt9412337.d.html?vt=4)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.19] projectdesign.jp — ギークプラス 最新ヒューマノイド「Gino」を国内初公開、物流総合展で実機展示**
+  日本語：Geek+, a manufacturer and vendor of AI logistics robots, announced it will make the Japan debut of its humanoid robot 'Gino' at the International Logistics Exhibition 2026 in Tokyo from September 8 to 11. Unlike single-action robots, Gino uses the 'Gravity' integrated AI framework to understand complex natural language instructions, break them down into execution steps, and perform pick-and-place tasks and case transport in warehouses. Featuring whole-body coordinated control and fusing RGB camera, depth, and 3D point cloud data, Gino reduces task time by about 30% compared to sequential operations, handling transparently packaged goods and adapting to real-time position changes.
+  中文：总结：AI物流机器人制造商吉ークプラス（Geek+）宣布，将于2026年9月8日至11日在东京举行的“国际物流综合展2026”上首次在日本国内公开其人形机器人“Gino（ジーノ）”。 与重复单一动作的机器人不同，Gino采用其开发的集成AI框架“Gravity”，能够理解人类复杂的作业指令并将其分解为具体执行步骤，实现仓库内商品的拣选和搬送。 Gino实现了手脚同时联动的“全身 coordination控制”，与按顺序动作相比可将每个任务的作业时间缩短约30%，并通过融合RGB相机、深度信息和3D点群数据来高精度识别透明包装等多样化货物。
+  📰 [projectdesign.jp](https://www.projectdesign.jp/articles/news/b2a1ce72-02a3-41af-b775-93855888b1c7)
+
+- **[2026.08.18] Infoseek — 【協賛企業募集開始】「※日本初」ロボティクス×フィジカルAI 特化ビジネスカンファレンス開催決定 導入意思決定者300名~が集結する「Physical AI CROSS」を2027年3月に有明で開催**
+  日本語：Growth DX announced the launch of 'Physical AI CROSS', a specialized business conference focusing on robotics and physical AI, scheduled for March 2027 in Ariake, Tokyo. Targeting 300 introduction decision-makers from industries such as manufacturing, logistics, and infrastructure, the event aims to provide real-world insights for field implementation and foster business matching. The conference will feature up to 30 exhibition booths for product demonstrations and talk sessions. Sponsor applications are open until the end of December 2026, and attendee pre-applications are currently underway.
+  中文：总结：Growth DX宣布将于2027年3月在东京有明举办专注于机器人与物理AI的特化商业会议“Physical AI CROSS”。 该活动旨在汇聚来自制造、物流、基础设施等行业的300名以上引入决策者，提供将最先进的フィジカルAI技术进行现场实现的真实见解并促进有效的商务匹配。 会议将设立最多约30个展位供实机演示和交流。 赞助商申请截止至2026年12月底，目前已开始接受参会者的先行报名。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000028_000151821/)
+
+- **[2026.08.18] TBS NEWS DIG — 【ハリウッドの動画AIが「ロボット」の頭脳になる】たった2年で「40年分の進化」／OpenAIに勝った「集中とスピード」／「次のチャンスは日本のロボット」Runway CEO【1on1 Tech】**
+  日本語：Cristóbal Valenzuela, co-founder and CEO of Runway, discussed the evolution of video generative AI in a tech interview with Masahiro Nakagawa of TBS CROSS DIG. Valenzuela noted that video AI models are beginning to understand the physical laws of the world, such as gravity and light, which will enable AI to act as the brain for physical robots.
+  中文：总结：Runway共同创始人兼CEO克里斯托瓦尔·巴伦苏埃拉（Cristóbal Valenzuela）在TBS CROSS DIG中接受了商务编辑中川雅博的技术专访。 巴伦苏埃拉指出，视频生成AI模型正在开始理解重力和光线等“这个世界的物理法则”，这将使AI能够成为未来实体机器人不可或缺的“大脑”。
+  📰 [TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/withbloomberg/2880075?display=1)
+
+- **[2026.08.18] Yahoo!ニュース — Google・NVIDIAが「動画生成AI」でロボットの未来を予測、世界モデルで日本が勝つワケ（ビジネス＋IT）**
+  日本語：The evolution of world models is shifting the competitive focus of video generative AI from superficial image quality to whether generated actions align with physical laws and function in real-world robots, as demonstrated by benchmarks like WorldArena 2. 0. Consequently, real-world data from factory equipment, robot operations, and anomaly handling is becoming crucial for training world models. Japanese companies such as Fujitsu are collaborating with Fanuc, Yaskawa Electric, and Kawasaki Heavy Industries to apply physical AI and utilize NVIDIA's foundational world models for robot validation, transforming accumulated operational know-how into valuable assets.
+  中文：总结：世界模型的演进正在改变视频生成AI的竞争焦点，从单纯的画面美观度转向生成的世界是否符合物理法则并在现实机器人中通用，正如WorldArena 2. 0基准测试所显示的那样。 因此，工厂中机械运转、机器人成功或失败等现实世界的数据对训练世界模型变得至关重要。 富士通等日本企业正与发那科、安川电机和川崎重工业合作，探讨フィジカルAI的社会实现，并利用エヌビディア的世界基盘模型来验证机器人学习与动作，将长期积累的暗默知转化为培育世界模型的资产。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/0a7921f504484ce922ef44ece6f5bf14b9bbc746?page=3)
+
+- **[2026.08.19] アットプレス — 医療用ロボットの日本市場（2026年-2035年）、市場規模・分析レポートを発表**
+  日本語：Market Research Center published a report titled 'Japan Medical Robots Market 2026-2035', projecting the Japanese medical robots market to grow from $733. 25 million in 2025 to $3. 17935 billion by 2035 at a CAGR of 15. 8%. Driven by healthcare automation, aging demographics, and a demand for minimally invasive surgery, Japan accounts for about 12% of global medical service robot sales. Key market developments include Olympus investing $65 million in Swan EndoSurgical in July 2025 for advanced endoscopic robotics, and Medicaroid, NTT Communications, and the Japan Surgical Society successfully conducting a remote surgery demonstration between Strasbourg, France and Kobe using the hinotori robot.
+  中文：总结：株式会社マーケットリサーチセンター发布了题为《医疗用ロボットの日本市場（2026年-2035年）》的报告，预测日本医疗机器人市场规模将从2025年的7亿3,325万米ドル增长至2035年的31億7,935万米ドル，年平均增长率为15. 8%。 在医疗自动化、老龄化及微创手术需求推动下，日本占全球医疗服务机器人销售额约12%。 市场的重要动态包括：2025年7月Olympus向Swan EndoSurgical投资6,500万米ドル以开发消化管内腔手术机器人，以及2025年6月Medicaroid、NTT Communications和日本外科学会使用hinotori™手术支援机器人成功完成法国斯特拉斯堡与神户之间的远隔手术演示。
+  📰 [アットプレス](https://www.atpress.ne.jp/news/1643267)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.18] 日本経済新聞 — 富士経済、ヒューマノイドロボットの世界市場調査結果を発表**
+  English: Fuji Keizai released a global market research report on humanoid robots, predicting the worldwide market for bipedal humanoid robots to reach 6 trillion yen by 2040, a 92. 3-fold increase compared to 2025, with full-scale adoption expected around 2035. The report surveyed three humanoid robot types, FA robots, service robots, and 18 key components requiring improved precision and durability. While currently used mainly for development, demonstration, and entertainment, humanoid robots are anticipated to find applications in factory automation, services, rescue, and households to address labor shortages and aging populations, pending advancements in general AI, stability, and mass production systems.
+  中文：总结：株式会社富士经济发布了人形机器人全球市场调查结果，预测二足步行型人形机器人2040年世界市场将达到6兆円（比2025年增长92. 3倍），预计2035年前后开始本格普及。 该调查涵盖了3品目人形机器人、FA机器人、服务机器人以及18品目注目构成部材。 尽管目前主要用于开发、实证和娱乐，但由于劳动力不足和老龄化等课题，预计未来将在FA/服务、救援和一般家庭等广泛场景活跃，不过实现普及仍需提升通用AI性能、控制稳定性以及建立量产体制。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZRSP711219_Y6A810C2000000/)
+
+- **[2026.08.19] Qazinform — Kazakhstan begins construction of its first humanoid robot factory**
+  English: Kazakhstan began construction of its first humanoid robot factory, the QAZBOT complex in Astana, on August 18, 2026, following a robotics forum organized by QAZBOT Technologies with support from the Ministry of Artificial Intelligence and Digital Development and Astana Hub. The project, which featured international participation from AgiBot, aims to establish a complete technological cycle encompassing research and development, software and AI model creation, engineering training, and localized production. During the forum, AgiBot humanoid robots demonstrated interactive capabilities, movement coordination, and complex routines, while participants held B2B meetings and signed strategic partnership agreements.
+  中文：总结：哈萨克斯坦于2026年8月18日在阿斯塔纳为其首个人形机器人工厂（QAZBOT综合体）破土动工。 此前，QAZBOT Technologies在人工智能和数字发展部以及阿斯塔纳枢纽的支持下举办了聚焦人形机器人与具身智能的论坛。 该项目有来自国际领先的人形机器人制造商智元机器人（AgiBot）的参与，旨在建立涵盖研发、软件与AI模型开发、工程人才培养及本土化生产的完整技术周期。 在论坛期间，AgiBot的人形机器人展示了人机互动、动作协调及复杂动作，双方还举行了B2B会议并签署了多项战略协议。
+  📰 [Qazinform](https://qazinform.com/amp/kazakhstan-begins-construction-of-its-first-humanoid-robot-factory-b30636/)
+
+- **[2026.08.20] CFO Dive — Agility Robotics separates CFO-COO role as it prepares to go public**
+  English: Agility Robotics separated the combined CFO and COO role, appointing Michael Beer as CFO in July to succeed Jennifer Hunter, who will now serve exclusively as Chief Operating Officer. Beer's immediate priority is preparing the Salem, Oregon-based company for its upcoming public market debut through a proposed merger with special purpose acquisition company Churchill Capital, which values Agility at $2. 5 billion on a pre-money equity basis and is expected to provide over $600 million in gross proceeds. Hunter will focus on scaling manufacturing and commercial deployments of Agility's humanoid robots, which are designed to operate alongside workers in warehouses, manufacturing facilities, and distribution centers.
+  中文：总结：Agility Robotics将首席财务官（CFO）与首席运营官（COO）的合并职位分拆，任命Michael Beer于7月担任CFO，接替此前兼任两职的Jennifer Hunter，后者转为专职担任COO。 Beer的首要任务是为这家总部位于俄勒冈州塞勒姆的公司通过与特殊目的收购公司Churchill Capital合并上市做准备，该交易对Agility的估值为2. 5 billion USD预发行股权基础。 Hunter将专注于扩大其人形机器人的制造规模和商业部署，这些机器人旨在仓库、制造厂和分销中心与工人协同作业。
+  📰 [CFO Dive](https://www.cfodive.com/news/agility-robotics-separates-finance-operations-prepares-go-public/828330/)
+
+- **[2026.08.20] The Robot Report — Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness**
+  English: Kollmorgen announced that Yoshi Umeno, global director of business development for robotics, will present a talk titled 'A Joint-by-Joint Guide to Humanoid Motion' at the RoboBusiness conference in Santa Clara, California, on October 20 to 21. Umeno will address the central challenge faced by humanoid robot OEMs in bridging the gap between working prototypes and scalable volume production. By examining humanoid motion as a zone-by-zone architecture problem rather than a one-size-fits-all approach, the session will outline body zone demands, scaling challenges, and a practical framework for evaluating motion partners and co-engineering support.
+  中文：总结：Kollmorgen宣布，其全球机器人业务发展总监Yoshi Umeno将于10月20日至21日在加利福尼亚州圣克拉拉举行的RoboBusiness会议上发表题为“人形运动的关节逐一指南”的演讲。 Umeno将探讨人形机器人原始设备制造商在弥合工作原型与可扩展量产之间差距时面临的核心挑战。 通过将人形运动视为区域架构问题而非一刀切的方法，该演讲将概述身体各区域的需求、规模化挑战以及评估运动合作伙伴和协同工程支持的实用框架。
+  📰 [The Robot Report](https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/)
+
+- **[2026.08.19] Malay Mail — Honor’s humanoid robots go global — first stop Malaysia for marathon, then National Day parade in Putrajaya**
+  English: Honor brought its A1 and D1 humanoid robots to Malaysia for their first public appearance outside China, where they will participate in the Malaysia Marathon on August 30 and the National Day parade in Putrajaya on August 31. The D1 is scheduled to tackle the 10KM marathon category starting from Pavilion Kuala Lumpur at midnight, while the A1 will join the 5KM event from KLCC alongside Prime Minister Datuk Seri Anwar Ibrahim. Prior to the events, the robots will be displayed at Honor booths on August 29 and 30, accompanied by demonstrations of Honor's smartphone lineup.
+  中文：总结：荣耀（Honor）将其A1和D1人形机器人带到马来西亚，这是其在中国境外首次公开亮相，它们将参加8月30日的马来西亚马拉松比赛以及8月31日在布特拉加亚举行的国庆游行。 D1计划于午夜从吉隆坡柏威年广场出发参加10公里马拉松组别，而A1将与马来西亚总理安华一同参加从吉隆坡城中城出发的5公里赛事。 在此之前，这两款机器人于8月29日和30日在荣耀展位展出，并配合智能手机系列产品进行演示。
+  📰 [Malay Mail](https://www.malaymail.com/amp/news/tech-gadgets/2026/08/19/honors-humanoid-robots-go-global-first-stop-malaysia-for-marathon-then-national-day-parade-in-putrajaya/231880)
+
+
+---
+※AI Robot News Digest | 2026.08.20 | full-text items: 20
