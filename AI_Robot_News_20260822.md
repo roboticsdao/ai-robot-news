@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.22（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.22] Interesting Engineering — Three robotic arms 3D print nuclear vessel for America’s expanding reactor fleet**
+  English: Oak Ridge National Laboratory and Idaho National Laboratory are developing wire arc additive manufacturing using a MedUSA platform with three robotic arms to produce industrial pressure vessels for nuclear expansion. The laboratories printed a pressure vessel measuring roughly three feet by five feet using a nuclear-relevant steel alloy. The process aims to provide an alternative to limited domestic forging capacity. Researchers plan to combine large-scale additive manufacturing with digital engineering and real-time monitoring to create born-qualified pressure vessels and reduce reliance on post-manufacturing testing. Idaho National Laboratory will contribute expertise in nuclear materials, digital engineering, and data science, while similar digital manufacturing methods were previously used for Antares Nuclear’s R1 Mark-0 microreactor. The technology could eventually support aerospace, defense, chemical processing, and oil and gas sectors.
+  中文：总结：美国橡树岭国家实验室与爱达荷国家实验室正合作开发线弧增材制造技术，利用配备三个机械臂的MedUSA平台制造核反应堆压力容器，以应对国内锻造产能有限的问题。 两家实验室最近使用核相关钢合金打印了一个尺寸约为三英尺乘五英尺的压力容器。 研究人员计划将大规模增材制造与数字工程及实时监控相结合，以便在生产过程中评估组件性能，减少对制造后漫长测试的依赖。 爱达荷国家实验室将提供核材料、数字工程和数据科学方面的专长。 这项技术未来还有望支持航空航天、国防、化学加工以及石油和天然气等行业。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/robotic-arms-3d-print-nuclear-vessel)
+
+- **[2026.08.21] The Times of India — China Robot Dogs Use U.S. Army Research, Outpace American Military Machines**
+  English: China's Unitree sells a robot dog for $1,600 that rivals American military robots costing over $165,000, with technology tracing back to US Army funded research. The phenomenon stems from Pentagon-backed breakthroughs from Penn, MIT, and Boston Dynamics powering Chinese quadruped robots. American manufacturers were unable to scale the cheap version, leading Washington to respond with Pentagon blacklists and Federal Communications Commission import bans.
+  中文：总结：中国宇树科技以1,600美元的价格出售一款机器狗，其性能可媲美售价超过165,000美元的美国军用机器人，而相关技术可追溯至美国陆军资助的研究。 五角大楼支持的宾夕法尼亚大学、麻省理工学院和波士顿动力公司的突破最终赋能了中国四足机器人，而美国制造商未能将低价版本规模化，促使华盛顿通过五角大楼黑名单和联邦通信委员会进口禁令做出回应。
+  📰 [The Times of India](https://timesofindia.indiatimes.com/videos/explainers/china-robot-dogs-use-u-s-army-research-outpace-american-military-machines/amp_videoshow/133402748.cms)
+
+- **[2026.08.21] Sahm — Why Is Nvidia (NVDA) Expanding Deeper Into Robotics And Physical AI?**
+  English: NVIDIA is expanding its robotics and physical AI efforts through new collaborations with LG Electronics and Foxglove. LG and NVIDIA are working on an accelerated robotics Data Factory combining real-world and synthetic data for robot learning. Foxglove launched agentic AI tools using NVIDIA's Cosmos world models to power semantic robotics data search and debugging workflows. These initiatives extend NVIDIA's role beyond AI chips and cloud into commercial robotics data platforms and physical AI ecosystems, supported by technologies like NVIDIA Cosmos, Isaac, and Omniverse.
+  中文：总结：英伟达正通过与LG电子和Foxglove的新合作，进一步扩展其在机器人和物理AI领域的布局。 LG与英伟达正合作开发加速机器人数据工厂，结合真实世界与合成数据用于机器人学习。 Foxglove推出了利用英伟达Cosmos世界模型的智能AI工具，以支持语义机器人数据搜索和调试工作流。 这些举措将英伟达的角色从人工智能芯片和云端扩展至商业机器人数据平台与物理AI生态系统，并依托英伟达Cosmos、Isaac和Omniverse等技术。
+  📰 [Sahm](https://www.sahmcapital.com/news/content/why-is-nvidia-nvda-expanding-deeper-into-robotics-and-physical-ai-2026-08-20)
+
+- **[2026.08.21] CDO Magazine — LG, NVIDIA Accelerate Robotics Collaboration**
+  English: LG Electronics is accelerating its robotics collaboration with NVIDIA, anchored by a Data Factory under construction at its Yangjae R&D Campus in Seoul. Scheduled to be fully operational by the end of the year, the 10,000-square-meter facility aims to house several hundred robots and generate 100,000 hours of training data. LG has deployed self-developed CLOiD home robots, while leveraging NVIDIA physical AI technologies including Omniverse libraries, Cosmos world foundation models, and the open Isaac robotics development platform to advance its Robot Foundation Model.
+  中文：总结：LG电子正在加速与英伟达的机器人合作，其核心是在首尔良재研发园区建设中的数据工厂。 该设施计划于年底前全面投入运营，面积达10,000平方米，预计将容纳数百台机器人并产生100,000小时的训练数据。 LG已部署自主开发的LG CLOiD家庭机器人，同时利用英伟达Omniverse库、Cosmos世界基础模型和开放的Isaac机器人开发平台等物理AI技术，以推进其机器人基础模型的发展。
+  📰 [CDO Magazine](https://www.cdomagazine.tech/aiml/lg-nvidia-accelerate-robotics-collaboration)
+
+- **[2026.08.20] Sahm — Tesla Optimus Rival Unitree Robotics Explodes 629% in Shanghai Debut, Briefly Hits $66 Billion Valuation**
+  English: Unitree Robotics surged 629% in its Shanghai trading debut on Wednesday, opening at 1,100 yuan ($163. 12) and reaching a market capitalization of approximately 445 billion yuan ($66 billion). Founder Wang Xingxing saw his net worth increase to over 107 billion yuan ($15. 87 billion), with DeepSeek and Tencent among the existing investors, and DeepSeek investing about 140. 8 million yuan ($20. 88 million) in the IPO. Unitree reported 1. 7 billion yuan ($252 million) in revenue in 2025, selling 5,215 humanoid robots and 23,037 quadrupeds. The debut coincides with broader industry momentum, as Tesla advances plans for its Optimus humanoid robot and capital expenditures.
+  中文：总结：宇树科技周三在上海股市迎来首次亮相，股价暴涨629%，开盘价为1100元（163. 12美元），市值达到约4450亿元（660亿美元）。 创始人王兴兴的净资产增至1070亿元（158. 7亿美元）以上，DeepSeek和腾讯等为现有投资者，其中DeepSeek在IPO中投资约1. 408亿元（2088万美元）。 宇树2025年营收达到17亿元（2. 52亿美元），售出5,215台人形机器人和23,037台四足机器人。 此次上市正值行业热度上升之际，特斯拉也在推进其Optimus人形机器人计划及相关资本支出。
+  📰 [Sahm](https://www.sahmcapital.com/news/content/tesla-optimus-rival-unitree-robotics-explodes-629-in-shanghai-debut-briefly-hits-66-billion-valuation-2026-08-19)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.22] 手机新浪网 — 宇树与智元，具身智能「理想」与「蔚来」之路**
+  中文：总结：宇树科技于2026年8月19日登陆A股科创板，发行价为150. 8元/股，开盘价1100元，收盘价845元。 创始人王兴兴通过AB股结构掌控近65. 31%的表决权，核心研发团队仅3人，专注运动控制与产品本体。 宇树形成“四足机器人+人形机器人”双轮驱动产品矩阵，2025年营收飙升至16. 99亿元，扣非净利润为5. 91亿元。 与此同时，智元机器人由邓泰华与彭志辉于2023年创立，采用平台化路线，重仓研发具身大脑和基座大模型，2025年营收达到10. 5亿元但仍在亏损，计划通过港股18C章上市。 两家公司代表了中国具身智能领域极致产品主义与平台生态野心的两条不同道路。
+  📰 [手机新浪网](https://k.sina.com.cn/article_5952915705_162d248f906703lz06.html)
+
+- **[2026.08.22] 中国经济网 — 产需共融——2026世界机器人大会掠影**
+  中文：总结：8月19日，2026世界机器人大会在北京开幕，主题为“人机共生 产需共融”，会上集中亮相了超300件全球首发新品。 大会现场展示了可进行实时问答并识别情绪的仿生智能机器人，并设置了“具身花园”科技艺术展、机器人消费节集市。 灵巧手表演了穿针引线，展现了从抓取向复杂工作和柔性操作的演进。 此外，工作人员通过动作捕捉技术与机器人共舞，蚂蚁灵波机器人展示了智慧药房取药系统，宇树机器人则进行了拳击表演，展示了机器人在动态平衡和高速运动控制方面的进展。
+  📰 [中国经济网](http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260822_3162991.shtml)
+
+- **[2026.08.21] 联合早报 — 新中合作助力中国机器人企业出海**
+  中文：总结：中国机器人企业云深处科技海外销售总监罗鹃花在2026世界机器人大会的新中高端圆桌对话中指出，海外具身智能工程师短缺是中国机器人企业出海最大的制约，导致技术成果难以在海外顺利实施和运维。 海关总署数据显示，今年前七个月中国工业机器人出口同比增长13. 2%。 新加坡南洋理工大学机器人研究中心主任洪维德表示，新加坡可为机器人企业提供数据采集场景等一条龙服务，当地大学也正加紧培养工程师人才。 优必选和帕西尼感知科技等企业也分享了在新加坡布局的考量。 新加坡机器人学会周五公布了两份倡议，计划建立联合售后与维护中心并培养科技人才，以降低中国机器人企业出海门槛。
+  📰 [联合早报](https://www.zaobao.com.sg/news/china/story20260821-9555496)
+
+- **[2026.08.21] 东方财富 — 王兴兴谈宇树最新工作动向：让物理AI机器人模型自进化**
+  中文：总结：在2026世界机器人大会主论坛上，宇树科技创始人兼董事长王兴兴发表演讲，阐述了让物理AI机器人模型实现自进化的最新工作动向。 王兴兴指出，公司目前正推动利用最前沿的顶尖AI大模型驱动，并结合特定规则与工具，让机器人自己去网上搜索最新论文和开源方案，自主编写机器控制代码。 代码生成后可在仿真环境中运行，或调用大模型控制实物机器人在实物上进行部署测试、评价和打分。 其中评价部分由AI模型自主实现，部分则由有人类经验参与判断，通过这套体系来大幅提升机器的开发效率和迭代速度。
+  📰 [东方财富](https://wap.eastmoney.com/a/202608203847702130.html)
+
+- **[2026.08.21] 东方财富 — 宇树4400亿元市值狂欢过后，人形机器人板块迎来定价重估！机器人ETF汇添富(159213)标的指数涨超0.5%！具身智能的“ChatGPT时刻”还有多久?**
+  中文：总结：8月21日，A股机器人板块窄幅震荡，机器人ETF汇添富（159213）标的指数涨超0. 5%。 消息面上，宇树科技将被纳入KraneShares旗下KSTR和KOID两只ETF。 此前宇树正式登陆科创板，上市首日市值一度高达4449. 06亿元，但随后大幅回调。 行业方面，王兴兴在世界机器人大会上指出大模型落地真机极易失效的根源在于缺少海量真实物理交互数据集，并阐释了物理AI机器人自进化概念。 同时，中银证券指出大模型泛化能力不足和高质量数据匮乏是阻碍人形机器人大规模商业化的核心障碍，行业当前整体智能水平多处于L1-L2阶段。
+  📰 [东方财富](https://wap.eastmoney.com/a/202608213849213712.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.21] イザ！ — きもの鈴乃屋、日本橋プラザで開催中の「清鈴苑」にヒューマノイドロボットが来場**
+  日本語：まるやま・京彩グループのきもの鈴乃屋は、8月20日から24日まで日本橋プラザビル3階展示ホールで開催中の展示販売会「清鈴苑」に、ヒューマノイドロボットが特別来場すると発表した。 会場では人間国宝による作品をはじめとする全国各地の染織・刺繍・工芸作品が展示されるほか、ヒューマノイドロボットによるお客様のお出迎えや記念撮影会が5日間限定で実施されている。 また、78周年記念特別価格として五嶋紐の帯留、帯締、帯揚、草履などが数量限定で販売されている。
+  中文：总结：丸山·京彩集团旗下的和服店铃乃屋宣布，人形机器人于8月20日至24日在正在日本桥广场大厦3楼展厅举办的展示售卖会“清铃苑”中特别登场。 会场除了展出人间国宝的作品以及日本全国各地的染织、刺绣、工艺作品外，还限时5天由人形机器人迎接宾客并开展合影留念活动。 此外，作为78周年纪念特价，现场还限量出售五嶋纽的带留、带组、带扬和草履等商品。
+  📰 [イザ！](https://www.iza.ne.jp/pressrelease/prtimes/CFO276G2RVIJVHUE5UNZJW3FIY/)
+
+- **[2026.08.21] 山陽新聞 — 【岡山大学】“坂も、砂利も、段差もある。だから走る価値がある”～岡山大学が地図・許認可・保管・宿泊まで一体支援、吉備中央町に自動配送ロボットの実証フィールドを開設～**
+  日本語：岡山大学学術研究院の長谷井嬢特任教授らは、岡山県吉備中央町を自動配送ロボット・小型モビリティの走行実証フィールドとして整備し、2026年9月1日から11月20日までの期間で参加企業・研究機関の募集を開始した。 吉備中央町は、坂、砂利、段差、通信インフラの弱さといった中山間地域特有の条件を備えており、社会実装に向けた検証の場として機能する。 岡山大学は、参加企業に対して3D点群地図やGNSS自己位置マップの提供、警察手続きの代行、ロボット保管拠点や宿泊補助などの一体支援を提供する。
+  中文：总结：冈山大学学术研究院的特任教授长谷井嬢等人将冈山县吉备中央町打造成自动配送机器人与小型交通工具的行驶验证试验场，并开始招募参与的企业和研究机构，实施时间为2026年9月1日至11月20日。 吉备中央町具备坡道、砂石路、台阶以及通信基础设施较弱等中山间地区的独特条件，可作为迈向社会应用的验证场所。 冈山大学为参与企业提供3D点群地图及GNSS自身定位地图、代办警察手续、机器人存放据点以及住宿补贴等一体化支持。
+  📰 [山陽新聞](https://www.sanyonews.jp/article/1970931)
+
+- **[2026.08.20] LOGISTICS TODAY — アトムと日本精工、国産ヒューマノイドで連携**
+  日本語：M&Aアトムと日本精工は20日、国産ヒューマノイドAIロボットの開発・実装に向けた包括的なパートナーシップに関する基本合意書（MOU）を締結したと発表した。 両社は、日本精工の精密部品開発・量産技術と、アトムのAI・ロボット技術を組み合わせることで、国内で一貫した開発・実装体制の構築を目指す。 具体的には、アクチュエーターの共同検証と、日本精工の製造現場を活用したフィジカルAIデータの共同収集に取り組む。 部品の海外依存を解消し、日本発のヒューマノイドロボット産業基盤の確立を目指すとしている。
+  中文：总结：M&A Atom与日本精工于20日宣布，已就开发与部署国产人形AI机器人签署了关于全面合作伙伴关系的基本意向书（MOU）。 两家公司旨在将日本精工的精密部件开发与量产技术以及Atom的AI与机器人技术相结合，在日国内构建一贯的开发与部署体系。 具体而言，双方将共同验证致动器，并利用日本精工的制造现场共同收集物理AI数据。 此举旨在解决部件对海外的依赖，确立日本本土的人形机器人产业基础。
+  📰 [LOGISTICS TODAY](https://www.logi-today.com/990167)
+
+- **[2026.08.19] projectdesign.jp — ギークプラス 最新ヒューマノイド「Gino」を国内初公開、物流総合展で実機展示**
+  日本語：AI物流ロボットのギークプラスは2026年8月18日、ヒューマノイドロボット「Gino（ジーノ）」を、9月8日から11日まで東京で開催される「国際物流総合展2026」で国内初公開すると発表した。 Ginoは、統合AIフレームワーク「Gravity」を知能基盤に採用し、人間からの複雑な作業指示や周囲の状況を理解して実行手順へ分解できる最新のヒューマノイドロボットである。 手と足を同時に連動させる全身協調制御により作業時間を約30％削減し、多様な形状の荷物の把持やAMRとの連携によるピッキング・搬送の自動化に対応する。
+  中文：总结：AI物流机器人公司Geek+于2026年8月18日宣布，其人形机器人“Gino”将在9月8日至11日在东京举行的“2026国际物流综合展”上进行日本国内首次公开亮相。 Gino采用集成AI框架“Gravity”作为智能基础，是最新的人形机器人，能够理解人类复杂的作业指令及周围环境并将其分解为执行步骤。 通过联动手脚的全身协同控制，该机器人可将单个任务的作业时间缩短约30%，并支持抓取各种形状的货物以及与AMR联动实现拣选和搬运的自动化。
+  📰 [projectdesign.jp](https://www.projectdesign.jp/articles/news/b2a1ce72-02a3-41af-b775-93855888b1c7)
+
+- **[2026.08.21] ニュースメディアVOIX — アトムと日本精工が国産ヒューマノイドAIロボットの発展に向けたMOUを締結**
+  日本語：株式会社アトムと日本精工株式会社は、国産ヒューマノイドAIロボットの開発・実装に向けた包括的なパートナーシップに関する基本合意書を締結した。 この提携は、部品の生産や調達を海外に依存する現状の課題を解消し、日本発のロボット産業基盤の確立に貢献することを目的としている。 両社は、日本精工の精密部品技術とアトムのAI・ロボット技術を融合させ、アクチュエータの共同検証を行うとともに、日本精工の製造現場を活用してアトムのヒューマノイドロボットによるフィジカルAIデータの共同収集に取り組む予定である。
+  中文：总结：株式会社Atom与日本精工株式会社签署了关于开发和部署国产人形AI机器人的基本意向书。 此次合作旨在解决目前零部件生产和采购依赖海外的现状，为确立日本本土的机器人产业基础做贡献。 两家公司将把日本精工的精密零部件技术与Atom的AI和机器人技术相融合，共同验证致动器，并利用日本精工的制造现场共同收集由Atom人形机器人产生的物理AI数据。
+  📰 [ニュースメディアVOIX](https://voix.jp/credit-cards/partnership-for-humanoid-ai-robots/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.20] ロボスタ — アトムと日本精工、国産ヒューマノイドAIロボット産業の発展に向けMOU締結 精密部品技術とフィジカルAIを融合**
+  English: ヒューマノイドAIロボットを手がけるスタートアップの株式会社アトムと、精密部品メーカーの日本精工（NSK）は8月20日、国産ヒューマノイドAIロボット産業の発展に向けた基本合意書（MOU）を締結したと発表した。 両社は、NSKの精密部品開発・量産のケイパビリティと、アトムのAI・ロボット技術を組み合わせ、国内で一貫した開発・実装体制を構築する。 協力の柱として、NSK製のアクチュエータのアトム製ロボットへの搭載による共同検証と、NSKの製造現場を活用したフィジカルAIデータの共同収集を実施し、国産ロボットの性能向上と量産化を目指す。
+  中文：总结：从事人形AI机器人的初创企业株式会社Atom与精密零部件制造商日本精工（NSK）于8月20日宣布，已签署旨在发展国产人形AI机器人产业的基本意向书（MOU）。 两家公司将结合NSK的精密零部件开发与量产能力以及Atom的AI和机器人技术，在日国内构建一贯的开发与部署体系。 作为合作支柱，双方将通过把NSK制造的致动器搭载到Atom机器人的方式进行共同验证，并利用NSK的制造现场共同收集物理AI数据，以提升国产机器人的性能并实现量产。
+  📰 [ロボスタ](https://robotstart.info/article/2026/08/20/382298.html)
+
+- **[2026.08.22] Complex — Galaxy Corporation Is Building a Humanoid Robot K-Pop Idol for a 2027 World Tour**
+  English: Galaxy Corporation founder and CEO Choi Yong-ho announced plans to build a humanoid robot idol and send it on a world tour in the second half of 2027. The robot act will serve as the company's next major touring enterprise following global runs by BIGBANG and Taemin. The announcement builds on Galaxy Corp. 's opening of Galaxy Robot Park in Gangdong District, where three robots built by Hangzhou-based Unitree Robotics perform to music tracks. Choi previously highlighted robotics as the logical next phase of a strategy spanning physical idols and the virtual world.
+  中文：总结：Galaxy Corporation创始人兼首席执行官崔容浩宣布了打造人形机器人偶像并计划于2027年下半年将其送上世界巡演的计划。 继BIGBANG和泰民开展全球巡演后，该机器人演出将成为该公司下一个主要的巡演业务。 这一宣布建立在Galaxy公司在江东区开设Galaxy机器人公园的基础之上，杭州宇树科技制造的三台机器人在该公园随着音乐表演。 崔容浩此前曾强调，机器人技术是涵盖实体偶像和虚拟世界的战略的合乎逻辑的下一阶段。
+  📰 [Complex](https://www.complex.com/music/a/treyalston/galaxy-corporation-robot-kpop-idol-world-tour-2027)
+
+- **[2026.08.22] TechEBlog - — Unitree's New Superman Robot Claims to Outjump and Outrun Every Human, Usain Bolt Included**
+  English: Unitree Robotics posted a video of a bipedal machine named Superman rising from a stance, clearing a two-meter mark, and sprinting at 12. 66 meters per second, outpacing Usain Bolt's 2009 peak of 12. 42 meters per second. The robot stands 170 centimeters tall, weighs 45 kilograms, and features legs measuring 0. 85 meters long. Developed in three months, its lower body has 20 degrees of freedom, powered by in-house permanent magnet motors and sophisticated gearing, with an NVIDIA computing stack and a 90-minute battery life. Unitree recently went public on the Shanghai STAR Market, raising over $900 million in an IPO after selling out 18,000 bipedal robots by the end of July.
+  中文：总结：宇树科技发布了一段名为“Superman”的双足机器人的视频，该机器人在静止站立后腾空跳过两米高度，并以每秒12. 66米的速度冲刺，超过了尤塞恩·博尔特在2009年创下的每秒12. 42米的峰值速度。 该机器人身高170厘米，重45公斤，腿长0. 85米。 它在三个月内开发完成，下半身拥有20个自由度，由自主研发的永磁电机和复杂的齿轮传动系统驱动，配备英伟达计算堆栈，电池续航时间约为90分钟。 宇树科技近期在上海科创板上市，在截至7月底售出18,000台双足机器人后，通过IPO筹集了超过9亿美元资金。
+  📰 [TechEBlog -](https://www.techeblog.com/unitree-superman-robot-running-jumping-record/)
+
+- **[2026.08.21] Investor's Business Daily — JPMorgan Hints At Further Delay For Tesla Optimus Release**
+  English: Production of Tesla's Optimus humanoid robot will begin in the coming months, with commercial sales scheduled for the second half of 2027, according to a note from JPMorgan Chase. Previously, Tesla's forecasts had planned for production to start in the summer, with initial sales kicking off as early as the end of. . .
+  中文：总结：根据摩根大通的一份报告，特斯拉Optimus人形机器人的生产将在“未来几个月”内开始，商业销售则定于2027年下半年。 此前，特斯拉的预测曾计划在今年夏天开始生产，并在最早年底前启动首次销售。
+  📰 [Investor's Business Daily](https://www.investors.com/news/tesla-optimus-robots-elon-musk-tesla-stock/)
+
+- **[2026.08.22] Mashable — Robots running into walls go viral ahead of 2026 World Humanoid Robot Games**
+  English: The second World Humanoid Robot Games will begin this weekend in Beijing, featuring 2056 robots from 666 teams across 16 countries competing in 50 events. The expanded competition includes new athletic events like table tennis and weightlifting, alongside scenario-based events such as power tool assembly and fire rescue. Chinese robotics companies Unitree and X-Humanoid dominated last year's event, and Unitree is positioned to perform well again following the preview of its Superman robot. Preparations have seen viral test runs on the track, highlighting both technological progress and navigation challenges under updated autonomous rules.
+  中文：总结：第二届世界人形机器人大赛将于本周末在北京开幕，来自16个国家666支队伍的2056台机器人将参加50个项目的角逐。 扩大的赛事新增了乒乓球和举重等运动项目，以及电动工具组装和消防救援等场景式项目。 中国机器人公司宇树科技和乐聚机器人主导了去年的赛事，宇树在预览其Superman机器人后有望再次取得佳绩。 备战期间赛道上的测试短片在网上广为流传，凸显了在更新后的自主规则下技术进步与导航挑战并存的现象。
+  📰 [Mashable](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)
+
+
+---
+※AI Robot News Digest | 2026.08.22 | full-text items: 20
