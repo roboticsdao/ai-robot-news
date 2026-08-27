@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.27（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.27] Basic Tutorials — LG and NVIDIA: New Robotics Partnership for Physical AI**
+  English: LG and NVIDIA are expanding their robotics partnership, establishing a Data Factory at LG's research campus in Seoul. The facility spans approximately 10,000 square meters across four floors and aims to gather 100,000 hours of training data for robots by the end of 2026. Following a joint memorandum of understanding signed on August 13, 2026, in Santa Clara, the agreement builds upon a broader AI Factory partnership announced in June. The Data Factory will utilize NVIDIA Omniverse, Cosmos, and Isaac platforms for simulation and robot control, integrating data into LG's Robot Foundation Model and its CLOiD home robot. LG established a Robotics Business Center in July 2026 to coordinate its strategy as it expands from industrial to household robots.
+  中文：总结：LG与英伟达正在扩大其机器人合作伙伴关系，在首尔LG研究园区建立数据工厂。 该设施占地约10,000平方米，共四层，旨在到2026年底为机器人收集约100,000小时的训练数据。 继2026年8月13日在圣克拉拉签署联合谅解备忘录之后，该协议建立在6月宣布的更广泛的AI工厂合作伙伴关系基础之上。 该数据工厂将利用英伟达Omniverse、Cosmos和Isaac平台进行仿真和机器人控制，将数据整合到LG的机器人基础模型和CLOiD家庭机器人中。 LG于2026年7月成立了机器人业务中心，以协调其从工业机器人向家用机器人扩展的战略。
+  📰 [Basic Tutorials](https://basic-tutorials.com/news/lg-and-nvidia-new-robotics-partnership-for-physical-ai/)
+
+- **[2026.08.27] The Globe and Mail — Forget Tesla: 2 AI Robotics Stocks to Buy and Hold Instead**
+  English: Nvidia and Microsoft are highlighted as key physical AI and robotics stocks for long-term investors seeking to tap into the $2. 5 trillion robotics market by 2035. Nvidia CEO Jensen Huang stated that Nvidia currently generates $10 billion in annual physical AI revenue and expects this to reach $100 billion over the next decade, driven by technologies like the GR00T foundation model, the Halo safety system, and the Jetson Thor supercomputer. Meanwhile, Microsoft's Azure cloud revenue accelerated 41% in Q4 2026 ending July 29, reaching $100 billion in annual sales. Fortune Business Insights estimates that the AI cloud market could grow from $133 billion to $780 billion by 2034, with Microsoft holding 21% of the market share.
+  中文：总结：英伟达和微软被认为是长期投资者布局到2035年将达到2. 5万亿美元的机器人市场的关键物理人工智能和机器人股票。 英伟达首席执行官黄仁勋表示，英伟达目前每年产生$10 billion的物理人工智能收入，并预计在未来十年内将达到$100 billion，这得益于GR00T基础模型、Halo安全系统和Jetson Thor超级计算机等技术。 同时，微软截至7月29日的2026财年第四季度Azure云收入加速增长41%，年销售额达到1000亿美元。 财富商业洞察估计，人工智能云市场可能从今年的1330亿美元增长到2034年的7800亿美元，微软占有21%的市场份额。
+  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4154392/forget-tesla-2-ai-robotics-stocks-to-buy-and-hold-instead/)
+
+- **[2026.08.27] NVIDIA Newsroom — AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI**
+  English: Amazon Web Services (AWS) and NVIDIA announced an expanded strategic collaboration to deploy 2 million additional NVIDIA GPUs across AWS’s global infrastructure in 2027-2028, including Blackwell Ultra, Rubin, and Rubin Ultra GPUs. The partnership spans AI factories, CPUs, networking, open models, data processing, and robotics. Key elements include bringing NVIDIA Vera CPU-based infrastructure to AWS, extending NVLink Fusion with custom NVHBM, building a U. S. government AI factory with 100,000 GPUs on secure AWS infrastructure, supporting Nemotron open models on Amazon Bedrock and SageMaker, accelerating data analytics with cuDF and cuVS libraries, and advancing Amazon Robotics' warehouse automation.
+  中文：总结：亚马逊网络服务（AWS）与英伟达宣布扩大战略合作，计划于2027至2028年在AWS全球基础设施中部署200万个额外的英伟达GPU，包括Blackwell Ultra、Rubin和Rubin Ultra GPU。 该合作涵盖人工智能工厂、CPU、网络、开源模型、数据处理和机器人技术。 主要内容包括将基于英伟达Vera CPU的基础设施引入AWS、扩展带有定制NVHBM的NVLink Fusion、在安全的AWS基础设施上为美国政府建造拥有10万个GPU的人工智能工厂、在Amazon Bedrock和SageMaker上支持Nemotron开源模型、使用cuDF和cuVS库加速数据分析，以及推进亚马逊机器人的仓库自动化。
+  📰 [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai)
+
+- **[2026.08.27] simplywall.st — Is BlackBerry’s (TSX:BB) QNX Robotics Push With Nvidia Quietly Redefining Its Core Investment Story?**
+  English: BlackBerry CEO John Giamatteo highlighted that QNX's fastest-growing area is robotics, spanning warehouse robots, robotic forklifts, and medical devices, alongside an expanded partnership with Nvidia to deploy QNX in industrial and medical physical AI applications. BlackBerry keeps AI out of QNX's safety-critical core while using it to speed testing and development for robotaxis, industrial automation, and medical robotics. BlackBerry's financial projections target $762. 3 million in revenue and $139. 7 million in earnings by 2029, requiring a 9. 5% yearly revenue growth and a $79. 9 million earnings increase from the current $59. 8 million, supporting a fair value estimate of CA$11. 36.
+  中文：总结：黑莓首席执行官约翰·贾马托强调，QNX增长最快的领域现在是机器人技术，涵盖仓储机器人、机器人叉车和医疗设备，同时扩大了与英伟达的合作伙伴关系，在工业和医疗物理人工智能应用中部署QNX。 黑莓将人工智能排除在QNX的安全关键核心之外，同时利用人工智能来加速自动驾驶出租车、工业自动化和医疗机器人的测试与开发。 黑莓的财务预测目标是到2029年实现7. 623亿美元的收入和1. 397亿美元的收益，这需要每年9. 5%的收入增长，并从目前的5980万美元增加7990万美元的收益，从而支持11. 36加元的公允价值估值。
+  📰 [simplywall.st](https://simplywall.st/stocks/ca/software/tsx-bb/blackberry-shares/news/is-blackberrys-tsxbb-qnx-robotics-push-with-nvidia-quietly-r)
+
+- **[2026.08.26] finance.biggo.com — Humanoid Robot Climbs Ladders Autonomously: Figure 03 Conquers 4.6-Meter Industrial Ladder**
+  English: Humanoid robotics company Figure AI released a demonstration on August 26 showing its third-generation humanoid robot, Figure 03, autonomously climbing and descending a 4. 6-meter industrial ladder without remote control or pre-recorded trajectories. The robot utilizes the Helix system, where two cameras build a real-time map and a neural network directly computes joint movements, adapting to varying ladder dimensions without modification. Founder and CEO Brett Adcock explained this addresses a real customer use case for accessing mezzanine levels. Figure's previous model, Figure 02, has operated at BMW's Spartanburg plant for over a year, installing over 90,000 parts with more than 1,250 hours of operation.
+  中文：总结：人形机器人公司Figure AI于8月26日发布了一段演示视频，展示其第三代人形机器人Figure 03在没有远程控制或预录轨迹的情况下，自主上下4. 6米高的工业梯子。 该机器人采用Helix系统，通过两个摄像头构建实时地图，神经网络直接计算各关节运动，能够适应不同的梯子尺寸而无需修改。 创始人兼首席执行官布雷特·阿德科克解释说，这满足了到达夹层空间的真实客户使用案例。 Figure的上一代机型Figure 02已在宝马斯帕坦堡工厂运行了一年多，安装了超过90,000个零件，运行时间超过1,250小时。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/47b55e9d-485c-4d55-8e4b-d3ce61e08bb2)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.27] finance.sina.com.cn — 财经观察：硬件短板让美国机器人行业担忧**
+  中文：总结：美国人形机器人行业在软件算法上具优势，但硬件制造环节成为规模化扩张的最大瓶颈，电机、传感器和执行器等关键组件高度依赖中国供应链。 美国近期以国家安全为由出台进口机器人限制措施，切断了获取平价硬件渠道，推高了本土成本并拖慢创新。 美媒报道称，中国制造了全球绝大多数人形机器人，成本更低且供应链密度极高，完全不含中国零部件并不现实。 FCC的机器人禁令预计将使制造成本增加2. 85倍，并对依赖进口机器人的研究实验室和初创企业造成严重打击，长远来看可能适得其反阻碍投资。
+  📰 [finance.sina.com.cn](https://finance.sina.cn/stock/jdts/2026-08-27/detail-iniptafc8996951.d.html?vt=4&cid=76993&node_id=76993)
+
+- **[2026.08.27] bj.chinanews.com.cn — 第二届世界人形机器人运动会落幕 发布多项重磅成果**
+  中文：总结：8月26日晚，第二届世界人形机器人运动会在北京国家速滑馆闭幕。 闭幕式上发布了全球首个世界级人形机器人运动会全量数据集，汇集了12个应用场景、总时长超过2500小时的具身操作数据，将由组委会免费向社会开放。 同时，端侧多模态感知、高速稳定无线通信、手臂与灵巧手的协同等五大揭榜计划面向全球发布。 现场启动了“机器人进校园”活动，北京机器人租赁公司捐赠100台机器人用于教学和训练。 北奥集团还将在国家速滑馆新建3000平方米的场景专训基地，预计今年年底前建成并免费开放。 第三届世界人形机器人运动会将于明年8月在北京举行。
+  📰 [bj.chinanews.com.cn](http://www.bj.chinanews.com.cn/news/2026/0827/103275.html)
+
+- **[2026.08.27] finance.sina.com.cn — 宇树“弟子”赢“师傅”，世界人形机器人运动会自由搏击首金产生**
+  中文：总结：在8月26日举行的第二届世界人形机器人运动会自由搏击赛项40公斤级决赛中，华北电力大学参赛队伍遥控操作宇树科技生产的G1机器人战胜了宇树科技自己的赛队，夺得该项目首枚金牌。 本届比赛不同赛队使用相同的机器人本体，主要比拼算法等方面的二次开发水平。 比赛设多个重量组别，每场共三回合，每回合2分钟。 华北电力大学赛队队长高鑫表示，己方胜在临场发挥、操控精准度以及机器人的快速恢复平衡能力。 他认为机器人运动会促进了基础运动能力的提升，对未来的商业化落地具有实际意义。
+  📰 [finance.sina.com.cn](https://finance.sina.cn/stock/jdts/2026-08-26/detail-inipsezp9188453.d.html?oid=800&vt=4&cid=76993&node_id=76993)
+
+- **[2026.08.27] 21财经 — 21专访丨C资本投资人郑彦斌：人形机器人中国或先爆发 海外家办重估中国市场**
+  中文：总结：C资本投资人郑彦斌在采访中表示，人形机器人赛道正处于发展初期，中国依托完整制造业体系可能率先实现大规模商业化落地，而海外市场随后释放需求。 机械手由于涉及材质、力度和动作的精细识别与控制，有望成为较早形成需求的细分方向。 C资本已参与智元机器人A轮融资、临界点AGILINK A轮融资并投资无界动力等企业。 郑彦斌观察到欧洲和中东部分家族办公室正重新评估中国市场，转向配置中国相关资产。 此外，他认为未来三至五年内，中美在人工智能大模型和人形机器人等领域的企业估值差距将会逐步收窄。
+  📰 [21财经](https://m.21jingji.com/article/20260827/371da5f48c4e8b5c7b8db63f3e48ac36.html)
+
+- **[2026.08.26] 凤凰网财经 — 宇树科技上市四天市值蒸发2000亿，人形机器人谁能跑出商业化闭环**
+  中文：总结：2026年8月19日宇树科技登陆科创板后股价大幅回调，引发市场对人形机器人估值泡沫的关注。 2026年上半年全球人形机器人出货量约1. 91万台，中国厂商占据97%的份额，其中智元机器人出货量约8400台跃升全球第一，宇树科技出货约5900台位居第二，优必选、乐聚机器人、众擎机器人和银河智能紧随其后。 与此同时，行业面临技术突破不及预期、成本高企以及非科研下游真实需求不足三大挑战，约80%的中小初创企业面临出清。 判断企业能否跑出商业化闭环的关键在于非科研类工业商用订单规模、正向经营性现金流以及成本下降速度。
+  📰 [凤凰网财经](https://finance.ifeng.com/c/8vvI5CyfFKc)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.27] 時事ドットコム — 国内初、フィジカルAI清掃ロボット「Loki」のオフィスビル実証を開始**
+  日本語：日鉄興和不動産株式会社と株式会社JDSCは、次世代スマートビルにおけるビルメンテナンス（BM）業務の革新を目指し、スイスのLoki Robotics社製フィジカルAI清掃ロボット「Loki」の国内初となるオフィスビルでの実証実験を開始した。 本実証の推進に向け、日鉄興和不動産グループ、JDSC、ソフトバンクロボティクス株式会社の間で基本合意書が締結されている。 実証の第一フェーズでは、日鉄興和不動産の自社ビルにLokiを導入し、日本のビル環境やトイレ仕様への適合性、稼働オペレーション、遠隔運用体制などを検証する。 各社は、実証を通じて得られた知見をもとに運用設計を共同策定し、他物件や国内他施設への横展開を検討する予定である。
+  中文：总结：日铁兴和不动产株式会社与JDSC株式会社宣布，为革新下一代智能大厦的物业维护业务，开始在日本国内办公楼内首次对瑞士Loki Robotics公司开发的物理AI清洁机器人“Loki”进行实证实验。 为推进该实证，日铁兴和不动产集团、JDSC与软银机器人株式会社已签署基本协议。 在实证的第一阶段，Loki将被引入日铁兴和不动产的自有办公楼，验证其对日本大楼环境及卫生间规格的适应性、运行操作以及远程运营体制。 各方将根据实证成果共同制定运营方案，并探讨向其他物业及国内其他设施推广的可能性。
+  📰 [時事ドットコム](https://www.jiji.com/jc/article?k=000000610.000001379&g=prt)
+
+- **[2026.08.26] PlusWeb3 — Forcesteed Roboticsと産総研、生成AI搭載ロボットの安全性検証 飲食店での実用化へ前進**
+  日本語：2026年8月25日、株式会社Forcesteed Roboticsは産業技術総合研究所（産総研）と共同で、生成AIを搭載した屋内搬送ロボットの安全性に関する研究成果を発表した。 ファミリーレストランの配膳業務を想定し、3Dシミュレーションと実機でリスク分析を実施し、人や障害物への対応、子どもへの反応、従業員と客からの指示を区別する権限管理などを確認した。 検証では、AIの認識や判断の組み合わせにより期待した動作に至らないケースが確認され、実用化には「なぜその判断をしたのか」という説明可能性と安全性の両立が不可欠であることが示された。 今後は異常発生時の復旧や人の行動予測などの追加検証が進められる予定である。
+  中文：总结：2026年8月25日，Forcesteed Robotics株式会社与产业技术综合研究所（产总研）共同发布了关于搭载生成式AI的室内搬运机器人安全性的研究成果。 研究以家庭餐厅送餐为假想场景，通过3D仿真与实机进行了风险分析，确认了对人与障碍物的应对、对儿童动作的反应、以及区分员工与顾客指令的权限管理等情况。 验证发现，由于AI识别与判断的组合，存在未能达到预期动作的情况，这表明在实用化过程中，兼顾“为何做出该判断”的可解释性与安全性至关重要。 今后计划推进异常发生时的恢复及人类行为预测等追加验证。
+  📰 [PlusWeb3](https://plus-web3.com/media/latestnews_1000_10407/)
+
+- **[2026.08.26] ドリームニュース — 日本のサービスロボット市場調査レポート – 世界市場規模、シェア、傾向の見通し、2026-2035年**
+  日本語：SDKI Analyticsの調査レポートによると、日本のサービスロボット市場規模は2025年の約60億米ドルから成長し、2035年には約170億米ドルに達すると予測されている。 予測期間中の年平均成長率（CAGR）は約18. 5%と見込まれている。 市場拡大の主な要因は、医療、高齢者介護、物流分野における急速な自動化の進展や、日本の深刻な労働力不足および人口動態の変化である。 日本政府も経済産業省の「RINGプロジェクト」や自動配送ロボットの公道走行許可などを通じてロボット導入を加速させている。 主要プレーヤーには、ソフトバンクロボティクス、トヨタ自動車、富士通、パナソニック、NECなどが挙げられている。
+  中文：总结：根据SDKI Analytics的调查报告，日本服务机器人市场规模预计将从2025年的约60亿美元增长到2035年的约170亿美元。 预测期内的复合年增长率（CAGR）预计约为18. 5%。 市场扩大的主要因素是医疗、老年护理及物流领域的迅速自动化进展，以及日本严重的劳动力短缺和人口结构变化。 日本政府也通过经济产业省的“RING项目”及允许自动配送机器人上路行驶等措施加速机器人的普及。 主要参与者包括软银机器人、丰田汽车、富士通、松下和NEC等。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000360444)
+
+- **[2026.08.26] Mogura VR — アトムと日本精工、国産ヒューマノイドAIロボットで提携**
+  日本語：株式会社アトムと日本精工株式会社（NSK）は2025年11月設立のスタートアップと精密部品メーカーとして、2026年8月20日に国産ヒューマノイドAIロボットの開発・実装に向けた基本合意書を締結した。 アトムは双腕二足ロボット機体とフィジカルAI基盤モデルを自社開発し、NSKは軸受やボールねじを手がける。 協力の1つ目の柱は、NSK製ヒューマノイド向けアクチュエータをアトムの機体に搭載して共同検証し、性能向上や量産化を目指すことである。 2つ目の柱は、NSKの製造現場でアトムのロボットを稼働させ、フィジカルAIのデータを共同収集して基盤モデルの性能を高めることである。
+  中文：总结：株式会社阿托姆（Atom）与日本精工株式会社（NSK）作为一家2025年11月成立的初创企业与精密零部件制造商，于2026年8月20日就开发和实装国产人形AI机器人签署了基本协议。 阿托姆自主开发双臂双足机器人机体及物理AI基础模型，而NSK则擅长轴承和滚珠丝杠。 合作的第一大支柱是将NSK开发的人形机器人驱动器（作动器）搭载到阿托姆的机体上进行联合验证，旨在提升性能并实现量产。 第二大支柱是在NSK的制造现场运行阿托姆的机器人，共同收集物理AI数据，以提高基础模型的性能。
+  📰 [Mogura VR](https://www.moguravr.com/atom-nsk-humanoid-mou/)
+
+- **[2026.08.26] Yahoo!ニュース — クアルコム、日本にロボット研究拠点設立 トヨタやソニー、ドコモなど日本の大企業群が支援**
+  日本語：Qualcomm Technologiesは2025年8月25日、日本のロボット産業への長期的な投資イニシアチブを立ち上げ、新研究開発拠点「Qualcomm Japan Robotics Center」を設立すると発表した。 支援企業としてトヨタ自動車、ファナック、川崎重工業、ソニー、富士通、NEC、KDDI、NTTドコモ、パナソニック インダストリー、ミネベアミツミ、Preferred Networks、フィックスターズ、カワダテクノロジー、AIロボット協会が名を連ね、学術側では東京大学の福井研究室が参加する。 取り組みの柱は、応用研究・開発、エコシステム拡大、グローバル市場展開アクセラレーター、ライトハウス・イニシアチブの4つである。 なお、投資額やセンターの所在地、開設時期は明らかにされていない。
+  中文：总结：Qualcomm Technologies于2025年8月25日宣布启动对日本机器人产业的长期投资倡议，并将设立新的研发基地“Qualcomm Japan Robotics Center”。 作为支持企业，丰田汽车、发那科、川崎重工业、索尼、富士通、NEC、KDDI、NTT Docomo、松下产业、美蓓亚三美、Preferred Networks、Fixstars、川田科技及AI机器人协会名列其中，学术界则有东京大学福井研究室参与。 该倡议的支柱包括应用研究与开发、生态系统扩大、全球市场拓展加速器以及灯塔计划四个方面。 不过，投资额、基地的具体所在地以及开设时间尚未公布。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/ac1bda104e13137068e2c35578b0da460a141a2b?source=rss)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.27] LOGI-BIZ online — 日本精工とスタートアップのアトム、国産ヒューマノイドAIロボットの開発・実装で連携**
+  English: Japanese precision component manufacturer NSK and Tokyo-based humanoid robot startup Atom announced on August 20 that they signed a Memorandum of Understanding (MOU) for the development and implementation of domestic humanoid AI robots. The partnership combines NSK's expertise in precision components and mass production with Atom's dual-arm bipedal humanoid hardware and physical AI foundation model. The collaboration focuses on two main areas: co-validating NSK's humanoid actuators on Atom's robots to improve performance and accelerate mass production, and jointly collecting real-world physical AI training data by operating Atom's robots within NSK's manufacturing facilities to enhance the foundation model.
+  中文：总结：日本精密零部件制造商精工（NSK）与总部位于东京的人形机器人初创公司Atom于8月20日宣布，双方已签署关于开发和实装国产人形AI机器人的谅解备忘录（MOU）。 该合作将NSK在精密零部件和大规模生产方面的专业知识与Atom的双臂双足人形硬件及物理AI基础模型相结合。 合作重点包括两个主要领域：在Atom的机器人上共同验证NSK的人形机器人驱动器以提升性能并加速量产，以及通过在NSK的制造工厂中运行Atom的机器人来共同收集真实的物理AI训练数据，从而增强基础模型。
+  📰 [LOGI-BIZ online](https://online.logi-biz.com/149335/)
+
+- **[2026.08.27] Electronics Weekly — Humanoid Robot Investment Is Booming**
+  English: According to data from Tracxn, the global market for humanoid robots experienced significant growth in the first half of 2026, with venture investments in humanoid robot start-ups totaling $4. 39 billion. This figure indicates that investment in the first half of 2026 alone surpassed the combined total of the entire previous decade.
+  中文：总结：根据Tracxn的数据，全球人形机器人市场在2026年上半年经历了显著增长，人形机器人初创公司的风险投资总额达到43. 9亿美元。 这一数字表明，仅2026年上半年的投资额就超过了过去整整十年的总和。
+  📰 [Electronics Weekly](https://www.electronicsweekly.com/?p=905664)
+
+- **[2026.08.27] MacDailyNews — Venture capitalist says Tesla’s Optimus robot will eclipse Apple’s iPhone, predicts 1 billion robots by 2036**
+  English: Venture capitalist Jason Calacanis predicted on the This Week in Startups podcast that Tesla's Optimus humanoid robot will surpass the iPhone in value and sales, forecasting 1 billion Optimus robots globally by 2036. Speaking after attending the World Humanoid Robot Games in Beijing where over 2,000 robots from 666 teams competed, Calacanis claimed Tesla's hardware and brain technology are significantly more advanced than competing models. Tesla is replacing Model S and Model X production lines in Fremont with an Optimus line, committing over $20 billion in capital spending for 2026. CEO Elon Musk has noted that scaling Optimus manufacturing will be extremely difficult due to the need for an entirely new supply chain, initially targeting 1 million units annually in Fremont with a larger Texas operation to follow, though others like Ross Gerber and Wang Xingxing remain skeptical.
+  中文：总结：风险投资家杰森·卡拉卡尼斯在《This Week in Startups》播客节目中预测，特斯拉的Optimus人形机器人将在价值和销量上超过iPhone，并预测到2036年全球将有10亿台Optimus机器人。 在参观了北京的世界人形机器人运动会（有来自666支队伍的2,000多台机器人参赛）后，卡拉卡尼斯称特斯拉的硬件和大脑技术明显比竞争型号更先进。 特斯拉正在弗里蒙特工厂用Optimus生产线替换Model S和Model X生产线，并在2026年投入超过200亿美元的资本支出。 首席执行官埃隆·马斯克指出，由于需要全新的供应链，扩大Optimus的制造将极其困难，弗里蒙特工厂最初的目标是年产100万台，随后将在得克萨斯州开展更大规模的运营，尽管罗斯·格伯和王兴兴等其他人对此仍持怀疑态度。
+  📰 [MacDailyNews](https://macdailynews.com/2026/08/26/venture-capitalist-says-teslas-optimus-robot-will-eclipse-apples-iphone-predicts-1-billion-robots-by-2036/)
+
+- **[2026.08.25] finance.biggo.com — Humanoid 'Reality War'... US Battles with Brains and Platforms, China with Mass Production and Exports**
+  English: Tesla is preparing for mass production of its Optimus humanoid robot, Google DeepMind unveiled its Gemini Robotics 2 VLA model to control robots from fingertips to toes, and Nvidia is building the Cosmos and Isaac GR00T physical AI development and simulation ecosystem. Meanwhile, China has entered mass production and global market penetration, with companies like Agibot, Unitree, and UBTech scaling manufacturing. Agibot produced its 15,000th robot in June after rapid output growth, and Unitree offers low-cost models including the G1 starting around $15,000 and the R1 starting around $5,900, while Chinese manufacturers aggressively expand their presence into Europe and the Middle East.
+  中文：总结：特斯拉正为其Optimus人形机器人筹备量产，谷歌DeepMind推出了能够从指尖到脚趾控制机器人的Gemini Robotics 2 VLA模型，英伟达则在构建Cosmos和Isaac GR00T物理人工智能开发与仿真生态系统。 与此同时，中国已进入大规模生产并向全球市场渗透，智元机器人、宇树科技和优必选等公司正在扩大制造规模。 智元机器人在产量快速增长后于6月份生产了第15,000台机器人，宇树科技则提供了低成本机型，包括起售价约15,000美元的G1和起售价约5,900美元的R1，同时中国制造商正积极向欧洲和中东拓展业务。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/4a59194b-52bd-4c3a-ba96-24d843153a22)
+
+- **[2026.08.27] Yahoo Tech — Billionaire Figure AI Founder Brett Adcock Says Meta’s Glasses Are ‘Probably One of the Worst Products I've Ever Bought’**
+  English: Figure AI founder Brett Adcock criticized Meta Platforms' smart glasses on the 'My First Million' podcast, calling them one of the worst products he has bought due to pairing issues, a lack of an independent cellular network, and dependence on an iPhone. Adcock, who founded Figure AI and Hark, a company building AI hardware that raised $700 million in Series A funding at a $6 billion valuation in May 2026, argued that AI language devices and eventually brain-computer interfaces are the future computing platforms rather than glasses. He also downplayed external net worth estimates and discussed the accessory nature of current wearables.
+  中文：总结：Figure AI创始人布雷特·阿德科克在“My First Million”播客中批评Meta平台的智能眼镜是他买过的最糟糕的产品之一，原因在于配对问题、缺乏独立的蜂窝网络以及对iPhone的依赖。 创立了Figure AI以及于2026年5月以60亿美元估值完成7亿美元A轮融资的AI硬件公司Hark的阿德科克认为，人工智能语言设备以及最终的脑机接口才是未来的计算平台，而不是眼镜。 他还淡化了对外部净资产的估计，并讨论了当前可穿戴设备的配件属性。
+  📰 [Yahoo Tech](https://tech.yahoo.com/ar-vr/articles/billionaire-figure-ai-founder-brett-152711388.html)
+
+
+---
+※AI Robot News Digest | 2026.08.27 | full-text items: 20
