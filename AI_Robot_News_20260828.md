@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.28（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.28] finance.biggo.com — Hyundai Eyes Dealership Sales of Boston Dynamics Robots, With Financing Under Review**
+  English: Hyundai Motor Group is exploring selling Boston Dynamics humanoid and quadruped robots through its car dealership network, as stated by CEO José Muñoz during an investor day. Hyundai Capital is examining consumer and commercial financing options for robot purchases. In 2021, Hyundai acquired an 80 percent controlling stake in Boston Dynamics, valuing the company at $1. 1 billion. Boston Dynamics currently sells Spot, an industrial inspection robot, and Stretch, a box-unloading machine. Hyundai plans to mass-produce the Atlas humanoid robot, targeting a factory capacity of 30,000 units annually by 2028, with deployment starting at its Georgia plant. Spot previously started at $74,500. Other automakers, including Tesla, BMW, Mercedes-Benz, and Toyota, are testing or integrating humanoid robots in manufacturing plants. Startups such as 1X and Unitree offer consumer and developer models, while companies deploy robots to address labor shortages and dangerous jobs.
+  中文：总结：现代汽车集团首席执行官何塞·穆ñoz在投资者日上表示，现代正探讨通过汽车经销商网络销售波士顿动力的机器人，并将由现代资本评估机器人购买融资服务。 现代于2021年收购了波士顿动力80%的控股权，当时估值为11亿美元。 目前，波士顿动力销售四足机器人Spot和搬运机器人Stretch。 现代计划大规模生产Atlas人形机器人，目标是在2028年前实现年产30000台，并首先部署在佐治亚州工厂。 Spot曾以74500美元起售。 此外，特斯拉、宝马、梅赛德斯-奔驰和丰田等汽车制造商也在工厂内部署或测试人形机器人，而1X和宇树科技等企业则推出了面向消费或开发者的机型。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/9ea82fd7-1865-4ce4-9ff8-e7438162d043)
+
+- **[2026.08.27] AI Business — Nvidia Targets Physical AI With New Jetson Edge Platform**
+  English: Nvidia introduced the Jetson Orin Nano 2, a new edge AI platform based on Ampere architecture silicon, designed for real-time robotics, drones, and vision AI systems. Expected in the first half of 2027, the Nano 2 delivers twice the performance or up to 40% lower energy consumption than the previous generation. Nvidia vice president Deepu Talla stated that the platform runs small and medium language and vision-language models like Nemotron 3. 5 Lightning at about 115 tokens per second. Initial customers include Cognex, Doosan Bobcat, and Matic. Talla noted that model accuracy has reached a tipping point, allowing complex physical AI to run locally on the Nvidia Jetson runtime computer rather than large data centers. University of Pennsylvania professor Ben Lee and Omdia analyst Alexander Harrowell discussed how improved software stacks and larger small models, shifting from 10 to 100 million parameters to 3 to 8 billion, impact local robotics deployment and engineering costs.
+  中文：总结：英伟达推出了基于安培架构硅片的全新边缘AI平台Jetson Orin Nano 2，旨在实时构建机器人、无人机和视觉AI系统。 该平台预计于2027年上半年上市，性能达到上一代的两倍，或在同等性能下降低高达40%的能耗。 英伟达副总裁Deepu Talla表示，该平台可实时运行Nemotron 3. 5 Lightning等中小型语言和视觉语言模型，速度约为每秒115个token。 初始客户包括康耐视、斗山山猫和Matic。 Talla指出，模型准确率已达到临界点，使复杂的物理AI能够在本地Jetson运行计算设备上运行。 宾夕法尼亚大学教授Ben Lee和Omdia分析师Alexander Harrowell探讨了软件栈改善及小型模型参数从1000万至1亿向30亿至80亿演进对本地机器人部署的影响。
+  📰 [AI Business](https://aibusiness.com/robotics/nvidia-targets-physical-ai-new-jetson-edge-platform)
+
+- **[2026.08.27] The Times of India — Hyundai may sell Boston Dynamics robots through local auto dealers: What CEO has to say**
+  English: During an investor day, Hyundai CEO José Muñoz announced that the company is exploring selling Boston Dynamics humanoid and quadruped robots through its franchised car dealerships. Additionally, Hyundai Capital is assessing consumer financing programs for robotics. This initiative follows Hyundai Motor Group's 2021 acquisition of an 80% controlling stake in Boston Dynamics, valuing the company at $1. 1 billion. Boston Dynamics markets commercial systems including the four-legged Spot for industrial surveying and maintenance, and the wheeled Stretch for cargo unloading. Hyundai uses Spot in its Georgia Metaplant for predictive inspections of Ioniq 5 and Ioniq 9 electric vehicles. Furthermore, Muñoz confirmed preparations for mass-producing Boston Dynamics' flagship humanoid robot, Atlas, which features a 180-degree swiveling torso. This move parallels broader automotive industry efforts by BMW, Toyota, Mercedes-Benz, and Tesla to integrate humanoid robots into factory operations.
+  中文：总结：在投资者日上，现代汽车首席执行官何塞·穆ñoz透露，公司正探讨利用特许经销商网络零售波士顿动力的高级机器人，且金融机构现代资本正评估是否提供机器人消费金融项目。 该规划基于现代汽车集团2021年以11亿美元估值收购波士顿动力80%控股权。 波士顿动力已推出现场勘测的四足机器人Spot和卸货的Stretch。 现代在其佐治亚州 Metaplant工厂使用Spot对Ioniq 5和Ioniq 9电动车进行预测性检查。 此外，穆ñoz确认正在准备量产配备180度旋转躯干的旗舰人形机器人Atlas。 此举与宝马、丰田、梅赛德斯-奔驰和特斯拉在工厂整合人形机器人的行业趋势相呼应。
+  📰 [The Times of India](https://timesofindia.indiatimes.com/technology/tech-news/hyundai-may-sell-boston-dynamics-robots-through-local-auto-dealers-what-ceo-has-to-say/articleshow/133566029.cms)
+
+- **[2026.08.27] Basic Tutorials — LG and NVIDIA: New Robotics Partnership for Physical AI**
+  English: LG and NVIDIA are expanding their robotics partnership, establishing a Data Factory on LG's research campus in Seoul to collect approximately 100,000 hours of robot training data by the end of 2026. This agreement follows an August 13, 2026, memorandum of understanding in Santa Clara and builds on a broader June partnership covering AI infrastructure and autonomous driving. Spanning four floors and 10,000 square meters in Yangjae, Seoul, the Data Factory simulates home environments, Tennessee washing machine manufacturing, and logistics automation. LG's CLOiD home robots will train in these facilities, feeding data into LG's Robot Foundation Model. The initiative utilizes NVIDIA's Omniverse, Cosmos, and Isaac platforms for simulation and control. LG established a Robotics Business Center in July 2026 to coordinate its expansion from industrial to household robots, aiming for a potential bipedal humanoid robot launch in the first quarter of 2027.
+  中文：总结：LG与英伟达正在深化机器人合作，在首尔LG研究园区建立数据工厂，预计到2026年底收集约100000小时的机器人训练数据。 该协议延续了2026年8月13日在圣克拉拉签署的谅解备忘录，并基于6月涵盖AI基础设施和自动驾驶的更广泛合作。 位于首尔良才的数据工厂占地约10000平方米，模拟了家居环境、田纳西州洗衣机制造及物流自动化。 LG的CLOiD家用机器人将在该设施中训练，数据将输入LG的机器人基础模型。 该项目利用英伟达的Omniverse、Cosmos和Isaac平台进行仿真与控制。 LG于2026年7月成立机器人业务中心，以协调从工业向家用机器人的扩展，并计划在2027年第一季度推出首款双足人形机器人。
+  📰 [Basic Tutorials](https://basic-tutorials.com/news/lg-and-nvidia-new-robotics-partnership-for-physical-ai/)
+
+- **[2026.08.27] The Motley Fool — Forget Tesla: 2 AI Robotics Stocks to Buy and Hold Instead**
+  English: Investors seeking exposure to the $2. 5 trillion robotics market by 2035 are advised by the article to consider Nvidia and Microsoft rather than Tesla, whose EV transition and scaling challenges with the Optimus robot present risks. Nvidia is positioned for physical AI through its GR00T open-source foundation model for humanoid robotics, the Halo safety system, and the Jetson Thor supercomputer used by Amazon Robotics and Boston Dynamics. Nvidia CEO Jensen Huang noted that physical AI revenue stands at $10 billion annually, projected to reach $100 billion over the next decade. Meanwhile, Microsoft provides robust cloud infrastructure, with Azure Cloud revenue accelerating 41% in Q4 2026, ending July 29, to reach annual sales of $100 billion. Fortune Business Insights estimates that the AI cloud market will grow from $133 billion to $780 billion by 2034, positioning Microsoft as the second-largest cloud player with 21% of the market.
+  中文：总结：文章建议投资者考虑英伟达和微软，而非特斯拉，以布局到2035年达2. 5万亿美元的机器人市场，因特斯拉向机器人转型及Optimus量产面临风险。 英伟达通过面向人形机器人的GR00T开源基础模型、Halo安全系统以及亚马逊机器人和波士顿动力采用的Jetson Thor超级计算机，在物理AI领域占据优势。 英伟达CEO黄仁勋表示，其物理AI年收入为$100 billion，未来十年将达1000亿美元。 同时，微软提供云基础设施，其截至7月29日的2026财年第四季度Azure云收入加速47%，年销售额达1000亿美元。 Fortune Business Insights预计AI云市场将从今年的$133 billion增长到2034年的$780 billion，微软以21%的市场份额成为第二大云服务商。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/26/forget-tesla-2-ai-robotics-stocks-to-buy-and-hold/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.28] chinanews.com.cn — 中国国家发改委谈机器人产业：防止盲目跟风一哄而上**
+  中文：总结：中国国家发改委新闻发言人李超于8月28日表示，机器人产业须坚持因地制宜、健康有序发展，找准定位，防止盲目跟风、一哄而上。 她指出，机器人在仓库分拣、野外巡检等“脏、乏、险、难”场景中展现出巨大潜力，可实现人机共融。 发改委下一步将以具身智能实训场和应用中试基地为抓手，在数据上构建高质量真机数据采集系统以解决“数据饥渴”，在模型上依托真实场景支持多技术路线探索，在标准上推动建设具身智能技术标准体系以降低适配成本。 同时，鼓励开放真实场景，支持可靠性与安全性测试，加速其在制造、医疗、消费、服务及公共安全等领域的落地应用。
+  📰 [chinanews.com.cn](https://www.chinanews.com.cn/cj/2026/08-28/10685752.shtml)
+
+- **[2026.08.28] 中华网 — 宇树科技机器人海外日租金3000美元 租赁热潮席卷全球**
+  中文：总结：海外人形机器人租赁业务近期走热，美国Robonow Global组建了超50台宇树科技G1的队伍，日租金达3000美元，日本EmplifAI也购入3台G1开展租赁和研发。 与此同时，宇树科技股价近期回调，截至8月27日总市值回落至2488亿元，较上市峰值蒸发近2000亿元。 摩根士丹利预测2050年全球人形机器人将达10亿台，市场规模超5万亿美元。 租赁方看中G1的可定制性与软硬件架构。 此外，第二届世界人形机器人运动会自由搏击赛中，华北电力大学代表队操作宇树G1夺冠。 此前，宇树科技于8月19日在科创板上市，上市首日总市值达4449亿元，成为第二只首日股价破千元的新股。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20260828/49704437.html)
+
+- **[2026.08.28] 华尔街见闻 — 399美元就玩转物理AI！Hugging Face发布“中国造”机器人“微型鸭”，可用强化学习教导摔倒后站起**
+  中文：总结：Hugging Face发布了售价399美元的开源微型双足机器人Microduck（“微型鸭”），由其与Pollen Robotics共同开发，并在中国深圳由Seeed Studio制造。 该机器人高约25厘米，重不到800克，旨在让用户通过强化学习和试错教导其新技能，而非传统预设动作。 Microduck配备摄像头、麦克风、扬声器、Wi-Fi、蓝牙和激光雷达，并采用可活动鸭嘴替代双臂抓取重达800克的物体，能行走、轮滑及摔倒后站起。 Hugging Face CEO Clem Delangue和首席科学官Thomas Wolf旨在推动物理AI普及，目标销量超过2万台，首批产品预计圣诞节前发货。
+  📰 [华尔街见闻](https://wallstreetcn.com/articles/3780491)
+
+- **[2026.08.28] 新浪财经 — “北京没有冰箱，怎么会有机器人？”台湾热议大陆人形机器人运动会**
+  中文：总结：第二届世界人形机器人运动会于8月22日至26日举行，设有田径、举重、拔河等项目，引发台湾网友及媒体热议。 大陆人形机器人展现出极高的灵活性，其中天工Omni以45. 66秒夺得400米小型组金牌，天工Ultra以8. 64秒夺得100米大型组冠军并打破人类百米世界纪录，原地跳高成绩达3. 4米。 台湾评论员指出，这反映出大陆在基础元件、电池、传感器及算法上的协同进步。 产业数据显示，2026年上半年中国人形机器人出货量超4万台，占全球97%，优先布局工业场景。 舆论认为，大陆完备的供应链与丰富的应用场景形成了技术迭代与成本降低的良性循环。
+  📰 [新浪财经](https://finance.sina.com.cn/roll/2026-08-28/doc-inipvrtx4756012.shtml)
+
+- **[2026.08.28] 新浪新闻_手机新浪网 — 国产人形机器人跑出突围加速度**
+  中文：总结：国产人形机器人正从舞台表演和体育竞技加速向工厂干活与家庭服务演进，2026世界机器人大会和第二届世界人形机器人运动会集中展示了这一趋势。 人形机器人被视为具身智能的最佳载体，其行业评判标尺已从炫酷表演转向稳定完成真实任务。 2026年上半年，中国人形机器人出货量超4万台，全球占比达97%，依托完备产业链与丰富场景优势实现快速发展。 不过，产业发展仍需跨过技术可靠性、商业化成本以及真实场景适配能力三道坎，以在长跑中不断提升大脑与身体的综合实力。
+  📰 [新浪新闻_手机新浪网](https://news.sina.com.cn/zx/gj/2026-08-28/doc-inipvmnh0303539.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.28] Yahoo!ニュース — JAL、成田で機体洗浄ロボット 国内初の協働型、夜間作業を支援（Aviation Wire）**
+  日本語：日本航空（JAL）は8月28日、成田空港にリモコン式機体洗浄ロボット「AW3」を導入し、年内の本格運用を開始すると発表した。 機種ごとのプログラム指定による自動アプローチ機能を備えた協働型機体洗浄ロボットの国内航空会社での導入は初となる。 AW3はスウェーデンのAerowash社が開発し、鉛バッテリー駆動と4輪操舵（4WS）を採用しており、全長8メートル、全幅2. 3メートル、全高2. 5メートルの大きさでボーイング737からエアバスA350まで対応する。 カタログ値では1機あたりの使用水量を最大50％削減できる。 従来は夜間に専門スタッフ8人がかりで6時間かけて手作業で行っていたが、ロボット導入により作業員の身体的負担や有機溶剤への接触リスクを軽減する。 JALは1990年代半ば以来約30年ぶりの自動化再挑戦と位置付け、国内他空港への導入も検討する。
+  中文：总结：日本航空（JAL）于8月28日宣布，将在成田空港引入遥控式机体清洗机器人“AW3”，并计划于年内投入正式运营。 这是国内航空公司首次引入具备机型程序指定自动接近功能的协同型机体清洗机器人。 AW3由瑞典Aerowash公司开发，采用铅酸电池驱动和四轮转向，尺寸为长8米、宽2. 3米、高2. 5米，可覆盖从波音737到空客A350等机型。 据产品目录显示，该机器人可将单架飞机的用水量最多减少50%。 此前清洗工作主要依靠夜间8名专业人员耗时6小时手工作业，引入机器人旨在减轻作业人员的身体负担及接触有机溶剂的风险。 JAL将其定位为自20世纪90年代中期以来时隔约30年的再次挑战自动化，并考虑将其推广至国内其他机场。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/a5f0cb3662b4b05b1c21e4070f1ba9592d8039ef)
+
+- **[2026.08.28] sky-budget.com — JAL、国内エアライン初のプログラム制御「機体洗浄ロボット」を成田空港に導入 30年ぶりの自動化再挑戦へ**
+  日本語：日本航空（JAL）は、空港DX推進の一環として、国内エアライン初となるプログラム制御機能を搭載した協働型リモコン式機体洗浄ロボット「AW3」を成田空港に導入し、2026年内の本格運用開始を予定している。 スウェーデンのAerowash社が開発した完全電動のロボット「AW3」は4輪操舵（4WS）を採用し、プログラムで指定された洗浄部位へアームが自動接近する。 機体に近接する最終段階では作業員がタブレット画面を確認しながらリモコンで微調整する仕組みで、ナローボディ機からワイドボディ機まで対応する。 導入により、機体洗浄工数がメーカーカタログ値で1機あたり最大4割削減され、高所作業や有機溶剤への接触リスク、作業員の身体的負担が軽減される。 JALは約30年前の有線リモコン式洗浄機の導入見送り以来の再挑戦とし、今後は国内他空港への導入も検討する。
+  中文：总结：日本航空（JAL）作为推进机场DX的一部分，在成田机场引入了国内航空公司首款搭载程序控制功能的协同型遥控机体清洗机器人“AW3”，计划于2026年内正式投入运营。 由瑞典Aerowash公司开发的纯电动机器人“AW3”采用四轮转向，机械臂可根据程序指定的清洗部位自动接近。 在接近机体的最后阶段，作业人员通过平板电脑确认情况并使用遥控器进行微调，可支持窄体机至宽体机。 通过引入该机器人，制造商产品目录显示每架飞机的清洗工时最多可减少4成，高空作业及接触有机溶剂的风险以及作业人员的身体负担均得以降低。 JAL将其定位为自约30年前放弃有线遥控清洗机以来的再次挑战，并考虑向国内其他机场推广。
+  📰 [sky-budget.com](https://sky-budget.com/2026/08/28/jal-introduces-program-controlled-aircraft-washing-robot-at-narita-airport-a-first-for-a-japanese-airline/)
+
+- **[2026.08.28] PR TIMES — 【技術動向レポート】製造業AI化の壁は暗黙知にあり ― 国内特許動向から見るロボット・FA産業の技術課題と日本企業の勝機**
+  日本語：リーガルテック株式会社は、特許調査プラットフォーム「MyTokkyo. Ai」を活用し、ロボット・FA産業におけるバーティカルAI実装の技術課題に関する調査結果を公開した。 2021年から2025年までの公開情報を対象に分析した結果、「現場データの不足・不統一」「熟練者の暗黙知のデータ化」「AI判断の説明可能性・信頼性」の3つが主要な課題として抽出された。 現場データ統合では、設備ごとの異なるデータ形式や通信仕様が障壁となっており、ファナック、三菱電機、オムロンなどが関連企業として挙げられている。 暗黙知のデータ化では動作模倣学習や強化学習が求められ、安川電機、川崎重工業、パナソニックなどが取り組んでいる。 説明可能AIでは判断根拠の可視化が重要であり、日立製作所、富士通、NECなどが関連する。 直近5年間では暗黙知のデータ化と説明可能AIに関する国内特許出願が増加傾向にある。
+  中文：总结：リーガルテック株式会社利用专利调查平台“MyTokkyo. Ai”，公布了关于机器人及FA产业垂直AI落地技术课题的调查结果。 通过对2021年至2025年公开信息的分析，提取出“现场数据不足与不统一”、“熟练工暗黙知的数字化”、“AI判断的可解释性与可靠性”三大主要技术课题。 在现场数据整合方面，不同设备的通信规范构成了障碍，发那科、三菱电机和欧姆龙等企业被列为相关企业。 在暗黙知数字化方面，动作模仿学习和强化学习受到关注，安川电机、川崎重工和パナソニック等企业正致力于此。 在可解释AI方面，判断依据的可视化至关重要，日立制作所、富士通和NEC等参与其中。 最近5年间，关于暗黙知数字化和可解释AI的国内专利申请呈增加趋势。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000527.000042056.html)
+
+- **[2026.08.28] PR TIMES — GMOインターネットグループ日本ロボット学会 学術講演会（「RSJ2026」）に協賛・出展**
+  日本語：GMOインターネットグループは、GMO AI＆ロボティクス商事、GMO Various Roboticsとともに、2026年9月1日から4日まで金沢大学で開催される「第44回日本ロボット学会学術講演会（RSJ2026）」にダイヤモンドスポンサーとして協賛・出展すると発表した。 会場では、人型ロボット（ヒューマノイド）や四足歩行ロボット、エンドエフェクタの実機展示およびデモンストレーションを行うほか、ロボティクスに関する論文発表やランチスピーカーセッションを実施する。 GMOインターネットグループは、アカデミアと産業界の継続的な連携を通じて、フィジカルAI・ロボティクスの社会実装を推進する狙いがある。 グループ内では、AI研究やヒューマノイドの社会実装支援を行うGMO AIRや、自律走行技術を持つGMO Various Roboticsが連携してフィジカルAI領域の技術開発を加速させている。
+  中文：总结：GMO互联网集团宣布，将与GMO AI＆机器人商事、GMO Various Robotics共同以钻石赞助商身份赞助并参展2026年9月1日至4日在金泽大学举行的“第44届日本机器人学会学术演讲会（RSJ2026）”。 会场上将进行人形机器人、四足步行机器人及末端执行器的实机展示与演示，并举办机器人相关论文发表及午餐演讲会。 GMO互联网集团旨在通过学术界与产业界的持续合作，推进具身AI与机器人技术的社会应用。 集团内部的GMO AIR和拥有自动驾驶技术的GMO Various Robotics正协同加速具身AI领域的Технология开发。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000005502.000000136.html)
+
+- **[2026.08.26] PlusWeb3 — Forcesteed Roboticsと産総研、生成AI搭載ロボットの安全性検証 飲食店での実用化へ前進**
+  日本語：株式会社Forcesteed Roboticsと産業技術総合研究所（産総研）の研究者らは、2026年8月25日、生成AIを搭載したフィジカルAI搭載屋内搬送ロボットの安全性に関する共同研究成果を発表した。 飲食店での配膳業務を想定し、ファミリーレストランをモデルに3Dシミュレーションと実機模擬環境で検証を実施した。 検証では、障害物への対応、子どもの動きへの反応、従業員と来店客からの指示を区別する権限管理などのリスク分析が行われ、生成AIの認識・判断プロセスも分析された。 その結果、環境変化やAIの判断の組み合わせによって期待した動作に至らないケースが確認され、実用化には説明可能性と安全性の両立が鍵であると示された。 今後は異常発生時の復旧時間短縮や人の行動予測などについて追加検証が進められる予定である。
+  中文：总结：株式会社Forcesteed Robotics与产业技术综合研究所（产总研）的研究人员于2026年8月25日发表了关于搭载生成式AI的物理AI室内搬送机器人安全性的共同研究成果。 该研究假设餐厅送餐业务，以家庭餐厅为模型，在3D模拟和实机模拟环境中进行了验证。 验证中对障碍物应对、儿童动作反应及区分员工与顾客指令的权限管理等风险进行了分析，并对生成式AI的识别与判断过程进行了剖析。 结果表明，由于环境变化或AI判断的组合，存在未能实现预期动作的情况，这表明实现实用化需要兼顾可解释性与安全性。 今后计划针对异常发生时的恢复时间缩短及人类行为预测等方面进行追加验证。
+  📰 [PlusWeb3](https://plus-web3.com/media/latestnews_1000_10407/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.28] 日経ビジネス電子版 — 「ASIMO」後にヒューマノイド失速 中国は100社超育成「日本は部品の優位生かせ」**
+  English: At the World Humanoid Robot Games opening on August 22 in Beijing, Chinese humanoid robots recorded 100-meter sprint times surpassing human world records. Japan's sole participating team, from the GMO Internet Group, used Chinese-made hardware. While Japan previously led global robotics with Honda's ASIMO, the event results create an impression that China has surpassed Japan. Waseda University professor and robotics expert Atsuo Takanishi noted that Japan retains strengths in component and elemental technologies, warning that without a sense of urgency, Japan risks falling further behind China. The interview addresses the background behind Japan's humanoid robotics slowdown and China's rapid advancement, exploring the conditions required for Japan to catch up.
+  中文：总结：8月22日在北京开幕的世界人型机器人运动会上，中国的人型机器人创造了超越人类世界纪录的百米短跑成绩。 日本唯一参赛的GMO互联网集团团队也使用了中国制造的机体。 尽管日本曾凭借本田的ASIMO等机器人引领全球，但大会结果显示日本已被中国超越。 早稻田大学教授、机器人研究第一人高西淳夫指出，日本在零部件等基础技术上仍具优势，并警告称若不保持危机感，日本将被中国进一步甩开。 该采访探讨了日本人形机器人失速与中国跃进的背景，以及日本卷土重来所需的条件。
+  📰 [日経ビジネス電子版](https://business.nikkei.com/atcl/gen/19/00005/082700262/)
+
+- **[2026.08.28] Electronics Weekly — Renesas opens humanoid robot lab in Beijing**
+  English: Renesas has opened its Physical AI & Robotics Lab in Beijing to serve as a hub for its physical AI strategy, enabling customers to demonstrate, validate, and co-develop next-generation robotic systems. Established following the creation of the Physical AI Division on July 1, 2026, the lab focuses on humanoids and robotics as key growth areas. Renesas vice president Ivo Marocco noted that the company can currently address about 30% of a humanoid robot's Bill of Materials (BOM) and aims to expand that to 70% leveraging its strengths in control, power, sensing, AI, and software. Yvonne Liu, president of Renesas China, highlighted China's leading role in robotics innovation, ecosystem collaboration, and supply chain infrastructure, noting that the lab will accelerate the engineering implementation of physical AI systems by partnering with customers, universities, and startups. The facility combines hardware, software, AI modeling, control, sensing, and system verification using Renesas platforms like Renesas 365.
+  中文：总结：瑞萨电子在北京开设了物理AI与机器人实验室，作为其物理AI战略的中心枢纽，供客户演示、验证和共同开发下一代机器人系统。 该实验室在2026年7月1日成立物理AI部门后建立，聚焦于人形机器人等关键增长领域。 瑞萨副总裁Ivo Marocco指出，公司目前可涵盖人形机器人约30%的物料清单（BOM），并计划借助在控制、电源、传感、AI和软件方面的优势将覆盖率扩大到70%。 瑞萨中国总裁刘雪楠强调了中国在机器人创新、生态合作及供应链基础设施方面的领先地位，并指出该实验室将通过与客户、高校和初创企业合作，加速物理AI系统的工程落地。 该设施结合了硬件、软件、AI建模、控制、传感以及使用Renesas 365等平台的系统级验证。
+  📰 [Electronics Weekly](https://www.electronicsweekly.com/news/business/rebesas-sets-up-humanoid-robot-lab-in-beijing-2026-08/)
+
+- **[2026.08.28] finance.biggo.com — Tesla's Optimus Begins Production in Fremont as Solar Roof Is Discontinued**
+  English: Tesla has started manufacturing its Optimus humanoid robot at its Fremont, California plant by repurposing space previously used for Model S and Model X assembly. CEO Elon Musk emphasized during an earnings call that scaling production will be extremely difficult because everything on the robot is new, requiring a newly built or in-house supply chain, leading to a long and flat initial production curve. Fremont will serve as a template for mass production at Giga Texas, though high capital commitments exceed $25 billion for 2026. Meanwhile, Tesla has discontinued its integrated Solar Roof product, removing it from its website and shifting its residential energy focus to conventional panels, Powerwall batteries, and Megapack storage. The Solar Roof suffered from poor early installation targets and estimation errors. Conversely, Tesla introduced new conventional solar panels featuring 18 power zones to improve performance under shade, while expanding its energy and robotics initiatives.
+  中文：总结：特斯拉已开始在其加利福尼亚州弗里蒙特工厂制造Optimus人形机器人，改造了原先用于Model S和Model X总装的空间。 CEO埃隆·马斯克在财报电话会议上强调，由于机器人的一切都是崭新的，且需要建立全新的供应链，规模化生产将极为困难，初期产能爬坡曲线将漫长且平缓。 弗里蒙特将作为得州超级工厂大规模生产的模板，2026年的资本投入超过250亿美元。 与此同时，特斯拉已停产集成式太阳能屋顶，将其从官网下架，把住宅能源业务重心转向传统太阳能电池板、Powerwall电池和Megapack储能。 太阳能屋顶此前面临安装目标低和评估错误的问题。 相比之下，特斯拉推出了拥有18个电力分区以改善阴影下性能的新款传统太阳能电池板，并持续扩展其能源与机器人业务。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/d06b5c4e-3277-4934-b164-beffbbbea698)
+
+- **[2026.08.28] Yahoo Finance — Tesla's Optimus Rival Could Be Worth $6 Billion As SoftBank Circles OpenAI-Backed 1X**
+  English: SoftBank Group is reportedly in talks to acquire a majority stake in OpenAI-backed humanoid robot maker 1X Technologies at a valuation of roughly $6 billion, according to The Information. This valuation marks a significant increase from 1X's $375 million pre-money valuation in 2023 and an $820 million valuation in January 2025. 1X's flagship humanoid robot, NEO, is priced at $20,000 outright or $499 per month, primarily for household chores, with the company booking its entire first-year production capacity of 10,000 units within five days. Deliveries in the U. S. are slated to begin in 2026 from its California manufacturing base, though early units will require remote human assistance for harder tasks. OpenAI's Startup Fund previously led a $23. 5 million funding round for 1X in 2023, and SoftBank is a major financial backer of OpenAI with a stake expected to reach 13%. While Tesla works toward a consumer Optimus launch with Polymarket traders assigning low probabilities for a 2026 release, 1X is already taking paid reservations.
+  中文：总结：据The Information报道，软银集团正就以约60亿美元的估值收购OpenAI支持的人形机器人制造商1X Technologies的多数股权进行谈判。 这一估值较1X在2023年3. 75亿美元的估值及2025年1月约8. 20亿美元的估值大幅增长。 1X的旗舰人形机器人NEO售价为20000美元或每月499美元，主要用于家务，该公司在五天内预订完了首年10000台的全部产能。 美国地区的交付计划于2026年在加州制造基地开始，但早期机型在处理较难任务时仍需人类远程协助。 OpenAI初创基金曾于2023年领投1X的2350万美元融资，而软银是OpenAI的主要金主，持股比例预计达13%。 在特斯拉推进消费者版Optimus发布之际（Polymarket交易员认为其2026年发布的可能性较低），1X已开始接受付费预订。
+  📰 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/teslas-optimus-rival-could-worth-184613817.html)
+
+- **[2026.08.28] Fox News — Humanoid robot outruns Usain Bolt record as China races ahead**
+  English: At the opening of the second World Humanoid Robot Games in Beijing, Chinese humanoid robots surpassed Usain Bolt's 100-meter human world record of 9. 58 seconds. An X-Humanoid robot initially clocked 9. 39 seconds before the company announced that TianGong Ultra achieved a 9. 32-second time, with other teams recording times of 9. 34, 9. 38, and 9. 39 seconds. The games, held at the National Speed Skating Oval from August 22 to 26, featured 666 teams and 2,056 robots across 51 events, including track and field, weightlifting, and tug of war. In addition to running, an X-Humanoid robot cleared 2. 88 meters (9 feet 5 inches) in the standing high jump, exceeding the men's world record set by Javier Sotomayor in 1993. These advancements reflect a rapid leap from the previous year's winning time of 21. 50 seconds, showcasing significant improvements in motors, balance systems, sensors, and software coordination.
+  中文：总结：在北京举行的第二届世界人形机器人运动会开幕式上，中国的人形机器人打破了博尔特9. 58秒的百米人类世界纪录。 X-Humanoid机器人最初跑出9. 39秒的成绩，随后该公司宣布天工Ultra创下了9. 32秒的纪录，其他团队也跑出了9. 34秒、9. 38秒和9. 39秒的成绩。 本届运动会于8月22日至26日在国家速滑馆举行，共吸引666支队伍和2056台机器人参加51个项目的比赛，涵盖田径、举重和拔河等。 除短跑外，X-Humanoid机器人在原地跳高项目中达到了2. 88米（约9英尺5英寸），超过了何塞·索托马约尔于1993年创造的男子世界纪录。 这些进展反映出相比去年冠军21. 50秒的成绩实现了巨大飞跃，展示出电机、平衡系统、传感器及软件协调能力的显著提升。
+  📰 [Fox News](https://www.foxnews.com/tech/humanoid-robot-outruns-usain-bolt-record-china-races-ahead)
+
+
+---
+※AI Robot News Digest | 2026.08.28 | full-text items: 20
