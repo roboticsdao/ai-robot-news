@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.08.29（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.08.29] TechCrunch — Chinese automakers are following Tesla’s bet that robots are the next big profit machine**
+  English: Xpeng's robotics unit raised over $900 million at a post-money valuation exceeding $6. 3 billion in a round led by IDG Capital, with participation from Gaorong Ventures, Tencent, and Alibaba. Xpeng founder He Xiaopeng and co-president Brian Gu personally invested about $100 million in the fundraising. Xpeng is developing the Iron humanoid robot for commercial deployment and closely follows Tesla's initiatives. Meanwhile, other automakers are also entering the robotics space: AiMOGA from Chery Automobile is preparing for an IPO, BYD introduced the Xiao Di humanoid robot, and companies including Changan, GAC, Li Auto, SAIC, and Seres are developing humanoids. In the broader industry, Hyundai plans to deploy Boston Dynamics' Atlas robot at its Georgia factory by 2028, Mobileye acquired Mentee Robotics for $900 million, and Rivian created the Mind Robotics spinout.
+  中文：总结：小鹏汽车旗下机器人板块在由IDG资本领投、高榕资本、腾讯和阿里参与的融资中筹集了超过9亿美元，投后估值超过6. 3亿美元。 小鹏创始人何小鹏与联席总裁顾宏地个人向该轮融资投入了约1亿元。 小鹏正在开发面向商业部署的Iron人形机器人，并紧密关注特斯拉的各项举措。 与此同时，其他车企也在进军机器人领域：奇瑞汽车旗下的AiMOGA正筹备IPO，比亚迪推出了名为Xiao Di的人形机器人，长安、广汽、理想、上汽和赛力斯等车企也都在开发人形机器人。 在更广泛的行业中，现代计划于2028年前在其佐治亚州工厂部署波士顿动力公司的Atlas机器人，Mobileye以9亿美元收购了Mentee Robotics，Rivian则分拆成立了Mind Robotics。
+  📰 [TechCrunch](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
+
+- **[2026.08.29] Gadget Review — ICE Plans to Spend Up to $2 Million on Boston Dynamics Robot Dogs**
+  English: U. S. Immigration and Customs Enforcement (ICE) announced a requirement for remotely operated robots to perform inspection, situational awareness, and hazard assessment in dangerous, confined, or hard-to-access environments. The agency plans to spend between $1 million and $2 million on Boston Dynamics Spot units and accessories, with each robot priced at roughly $75,000. Boston Dynamics confirmed that public-safety customers deploy Spot for hazardous gas detection, unexploded ordnance inspection, suspicious package investigation, search and rescue, subterranean exploration, and post-fire structural assessments, while strictly prohibiting weaponization under its ethical principles. The purchase parallels a separate $16. 7 million Department of Homeland Security contract with Compliant Technologies for 6,000 pairs of electric shock gloves described as conductive distraction and de-escalation devices, signaling a broader push toward new field technology without publicly outlined accountability frameworks.
+  中文：总结：美国移民和海关执法局（ICE）宣布需要远程操作的机器人，在危险、狭窄或难以进入的环境中执行检查、态势感知和危险评估任务。 该机构计划花费100万至200万美元用于采购波士顿动力公司的Spot机器人及配件，每台机器人价格约为75,000美元。 波士顿动力公司证实，公共安全客户将Spot用于有害气体检测、未爆弹药检查、可疑包裹调查、搜救、地下勘探以及火灾后结构评估，同时根据其伦理原则严格禁止武器化。 这项采购与国土安全部门另一项价值1,670万美元的合同并行，该合同向Compliant Technologies采购6,000副被称为导电干扰和降级设备的电击手套，这标志着在没有公开阐明问责框架的情况下，执法行动对采用新现场技术的大规模推动。
+  📰 [Gadget Review](https://www.gadgetreview.com/ice-plans-to-spend-up-to-2-million-on-boston-dynamics-robot-dogs)
+
+- **[2026.08.28] finance.biggo.com — Hyundai Eyes Dealership Sales of Boston Dynamics Robots, With Financing Under Review**
+  English: Hyundai Motor Group is exploring selling humanoid and quadruped robots through its car dealership network and having Hyundai Capital examine financing options for robot purchases. Chief Executive José Muñoz stated during an investor day that mass production of the Atlas humanoid robot will soon begin, with a factory targeted to produce 30,000 Atlas units annually by 2028 before deployment at the Georgia plant and global sites. Hyundai previously acquired an 80 percent controlling stake in Boston Dynamics in 2021 in a deal valuing the company at $1. 1 billion, producing the Spot quadruped and Stretch wheeled unloader. Other automakers are also integrating robots, with Tesla installing Optimus lines in Fremont, BMW using Figure robots, Mercedes-Benz testing Apptronik's Apollo, and Agility Robotics partnering with Toyota.
+  中文：总结：现代汽车集团正在探讨通过其汽车经销商网络销售人形和四足机器人，并由现代汽车金融部门研究机器人购买的融资选项。 首席执行官何塞·穆ñoz在投资者日上表示，Atlas人形机器人的大规模生产即将开始，目标是在2028年前建立年产30,000台Atlas机器人的工厂，随后在佐治亚州工厂及全球基地部署。 现代汽车曾在2021年以11亿美元的估值收购了波士顿动力公司80%的控股权，该公司目前生产Spot四足机器人和Stretch轮式卸货机。 其他车企也在整合机器人，特斯拉在弗里蒙特安装Optimus生产线，宝马使用Figure机器人，梅赛德斯-奔驰测试Apptronik的Apollo，Agility Robotics则与丰田达成合作。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/9ea82fd7-1865-4ce4-9ff8-e7438162d043)
+
+- **[2026.08.27] AI Business — Nvidia Targets Physical AI With New Jetson Edge Platform**
+  English: Nvidia introduced the Jetson Orin Nano 2, a new edge AI platform based on a revised Ampere architecture designed for real-time robots, drones, and vision AI systems, with availability expected in the first half of 2027. Initial customers include Cognex, Doosan Bobcat, and Matic. According to Deepu Talla, Nvidia's vice president of robotics and edge AI, the Nano 2 delivers double the performance of the previous generation or up to 40% lower energy consumption at equivalent performance, running small and medium-sized language and vision-language models in real time, such as the Nemotron 3. 5 Lightning model at around 115 tokens per second. Analysts noted that while small multimodal transformers are becoming more common in robotics, memory capacity remains a limiting factor for the hardware.
+  中文：总结：英伟达推出了基于改进版Ampere架构的新型边缘AI平台Jetson Orin Nano 2，旨在为实时机器人、无人机和视觉AI系统提供支持，预计将于2027年上半年上市。 首批客户包括康耐视、斗山山猫和Matic。 据英伟达机器人和边缘AI副总裁Deepu Talla表示，Nano 2的性能是上一代的两倍，或在同等性能下降低高达40%的能耗，能够实时运行中小型语言和视觉语言模型，例如以每秒约115个token运行的Nemotron 3. 5 Lightning模型。 分析师指出，尽管小型多模态Transformer在机器人领域正变得越来越普遍，但内存容量仍然是该硬件的限制因素。
+  📰 [AI Business](https://aibusiness.com/robotics/nvidia-targets-physical-ai-new-jetson-edge-platform)
+
+- **[2026.08.26] scanx.trade — Faraday Future leverages FCC robotics ban to boost US market share**
+  English: Faraday Future Intelligent Electric Inc. reported surpassing 250 cumulative sales, shipments, and deliveries of its humanoid and bionic embodied AI robots since the end of February 2026, positioning itself to benefit from new Federal Communications Commission (FCC) restrictions on China-produced humanoid and quadruped robots. Emerging Growth Research maintained a Buy-Emerging rating and raised its 12-month price target to $30. 00 per share following a 1-for-150 reverse stock split. The company is advancing its 'FourCore Full-Stack AI' ecosystem strategy to build a data-driven evolutionary flywheel and launched a global value-chain partner recruitment drive to scale presence across education, industrial applications, security, and inspection sectors.
+  中文：总结：法拉第未来智能电动公司报告称，自2026年2月底以来，其人形和仿生具身智能机器人的累计销售、出货和交付量已超过250台，使其得以受益于美国联邦通信委员会（FCC）对中国生产的人形和四足机器人的新限制。 在完成1比150的反向股票分割后，新兴成长研究维持了买入-新兴评级，并将12个月的目标价上调至每股30. 00美元。 该公司正在推进“四核全栈AI”生态系统战略，以构建数据驱动的进化飞轮，并启动了全球价值链合作伙伴招募计划，以扩大其在教育、工业应用、安全和检查领域的足迹。
+  📰 [scanx.trade](https://scanx.trade/stock-market-news/companies/emerging-growth-research-raises-faraday-future-target-to-30/46917389)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.08.29] 华尔街见闻 — 瑞银详解宇树科技：人形机器人整机先行者，“小脑”与本体技术领先**
+  中文：总结：宇树科技在两年内将人形机器人年销量从5台推至5,200多台，拿下全球三成出货份额。 8月19日，宇树作为A股首家人形机器人整机上市公司登陆科创板，实际募资60. 99亿元，股价收盘约为150. 8元发行价的四倍。 瑞银详细阐述了宇树在运动控制和硬件领域的领先地位，同时指出AI泛化能力仍是全行业共同的瓶颈。 宇树的研发投资聚焦于具身AI，2026年8月，该公司与DeepSeek达成战略和资本合作，获得93. 34万股战略配售并投资约1. 41亿元，锁定期为36个月。
+  📰 [华尔街见闻](https://wallstreetcn.com/articles/3780624)
+
+- **[2026.08.29] 新浪财经 — 机甲狂欢 机器人赛事点亮成都锦江夜间商圈**
+  中文：总结：8月28日晚，“智启兰桂·机甲狂欢”活动在成都锦江区兰桂坊街区正式启幕，作为2026宇树机器人街头争霸赛暨跨场景全球首发的子活动。 活动现场举行了8支队伍出战的机甲拳击擂台赛、机器人2V2足球赛、机器人舞蹈表演以及赛博潮玩快闪店。 锦江区将这些具身智能赛事植入夜间消费场景，将前沿技术转化为公众可触及的娱乐体验。 此外，宇树科技的研究人员在赛事运行中同步采集真实场景数据，以优化动态捕捉、运动控制和人机协同，推进锦江区打造全国领先的具身智能产业创新高地的战略。
+  📰 [新浪财经](https://finance.sina.cn/stock/jdts/2026-08-29/detail-inipxyyv8745463.d.html?vt=4&cid=76993&node_id=76993)
+
+- **[2026.08.29] 凤凰网 — 人形机器人开始“量利齐升”？优必选上半年全尺寸产品销量921台，营收翻倍**
+  中文：总结：优必选于8月28日发布2026年中期业绩报告，实现营业收入12. 7亿元，同比增长104. 2%；净亏损3. 39亿元，同比收窄23%。 人形机器人总销量达到16,123台，其中全尺寸具身智能人形机器人销量为921台，实现收入5. 9亿元。 整体毛利达到5. 7亿元，毛利率为44. 7%。 研发投入超3亿元，占总收入的23. 9%。 优必选的核心技术包括Thinker具身智能基座模型和Thinker-WM世界模型，并拥有约1,100万条的工业场景数据集。 公司的解决方案已部署在航空制造、3C电子制造、半导体制造、汽车制造和智慧物流等领域。
+  📰 [凤凰网](https://i.ifeng.com/c/8vydSmIu6dI)
+
+- **[2026.08.29] 新浪财经 — 我给宇树机器人“喂”数据**
+  中文：总结：衡水乾途网络科技有限公司已从自动驾驶数据采集转型为具身智能机器人数据标注赛道，为宇树科技提供优质的训练数据。 数据采集员佩戴VR眼镜和手持操作器，记录拿起纸杯、摞好、拧瓶盖等日常动作。 这些动作通过AI算法转化为机器可读的语言，以增强机器人的学习能力。 随着衡水市桃城区被确定为省级数据标注基地试点，当地企业正加紧建设AI大模型数据标注实训系统和业务一体化管理平台，以支持具身智能机器人产业的快速发展。
+  📰 [新浪财经](https://finance.sina.com.cn/jjxw/2026-08-29/doc-inipxkcc8891435.shtml)
+
+- **[2026.08.28] BBC — 中国科技公司新尝试：“性爱”机器人，瞄准“陪伴经济”**
+  中文：总结：在北京的世界机器人大会上，中国科技公司展示了侧重于微表情、触觉和情感陪伴而非工业任务的先进仿生和人形机器人。 优必选展示了定价在119,800元至99万人民币之间的人形机器人，并报告预发布订单达13,361台。 初创公司Somnia正在开发专注于亲密互动的机器人，目标在2027年中交付一款175厘米、20公斤的人形机器人，并利用32个面部灵巧点来模拟微表情。 ZuzuZoos展出了带有温控功能的小型陪伴毛绒挂件。 行业报告估计中国陪伴经济在2025年达到500亿人民币。 与此同时，中国多部门于7月实施了人工智能拟人化互动服务管理暂行办法，禁止有害鼓励、情感操纵以及未成年人无限制访问。
+  📰 [BBC](https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/simp)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.08.29] 河北新報オンライン — ロボットSI普及へ地元の高校生に講座 宮城の登米精巧 「日本の競争力高まる」**
+  日本語：Tomei Seikou, a precision parts processor in Tomei, Miyagi Prefecture, has launched an educational initiative to teach local high school students robot system integration (SI) skills to expand the base of the manufacturing industry. Robot SI involves designing, programming, and managing automated manufacturing systems to enhance efficiency, lower costs, and shorten delivery times. Led by President Koji Goto, the company began conducting hands-on training sessions in mid-July using its robotic systems for 13 students from Tomei Sogo Industrial High School and Furukawa Technical High School, helping them gain technical proficiency and certifications.
+  中文：总结：位于宫城县登米市的精密部品加工企业“登米精巧”发起了一项教育计划，向当地高中生教授机器人系统集成（SI）技术，以扩大制造业的基础。 机器人系统集成涉及设计、编程和管理自动化制造系统，以提高效率、降低成本并缩短交货时间。 在社長后藤康治的带领下，该公司于7月中旬开始利用其机器人系统为来自登米综合産業高校和古川工科高校的共13名学生开展实操培训，帮助他们获得技术熟练度与相关资格认证。
+  📰 [河北新報オンライン](https://kahoku.news/articles/20260828khn000097.html)
+
+- **[2026.08.28] 時事ドットコム — 【技術動向レポート】製造業AI化の壁は暗黙知にあり ― 国内特許動向から見るロボット・FA産業の技術課題と日本企業の勝機**
+  日本語：LegalTech Inc. utilized its MyTokkyo. Ai platform to analyze Japanese patent trends in vertical AI implementation for the robotics and factory automation (FA) industry from 2021 to 2025. The qualitative study identified three major technical challenges: the lack and inconsistency of factory data across different equipment manufacturers, the difficulty of converting skilled workers' tacit knowledge into usable AI data, and the need for explainable and reliable AI decision-making. The research noted an increase in domestic patent filings related to behavior imitation learning, skill transmission, and explainable AI, while data integration technologies continue stable filings focused on standardization and multi-vendor connectivity.
+  中文：总结：リーガルテック株式会社利用其MyTokkyo. Ai平台对2021年至2025年机器人及工厂自动化（FA）行业垂直AI实现的日本专利趋势进行了分析。 该定性研究识别出了三大技术挑战：不同设备制造商之间工厂数据的缺乏与不一致、将熟练工人的暗黙知转化为可用AI数据的难度，以及对可解释且可靠的AI决策的需求。 研究指出，与行为模倣学习、技能传承和可解释AI相关的国内专利申请有所增加，而数据集成技术则继续围绕标准化和多供应商连接保持稳定的申请势头。
+  📰 [時事ドットコム](https://www.jiji.com/jc/article?k=000000527.000042056&g=prt)
+
+- **[2026.08.28] アットプレス — 子どもから大人まで“配管内調査産業用ロボット”で日本一を競う “遊び”から建設設備に触れる 「第5回パイプロボコン全国大会」開催 山形で41名が熱戦 | 株式会社弘栄ドリームワークス**
+  日本語：Koei Dream Works Co. , Ltd. hosted the 5th Pipe Robocon National Competition in Yamagata on August 22-23, 2026. The event featured 41 participants from 12 regional tournaments competing across Normal, Open, and newly established Autonomous classes using 'Mekamogura' hobby robots modeled after actual industrial pipe inspection robots. The competition aims to spark interest in the construction equipment industry among younger generations facing a labor shortage, allowing participants to experience construction technology through play. An 11-year-old boy won both the Normal and Open classes during the tournament.
+  中文：总结：株式会社弘栄ドリームワークス于2026年8月22日至23日在山形举办了第5回管道机器人全国大赛。 来自12个地区赛事的41名参赛者使用以实际工业管道检测机器人为原型的“Mekamogura”爱好机器人，在普通组、公开组和今年新设的自主组中展开竞技。 该赛事旨在面对劳动力短缺时激发年轻一代对建设设备行业的兴趣，让参与者通过游戏体验建设技术。 一名11岁男孩在比赛中同时赢得了普通组和公开组的冠军。
+  📰 [アットプレス](https://www.atpress.ne.jp/news/627003)
+
+- **[2026.08.28] PR TIMES — GMOインターネットグループ日本ロボット学会 学術講演会（「RSJ2026」）に協賛・出展**
+  日本語：The GMO Internet Group, including GMO AI & Robotics Shoji (GMO AIR) and GMO Various Robotics, participated as a diamond sponsor at the 44th Annual Conference of the Robotics Society of Japan (RSJ2026) held from September 1 to September 4, 2026, at Kanazawa University. The group exhibited humanoid robots, quadruped robots, end effectors, and research posters while conducting academic presentations on physical AI, control, and sensing. The initiative supports the group's broader strategy to drive the social implementation of physical AI and robotics through industry-academia collaboration.
+  中文：总结：GMO互联网集团（包含GMO AI & Robotics Shoji与GMO Various Robotics）作为钻石赞助商参加了于2026年9月1日至9月4日在金泽大学举行的第44回日本机器人学会学术演讲会（RSJ2026）。 该集团在现场展示了人形机器人、四足机器人、末端执行器及研究海报，并就具身AI、控制与传感进行了学术发表。 此举旨在通过产学研合作，进一步推动具身AI与机器人技术的社会应用。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000005502.000000136.html)
+
+- **[2026.08.26] ドリームニュース — 日本のサービスロボット市場調査レポート – 世界市場規模、シェア、傾向の見通し、2026-2035年**
+  日本語：According to SDKI Analytics, Japan's service robotics market is projected to reach approximately $17. 0 billion by 2035, growing at a CAGR of roughly 18. 5% from an estimated $6. 0 billion in 2025. Growth is driven by automation demands in healthcare, eldercare, and logistics amid an aging population and severe labor shortages, with 65-and-older individuals comprising about 29. 3% of the population in 2024. Government initiatives like METI's RING project and regulatory adjustments allowing public road operations for autonomous delivery robots are accelerating market expansion. Key market players include SoftBank Robotics, Toyota Motor Corporation, Fujitsu Limited, Panasonic Corporation, and NEC Corporation.
+  中文：总结：根据SDKI Analytics的报告，日本服务机器人市场预计到2035年将达到约170亿美元，在2025年约60亿美元的基础上以约18. 5%的复合年增长率增长。 市场增长由老龄化社会和严重劳动力短缺背景下医疗、养老和物流领域的自动化需求驱动，2024年65岁及以上人口占总人口的约29. 3%。 经产省的RING项目以及允许自动配送机器人上路运营的法规调整等政府举措正在加速市场扩张。 主要市场参与者包括软银机器人、丰田汽车、富士通、松下和日本电气。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000360444)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.08.29] Yahoo!ニュース — ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事（朝鮮日報日本語版）**
+  English: At the World Robot Conference in Beijing, Chinese humanoid robot companies displayed practical household and kitchen capabilities—such as making sandwiches, folding laundry, and washing produce—shifting away from previous stunt-oriented performances. Unitree Robotics held its initial public offering on the Shanghai STAR Market, with its stock price closing up 460% at 845 yuan, giving it a market capitalisation of 4449 billion yuan. Market data indicates Chinese companies accounted for 97% of global humanoid shipments in the first half of the year, with Morgan Stanley forecasting an annual growth rate of 106% through 2030, while other startups like Galbot, AGIBOT, and LEJU Robotics actively pursue public listings.
+  中文：总结：在北京世界机器人大会上，中国人形机器人企业展示了制作三明治、叠衣服和清洗农产品等实用的家庭和厨房功能，从以往以特技为主的表演转变。 宇树科技在上海科创板成功上市，首日收盘上涨460%至845元，市值达到4,449亿元。 市场数据显示，中国企业在上半年占全球人形机器人出货量的97%，摩根斯坦利预测到2030年年增长率为106%，同时Galbot、智元创新科技和乐聚机器人等其他初创企业也在积极推进上市。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/bb4003d24fd6b222c7652d4e37bc2251d86f2d4b)
+
+- **[2026.08.29] Gasgoo — Renesas Opens Physical AI and Robotics Lab in Beijing, Targets 70% Humanoid Robot BOM Coverage**
+  English: Renesas Electronics opened its Physical AI and Robotics Laboratory in Beijing on August 27, offering customers joint development, validation, and demonstration support for robotics systems. The lab covers hardware, AI modeling, power, sensing, and system-level validation to engage customers during early development stages. Renesas reported that its products currently cover about 30% of a humanoid robot's bill of materials (BOM), with a strategic target to increase that ratio to 70% by leveraging its embedded processing, analog, and power technologies. The Beijing location aims to align closely with China's dense robotics supply chain ecosystem.
+  中文：总结：瑞萨电子于8月27日在北京正式开设了具身AI与机器人实验室，为客户提供机器人系统的联合开发、验证和演示支持。 该实验室涵盖硬件、AI建模、电源、传感和系统级验证，旨在早期开发阶段就与客户展开合作。 瑞萨透露，其产品目前覆盖人形机器人约30%的BOM物料清单，其战略目标是通过利用其嵌入式处理、模拟和电源技术将该比例提升至70%。 该北京实验室旨在紧密对接中国密集的机器人供应链生态系统。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/ev/renesas-opens-physical-ai-and-robotics-lab-in-beijing-targets-70-humanoid-robot-bom-coverage-2093366714166497281)
+
+- **[2026.08.28] The Hacker News — Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth**
+  English: Security researcher Olivier Laflamme disclosed two independent root remote code execution (RCE) vulnerabilities affecting the Unitree G1 EDU, tracked as CVE-2026-76639 and CVE-2026-76640. The first flaw involves a path-traversal condition in chat_go that reaches bashrunner to achieve root execution on the Locomotion PC. The second flaw starts from a Bluetooth Low Energy (BLE) proximity connection that bypasses pairing and exploits a cloud authorization gap—where the cloud service accepted valid accounts without verifying robot ownership—to recover key material and trigger a buffer overflow during Wi-Fi provisioning. Unitree patched the cloud account-ownership check in July 2026, though specific fixed firmware release targets remain unverified.
+  中文：总结：安全研究员Olivier Laflamme披露了影响宇树G1 EDU的两个独立根远程代码执行（RCE）漏洞，分别被追踪为CVE-2026-76639和CVE-2026-76640。 第一个漏洞涉及chat_go中的路径遍历条件，该条件可触及bashrunner并在Locomotion PC上实现root代码执行。 第二个漏洞从蓝牙低功耗（BLE）邻近连接开始，绕过配对并利用云端授权漏洞——即云服务接受有效账户但未验证机器人所有权——来恢复密钥材料并在Wi-Fi配置期间触发缓冲区溢出。 宇树已于2026年7月修补了云账户所有权检查，但具体的固定固件发布目标尚未得到证实。
+  📰 [The Hacker News](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+
+- **[2026.08.28] finance.biggo.com — UBTECH Sells 921 Humanoid Robots in H1, Revenue Surges 14-Fold as Losses Narrow Over 20%**
+  English: UBTECH reported its financial results for the first half of 2026, achieving revenue of 1. 27 billion yuan, up 104. 1% year-over-year, and narrowing its net loss by 23% to 339 million yuan. Full-size embodied intelligence humanoid robots generated 590 million yuan in revenue, surging 1,445% with 921 units sold, of which 569 million yuan came from industrial customization and 21. 25 million yuan from education. Overall gross profit increased 160. 9% to 567 million yuan, and gross margin rose 9. 7 percentage points to 44. 7%. R&D expenses grew 38. 9% to 303 million yuan as the company expanded applications into industrial, commercial, and home consumer scenarios. In contrast, traditional intelligent robot product revenue declined 18. 8% to 246 million yuan.
+  中文：总结：优必选发布了2026年上半年财务报告，实现营业收入12. 7亿元，同比增长104. 1%，净亏损收窄23%至3. 39亿元。 全尺寸具身智能人形机器人实现收入5. 9亿元，暴增1,445%，销量达921台，其中5. 69亿元来自工业定制，2,125万元来自教育板块。 整体毛利增长160. 9%至5. 67亿元，毛利率上升9. 7个百分点至44. 7%。 随着公司将应用拓展至工业、商用和家庭消费场景，研发费用增长38. 9%至3. 03亿元。 相比之下，传统智能机器人产品收入则下降18. 8%至2. 46亿元。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/78e6d269-6b49-4973-bdab-365010cdb664)
+
+- **[2026.08.28] Stock Titan — Churchill Capital Corp XI (CCXI) backs humanoid robots with hundreds of millions**
+  English: Churchill Capital Corp XI (CCXI) outlined its proposed business combination with Agility Robotics, valuing the company at $2. 5 billion. The merger is expected to generate approximately $620 million in capital, combining funds from Churchill's SPAC trust and a $200 million PIPE financing led by Foxconn. Agility reported over $390 million in prior funding, current deployments with Amazon and Toyota, and roughly $300 million in committed sales for its Digit v5 robot. The company operates with about 450 employees, a 70,000-square-foot Salem factory with a 10,000-robot annual capacity, and a 60,000-square-foot training facility in Fremont. The transaction remains subject to a future shareholder vote and an effective Form S-4 registration statement.
+  中文：总结：丘吉尔资本十一期（CCXI）概述了其与Agility Robotics拟议的业务合并，对该公司的估值为25亿美元。 该合并预计将筹集约6. 2亿美元资金，结合了丘吉尔的SPAC信托基金以及由富士康领投的2亿美元PIPE融资。 Agility报告称拥有超过3. 9亿美元的前期融资，目前在亚马逊和Toyota部署了机器人，并为其Digit v5机器人获得了约3. 03亿美元的承诺销售额。 该公司拥有约450名员工、一座面积达70,000平方英尺且年产10,000台机器人的塞勒姆工厂，以及一座位于弗里蒙特的60,000平方英尺训练设施。 该交易仍有待未来的股东投票表决以及生效的S-4表格注册声明。
+  📰 [Stock Titan](https://www.stocktitan.net/sec-filings/CCXI/425-churchill-capital-corp-xi-business-combination-communication-b851ac627e86.html)
+
+
+---
+※AI Robot News Digest | 2026.08.29 | full-text items: 20
