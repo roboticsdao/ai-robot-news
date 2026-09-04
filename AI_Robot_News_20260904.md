@@ -1,0 +1,119 @@
+# 🤖 AI Robot News | 2026.09.04（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.04] News On Japan — Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI**
+  English: Japanese startup Enactic is developing physical AI technology that integrates artificial intelligence with robotic hardware, creating robots controlled by AI-powered brains. Enactic's robots can perform everyday tasks like putting a cover on a pillow and placing a spoon inside a container, learning these movements by recording actions first performed by a person using a mechanical arm through human demonstrations. Distinctly, Enactic publicly releases its developed technology rather than seeking patents and direct profits, using feedback to further improve its systems. The startup has earned recognition from Nvidia, the U. S. semiconductor company with the world's largest market capitalization, as Japan seeks to advance its capabilities in the emerging physical AI field.
+  中文：总结：日本初创企业Enactic正在开发将人工智能与机器人硬件相结合的具身AI技术，打造由AI驱动大脑控制的机器人。 Enactic的机器人能够完成诸如给枕头套上套子以及将勺子放入容器中等日常任务，这些动作是通过记录人类使用机械臂首次执行的动作来学习的。 通过人类示范教学，机器人可以学会重现相同的动作。 Enactic的另一个显著特点是决定公开发布其开发的技术，而不是寻求专利和直接利润，而是利用过程中生成的信息和反馈进一步改进其系统。 随着日本寻求推进其在快速新兴的具身AI领域的实力，该初创企业已获得拥有世界最大市值的美国半导体公司Nvidia的认可。
+  📰 [News On Japan](https://newsonjapan.com/article/150618.php)
+
+- **[2026.09.04] wixx.com — AI cloud firm Nscale commits compute worth $3.5 billion for Figure’s robotics ambitions**
+  English: AI cloud firm Nscale signed a multi-year deal on Thursday to provide compute resources for humanoid robotics company Figure’s AI models and robots. Nscale will initially commit $3. 5 billion in compute resources for Figure, with initial graphics processing units targeted for deployment starting in the second half of 2027 in Barstow, Texas. Nscale plans to scale the computing investment to more than $6 billion. Through the deal, Nscale will become a Figure shareholder and its preferred compute provider, powering the next generation of Figure’s Helix models and humanoid robotics. The companies will also explore scaling Nscale’s supply chain with humanoids, and Nscale intends to potentially deploy up to 100,000 Nvidia chips for Figure.
+  中文：总结：AI云公司Nscale于周四签署了一项多年期协议，为人形机器人公司Figure的AI模型和机器人提供计算资源。 Nscale将初步为Figure投入3. 5亿美元的计算资源，初始图形处理单元计划从2027年下半年开始在德克萨斯州巴stow部署。 Nscale计划将计算投资规模扩大到60亿美元以上。 通过该协议，Nscale将成为Figure的股东及其首选计算提供商，为Figure下一代Helix模型和人形机器人提供动力。 两家公司还将探讨利用人形机器人扩展Nscale的供应链，Nscale打算为Figure潜在部署多达100,000枚Nvidia芯片。
+  📰 [wixx.com](https://wixx.com/2026/09/03/ai-cloud-firm-nscale-commits-compute-worth-3-5-billion-for-figures-robotics-ambitions/)
+
+- **[2026.09.04] Nscale — Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI**
+  English: Nscale, a full-stack AI cloud platform, has signed a multi-year strategic partnership with humanoid robotics company Figure to deploy the NVIDIA Vera Rubin platform with up to 100,000 NVIDIA GPUs. The deployment starts in the second half of 2027 in Barstow, Texas, with an initial commitment of $3. 5 billion of compute and the intent to scale to over $6 billion. Nscale becomes a Figure shareholder and preferred compute provider to power Figure's Helix models and humanoid robotics, while making a strategic investment in Figure. Nvidia CEO Jensen Huang noted the partnership activates the robotics flywheel, training models on NVIDIA Vera Rubin, validating them in NVIDIA Isaac Sim, and deploying them on NVIDIA GPUs. Figure founder and CEO Brett Adcock highlighted that the AI model Helix becomes more capable with more data and compute.
+  中文：总结：全栈AI云平台Nscale已与人形机器人公司Figure签署多年期战略合作伙伴关系，计划部署搭载多达100,000枚NVIDIA GPU的NVIDIA Vera Rubin平台。 部署于2027年下半年在德克萨斯州巴stow开始，初始计算承诺为3. 5亿美元，并意图扩展至60亿美元以上。 Nscale将成为Figure的股东和首选计算提供商，以驱动Figure的Helix模型和人形机器人，同时对Figure进行战略投资。 Nvidia首席执行官Jensen Huang指出，该合作启动了机器人飞轮，在NVIDIA Vera Rubin上训练Figure的模型，在NVIDIA Isaac Sim中进行验证，并部署在NVIDIA GPU上。 Figure创始人兼首席执行官Brett Adcock强调，AI模型Helix随着更多数据和计算而变得更有能力。
+  📰 [Nscale](https://www.nscale.com/press-releases/nscale-and-figure)
+
+- **[2026.09.04] AI Insider — Nscale, Figure Sign $3.5B Humanoid Robot Compute Deal**
+  English: Nscale signed a multi-year partnership with humanoid robotics company Figure that could deploy up to 100,000 Nvidia GPUs, beginning with a $3. 5 billion compute commitment to support Figure’s next generation of humanoid robots. The agreement could scale beyond $6 billion, with initial Nvidia Vera Rubin GPUs targeted for deployment in Barstow, Texas, beginning in the second half of 2027. Nscale will become Figure’s preferred compute provider and a shareholder while making a strategic investment without a disclosed dollar amount. Nscale will provide power, the computing platform, and the orchestration layer while integrating Nvidia AI infrastructure to support Figure’s models from training through deployment. Both companies will also explore using humanoid robots to help scale Nscale’s supply chain.
+  中文：总结：Nscale与人形机器人公司Figure签署了一项多年期合作伙伴关系，可能部署多达100,000枚Nvidia GPU，首先以3. 5亿美元的计算承诺支持Figure下一代人形机器人。 该协议规模可能扩展至超过$6 billion，最初的Nvidia Vera Rubin GPU计划于2027年下半年开始在德克萨斯州巴stow部署。 Nscale将成为Figure的首选计算提供商和股东，同时进行未披露具体金额的战略投资。 Nscale将提供电力、计算平台和编排层，同时集成Nvidia AI基础设施，以支持Figure模型从训练到部署的全过程。 两家公司还将探讨使用人形机器人来帮助扩展Nscale的供应链。
+  📰 [AI Insider](https://theaiinsider.tech/2026/09/03/nscale-figure-sign-3-5b-humanoid-robot-compute-deal/)
+
+- **[2026.09.04] PR Newswire — FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026**
+  English: FANUC America will showcase manufacturing automation powered by Physical AI at IMTS 2026, demonstrating how robots, cobots, and CNC technologies improve productivity and flexibility. Industry leaders including Google Cloud, NVIDIA, and AWS are working with FANUC. A featured demonstration with Google Cloud shows AI agents interpreting handwritten instructions to direct robots, while CRX Vibe Coding uses natural-language commands to generate Python code and robot programs. Google Cloud's Praveen Rao noted that combining FANUC robotics with Gemini Enterprise allows robots to perceive environments and execute complex tasks alongside human workers. Additional demonstrations include a dual-arm CRX-5iA connector assembly application using vision and force data, intelligent bolt tightening using Inbolt tracking and NVIDIA-powered processing with a CRX-20iA/L and R-30iB Mini Plus Controller, and AI-driven machining solutions. FANUC will also feature digital twin and virtual commissioning suites, including CNC Reflection Studio, CNC Guide 2, Surface Estimation, Tool Path Optimizer, and Smart Digital Twin Manager, to help manufacturers simulate and optimize processes before installation.
+  中文：总结：FANUC America将在IMTS 2026上展示由具身AI驱动的制造自动化，演示机器人、协作机器人和CNC技术如何提高生产力和灵活性。 包括Google Cloud、NVIDIA和AWS在内的行业领导者正与FANUC合作。 与Google Cloud合作的一个特色演示展示了AI agents解释手写指令以指导机器人，而CRX Vibe Coding则使用自然语言命令生成Python代码和机器人程序。 Google Cloud的Praveen Rao指出，将FANUC机器人技术与Gemini Enterprise相结合，使机器人能够感知环境并在人类工人旁边执行复杂的任务。 其他演示包括使用视觉和力数据的双臂CRX-5iA连接器组装应用、使用Inbolt跟踪和Nvidia驱动处理以及CRX-20iA/L和R-30iB Mini Plus控制器的智能螺栓紧固，以及AI驱动的机械加工解决方案。 FANUC还将展示数字孪生和虚拟调试套件，包括CNC Reflection Studio、CNC Guide 2、Surface Estimation、Tool Path Optimizer和Smart Digital Twin Manager，以帮助制造商在安装前模拟和优化流程。
+  📰 [PR Newswire](https://www.prnewswire.com/news-releases/fanuc-america-brings-robotics-automation-physical-ai-and-cnc-innovation-to-imts-2026-302869146.html)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.03] 新浪财经 — 养老迎来新帮手！优必选仿生医疗机器人发布，硬件+医疗强强联合**
+  中文：总结：优必选与麦迪科技联合发布了一款面向养老康养赛道的仿生医疗机器人，推出了造型贴近真实医护人员的男、女两个形象版本。 优必选负责打造具备微表情和灵活关节的人形机身，麦迪科技则内置了老年综合评估系统作为“大脑”，涵盖疾病监测、多重用药安全、慢性疼痛评估等10项老年慢病管理核心维度。 该机器人主打居家、社区、医疗机构三类场景，能通过毫米波雷达为独居老人无感监测体征并进行基础健康评估。 近期行业内还发生了宇树G1于7月远程完成活体动物胆囊切除术并在《Nature》发表论文，以及5月上海金山推出“金小医”机器人辅助护士上门诊疗等事件。 观察人士认为这标志着行业从噱头走向真实的临床能力，但公众围绕定价和医保覆盖等问题仍存讨论。
+  📰 [新浪财经](https://finance.sina.com.cn/wm/2026-09-03/doc-iniqqfvq1060454.shtml)
+
+- **[2026.09.03] 雷峰网 — 全栈自研+生态协同：灵心巧手与产业链核心伙伴共建中国具身智能Tier1产业联盟**
+  中文：总结：2026年9月2日，由灵心巧手与星源智共同发起，联合奥比中光、法奥机器人、禾赛科技等20余家产业链核心企业组成的“中国具身智能Tier1产业联盟”正式成立。 联盟成员覆盖具身大脑、灵巧手、语音交互、视觉感知、激光雷达、机械臂、移动底盘、无线通信和传感器等关键环节。 面对硬件接口不统一、数据孤岛及依赖海量训练数据等挑战，联盟旨在推动跨硬件适配、跨本体部署和场景验证三大主轴。 灵心巧手作为创始成员，贡献了具备多维感知的Linker Hand系列灵巧手、Linker Open TeleDex遥操作系统、LinkerSkillStore技能库、Linker Genesis大模型以及UMI-Dex开源灵巧操作数据采集方案，助力打通具身智能从实验室走向工业、物流和零售等真实场景的闭环。
+  📰 [雷峰网](https://www.leiphone.com/category/robot/JjxeXP5ggz1y4t36.html)
+
+- **[2026.09.03] Sohu — 美国市场首只中国人形机器人ETF上市**
+  中文：总结：Defiance ETFs在纳斯达克推出了Defiance中国人形机器人ETF（代码CROB），这是美国市场首只专注于中国人形机器人的ETF。 该ETF为海外投资者提供中国相关企业的投资敞口，这些企业专注于人形机器人所需技术的研发、制造与供应，涵盖AI驱动的机器人技术、运动控制系统、精密执行器以及自动化解决方案。 指数供应商Solactive表示，中国已在机器人与自动化领域形成了广泛的制造与零部件生态。 合格公司须总部位于中国并在沪港深上市，满足自由流通市值与成交量要求。 Defiance ETFs首席投资官Sylvia Jablonski指出，人形机器人是中国继电动车、光伏和电池之后的下一个战略布局。 前十大成份股包括绿的谐波、汇川技术、领益智造、三花智控、麦格米特、恒立液压、拓普集团、立讯精密、宁德时代和卧龙电驱，而美国上市的ETF KOID也已纳入宇树科技。
+  📰 [Sohu](https://www.sohu.com/a/1071510864_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.03] 新浪财经 — 交付大考将至！优必选情感陪伴机器人U1拿奖背后，康养布局前路几何**
+  中文：总结：8月26日，优必选超仿生人形机器人U1在香港举办的MedTech World Awards 2026亚太医疗科技颁奖典礼上荣获“人工智能驱动医疗创新奖”，并亮相MedTech World Asia 2026。 尽管获得奖项认可，U1的量产交付仍面临质疑。 在6月30日发布会上，优必选宣布U1系列全渠道订单突破13361台，但由于定金全额可退，尾款支付率存在不确定性。 此外，由于仿生硅胶皮肤良品率低和微型伺服舵机受供应链约束，万台规模量产面临极大产能挑战，京东旗舰店客服称下单后60天可发货。 优必选股价自发布会高点已回撤超20%。 与此同时，优必选与麦迪科技合资成立的苏州优麦（推出康养版仿生医疗机器人）在2025年7月将注册资本由2000万元减资至1000万元，麦迪科技持股比例提升至70%，优必选持股被稀释至30%。
+  📰 [新浪财经](https://finance.sina.com.cn/tech/roll/2026-09-03/doc-iniqpzpu2019388.shtml)
+
+- **[2026.09.03] 驱动之家 — 全球出货量第一、率先规模盈利 宇树科技登陆A股锚定具身智能产业坐标**
+  中文：总结：宇树科技于8月19日正式登陆科创板，成为A股“人形机器人第一股”，首日收盘大涨460%，发行市值达610亿元。 财务数据显示，公司2023年至2025年营业收入从1. 59亿元增至16. 99亿元，扣非后归母净利润从亏损转为盈利5. 91亿元，毛利率提升至60. 13%。 2025年人形机器人业务收入占比约51%，出货量超5500台，累计四足机器人销量超3. 3万台。 宇树坚持本体及核心部组件全栈自研，涵盖关节模组、计算平台、运动控制及灵巧手等，实现了人形与四足机器人的技术复用与成本控制。 公司此次IPO募资近半数将投向“智能机器人模型研发”，重点布局WMA与VLA架构的UnifoLM-X1-0工业级具身大模型。
+  📰 [驱动之家](https://news.mydrivers.com/1/1148/1148520.htm)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.03] 株式会社インプレス — 近畿大学とパナソニック コネクト、マダイ稚魚の選別作業に協働ロボット「Robo Sync for Cobot」を試験導入**
+  日本語：Kindai University Fisheries Research Laboratory, Kindai University Aquaculture Seedling Center, Kindai University startup armarin Kinki, and the Panasonic Connect Group announced the trial introduction of the collaborative robot control service 'Robo Sync for Cobot. ' The service allows no-code control of collaborative robots and peripheral equipment from multiple manufacturers. The collaboration focuses on improving Kindai University's automated sorting device for red sea bream fry in aquaculture settings, aiming to streamline and automate sorting, reduce work burden, and shorten the technology transfer period. Kindai University Fisheries Research Laboratory has a long history of red sea bream aquaculture research since the 1960s. Currently, expert workers visually and manually sort fry to remove morphological abnormalities and poor-growth specimens, a process this initiative seeks to improve.
+  中文：总结：近畿大学水产研究所、近畿大学水产养殖种苗センター、近畿大学发端初创企业アーマリン近大以及パナソニック コネクト集团宣布，将试引入该集团提供的协同机器人控制服务“Robo Sync for Cobot”。 该服务能够以无代码方式控制多家制造商的协同机器人及周边设备。 此次合作致力于改良近畿大学开发中的红海豚稚鱼自动选别装置，以推进养殖现场红海豚稚鱼选别的平准化与自动化，旨在减轻工作负担并缩短技术传承时间。 近畿大学水产研究所自20世纪60年代起便拥有悠久のマダイ养殖研究历史，目前出货时主要由专业工蜂通过目视和手工挑选去除形态异常或生长不良的个体，该项举措有望改善这一流程。
+  📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2138044.html)
+
+- **[2026.09.01] 株式会社Preferred Networks — マウス尾静脈自動注射システム AUTiv が日本ロボット学会「実用化技術賞」を受賞**
+  日本語：Five members of Preferred Networks' Health & Wellness team won the 31st Practical Technology Award from the Robotics Society of Japan for developing 'AUTiv,' an automated mouse tail vein injection system. Animal experiments require adherence to the 3Rs principles (Reduction, Refinement, Replacement), but processes like drug administration remain largely unautomated. Tail vein injection in mice is challenging and failure-prone, causing stress to researchers and animals alike. AUTiv is the world's first robotic system to perform autonomous needle insertion and drug administration in non-anesthetized mice using high-resolution RGB stereo cameras, deep learning-based vein recognition, precision positioning stages with two-stage calibration, and force-controlled injection. Developed through a joint research project with Chugai Pharmaceutical started in 2020, AUTiv has been licensed to Sumitomo Pharma America and manufactured by Natsume Seisakusho, with domestic sales launched in Japan in 2024.
+  中文：总结：Preferred Networks健康与wellness团队的五名成员因开发“小鼠尾静脉自动注射系统AUTiv”而荣获日本ロボット学会第31回实用化技術賞。 动物实验需遵循3Rs原则（减少、优化、替代），但给药等过程的自动化程度仍然有限。 小鼠尾静脉注射极具挑战且易失败，给研究人员和动物带来精神与身体负担。 AUTiv是全球首个在非麻醉下对小鼠尾静脉进行自动注射针穿刺和药液给药的机器人系统，整合了高分辨率RGB立体相机、基于深度学习的静脉识别器、具有两阶段校准功能的精密定位平台以及力控制注射。 AUTiv源于Preferred Networks与中外制药自2020年开始的共同研究，后授权给住商ファーマインターナショナル，并由夏目製作所作为制造合作伙伴于2024年在日本国内开始销售。
+  📰 [株式会社Preferred Networks](https://www.preferred.jp/ja/blog/tech/autiv-technical-innovations-award)
+
+- **[2026.09.01] PR TIMES — FastLabel、一般社団法人日本ロボット学会に入会**
+  日本語：FastLabel, a company supporting the development of robot foundation models and domain-specific VLA models, has joined the Robotics Society of Japan and will exhibit at RSJ2026 (the 44th Annual Conference of the Robotics Society of Japan) held from September 1 to 4, 2026, at Kanazawa University. FastLabel promotes the social implementation of physical AI by supporting data-centric AI development, including data collection, simulation environment construction, and model development support. Through open-source applications like 'OpenLUTRA'—designed to streamline robot learning data collection and quality verification—the company aims to expand the engineering base for physical AI research. At its booth during RSJ2026, FastLabel will display a semi-humanoid robot and run demonstrations of OpenLUTRA, illustrating the data collection flow from real robots to the cloud.
+  中文：总结：支持机器人基础模型及领域专用VLA模型开发的FastLabel株式会社宣布加入一般社团法人日本ロボット学会，并将于2026年9月1日至4日在金沢大学角间キャンパス自然科学本馆举办的“RSJ2026（第44回日本ロボット学会学術講演会）”上参展。 FastLabel通过提供高质量数据、数据管道及数据管理基准的构建，致力于推动フィジカルAI的社会实现。 公司通过公开用于高效收集和分析机器人学习数据的开源应用“OpenLUTRA”，致力于扩大フィジカルAI研发工程师的基础。 在RSJ2026展会上，FastLabel将展示半人形机器人实机，并演示OpenLUTRA的功能，呈现从实机机器人到云端无缝连接的数据收集流程。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000208.000065427.html)
+
+- **[2026.09.03] ｄメニューニュース — 静岡・裾野市とトヨタが協定…配送ロボットの実証 トヨタ開発の「COCOMO｣で市役所〜図書館間の500mを結ぶ**
+  日本語：Shizuoka Prefecture's Susono City and Toyota Motor East Japan have signed an agreement to conduct public road demonstrations of an autonomous delivery robot named 'COCOMO. ' Developed by Toyota, the robot features a space equivalent to a shopping basket, can carry up to approximately 10 kilograms, follows a set route, and is supported by remote operators during emergencies. The pilot will operate between the Susono City Hall and the local library, covering a distance of about 500 meters, with user interviews conducted to explore future utilization. Susono City Mayor Yu Murata expressed hope that the trial will help solve challenges faced by local governments and the nation.
+  中文：总结：静冈县裾野市与丰田汽车东日本已签署协议，将开展配送机器人“COCOMO”的实证试验。 该由丰田开发的自律走行配送机器人拥有相当于一个购物篮的空间，可承载约10公斤物品，按设定路线行驶，并在紧急情况下由远隔监视的操作员进行应对。 实证试验计划在裾野市政府与图书馆之间约500米的距离内运送物品，并将对使用者进行访谈以探索未来的应用可能。 裾野市长村田悠对该协议的签署表达了期待，希望其能有助于解决地方自治体和国家所面临的课题。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/amp/article/look/region/look-96987)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.03] IEEE Spectrum — What Robotics Experts Think of Tesla’s Optimus Robot**
+  English: Following Tesla's September 30, 2022 unveiling of its Optimus humanoid robot prototypes, robotics experts from academia and industry offered diverse reactions. While Tesla aimed to advance its humanoid robotics program, experts noted that the physical and behavioral prototypes shown were less advanced than previous demonstrations from other systems like Honda's Asimo from 20 years ago. However, commentators highlighted the potential benefits of affordable and accessible hardware powered by electric motors and battery support for academic research. Researchers emphasized that solving general manipulation tasks remains a significant challenge requiring more advanced solutions beyond current hardware capabilities.
+  中文：总结：在特斯拉于2022年9月30日推出其Optimus人形机器人原型后，来自学术界和工业界的机器人专家们给出了不同的反应。 虽然特斯拉展示了其人形机器人项目，但专家指出，所展示原型机器人的物理和行为表现不如本田20年发布的Asimo等早期系统。 不过，评论人士强调了电动马达和电池支持带来的价格低廉且易获取的硬件对学术研究的潜在价值。 研究人员强调，解决通用操作任务仍然是一个重大挑战，需要超越当前硬件能力的更先进解决方案。
+  📰 [IEEE Spectrum](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/gary-marcus)
+
+- **[2026.09.02] finance.biggo.com — UBTECH first-half revenue doubles to 1.27 billion yuan as humanoid robot shipments near last year's full-year total**
+  English: UBTECH reported its 2026 interim results, showing total revenue surged 104. 1% year-on-year to 1. 27 billion yuan (approximately $189. 3 million). Full-size humanoid robot revenue jumped 1,445% to 590 million yuan (approximately $87. 9 million), with shipments reaching 921 units—amounting to 85% of its total 2025 shipments. Total humanoid shipments including non-full-size models reached 16,123 units, up 268. 3% year-on-year. The full-size humanoid segment achieved a 66. 8% gross margin, contributing 390 million yuan in gross profit, while overall net loss narrowed to 339 million yuan (approximately $50. 5 million). Industrial customers accounted for 96. 4% of full-size humanoid revenue (569 million yuan), anchored by clients such as Honda Trading, BYD, Geely, Foxconn, and Airbus, deploying Walker S2 and Cruzr S2 models. Meanwhile, revenue from general-purpose intelligent educational robots and consumer products declined 18. 8% to 246 million yuan.
+  中文：总结：优必选发布2026年中期业绩，上半年总营收同比增长104. 1%至12. 7亿元（约合1. 893亿美元）。 其中全尺寸人形机器人业务收入暴增1,445%至5. 9亿元（约合8790万美元），出货量达到921台，已达2025年全年的85%。 包含非全尺寸型号在内的人形机器人总出货量达到16,123台，同比增长268. 3%。 全尺寸人形机器人板块毛利率达66. 8%，贡献3. 9亿元毛利，整体净亏损收窄至3. 39亿元（约合5050万美元）。 工业客户占全尺寸人形机器人收入的96. 4%（5. 69亿元），主要客户包括Honda Trading、比亚迪、吉利、富士康和空客等，部署了Walker S2和Cruzr S2型号。 同时，通用智能教育机器人及消费品业务收入同比下降18. 8%至2. 46亿元。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/cef9b139-8d70-405f-80a3-5583c5254aea)
+
+- **[2026.09.02] TechNave — HONOR Robotics D1 humanoid robot in Malaysia’s National Day Parade shows off unreleased X9e Pro**
+  English: The HONOR Robotics D1 humanoid robot participated in Malaysia’s National Day celebrations and the Malaysia Marathon 2026 on August 30, running a 10KM route from Pavilion Kuala Lumpur past iconic landmarks. This marked the robot's first appearance outside China, following its world record set at the Beijing Yizhuang Humanoid Robot Half Marathon with a time of 50 minutes and 26 seconds and a top speed of 14. 5 meters per second. Alongside the robot's appearance, HONOR provided an official sneak peek of the unreleased HONOR X9e Pro smartphone in dark purple, and hosted interactive activities such as the HONOR Magic V6 Strongman Challenge at Dataran Putrajaya.
+  中文：总结：荣耀机器人D1人形机器人于8月30日参加了马来西亚国庆庆典和2026年马来西亚马拉松，完成了从吉隆坡柏威年广场出发、途经多处标志性地标的10公里长跑。 这是该机器人在中国境外的首次公开亮相，此前它曾在北京亦庄人形机器人半程马拉松中以50分26秒、最高时速14. 5米/秒创下世界纪录。 除了机器人的亮相，荣耀还首次官方预览了尚未发布的深紫色荣耀X9e Pro智能手机，并在布特拉广场举办了荣耀Magic V6大力士挑战赛等互动活动。
+  📰 [TechNave](https://technave.com/gadget/HONOR-Robotics-D1-humanoid-robot-in-Malaysia-s-National-Day-Parade-shows-off-unreleased-X9e-Pro-47366.html)
+
+- **[2026.09.03] Analytics Insight — Humanoid Robots Entering the Workplace**
+  English: Humanoid robots are increasingly entering the workplace to support manufacturing, warehouse, and logistics operations. Companies such as BMW, Mercedes-Benz, Tesla, Figure AI, and Agility Robotics are developing and testing humanoid robots for repetitive assembly, material movement, parts sorting, and inspection tasks. These machines are designed to assist workers by handling physically demanding and repetitive activities across industrial environments, while human workers manage judgment-heavy responsibilities.
+  中文：总结：人形机器人正逐渐进入工作场所，以支持制造、仓库和物流运营。 宝马、奔驰、特斯拉、Figure AI和Agility Robotics等公司正在开发和测试人形机器人，用于重复性装配、物料搬运、零件分类和检查任务。 这些机器旨在通过处理工业环境中的体力要求高且重复性强的活动来协助工人，而人类工人则负责需要大量判断力的职责。
+  📰 [Analytics Insight](https://www.analyticsinsight.net/ampstories/robotics/humanoid-robots-entering-the-workplace)
+
+- **[2026.09.03] Exoswan Insights — Top Humanoid Robot Stocks 2026: The Pure-Plays Are Here**
+  English: The humanoid robot stock market has expanded beyond Tesla, featuring pure-plays like Unitree Robotics, which listed on China's STAR Market in August 2026 after shipping over 5,500 humanoids in 2025 with a 60% gross margin, and UBTech Robotics, which has traded in Hong Kong since December 2023. Additionally, Agility Robotics is pursuing a US listing via a SPAC merger with Churchill Capital Corp XI. Integrated giants like Tesla continue to develop the Optimus robot internally for factory tasks and broader workplace applications, while trend forecasters like TrendForce expect global shipments to exceed 50,000 units in 2026.
+  中文：总结：人形机器人股票市场已超越特斯拉，出现了纯正标的，例如于2026年8月在中国科创板上市的宇树科技，其在2025年出货超过5500台人形机器人且毛利率达60%，以及自2023年12月起在香港交易的优必选科技。 此外，Agility Robotics正通过与Churchill Capital Corp XI进行SPAC合并推进美国上市。 诸如特斯拉等集成巨头继续内部开发Optimus机器人以用于工厂任务和更广泛的工作场所应用，而TrendForce等趋势预测机构预计2026年全球出货量将超过50,000台。
+  📰 [Exoswan Insights](https://exoswan.com/humanoid-robot-stocks)
+
+
+---
+※AI Robot News Digest | 2026.09.04 | full-text items: 19
