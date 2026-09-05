@@ -13,110 +13,110 @@
 
 
 - **[2026.09.05] digitimes — Interview: Agility Robotics CTO discusses the future of collaborative humanoid robotics**
-  English: As investors and the public grow excited about the rising capabilities of humanoid robots, robot makers working to turn lab innovations into real-world commercial tools face a key bottleneck: safety.
-  中文：总结：随着投资者和公众对人形机器人日益增长的功能感到兴奋，机器人制造商在将实验室创新转化为现实世界的商业工具时，遇到了一个核心瓶颈：安全性。
+  English: Investor and public excitement is growing around the capabilities of humanoid robots as makers attempt to turn lab-built innovations into commercial tools. However, as Agility Robotics' CTO and industry developments highlight, a major bottleneck has emerged surrounding safety requirements as companies transition these systems into real-world environments.
+  中文：总结：随着人形机器人能力的不断提升，投资者和公众对其兴趣日益增长，各大机器人制造商也正试图将实验室里的创新成果转化为实际的商业工具。 然而，正如Agility Robotics首席技术官及行业发展所凸显的那样，随着公司将这些系统推向真实世界环境，安全需求已成为一个关键的瓶颈。
   📰 [digitimes](https://www.digitimes.com/news/a20260831VL209/robotics-robot-commercial.html)
 
 - **[2026.09.05] TechEBlog - — Agility’s Digit V5 Humanoid Robot Walks Out of the Cage, Redecorates Room**
-  English: Agility Robotics demonstrated its Digit V5 humanoid robot rearranging a room, showing generalized manipulation in human spaces. The V5 is designed to leave enclosed locations behind, using cameras, sensors, and software to monitor humans and ensure safety. The machine features a payload increased to 50 pounds, a 7. 2-foot arm reach, and roughly 20 hours of battery life. Agility has lined up major customers and is moving toward a $2. 5 billion valuation and $620 million in funding via a merger with Churchill Capital Corp XI, expected to close later this year under the symbol AGLT.
-  中文：总结：Agility Robotics展示了其Digit V5人形机器人在房间内重新布置家具，展现了在人类空间中的通用操作能力。 V5旨在离开封闭场所，通过摄像头、传感器和软件来监控人类并确保安全。 该机器人的负载增加到50磅，手臂触及范围达7. 2英尺，续航时间约为20小时。 Agility已获得多家主要客户，并通过与Churchill Capital Corp XI的合并推进25亿美元的估值和6. 2亿美元的融资，预计今年晚些时候完成交易并以股票代码AGLT进行交易。
+  English: Agility Robotics showcased its Digit V5 humanoid robot rearranging a room in a recent demo, highlighting generalized manipulation capabilities. The V5 model is scheduled for shipping delivery to early customers in December, moving beyond enclosed locations using enhanced cameras, sensors, and safety software like NVIDIA's IGX Thor computer and Halos platform. The V5 features an increased payload of 50 pounds, a 7. 2-foot arm reach, and roughly 20 hours of battery life on a single charge. Agility has accumulated over 65,000 hours across nine customer sites with existing Digits, and has lined up major customers including Schaeffler, GXO, Toyota Motor Manufacturing Canada, Mercado Libre, and Amazon. The company is also in talks for multi-year orders worth $300 million for 1,000 units. To fund scaling, Agility announced a merger with Churchill Capital Corp XI, giving the company a $2. 5 billion valuation and bringing in $620 million, including a roughly $200 million PIPE led by Foxconn, with the transaction expected to close later this year under the symbol AGLT.
+  中文：总结：Agility Robotics最近发布了一段演示视频，展示其Digit V5人形机器人重新布置房间，凸显了通用操作能力。 V5型号计划于12月向早期客户交付，通过增强的摄像头、传感器以及诸如NVIDIA的IGX Thor计算机和Halos平台等安全软件，走出封闭场所。 V5的负载已从以往模型的35磅增加到50磅，手臂触及范围延伸至7. 2英尺，单次充电续航时间约为20小时。 现有Digit机器人在九个客户站点累计运行已超过65,000小时，并已锁定Schaeffler、GXO、加拿大丰田汽车制造厂、Mercado Libre和Amazon等大客户。 该公司还在洽谈价值3. 0亿美元、共计1,000台的多年期V5订单。 为了资助规模化发展，Agility宣布与Churchill Capital Corp XI进行合并，使公司估值达到25亿美元并引入6. 2亿美元资金，其中包括由富士康领投的大约2亿美元的PIPE投资，该交易预计于今年晚些时候完成，股票代码为AGLT。
   📰 [TechEBlog -](https://www.techeblog.com/agility-digit-humanoid-robot-redecorating-room/)
 
 - **[2026.09.04] Engineering.com — Nscale and Figure partner on humanoid robot AI computing**
-  English: Nscale signed a multi-year strategic partnership with humanoid robotics company Figure to deploy up to 100,000 NVIDIA GPUs, potentially utilizing the NVIDIA Vera Rubin platform. The initial systems are targeted for deployment in Barstow, Texas, starting in the second half of 2027, with an initial compute commitment of $3. 5 billion and intentions to scale beyond $6 billion. Nscale will become a Figure shareholder and its preferred compute provider to power Figure's Helix models and humanoid robotics.
-  中文：总结：Nscale与人形机器人公司Figure签署了一项多年期战略合作协议，计划部署多达10,0000个NVIDIA GPU，并可能采用NVIDIA Vera Rubin平台。 首批系统计划于2027年下半年开始在德克萨斯州巴斯托部署，初始计算承诺为3. 5亿美元，并计划扩展至60亿美元以上。 Nscale将成为Figure的股东及其首选计算提供商，为其Helix模型和人形机器人提供动力。
+  English: Nscale signed a multi-year strategic partnership with humanoid robotics company Figure to deploy up to 100,000 NVIDIA GPUs, potentially utilizing the NVIDIA Vera Rubin platform. The initial systems are targeted for deployment in Barstow, Texas, starting in the second half of 2027, backed by an initial compute commitment of $3. 5 billion and the intent to scale past $6 billion. As part of the agreement, Nscale will become a Figure shareholder, Figure's preferred compute provider to power its Helix models and humanoids, and make a strategic investment in the company.
+  中文：总结：Nscale与人形机器人公司Figure签署了一项多年期战略合作伙伴关系，计划部署多达10万个NVIDIA GPU，并可能采用NVIDIA Vera Rubin平台。 首批系统计划从2027年下半年开始在德克萨斯州巴斯托部署，初始计算承诺为3. 5亿美元，并意图扩展至超过60亿美元。 作为协议的一部分，Nscale将成为Figure的股东以及Figure的首选计算提供商，为其Helix模型和人形机器人提供算力支持，并对该公司进行战略投资。
   📰 [Engineering.com](https://www.engineering.com/nscale-and-figure-partner-on-humanoid-robot-ai-computing/)
 
-- **[2026.09.04] theglobeandmail.com — Faraday Future advances U.S. robotics localization and compliance**
-  English: On August 27, 2026, Faraday Future’s robotics division FF AI-Robotics Inc. entered into a 12-month consulting agreement with AIBOT Inc. for FCC and related compliance support at a fee of $25,000 per month, terminable at will. The related-party transaction was approved by the board's audit committee, with an August 2026 amendment setting specific timelines for compliance and U. S. localization deliverables under the "Built in USA" strategy.
-  中文：总结：2026年8月27日，法拉第未来的机器人部门FF AI-Robotics Inc. 与AIBOT Inc. 签订了一项为期12个月的咨询协议，以获得FCC及相关合规支持，费用为每月25,000美元，可随时终止。 这笔关联交易经董事会审计委员会批准，2026年8月的修正案为“美国制造”战略下的合规和美国本土化交付物设定了具体时间表。
-  📰 [theglobeandmail.com](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4444888/faraday-future-advances-u-s-robotics-localization-and-compliance/)
+- **[2026.09.04] The Globe and Mail — Faraday Future advances U.S. robotics localization and compliance**
+  English: Faraday Future's robotics division, FF AI-Robotics Inc. , entered into a 12-month consulting agreement with AIBOT Inc. on August 27, 2026, for FCC and related U. S. localization and compliance support at $25,000 per month. The deal is a related-party transaction that was approved by the audit committee and amended in August 2026 to set specific timelines for deliverables such as risk registers, localization roadmaps, and supplier compliance packages, reinforcing the company's 'Built in USA' strategy. The company disclosed the consulting pact and its engagement in the FCC public comment process on September 2, 2026. Faraday Future Intelligent Electric has an average trading volume of 785,788, a sell technical sentiment signal, and a current market cap of $8. 13 million.
+  中文：总结：法拉第未来的机器人部门FF AI-Robotics Inc. 于2026年8月27日与AIBOT Inc. 达成了一项为期12个月的咨询协议，每月费用为25,000美元，以获得FCC及相关的美国本土化与合规支持。 该交易是一项关联方交易，已获得审计委员会批准，并于2026年8月进行了修订，为风险登记册、本土化路线图和供应商合规包等交付成果设定了具体时间表，从而巩固了该公司的“美国制造”战略。 该公司于2026年9月2日在投资者新闻稿中披露了该咨询协议及对FCC公众意见征询过程的参与。 法拉第未来智能电气的平均交易量为785,788，技术情绪信号为卖出，当前市值为813万美元。
+  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4444888/faraday-future-advances-u-s-robotics-localization-and-compliance/)
 
 - **[2026.09.04] PR Newswire — FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026**
-  English: FANUC America will showcase manufacturing innovations at IMTS 2026, demonstrating how Physical AI brings together advanced CNC technologies, machining automation, and robotics to improve productivity and flexibility. Collaborating with Google Cloud, NVIDIA, and AWS, FANUC will display AI-powered applications, such as a dual-arm CRX-5iA connector assembly and intelligent bolt tightening using Inbolt tracking technology. Additionally, FANUC will feature digital twin and virtual commissioning suites like CNC Reflection Studio and Tool Path Optimizer to simulate and optimize processes before installation.
-  中文：总结：发那科美国公司将在IMTS 2026上展示制造创新，演示物理AI如何将先进的CNC技术、机加工自动化和机器人技术结合起来，以提高生产力和灵活性。 通过与Google Cloud、NVIDIA和AWS合作，发那科将展示由AI驱动的应用，例如双臂CRX-5iA连接器装配以及使用Inbolt追踪技术的智能螺栓紧固。 此外，发那科还将展示数控反射工作室（CNC Reflection Studio）和刀具路径优化器（Tool Path Optimizer）等数字孪生和虚拟调试套件，以在安装前模拟和优化流程。
+  English: FANUC America will showcase manufacturing automation at IMTS 2026 by integrating CNC technologies, robotics, and Physical AI to enhance productivity and flexibility. Collaborating with industry leaders like Google Cloud, NVIDIA, and Amazon Web Services, FANUC will demonstrate AI applications including Google Cloud's Gemini Enterprise integration for interpreting handwritten instructions and natural-language commands for Python code generation through Vibe Coding. Additional demonstrations feature a dual-arm CRX-5iA connector assembly application, intelligent bolt tightening using Inbolt tracking and NVIDIA processing, and AI-driven CNC machining solutions like optimal toolpath generation and autonomous failure recovery. Furthermore, FANUC highlights its digital twin and virtual commissioning suite—including CNC Reflection Studio, CNC Guide 2, Surface Estimation, Tool Path Optimizer, and Smart Digital Twin Manager—to simulate, validate, and optimize machining and robotic workflows before physical installation.
+  中文：总结：发那科美国公司将在IMTS 2026上通过整合CNC技术、机器人技术和具身AI来展示制造自动化，以提高生产力和灵活性。 通过与Google Cloud、NVIDIA和亚马逊云科技等行业领袖合作，发那科将展示AI应用，包括利用Google Cloud的Gemini Enterprise集成来解读手写指令，以及通过Vibe Coding利用自然语言命令生成Python代码。 其他演示还包括双臂CRX-5iA连接器装配应用、使用Inbolt追踪和NVIDIA处理的智能螺栓紧固，以及诸如优化刀具路径生成和自主故障恢复等AI驱动的CNC加工解决方案。 此外，发那科重点展示了其数字孪生与虚拟调试套件——包括CNC Reflection Studio、CNC Guide 2、Surface Estimation、Tool Path Optimizer和Smart Digital Twin Manager——以便在物理安装之前对加工和机器人工作流程进行模拟、验证和优化。
   📰 [PR Newswire](https://www.prnewswire.com/news-releases/fanuc-america-brings-robotics-automation-physical-ai-and-cnc-innovation-to-imts-2026-302869146.html)
 
 
 ## 🇨🇳 中国 / China
 
 
+- **[2026.09.05] 发现报告 — 未知机构:《广发纺服 涉机器人业务上市公司 产业链更新 20260903》**
+  中文：总结：特斯拉的Optimus Gen-3已启动小规模量产，弗里蒙特工厂已完成原Model S/X产线改造并建设了专用生产线。 首批产品将优先投入特斯拉内部工厂用于物料搬运和辅助装配，以持续采集真实场景数据来迭代AI算法与硬件可靠性。 Gen-3重点升级了灵巧手、FSD纯视觉感知、运动平衡及续航能力，特斯拉计划在工厂积累数据后逐步拓展至家用场景，面向消费者的家庭版本目标于2027年底推出，长期目标为实现百万级年产能。 同时，优必选的超仿生人形机器人U1于8月26日获MedTech World Awards 2026“人工智能驱动医疗创新奖”，该机器人搭载自研Resonance-LM情感大模型，并配置仿生颈椎结构、面部肌腱网络及主动自由度，可实现情感陪伴、眼球跟踪等功能，面向情绪支持、养老陪伴等医疗康养场景，且优必选已与麦迪科技联合推出优麦机器人康养版，拓展医疗康养应用布局。
+  📰 [发现报告](https://www.fxbaogao.com/detail/5671764)
+
 - **[2026.09.05] 朝鮮日報中文版 — “便宜且能立即购买”…中国人形机器人每月售出 100 台，快速渗透全美**
-  中文：总结：美国宇树科技的官方合作公司Toborlife AI在北美市场开展业务一年内已拥有近1000家客户，显示中国产人形机器人正在迅速铺开。 Toborlife AI进口宇树科技的机器人后安装自主研发的软件或根据需求进行训练。 美国客户主要为大学、研究机构和初创企业，购买原因包括难以一睹美国本土机器人真容以及中国机器人高性价比的优势，例如宇树科技代表性机器人G1价格约为1万6000美元。 随着普通企业客户需求增加，Toborlife AI计划今年下半年在洛杉矶和拉斯维加斯开设办公室，有分析认为中国产人形机器人有望成为全球市场的标准平台。
+  中文：总结：宇树科技的官方合作公司、初创企业Toborlife AI首席执行官大卫·舒尔霍夫表示，在北美市场开展业务仅一年便拥有近1000家客户，中国人形机器人的需求远大于供应。 2024年成立的Toborlife AI进口宇树科技的机器人后，为其安装自主研发的软件或根据客户需求进行训练。 美国购买中国制造机器人的客户多为大学、研究机构和初创企业，原因在于美国本土人形机器人极难见到且价格昂贵。 宇树科技代表性机器人“G1”价格约为1万6000美元（约合2400万韩元），主要面向B2B销售，具备压倒性的性价比优势。 随着普通企业客户需求扩大，Toborlife AI计划今年下半年在洛杉矶和拉斯维加斯开设办公室。 分析认为，中国产人形机器人有望在全球市场上成为实际上的标准平台。
   📰 [朝鮮日報中文版](https://cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate=M1003&nNewsNumb=20260765018&nidx=65019)
 
 - **[2026.09.05] Sohu — The First "China Humanoid Robot ETF" Debuts on Nasdaq: Wall Street Bets Big on Chinese Robot Components**
-  中文：总结：2026年9月，美国主题ETF发行商Defiance ETFs在纳斯达克推出了CROB，这是美国首只专门聚焦中国人形机器人的ETF，反映了全球资本对中国机器人供应链的青睐。
+  中文：总结：2026年9月，美国主题型ETF发行商Defiance ETFs在纳斯达克推出了CROB，这是美国首只专注于中国人形机器人的ETF。 这一上市表明全球资本正在对中国机器人供应链投下赞成票。
   📰 [Sohu](https://m.sohu.com/a/1072026670_121361416?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
 
 - **[2026.09.04] 新浪财经 — 美国推出首只中国人形机器人ETF！什么信号？A股科技板块继续承压，机器人ETF汇添富(159213)指数收跌1.8%，全天小幅吸金！**
-  中文：总结：9月4日，A股机器人板块承压，机器人ETF汇添富（159213）指数收跌1. 8%。 美国主题型及杠杆型ETF发行商Defiance ETFs推出美国首只专注于中国人形机器人的ETF（CROB），前十大成份股涵盖绿的谐波、汇川技术等。 德意志银行与Smart Analytics Global预测显示中国厂商在全球人形机器人出货量中占据压倒性份额，2026年上半年中国厂商拿下超过97%的份额。 同时，拓普集团与三花智控等头部本体及核心零部件企业发布了2026年中期报告，显示收入与业绩端同步释放，产业化进程持续提速。
+  中文：总结：9月4日，A股市场成交额重回2万元上方，科技板块领跌全市场，机器人ETF汇添富（159213）指数收跌1. 8%并小幅吸金，其标的指数成分股多数回调。 美国主题型及杠杆型ETF发行商Defiance ETFs推出美国首只专注于中国人形机器人的ETF（CROB），前十大成份股包括绿的谐波、汇川技术、领益智造、麦格米特、恒立液压、立讯精密、宁德时代和卧龙电驱。 德银研报预测2026年全球人形机器人出货量近5万台，其中中国预计占4万台以上（超80%份额），到2030年跃升至约70万台。 Smart Analytics Global统计显示2026年上半年全球出货量约1. 91万台，中国厂商拿下超97%份额。 同时，头部本体企业中报表现亮眼，拓普集团26H1实现营业收入141. 99亿元（同比+9. 78%）、归母净利润10. 23亿元，机器人执行器实现收入1404. 8万元（同比+83. 43%）；三花智控26H1实现营收169. 00亿元（同比+3. 92%）、归母净利润20. 44亿元（同比-3. 12%）、扣非归母净利润21. 47亿元（同比+6. 82%），机电执行器核心产品稳步推进批量交付与产线爬坡。
   📰 [新浪财经](https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsenq4101619.shtml)
 
-- **[2026.09.04] 时代在线 — 黄金坑还是泡沫？宇树科技“搅动”万亿机器人赛道，基金经理“把脉”后市投资机遇**
-  中文：总结：作为A股首家人形机器人整机上市公司，宇树科技于8月19日在科创板上市首日大涨，随后股价一路回调，截至9月4日上市13个交易日累计下跌51. 79%至530. 30元/股，总市值约2145亿元。 中证机器人指数同期下跌9. 69%。 平安先进制造基金经理张荫先指出人形机器人处于0-1阶段，硬件虽有进展但大脑算法和软件订阅模式仍面临挑战，未来投资需重点关注机器人本体、垂直落地场景及具身数据配套设备三个细分方向。
-  📰 [时代在线](https://www.time-weekly.com/post/332616)
-
-- **[2026.09.04] Sohu — 美国首只聚焦中国人形机器人产业的ETF上市**
-  中文：总结：美国主题型ETF发行商Defiance ETFs在纳斯达克推出Defiance China Robotics ETF（代码CROB），为美国首只专门投资中国人形机器人产业生态的ETF。 该基金成立于8月17日，主要通过与Solactive中国人形机器人指数挂钩的总收益互换取得指数敞口，每只证券持仓上限为7%并按季度再平衡。 截至9月2日，该指数样本包含汇川技术、绿的谐波等20家公司。
-  📰 [Sohu](https://www.sohu.com/a/1071890389_120988533)
+- **[2026.09.04] 东方财富 — 黄金坑还是泡沫？宇树科技“搅动”万亿机器人赛道，基金经理“把脉”后市投资机遇**
+  中文：总结：作为A股首家人形机器人整机上市公司，宇树科技于8月19日登陆科创板，上市首日集合竞价大涨629. 44%，总市值一度触及4449亿元。 然而此后股价一路下行，至9月4日收盘报530. 30元/股，总市值约2145亿元，上市13个交易日累计跌幅达51. 79%。 中证机器人指数在8月19日至9月4日期间下跌9. 69%。 平安先进制造基金经理张荫先指出，人形机器人硬件做得不错但大脑算法偏薄弱，现阶段还不适合套用传统汽车估值。 德邦证券测算显示，在中性假设下，2035年行业龙头的硬件市值约2000亿元，软件市值约2700亿元，合计目标总市值约4700亿元，折算至2026年理论市值约2556亿元。 艾瑞咨询研报显示2025年全球具身智能市场规模达192亿元，未来五年复合增长率达73%。 在投资上，张荫先重点关注机器人本体、垂直落地场景、具身数据及配套设备三个细分方向，并指出行业目前正处于0到1的阶段。
+  📰 [东方财富](https://wap.eastmoney.com/a/202609043865482783.html)
 
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.09.04] Impress Watch — 新宿駅で「移動式ごみ箱」ロボットの自動走行実験 JR東日本**
-  日本語：JR東日本は、9月8日から11月20日までの平日10時～17時に、新宿駅地下1階の改札内コンコースで「移動式ごみ箱ロボット」の実証実験を実施する。 米Cartkenが開発した自動配送ロボットを使用し、三菱電機とメルコモビリティーソリューションズが運用を務める。 センサーによる安全性や混雑時の走行課題、社会的受入れなどを検証する予定である。
-  中文：总结：JR东日本将于9月8日至11月20日的工作日10时至17时，在新宿站地下1层检票内大厅实施“移动式垃圾桶机器人”的实证试验。 试验使用美国Cartken开发的自动配送机器人，由三菱电机和メルコモビリティーソリューションズ负责运营。 此举旨在验证传感器带来的安全性、拥挤时的行驶课题以及社会接受度等。
-  📰 [Impress Watch](https://www.watch.impress.co.jp/docs/news/2138449.html)
+- **[2026.09.05] レスポンス（Response.jp） — トヨタのロボット技術で誕生した「ケパラン」、日本科学未来館で交流イベント 9月26日・27日**
+  日本語：日本科学未来館は、オリジナルパートナーロボット「ケパラン」と交流できる特別イベント「ケパラン グリーティング 2026」を2026年9月26日と27日に開催する。 ケパランはトヨタ自動車未来創生センターが開発するマスコットロボットの技術を基盤としており、2023年11月の公開以来、来館者とのコミュニケーションを通して機能を拡充してきた。 未来館が施設整備工事のため2026年10月1日から2027年4月22日まで全館休館するのに伴い、ケパランは休館期間中に歩行機能の向上、機体のサイズアップ、センサーやソフトウェアの強化といったアップデートを予定しており、今回のイベントはアップデート前の姿に会える最後の機会となる。 リニューアルオープンは2027年4月23日の予定である。
+  中文：总结：日本科学未来馆将于2026年9月26日和27日举办特别活动“Kepalan Greeting 2026”，让访客能与原创伙伴机器人“Kepalan”进行交流。 Kepalan基于丰田汽车未来创生中心开发的吉祥物机器人技术诞生，自2023年11月公开以来，通过与访客的交流不断扩展各项功能。 由于未来馆计划从2026年10月1日至2027年4月22日进行设施整修而全馆闭馆，Kepalan将在闭馆期间进行升级，包括提升步行功能、扩大机身尺寸以及增强传感器和软件，本次活动将是公众与升级前形态互动的最后机会。 该馆计划于2027年4月23日重新开馆。
+  📰 [レスポンス（Response.jp）](https://s.response.jp/article/2026/09/05/416179.html)
 
 - **[2026.09.04] Infoseek — ハードウェアプロトタイピングの定番として時代を築いた「Arduino」が公式コンテスト「Arduino Physical AI チャレンジ 2026」を日本初開催**
-  日本語：株式会社スイッチサイエンスはArduino S. r. l. と共に、フィジカルAI開発者コミュニティの拡大と「Arduino UNO Q」の新たなユースケース創出を目的とした日本初の公式コンテスト「Arduino Physical AI チャレンジ 2026」を2026年9月15日より開催する。 コンテストは書類・作品審査、オンラインプレゼンの1st Stage審査会（2026年12月11日）、そして上位モデル機材供与等のサポートを受けるFinal Stage審査会（2027年1月31日）の2段階で実施される。
-  中文：总结：株式会社スイッチサイエンス将与Arduino S. r. l. 合作，于2026年9月15日起举办日本首届官方大赛“Arduino Physical AI チャレンジ 2026”，旨在扩大日本的具身AI开发者社区并创造“Arduino UNO Q”的新使用案例。 大赛分为两个阶段进行：文件及作品审查、在线演示形式的1st Stage审查会（2026年12月11日），以及获得上位机型机材支援等支持的Final Stage审查会（2027年1月31日）。
+  日本語：株式会社スイッチサイエンスは、Arduino S. r. l. と共に、フィジカルAI開発者コミュニティの拡大と「Arduino UNO Q」の新たなユースケース創出を目的とした日本初の公式コンテスト「Arduino Physical AI チャレンジ 2026」を2026年9月15日より開催すると発表した。 コンテストは、書類・作品審査、オンラインプレゼン形式の1st Stage審査会（2026年12月11日）、および上位モデル「Arduino UNO Q」の機材供与等のサポートを受けた5名によるFinal Stage審査会（2027年1月31日）の2段階のステップアップ方式で実施される。 応募はProtoPediaのコンテストページにて案内される。
+  中文：总结：株式会社スイッチサイエンス宣布，将与Arduino S. r. l. 共同举办日本首个官方赛事“Arduino Physical AI Challenge 2026”，旨在扩大日本的具身AI开发者社区并为“Arduino UNO Q”创造新的用例，赛事将于2026年9月15日正式启动。 大赛分为两个阶段：通过文件及作品审查后，进入2026年12月11日在线演示形式的1st Stage评审会，随后由获得上位型号“Arduino UNO Q”器材支援等支持的5名选手进入2027年1月31日的Final Stage评审会。 报名详情将在ProtoPedia的赛事页面上公布。
   📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000250_000064534/)
 
-- **[2026.09.04] MONOist — クアルコムが日本での包括的なロボット投資イニシアチブを立ち上げ、新拠点も開設：ロボット開発ニュース**
-  日本語：Qualcomm Technologiesは日本の知能ロボティクス分野における主導的立場確立に向け、長期的な投資イニシアチブの立ち上げを発表した。 労働力不足などの課題対応やフィジカルAI導入加速を目的とし、新拠点「Qualcomm Japan Robotics Center」の設立、エコシステム拡張プログラム、グローバル市場進出アクセラレーター、モデル事業の展開という4つの戦略方針でライフサイクル全体を包括的に支援する。 ファナック、トヨタ自動車、東京大学の福井研究室など多数の産業界・学術機関が協働する。
-  中文：总结：Qualcomm Technologies宣布启动一项长期的投资倡议，旨在确立日本在智能机器人领域的领先地位。 该倡议旨在应对劳动力短缺等挑战并加速具身AI的应用，通过设立新据点“Qualcomm Japan Robotics Center”、生态系统扩展程序、全球市场进入加速器以及模式业务开展等四大战略方针，全面支持生态系统的整个生命周期。 发那科、丰田汽车、东京大学福井研究室等众多产业界和学术机构参与了合作。
-  📰 [MONOist](https://monoist.itmedia.co.jp/mn/articles/2609/04/news060.html)
+- **[2026.09.04] monoist.itmedia.co.jp — クアルコムが日本での包括的なロボット投資イニシアチブを立ち上げ、新拠点も開設：ロボット開発ニュース**
+  日本語：Qualcomm Technologiesは2026年8月26日、日本のロボティクスエコシステムのイノベーション加速に向けた長期的な投資イニシアチブの立ち上げを発表した。 この取り組みでは産業界、学術機関、スタートアップと連携し、知能ロボティクス分野での日本の主導的立場確立を目指す。 投資フレームワークは4つの戦略方針（新拠点「Qualcomm Japan Robotics Center」の開設、エコシステム拡張プログラム、グローバル市場進出アクセラレーター、モデル事業の展開）で構成され、エコシステム開発から商用化、グローバル展開までのライフサイクル全体を支援する。 さらに、同イニシアチブにはAIロボット協会やファナック、ソニー、トヨタ自動車など多数の組織や企業が協働する。
+  中文：总结：高通技术公司（Qualcomm Technologies）于2026年8月26日宣布推出一项长期投资计划，旨在加速日本机器人生态系统的创新。 该举措通过与产业界、学术机构及初创企业合作，致力于将日本定位在智能机器人领域的领先地位。 投资框架由四大战略方针组成：开设新据点“Qualcomm Japan Robotics Center”、生态系统扩展程序、全球市场进出加速器以及示范项目的开展，全方位支持从生态系统开发、商业化到全球扩展的整个生命周期。 此外，AI机器人协会、发那科、索尼、丰田汽车等众多组织和企业也参与协同该投资计划。
+  📰 [monoist.itmedia.co.jp](https://monoist.itmedia.co.jp/mn/articles/2609/04/news060.html)
 
 - **[2026.09.03] 株式会社インプレス — 近畿大学とパナソニック コネクト、マダイ稚魚の選別作業に協働ロボット「Robo Sync for Cobot」を試験導入**
-  日本語：近畿大学水産研究所、水産養殖種苗センター、アーマリン近大、パナソニック コネクトグループは、協働ロボット制御サービス「Robo Sync for Cobot」をマダイ稚鱼の選別作業に試験導入すると発表した。 この取り組みにより、形態異常や生育不良個体を目視と手作業で選り分けていた出荷作業の平準化と自動化を推進し、作業負担の軽減および技術継承期間の短縮を目指す。
-  中文：总结：近畿大学水产研究所、水产养殖种苗中心、アーマリン近大以及松下互联集团宣布，将协作机器人控制服务“Robo Sync for Cobot”试用于真鲷鱼苗的筛选作业中。 通过此次合作，旨在推进以往依靠人工目视剔除形态异常和生长不良个体的出货筛选作业的标准化与自动化，从而减轻工作负担并缩短技术传承时间。
+  日本語：近畿大学水産研究所、水産養殖種苗センター、アーマリン近大、およびパナソニック コネクトグループは、複数メーカーの協働ロボットや周辺機器をノーコードで制御できる「Robo Sync for Cobot」をマダイ稚魚の選別作業に試験導入すると発表した。 近畿大学が開発中の自動選別装置の実用化に向けた改良に共同で取り組み、専門作業員の目視と手作業で行われてきた形態異常や生育不良個体の選別作業の平準化と自動化を推進することで、作業負担の軽減や技術継承期間の短縮をめざすとしている。
+  中文：总结：近畿大学水产研究所、水产养殖种苗中心、近畿大学衍生企业アーマリン近大以及松下连接集团宣布，将试用能够无代码控制多家制造商的协作机器人及周边设备的“Robo Sync for Cobot”服务，用于真鲷鱼苗的分拣作业。 双方将联合致力于改进近畿大学开发中的自动分拣装置以实现其实际应用，并通过推进以往由专业工人通过目视和手工剔除形态异常或生长不良个体的分拣作业之标准化与自动化，旨在减轻工作负担并缩短技术传承时间。
   📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2138044.html)
 
 - **[2026.09.03] ｄメニューニュース — 静岡・裾野市とトヨタが協定…配送ロボットの実証 トヨタ開発の「COCOMO｣で市役所〜図書館間の500mを結ぶ**
-  日本語：静岡県裾野市とトヨタ自動車東日本は、配送ロボットの公道での実証実験に向けた協定を締結した。 トヨタが開発した自律走行・配送ロボット「COCOMO」を使用し、裾野市役所と図書館の間の約500メートルを結んで物品を輸送する。 COCOMOは買い物かご1つ分（約10キロまで）の荷物を運ぶことができ、設定されたルートを走行しながら緊急時は遠隔監視オペレーターが対応する。
-  中文：总结：静冈县裾野市与丰田汽车东日本签订了关于配送机器人公开道路实证实验的协议。 实验将使用丰田开发的自主行驶配送机器人“COCOMO”，在裾野市政府与图书馆之间约500米的距离内运送物品。 COCOMO可运载相当于一个购物篮大小（约10公斤以内）的物品，按设定路线行驶，紧急情况下由远程监控操作员进行处理。
+  日本語：静岡県裾野市とトヨタ自動車東日本は、配送ロボットの実証実験に関する協定を2026年9月3日に締結した。 実証では、トヨタが開発した自律走行・配送ロボット「COCOMO」を使用し、裾野市役所と図書館の間の約500メートルの区間で物品を輸送する。 COCOMOは買い物かご1つ分（約10キロまで）の荷物を設定されたルートに従って輸送可能であり、緊急時には遠隔監視のオペレーターが対応する。 裾野市の村田悠市長は地方自治体や国が抱える課題の解決に期待を寄せている。
+  中文：总结：静冈县裾野市与丰田汽车东日本于2026年9月3日签署了关于配送机器人实证实验的协议。 实证中将使用丰田开发的自动驾驶配送机器人“COCOMO”，在裾野市政府与图书馆之间约500米的区间内运送物品。 COCOMO可承载相当于一个购物篮（约10公斤）的货物，并按照设定路线行驶，紧急情况下由远程监控的操作员进行应对。 裾野市长村田悠对该项目有助于解决地方自治体及国家面临的课题寄予了期望。
   📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/amp/article/look/region/look-96987)
 
 
 ## 🤖 Humanoid Robotics
 
 
+- **[2026.09.05] Dealroom — UBTECH raises $13.9M to build humanoid and quadruped robots**
+  English: Chinese robotics firm UBTECH Robotics announced in September 2026 that it has completed a $13. 9 million funding round, bringing its cumulative financing to several hundred million yuan. The company plans to use the proceeds for technology upgrades and product development, focusing on a new generation of high-power-density integrated joint modules, industrial-operation and consumer-grade humanoid robots, and heavy-load and explosion-proof quadruped robots. This investment highlights China's ongoing efforts to commercialize real-world robotics applications across factory and consumer sectors.
+  中文：总结：中国机器人企业优必选科技于2026年9月公布完成了一轮1,390万美元的融资，使其累计融资额达到数亿元人民币。 该公司计划将资金用于技术升级和产品开发，重点研发新一代高功率密度一体化关节模块、工业作业级与消费级人形机器人，以及重载和防爆四足机器人。 这项投资凸显了中国推动工厂及消费领域真实世界机器人应用商业化的持续努力。
+  📰 [Dealroom](https://app.dealroom.co/news/note/ubtech-raises-13-9m-to-build-humanoid-and-quadruped-robots)
+
 - **[2026.09.05] Stock Titan — Agility Robotics could end up with most of Churchill XI (NASDAQ: CCXI) in a $2.5B SPAC deal**
-  English: Churchill Capital Corp XI (CCXI) is registering shares for an all-stock business combination with Agility Robotics, Inc. valued at $2. 5 billion, alongside a $201. 0 million PIPE investment at $10. 00 per share and a domestication to Delaware. Pro forma, Agility stockholders are expected to own about 72. 7%–85. 4% of the post-closing company. The transaction faces material dilution risks for public shareholders from founder shares and loans, and remains subject to approvals, closing conditions, and registration statement effectiveness.
-  中文：总结：Churchill Capital Corp XI (CCXI) 正在登记股票，以进行与 Agility Robotics, Inc. 估值达 25 亿美元的全股票业务合并，并配以每股 10. 00 美元的 2. 01 亿美元 PIPE 投资以及向特拉华州的迁册。 预计合并后 Agility 股东将拥有约 72. 7% 至 85. 4% 的公司股权。 该交易面临来自创始人股份和贷款的公众股东实质性稀释风险，且仍有待批准、交割条件和注册声明生效。
+  English: Churchill Capital Corp XI (CCXI) is registering shares in connection with an all-stock business combination with Agility Robotics, Inc. , valuing the transaction at $2. 5 billion, alongside a domestication from the Cayman Islands to Delaware to form a publicly traded entity named Agility Robotics, Inc. CCXI has also arranged a $201. 0 million PIPE investment priced at $10. 00 per share. Pro forma ownership is expected to see Agility stockholders hold roughly 72. 7%–85. 4%, CCXI public shareholders up to 14. 9%, the Sponsor about 5. 1%–6. 1%, and PIPE investors about 7. 3%–8. 5%. The preliminary S-4 filing outlines material dilution risks for non-redeeming public shareholders due to founder shares, private placement units, and convertible working capital loans, while completion of the deal remains subject to required approvals, registration statement effectiveness, and closing conditions.
+  中文：总结：Churchill Capital Corp XI（CCXI）正就与Agility Robotics, Inc. 的全股票业务合并登记股份，交易估值为25亿美元，同时进行从开曼群岛到特拉华州的国籍转换，合并后的公开实体将更名为Agility Robotics, Inc. 。 CCXI还安排了每股10. 00美元、总额2. 01亿美元的PIPE投资。 按预计股权比例，Agility原股东将持有约72. 7%–85. 4%，CCXI公众股东持有高达14. 9%，发起人持有约5. 1%–6. 1%，PIPE投资者持有约7. 3%–8. 5%。 初步S-4申报文件指出，由于发起人股份、私募单位以及可转换营运资金贷款，未赎回的CCXI公众股东将面临实质性的稀释风险，同时交易的完成仍取决于所需的批准、注册声明的生效以及交割条件。
   📰 [Stock Titan](https://www.stocktitan.net/sec-filings/CCXI/s-4-churchill-capital-corp-xi-business-combination-registration-cbfe025f07af.html)
 
 - **[2026.09.05] MarketWise — Tesla Optimus, Grok, Cybercab: Cutting Through the TSLA Hype**
-  English: Tesla unveiled the steering-wheel-free Cybercab in Austin on September 3, 2026, while its Grok AI now controls vehicle cabins by voice for millions of cars. Optimus and Full Self-Driving act as the body, with Grok as the brain. Financially, Tesla reported record revenue of $28. 24 billion but faced a 57% drop in operating income and negative free cash flow. Key future metrics to watch include Gen 3 robot reveals, production figures, and paid robotic work.
-  中文：总结：特斯拉于2026年9月3日在奥斯汀发布了无方向盘的Cybercab，而其Grok AI现在通过语音控制着数百万辆汽车的车舱。 Optimus和完全自动驾驶（FSD）充当身体，Grok则作为大脑。 财务方面，特斯拉报告了2824亿美元的创纪录收入，但营业利润下降了57%，自由现金流为负。
+  English: Tesla unveiled its two-seat, steering-wheel-free Cybercab robotaxi in Austin on September 3, 2026, while advancing its physical AI ecosystem that pairs Tesla's autonomous hardware with xAI's Grok assistant. Following its 2026 Summer Update, Grok now functions as an in-cabin vehicle controller across millions of Tesla vehicles running on AMD Ryzen chips, executing multiple plain-English voice commands via Grok Voice Think Fast 2. 0. On the corporate front, xAI merged into SpaceX earlier in 2026 prior to SpaceX's June IPO, subsequently agreeing to acquire AI-coding startup Cursor for $60 billion in stock and leasing its Colossus 1 supercomputer to Anthropic in a deal valued at about $1. 25 billion monthly through May 2029.
+  中文：总结：特斯拉于2026年9月3日在奥斯汀发布了无方向盘的双座Robotaxi“Cybercab”，同时推进其将特斯拉自动驾驶硬件与xAI的Grok助手相结合的具身AI生态系统。 继2026年夏季更新后，Grok现已成为搭载AMD Ryzen芯片的数百万辆特斯拉汽车中的车内车辆控制器，通过Grok Voice Think Fast 2. 0执行多条简易英文语音指令。 在企业层面，xAI在2026年初合并至SpaceX（此前SpaceX于6月上市），随后同意以600亿美元股票收购AI编程初创公司Cursor，并将其Colossus 1超级计算机出租给Anthropic，交易额截至2029年5月每月约达12. 5亿美元。
   📰 [MarketWise](https://marketwise.com/investing/tesla-tsla-optimus-grok-cybercab/)
 
 - **[2026.09.04] IoT Business News — Humanoid Robot Shipments Forecast to Reach 26 Million Annually by 2040**
-  English: Berg Insight forecasts that annual worldwide humanoid robot shipments will grow from 16,000 units in 2026 to 26. 0 million units by 2040, with the market value rising from $890 million to $554 billion. Over 100 companies are developing full-size humanoids, with recent acceleration in production scale and investments backed by major tech players. Additionally, cellular connections linked to humanoid robots are projected to increase from 5,000 in 2025 to 50. 6 million in 2040 to support remote management and fleet visibility.
-  中文：总结：Berg Insight预测，全球人形机器人年出货量将从2026年的16,000台增长到2040年的2600万台，市场价值将从8. 9亿美元上升至5540亿美元。 目前有100多家公司正在开发全尺寸人形机器人，在各大科技巨头的支持下，近期生产规模和投资均有所加速。 此外，与人形机器人相关的蜂窝连接预计将从2025年的5,000个增加到2040年的5060万个，以支持远程管理和车队可见性。
+  English: Berg Insight forecasts that annual worldwide humanoid robot shipments will increase from 16,000 units in 2026 to 26. 0 million units by 2040, representing a compound annual growth rate of 63. 7 percent, with market value rising from $890 million to $554 billion. While over 100 companies are developing full-size humanoid robots—including Figure AI, Tesla, Agility Robotics, Boston Dynamics, Apptronik, 1X Technologies, NEURA Robotics, Unitree Robotics, UBTECH Robotics, AgiBot, Leju Robotics, EngineAI, and RobotEra—most remain in research or pilot stages, though a group is scaling production. Furthermore, cellular subscriptions associated with these robots are projected to grow from 5,000 in 2025 to 50. 6 million in 2040 at an 84. 9 percent CAGR, serving remote monitoring, fleet management, and software updates as deployment shifts from isolated pilots to widespread commercial fleets.
+  中文：总结：Berg Insight预测，全球人形机器人年出货量将从2026年的1. 6万台增至2040年的2,600万台，复合年增长率为63. 7%，市场价值将从8. 9亿美元跃升至5,540亿美元。 尽管有100多家公司正在开发全尺寸人形机器人——包括Figure AI、特斯拉、Agility Robotics、波士顿动力、Apptronik、1X Technologies、NEURA Robotics、宇树科技、优必选、智元机器人、乐聚机器人、EngineAI和RobotEra——但大多数仍处于研究或试验阶段，不过已有部分企业在扩大生产。 此外，与这些机器人相关的蜂窝物联网连接预计将从2025年的5,000个激增至2040年的5,060万个，复合年增长率为84. 9%，随着部署从孤立的试点转向广泛的商业车队，这些连接将用于远程监控、车队管理和软件更新。
   📰 [IoT Business News](https://iotbusinessnews.com/2026/09/04/humanoid-robot-shipments-forecast-to-reach-26-million-annually-by-2040/)
 
-- **[2026.09.03] Dealroom — UBTech raises $139M to scale humanoid robot production**
-  English: Chinese robotics company UBTech raised about $139 million in a post-IPO equity round to expand its humanoid robotics business, targeting 10,000 full-size humanoid robot productions in 2026. First-half 2026 revenue reached RMB 1. 27 billion ($188 million), more than doubling year-over-year, driven by a 1,445% jump in full-size humanoid robot revenue to RMB 590 million through the sale of 921 units. Despite gross margin rising to 44. 7%, UBTech remains unprofitable with a net loss of RMB 339 million in the first half.
-  中文：总结：中国机器人公司优必选在上市后的一轮股权融资中筹集了约1. 39亿美元，用于扩大其人形机器人业务，并计划在2026年生产10,000台全尺寸人形机器人。 2026年上半年营收达到12. 7亿元人民币（1. 88亿美元），同比增长超一倍，这主要得益于全尺寸人形机器人营收飙升1,445%至5. 9亿元人民币，共售出921台。 尽管毛利率升至44. 7%，优必选仍未实现盈利，上半年净亏损为3. 39亿元人民币。
-  📰 [Dealroom](https://app.dealroom.co/news/note/ubtech-raises-139m-to-scale-humanoid-robot-production)
-
 - **[2026.09.02] TechNave — HONOR Robotics D1 humanoid robot in Malaysia’s National Day Parade shows off unreleased X9e Pro**
-  English: The HONOR Robotics D1 humanoid robot participated in Malaysia’s National Day Parade and completed a 10KM run at the Malaysia Marathon 2026 on August 30, marking its first appearance outside China after setting a world record in Beijing. During the event, the robot also provided an official sneak peek of the unreleased HONOR X9e Pro smartphone in dark purple.
-  中文：总结：荣耀机器人D1人形机器人参加了马来西亚国庆游行，并于8月30日在2026年马来西亚马拉松赛上完成了10公里长跑，这是其在北京创下世界纪录后首次在 中国境外亮相。 在活动期间，该机器人还抢先展示了尚未发布的深紫色荣耀X9e Pro智能手机。
+  English: HONOR’s Robotics D1 humanoid robot participated in Malaysia’s National Day celebrations and completed a 10KM run at the Malaysia Marathon 2026 on August 30, following a world record set at the Beijing Yizhuang Humanoid Robot Half Marathon. Marking its first appearance outside China, the robot also gave an official sneak peak of the unreleased HONOR X9e Pro in dark purple. Additionally, HONOR hosted interactive activities such as the HONOR Magic V6 Strongman Challenge at Dataran Putrajaya.
+  中文：总结：荣耀的机器人D1人形机器人参加了马来西亚的国庆庆典，并于2026年8月30日在马来西亚马拉松比赛中完成了10公里长跑，此前该机器人在北京亦庄人形机器人半程马拉松赛上创造了世界纪录。 作为其在中国境外的首次亮相，该机器人还对未发布的暗紫色荣耀X9e Pro进行了官方抢先展示。 此外，荣耀还在布特拉广场举办了荣耀Magic V6大力士挑战赛等互动活动。
   📰 [TechNave](https://technave.com/gadget/HONOR-Robotics-D1-humanoid-robot-in-Malaysia-s-National-Day-Parade-shows-off-unreleased-X9e-Pro-47366.html)
 
 
