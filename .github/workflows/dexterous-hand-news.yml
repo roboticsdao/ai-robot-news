@@ -1,0 +1,46 @@
+name: Daily Dexterous Hand News
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'dexterous-hand-news/*.py'
+      - '.github/workflows/dexterous-hand-news.yml'
+  schedule:
+    # UTC 23:00 = JST 08:00
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dexterous-hand-daily
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: Install dependencies
+        run: pip install google-genai googlenewsdecoder==0.1.7 trafilatura==2.2.0
+      - name: Test
+        run: python -m unittest discover -s dexterous-hand-news -v
+      - name: Generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python dexterous-hand-news/dexterous_hand_news.py
+      - name: Publish generated files
+        run: |
+          git config user.name "Dexterous Hand News Bot"
+          git config user.email "bot@example.com"
+          git add dexterous-hand-news/latest.html dexterous-hand-news/Dexterous_Hand_News_*.html dexterous-hand-news/Dexterous_Hand_News_*.md dexterous-hand-news/history.json
+          git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
+          git push
