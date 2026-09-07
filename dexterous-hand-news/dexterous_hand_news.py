@@ -428,7 +428,8 @@ def duplicate_story(headline, other_headlines):
         other_tokens = headline_tokens(other)
         shared_tokens = tokens & other_tokens
         token_union = tokens | other_tokens
-        if len(shared_tokens) >= 4 and token_union and len(shared_tokens) / len(token_union) >= 0.35:
+        overlap = len(shared_tokens) / len(token_union) if token_union else 0
+        if (len(shared_tokens) >= 4 and overlap >= 0.35) or (len(shared_tokens) >= 5 and overlap >= 0.30):
             return True
         other_entities = {name.lower() for name in extract_entities(other) if not name.startswith("the companies")}
         other_dexterous = any(term in other.lower() for term in ["dexterous", "robot hand", "ロボットハンド", "多指ハンド", "灵巧手", "机器人手"])

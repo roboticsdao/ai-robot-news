@@ -34,7 +34,8 @@ def _ensure_article_dependencies():
 
 
 def _clean(value):
-    return re.sub(r"\s+", " ", value or "").strip()
+    clean = re.sub(r"\s+", " ", value or "").strip()
+    return re.sub(r"(?<=\d)\.\s+(?=\d)", ".", clean)
 
 
 def _extractive_summary(text, limit=520):

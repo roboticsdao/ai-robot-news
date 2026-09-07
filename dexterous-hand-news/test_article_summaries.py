@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, deduplicate_summaries, remove_repeated_summary_sentences, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _clean, _preserve_source_units, _sanitize_summary, deduplicate_summaries, remove_repeated_summary_sentences, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
 from dexterous_hand_news import duplicate_story
 
 
@@ -77,9 +77,17 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertIn("On August 10,", repaired)
         self.assertIn("60.993 billion yuan", repaired)
 
+    def test_decimal_spacing_is_normalized(self):
+        self.assertEqual("The hand moved 5.3 times faster at 0.8 MPa.", _clean("The hand moved 5. 3 times faster at 0. 8 MPa."))
+
     def test_syndicated_headline_suffix_is_deduplicated(self):
         first = "午前の日経平均は小幅反落、日米金利上昇や米小売り株安を嫌気 下げ渋りも（ロイター）"
         second = "午前の日経平均は小幅反落、日米金利上昇や米小売り株安を嫌気 下げ渋りも"
+        self.assertTrue(duplicate_story(second, [first]))
+
+    def test_same_product_launch_from_two_sources_is_deduplicated(self):
+        first = "X Square Robot Launches TwinDEX for Robot-Free Dexterous Manipulation Training"
+        second = "TwinDEX Introduces a Scalable Path from Robot-Free Data Collection to Real-World Dexterous Manipulation"
         self.assertTrue(duplicate_story(second, [first]))
 
     def test_duplicate_summary_drops_later_item_only(self):
