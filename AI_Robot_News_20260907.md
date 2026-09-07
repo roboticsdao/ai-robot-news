@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.07（月曜日 / Monday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.06] mikekalil.com — Figure AI Plans Massive Robot Supercomputer**
+  English: Figure AI is planning an unprecedented datacenter buildout in partnership with Nscale to train its humanoid robots, committing $3. 5 billion with potential to scale to $6 billion. The initial deployment will be at Nscale’s campus in Barstow, TX, with systems going online in the second half of 2027. The multi-year project could scale to 100,000 NVIDIA GPUs powered by the next-generation Vera Rubin platform. The supercomputer will process data collected from people worldwide via Figure's Index smartphone app, where Creators record everyday tasks. The raw footage passes through a five-stage data pipeline to create structured AI training material that feeds into Figure's self-developed Helix system, teaching robots to adapt to new tasks and environments.
+  中文：总结：Figure AI正计划与Nscale合作建设前所未有的数据中心，为其人形机器人训练提供超级计算机规模的算力，初期承诺投入3. 5亿美元并可能扩大至$6 billion。 该项目首期将部署在得克萨斯州巴斯托的Nscale园区，初始系统预计于2027年下半年上线。 这一为期多年的项目未来可能扩展至100,000个由下一代Vera Rubin平台驱动的NVIDIA GPU。 超级计算机将处理Figure通过Index智能手机应用程序在全球收集的数据，创作者佩戴头戴式摄像头记录日常任务。 原始素材通过五阶段数据管道转化为结构化AI训练材料，输入Figure自研的Helix系统，教导机器人适应新任务和环境。
+  📰 [mikekalil.com](https://mikekalil.com/blog/figure-ai-humanoid-supercomputer/)
+
+- **[2026.09.05] Aju Press — Hyundai-POSCO eyes U.S. steel supply chain beyond cars to robots, rockets**
+  English: Hyundai Motor Group and POSCO held a groundbreaking ceremony for Hyundai-POSCO Louisiana Steel in Donaldsonville, Louisiana, on Friday, September 05. Chairman Euisun Chung stated that the mill's steel could be used in Boston Dynamics' Atlas robot and supplied to companies like SpaceX. HPLS is Hyundai Steel's first U. S. mill and the country's first electric-arc-furnace-based mill specializing in automotive steel, carrying a total investment of $5. 8 billion with commercial production scheduled for 2029. The facility will have an annual capacity of 2. 7 million tons, covering 7. 37 million square meters. Chung emphasized that avoiding U. S. steel tariffs was not the primary objective, but rather producing low-carbon and higher-value steel locally to improve vehicle quality and build a localized supply chain.
+  中文：总结：现代汽车集团与浦项制铁于9月5日星期五在路易斯安那州唐纳森ville举行了现代浦项路易斯安那钢铁厂的开工典礼。 会长郑义宣表示，该厂生产的钢材最终可用于波士顿动力公司的Atlas机器人，并供应给SpaceX等公司。 HPLS是现代制铁在美国的第一家钢厂，也是该国首家专注于汽车钢材的电弧炉钢厂，总投资达5. 8 trillion，计划于2029年开始商业化生产。 该工厂年产能为270万吨，占地约737万平方米。 郑义宣强调，避免美国钢铁关税并非主要目标，而是为了在当地生产低碳和更高价值的钢材以提高汽车质量并建立本地化供应链。
+  📰 [Aju Press](https://www.ajupress.com/view/20260905134114312)
+
+- **[2026.09.05] digitimes — Interview: Agility Robotics CTO discusses the future of collaborative humanoid robotics**
+  English: Excitement is growing among investors and the public over the rising capabilities of humanoid robots. Yet as robot makers seek to turn their lab-built innovations into real-world commercial tools, one key bottleneck has emerged: safety. The article requires a paid subscription to read further.
+  中文：总结：投资者和公众对人形机器人日益增长的功能越来越兴奋。 然而，随着机器人制造商试图将实验室制造的创新转化为现实世界的商业工具，一个关键的瓶颈已经出现：安全性。 该文章需要付费订阅才能阅读全文。
+  📰 [digitimes](https://www.digitimes.com/news/a20260831VL209/robotics-robot-commercial.html)
+
+- **[2026.09.05] IEEE Spectrum — What Robotics Experts Think of Tesla’s Optimus Robot**
+  English: Following Tesla's introduction of Optimus humanoid robot prototypes on September 30, 2022, the robotics community shared diverse reactions. IEEE Spectrum gathered commentary from various industry and academic experts, including Georgia Chalvatzaki, Kate Darling, Animesh Garg, Ryan Gariepy, Keerthana Gopalakrishnan, Dennis Hong, Christian Hubicki, Will Jackson, Gary Marcus, Marc Raibert, Brandon Rohrer, Siddhartha Srinivasa, Mikell Taylor, and Cynthia Yeung. While experts like Georgia Chalvatzaki were impressed by the hardware progress made in a year, they noted the demonstrated behaviors were less advanced than Honda's Asimo from 20 years ago, highlighting that solving manipulation requires much more work.
+  中文：总结：在特斯拉于2022年9月30日推出Optimus人形机器人原型后，机器人领域引发了多样化的反应。 IEEE Spectrum收集了来自佐治亚·查尔瓦茨基、凯特·达林、阿尼梅什·加arg、瑞安·加里皮、基尔塔娜·戈帕拉克里希南、丹尼斯·洪、克里斯蒂安·胡比茨、威尔·杰克逊、加里·马库斯、马克·雷伯特、布兰登·罗勒、悉达多·斯里尼瓦萨、米凯尔·泰勒和辛西娅·杨等多位行业和学术专家的评论。 虽然像佐治亚·查尔瓦茨基这样的专家对一年内在硬件上取得的进展印象深刻，但也指出所展示的行为不如本田20年前的Asimo先进，并强调解决操作问题还需要做更多的工作。
+  📰 [IEEE Spectrum](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/dennis-hong)
+
+- **[2026.09.05] TradingView — Nvidia's Next AI Customer Isn't Building Chatbots—It's Building Humanoid Robots**
+  English: Figure AI has secured access to up to 100,000 Nvidia Vera Rubin GPUs through a partnership with Nscale, starting with an initial $3. 5 billion compute commitment and plans to scale beyond $6 billion, with deployments beginning in the second half of 2027. This infrastructure aims to train Helix, Figure's robotics foundation model, addressing data and compute constraints rather than hardware manufacturing. NVIDIA CEO Jensen Huang highlighted the partnership as a 'robotics flywheel' that integrates training on the Vera Rubin platform, validation in Nvidia Isaac Sim, and deployment on Nvidia-powered robots, signaling a broader market shift where AI infrastructure demand extends beyond large language models to physical AI and humanoid robotics.
+  中文：总结：Figure AI通过与Nscale的合作，获得了多达100,000个Nvidia Vera Rubin GPU的使用权，初期计算承诺为3. 5亿美元，并计划扩展至$6 billion以上，部署工作将于2027年下半年开始。 该基础设施旨在训练Figure的机器人基础模型Helix，以解决数据和计算限制而非硬件制造。 NVIDIA首席执行官黄仁勋强调，该合作伙伴关系是一个“机器人飞轮”，整合了在Vera Rubin平台上的训练、Nvidia Isaac Sim中的验证以及在Nvidia驱动的机器人上的部署，标志着更广泛的市场转变，即AI基础设施的需求从大语言模型延伸至物理AI和人形机器人。
+  📰 [TradingView](https://www.tradingview.com/news/benzinga:748771240094b:0-nvidia-s-next-ai-customer-isn-t-building-chatbots-it-s-building-humanoid-robots/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.07] Sohu — 华尔街用真金白银，给中国机器人投了一张"信任票"**
+  中文：总结：美国资管机构Defiance ETFs在纳斯达克发行了全球首只专门聚焦中国人形机器人产业链的主题型ETF，代码为CROB。 该ETF的前十大持仓全部为中国公司，包括绿的谐波、汇川技术、领益智造、三花智控、麦格米特、恒立液压、拓普集团、立讯精密、宁德时代和卧龙电驱。 值得注意的是，这份重仓名单中没有一家整机品牌公司，全部集中在制造行业的底层基建和核心零部件领域，显示出华尔街对中国机器人产业链的资金投入。
+  📰 [Sohu](https://m.sohu.com/a/1072612664_121361416?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.07] Sohu — 97%市占率！华尔街用真金白银，给中国机器人产业链投了"信任票"**
+  中文：总结：美国主题型ETF发行商Defiance ETFs在纳斯达克推出了全美首只专注于中国人形机器人的ETF，代码为CROB。 其持仓清单显示，前十大重仓股全都是中国A股产业链龙头企业，涵盖绿的谐波、汇川技术、三花智控、恒立液压、拓普集团和宁德时代等。 这些重仓股中没有一家美国公司或整机品牌，表明华尔街的资金正直接且大量地流入中国机器人产业的底层基建和核心零部件领域。
+  📰 [Sohu](https://m.sohu.com/a/1072604127_121361416?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.06] 新浪财经 — 宇树李超：用AI驱动物理进化，让机器人学会思考和成长**
+  中文：总结：在天津国家会展中心举办的2026精益数字化创新大会上，宇树科技行业事业部总经理李超发表演讲，介绍了人形机器人在工业场景的应用落地。 宇树率先将人形机器人推进至能源工业场景，在无人商超和电力配电柜巡检等高危环境中承担运维工作，实现降本增效。 其解决方案融合了AI算法与自主导航，能完成智能仪表识别、红外测温等任务。 李超坦言工业场景中缺陷识别样本仍有不足，并指出企业已搭建云边协同架构，将无人机、无人车和机器狗整合为协同管控方案，致力于用AI驱动物理进化，使机器人学会思考和成长。
+  📰 [新浪财经](https://finance.sina.cn/hy/2026-09-06/detail-iniqwsss4158887.d.html?vt=4)
+
+- **[2026.09.06] t.cj.sina.cn — 宇树上市4天，市值蒸发2000亿，具身智能是蓝海or泡沫？**
+  中文：总结：宇树科技于8月19日登陆科创板，开盘报1100元，市值一度突破4449亿元，但随后股价连续回调，短短3个交易日市值蒸发超2000亿元。 2026年上半年，国内具身智能赛道融资总额突破935亿元，同比增长五倍，资本高度集中于头部企业。 宇树上半年营收11. 52亿元，归母净利润2. 74亿元，但扣非净利润同比下降近两成，且人形机器人收入中科研教育占75. 96%。 同期行业内其他玩家如智元机器人、乐聚机器人、傅利叶智能和银河通用等也在加速布局。 业内普遍认为，机器人商业化仍面临场景拓宽、利润维持及技术壁垒等挑战，行业即将迎来洗牌。
+  📰 [t.cj.sina.cn](https://t.cj.sina.cn/articles/view/7586619066/1c4329eba00101k126)
+
+- **[2026.09.04] 东方财富 — 宇树科技成都子公司正式注册！四川人形机器人产业链集聚再添新力量**
+  中文：总结：人形机器人企业宇树科技的全资子公司——成都宇辰科技有限公司于9月2日在成都市锦江区完成工商注册登记，经营范围涵盖技术开发、工业机器人销售和电池制造等。 此前在7月24日，成都市人民政府与宇树科技签署了战略合作协议。 除了成都外，宇树科技此前已在北京、上海、深圳、宁波、重庆和天津等地设立子公司。 随着宇树科技等头部企业的入驻，四川及成都的人形机器人产业链正加速集聚，涌现出四川具身人形机器人科技有限公司、成都卡诺普、成都人形机器人创新中心等众多配套力量，迎来产业发展的黄金窗口期。
+  📰 [东方财富](https://wap.eastmoney.com/a/202609033864045844.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.07] PR TIMES — 「助産師が、ロボット学会に！？」With Midwife代表・岸畑聖月が日本ロボット学会で登壇**
+  日本語：株式会社With Midwifeの代表取締役であり助産師の岸畑聖月が、2026年9月1日に金沢大学で開催された「第44回日本ロボット学会学術講演会」のオープンフォーラムに登壇した。 テーマは「だれもが自分らしい道を進めるように ～自分も周囲も，みんなで考えるワークライフ・インテグレーション～」であった。 フォーラムでは、ロボットそのものではなく、ロボットを研究する研究者たちが妊娠・出産・育児などのライフイベントとキャリアをどのように両立しているかというリアルな経験談が共有された。 大学や企業で研究に携わる奥井学と松浦芳樹が登壇し、夫婦でコミュニケーションを取りながら選択を重ねる重要性を語った。 岸畑は著書の内容も交え、変化の多い時代において家族で対話を続けながら同じ方向を向くことの大切さを伝えた。
+  中文：总结：株式会社With Midwife的代表董事兼助产师岸畑圣月于2026年9月1日在金泽大学举办的“第44届日本机器人学会学术演讲会”的公开论坛上发表演讲。 主题为“为了让每个人都能走自己独特的路 ～自己与周围的人，大家共同思考的工作生活整合～”。 论坛上分享的不是机器人本身，而是研究机器人的研究人员如何平衡妊娠、分娩、育儿等生活事件与职业生涯的真实经验。 在大学和企业从事研究的奥井学和松浦芳树登坛发言，讲述了夫妻双方通过沟通不断做出选择的重要性。 岸畑结合其著作的内容，传达了在变化多端的时代里，家庭持续对话并朝着同一方向前进的重要意义。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000134.000057629.html)
+
+- **[2026.09.06] ニュースイッチ by 日刊工業新聞社 — 工数4割削減…機体をロボット洗浄、JALが国内航空会社で初導入**
+  日本語：日本航空グループは、スウェーデンのエアロウォッシュ製リモコン式機体洗浄ロボット（AW3）を成田空港に導入すると発表した。 このロボットの導入は国内航空会社で初となる。 1台でボーイング737や767など幅広い機種に対応し、プログラム指定でアームが機体表面に自動接近したのち、作業員が手元で微調整を行う協働思想を採用している。 夜間に行われてきた手作業の洗浄工数を1機あたり最大4割削減し、使用水量を最大50％削減するほか、電動バッテリー駆動により二酸化炭素排出量の削減にも寄与する。 今後、成田空港での運用を皮切りに、国内他空港への導入も検討する予定である。
+  中文：总结：日本航空集团宣布将在成田机场引入瑞典Aerowash公司制造的遥控式飞机清洗机器人（AW3）。 这是国内航空公司首次引入该款机器人。 该机器人单台即可应对波音737和767等多种机型，通过程序指定使机械臂自动接近机体表面，随后采用由作业人员在手边进行细致微调的“协作”理念。 此举可将夜间人工进行的飞机清洗工序每架最多减少4成，清洗每架飞机的使用水量最多减少50%，并通过电动电池驱动来减少二氧化碳排放，有助于降低环境负荷。 未来将以成田机场的运行为起点，探讨在霓虹国内其他机场引入的可能性。
+  📰 [ニュースイッチ by 日刊工業新聞社](https://newswitch.jp/p/50194)
+
+- **[2026.09.05] レスポンス（Response.jp） — トヨタのロボット技術で誕生した「ケパラン」、日本科学未来館で交流イベント 9月26日・27日**
+  日本語：日本科学未来館は、オリジナルパートナーロボット「ケパラン」と交流できる特別イベント「ケパラン グリーティング 2026」を2026年9月26日と27日に開催する。 ケパランはトヨタ自動車未来創生センターが開発するマスコットロボットの技術を基盤に誕生した。 2026年10月から2027年4月までの休館期間中に歩行機能の向上や機体のサイズアップ、センサーやソフトウェアの強化を予定しており、今回のイベントはアップデート前のケパランと交流できる最後の機会となる。 日本科学未来館は施設整備工事のため2026年10月1日から2027年4月22日まで全館休館し、2027年4月23日にリニューアルオープンする予定である。
+  中文：总结：日本科学未来馆将于2026年9月26日和27日举办特别活动“Kepalan Greeting 2026”，让游客能够与原创伙伴机器人“Kepalan”进行交流。 Kepalan是基于丰田汽车未来创生中心开发的吉祥物机器人技术诞生的。 在2026年10月至2027年4月的闭馆期间，Kepalan计划提升步行功能、扩大机体尺寸并强化传感器与软件，因此本次活动是与升级前的Kepalan进行交流的最后机会。 日本科学未来馆因设施整修工程将于2026年10月1日至2027年4月22日全馆闭馆，并计划于2027年4月23日重新开馆。
+  📰 [レスポンス（Response.jp）](https://response.jp/article/2026/09/05/416179.html)
+
+- **[2026.09.04] Impress Watch — 新宿駅で「移動式ごみ箱」ロボットの自動走行実験 JR東日本**
+  日本語：JR東日本は、2026年9月8日から11月20日まで、新宿駅地下1階の改札内コンコースにおいて「移動式ごみ箱ロボット」の自動走行実証実験を実施すると発表した。 実施時間は平日の10時から17時までで、ロボットがコンコースを自動巡回しながらごみを収集する。 実証ではセンサーを利用した走行時の安全性確認や混雑時の課題抽出を行い、利用者の移動への影響や社会的な受入れを検証する。 使用するロボットは米Cartkenが開発した自動配送ロボットで、三菱電機とメルコモビリティーソリューションズが運用事業者となり、車体にはJR新宿駅キャラクター「しんじゅくま」のラッピングが施される。
+  中文：总结：JR东日本宣布，将于2026年9月8日至11月20日期间，在新宿站地下1层检票内大厅进行“移动式垃圾桶机器人”的自动行驶实证实验。 实施时间预定为工作日的10点至17点，机器人将在大厅内自动巡回并收集垃圾。 实证内容包括利用传感器确认行驶时的安全性、提取拥堵时的课题，并验证对乘客移动的影响以及社会的接纳程度。 使用的机器人是由美国Cartken开发的自动配送机器人，三菱电机和Melco Mobility Solutions担任运营方，车身上将装饰JR新宿站吉祥物“Shinjukuma”的包装。
+  📰 [Impress Watch](https://www.watch.impress.co.jp/docs/news/2138449.html)
+
+- **[2026.09.04] Koubo — ハードウェアプロトタイピングの定番として時代を築いた「Arduino」が公式コンテスト「Arduino Physical AI チャレンジ 2026」を日本初開催**
+  日本語：株式会社スイッチサイエンスは、Arduino S. r. l. と共に、日本初となる公式コンテスト「Arduino Physical AI チャレンジ 2026」を2026年9月15日より開催することを発表した。 本コンテストは、日本におけるフィジカルAI開発者コミュニティの拡大と「Arduino UNO Q」の新たなユースケース創出を目的としている。 選考は、書類・作品審査を経て、オンラインプレゼン形式の1st Stage審査会に進み、そこで選出された上位5名が機材供与等のサポートを受けてFinal Stage審査会に挑む2段階のステップアップ方式で実施される。 応募受付はProtoPediaのコンテストページにて9月15日より開始される。
+  中文：总结：株式会社Switch Science联合Arduino S. r. l. 宣布，将于2026年9月15日起举办日本首场官方竞赛“Arduino Physical AI挑战赛 2026”。 本次竞赛旨在扩大日本的物理AI开发者社区并为“Arduino UNO Q”创造新的用例。 评选分为两个阶段进行：首先通过文件和作品审查进入在线演示形式的第1阶段审查会，从中选出的前5名选手将获得器材提供等支持，并挑战最终阶段审查会。 报名申请将于9月15日在ProtoPedia的竞赛页面上开始受理。
+  📰 [Koubo](https://koubo.jp/press-release/prtimes/c64534_r250)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.06] レスポンス（Response.jp） — 日本には現場がある！ 準国産ヒューマノイド ZEALS「D1」…中国・米国に対抗するには？**
+  English: ZEALS showcased its compact semi-humanoid robot 'D1' and development infrastructure at an AWS Japan event. Designed for narrow Japanese indoor environments, D1 features a dual-arm structure and a wheeled mobile base with a 48cm width, priced from 5 million yen. ZEALS aims to mass-produce 100 units in fiscal 2026 and achieve 10,000 total operating hours in real-world settings, emphasizing the collection of field data to improve physical AI. The company recently tested two D1 units at Chubu Rosai Hospital in Nagoya, operating for a total of 35 hours over three days across five tasks. ZEALS developed the hardware, 'Omakase OS,' and 'Omakase Zen' AI model within 4 to 5 months through vertical integration, supported by partners across healthcare, leasing, and insurance sectors.
+  中文：总结：ZEALS在AWS日本举办的活动上展示了其紧凑型半人形机器人“D1”及开发基础设施。 D1专为日本狭窄的室内环境设计，采用双臂结构和48厘米宽的车轮移动底盘，售价从500万日元起。 ZEALS计划在2026财年量产100台，并在实际环境中实现总计1万小时的运行时间，重点是通过收集现场数据来改进物理AI。 该公司最近在名古屋重工大须病院测试了两台D1，在三天内进行了总计35小时的运行，完成了5项任务。 在医疗、租赁和保险等合作伙伴的支持下，ZEALS通过垂直整合在4到5个月内开发了硬件、“Omakase OS”以及“Omakase Zen”AI模型。
+  📰 [レスポンス（Response.jp）](https://response.jp/article/2026/09/06/416216.html)
+
+- **[2026.09.07] Alwihda Info — Inside the Beijing World Humanoid Robot Games: Where Hardware Meets Artificial Intelligence**
+  English: The second World Humanoid Robot Games concluded on August 26 at the National Speed Skating Oval in Beijing, featuring over 2,000 robots competing across track and field, sports, and 21 scenario-based events. In the 100-meter sprint, the Tiangong Ultra by X-Humanoid set a record of 8. 64 seconds, while other events tested advanced joint modules, batteries, and motion-control technologies. A tennis match during the opening ceremony featured Xingzai, developed by Galbot, playing against former tennis star Zheng Jie, demonstrating autonomous decision-making powered by the AstraBrain embodied-intelligence foundation model. Additionally, scenario-based events like assembly, retail, and smart charging challenged robots' autonomous operation and fine-motor skills, with AgiBot's OmniHand winning seven of eight gold medals in the dexterous-hand competition.
+  中文：总结：第二届世界人形机器人运动会于8月26日在北京国家速滑馆闭幕，来自各方的2000多台机器人在田径、体育以及21个场景化项目中展开竞技。 在备受瞩目的100米短跑中，由北京机器人创新中心研发的天工Ultra以8. 64秒创造了纪录，各项赛事全面检验了关节模块、电池及运动控制技术的升级。 开幕式上的一场网球赛中，由高仙机器人研发的星仔对阵中国前网球名将郑杰，展示了由AstraBrain具身智能基础模型驱动的自主决策能力。 此外，装配、零售和智能充电等场景化赛事考验了机器人的自主运行和精细运动技能，其中银河通用的OmniHand在灵巧手比赛中赢得了七枚金牌中的七枚。
+  📰 [Alwihda Info](https://www.alwihdainfo.com/inside-the-beijing-world-humanoid-robot-games-where-hardware-meets-artificial-intelligence/)
+
+- **[2026.09.05] Dealroom — UBTECH raises $13.9M to build humanoid and quadruped robots**
+  English: Chinese robotics firm UBTECH Robotics announced a $13. 9 million funding round in September 2026. The company will use the proceeds to fund technology upgrades and product development, focusing on high-power-density integrated joint modules, industrial-operation and consumer-grade humanoid robots, and heavy-load and explosion-proof quadruped robots. This funding brings UBTECH's cumulative financing to several hundred million yuan, highlighting China's broader effort to commercialize robotics for real-world applications.
+  中文：总结：中国机器人企业优必选科技于2026年9月宣布完成1390万美元的融资。 该公司表示，将把资金用于技术升级和产品开发，重点关注高功率密度集成关节模块、工业操作及消费级人形机器人，以及重载和防爆四足机器人。 此轮融资使优必选的累计融资额达到数亿元人民币，反映了中国推动机器人商业化应用于现实世界的更广泛努力。
+  📰 [Dealroom](https://app.dealroom.co/news/note/ubtech-raises-13-9m-to-build-humanoid-and-quadruped-robots)
+
+- **[2026.09.05] MarketWise — Tesla Optimus, Grok, Cybercab: Cutting Through the TSLA Hype**
+  English: Tesla's AI integration advanced in 2026 with the introduction of the Cybercab in Austin on September 3 and xAI's Grok becoming a voice controller for millions of Tesla vehicles. While the bull case views Full Self-Driving and Optimus as the 'body' and Grok as the 'brain,' with predictions of Optimus reaching one billion units by 2036, the near-term reality shows Optimus is not yet in full production or on sale, with external sales targeted for the second half of 2027. Financially, Tesla reported record revenue of $28. 24 billion but faced a 57% drop in operating income and negative free cash flow, as its car business funds ambitious AI projects.
+  中文：总结：特斯拉的AI整合在2026年取得了进展，9月3日在奥斯汀推出了Cybercab，并且xAI的Grok成为了数百万特斯拉汽车的语音控制器。 尽管乐观派认为完全自动驾驶和Optimus是“身体”，而Grok是“大脑”，并预测Optimus到2036年将达到10亿台，但近期的现实表明Optimus尚未全面投产或销售，外部销售目标定在2027年下半年。 在财务方面，特斯拉报告了282. 4亿美元的创纪录收入，但营业收入下降了57%，自由现金流为负，其汽车业务正在为雄心勃勃的AI项目提供资金。
+  📰 [MarketWise](https://marketwise.com/investing/tesla-tsla-optimus-grok-cybercab/)
+
+- **[2026.09.07] bgr.com — The 5 Best Humanoid Robots Of IFA 2026**
+  English: IFA 2026 highlighted wearables, AI, and robotics, showcasing a growing number of humanoid robots transitioning from futuristic concepts to real-life devices for Chinese, European, and American markets. BGR highlighted several key models, including PrimeBOT's Q1, an 88-centimeter-tall mini humanoid robot designed for AI research, classrooms, and home companionship with 22 degrees of freedom, set to launch in China in September. Another notable robot is Booster Robotics' K1, priced from $5,999 to over $10,000, which stands 95 centimeters tall, weighs 19. 5 kilograms, features up to 200 TOPS of AI processing, and is aimed at university engineering programs and trade exhibitions. The exhibition also featured EngineAI's T800, emphasizing that companies are serious about deploying robots for factories, B2B customers, and the B2C market.
+  中文：总结：2026年柏林消费电子展（IFA 2026）聚焦于可穿戴设备、AI和机器人技术，展示了越来越多的从未来概念向中国、欧洲和美国市场实际应用设备过渡的人几机器人。 BGR重点介绍了几个关键型号，其中包括PrimeBOT的Q1，这是一款高88厘米的迷你人形机器人，专为AI研究、课堂和家庭陪伴而设计，拥有22个自由度，计划于9月在中国上市。 另一款引人注目的机器人是Booster Robotics的K1，售价从5,999美元到超过10,000美元不等，身高95厘米，重19. 5公斤，拥有高达200 TOPS的AI处理能力，主要面向大学工程项目和贸易展览。 展会还展出了EngineAI的T800，强调了各大公司正认真致力于将机器人部署到工厂、B2B客户以及B2C市场中。
+  📰 [bgr.com](https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/)
+
+
+---
+※AI Robot News Digest | 2026.09.07 | full-text items: 20
