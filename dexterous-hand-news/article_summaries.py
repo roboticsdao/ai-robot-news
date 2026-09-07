@@ -237,7 +237,8 @@ def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
     completed = []
     for item in items:
         current = dict(item)
-        local = _extractive_summary(item.get("article_text", ""))
+        factual_body = _sanitize_summary(item.get("article_text", ""))
+        local = _extractive_summary(factual_body)
         current["local_summary"] = local
         current["zh_summary"] = local if item.get("summary_language") == "Chinese" else ""
         completed.append(current)

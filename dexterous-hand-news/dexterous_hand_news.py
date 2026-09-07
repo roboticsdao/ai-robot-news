@@ -17,7 +17,11 @@ LOCAL_TZ = timezone(timedelta(hours=9))
 TODAY = datetime.now(LOCAL_TZ)
 DATE_STR = TODAY.strftime("%Y.%m.%d")
 TIME_STR = TODAY.strftime("%H:%M")
-CUTOFF_DATE = (TODAY - timedelta(days=7)).date()
+PRIMARY_WINDOW_DAYS = 7
+MAX_WINDOW_DAYS = 14
+MIN_DAILY_ITEMS = 5
+DAILY_ITEM_TARGET = 8
+CUTOFF_DATE = (TODAY - timedelta(days=MAX_WINDOW_DAYS)).date()
 WEEKDAY_MAP = {0:"月",1:"火",2:"水",3:"木",4:"金",5:"土",6:"日"}
 WEEKDAY_EN = TODAY.strftime("%A")
 WEEKDAY_JP = WEEKDAY_MAP[TODAY.weekday()]
@@ -338,8 +342,7 @@ def has_required_content(text):
     if not has_recent_content(text):
         return False
     counts = section_item_counts(text)
-    required = {"🇯🇵": 3, "🇺🇸": 3, "🇨🇳": 3, "🔬": 3}
-    return all(any(emoji in heading and count >= minimum for heading, count in counts.items()) for emoji, minimum in required.items())
+    return any("🌍" in heading and count >= MIN_DAILY_ITEMS for heading, count in counts.items())
 
 def digest_summary_records(text):
     records = []
@@ -433,7 +436,7 @@ def duplicate_story(headline, other_headlines):
             return True
     return False
 
-def fetch_rss_items(region, limit=5, exclude_headlines=None):
+def fetch_rss_items(region, limit=5, exclude_headlines=None, window_days=PRIMARY_WINDOW_DAYS):
     items = []
     seen = set()
     exclude_terms = region.get("exclude_terms", [])
@@ -444,7 +447,7 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None):
         if region["label"] == "日本 / Japan":
             scoped_query = f"{query} -中国 -China -Unitree -ユニツリー"
         params = {
-            "q": f"{scoped_query} when:7d",
+            "q": f"{scoped_query} when:{window_days}d",
             "hl": region["hl"],
             "gl": region["gl"],
             "ceid": region["ceid"],
@@ -478,7 +481,8 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None):
             except Exception:
                 dt = TODAY
                 date = DATE_STR
-            if parse_item_date(date) < CUTOFF_DATE:
+            window_cutoff = (TODAY - timedelta(days=window_days)).date()
+            if parse_item_date(date) < window_cutoff:
                 continue
             items.append({"date": date, "headline": headline, "source": source, "link": link, "dt": dt})
             query_added += 1
@@ -685,31 +689,58 @@ def generate_digest_from_rss():
     parts = [
         f"# 🖐 Dexterous Hand News | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）",
         "",
-        "> ⚠️ 本日报优先收录72小时内的机器人灵巧手新闻，数量不足时最多回溯7天；摘要仅压缩原文事实，不添加商业判断或预测。",
+        "> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。",
         "",
         "---",
     ]
 
-    grouped_items = []
+    collected_items = []
     global_headlines = []
     for region in REGIONS:
-        print(f"   RSS/body fetch: {region['emoji']} {region['label']}")
-        target = region.get("min_items", 5)
-        candidate_limit = target + 8
+        print(f"   Search feed: {region['emoji']} {region['label']}")
+        feed_target = 3
+        candidate_limit = feed_target + 8
         try:
-            candidates = fetch_rss_items(region, candidate_limit, exclude_headlines=global_headlines)
+            candidates = fetch_rss_items(
+                region,
+                candidate_limit,
+                exclude_headlines=global_headlines,
+                window_days=PRIMARY_WINDOW_DAYS,
+            )
             for item in candidates:
                 item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
                 item["region_label"] = region["label"]
-            items = enrich_articles(candidates)[:target + 2]
+            items = enrich_articles(candidates)
+            if len(items) < feed_target:
+                excluded = global_headlines + [item["headline"] for item in candidates]
+                older_candidates = fetch_rss_items(
+                    region,
+                    candidate_limit + 8,
+                    exclude_headlines=excluded,
+                    window_days=MAX_WINDOW_DAYS,
+                )
+                for item in older_candidates:
+                    item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
+                    item["region_label"] = region["label"]
+                items.extend(enrich_articles(older_candidates))
+            items = items[:feed_target + 2]
+            print(f"   Readable full-text items: {len(items)}")
         except Exception as e:
             print(f"   Article fetch error for {region['label']}: {e}")
             items = []
         global_headlines.extend(item["headline"] for item in items)
-        grouped_items.append((region, items))
+        collected_items.extend(items)
 
-    flat_items = [item for _, items in grouped_items for item in items]
-    summarized = summarize_articles(flat_items, GEMINI_API_KEY)
+    collected_items.sort(key=lambda item: item.get("dt", TODAY), reverse=True)
+    unique_items = []
+    for item in collected_items:
+        if duplicate_story(item["headline"], [existing["headline"] for existing in unique_items]):
+            continue
+        unique_items.append(item)
+        if len(unique_items) >= DAILY_ITEM_TARGET + 4:
+            break
+
+    summarized = summarize_articles(unique_items, GEMINI_API_KEY)
     summarized, removed = deduplicate_summaries(summarized)
     if removed:
         print(f"   Removed {len(removed)} duplicate summaries")
@@ -719,32 +750,25 @@ def generate_digest_from_rss():
     issues = summary_quality_issues(summarized)
     if issues:
         raise RuntimeError("; ".join(issues[:5]))
-    summarized_by_region = {}
-    for item in summarized:
-        summarized_by_region.setdefault(item["region_label"], []).append(item)
-
+    summarized.sort(key=lambda item: item.get("dt", TODAY), reverse=True)
+    summarized = summarized[:DAILY_ITEM_TARGET]
     total = 0
-    for region, _ in grouped_items:
-        items = summarized_by_region.get(region["label"], [])[:region.get("min_items", 3)]
-        parts.append(f"\n## {region['emoji']} {region['label']}\n")
-        if not items:
-            parts.append(f"- **[{DATE_STR}] No readable source — 暂无可读取全文的新闻**\n  中文：本地区近期文章正文均无法可靠读取，因此未生成推测性摘要。\n  📰 Google News")
-            continue
-        for item in items:
-            total += 1
-            if item["summary_language"] == "Japanese":
-                local_line = f"  日本語：{item['local_summary']}\n"
-            elif item["summary_language"] == "Chinese":
-                local_line = ""
-            else:
-                local_line = f"  English: {item['local_summary']}\n"
-            zh = item.get("zh_summary", "")
-            zh_line = f"  中文：总结：{zh}\n" if zh else ""
-            parts.append(
-                f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
-                f"{local_line}{zh_line}"
-                f"  📰 [{item['source']}]({item['link']})"
-            )
+    parts.append("\n## 🌍 全球灵巧手 / Global Dexterous Hands\n")
+    for item in summarized:
+        total += 1
+        if item["summary_language"] == "Japanese":
+            local_line = f"  日本語：{item['local_summary']}\n"
+        elif item["summary_language"] == "Chinese":
+            local_line = ""
+        else:
+            local_line = f"  English: {item['local_summary']}\n"
+        zh = item.get("zh_summary", "")
+        zh_line = f"  中文：总结：{zh}\n" if zh else ""
+        parts.append(
+            f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
+            f"{local_line}{zh_line}"
+            f"  📰 [{item['source']}]({item['link']})"
+        )
 
     parts.append(f"\n---\n※Dexterous Hand News Digest | {DATE_STR} | full-text items: {total}")
     return "\n\n".join(parts)
@@ -769,7 +793,7 @@ def md_to_html(md):
                 regions.append((cur, items))
             h = s[3:].strip()
             f = ""
-            for e in ["🇯🇵","🇺🇸","🇨🇳","🔬"]:
+            for e in ["🌍","🇯🇵","🇺🇸","🇨🇳","🔬"]:
                 if e in h:
                     f = e
                     break
@@ -831,7 +855,7 @@ def md_to_html(md):
         parts.append('</div>')
     body = "\n".join(parts)
     if not discl:
-        discl = "⚠ 本日报优先收录72小时内的机器人灵巧手新闻，数量不足时最多回溯7天。"
+        discl = "⚠ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天。"
 
     return f'''<!DOCTYPE html>
 <html lang="zh"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
@@ -861,7 +885,7 @@ if __name__ == "__main__":
     print("\n📝 Generating digest...")
     digest = generate_digest()
     n = digest.count("- **") if digest else 0
-    if n < 3:
+    if n < MIN_DAILY_ITEMS:
         print(f"❌ Only {n} items")
         sys.exit(1)
     if not has_required_content(digest):

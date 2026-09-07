@@ -21,6 +21,22 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertNotIn("A short headline", result["local_summary"])
         self.assertEqual("", result["zh_summary"])
 
+    def test_no_api_fallback_removes_analysis_sentences_from_source(self):
+        body = (
+            "The team released a five-finger robot hand with twelve tactile sensors. "
+            "What to watch is whether customers adopt it at scale. "
+            "The prototype completed 500 grasping trials during the laboratory evaluation. "
+        ) * 3
+        item = {
+            "headline": "Robot hand prototype",
+            "article_text": body,
+            "summary_language": "English",
+        }
+        result = summarize_articles([item], api_key="")[0]
+        self.assertIn("twelve tactile sensors", result["local_summary"])
+        self.assertIn("500 grasping trials", result["local_summary"])
+        self.assertNotIn("What to watch", result["local_summary"])
+
     def test_quality_check_rejects_analysis_templates(self):
         item = {
             "headline": "Example",
