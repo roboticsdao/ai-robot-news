@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _clean, _preserve_source_units, _sanitize_summary, deduplicate_summaries, remove_repeated_summary_sentences, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _clean, _preserve_source_units, _sanitize_summary, _summary_prompt, deduplicate_summaries, remove_repeated_summary_sentences, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
 from dexterous_hand_news import duplicate_story
 
 
@@ -79,6 +79,11 @@ class ArticleSummaryTests(unittest.TestCase):
 
     def test_decimal_spacing_is_normalized(self):
         self.assertEqual("The hand moved 5.3 times faster at 0.8 MPa.", _clean("The hand moved 5. 3 times faster at 0. 8 MPa."))
+
+    def test_summary_prompt_preserves_names_and_technical_terms(self):
+        prompt = _summary_prompt([{"headline": "Example", "article_text": "Alex built an artificial muscle."}])
+        self.assertIn("do not invent Chinese transliterations", prompt)
+        self.assertIn("Translate technical terms by their meaning", prompt)
 
     def test_syndicated_headline_suffix_is_deduplicated(self):
         first = "午前の日経平均は小幅反落、日米金利上昇や米小売り株安を嫌気 下げ渋りも（ロイター）"
