@@ -1,0 +1,54 @@
+# 🖐 Dexterous Hand News | 2026.09.09（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.09.08] chinanews.com.cn — 灵巧手量产前夜，高自由度产品为何“叫好不叫座”？**
+  中文：总结：在人形机器人产业链中，灵巧手正成为竞争最激烈的细分战场之一。 尽管高自由度产品在展会上备受瞩目，但目前市场上销量担当仍为三指爪或六主动自由度的低自由度产品。 多数客户尚处于概念验证阶段，尚未形成支撑大规模量产的批量订单。 高自由度灵巧手面临边际成本高、系统集成与散热考验、高质量训练数据采集困难等问题。 现有的VLA模型在同一时间戳下仅能输出10个左右的运动控制向量，模型端的控制能力尚未跟上硬件发展节奏，行业已进入软件制约硬件的阶段。 GGII报告显示，2025年中国灵巧手市场销量约1.92万只，2026年预计达7.02万只。 面对多元化场景需求，行业正加速从实验室走向工厂，今年具身智能市场的一个重要任务是落地应用场景。
+  📰 [chinanews.com.cn](https://www.chinanews.com.cn/gn/2026/09-08/10692365.shtml)
+
+- **[2026.09.04] ION Analytics — Xynova seeks fresh funding as it aims to become the Nvidia of dexterous manipulation**
+  English: Chinese unicorn dexterous hand developer Xynova is seeking a new round of funding to partially scale up mass production capacity, founder and CEO Alex Xia told Mergermarket. The company has raised approximately CNY 1.5bn (USD 223.2m) across four rounds in less than 12 months, with existing shareholders including CATL, Xiaomi, JD. com, Meituan and NIO. Founded in 2024 and headquartered in Hangzhou, Xynova develops dexterous hands and their control algorithms as a full-stack provider for embodied AI manipulation. Its flagship bionic dexterous hands include the Flex series, which uses a hybrid drive technology combining tendon and direct-drive systems, and the Prima series, featuring a purely direct-drive architecture. Xynova targets an annual production capacity of 10,000 dexterous hands by the end of 2026 and currently employs over 500 people, including nearly 300 engineers. Xia stated that the company aims to become the Nvidia of dexterous manipulation by providing the crucial interface between AI and the physical world.
+  中文：总结：中国独角兽灵巧手开发商曦诺未来正寻求新一轮融资，部分用于扩大批量生产能力，创始人兼CEO Alex Xia向Mergermarket表示。 该公司在不到12个月内通过四轮融资筹集了大约CNY 1.5bn（USD 223.2m），现有股东包括宁德时代、小米、京东、美团和蔚来等互联网及新能源汽车行业参与者。 曦诺未来成立于2024年，总部位于杭州，开发灵巧手及其控制算法，定位为具身AI操作的全栈提供商。 其旗舰仿生灵巧手涵盖Flex系列（采用结合腱绳和直驱系统的混合驱动技术）和Prima系列（采用纯直驱架构）。 该公司目标是在2026年底前实现年产10,000只灵巧手的产能，目前拥有500多名员工，其中近300名为工程师。 Xia表示，公司旨在成为灵巧操作领域的Nvidia，提供连接AI与物理世界不可或缺的接口。
+  📰 [ION Analytics](https://ionanalytics.com/insights/mergermarket/xynova-seeks-fresh-funding-as-it-aims-to-become-the-nvidia-of-dexterous-manipulation/)
+
+- **[2026.09.04] 机器人大讲堂 — 通用机器人配通用手：黑漫 x 乐聚发布工业通用灵巧手“大圣1”**
+  中文：总结：9月4日，黑漫科技联合乐聚机器人正式推出大圣1工业级可变构灵巧手，以可重构构型思路破解行业痛点。 大圣1采用4指、11主动自由度设计，单手勾握负载大于等于24 kg，重复定位精度小于等于0.03 mm，指尖力大于等于18 N，控制频率100 Hz以上。 该产品通过在仿人手灵巧形态与工业夹爪形态之间切换，具备7+N种作业构型，旨在通过单一末端执行器的动态构型切换替代传统多套夹爪轮换作业，兼具重载稳定与精细操作。 黑漫科技成立于2025年7月，由上市公司申昊科技战略投资、联合孵化。 大圣1已覆盖小件上料、拆垛码垛、快递分拣等典型场景，其构型与工件的对应关系被精细划分，可接入机械臂与人形机器人平台，支撑从遥操作示范到仿真与真机验证的完整链路。 行业研报测算显示，灵巧手环节市场规模将从2025年约13.62亿元增至2030年约207.28亿元。
+  📰 [机器人大讲堂](https://www.leaderobot.com/news/9447)
+
+- **[2026.09.04] finance.biggo.com — Eric Li: The Robot Tactile Sensing Breakthrough Arrives by End of This Year — Optical Sensor Resolution Already 200x Human Fingertips**
+  English: Embodied intelligence researcher Chen Tianyi noted that relying solely on vision to tighten a screw is insufficient because robots realize excessive force only after the screw is stripped, exposing the lack of tactile sensing as the robotics industry's biggest shortcoming. As of September 2026, Yimu Technology founder Eric Li predicted that the next milestone in tactile sensing will occur by the end of this year or early next year, driven by humanoid robot mass-production schedules. Tactile sensing encompasses force (vertical pressure, lateral friction, torque) and morphology (texture, shape, hardness, elasticity). Market technologies fall into five camps, with no single route covering an entire robot. Following human biology, robots should deploy high-precision optical sensors on fingertips while using lower-cost piezoresistive or capacitive sensors on palms and arms. Yimu Technology's optical sensor resolution has reached 240,000 sensing points, roughly 20 times the number of neurons in a human fingertip, with single fingertip sensors costing around 1,000 yuan (approximately $149), which Eric Li believes can drop to a few hundred yuan as volume scales. Meanwhile, capacitive solutions cost one-quarter to one-half of optical options and have seen batch deployment.
+  中文：总结：具身智能研究员陈天一指出，仅靠视觉拧螺丝是不够的，因为机器人直到螺丝滑丝才意识到用力过猛，这暴露出缺乏触觉感知是机器人行业的最大短板。 截至2026年9月，依眸科技创始人Eric Li预测，在人形机器人量产日程的推动下，触觉传感的下一个里程碑将在今年底或明年初到来。 触觉感知包含力（垂直压力、横向摩擦、扭矩）和形态（纹理、形状、硬度、弹性）。 市场上的技术分为五大阵营，没有单一路线能覆盖整个机器人。 仿照人类生物学，机器人应在指尖部署高精度光学传感器，而在手掌和手臂上使用成本较低的压阻式或电容式传感器。 依眸科技的光学传感器分辨率已达到240,000个传感点，约为人类指尖神经元数量的20倍，单个指尖传感器成本约为1,000元（约合$149），Eric Li相信随着规模扩大，成本可降至几百元。 同时，电容式解决方案的成本仅为光学选项的四分之一到一半，并已实现批量部署。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/b0ff5e0247745347)
+
+- **[2026.09.03] newswitch.jp — 人型ロボットの多指ハンドなどに提案…大阪大学、ワイヤ１本で流体供給**
+  日本語：大阪大学の池田信吏大学院生、三上玖神研究生、多田隈建二郎教授らは、コーティングワイヤで流体を供給できることを発見した。 金属線をより合わせて樹脂で被覆したコーティングワイヤを空気の通り道として利用するもので、ワイヤが曲がっても隙間が維持されて流路として機能する。 継ぎ手と空圧式人工筋肉を接続して検証したところ、直径0.8ミリメートルのワイヤは0.5メガパスカルの圧力で人工筋肉を約10秒で膨らませられ、直径0.45ミリメートルのワイヤは膨縮に1時間程度かかることが分かった。 さらに、ワイヤを引いて曲げ伸ばしするロボットの手と指を作製し、指先に把持対象の形に合わせるための空圧バルーン構造を搭載した。 空圧で膨らませて把持対象に密着させることで形状への適応性を高め、把持状態の監視にも活用できる。 この技術により、従来は個別に必要だった空圧や力などの配線を減らし、ヒューマノイドロボットの多指ハンドなど大きさの制限が厳しい精密機械向けに提案していく。
+  中文：总结：大阪大学的池田信吏大学院生、三上玖神研究生、多田隈建二郎教授等人发现通过涂层导线可以供应流体。 该技术利用绞合金属线并覆盖树脂的涂层导线作为空气通道，即使导线弯曲也能维持空隙并起到流路作用。 通过连接接头和气动人工肌肉进行验证，直径0.8毫米的导线在0.5兆帕斯卡压力下能在约10秒内使人工肌肉膨胀，而直径0.45毫米的导线膨胀和收缩大约需要1小时。 此外，研究团队制作了通过拉动导线进行弯曲和伸展的机器人手和指，并在指尖搭载了用于贴合抓取对象形状的气囊结构。 通过气动膨胀使其与抓取对象紧密贴合，提高了对形状的适应性，气压还可用于监测抓取状态。 通过这项技术，可以减少以往需要各自配线的气压和力等线路，并将其向人形机器人的多指手等尺寸限制严格的精密机械进行推广应用。
+  📰 [newswitch.jp](https://newswitch.jp/p/50167)
+
+- **[2026.09.02] Tech Briefs — Nature vs. Nurture with Regards to Robotic Hands**
+  English: How robotic or prosthetic hands learn complex tasks like grasping and rotating a ball has long challenged roboticists, who traditionally insisted on incorporating tactile sensors because sensitive skin and nerve endings help humans learn and adapt. However, researchers in the ValeroLab at the USC Viterbi School of Engineering — including Romina Mir, Ali Marjaninejad, Andrew Erwin, and Professor Francisco Valero-Cuevas — investigated whether tactile sensation is always necessary. Using computational modeling and machine learning in a paper published in Science Advances titled “Curriculum Is More Influential Than Haptic Information During Reinforcement Learning of Object Manipulation Against Gravity,” the team demonstrated that the learning sequence, or curriculum, is critical. The study revealed that if the curriculum follows a specific sequence, a simulated three-finger robotic hand can learn to manipulate objects even with incomplete or absent tactile sensation. Co-First Author Mir noted that the reward sequence is vital for training, while Professor Valero-Cuevas emphasized that reward guides system development just as biological systems result from experience, creating a powerful link between machine learning and biology for advanced AI adaptation in the physical world.
+  中文：总结：机器人或假肢手如何学习抓取和旋转球等复杂任务长期以来一直挑战着机器人专家，他们传统上坚持加入触觉传感器，因为敏感的皮肤和神经末梢有助于人类学习和适应操作。 然而，南加州大学维特比工程学院ValeroLab的研究人员（包括Romina Mir、Ali Marjaninejad、Andrew Erwin和Francisco Valero-Cuevas教授）研究了触觉是否总是必需的。 在一篇发表于《科学进展》杂志上题为《Curriculum Is More Influential Than Haptic Information During Reinforcement Learning of Object Manipulation Against Gravity》的论文中，该团队使用计算建模和机器学习证明了学习顺序（即课程）至关重要。 研究表明，如果课程遵循特定的顺序，模拟的三指机器人手即使在触觉不完整或缺失的情况下也能学会操作。 共同第一作者Mir指出，奖励顺序对训练至关重要，而Valero-Cuevas教授强调，奖励指导系统发展，正如生物系统是经验的产物一样，这为机器学习和生物学之间建立了强有力的联系，有助于先进AI系统在物理世界中学习和适应。
+  📰 [Tech Briefs](https://www.techbriefs.com/component/content/article/55757-nature-vs-nurture-with-regards-to-robotic-hands)
+
+- **[2026.09.02] PR Newswire — TwinDEX Introduces a Scalable Path from Robot-Free Data Collection to Real-World Dexterous Manipulation**
+  English: X Square Robot introduced TwinDEX on September 2, 2026, a co-designed three-finger, nine-DoF dexterous manipulation interface consisting of a wearable device for data collection and a matching robotic end effector for deployment. Both systems share a three-finger configuration comprising seven active and two passive degrees of freedom, designed to balance dexterity, mechanical complexity, cost, and reliability. TwinDEX aligns kinematic chains, joint axes, link proportions, contact geometry, surface materials, visual appearance, and sensor placement between the collection and deployment devices to bridge the embodiment gap and map finger states directly to robot joint space. The wearable collection device allows an operator to collect data in real environments without using a robot, delivering up to 5.3 times the effective throughput of on-robot teleoperation while preserving natural feedback for contact-rich tasks. Evaluated on everyday tasks like cap twisting, sweeping, and opening books, TwinDEX achieved up to 5.3 times the effective throughput of on-robot teleoperation and was successfully tested on a standardized chemistry experiment executed autonomously in a single uncut run across 24 sub-actions.
+  中文：总结：X Square Robot于2026年9月2日は推出了TwinDEX，这是一套共同设计的三指九自由度灵巧操作界面，包含一个用于数据收集的可穿戴设备和一个用于部署的配套机器人末端执行器。 两个系统共享一个包含七个主动和两个被动自由度的三指配置，旨在平衡灵活性、机械复杂度、成本和可靠性。 TwinDEX在收集和部署设备之间对齐了运动学链、关节轴、连杆比例、接触几何形状、表面材料、外观和传感器放置，以弥合具身差距并直接将手指状态映射到机器人关节空间。 可穿戴收集设备允许操作员在不使用机器人的情况下在真实环境中收集数据，提供高达机器人遥操作5.3倍的有效吞吐量，同时为富含接触的任务保留自然反馈。 在瓶盖扭动、扫地和打开书籍等日常任务的评估中，TwinDEX实现了高达机器人遥操作5.3倍的有效吞吐量，并在一项跨越24个子动作、单次未剪辑运行中自主执行的标准化化学实验中成功测试。
+  📰 [PR Newswire](https://www.prnewswire.com/news-releases/twindex-introduces-a-scalable-path-from-robot-free-data-collection-to-real-world-dexterous-manipulation-302867559.html)
+
+- **[2026.09.01] gasgoo.com — 福莱新材向灵心巧手交付超3万套触觉传感器**
+  中文：总结：8月31日，福莱新材宣布向灵心巧手累计交付超3万套触觉传感器，标志着双方战略合作迈向规模化落地新阶段。 本次交付的触觉传感器主要搭载于灵心巧手旗下的Linker Hand O6工业级灵巧手，依托福莱新材自研的“芯感一体”高度集成架构，将高精度传感单元与微处理器精密集成，在每个指尖构建独立信号处理单元，实现从“单纯感知”向“触觉智能TPU”的技术跨越。 福莱新材与灵心巧手于今年2月达成全面战略合作，协议规定灵心巧手向福莱新材采购10万套触觉传感器，目前订单兑现已超3成。 福莱新材作为柔性传感技术领军企业，近期还与戴乐体感、中科硅纪及灏存科技达成了触觉传感批量采购或数据采集合作。 此前，福莱新材与灏存科技联合研发的新一代触觉数据采集手套已在世界机器人大会首发亮相，集成了数百个触觉传感点，支持全手三维力感知并降低佩戴束缚感。
+  📰 [gasgoo.com](https://www.gasgoo.com/robot/news/70470885-%E7%A6%8F%E8%8E%B1%E6%96%B0%E6%9D%90%E5%90%91%E7%81%B5%E5%BF%83%E5%B7%A7%E6%89%8B%E4%BA%A4%E4%BB%98%E8%B6%853%E4%B8%87%E5%A5%97%E8%A7%A6%E8%A7%89%E4%BC%A0%E6%84%9F%E5%99%A8/)
+
+
+---
+※Dexterous Hand News Digest | 2026.09.09 | full-text items: 8
