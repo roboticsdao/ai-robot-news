@@ -1,0 +1,49 @@
+# 🖐 Dexterous Hand News | 2026.09.13（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.09.12] Interesting Engineering — Why robot hands are one of the hardest problems in humanoid robotics**
+  English: A humanoid robot can run, jump, dance, and even perform a backflip, yet ask it to fold a shirt, pick up a wet sponge, or turn a key, and the problem suddenly becomes much harder. That sounds counterintuitive. A backflip looks vastly more complicated than picking up a shirt. But for a robot, the backflip is a largely predictable sequence of precisely controlled movements. Household work is full of uncertainty.
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/why-building-a-human-like-robotic-hand-is-so-incredibly-difficult)
+
+- **[2026.09.12] 新浪财经 — 千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力|灵巧手|数据|指尖|物体|传感器_手机新浪网**
+  中文：总结：千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力 （来源：环球网资讯） 来源：环球网 【环球网科技综合报道】9月11日消息，在近日的2026浦江创新论坛期间，千觉机器人携触觉感知成果亮相。 现场，一位观众用 XTac UMI G1 穿戴式数采夹爪夹起一枚薄薄的名片，旁边的屏幕上，位姿信息、多模态触觉信息、相机图像、IMU数据、夹爪开口角度同步呈现——一次夹取动作，被拆解成了可记录、可分析的多模态数据。 据悉，千觉围绕真实物理交互中的触觉感知与数据采集，展示了XTac UMI G1穿戴式数采夹爪、多模态触觉传感器及整手触觉解决方案。 在真实操作中，接触会分布在灵巧手的不同区域。 托举物体时，接触主要发生在指尖和指腹；抓握则需要掌心与多个手指区域形成更大范围的接触；旋拧、调整和重新定位物体时，接触位置、受力方向与滑移状态则会持续变化。 千觉整手触觉解决方案2.0将指尖视触觉传感器、多区域柔性电子皮肤与触觉端侧算力HUB组合在同一套系统中。
+  📰 [新浪财经](https://finance.sina.cn/stock/jdts/2026-09-12/detail-inirpute8529817.d.html?oid=800&vt=4&cid=76993&node_id=76993)
+
+- **[2026.09.12] Gasgoo — Interview with Zhaowei's Chen Yidong: For Dexterous Hands, the First Design Goal Is to "Look Good"**
+  English: Gasgoo Munich- It took humanity millions of years to stand upright, but the trait that truly separates us from the rest of the animal kingdom isn't our legs — it's our hands. Opposable thumbs, rich tactile nerve endings, and a feedback system capable of rapidly adjusting grip strength: this is the precision machinery that allows a human hand to pick up a needle or swing a hammer with equal ease.
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/interview-with-zhaoweis-chen-yidong-for-dexterous-hands-the-first-design-goal-is-to-look-good-2098620634212241409)
+
+- **[2026.09.11] gasgoo.com — 均胜电子-灵犀专业版灵巧手 | 申报2026 第八届金辑奖中国汽车新供应链百强**
+  中文：总结：盖世汽车社区2026-09-11 申报奖项：中国汽车新供应链百强 申报领域：具身智能与跨界技术 申报技术：灵犀专业版灵巧手 创新点：全球首款“掌内混合驱动”灵巧手 技术描述： 业内独创的“掌内集成+混合驱动”灵巧手，具备20个自由度，掌内集成直驱、腱绳和连杆三种驱动方式。 集成的微型执行器，不仅体积减半、重量减轻30%，扭矩密度高于行业竞品2~3倍；自研的电子皮肤拥有全球独创物理原生解耦的三维力感知技术，感知分辨率媲美人手感知。 面向机器人复杂场景而生。 “金辑奖”由盖世汽车发起，秉承“发现好公司、推广好技术、成就产业人”的使命。 2026年，第八届金辑奖以“中国方案向全球”为年度主题，聚焦汽车产业核心技术与创新赛道，寻找在中国市场形成、经过中国汽车产业验证，并具备全球复制价值的技术、产品、工程体系与产业协同能力。 围绕真实问题、产业验证、全球适配与长期价值，金辑奖将依托盖世汽车32万家企业供应链数据库及产业研究能力，通过企业申报、产业数据和专家评审等多维度评价，发现具有产业价值与全球潜力的创新成果，并进一步沉淀为面向全球汽车产业的创新案例库。
+  📰 [gasgoo.com](https://m.gasgoo.com/news/70471835.html)
+
+- **[2026.09.10] AI Insider — Japan's Algomatic Dynamics Laucnhes with $32.5M in Funding to Develop Physical AI, Robotic Hand**
+  English: Insider Brief - Algomatic Dynamics has raised $32.5 million from DMM. com in its first funding round as it prepares to launch an AI-powered multi-fingered robotic hand platform in Japan by the end of 2026. - The startup is developing technology for motion-data collection, robot learning, tactile robotic hands, bipedal stability and video-based capture of tacit human skills, with systems designed to work across different robots and environments.
+  📰 [AI Insider](https://theaiinsider.tech/2026/09/10/japans-algomatic-dynamics-laucnhes-with-32-5m-in-funding-to-develop-physical-ai-robotic-hand/)
+
+- **[2026.09.10] sh.sina.cn — 40余家机器人厂商外滩大会同台竞技：灵巧手年出货破万，三大进化趋势浮现**
+  中文：总结：40余家机器人厂商外滩大会同台竞技：灵巧手年出货破万，三大进化趋势浮现 一只机械手正在弹奏三角钢琴，指尖起落之间，音符流畅倾泻而出。 另一侧，一台软绒包裹的小型机器人正用眼神锁定路过的观众，随即迈开步子迎上去，随音乐即兴起舞。 再往里走，一台轮式双臂机器人正蹲在洗衣机前，自主识别螺栓孔位，精准完成装配。 9月9日至12日，以“共创AI新经济”为主题的2026 Inclusion·外滩大会在上海举行。 其中，来自张江机器人谷、漕河泾新兴技术开发区、合肥科大硅谷等超过40家具身智能厂商在解放日报社与外滩大会设立的“机器人小镇”集中亮相，成为本届大会最受关注的板块之一。 今年外滩大会，机器人不再只是展台上的表演者。 它们能跳舞、能弹琴，但更重要的是，它们正在产业和生活中真干活。 而支撑这一变化的，正是机器人技术的三大进化趋势：头脑更通用、手指更灵活、场景更垂直。
+  📰 [sh.sina.cn](https://sh.sina.cn/news/2026-09-10/detail-inirihny2988061.d.html?oid=%E6%80%8E%E4%B9%88%E4%B9%B0%E6%BE%B3%E9%97%A8%E7%9A%84%E5%BD%A9%E7%A5%A8%E3%80%90%E9%97%AE%EF%BC%9ABet0009.NET%E3%80%91.pdjw&vt=4&cid=56306&node_id=56306)
+
+- **[2026.09.10] 新浪网 — 月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控**
+  中文：总结：（来源：智东西） 智东西 作者 ZeR0 编辑 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。 本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。 英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理论与技术，发布应手Y-Hand系列灵巧手、YQ Motors系列电机、YQ Muscles人工肌肉模组等自研产品矩阵。
+  📰 [新浪网](https://k.sina.com.cn/article_5952915720_162d2490806704pt1q.html?from=tech)
+
+- **[2026.09.09] 每日经济新闻 — 对话帕西尼创始人兼CEO许晋诚：人形机器人工厂规模化落地在即，灵巧手寿命问题不能一概而论**
+  中文：总结：2026-09-09 11:17:27 每经记者｜陈鹏丽 每经编辑｜魏文艺 在刚刚过去的一个多月里，国内具身智能领域独角兽企业帕西尼人工智能科技（北京）股份有限公司（以下简称“帕西尼”）先后宣布了多项“大事”——总部迁至北京、完成股份制改造，以及收获新一轮10亿元战略融资。 成立逾5年、融资近40亿元，让帕西尼成为全球触觉感知领域累计融资金额最大的企业。 9月7日下午，《每日经济新闻》（以下简称NBD）记者在深圳采访了帕西尼创始人兼CEO（首席执行官）许晋诚。 在这场对话中，许晋诚谈到了企业的发展规划问题，也谈到了对人形机器人商业化落地和灵巧手寿命瓶颈的看法。 NBD：目前公司的人形机器人客户情况如何，比如产品ROI（投资回报率）、人工替代率方面能否介绍下？ 许晋诚：人形机器人方面，我们已有很多不同产业的客户。 这些客户也已经多品类、少量地在一些非结构化的环境里使用机器人去执行任务。
+  📰 [每日经济新闻](https://www.nbd.com.cn/articles/2026-09-09/4576497.html)
+
+
+---
+※Dexterous Hand News Digest | 2026.09.13 | full-text items: 8
