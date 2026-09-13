@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.13（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.12] Stocktwits — Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance**
+  English: Nvidia CEO Jensen Huang stated on Monday that humanoid robots are very close to industrial reality as Nvidia and Hyundai deepen their partnership to bring physical AI and robotics into real-world industrial products. According to Bloomberg, Huang and Hyundai Motor Executive Chair Chung Euisun detailed plans to focus on moving from labs to factory floors, leveraging Hyundai's manufacturing capabilities. The collaboration builds on an October partnership where Hyundai agreed to set up an AI factory powered by Nvidia’s Blackwell infrastructure. Chung and Huang also discussed Hyundai’s 9 trillion won ($5. 9 billion) initiative to build South Korea’s AI Valley, with Huang agreeing to join the project. Meanwhile, Tesla’s Optimus humanoid robot project remains in the early commercialization phase. Nvidia shares rose over 2% in pre-market trade, are up 10% year-to-date, and gained 47% over the past 12 months.
+  中文：总结：英伟达CEO黄仁勋于周一表示，人形机器人距离成为工业现实已“非常非常近”，同时英伟达与现代汽车深化合作，将具身智能和机器人技术引入现实工业产品中。 据彭博社报道，黄仁勋与现代汽车执行会长郑义宣详细讨论了将技术从实验室推向工厂车间的计划。 双方在此前合作基础上继续推进，现代此前宣布将建立由英伟达Blackwell基础设施驱动的AI工厂。 郑义宣和黄仁勋还讨论了现代建设韩国“AI谷”的9万亿韩元（$5. 9 billion）计划，黄仁勋表示将加入该项目。 与此同时，特斯拉的Optimus机器人项目仍处于早期商业化阶段。 英伟达股价在周一盘前交易中上涨超过2%，今年迄今已上涨10%，过去12个月上涨47%。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/jensen-huang-humanoid-robots-close-to-reality-nvidia-hyundai-alliance/cZ0vd26R7G9)
+
+- **[2026.09.12] scanx.trade — RoboStrategy CEO: Tesla's robotics edge is manufacturing, not AI**
+  English: RoboStrategy CEO Andrew Kang argues that Tesla's greatest long-term advantage in humanoid robotics lies in its manufacturing competency and scale rather than its artificial intelligence capabilities alone. Kang told Benzinga that manufacturing scale enables robot production at volumes few competitors can match and provides a crucial advantage in procuring real-world operational data. Although Optimus has not released many long-horizon autonomous capabilities publicly, Kang notes that large amounts of robot data serve as vital inputs for training AI models. This perspective views manufacturing and AI as reinforcing each other rather than acting as separate strengths. As Optimus moves closer to commercial production, investors will observe how this manufacturing scale translates into a lasting lead.
+  中文：总结：RoboStrategy公司CEO安德鲁·康（Andrew Kang）认为，特斯拉在人形机器人领域最具长期优势的是其制造能力和规模，而非单纯的AI能力。 康向Benzinga表示，制造规模使特斯拉能够以极少数竞争对手能匹配的产量制造机器人，并在获取现实运营数据方面提供关键优势。 尽管Optimus尚未公开发布太多长视野自主能力，但康指出，大量的机器人数据可作为训练AI模型的关键输入。 这种观点认为制造与AI相互促进，而非各自独立的优势。 随着Optimus向商业化生产迈进，投资者将观察这种制造规模如何转化为持久的领先地位。
+  📰 [scanx.trade](https://scanx.trade/stock-market-news/companies/robostrategy-ceo-tesla-s-robotics-edge-manufacturing-not-ai/49212317)
+
+- **[2026.09.12] IoT News — Skild trains S1 robot physical AI model on NVIDIA infrastructure**
+  English: Skild AI has launched its S1 robot foundation model on NVIDIA infrastructure, using single video demonstrations to train robotics systems for long-horizon tasks through in-context learning without parameter weight updates. CEO Deepak Pathak stated that learning by experience is a major change in robotics, aided by NVIDIA Isaac Lab and Cosmos technologies. S1 replaces traditional retraining cycles by taking operator video recordings as prompts, handling unencountered tasks up to 10 minutes long with an average per-step success rate of about 66 percent. Additionally, Foxconn, NVIDIA, and Skild are deploying the Skild Brain on dual-arm manipulators for assembly work on NVIDIA Blackwell systems, utilizing accelerated computing, simulation solvers, and foundation models.
+  中文：总结：Skild AI在英伟达基础设施上推出了S1机器人基础模型，通过单段视频演示利用上下文学习来训练机器人系统执行长视野任务，且无需进行参数权重更新或特定任务后训练。 CEO迪帕克·帕塔克（Deepak Pathak）表示，通过经验学习是机器人领域的重大变革。 S1通过采用操作员的视频录制作为提示来替代传统的重新训练周期，能够处理长达10分钟且未曾遇到的任务，平均每步成功率约为66%。 此外，富士康、英伟达和Skild正将Skild Brain部署在双臂机械手上，用于英伟达Blackwell系统上的组装工作，并利用加速计算、仿真求解器和基础模型。
+  📰 [IoT News](https://iottechnews.com/news/skild-trains-s1-robot-physical-ai-model-on-nvidia-infrastructure/)
+
+- **[2026.09.11] 36 Kr — The world's largest, Google is queuing up to buy Figure, and this team has built the most popular robot in Silicon Valley.**
+  English: A Silicon Valley physical AI team named Maxinsights has emerged as the backend data infrastructure provider for top robotics players such as Google DeepMind, Figure, 1X, Genesis AI, and Dyna Robotics. The company has accumulated a high-quality data stock of 1. 5 million hours and completed 2 million hours of data delivery worldwide, utilizing powerful data processing algorithms to extract usable learning materials frame by frame from complex egocentric first-person videos. Traditional teleoperation is expensive and slow, whereas first-person egocentric data records operators interacting with objects in natural environments. Maxinsights officially launched its business in China in March to scale human everyday experience into training fuel for physical AI, addressing the challenge that robots lack ready-made internet datasets comparable to text and images.
+  中文：总结：一家名为Maxinsights的硅谷具身智能团队已成为Google DeepMind、Figure、1X、Genesis AI和Dyna Robotics等顶级机器人公司的幕后数据基础设施提供商。 该公司通过强大的数据处理与算法能力，从复杂的具身第一人称视角视频中逐帧提取可用学习材料，累计了150万小时的高质量数据库存，并在全球完成了200万小时的数据交付。 传统的遥操作昂贵且缓慢，而第一人称视角数据记录了操作员在自然环境中与物体的交互过程。 Maxinsights于今年3月在中国启动业务，旨在将人类在现实中的日常经验转化为具身智能的训练燃料，以解决机器人缺乏类似文本和图像的现成互联网数据集的难题。
+  📰 [36 Kr](https://eu.36kr.com/en/p/3978805053078278)
+
+- **[2026.09.11] Benzinga — Apptronik’s Private Market Share Soars 3,600% on Humanoid Robot Hype**
+  English: Apptronik’s private market share price has surged more than 3,600% since June 2022, rising from 99 cents to $36. 97 per share on September 10, according to Forge Global data, while its valuation grew from $5. 3 million to roughly $5. 3 billion. The Austin-based startup develops Apollo, a general-purpose humanoid robot designed to work in factories, warehouses, and commercial settings. The company's funding accelerated following an early valuation of about $100 million in 2023, with extended Series A financing in 2025 and 2026 pushing the valuation to $5. 3 billion. Apptronik’s investors and corporate backers include Google, Mercedes-Benz, John Deere, B Capital, AT&T Ventures, Qatar Investment Authority, and ARK Invest. The company has raised nearly $1 billion as major technology and industrial companies show increasing interest in deploying humanoid robots for repetitive or physically demanding work.
+  中文：总结：根据Forge Global的数据，自2022年6月以来，Apptronik的私募市场股价已飙升3600%以上，从每股99美分上涨至9月10日的$36. 97 per share，其估值也从$5. 3 million增长至约$5. 3 billion。 这家总部位于奥斯汀的初创公司正在开发Apollo，这是一款通用人形机器人，旨在工厂、仓库和商业环境中工作。 在2023年初估值达到约$100 million之后，该公司融资进程加速，2025年和2026年的扩展A轮融资将估值推高至$5. 3 billion。 Apptronik的投资方和企业支持者包括谷歌、梅赛德斯-奔驰、约翰迪尔、B Capital、AT&T Ventures、卡塔尔投资局和ARK Invest等。 随着大型科技和工业企业对部署人形机器人从事重复性或体力消耗工作表现出越来越高的兴趣，该公司已筹集了近$1 billion资金。
+  📰 [Benzinga](https://www.benzinga.com/markets/private-markets/26/09/61724876/apptroniks-private-market-share-soars-3600-on-humanoid-robot-hype)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.13] k.sina.com.cn — 单日3000美元！宇树人形机器人海外开租，10次即可收回成本**
+  中文：总结：宇树人形机器人在海外开展了租赁业务，单台机器人的日租金高达$3000 dollars。 美国一家名为Robonow Global的公司一口气购入了50多台宇树G1 E组建全美机器人车队，报价为每天$3000 dollars，运费和安装费另计。 目前大部分订单用于商业展会、品牌活动和派对表演，而非进厂干活。 此外，日本的EmplifAI公司采购了3台宇树G1用于科研机构和展会出租。 与此同时，宇树科技官宣推出天才少年计划，无偿资助热爱科技的学生，资助金额在10000至20000元之间，不要求学生最终必须产出特定的商业成果。
+  📰 [k.sina.com.cn](http://k.sina.com.cn/article_5953466437_162dab0450670bahqa.html)
+
+- **[2026.09.13] 新浪财经 — 机器人化身“大厨”**
+  中文：总结：在2026年北京中国国际服务贸易交易会上，餐饮机器人凭借制作咖啡、煎饼果子、烤肠、冰淇淋和中式热炒等展品吸引了大量关注。 AI智能咖啡机器人可全自动完成磨豆、萃取、打奶泡和拉花，全自动煎饼机器人和智能烤肠机等设备在无人工看管下持续作业。 “七鲜小厨”智能移动餐车搭载了3台智能炒菜机器人与一体化咖啡机，提供家常热炒和饮品。 相关负责人表示，该系统依托AI菜谱算法驱动，通过采购、冷链履约、智能烹饪和现场售卖的全闭环，将AI算力转化为可落地的线下餐饮服务能力。
+  📰 [新浪财经](https://finance.sina.cn/2026-09-12/detail-inirpcvs7005084.d.html?vt=4)
+
+- **[2026.09.10] hzzx.gov.cn — 中国人形机器人全球出货量超97% 越跑越快的宇树们正带着中国机器人产业链提速**
+  中文：总结：在北京举行的第二届世界人形机器人运动会上，宇树科技的“天工Ultra”以8. 64秒的成绩夺得百米决赛冠军，其机器人还实现了2米的原地跳高。 市场研究机构SAG的数据显示，2026年上半年全球人形机器人出货量达1. 9万台，中国厂商贡献了97%以上，宇树科技和智元机器人位列前两名。 出货量的增长带动了中国机器人供应链的加速发展，例如浙江哈楠业科技有限公司的磁码盘出货量达到去年同期的3倍。 行业分析师指出，中国依托现有的汽车和消费电子供应链，在长三角形成了强大的制造生态，不过在高端部件和算力芯片上仍存在对外依赖。
+  📰 [hzzx.gov.cn](https://www.hzzx.gov.cn/content/2026-09/10/content_9303336.htm)
+
+- **[2026.09.13] t.cj.sina.cn — 优必选万台级工业人形机器人超级智慧工厂在柳投产**
+  中文：总结：优必选柳州工业人形机器人超级智慧工厂于9月12日正式投产，定位为全球首个适配万台级产能的人形机器人智能制造标杆工厂。 该超级智慧工厂占地面积1. 4万平方米，楼高13. 8米，主要生产Walker S系列、Cruzr系列具身智能工业人形机器人，按照设计节拍每10分钟可下线1台，年规划产能超万台。 优必选联合西门子打造了专属数字化智造底座，破解量产痛点。 工厂依托数字化智慧大脑系统全域调度，将多款自研具身智能机器人融入生产作业，助推柳州向新型工业化示范区转变并构建智能机器人产业新高地。
+  📰 [t.cj.sina.cn](https://t.cj.sina.cn/articles/view/7517400647/1c0126e470590983tw)
+
+- **[2026.09.12] chinanews.com.cn — 广西首个“用机器人造机器人”工厂投产**
+  中文：总结：优必选柳州工业人形机器人超级智慧工厂于9月12日在广西柳州市投产，成为广西首个实现“用机器人造机器人”闭环的智造工厂。 该工厂主要生产Walker S系列和Cruzr系列具身智能工业人形机器人，每10分钟可下线1台，年规划产能超万台。 工厂依托工业仿真系统智能规划和数字化智慧大脑进行全域调度，物料供给由Cruzr系列机器人参与，总装环节采用协作机器人方案。 优必选创始人周剑表示，工厂将联动柳州制造业资源沉淀工业具身智能数据，柳州市官方则期待将其打造为辐射东盟的智能机器人产业新高地。
+  📰 [chinanews.com.cn](https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.13] Vietnam.vn — ファナックとグーグルが、AI搭載の自動溶接ロボット開発で協力。**
+  日本語：Japanese industrial automation firm Fanuc and tech giant Google have developed an automated welding system using AI-powered robots capable of working directly from blueprints without requiring human programmers. Scheduled for release in December, the AI-powered welding software uses Google’s Gemini Enterprise AI platform to allow tablet scanning of paper technical drawings, instructing the system on specific requirements like voltage, current, speed, and welding positions. The robot arm then executes the task automatically while accommodating handwritten notes and allowing operator adjustments. Developed as part of Fanuc's physical AI initiatives, the subscription-based system is planned for widespread deployment in electronics and furniture industries with built-in security to prevent data leaks.
+  中文：总结：日本工业自动化企业发那科（Fanuc）与科技巨头谷歌开发了一种自动溶接系统，该系统利用人工智能驱动的机器人，能够根据设计图直接作业，而无需人类程序员。 该AI驱动的溶接软件定于12月发布，利用谷歌的Gemini Enterprise AI平台，允许通过平板电脑扫描纸质技术图纸，向系统指示电压、电流、速度和溶接位置等具体要求。 随后，机械臂自动完成作业，同时可读取手写便签并允许操作员进行调整。 作为发那科致力于物理AI开发的一部分，该基于订阅的系统计划在电子和家具行业广泛推广，并内置了防止数据泄露的安全保护层。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/fanuc-va-google-hop-tac-phat-trien-robot-ai-han-tu-dong)
+
+- **[2026.09.10] ugo.plus — お知らせ｜ｕｇｏ、双腕セミヒューマノイド向けVTLAモデル開発が経済産業省・NEDOが推進する国家プロジェクトGENIACに採択〜製造組立データ収集からVTLA開発・実機実証までを国内自社基盤で完結。**
+  日本語：ugo Inc. has been selected for the GENIAC national project promoted by Japan's Ministry of Economy, Trade and Industry and NEDO to develop a Vision-Tactile-Language-Action model for dual-arm semi-humanoids in contact-rich manufacturing assembly. Japan's manufacturing sector faces severe labor shortages and changing demands, creating a need for autonomous physical AI solutions in assembly tasks. ugo will build a vertically integrated development framework at its own factory to collect approximately 300,000 manufacturing assembly episodes, integrating visual, tactile, language, and action data. The project aims to achieve 'dark factories'—production lines operating with minimal personnel and energy—while addressing projected labor shortages and rising industrial energy costs.
+  中文：总结：ugo株式会社的“双腕セミヒューマノイドによるコンタクトリッチな製造組立作業の自律化に向けたVTLAモデルの開発”提案が、经济产业省与NEDO推进的国家项目GENIAC中被采纳。 日本制造业面临熟练工减少及多品种少量生产的课题，亟需在接触类组装作业中应用物理AI。 ugo将在自家工厂构建垂直整合开发体制，收集约30万件包含触觉数据的制造组装作业数据，开发整合视觉、触觉、语言、动作的VTLA模型。 该项目旨在通过少人数与省能量实现“黑暗工厂”，应对劳动力短缺和工业电力成本上升的挑战。
+  📰 [ugo.plus](https://ugo.plus/information/2026/09/09/geniac/)
+
+- **[2026.09.11] 株式会社インプレス — AIが図面を読み取りロボットの溶接動作を自動で生成 ファナック「AI溶接エージェント」を開発**
+  日本語：Fanuc has developed an AI Welding Agent utilizing Google Cloud's Gemini Enterprise technology to enable industrial robots to read part blueprints and perform arc welding automatically with zero manual setting and zero teaching. The AI system interprets design diagrams to understand materials, determine welding conditions such as current and voltage, and generate robot motion paths automatically. Operators can execute the generated program directly or make minor adjustments. Data processed through Gemini Enterprise is secured and will not be used for other users' AI training. Fanuc will demonstrate the AI Welding Agent at the International Welding Show in Tokyo Big Sight starting September 16 and begin shipments at the end of December.
+  中文：总结：发那科（Fanuc）利用谷歌云的Gemini Enterprise最新技术，开发出能够读取零件图纸并执行电弧焊的“AI溶接エージェント（AI溶接代理）”，实现零设定、零教示的机器人自动溶接。 该AI系统可解读零件设计图，理解所用材料并自动生成电流、电压等溶接条件及机器人动作。 操作员可直接执行生成的结果或进行微调。 通过Gemini Enterprise处理的图纸等数据受到安全保护，不会被挪作他用进行AI学习。 发那科将于9月16日起在东京国际展览中心举行的国际溶接展上进行实演，并于12月底出货。
+  📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2140343.html)
+
+- **[2026.09.10] monoist.itmedia.co.jp — 安川電機が協働ロボットの新モデル、新開発のトルクセンサー採用**
+  日本語：Yaskawa Electric has launched the MOTOMAN-HC12 collaborative robot, a successor to the MOTOMAN-HC10DTP, featuring a payload capacity of 12kg and a maximum reach of 1410mm. Designed for handling, screw driving, arc welding, and inspection, the robot adopts a newly developed torque sensor that increases reaction speed during collisions while maintaining operating speed, thereby balancing high productivity with safety. Its slim, compact arm shape and a smaller footprint with a diameter of 170mm allow installation in restricted spaces. Additionally, the arm features built-in Cat6A-compatible Ethernet cables to prevent interference and simplify connections with external devices and end effectors.
+  中文：总结：安川電機（Yaskawa Electric）发布了可搬质量为12kg、最大工作半径为1410mm的人协働机器人“MOTOMAN-HC12”，作为“MOTOMAN-HC10DTP”的后续机型。 该机器人适用于搬运、锁螺丝、弧焊和检查等多种工序。 其采用新开发的扭矩传感器，提高了碰撞时的反应速度，在保持作业速度的同时降低碰撞影响，兼顾了高生产率与安全性。 其细长紧凑的手臂形状和直径170mm的小型底座使其能够安装在狭窄空间。 此外，手臂标准内置支持Cat6A的网线，防止外部干扰并简化了与末端执行器的连接。
+  📰 [monoist.itmedia.co.jp](https://monoist.itmedia.co.jp/mn/articles/2609/10/news046.html)
+
+- **[2026.09.10] Yahoo!ニュース — パナソニック コネクト、ロボット導入の壁をAIで打破する--「RoboSync for Mobility」発表**
+  日本語：Panasonic Connect has introduced the 'RoboSync' lineup, including Robo Sync Planner, Robo Sync for Cobot, and Robo Sync for Mobility, offering accessible subscription and purchase pricing structures to encourage SME robot adoption. Executive Kazuhiro Ushio stated that the pricing strategy is designed as an investment to lower entry barriers and gain market share. The platform maintains vendor-neutral capabilities to connect with various customer robots and systems. Executive Hideaki Sakakibara noted that because robots cannot yet match human handling capabilities, the practical approach is to use them for tasks like overnight picking to increase overall throughput rather than directly replacing humans, while future plans include high-precision simulation and physical AI implementation.
+  中文：总结：松下连结（Panasonic Connect）发布了“RoboSync”系列产品，包括Robo Sync Planner、Robo Sync for Cobot及Robo Sync for Mobility，提供易于中小企业采用的订阅版及买断版定价体系。 牛岛先生表示，该价格设定旨在作为一种投资策略，降低准入门槛以增加普及。 该平台保持供应商中立立场，可连接客户使用的各种机器人和系统。 榊原先生分析称，鉴于机器人目前在处理能力上尚不及人类，现实的做法是利用其在夜间持续拣货以提升整体处理能力，而非直接替代人类，未来还将推进高精度模拟和“物理AI”的实装。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/590e18b16d40af518b6b4a671d842f3fd488060b?page=2)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.11] PR TIMES — 中国ヒューマノイドの「強さ」を解剖 ― 『フィジカルAI解体新書』オンラインセミナー 9月29日開催（無料）**
+  English: SUGENA President Isao Sugena will host a free online seminar on September 29, 2026, titled 'Anatomy of Physical AI: Deconstructing Chinese Humanoids,' to examine the structural competitiveness of Chinese humanoid robots. The seminar will analyze how China achieves rapid and cost-effective evolution in humanoids by exploring the interplay between physical components like motors and reducers, cognitive 'brains' utilizing generative AI, VLM, and VLA, and broader factors such as training data, computing resources, power, mass production, and supply chains. Drawing comparisons with the EV industry, the event aims to help Japanese companies evaluate strategic business opportunities, identify winning pathways, and assess the implications of collaborating with Chinese firms.
+  中文：总结：株式会社SUGENA代表取締役社長須毛原勲将於2026年9月29日举办免费在线研讨会“フィジカルAI 解体新書（物理AI解体新书）”，探讨中国人形机器人的竞争结构。 研讨会将通过将人形机器人比作人体，分析电机、减速器等身体部件，生成AI、VLM、VLA等大脑演进，以及学习数据、计算资源、电力、量产力和供应链之间的相互联系。 结合电动汽车（EV）产业的比较，研讨会将梳理中国人形机器人快速低成本进化的源泉，探讨日本企业的胜算、业务机会以及在经济安全保障等观点下与中国企业合作的判断论点。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000024.000079687.html)
+
+- **[2026.09.13] benzinga.com — Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr**
+  English: During the week of September 7-11, several technology and semiconductor developments occurred. Sen. Bernie Sanders pushed for tougher AI regulation following Geoffrey Hinton's remarks on superintelligent AI, while California Gov. Gavin Newsom signed online child protection legislation. The Department of Justice launched an antitrust inquiry into NVIDIA's arrangement with Groq and is expanding its inquiry into Fox Corp. 's acquisition of Roku. In corporate earnings, Oracle and Adobe reported stronger-than-expected quarterly revenues. Nokia launched a cognitive operations platform, The Boring Co. raised $3 billion in funding, and TSMC reported record August revenue driven by artificial intelligence demand.
+  中文：总结：在9月7日至11日当周，多项科技与半导体动态引发关注。 在Geoffrey Hinton对超级智能AI发表看法后，参议员伯尼·桑德斯推动更严格的AI监管，加州州长加文·纽森签署了保护儿童的立法。 美国司法部对英伟达与Groq的合作展开反垄断调查，并正扩大对福克斯公司收购Roku交易的调查。 在企业财报方面，甲骨文和Adobe公布了超出预期的季度营收。 诺基亚推出了认知运营平台，The Boring Co. 融资$3 billion，台积电在人工智能强劲需求的推动下公布了创纪录的8月营收。
+  📰 [benzinga.com](https://www.benzinga.com/markets/tech/26/09/61754574/consumer-tech-sep-7-11-apple-launches-first-foldable-iphone-xpeng-commissioned-iron-humanoid-robot-production-more)
+
+- **[2026.09.13] Hackster.io — Teaching Humanoid Robots to Move Like Us**
+  English: Researchers from UC Berkeley and Stanford University have developed BeyondMimic, an AI framework that trains humanoid robots to perform a diverse collection of human-like movements using a single training setup. Tested on a Unitree G1 robot, the system used approximately 2. 5 hours of human motion data—covering walking, running, dancing, and athletic maneuvers—adapted to the robot's proportions. BeyondMimic uses reinforcement learning and diffusion models to generate and smoothly transition between movements rather than merely replaying recorded motions. The system successfully transferred 30 representative skills to physical hardware without task-specific retraining, and in a study with 77 participants, its movements were judged to look more human-like than Unitree's standard controller in 70. 8% of comparisons.
+  中文：总结：加州大学伯克利分校和斯坦福大学的研究人员开发了BeyondMimic，这是一个AI框架，可通过单一训练设置为人形机器人训练大量类人动作。 研究人员在宇树G1机器人上进行了测试，使用了约2. 5小时涵盖行走、跑步、舞蹈及各种运动技巧的人体动作数据。 BeyondMimic结合强化学习和扩散模型，能够生成动作并在其间平滑过渡，而不仅仅是重放录制的动作。 该系统成功将30个代表性技能转移到实体硬件上，且无需针对特定任务进行重新训练。 在一项有77名参与者的研究中，其动作在70. 8%的对比中被认为比宇树的标准控制器更具人样。
+  📰 [Hackster.io](https://www.hackster.io/news/teaching-humanoid-robots-to-move-like-us-9b9cf9c52fcc)
+
+- **[2026.09.12] The Cool Down — Xpeng's humanoid robot enters mass production in Berlin, with home chores in its sights**
+  English: Chinese technology company Xpeng announced at IFA 2026 in Berlin that its humanoid robot IRON has entered mass production. Standing about 5 feet 7 inches tall and weighing 143 pounds, the robot features 76 degrees of freedom, travels at around 6. 5 feet per second, and is powered by three Turing AI chips yielding 2,250 trillion operations per second. IRON is designed to navigate obstacles, self-charge, and execute instructions, with Xpeng planning to use it internally before commencing commercial shipments to customers in China in 2027 for roles like customer service and guided tours. Ultimately, the company hopes IRON will assist people with household chores such as cleaning and folding laundry.
+  中文：总结：中国科技公司小鹏在柏林举行的IFA 2026展会上宣布，其人形机器人IRON已开始量产。 该机器人身高约5英尺7英寸（约170厘米），重143磅（约65公斤），拥有76个自由度，移动速度约为每秒6. 5英尺，并搭载3颗图灵AI芯片，算力达每秒2250万亿次。 IRON旨在自主避障、自主充电并执行指令，小鹏计划先将其投入内部展厅和科技园区使用，预计2027年在中国向商业客户交付，用于迎宾导览等工作。 该公司最终希望IRON能协助人们处理清洁和折叠衣物等家务。
+  📰 [The Cool Down](https://www.thecooldown.com/green-tech/xpeng-humanoid-robot-mass-production-ifa-berlin/)
+
+- **[2026.09.10] Longbridge — Elon Musk Says Anthropic’s 15% US GDP Growth Scenario Will 'Certainly Be True’ Once Humanoid Robots Reach Volume Product…**
+  English: Elon Musk stated that Anthropic's extreme scenario of 15% annual U. S. GDP growth will certainly be true once humanoid robots reach volume production. Reacting to a Polymarket post on Anthropic’s economic scenario explorer, Musk argued that AI combined with physical automation, such as Tesla's Optimus, will transform the economy beyond knowledge work and more than double the global economy in less than 10 years. Anthropic's extreme scenario models GDP reaching $44. 4 trillion in 2030, driven by autonomous knowledge work, though it excludes hyper-capable robots. Tesla is currently installing first-generation production lines for Optimus in Fremont by converting former Model S and Model X space, though Musk noted initial production will be extremely slow.
+  中文：总结：埃隆·马斯克表示，一旦人形机器人实现量产，Anthropic关于美国年度GDP增长15%的极端预测将“肯定会成为现实”。 马斯克在回应关于Anthropic经济情景浏览器的Polymarket帖子时称，人工智能与特斯拉Optimus等实体自动化的结合，将把经济变革推向知识工作之外的领域，并在不到10年的时间里使全球经济翻倍以上。 Anthropic的极端情景模型预计2030年美国GDP将达到$44. 4 trillion，不过其模型并未包含超级强大的机器人。 特斯拉目前正在弗里蒙特的前Model S和Model X生产空间内安装Optimus的第一代生产线，但马斯克曾警告称初期产量将极其缓慢。
+  📰 [Longbridge](https://longbridge.com/news/298554997)
+
+
+---
+※AI Robot News Digest | 2026.09.13 | full-text items: 20
