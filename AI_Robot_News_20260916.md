@@ -1,0 +1,114 @@
+# 🤖 AI Robot News | 2026.09.16（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.16] Ars Technica — Agility’s new humanoid robot will stop, squat to avoid harming human coworkers**
+  English: Agility Robotics has unveiled its first humanoid robot engineered to work safely near humans without physical separation barriers. The Digit 5 robot features a complex safe motion system enabling it to autonomously move, stand still, or squat when a person approaches. Pras Velagapudi, Agility's chief technology officer, explained the safe motion mitigations. Customers can expect early access to Digit 5 within the first half of 2027, with general availability by the end of that year. Agility is retooling its RoboFab facility in Salem, Oregon, to produce the new robot. Previously, Agility deployed humanoid robots in full-time commercial operations at a GXO warehouse in Atlanta in 2024, and earlier Digit versions have logged over 65,000 working hours in North American warehouses and factories for clients such as GXO, Schaeffler, Amazon, and Toyota Motor Manufacturing Canada.
+  中文：总结：Agility Robotics推出了首款旨在安全靠近人类工作且无需物理隔离栏的人形机器人。 Digit 5机器人配备了复杂的安全运动系统，当检测到有人靠近时，能够自主采取移动、静止或蹲下等防护措施。 Agility首席技术官Pras Velagapudi对此作出了说明。 根据公告，客户预计在2027年上半年获得Digit 5的早期体验权限，该机器人将于当年年底全面上市。 Agility正在重新调整其位于俄勒冈州塞勒姆的RoboFab工厂以生产这款最新人形机器人。 此前，该公司于2024年在亚特兰大的一家GXO仓库部署了全职商业运营的人形机器人，早期版本的Digit机器人已在北美仓库和工厂累计工作超过65,000小时，试点或部署的客户包括GXO、Schaeffler、Amazon以及Toyota Motor Manufacturing Canada。
+  📰 [Ars Technica](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/)
+
+- **[2026.09.16] Stock Titan — NVIDIA simulation now models touch for robots**
+  English: Synaptics introduced its first Capacitive Tactile Sensing module powered by the SN6012T touch controller, providing simulated and on-device multimodal robotics touch processing. The module is supported by the NVIDIA Isaac Sim robotics simulation framework and works with NVIDIA Holoscan and the Newton physics simulation engine. Designed for dexterous robotic hands, grippers, and Physical AI systems, the CTS module features a 2. 5mm pitch taxel density in a 5x12 taxel array, measures forces up to 100N with 0. 1N resolution, and delivers a rebound response 10x faster than traditional foam sensors. It integrates with Synaptics Astra Edge AI processors to aggregate touch, vision, and motion data into unified streams delivered over standard Ethernet. Rahul Patel, President and CEO of Synaptics, emphasized the essential role of tactile sensing in robotics experiences.
+  中文：总结：Synaptics推出了首款由SN6012T触控控制器驱动的电容式触控感测模块，支持模拟及设备端的多模态机器人触控处理。 该模块获得了NVIDIA Isaac Sim机器人仿真框架的支持，并可与NVIDIA Holoscan及Newton物理仿真引擎配合使用。 CTS模块专为灵巧机械手、夹持器及具身智能系统设计，具有5x12的触觉单元阵列和2. 5mm的触觉单元间距，可测量高达100N的力且分辨率达0. 1N，其回弹响应比传统泡沫传感器快10倍。 它可与Synaptics Astra Edge AI处理器集成，将触觉、视觉和运动数据汇聚成统一的数据流，并通过标准以太网传输。 Synaptics总裁兼首席执行官Rahul Patel强调了触觉感测在机器人体验中的核心作用。
+  📰 [Stock Titan](https://www.stocktitan.net/news/SYNA/synaptics-brings-tactile-sensing-and-edge-ai-to-nvidia-isaac-sim-and-kbwndxu2o2ie.html)
+
+- **[2026.09.15] finance.biggo.com — Hyundai Motor Shares Halve in Three Months as Boston Dynamics IPO Hits Snag, Robot Profitability Questioned**
+  English: Hyundai Motor's share price fell by half over three months, closing at 367,000 won (approximately $270) on the KOSPI market on the 15th, down 51% from its June 1 peak of 750,000 won (approximately $550). This decline followed reports that Boston Dynamics' IPO is unlikely next year, alongside questions regarding robotics profitability and extended R&D cost burdens. A Hyundai Motor Group official told Reuters that a 2026 IPO won't be easy, while a company representative stated no IPO timeline has been specified. According to a Hyundai Glovis disclosure, Boston Dynamics posted a net loss of 528. 4 billion won (approximately $387. 6 million) last year, with cumulative net losses from 2021 through 2025 reaching 1. 7558 trillion won (approximately $1. 3 billion). Securities analysts Lee Sang-heon and Kim Sung-rae highlighted long investment recovery periods, rising R&D expenses, and estimated Atlas unit validation costs of approximately $450,000 (about 610 million won). Chairman Euisun Chung stated that the company plans to deploy Atlas in manufacturing facilities by 2028 and produce up to 30,000 units annually by 2030, with the Hyundai Motor Group Metaplant America in Georgia serving as the first large-scale demonstration stage starting in 2028.
+  中文：总结：现代汽车股价在三个多月内腰斩，15日在KOSPI市场报收于367,000韩元（约合270美元），较6月1日创下的750,000韩元（约合550美元）峰值下跌了51%。 这一跌幅源于波士顿动力公司首次公开募股预期受挫，同时市场对机器人业务盈利能力及持续研发成本负担产生质疑。 路透社援引现代汽车集团高层官员的话称，2026年实现IPO“并不容易”，而现代汽车代表则表示未曾明确具体IPO时间表。 根据现代格洛维斯披露的信息，波士顿动力去年净亏损5284亿韩元（约合3. 876亿美元），2021年至2025年的累计净亏损达到1. 7558万亿韩元（约合13亿美元）。 证券分析师李相宪和金成来指出投资回收期漫长、研发费用不断上升以及估计Atlas单台验证成本约为450,000美元（约合6. 1亿韩元）。 会长郑义宣表示，公司计划于2028年在制造工厂部署Atlas，并在2030年前实现年产多达30,000台的目标，位于佐治亚州的现代汽车集团美国工厂将自2028年起作为首个大规模示范阶段基地。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/d14207ea-82f1-4b15-8648-3ad2fa84907a)
+
+- **[2026.09.15] The Motley Fool — 3 AI Robotics Stocks Worth Owning Over Tesla Right Now**
+  English: Tesla's valuation relies heavily on upcoming Optimus humanoid robots, but the segment faces roadblocks with JPMorgan Chase anticipating commercialization in the second half of 2027. For investors seeking lower-risk AI robotics stocks, three alternatives are highlighted: Nvidia, Alphabet, and Zebra Technologies. Nvidia boasts a market capitalization above $5 trillion, 106% year-over-year revenue growth in its fiscal 2027 second quarter, a 62% net profit margin, and a 0. 46 PEG ratio. Alphabet features Google Cloud, which saw 82% year-over-year revenue growth in the second quarter, and Waymo autonomous vehicles. Zebra Technologies, with a $17 billion market cap, delivers data capture technology and software for robots, posting 20. 4% year-over-year revenue growth in the second quarter and more than doubled net income, alongside a 0. 59 PEG ratio and a 16 forward P/E ratio, with CEO Bill Burns describing the company as the foundation for intelligent operations and frontline AI.
+  中文：总结：特斯拉的估值很大程度上取决于即将推出的Optimus人形机器人，但该领域遭遇阻碍，摩根大通预计商业化时间为2027年下半年。 对于寻求较低风险人工智能机器人股票的投资者，文章提出了三家替代公司：英伟达、字母表和斑马技术。 英伟达市值超过$5 trillion，2027财年第二季度营收同比大增106%，净利润率为62%，PEG比率为0. 46。 字母表拥有在第二季度实现营收同比增长82%的谷歌云以及Waymo自动驾驶汽车业务。 斑马技术市值达170亿美元，为机器人提供数据采集技术与软件，其第二季度营收同比增长20. 4%，净利润实现翻倍以上增长，PEG比率为0. 59，远期市盈率为16，公司首席执行官比尔·伯恩斯将其称为智能运营和一线人工智能的基础。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/09/15/3-ai-robotics-stocks-worth-owning-over-tesla-right/)
+
+- **[2026.09.16] PYMNTS.com — Physical AI’s Biggest Market Is 280,000 Aging US Factories**
+  English: The physical AI boom is frequently envisioned as new factories equipped with humanoid robots and autonomous machines. However, a larger opportunity may involve making decades-old factories smarter without replacing their existing equipment.
+  中文：总结：物理人工智能的繁荣很容易被想象成充满人形机器人和自主机器人的全新工厂。 然而，更大的机遇可能在于使几十年前建造的工厂变得更加智能，而无需更换内部现有的设备。
+  📰 [PYMNTS.com](https://www.pymnts.com/news/artificial-intelligence/2026/physical-ais-biggest-market-is-280000-aging-us-factories/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.16] Sohu — 精彩秒传｜第九届中国机器人峰会图片直播上线，定格智变瞬间**
+  中文：总结：第九届中国机器人峰会定于2026年9月16日至18日在杭州举办，峰会主题为“智联新生态，赋能全场景——机器人+时代的智变与质变”。 峰会聚焦具身智能、大模型、机器人产业生态等前沿热点，邀请行业顶尖专家和领军企业代表齐聚杭州未来科技城学术交流中心。 活动从16日的报到开始，至18日的巅峰对话结束，涵盖主论坛、权威发布和主题论坛等重磅环节。
+  📰 [Sohu](https://m.sohu.com/a/1076609389_320333?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.15] 新浪财经 — 中国移动研究院发布 “弈衡”三位一体全链路具身智能评测架，夯实AI评测基石**
+  中文：总结：在2026中国国际服务贸易交易会上，中国移动研究院发布了“弈衡”三位一体全链路具身智能评测体系及平台。 该平台创新构建了“虚实融合”架构，打造了涵盖功能、性能、智能、安全等核心要素的“望闻问切”多维评估框架。 平台通过真实场景实测与高保真仿真验证的双重路径，将科学标准与智能化能力深度融合。 中国移动同时展出了自主研发的“弈衡”具身智能全栈式评测一体机，为四足机器人等设备提供开箱即用的轻量化终端。 由此，中国移动成功构建起“标准化评测体系+智能化评测平台+轻量化评测终端”三位一体的评测架构，助力行业规范与高质量发展。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/relnews/hk/2026-09-15/doc-inirxhzw3652021.shtml)
+
+- **[2026.09.15] 手机新浪网 — 【国内动态】宇树科技发布人形机器人 G1+：运动性能、感知交互、智能体验全面升级，标准版售价 9.5 万元**
+  中文：总结：宇树科技宣布对其人形机器人G1进行重大升级，推出G1+，在运动性能、感知交互和智能体验三大维度带来6项升级。 标准版G1+含税售价为9. 5万元，面向科研和深度开发的G1+ EDU售价需询价。 升级内容包括引入+2 DOF颈部结构、肩腰及手臂电机峰值扭矩提升、采用双目加广角单目的双视觉系统与3D激光雷达、6麦克风阵列语音交互、背部新增外部供电口以及双10W扬声器。 标准版保留25个关节电机自由度，站立含臂尺寸约1340x450x200mm，整机重约35kg，标称续航约2小时。 EDU版本将自由度扩展至25+45，支持二次开发，并将保修期由标准版8个月延长至18个月。
+  📰 [手机新浪网](https://k.sina.com.cn/article_5953740931_162dee08306703yr46.html)
+
+- **[2026.09.16] 中国经济网 — 给机器人当“教练员”**
+  中文：总结：人力资源和社会保障部等部门发布11个新职业，正式将机器人训练师命名为具身智能机器人应用技术员。 北京人形机器人创新中心有限公司数据与训练基地采集组长吕明威介绍，该职业要求看懂标准化任务文档、具备较好身体协调性并熟练操作机械臂，同时考验耐心与细心。 训练师需将人类自然伸手取物的动作拆解成独立步骤，为机器人搭建动作基准库。 训练工具正从手柄演变为头戴相机阵列和动捕设备。 项目经理穆超预计该职业未来将从广覆盖转向精深耕，细分至烹饪或医疗辅助等专业领域。 数据显示，2025年中国具身智能市场规模超9000亿元，今年有望突破1万亿元，相关企业数量超万家。
+  📰 [中国经济网](http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260916_3215273.shtml)
+
+- **[2026.09.16] 深圳新闻网 — 每10分钟下线1台 机器人造机器人！优必选超级智慧工厂年规划产能超万台**
+  中文：总结：优必选工业人形机器人超级智慧工厂于9月12日在广西柳州投产。 该工厂占地面积1. 4万平方米，楼高13. 8米，是全球首个具备万台级年规划产能的标杆工厂，每10分钟可下线1台机器人。 项目依托与西门子数字化工业软件的深度合作，部署了优必选Walker S系列和Cruzr系列以及自动化物流，实现了“用机器人造机器人”的智造模式。 Cruzr Y1和Cruzr S2参与物料供给，协作机器人和旋转工装台面支持多角度装配。 智能拧紧系统管控螺丝装配全流程并将数据回传至Yanshee MOM系统，有效降低劳动强度并提升生产精度。
+  📰 [深圳新闻网](https://www.sznews.com/news/content/2026-09/15/content_32169965.htm)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.15] MONOist — ファナックがAI溶接エージェント開発、溶接条件やロボット動作を自動生成**
+  日本語：Fanuc has developed an 'AI Welding Agent' that reads component blueprints and automatically generates arc welding conditions and robot movements. Utilizing Google Cloud's Gemini Enterprise technology with high security, the agent will be exhibited at the 2026 International Welding Show in Tokyo from September 16 to 19, with shipments starting at the end of December. The system uses the built-in camera in the teaching pendant of Fanuc's CRX collaborative robot to read blueprints without requiring additional cameras. Users can execute the generated conditions directly or make fine adjustments. The service is available via a subscription model through existing contracts with Fanuc and works with any welding power source connected to Fanuc robots.
+  中文：总结：发那科开发出能够读取零件图纸并自动生成电弧焊接条件及机器人动作的“AI溶接エージェント（AI焊接代理）”。 该代理利用具备高度安全性的Google Cloud的Gemini Enterprise技术，将于9月16日至19日在东京举行的“2026国际焊接展”上展出，并计划于12月底开始出货。 该系统使用发那科协作机器人“CRX”示教器内置的摄像头读取图纸，无需额外增加摄像头。 操作员可以直接执行生成的焊接条件或进行微调。 用户可通过与发那科的现有合同以订阅形式轻松使用，且该系统适用于连接到发那科机器人的任何焊接电源。
+  📰 [MONOist](https://monoist.itmedia.co.jp/mn/articles/2609/15/news026.html)
+
+- **[2026.09.15] PR TIMES — 日本の溶接を、次のステージへ。既存溶接ロボットに“後付け”できる溶接専門AI「SAMURAI Analyzer for Welding」を発表**
+  日本語：Analysis Co. , Ltd. announced the September 2026 release of 'SAMURAI Analyzer for Welding,' a welding-specific AI solution that can be retrofitted onto existing welding robots and lines. Developed by President Daisaku Mizoguchi's firm, the solution uses a specialized camera and a GPU-equipped analysis PC to analyze welding videos in real-time, converting processes into visible, measurable, and recordable quality data. It addresses the limitation of traditional post-welding visual inspections by tracking elements like the molten pool and wire tip, with a patent pending for real-time analysis in retrofitted environments. Targeted at safety-critical industries such as automotive parts and industrial machinery, the tool aims to assist production, quality assurance, and R&D departments with causes verification and quality assurance.
+  中文：总结：分析屋株式会社宣布于2026年9月发布可“后付け”（加装）至现有溶接（焊接）机器人及产线上的溶接专有AI解决方案“SAMURAI Analyzer for Welding”。 该方案由沟口大作担任代表取締役社長的公司开发，通过专用摄像头和搭载GPU的解析PC对焊接中视频进行实时解析，将过程转换为可视、可测、可留存的质量数据。 它克服了传统焊后外观检查的局限性，能够追踪熔池和焊丝尖端等要素，相关后加装环境下的实时解析技术正在申请专利。 该工具旨在面向汽车零部件、产业机械等安全性至关重要的制造现场，协助生产技术、品质保证及研发部门进行原因确认与品质保证。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000008.000088755.html)
+
+- **[2026.09.14] Vietnam.vn — 日本では、天井を走り回り、家事を自動的に行うロボットを備えた住宅が建設されている。**
+  日本語：MW Corporation is developing a 'living home' project in Japan supported by NEDO's GENIAC program, featuring a robot system that operates along ceiling and wall rail systems using two arms rather than walking on the floor. Designed to avoid floor obstacles and furniture, the robot uses a vision-language-action model to understand verbal requests and perform household chores. MW plans to build a data collection facility with 50 simulated home areas, aiming to gather 150,000 hours of data over three years. By 2029, the research aims for robots to autonomously execute five types of household chores with a 90% success rate, targeting a 2027 interim goal of two tasks at a 50% success rate. Images are processed locally on the device to protect privacy. MW plans a demonstration in September 2027 and aims to sell robots-integrated houses starting in 2028.
+  中文：总结：MW Corporation正在日本开发由NEDO的GENIAC计划支持的“living home（起居住宅）”项目，该项目配备了沿天花板和墙壁轨道系统运行、拥有两双手臂而非在地面行走的机器人系统。 该机器人旨在避开地面障碍物和家具，利用视觉-语言-行动模型来理解语言请求并执行家务。 MW计划建设一个拥有50个模拟家居区域的数据采集设施，目标是在三年内收集15,0000小时的数据。 研究目标是到2029年使机器人以90%的成功率自主执行5种家务，并在2027年达到50%成功率执行2项任务的中期目标。 为了保护隐私，图像直接在设备上处理。 MW计划于2027年9月进行演示，并力争从2028年起开始销售内置机器人的住宅。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/nhat-ban-lam-nha-co-robot-chay-tren-tran-tu-lam-viec-nha)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.14] PR TIMES — ジールス、準国産コンパクトヒューマノイド「D1」を桜十字グループの介護施設へ初投入**
+  English: ZEALS conducted a two-day proof-of-concept from September 10 to 11, 2026, using its compact humanoid robot 'D1' at the 'Hospitalment Bunkyo Sendagi' paid nursing home operated by the Sakura Cross Group. The D1 robot completed 15 hours of operation over two days with zero human contact or falls, verifying three tasks: elevator-assisted indoor guidance, lightweight item transport such as diapers and deliveries, and tea-pouring operations from a pot to a cup. The D1 stands approximately 129. 3cm tall with a 48cm running base width, featuring AI conversation, navigation, and dual-arm manipulation. Sakura Cross Group operation manager Makoto Sugaya commented on the potential of humanoid robots to reduce staff workloads and enable warmer care.
+  中文：总结：ZEALS于2026年9月10日至11日，在由樱十字集团运营的“Hospitalment文京千駄木”收费养老院使用其紧凑型人形机器人“D1”进行了为期两天的概念验证。 D1机器人在两天内累计现场运行15小时，实现了人机接触和跌倒均为零的记录，验证了三项业务：利用电梯的馆内导引、尿布及快递等轻量物运搬、以及从茶壶向水杯倒茶的配茶作业。 D1全高约129. 3cm，运行底座宽约48cm，具备AI对话、导航和双腕操作功能。 樱十字集团运营部长菅谷真对人形机器人减轻员工工作负担并实现更有温度的护理之潜力进行了评论。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000217.000019209.html)
+
+- **[2026.09.16] digitimes — China's humanoid robot race, Part 2: Upstream profits gather around dexterous hands**
+  English: Humanoid robot manufacturers are cutting prices and scaling production, but much of the industry remains unprofitable. Meanwhile, upstream suppliers, particularly those producing dexterous robotic hands, are beginning to exhibit different economic outcomes.
+  中文：总结：人形机器人制造商正在削减价格并扩大生产，但大部分行业仍然处于亏损状态。 与此同时，上游供应商特别是生产灵巧机械手的企业，开始展现出不同的经济效益。
+  📰 [digitimes](https://www.digitimes.com/news/a20260915VL210/robot-cost-production-revenue-2026.html)
+
+- **[2026.09.16] finance.biggo.com — China's UBTECH Launches World's First Humanoid Robot Factory with 10,000-Unit Annual Capacity**
+  English: UBTECH has launched a smart manufacturing plant in Liuzhou, Guangxi, with an annual capacity of 10,000 units, capable of producing one industrial humanoid robot every 10 minutes. The 14,000-square-meter facility utilizes a 'robots building robots' model, deploying Walker S and Cruzr series robots for material transport, final assembly, and automated quality inspection through an automotive-grade tunnel. UBTECH independently developed an automated vertical warehouse storing 112 robots in 65 square meters. Siemens digital industry software was used for virtual simulation. Pang Jianxin, vice president of UBTECH, highlighted the critical support of China's component supply chain and ecosystem. Additionally, the Beijing Humanoid Robot Innovation Center's open-source dataset 'RoboMIND' surpassed 20 million global downloads, supported by a 6,000-square-meter training facility.
+  中文：总结：优必选在广西柳州启动了一座年产能达10,000台的智能制造工厂，能够每10分钟生产1台工业人形机器人。 该工厂占地14,000平方米，采用“用机器人造机器人”的模式，部署了Walker S和Cruzr系列机器人进行物料运输、总装，并通过汽车级通道进行自动化质量检测。 优必选独立开发了自动化立体仓库，在65平方米内可容纳112台机器人。 工厂设计使用了西门子数字工业软件进行虚拟仿真。 优必选副总裁庞建新强调了中国零部件供应链和生态系统的关键支持。 此外，北京人形机器人创新中心开源数据集“RoboMIND”全球下载量突破2000万次，并依托一个6000平方米的训练基地提供支持。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/95efedca-9acc-4972-8368-89c141f6fcdc)
+
+- **[2026.09.15] the-decoder.com — Agility Robotics says its new Digit 5 robot can work next to people without safety fences**
+  English: Agility Robotics unveiled Digit 5, a humanoid robot designed to work alongside humans without safety fences. Using AI and sensors, the robot stops or steps aside and emits visual and audio signals when encountering people. Agility is the first partner for Nvidia's Halos safety platform, and Digit 4 previously passed an independent OSHA safety review. Digit 5 lifts up to 22. 7 kg, features a 9-minute battery charge for 90 minutes of runtime, stands 1. 81 meters tall, weighs 129 kg, and has swappable grippers. Digit 4 logged over 65,000 hours with customers like GXO, Amazon, and Schaeffler, moving about 100,000 bins at GXO with 98% accuracy. Agility reports orders worth over $300 million, with first deliveries starting in early 2027 from its Salem, Oregon factory.
+  中文：总结：Agility Robotics发布了Digit 5，这是一款无需安全围栏即可在人类身旁工作的人形机器人。 借助人工智能和传感器，该机器人在遇到人时会停止或让开，并发出视觉和音频信号。 Agility是Nvidia的Halos安全平台的首位合作伙伴，其之前的Digit 4曾通过独立的OSHA安全审查。 Digit 5可举起重达22. 7公斤的物品，充电9分钟可运行90分钟，身高1. 81米，重129公斤，并配有可更换的夹持器。 Digit 4曾在GXO、Amazon和Schaeffler等客户处累计运行超过65,000小时，在GXO以约98%的准确率搬运了约100,000个料箱。 Agility报告订单价值超过3亿美元，首批交付将于2027年初从其俄勒冈州塞勒姆工厂开始。
+  📰 [the-decoder.com](https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/)
+
+- **[2026.09.14] Global Times — ‘Robots building robots’: World’s 1st 10,000-unit-scale industrial humanoid robot smart factory starts production**
+  English: UBTECH Robotics announced the start of operations at the world's first 10,000-unit-scale intelligent manufacturing facility for humanoid robots in Liuzhou, Guangxi, capable of rolling out one industrial humanoid robot every 10 minutes. The 14,000-square-meter facility, built jointly with Siemens Digital Industries Software, produces Walker S and Cruzr series robots using a 'robots building robots' manufacturing model. Cruzr Y1 and Cruzr S2 handle material handling, while final assembly uses collaborative robots and rotating worktables. Quality inspection involves whole-machine testing and a 360-degree lighting inspection tunnel. UBTECH also developed an automated stereoscopic warehouse storing 112 robots in 65 square meters. Pang Jianxin, vice president of UBTECH, attributed the mass production capability to China's robust supply chain, engineering talent, and rich application scenarios.
+  中文：总结：优必选机器人宣布，全球首个年产达10,000台规模的人形机器人智能制造基地在广西柳州正式投产，每10分钟可下线1台工业人形机器人。 该工厂占地14,000平方米，由优必选与西门子数字化工业软件联合建设，采用“用机器人造机器人”的制造模式生产Walker S和Cruzr系列机器人。 Cruzr Y1和Cruzr S2负责物料搬运，总装则采用协作机器人和旋转工作台。 质量检验包括整机测试和360度灯光检查通道。 优必选还开发了自动化立体仓库，在65平方米内可存放112台机器人。 优必选副总裁庞建新将这一量产能力归功于中国强大的供应链、工程人才和丰富的应用场景。
+  📰 [Global Times](https://www.globaltimes.cn/page/202609/1370528.shtml)
+
+
+---
+※AI Robot News Digest | 2026.09.16 | full-text items: 18
