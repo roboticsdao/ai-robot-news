@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.18（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.18] NBC Boston — Reaction to ICE's planned purchase of Boston Dynamics robot dogs**
+  English: Immigration and Customs Enforcement plans to spend up to $2 million on four-legged Spot robots developed by Boston Dynamics. The agency states the remote-controlled machines are intended as a tool for potentially dangerous situations and do not replace human officers. However, the planned purchase has raised concerns among activists, pro-immigrant groups, and protesters in Burlington regarding surveillance, potential misuse, hacking, and lack of clear limits. A Boston Dynamics spokesperson emphasized that weaponization of their robots is strictly prohibited and that the technology is designed to reduce human risks.
+  中文：总结：美国移民和海关执法局计划斥资最多200万美元采购由波士顿动力公司开发的四足机器人Spot。 该机构表示，这些远程控制的机器旨在应对潜在危险情况，并不会取代人类执法人员。 然而，这一计划购买在伯灵顿引发了激进分子、亲移民团体和抗议者的担忧，他们对监控、潜在滥用、黑客攻击以及缺乏明确限制表示关切。 波士顿动力公司发言人强调，严格禁止将其机器人武器化，该技术旨在降低人类面临的风险。
+  📰 [NBC Boston](https://www.nbcboston.com/news/local/boston-dynamics-dog-ice-reaction/4016741/)
+
+- **[2026.09.17] DongA Science — KIST advances AI humanoid strategy as US and China race for dominance**
+  English: KIST President Oh Sang-rok stated that Korea can achieve a tripartite balance of power in AI humanoids amid competition between the US and China. KIST's AI and Robotics Research Institute plans to accelerate the demonstration of humanoids working alongside people by 2030, using hardware from LG Electronics' KAPEX and software combining haptics with the Vision-Language-Action model. KIST Vice President Jang Jun-yeon explained that the institution is phasing out the Project-Based System to promote group research through mission-oriented institutes addressing national agendas such as semiconductor research, ammonia-based hydrogen and electricity production, and dementia drug technology.
+  中文：总结：韩国科学技术研究院院长江圣禄表示，在美中竞争背景下，韩国能够在AI人形机器人领域实现“三方力量平衡”。 该院的AI与机器人研究所计划到2030年，基于LG电子KAPEX的硬件以及结合了触觉与视觉-语言-动作模型的软件，加速展示与人类共同工作的人形机器人技术。 该院副院长张俊然解释称，该机构正在逐步淘汰以项目为基础的系统，通过使命导向研究所推动团队研究，以应对半导体研究、氨基氢电联产以及痴呆症药物技术等国家议程。
+  📰 [DongA Science](https://www.dongascience.com/en/news/79963)
+
+- **[2026.09.17] The Business Standard — IPO for humanoid robot maker Boston Dynamics unlikely in 2027: Executive**
+  English: Boston Dynamics is unlikely to pursue an initial public offering in 2027, according to a senior executive at parent company Hyundai Motor Group, as the humanoid robot unit remains unprofitable and has yet to deploy its flagship Atlas robots at scale. Hyundai bought a controlling stake in Boston Dynamics in 2021 and plans to make it a wholly-owned subsidiary by acquiring SoftBank's roughly 10% stake. Regulatory filings show Boston Dynamics recorded a 2025 loss of 528. 4 billion won, with total losses from 2021 through 2025 reaching nearly 1. 7 trillion won. Hyundai aims to build a factory producing 30,000 robots a year by 2028 and deploy humanoids at its Georgia plant that year.
+  中文：总结：母公司现代汽车集团的一位高管表示，波士顿动力公司不太可能在2027年进行首次公开募股，因为该人形机器人部门目前仍处于亏损状态，且其旗舰Atlas机器人尚未实现大规模部署。 现代在2021年收购了波士顿动力公司的控股权，并计划通过收购软银约10%的股份使其成为全资子公司。 监管文件显示，波士顿动力2025年录得5284亿韩元的亏损，2021年至2025年的总亏损近1. 7万亿韩元。 现代的目标是在2028年前建造一座年产3万台机器人的工厂，并于当年在其佐治亚州工厂部署人形机器人。
+  📰 [The Business Standard](https://www.tbsnews.net/worldbiz/usa/ipo-humanoid-robot-maker-boston-dynamics-unlikely-2027-executive-1542116)
+
+- **[2026.09.15] stocktitan.net — NVIDIA simulation now models touch for robots**
+  English: Synaptics introduced its first Capacitive Tactile Sensing module using the SN6012T touch controller, which is now supported by the NVIDIA Isaac Sim simulation framework and works with NVIDIA Holoscan. The module is designed for dexterous robotic hands, grippers, and Physical AI systems to detect contact and pressure distribution with a 2. 5mm pitch taxel density in a 5x12 array, measuring forces up to 100N with 0. 1N resolution. It integrates with Synaptics Astra Edge AI processors to aggregate touch, vision, and motion data into unified streams, offloading sensor collection from central compute and delivering multimodal data to NVIDIA Holoscan over standard Ethernet.
+  中文：总结：新思科技推出了首款采用SN6012T触控控制器的电容式触觉传感模块，该模块现已获得NVIDIA Isaac Sim仿真框架的支持，并可与NVIDIA Holoscan协同工作。 该模块专为灵巧机械手、夹爪和物理AI系统设计，用于检测接触和压力分布，具有5x12阵列中的2. 5毫米间距触点密度，可测量高达100N的力且分辨率为0. 1N。 它与新思科技Astra边缘AI处理器集成，将触觉、视觉和运动数据聚合为统一的数据流，将传感器收集从中央计算中卸载，并通过标准以太网向NVIDIA Holoscan传输多模态数据。
+  📰 [stocktitan.net](https://www.stocktitan.net/news/SYNA/synaptics-brings-tactile-sensing-and-edge-ai-to-nvidia-isaac-sim-and-kbwndxu2o2ie.html)
+
+- **[2026.09.15] Unite.AI — Agility Robotics Debuts Digit 5 Humanoid With New Safety Architecture**
+  English: Agility Robotics unveiled Digit 5 on September 15, 2026, reporting over $300 million in multi-year customer orders as of May 2026. CEO Peggy Johnson stated the fifth-generation humanoid is engineered for cooperatively safe work at scale, using continuous AI monitoring, visual cues, and an independent safety controller to work near people without traditional physical barriers. Digit 5 features a new leg design delivering 40% more payload, allowing it to repeatedly lift 50 lb, a 90-minute runtime battery that charges in 9 minutes, and a height of 5 feet 11 inches. The company is the first launch partner for NVIDIA's Halos for Robotics platform and has logged over 65,000 operational hours with Digit 4 across North American customer sites.
+  中文：总结：敏捷机器人公司于2026年9月15日推出了Digit 5，并报告截至2026年5月拥有超过3亿美元的多年度客户订单。 首席执行官佩吉·约翰逊表示，这款第五代人形机器人专为规模化安全协作工作而设计，利用持续的AI监控、视觉提示和独立安全控制器在没有传统物理屏障的情况下在人群附近工作。 Digit 5采用了新的腿部设计，负载能力提升40%，可重复举起50磅重物，配备可在9分钟内充满电的90分钟续航电池，身高5英尺11英寸。 该公司是NVIDIA Halos for Robotics平台首家发布合作伙伴，Digit 4此前在北美客户现场已累计超过65,000小时的运行时间。
+  📰 [Unite.AI](https://www.unite.ai/agility-robotics-debuts-digit-5-humanoid-with-new-safety-architecture/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.18] 中华网 — 业内：机器人企业还没拿到“大结果” 商业化含金量待考**
+  中文：总结：在2026年中报季，A股人形机器人概念公司呈现出强劲的营收增长，超八成公司实现上半年营收同比增长，而净利润则普遍承压，多家公司因费用端的战略性扩张导致净亏损扩大。 根据Counterpoint Research的数据，2026年上半年全球人形机器人出货量突破2. 2万台，同比增长近300%，工信部预计我国全年整机产量有望突破10万台。 部分头部企业如优必选上半年实现营收12. 69亿元，净亏损3. 39亿元，其他机器人企业也普遍面临营收增长但净亏损扩大的情况。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20260918/49749513.html)
+
+- **[2026.09.18] 新浪网 — 重磅催化！特斯拉启动中国审厂，人形机器人板块预估明天要疯狂了？消息上：特斯拉机器人量产加速，9月16日团队抵宁波，17日启动中国供应链审厂，已下订单。计划2026年下线约5万台，部署全球超级工厂，消费者暂无购买渠道。（消息源：21财经） 从消息来看，信号**
+  中文：总结：特斯拉加速推进其人形机器人量产，其团队于2026年9月16日抵达宁波，并于17日启动中国供应链审厂，且已下达订单。 该公司计划在2026年下线约5万台并在全球超级工厂部署，目前消费者暂无购买渠道。 这一进展标志着Optimus量产加速并从演示走向实际交付，直接利好包括执行器、丝杠、减速器、空心杯电机、传感器和灵巧手在内的特斯拉机器人供应链，以及整个人形机器人与具身智能板块。
+  📰 [新浪网](https://www.sina.cn/news/detail/5344317838721132.html)
+
+- **[2026.09.17] 观点网 — 法奥机器人2025年海外出货3100台 居中国协作机器人双榜第一**
+  中文：总结：高工机器人产业研究所数据显示，法奥机器人成为2025年中国协作机器人品牌总销量、海外出货量双榜第一，当年海外出货量达3100台，公司预计2026年将增至6000台。 法奥已与igus、MISUMI等全球渠道伙伴建立合作，服务于博世、蔡司、三星、联合利华等全球知名企业。 近日，来自葡萄牙的企业家代表团到访法奥，深入了解中国协作机器人应用。 此外，总经理巩相峰受邀参与央视《对话》节目，探讨中国机器人产业数十年的技术积累。
+  📰 [观点网](https://www.guandian.cn/article/20260917/603400.html)
+
+- **[2026.09.18] 中国经济网 — 汽车与具身智能加速融合**
+  中文：总结：在2026年聚合智能产业发展大会上，专家强调了汽车产业与具身智能一体化发展的必然趋势，截至今年8月底全球已有近20家主流车企累计规划投入超千亿元进入具身机器人赛道。 小鹏汽车于9月9日正式启用机器人生产线，首位高阶通用人形机器人下线，计划年底规模量产并在2027年交付，此前其机器人业务完成超9亿美元首轮融资，投后估值超63亿美元。 同时，特斯拉将弗里蒙特工厂改造成Optimus专用产线，目标年底生产10万台。 业内人士指出两者技术高度同源，但在电机、传感器、可靠性和系统集成等方面仍面临挑战。
+  📰 [中国经济网](http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260918_3219882.shtml)
+
+- **[2026.09.17] 新浪财经 — 第九届中国机器人峰会在杭州举办 共探产业智变与质变**
+  中文：总结：第九届中国机器人峰会于2026年9月17日在杭州开幕，期间发布了多项重要成果，包括启动首批康养机器人协同创新平台、发布《2026中国具身智能产业出海研究报告》以及机器人具身智能能力评测框架。 峰会由中国机电一体化技术应用协会主办，与会专家围绕量产元年、多模态具身智能从云端到物理世界的落地及知行合一等议题展开探讨。 与会代表认为，具身智能产业集群发展需突破互联传算、环境感知与知行合一等关卡。
+  📰 [新浪财经](https://finance.sina.com.cn/roll/2026-09-17/doc-inisczpy9064807.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.18] ドリームニュース — 日本の予知ロボットメンテナンス市場：AI搭載ロボティクス、状態監視、スマートファクトリー自動化が新たな成長機会を創出**
+  日本語：Japan's predictive robot maintenance market is expanding as manufacturers adopt AI, IoT sensors, and digital twins to transition from routine to predictive approaches, helping to address labor shortages and aging technical workforces. In July 2026, Cosmo Oil began testing autonomous four-legged inspection robots at its Sakai refinery as part of a digital program combining operational data with AI predictive maintenance. Major Japanese industrial firms, including Fujitsu, Fanuc, Yaskawa Electric, and Kawasaki Heavy Industries, started exploring physical AI applications in 2026. Furthermore, Hitachi developed physical AI for industrial motion optimization in March 2026, while Tokyo Electron highlighted automated semiconductor equipment maintenance robots in September 2026.
+  中文：总结：随着制造商采用AI、IoT传感器和数字孪生技术，日本的予知ロボットメンテナンス（预测性机器人维护）市场正在扩大，促使维护方式从常规转向预测性，以应对劳动力短缺和技术人员老少化。 2026年7月，コスモ石油（出光兴产旗下等）在堺製油所开始测试四足步行点检机器人，将其与AI预测性维护相结合。 富士通、FANUC、安川电机、川崎重工业等日本主要工业企业在2026年开始探讨物理AI应用。 此外，日立于2026年3月开发了工业现场动作优化的物理AI技术，东京电子则在2026年9月重点介绍了半导体制造设备自动维护机器人。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000363037)
+
+- **[2026.09.18] Yahoo!ニュース — トヨタ、毎年1兆円を投資し工場とロボットを更新 40万台をフィジカルAIであるLarge Behavior Models搭載ロボなどに**
+  日本語：At a European investor event, Toyota Motor Europe Executive Vice President and CTO Hiroki Nakajima announced that starting in 2028, the company will invest 1 trillion yen annually to update its 60 global factories and 400,000 group and supplier robots, deploying physical AI robots powered by Large Behavior Models developed by the Toyota Research Institute. This Factory Automation 3. 0 initiative connects production systems end-to-end. As a demonstration, Toyota showcased ELEY, an embodied learning robot using LBMs to learn and autonomously perform tasks such as folding T-shirts after human instruction.
+  中文：总结：在欧洲投资者活动中，丰田汽车代表取締役副社長兼CTO中嶋裕樹宣布，从2028年开始，该公司每年将投资1万亿日元用于更新其全球60家工厂以及集团和供应商的40万台机器人，部署搭载丰田研究所开发的生成式AI“Large Behavior Models”（大规模行动模型）的物理AI机器人。 这一“ファクトリーオートメーション 3. 0”（工厂自动化3. 0）举措通过端到端连接生产体制。 作为演示，丰田展示了名为ELEY的具身学习机器人，它利用LBM通过人类教授来学习并自主执行折T恤等动作。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/8e732657410ec83dc46e9090c43a128ebcf85d25)
+
+- **[2026.09.18] PR TIMES — 「日本ロボットシステムインテグレータ協会（通称:SIer協会）」に加盟**
+  日本語：Robokaru Co. , Ltd. , a provider of FA-focused professional skill scouting services with a network of 3,000 FA engineers, officially joined the Japan Robot System Integrator Association on September 17, 2026. The company aims to address the widespread industry shortage of specialized FA engineers by leveraging its network to build closer relationships with SIer companies and facilitate professional talent matching. Robokaru's management philosophy centers on making manufacturing workers happy by bridging human resource and information gaps, supporting factory automation and labor-saving initiatives.
+  中文：总结：株式会社ロボカル是一家专注于工厂自动化（FA）行业的专业人才技能猎头服务商，拥有3,000名FA工程师网络，于2026年9月17日正式加入日本机器人系统集成商协会（SIer协会）。 该公司旨在利用其网络与各SIer企业深化合作关系，解决行业内专业FA工程师短缺的共同课题，通过人才匹配为人机自动化与省人化做贡献。 其经营理念是“通过制造业让工作的人幸福”，致力于弥合制造业现场的人才与信息鸿沟。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000012.000114232.html)
+
+- **[2026.09.17] Laodong.vn — 日本、ASIAD 20でAI、ロボット技術を運用**
+  日本語：For the 20th Asian Games (ASIAD 20) in Nagoya, Japan is deploying advanced technologies including up to 16K resolution VR systems tested in bicycle racing, and the Asian Games Information System to collect and distribute results. AI is integrated into news production by JGC Parallel Technologies to automatically convert performance data into text within seconds. Additionally, generative AI-integrated autonomous guide robots were tested at Sakai Station starting in early 2026 to assist passengers with wayfinding and voice interaction, while security partner ALSOK prepared multi-layer protection including an AI avatar to guide tourists.
+  中文：总结：在日本名古屋举行的第20届亚运会（ASIAD 20）上，日方正在运用包括在自行车比赛中测试的高达16K分辨率VR系统及亚运会信息系统（AGIS）在内的高级技术来管理和分发赛事数据。 JGC并行技术公司将AI直接引入新闻制作流程，几秒钟内将业绩数据自动转换为文本。 此外，名古屋自2026年初起在堺站测试了集成生成式AI的自动引导机器人，以协助乘客寻找路线和语音交互；安保合作伙伴ALSOK也准备了多层保护系统，并测试了用于引导游客的AI虚拟形象。
+  📰 [Laodong.vn](https://ja.laodong.vn/the-thao/nhat-ban-su-dung-cong-nghe-ai-robot-de-van-hanh-tai-asiad-20-1768107.ldo)
+
+- **[2026.09.16] AIsmiley — 「最強のヒューマノイドは 日本から生まれる」**
+  日本語：At the AI Expo Summer 2026, Donut Robotics CEO Taisuke Ono delivered a lecture titled "The Strongest Humanoid Will Be Born from Japan," discussing physical AI as a global investment trend and the US-China bipedal humanoid development dominance. Ono highlighted that Japanese robotics can claim the advantage of being the "safest humanoids" amidst ongoing international conflicts, and introduced Donut Robotics' strategy for expanding its newly announced mass-produced bipedal humanoid, cinnamon 1, to the global market.
+  中文：总结：在2026年夏季AI博览会上，Donut Robotics株式会社代表取締役社長小野泰助发表了题为“最強のヒューマノイドは 日本から生まれる”的演讲，探讨了物理AI作为全球投资趋势及美中二极化的双足人形机器人开发竞争。 小野指出，在国际冲突不断的背景下，日本制造可以具备“最安全的人形机器人”这一优势，并阐述了该公司将日本首款量产双足人形机器人“cinnamon 1”推向全球市场的战略。
+  📰 [AIsmiley](https://aismiley.co.jp/webinar/aihakusummer20261a-1/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.18] TechRadar — UBTech reveals world-first robot factory that can build an android every ten minutes — and it's been joined by the 'first fully automated three-dimensional warehouse'**
+  English: Chinese firm UBTech unveiled a smart factory in Liuzhou, Guangxi Zhuang Autonomous Region, capable of producing 10,000 androids a year, primarily focusing on its Walker S and Cruzr robot series. The facility makes heavy use of autonomous robots and driverless vehicles, where Cruzr units handle materials while collaborative robots work with human operators in final assembly. Additionally, UBTech launched what it described as the industry's first fully automated three-dimensional warehouse, storing 112 robots in 65 square meters. UBTech Vice President Fang Jianxin attributed the factory's creation to China's strong supply chain, engineering base, and manufacturing capabilities built over the past decade.
+  中文：总结：中国优必选在广西壮族自治区柳州市揭幕了一座年产1万台仿生机器人的智能工厂，主要生产其Walker S和Cruzr系列机器人。 该工厂大量使用自主机器人和无人驾驶车辆，其中Cruzr单元负责搬运物料，协作机器人在最终总装环节与人类操作员协同工作。 此外，优必选推出了被称为“行业首个全自动化立体仓库”，在65平方米的空间内可存储112台机器人。 优必选副总裁方剑辛将该工厂的建立归功于中国过去十年积累的强大供应链、工程及制造能力。
+  📰 [TechRadar](https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year)
+
+- **[2026.09.18] stocktitan.net — Humanoid robot maker plans Nasdaq debut via Churchill Capital Corp XI (NASDAQ: CCXI) merger**
+  English: Churchill Capital Corp XI (CCXI) and Agility Robotics highlighted their proposed business combination and Agility's upcoming Analyst & Investor Day scheduled for October 6, 2026. Agility plans to use the event to showcase Digit 5, its technology roadmap, commercial strategy, and financial profile as it prepares to go public. The business combination is expected to close in the fourth quarter of 2026, after which the combined company will operate as Agility Robotics and trade on Nasdaq under the ticker "AGLT. " The initial Form S-4 registration statement has been filed, and the transaction remains subject to registration effectiveness, regulatory approval, and Churchill shareholder approval.
+  中文：总结：Churchill Capital Corp XI（CCXI）与敏捷机器人公司重点介绍了双方拟议的业务合并以及敏捷机器人定于2026年10月6日举办的分析师与投资者日活动。 敏捷机器人计划利用此次活动展示其Digit 5、技术路线图、商业战略和长期财务状况，为通过该合并上市做准备。 该业务合并预计于2026年第四季度完成，此后合并后的公司将以敏捷机器人名义运营，并在纳斯达克以股票代码“AGLT”交易。 双方已提交了初始S-4表格注册声明，该交易仍有待注册生效、监管批准及Churchill股东批准。
+  📰 [stocktitan.net](https://www.stocktitan.net/sec-filings/CCXI/425-churchill-capital-corp-xi-business-combination-communication-7fec9a00a283.html)
+
+- **[2026.09.17] Interesting Engineering — Humanoid every 10 minutes at this UBTech’s new plant**
+  English: UBTech opened its Super Smart Factory in Liuzhou, Guangxi, on September 12, covering 14,000 square meters with a building height of 13. 8 meters to manufacture its Walker S Series and Cruzr Series industrial humanoid robots at a rate of one unit every ten minutes. The factory utilizes wheeled Cruzr units for depalletizing and material runs alongside human workers, while collaborative arms on rotating stations handle precision tasks such as driving over two thousand screws. Each robot undergoes four hours of stress testing, and the facility was digitally pre-built using Siemens Plant Simulation. UBTech reported selling over 900 full-size humanoids in the first half of 2026 while recording a net loss of 339 million yuan, targeting an annual production of 10,000 units.
+  中文：总结：优必选于9月12日在广西柳州启用超级智能工厂，该厂占地14,000平方米，建筑高度13. 8米，用于制造其Walker S系列和Cruzr系列工业人形机器人，下线速度为每10分钟一台。 工厂利用轮式Cruzr单元与人类工人协同进行码垛和物料运输，旋转工位上的协作机械臂则执行拧入两千多颗螺丝等精细工作。 每台机器人都经过4小时的应力测试，且该厂在建设前使用了西门子Plant Simulation进行了数字孪生仿真。 优必选报告称，2026年上半年售出900多台全尺寸人形机器人，净亏损3. 39亿元，其2026年的目标产量为10,000台。
+  📰 [Interesting Engineering](https://interestingengineering.com/videos/humanoid-every-10-minutes-at-this-ubtechs-new-plant)
+
+- **[2026.09.17] The Robot Report — The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5**
+  English: Agility Robotics has developed five versions of its Digit humanoid over 10 years, growing from its Dynamic Robotics Lab origins at Oregon State University to over 400 employees and a factory capable of producing 10,000 robots annually. The company's journey began with Cassie, a fast-running bipedal robot with ostrich-like legs that set a Guinness World Record in 2022 for the fastest 100 meters by a bipedal robot. Agility released its first research-focused Digit in 2017, commercialized Digit 3 for package delivery and box stacking in 2019 with early sales to Ford, and deployed Digit 4 in warehouses and distribution centers for customers like Toyota, GXO, and Amazon. Building on these deployments, Agility designed Digit 5 with human-like legs, longer battery life, and enhanced safety to operate near people.
+  中文：总结：敏捷机器人公司在过去10年中开发了5个版本的Digit人形机器人，从俄勒冈州立大学动态机器人实验室的起源发展到拥有400多名员工以及年产10,000台机器人的工厂。 公司的历程始于Cassie，这是一款具有鸵鸟般腿部的快速奔跑双足机器人，曾在2022年创下双足机器人100米跑最快吉尼斯世界纪录。 敏捷于2017年发布了首款面向研究的Digit，2019年将Digit 3商业化用于包裹递送和箱子堆叠并向福特售出首批机器人，随后在丰田、GXO和亚马逊等客户的仓库中部署了Digit 4。 基于这些部署经验，敏捷设计了具备类人腿部、更长续航及能在人类附近安全作业能力的Digit 5。
+  📰 [The Robot Report](https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/)
+
+- **[2026.09.17] Interesting Engineering — 20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled**
+  English: Agility Robotics unveiled Digit 5 on September 15, 2026, a 5-foot-11-inch, 284-pound humanoid designed to work alongside people in warehouses and manufacturing facilities. Developed in Salem, Oregon, Digit 5 features human-like legs powered by cycloidal actuators, a 40% increased payload capacity allowing it to lift up to 50 pounds repeatedly, and a 90-minute battery that recharges in nine minutes. The robot is equipped with cameras, depth sensors, and a safety architecture utilizing NVIDIA's IGX Thor and Halos for Robotics platforms. Agility reported over $300 million in conditional commitments as of May 2026, with early access planned for the first half of 2027 and production at its 70,000-square-foot RoboFab facility.
+  中文：总结：敏捷机器人公司于2026年9月15日推出了Digit 5，这是一款身高5英尺11英寸、重284磅的人形机器人，专为在仓库和制造设施中与人类协同工作而设计。 该机器人在俄勒冈州塞勒姆开发，采用由摆线执行器驱动的类人腿部，负载能力提升40%可重复举起50磅重物，配备9分钟即可充满的90分钟续航电池。 该机器人配备了摄像头、深度传感器以及利用NVIDIA IGX Thor和Halos for Robotics平台的安全架构。 截至2026年5月，敏捷报告了超过3亿美元的有条件承诺，计划于2027年上半年提供早期访问，并在其占地70,000平方英尺的RoboFab工厂进行生产。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5)
+
+
+---
+※AI Robot News Digest | 2026.09.18 | full-text items: 20
