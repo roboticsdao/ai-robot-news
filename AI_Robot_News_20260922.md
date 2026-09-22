@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.22（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.22] TechTarget — Can Nvidia's physical AI strategy replicate its AI dominance?**
+  English: Nvidia is positioning itself as a central supplier of computing infrastructure, simulation, and edge computing for physical AI as technology moves into robots and industrial systems. CEO Jensen Huang highlighted physical AI as an accelerator for AI infrastructure demand, while Gartner analyst Bill Ray noted it offers expansion beyond data centers. Nvidia's full-stack platform combines AI infrastructure, open simulation frameworks like Omniverse and Cosmos, models, and edge computing using platforms like Jetson and Drive. However, replicating its generative AI dominance in physical AI may be challenging due to a fragmented market with established competitors and real-world hurdles involving safety, power, latency, and cost. Foxconn, HD Hyundai, PepsiCo, and Kion Group are adopting Siemens' Digital Twin Composer incorporating Nvidia libraries, while new hardware like the Jetson Orin Nano 2 expands edge computing capabilities.
+  中文：总结：随着人工智能向机器人、汽车和工业系统扩展，英伟达正定位为物理AI的计算基础设施、模拟和部署的核心供应商。 首席执行官黄仁勋指出物理AI正加速基础设施需求，Gartner分析师比尔·雷认为这提供了数据中心以外的扩展机遇。 英伟达的全栈平台整合了AI基础设施、Omniverse和Cosmos等开源模拟框架、模型以及Jetson和Drive等边缘计算平台。 然而，由于市场碎片化、存在成熟竞争对手，且面临现实世界的安全、功耗、延迟和成本挑战，英伟达要在物理AI领域复制其生成式AI的统治地位并非易事。 富士康、现代重工、百事公司和凯傲集团正采用融入英伟达库的西门子Digital Twin Composer，而Jetson Orin Nano 2等新硬件则扩展了边缘计算能力。
+  📰 [TechTarget](https://www.techtarget.com/ai/feature/Can-Nvidias-physical-AI-strategy-replicate-its-AI-dominance)
+
+- **[2026.09.22] Tomorrow's World Today — Agility Unveils 5th Generation Warehouse Humanoid Robot**
+  English: Agility Robotics revealed its fifth-generation humanoid robot, Digit 5, designed to operate safely in open factory and warehouse environments alongside human staff. CEO Peggy Johnson stated that Digit 5 removes a major barrier to scaling humanoid robots industrially. The robot utilizes sensors and AI algorithms, built with Nvidia IGX Thor and the Halos framework, to continuously track nearby workers and avoid hazards, supported by visual and audio cues. Standing 5 feet 11 inches tall and weighing 284 pounds, Digit 5 can lift 50-pound loads and features a new battery that charges in 9 minutes for 90 minutes of operation, enabling over 20 hours of daily work. Its predecessor, Digit 4, logged over 65,000 operational hours at companies like Amazon, Toyota, and GXO, achieving a 100,000-tote milestone with 98% accuracy. Backed by over $300 million in customer orders, Digit 5 is now transitioning into full-scale deployments.
+  中文：总结：Agility Robotics发布了其第五代人形机器人Digit 5，旨在与人类员工一起在开放的工厂和仓库环境中安全作业。 首席执行官佩吉·约翰逊表示，Digit 5消除了人形机器人在工业环境中规模化应用的主要障碍。 该机器人利用基于Nvidia IGX Thor和Halos框架构建的传感器和AI算法持续追踪附近工人并规避危险，同时辅以视觉和音频提示。 Digit 5身高5英尺11英寸，重284磅，可搬运50磅重的物品，并配备了充电9分钟即可运行90分钟的新电池，可实现每天超过20小时的工作时长。 其前身Digit 4在亚马逊、丰田和GXO等公司积累了超过65,000小时的运行时间，实现了10万个周转箱搬运里程碑且准确率达98%。 在超过3亿美元客户订单的支持下，Digit 5正迈向全面规模化部署。
+  📰 [Tomorrow's World Today](https://www.tomorrowsworldtoday.com/robotics/agility-unveils-5th-generation-warehouse-humanoid-robot/)
+
+- **[2026.09.21] finance.biggo.com — Tesla's Robot Supplier Audits Expand Across the Yangtze River Delta as Supply Chain Mass Production Countdown Begins**
+  English: Tesla's humanoid robot Optimus has reached a critical mass-production milestone as its robotics team launched supply chain audits across the Yangtze River Delta, including Ningbo, Hangzhou, and Shanghai. Core electromechanical component suppliers such as Tuopu Group, Sanhua Intelligent Controls, and Joyson Electronics are being evaluated on production line quality, compliance, and per-unit production costs. The third-generation model is Tesla's first version designed for volume manufacturing, featuring upgraded hand dexterity and joint actuators for industrial tasks with a long-term target cost of $20,000 to $30,000. Tesla converted a former Model S/X production line in California into a dedicated robot line with a planned annual capacity of 1 million units, while preparing a second line at the Texas Gigafactory for an annual capacity of 10 million units. Tesla aims to produce approximately 50,000 Optimus units in 2026 for global Gigafactory deployment.
+  中文：总结：特斯拉人形机器人Optimus迎来量产关键节点，其机器人团队在长三角地区（包括宁波、杭州和上海等地）启动了新一轮供应链审厂。 拓普集团、三花智控和均胜电子等多家核心机电零部件供应商正接受关于生产线质量、合规性及单台生产成本的评估。 第三代车型是特斯拉首款为量产设计的版本，升级了手部灵巧机构和关节执行器以执行工业任务，长期目标成本设定在20,000美元至30,000美元之间。 特斯拉已将加州的Model S/X旧生产线改造为专属机器人产线，计划年产能100万台，同时在得州超级工厂筹备第二条机器人产线，长期设计年产能达1000万台。 特斯拉的目标是在2026年生产约50,000台Optimus并在全球超级工厂部署。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/fa49f32f-82d2-4df0-b87a-839c87435e6b)
+
+- **[2026.09.21] Rare Earth Exchanges — Humanoid Robot NdFeB Magnet Supply China vs US 2026**
+  English: China shipped over 40,000 humanoid robots in the first half of 2026, representing 97% of reported global shipments, supported by its dominance in sintered NdFeB permanent magnet production. A report by the China Humanoid Robot and Embodied Intelligence Committee of 100 highlighted this growth, alongside a national program launched in June by the Ministry of Industry and Information Technology and the state-assets regulator to drive embodied AI into real-world operating environments. Meanwhile, Tesla is auditing Chinese suppliers like Sanhua, Joyson, and Tuopu to scale Optimus production, illustrating U. S. component dependencies while American companies lead in software and AI. U. S. firms like MP Materials and USA Rare Earth are building domestic magnet capacity, but their facilities will not commission until 2028. Morgan Stanley projects over 1 billion humanoids by 2050 with $800 billion in cumulative critical mineral demand. Additionally, Unitree priced an IPO raising approximately RMB6. 1 billion, roughly $900 million, at a valuation near $9 billion.
+  中文：总结：在烧结钕铁矿永磁体生产优势的支持下，中国在2026年上半年出货了超过40,000台人形机器人，占全球已报告出货量的97%。 中国人形机器人与具身智能百人会的一份报告突显了这一增长，工信部和国资委于6月启动了一项国家级计划，旨在将具身智能推向实际运营环境。 与此同时，特斯拉正在审理三花、均胜和拓普等中国供应商以扩大Optimus生产，这反映了美国在组件上的依赖，而美国公司则在软件和AI领域领先。 MP Materials和USA Rare Earth等美国公司正在建设国内钕铁矿产能，但这些设施要到2028年才会投产。 摩根士丹利预测，到2050年人形机器人将超过10亿台，累积关键矿产需求达$800 billion。 此外，宇树科技完成了IPO定价，募资约61亿元人民币（约合9. 0亿美元），估值接近90亿美元。
+  📰 [Rare Earth Exchanges](https://rareearthexchanges.com/news/humanoid-robot-ndfeb-magnet-china-us/)
+
+- **[2026.09.20] Cyprus Mail — Humanoid robot firm Boston Dynamics faces delayed public listing**
+  English: Boston Dynamics, Hyundai Motor Group's humanoid robot unit, is unlikely to pursue an initial public offering next year because it remains unprofitable and has not yet deployed its flagship Atlas robots at scale, according to a senior executive. Hyundai acquired a controlling stake in Boston Dynamics in 2021 and recently announced plans to acquire SoftBank's remaining 10% stake to make it a wholly owned subsidiary in a deal valued at about 500 billion won ($371. 51 million). Boston Dynamics reported a 2025 loss of 528. 4 billion won, bringing total losses from 2021 through 2025 to nearly 1. 7 trillion won. Hyundai aims to build a facility in the U. S. capable of producing 30,000 robots annually by 2028 and begin deploying humanoids at its Georgia plant that year. Analysts suggest an IPO may not happen until 2029 or 2030, with company valuations estimated widely between 50 trillion and 141 trillion won.
+  中文：总结：据现代汽车集团的一位高管透露，现代汽车集团旗下的人形机器人部门波士顿动力公司明年不太可能进行首次公开募股（IPO），因为该公司尚未实现盈利，也未大规模部署其旗舰Atlas机器人。 现代于2021年收购了波士顿动力公司的控股权，并于近期宣布计划以约5000亿韩元（合3. 7151亿美元）收购软银持有的剩余10%股份，将其变为全资子公司。 波士顿动力2025年录得亏损5284亿韩元，2021年至2025年的总亏损接近1. 7万亿韩元。 现代计划到2028年在美国建立一个年产30,000台机器人的工厂，并于当年开始在其佐治亚州工厂部署人形机器人。 分析师认为IPO可能要到2029年或2030年才会进行，公司估值在50万亿至141万亿韩元之间。
+  📰 [Cyprus Mail](https://cyprus-mail.com/2026/09/20/humanoid-robot-firm-boston-dynamics-faces-delayed-public-listing)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.22] 人民网 — 中国机器人从“能用”走向“好用”**
+  中文：总结：中国工业界正日益在高温、高危和重复性任务中广泛采用先进机器人，从而提升了运营效率与安全性。 在钢结构制造领域，中建科工等企业利用配备3D激光视觉系统的专用机器人，将定位误差控制在1毫米以内，焊接探伤合格率稳定在99. 5%以上，综合工效提升22%到40%。 在物流领域，星动纪元等企业的具身智能机器人能够处理破损或重心偏移的复杂包裹，单小时处理量最高可达1200件以上。 在户外及应急环境中，云深处科技配备IP67级防护的四足机器人在腾格里沙漠和灾害现场等极端条件下可靠作业。 此外，企业正通过零样本泛化、内置工艺数据库和具身大脑等技术增强机器人的泛化能力，使系统无需大量人工重新训练即可快速适应新环境。
+  📰 [人民网](http://finance.people.com.cn/n1/2026/0922/c1004-40803134.html)
+
+- **[2026.09.22] 上海证券报电子版 — 特斯拉人形机器人量产在即中国产业链公司迎合作新机遇**
+  中文：总结：特斯拉正推进其Optimus人形机器人的量产，其机器人团队近期在宁波、杭州和上海对拓普集团、三花智控和均胜电子等供应商展开审厂工作。 第三代Optimus是特斯拉首款专为量产设计的机型，升级了手部灵巧机构和关节执行器以优先承担工业任务，目标成本为20,000美元至30,000美元。 特斯拉于2026年5月在得州超级工厂启动了Optimus生产项目，设定了1000万台的长期年产能目标，预计于2027年中期投产。 由于电动汽车与人形机器人零部件高度重合，中国汽车供应商优势明显。 罗兰贝格预测，在中国的部署优先和制造驱动生态推动下，到2035年全球人形机器人整机市场规模有望达到7500亿美元，到2050年有望超过4万亿美元。
+  📰 [上海证券报电子版](https://paper.cnstock.com/html/2026-09/22/content_2271187.htm)
+
+- **[2026.09.22] dutenews.com — 优必选发布全球首部《人形机器人科技伦理治理白皮书》，率先构建具身智能伦理治理框架**
+  中文：总结：优必选于2026年9月20日在深圳举行的研讨会上发布了全球首部人形机器人科技伦理治理白皮书，直面工业制造、商业服务和家庭陪伴等领域的安全与伦理挑战。 白皮书提出了行动可控、拟人适当、交互有度三项专项保护目标，并构建了涵盖从产品设计到退役全生命周期的七步风险管理框架。 白皮书划分了物理安全、认知自主、情感关系等八个影响域，并提出了结合工程技术要求与组织治理要求的双轨风控策略。 来自学界、法律界和产业界的专家对该倡议给予高度评价，将其视为全球AI治理的实用基准。 同时，深圳正巩固其机器人枢纽地位，2025年机器人产业总产值达2426亿元，人形机器人整机产量达34. 34万套。
+  📰 [dutenews.com](https://www.dutenews.com/n/article/60093974)
+
+- **[2026.09.21] 广州日报新花城 — 广州南方学院学子荣获第二十八届中国机器人及人工智能大赛全国一等奖**
+  中文：总结：广州南方学院参赛队伍在第二十八届中国机器人及人工智能大赛全国总决赛中斩获佳绩，荣获全国一等奖1项、全国二等奖1项。 获奖队伍参加了人形机器人专项赛“Aelos机器人挑战赛（开源鸿蒙版本）”赛项。 项目聚焦家庭智能服务场景，依托开源鸿蒙架构与人形机器人技术，设计并优化了涵盖多任务协同、动态障碍物规避和精准语音指令识别等难题的感知-决策-执行闭环系统。 学校将这些成果归功于其近年来聚焦新工科建设、人工智能前沿交叉学科、高水平实验室以及产教融合的办学举措。
+  📰 [广州日报新花城](https://xxsb.gz-cmc.com/pages/2026/09/21/0732c1da0821407bb6045e65bc957c97.html)
+
+- **[2026.09.21] 搜狐网 — 机器人越来越像人，优必选为何此时谈伦理？**
+  中文：总结：随着人形机器人从实验室走向家庭和工厂，引发了关于人机边界和安全性的现实问题，优必选于2026年9月20日发布了《人形机器人科技伦理治理白皮书》。 白皮书突出了三个核心原则：机器人的行动应始终处于人类可干预的范围内，拟人程度应与功能需求相称以避免用户产生实质误认，长期的互动不应侵蚀人的自主判断和现实关系。 这些指导方针出台之际，人形机器人市场在三个月内正加速从工业环境向家庭环境推进，使得伦理治理考量成为当务之急。
+  📰 [搜狐网](https://m.sohu.com/a/1079089794_121010226?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.22] Yahoo!ニュース — “日本産”ロボットは世界とどう戦うか？国産フィジカルAIの現在地、技術発展と実現への課題（Wedge（ウェッジ））**
+  日本語：THK has developed a robot utilizing its mechanical element parts, such as lead screws and link balls, to mimic muscle-like contraction and expansion for delicate hand operations. Meanwhile, HatsuMuv created a humanoid robot equipped with an upper-body suit and fish-eye cameras to collect comprehensive operational data from human tasks. Despite technical capabilities, Japanese companies face challenges in deploying physical AI for industrial applications. A research development support representative noted a lack of real-world operational examples and feedback to accelerate progress. Additionally, factory integration often causes friction with human workers, while cultural risk aversion and the high costs of building consistent virtual simulation environments remain significant obstacles to adoption.
+  中文：总结：THK开发了一种利用其丝杠和连杆球等机械要素部件来模仿肌肉伸缩以进行精细手部操作的机器人。 同时，HatsuMuv开发了一种配备上半身スーツ和鱼眼摄像头的类人机器人，用于收集人类任务的全面操作数据。 尽管具备技术能力，日本企业在将物理AI应用于工业领域时仍面临挑战。 一位研发支持代表指出，缺乏实际运行案例和反馈来加速进展。 此外，工厂集成往往会与人类工人产生摩擦，而文化上的风险厌恶情绪以及构建一致性虚拟模拟环境的高昂成本，仍然是采用过程中的重大障碍。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/8a23aaaaf1bb1e5c69e740a15f68f88cba9c7d51?page=3)
+
+- **[2026.09.20] tokyonewsmedia.com — 世界60工場・40万台のロボット刷新に、トヨタが2028年以降年1兆円を投資へ**
+  日本語：Toyota Motor Corporation announced an annual investment of 1 trillion yen or more starting in 2028 to update about 60 global factories and refresh a total of 40,000 robots across its operations and major suppliers, which includes about 15,000 internal units and 25,000 supplier units. The investment covers equipment modernization, digital integration, and factory automation upgrades. At an investor event, Toyota demonstrated 'ELEY,' an embodied learning robot developed using Large Behavior Models (LBM) created by the Toyota Research Institute. ELEY learns tasks from human demonstrations, as shown in a demonstration where it folded T-shirts after practicing 1,500 times over two weeks. Toyota aims to link factories and robots end-to-end through data, though the precise deployment ratios and LBM machine percentages remain unspecified.
+  中文：总结：丰田汽车公司宣布从2028年起每年投资1万亿日元以上，用于更新全球约60家工厂，并刷新其运营及主要供应商总计40万台规模的机器人，其中包括丰田及集团内部约15万台和供应商约25万台。 投资涵盖设备现代化、数字集成和工厂自动化升级。 在投资者活动上，丰田展示了使用美国丰田研究所（TRI）开发的大规模行动模型（LBM）研发的身体学习机器人“ELEY”。 ELEY通过人类示范学习任务，正如其在两周内练习1,500次后展示折叠T恤的演示所示。 丰田旨在通过数据将工厂和机器人端到端地连接起来，尽管具体部署比例和LBM机器占比尚未明确。
+  📰 [tokyonewsmedia.com](https://tokyonewsmedia.com/archives/28185)
+
+- **[2026.09.20] 財経新聞 — トヨタ、世界60工場とロボット40万台を更新へ 2028年以降に年1兆円規模**
+  日本語：Toyota Motor Corporation announced plans to invest 1 trillion yen annually starting in 2028 to update 60 factories and modernize approximately 400,000 robots, comprising 150,000 units within Toyota and its group companies and 250,000 units at suppliers. The initiative is part of 'Factory Automation 3. 0,' connecting plants and equipment through shared production data. Toyota showcased 'ELEY' (Embodied Learning robot for Enhanced Yield), a 50kg wheeled robot featuring dual arms and quasi-direct drive actuators with high backdriveability. ELEY learns tasks through human demonstration using Large Behavior Models (LBM) developed by the Toyota Research Institute, employing Diffusion Policy algorithms. Demonstrations included folding T-shirts after 1,500 practice iterations over two weeks. Key challenges for Toyota include ensuring long-term operational reliability, precise hand positioning repeatability, and establishing a robust learning data infrastructure.
+  中文：总结：丰田汽车公司宣布计划从2028年起每年投入1万亿日元规模，用于更新60家工厂和现代化改造约40万台机器人，其中包括丰田及集团公司的约15万台以及供应商的约25万台。 该计划是“工厂自动化3. 0”的一部分，通过共享生产数据将工厂和设备连接起来。 丰田展示了名为“ELEY”（Embodied Learning robot for Enhanced Yield）的50公斤重轮式机器人，配有双臂和高反向驱动能力的准直驱执行器。 ELEY采用丰田研究所开发、运用扩散方策算法的大规模行动模型（LBM），通过人类示范来学习任务。 演示包括在两周内经过1,500次练习后折叠T恤。 丰田面临的主要挑战包括确保长期运行可靠性、手部定位重复精度以及建立健全的学习数据基础设施。
+  📰 [財経新聞](https://www.zaikei.co.jp/amp/article/20260920/870785.html)
+
+- **[2026.09.20] Vietnam.vn — 40万台のヒューマノイドロボットがトヨタの工場労働者と共に働くことになる。**
+  日本語：Toyota Motor Corporation plans to invest 1 trillion yen (approximately $6. 42 billion) annually starting in 2028 to renovate global manufacturing plants, introducing 150,000 robots in its own facilities and 250,000 in supplier factories, totaling 400,000 units. Operating 60 plants globally and employing 18,000 skilled master craftsmen known as 'Takumi,' Toyota aims to combine human collaboration with automated systems. As part of this initiative, Toyota introduced 'ELEY' (Embodied Learning robot for Enhanced Yield), a 50kg dual-armed, wheeled robot powered by batteries and cords. ELEY learns fine motor skills by observing human workers wearing tracking devices on their fingers. In a demonstration at Toyota's European headquarters, an ELEY unit successfully folded T-shirts with near-perfect accuracy after 1,500 learning iterations over two weeks. Executive Vice President Hiroki Nakajima stated the goal is to create a world where robots coexist with humans rather than replace them.
+  中文：总结：丰田汽车公司计划从2028年起每年投入1万亿日元（约合64. 2亿美元）用于改造全球制造工厂，在其自身设施中引入15万台机器人，并在供应商工厂引入25万台，总计40万台。 丰田在全球运营60家工厂并雇用了18,000名被称为“匠”的熟练工匠，旨在将人类协作与自动化系统相结合。 作为该计划的一部分，丰田推出了名为“ELEY”（Embodied Learning robot for Enhanced Yield）的50公斤重双臂轮式机器人，由电池和电线供电。 ELEY通过观察佩戴手指追踪装置的人类工人来学习精细运动技能。 在丰田欧洲总部的一次演示中，一台ELEY机器人在两周内经过1,500次学习迭代后，以近乎完美的准确度成功折叠了T恤。 执行副总裁中岛裕树表示，其目标是创造一个机器人与人类共存而不是取代人类的世界。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/400-000-robot-hinh-nguoi-se-lam-viec-cung-cong-nhan-nha-may-toyota)
+
+- **[2026.09.19] Car Watch — トヨタは人型ロボットを40万台つくるのか？ トヨタ製フィジカルAIであるLBM（大規模行動モデル）が強みに**
+  日本語：At an investor event held by Toyota Motor Europe, Toyota Executive Vice President and CTO Hiroki Nakajima announced that the company will invest over 1 trillion yen annually starting in 2028 to update 60 existing factories and refresh 40,000 robots across Toyota group companies and suppliers. The total figure of 40,000 units includes existing industrial robots and automated guided vehicles, rather than a mass-production deployment solely of humanoid robots. Toyota also showcased 'ELEY' (Embodied Learning robot for Enhanced Yield), a 50kg wheeled robot featuring dual arms and developed using Large Behavior Models (LBM)—generative AI developed by the Toyota Research Institute (TRI). Led by Dr. Gill Pratt, TRI's LBM technology applies diffusion models to learn complex behaviors and physical tasks directly from human demonstrations, facilitating human-robot collaboration in factory automation.
+  中文：总结：在丰田欧洲汽车公司举行的投资者活动上，丰田汽车代表取締役副社長兼CTO中嶋裕樹宣布，公司将从2028年开始每年投资1万亿日元以上，用于更新60家现有工厂并刷新丰田集团公司及供应商的40万台机器人。 40万台的总数包括现有的工业机器人和自动导引车，并非单纯的人形机器人量产部署。 丰田还展示了“ELEY”（Embodied Learning robot for Enhanced Yield）机器人，这是一款重约50公斤的轮式双臂机器人，采用由丰田研究所（TRI）开发的大规模行动模型（LBM）这一生成式AI技术。 在吉尔·普拉特（Gill Pratt）博士的带领下，TRI的LBM技术应用了扩散模型直接从人类示范中学习复杂行为和物理任务，从而促进工厂自动化中的人机协作。
+  📰 [Car Watch](https://car.watch.impress.co.jp/docs/news/2142443.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.19] note — フィジカルAIによるものづくり日本の再興――GMO熊谷代表が語った日本の危機感とヒューマノイド産業の可能性**
+  English: GMO Internet Group CEO Masatoshi Kumagai spoke at the '4th GMO Conference' on September 15, 2026, highlighting the rapid acceleration of AI and robotics, known as physical AI, as a vital solution to Japan's population decline and labor shortages. Kumagai expressed deep concern that Japan is lagging far behind the U. S. and China in AI and robotics development, citing a lack of R&D investment, slow public-private collaboration, and adherence to outdated successes. While China and the U. S. are heavily investing in humanoid robots, Kumagai noted that Japan retains strong manufacturing techniques in motors and components that could be leveraged. He also discussed different structural approaches, contrasting open systems like Unitree's programmable hardware with closed systems like Tesla's Optimus. Furthermore, Kumagai emphasized that energy and electricity costs are critical infrastructure determinants for running AI and robotics computing power.
+  中文：总结：GMO互联网集团代表取締役集团代表会长兼CEO熊谷正寿于2026年9月15日在“第四届GMO大会议”上发言，强调被称为物理AI的AI与机器人技术的快速加速是解决日本人口减少和劳动力短缺的关键方案。 熊谷对日本在AI和机器人开发方面严重落后于美中两国表示深切担忧，并指出其原因在于缺乏研发投资、产官学合作缓慢以及固守过往成功经验。 尽管中美两国正大力投资人形机器人，熊谷指出日本仍保留着可资利用的电机及零部件等强大制造技术。 他还讨论了不同的结构方法，对比了如宇树科技的可编程硬件等开放式系统与如特斯拉Optimus等封闭式系统。 此外，熊谷强调能源和电力成本是运行AI和机器人计算能力的关键基础设施决定因素。
+  📰 [note](https://note.com/kmoriyama/n/n13782c0d8cd7)
+
+- **[2026.09.22] theaiinsider.tech — China Slows Humanoid Robot IPO Push as Regulators Scrutinize Valuations**
+  English: Chinese regulators are slowing initial public offerings for humanoid robotics companies by closely scrutinizing high valuations and examining whether revenue tied to government-backed projects reflects genuine commercial demand, Reuters reported. The increased oversight follows Unitree Robotics' volatile Shanghai stock debut, where shares surged over fivefold before declining 55% from their peak. At least six Chinese robotics firms, including Deep Robotics, X Square Robot, and Agibot, are preparing for public listings. Regulators are particularly reviewing revenue derived from local-government-backed data collection centers and joint ventures, which can make up 80% to 90% of initial investments and support private valuations. Industry observers noted that excluding such government-linked revenue could reduce valuations by 60% to 70%, prompting investors to prioritize actual deployments, order volumes, and commercially viable products.
+  中文：总结：据路透社报道，中国监管机构正在对人形机器人公司的首次公开募股实施放缓措施，严加审查高估值，并核查与政府支持项目相关的收入是否反映了真实的商业需求。 这一强化的监管是在宇树科技在上海股市首次亮相股价暴涨逾五倍随后从峰值下跌55%之后出现的。 包括深蓝科技、行者机器人和智元机器人在内的至少六家中国机器人公司正准备上市。 监管机构正特别审查源自地方政府支持的数据收集中心和合资企业的收入，这些项目可提供80%至90%的初始投资并支持私募估值。 行业观察人士指出，排除此类与政府相关的收入可能会使估值下降60%至70%，这促使投资者将实际部署、订单量和具商业可行性的产品置于优先地位。
+  📰 [theaiinsider.tech](https://theaiinsider.tech/2026/09/21/china-slows-humanoid-robot-ipo-push-as-regulators-scrutinize-valuations/)
+
+- **[2026.09.22] dcvelocity.com — Boston Dynamics will train its Atlas humanoid robot in Hyundai car factory**
+  English: Boston Dynamics announced it will deploy and train its Atlas humanoid robots inside Hyundai Motor Group Metaplant America (HMGMA), a 2,900-acre electric vehicle factory near Savannah, Georgia, through a new Robotics Metaplant Application Center (RMAC). Initially, Atlas robots are being trained in logistics and automotive parts sequencing, with applications expanding to component assembly by 2030 and heavier repetitive tasks over time. Hyundai plans to deploy 25,000 Atlas units across its global plants and establish a U. S. production facility capable of manufacturing 30,000 robots annually. The RMAC will expand to roughly ten times its current size next year when it relocates to a new building at HMGMA. Boston Dynamics also plans to explore industrial use cases in sectors such as manufacturing, aerospace, logistics, and food and beverage with existing Spot and Stretch customers.
+  中文：总结：波士顿动力公司宣布，将在位于佐治亚州萨凡纳附近占地2,900英亩的现代汽车集团美国工厂（HMGMA）通过新建的机器人超级工厂应用中心（RMAC）部署并训练其Atlas人形机器人。 初期，Atlas机器人在物流和汽车零件排序方面进行训练，应用场景预计到2030年扩展到零部件装配，并随着时间推移承接更重的重复性任务。 现代计划在其全球工厂部署25,000台Atlas机器人，并建立一个年产30,000台机器人的美国生产设施。 RMAC明年迁至HMGMA的新建筑后，规模将扩大至目前的近十倍。 波士顿动力还计划与现有的Spot和Stretch客户一起，在制造、航空航天、物流以及食品饮料等行业的工业应用场景中进行探索。
+  📰 [dcvelocity.com](https://www.dcvelocity.com/material-handling/robotics/boston-dynamics-will-train-its-atlas-humanoid-robot-in-hyundai-car-factory)
+
+- **[2026.09.22] manufacturingdive.com — Agility debuts ‘first cooperatively safe humanoid,’ a milestone in robotics**
+  English: Agility Robotics introduced its autonomous humanoid robot, Digit 5, designed for safe operation alongside human workers in industrial environments without protective barriers. According to safety senior director Kevin Reese, Digit 5 features collaborative safety mechanisms, stopping and crouching when humans are nearby. The robot stands 7 feet in reach, handles loads up to 50 pounds, operates 20 hours out of a 24-hour shift, and automates tasks like tote handling and machine tending. Agility disclosed a multi-year customer commitment valued at $300 million for Digit 5 and plans to go public through a $2. 5 billion merger with Churchill Capital Corp. Additionally, industry peers showcased new technology at the International Manufacturing Technology Show, including Universal Robots' Gen 7 platform featuring PolyScope X and AI-ready capabilities, and Fanuc America's portable CRX-3iA industrial arm and R-50iA compact controller.
+  中文：总结：Agility Robotics推出了其自主人形机器人Digit 5，旨在无需防护栏的情况下在工业环境中与人类工人安全共事。 据高级安全总监凯文·里斯介绍，Digit 5具备协作安全机制，当人类靠近时会停止并蹲下。 该机器人伸展高度达7英尺，可搬运高达50磅的负载，24小时班次中可运行20小时，并能自动化完成周转箱搬运和机器看管等任务。 Agility透露了一项价值3. 0亿美元的多年度Digit 5客户承诺，并计划通过与丘吉尔资本公司进行25亿美元的合并上市。 此外，行业同行在国际制造技术展览会上展示了新技术，包括Universal Robots采用PolyScope X和具备AI就绪功能的Gen 7平台，以及Fanuc America便携式CRX-3iA工业机械臂和R-50iA紧凑型控制器。
+  📰 [manufacturingdive.com](https://www.manufacturingdive.com/news/agility-debuts-safe-humanoid-digit-5-fanuc-universal-robot/830880/)
+
+- **[2026.09.21] TechRadar — Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' — an audacious vision to replace manual labor with humanoid AI**
+  English: During the Dreamforce event, Figure AI founder and CEO Brett Adcock spoke with Salesforce CEO Marc Benioff, stating an ambitious vision for humanoid AI by describing the creation of mass-produced androids as building 'a new species' to replace manual labor. Figure AI has gained attention through promotional videos demonstrating prototype humanoids performing household chores and showcasing Figure 03 sorting over 100,000 packages autonomously during a live stream. While real-world reliability in everyday settings remains to be proven, manufacturers across the industry are signaling plans to initiate mass production of humanoid robots through 2026 and 2027, focusing initially on industrial applications while retaining long-term ambitions for domestic use cases.
+  中文：总结：在Dreamforce活动期间，Figure AI创始人兼首席执行官布雷特·阿德考克与Salesforce首席执行官马克·贝尼奥夫进行对话，对人形AI提出了宏伟愿景，将大规模量产机器人的创造描述为打造旨在取代体力劳动的“新物种”。 Figure AI通过展示原型人形机器人做家务的宣传视频以及在直播中展示Figure 03自主分拣超过100,000个包裹而受到关注。 尽管在日常真实环境中的可靠性仍有待证明，但整个行业的制造商纷纷表示计划在2026年和2027年启动人形机器人的大规模生产，初期聚焦于工业应用，同时对家庭使用场景保留长期雄心。
+  📰 [TechRadar](https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai)
+
+
+---
+※AI Robot News Digest | 2026.09.22 | full-text items: 20
