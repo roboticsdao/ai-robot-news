@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.23（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.23] TechTarget — Nvidia-backed Skild AI teaches robots new tasks from a single video**
+  English: General-purpose physical AI startup Skild AI is using Nvidia technology to develop a robot foundation model called S1, which can learn new tasks from a single video demonstration. Built on Nvidia AI infrastructure including Cosmos, Isaac Lab, Isaac Sim, and Omniverse, the S1 model can adjust to moving objects, recover from errors, and execute unprogrammed skill sequences. The technology is currently deployed at an Nvidia factory in Houston, where Skild, Nvidia, and Foxconn use dual-arm robots to assemble Nvidia Blackwell GPU systems. Skild reported a $100 million annual revenue run rate and demonstrated the ability to transition a potted-plant demo into autonomous execution in just 11 minutes. Nvidia's Amit Goel noted that while data and evaluation remain primary bottlenecks due to the high cost of real-world robot experience, simulation and synthetic data help accelerate development. Goel anticipates an industry shift toward shared foundation models capable of adapting to various robot bodies like arms, quadrupeds, and humanoids to reduce future deployment effort.
+  中文：总结：通用物理人工智能初创公司Skild AI正在利用英伟达技术开发名为S1的机器人基础模型，该模型能够从单个视频演示中学习新任务。 该模型基于英伟达的Cosmos、Isaac Lab、Isaac Sim和Omniverse等AI基础设施构建，能够适应物体移动、从错误中恢复并执行未明确编程的技能序列。 目前，该技术已部署在休斯敦的一家英伟达工厂中，Skild、英伟达和富士康在那里使用双臂机器人组装英伟达Blackwell GPU系统。 Skild的年化收入运行率已达到$100 million，并展示了在仅需11分钟内将盆栽演示转化为自主执行的能力。 英伟达的Amit Goel指出，由于真实机器人经验成本高昂，数据和评估仍然是主要瓶颈，而模拟和合成数据有助于加速开发。 Goel预计行业将向能够适应各种机器人形态的共享基础模型转变，从而减少未来的开发工作量。
+  📰 [TechTarget](https://www.techtarget.com/ai/news/366650697/Nvidia-backed-Skild-AI-teaches-robots-new-tasks-from-a-single-video)
+
+- **[2026.09.23] finance.biggo.com — China Freezes Humanoid Robot IPOs After Unitree's 55% Plunge, Raising Doubts for Tesla Optimus**
+  English: Chinese securities regulators have effectively frozen initial public offerings for humanoid robot start-ups through informal window guidance following Unitree Robotics' dramatic market debut. Unitree listed in August at roughly a $9 billion valuation, surged to about $67 billion on its first trading day, and subsequently fell by about 55%. Regulators have halted listings from at least six companies, including Deep Robotics, X Square Robot, and AGIBOT, and have questioned whether reported revenues reflect genuine commercial demand or are manufactured by local government-backed data-collection projects that fund 80% to 90% of initial investments. Unitree's revenue quadrupled to 1. 7 billion yuan, or approximately $253. 7 million, in 2025, yielding an IPO valuation of roughly 219 times earnings, whereas global industrial sales reached only about 7,000 humanoid units in 2025 compared to 542,000 conventional industrial robots in 2024. Meanwhile, Tesla is proceeding with manufacturing line conversions for its Optimus robot, having raised its 2026 capital expenditure guidance to $25 billion. CEO Elon Musk acknowledged that Optimus is Tesla's hardest product to scale, warning of a flat and long production ramp as they build a new supply chain from scratch, with production costs around $10,000 per unit at Giga Texas and potential retail prices between $20,000 and $30,000.
+  中文：总结：在中国人形机器人企业宇树科技股价经历大幅波动后，中国证券监管机构通过非正式的窗口指导，实际上冻结了人形机器人初创公司的首次公开募股审批。 宇树科技于8月上市，当时估值约为$9 billion，首个交易日飙升至约$67 billion，此后从高点回落了约55%。 监管部门已叫停了包括深动科技、跨维智能和智元机器人等至少半数公司的上市进程，并对所报告的收入是真实的商业需求还是由地方政府支持的数据收集项目（出资80%至90%的初始投资）支撑提出了质疑。 宇树科技2025年的营收翻了两番，达到1. 7 billion yuan（约合$253. 7 million），其IPO估值约为去年收益的219倍；相比之下，2024年全球传统工业机器人安装量为542,000台，而2025年全球人形机器人销量仅约7,000台。 与此同时，特斯拉正在推进其Optimus机器人的制造线改造，已将2026年资本支出指引上调至$25 billion。 CEO埃隆·马斯克承认Optimus是特斯拉有史以来最难规模化的产品，并警告从零开始构建新供应链的生产爬坡期将非常平缓漫长，其得克萨斯超级工厂的单台生产成本约为$10,000，潜在零售价在$20,000至$30,000之间。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/ef4d7e5b-981a-45ec-a0e6-5c23a9e95617)
+
+- **[2026.09.23] Manufacturing Dive — Boston Dynamics begins robotics testing at Hyundai, outlines expansion**
+  English: Boston Dynamics officially opened its Robotics Metaplant Application Center at Hyundai’s electric vehicle production site outside of Savannah, Georgia, following the transition from pilot operations in June to full operations. Boston Dynamics, a wholly-owned subsidiary of Hyundai since July, is training Atlas humanoids to handle repetitive parts sequencing, heavy lifting, and component assembly by 2030, with plans to explore other industry sectors next year. The center will expand into a new building at the Hyundai Motor Group Metaplant America to reach ten times its current size. Hyundai plans to deploy 25,000 Atlas units globally across plants including Kia factories and establish a U. S. facility capable of producing 30,000 robots per year. Additionally, the Toyota Group aims to deploy approximately 400,000 robots, including 150,000 units across Toyota Motor Corp and the Toyota Group and 250,000 units at suppliers starting in 2028, with automation efforts potentially costing up to $6. 4 billion per year.
+  中文：总结：波士顿动力公司在位于佐治亚州萨凡纳郊外的现代汽车电动汽车生产基地正式开设了机器人元工厂应用中心，此前该中心已于6月从试点运营过渡到全面运营。 自7月起成为现代汽车全资子公司的波士顿动力公司，正致力于训练Atlas人形机器人，以在未来几年内接管重复的零件排序和重体力劳动任务，并在2030年前实现零部件组装，同时计划明年探索Atlas在其他行业的使用场景。 该中心将迁入现代汽车集团美国元工厂的新建筑中，面积扩大到当前的十倍。 现代汽车计划在未来几年内在包括起亚工厂在内的全球工厂部署25,000台Atlas机器人，并建立一座年产30,000台机器人的美国工厂。 此外，丰田集团计划从2028年开始部署约40万台机器人，其中包括在丰田汽车公司及丰田集团部署15万台、在供应商处部署25万台，其工厂自动化努力每年可能花费高达$6. 4 billion。
+  📰 [Manufacturing Dive](https://www.manufacturingdive.com/news/boston-dynamics-begins-robotics-testing-hyundai-atlas-humanoid/831000/)
+
+- **[2026.09.22] Quantum Zeitgeist — NVIDIA Pushes Safety Checks Across All Layers Of Physical AI**
+  English: Nvidia has introduced Halos, a full-stack safety system designed to engineer safety across design, validation, and deployment for physical AI systems, responding to projected deployments of 49 million autonomous vehicles and 60 million industrial robots by 2035. The Halos AI Systems Inspection Lab transforms safety, cybersecurity, and AI safety requirements into repeatable inspections, achieving ISO/IEC 17020 inspection body accreditation through the American National Standards Board. Nvidia's framework integrates hardware, software, AI behavior, operational environments, and the deployment lifecycle, supported by independent assessments from TÜV Rheinland for systems like NVIDIA DRIVE AV, IGX Thor, Halos OS, and the Holoscan Sensor Bridge. To handle unpredictable real-world settings where static barriers are insufficient, Nvidia's platform incorporates contextual awareness, AI-specific risk assessments aligned with emerging standards like ISO/IEC TS 22440, and validation combining real-world testing with simulation and synthetic data generation.
+  中文：总结：针对预计到2035年将有4900万辆自动驾驶汽车和6000万台工业机器人上路的应用需求，英伟达推出了Halos全栈安全系统，旨在为物理AI系统的设计、验证和部署全过程提供安全工程保障。 Halos AI系统检查实验室将安全性、网络安全和AI安全要求转化为可重复的检查，并通过美国国家标准局获得了ISO/IEC 17020检查机构认证。 英伟达的框架整合了硬件、软件、AI行为、运行环境以及部署生命周期，并获得了TÜV Rheinland对NVIDIA DRIVE AV、IGX Thor、Halos OS和Holoscan Sensor Bridge等系统的独立评估支持。 为了应对静态屏障已显不足的不可预测现实环境，英伟达的平台结合了上下文感知、符合ISO/IEC TS 22440等新兴标准的AI特定风险评估，以及将真实世界测试与模拟和合成数据生成相结合的验证方法。
+  📰 [Quantum Zeitgeist](https://quantumzeitgeist.com/nvidia-pushes-safety-checks-across/)
+
+- **[2026.09.22] Tomorrow's World Today — Agility Unveils 5th Generation Warehouse Humanoid Robot**
+  English: Agility Robotics unveiled Digit 5, its fifth-generation warehouse humanoid robot designed to work safely alongside humans in open factory and warehouse environments without protective barriers. According to CEO Peggy Johnson, Digit 5 incorporates continuous worker-tracking sensors and AI algorithms that allow it to automatically avoid, stop, or sit when employees approach, while using visual and audio cues to indicate its next actions. Developed in partnership with Nvidia using the IGX Thor platform and the Halos safety framework, Digit 5 builds on more than 65,000 operational hours logged by its predecessor, Digit 4, at sites including Amazon, Toyota, and GXO. Standing 5 feet 11 inches tall and weighing 284 pounds with a 7. 2-foot reach, Digit 5 features a leg design capable of repeatedly lifting 50-pound loads, a battery that charges in 9 minutes for 90 minutes of operation, and swappable arm tools. The robot enters full-scale deployment backed by over $300 million in customer orders.
+  中文：总结：Agility Robotics发布了其第五代仓库人形机器人Digit 5，该机器人旨在无需保护栏的情况下，在开放的工厂和仓库环境中与人类安全并肩工作。 据CEO Peggy Johnson介绍，Digit 5集成了持续追踪工人的传感器和AI算法，使它在员工靠近时能够自动避让、停止或坐下，同时利用视觉和音频提示标明其下一步动作。 Digit 5与英伟达合作开发，采用了NVIDIA IGX Thor平台和Halos安全框架，并在其前代产品Digit 4在亚马逊、丰田和GXO等地累积的超过65,000小时实际运行时间的基础上进行了升级。 Digit 5身高5英尺11英寸，重284磅，臂展可达7. 2英尺，其腿部设计能够重复搬运50磅重的物品，其电池可在9分钟内充满并支持90分钟的运行，手臂工具也可进行更换。 目前，该机器人已凭借超过$300 million的客户订单进入全面部署阶段。
+  📰 [Tomorrow's World Today](https://www.tomorrowsworldtoday.com/robotics/agility-unveils-5th-generation-warehouse-humanoid-robot/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.23] 新华网客户端 — 中国经济面面观丨人形机器人叩响消费市场，离走进家庭还有多远？**
+  中文：总结：一系列售价进入一两万元区间、面向个人和家庭场景的人形机器人近日在上海亮相，标志着机器人正从实验室和工业场景走向个人消费市场。 在新华社记者孙青主持的《中国经济面面观》圆桌讨论中，上纬新材首席执行官田华、影视飓风创始人潘天鸿和加州大学伯克利分校研究科学家艾伦·杨共同探讨了机器人进入家庭的现实路径。 讨论指出，家庭机器人必须通过协助陪伴儿童、学习和记录生活从“有趣”走向“有用”，并强调安全是重中之重，需防范机械、电气以及数据隐私风险。 专家还设想机器人可以充当家庭智能设备的协调者，利用其移动能力和高度来连接现有家电，并构建一个由开发者和用户共同驱动的开放应用生态系统。
+  📰 [新华网客户端](https://app.xinhuanet.com/news/article.html?articleId=20260922d4911012db1c485aae1ae05571ecaa39)
+
+- **[2026.09.23] 中金在线 — 优必选发布《人形机器人科技伦理治理白皮书》_车市动态**
+  中文：总结：优必选近日正式发布了《人形机器人科技伦理治理白皮书》，系统性地提出了覆盖工业、商用及家庭陪伴等领域中伦理风险识别、评估、控制、测试与审查的全流程治理框架。 该白皮书确立了三项人形机器人伦理专项保护目标：行动可控、拟人适当、交互有度，并构建了“七步风险管理框架”。 此外，白皮书将人形机器人伦理影响划分为物理行动安全、认知与自主、情感与关系等八个影响域，并提出了消除、限制、分离等八项风险控制策略。 该文件强调贯穿产品全生命周期的动态治理，涵盖从立项定义、设计开发到部署运营、产品迭代和停服退役等九大核心环节。
+  📰 [中金在线](http://auto.cnfol.com/cheshidongtai/20260923/32378404.shtml)
+
+- **[2026.09.23] jwview.com — 中国机器人产业为何走得快？中国质检院专家：产业发展，标准先行**
+  中文：总结：《2026年人形机器人产业发展报告》数据显示，2026年上半年中国人形机器人出货量超过4万台，占全球总量的97%。 中国质检院具身智能机器人检验检测技术研究中心负责人、正高级工程师刘泰在接受采访时表示，这种高速发展很大程度上得益于“产业发展，标准先行”的理念。 在深耕产业发展前先制定标准，有助于避免重复造轮子，使研发人员能够专注于突破核心问题并高效推进研发工作。
+  📰 [jwview.com](https://www.jwview.com/jingwei/html/09-23/690077.shtml)
+
+- **[2026.09.23] 手机新浪网 — 人形机器人赛道大乱斗：宇树盈利、优必选冲量、小鹏押注车规量产**
+  中文：总结：9月第二周，人形机器人赛道迎来多项重大进展：小鹏于9月8日发布搭载自动化产线的IRON机器人，优必选于9月12日投产年产超万台的柳州超级工厂，宇树于9月14日发布定价9. 5万元的G1+。 财报显示这三家企业呈现出不同的商业模式与市场定位。 宇树机器人主业实现盈利，上半年营收11. 52亿元（同比增长48. 54%），归母净利润暴涨955. 59%至2. 74亿元，核心零部件自产率超90%，出货近7000台，不过其股价已从初期高点回落。 优必选上半年营收12. 69亿元，但仍净亏损3. 39亿元，其总销量16123台中全尺寸人形机器人仅占921台。 与此同时，小鹏汽车凭借汽车制造体系切入市场，IRON机器人的核心工序自动化率超80%，其机器人业务近期完成超9亿美元融资，估值达63亿美元，计划未来启动规模量产。
+  📰 [手机新浪网](https://k.sina.com.cn/article_7879924057_1d5ae195902001mo90.html)
+
+- **[2026.09.23] 手机新浪网 — 港股“人形机器人第一股”，又一基地开工！**
+  中文：总结：9月22日，优必选京津冀具身智能机器人智造服务基地项目在天津市静海区正式启动开工仪式，总投资达5. 5亿元。 该项目将建设数据采集中心、全尺寸人形机器人总装产线、整备与测试中心以及智能仓储中心，达产后预计每年可产出600万条标准训练数据，未来年产能有望突破1000台，旨在打造全链条产业生态。 活动期间，优必选发布了“三大工厂”体系及优生态具身智能6S服务平台。 此前，优必选柳州超级智慧工厂已于9月12日投产，规划年产能超万台。 业绩方面，优必选2026年上半年实现营业收入12. 7亿元，同比增长104. 2%，归母亏损收窄至3. 4亿元，人形机器人总销量突破16123台，其中全尺寸具身智能人形机器人产品及解决方案收入暴涨1445. 0%。
+  📰 [手机新浪网](https://k.sina.com.cn/article_5953189932_162d6782c06704z13m.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.23] tv-tokyo.co.jp — 日経NEXT【最後は日本が勝つ！最新ヒト型ロボットをスタジオ生披露！！/AI脅威論も】**
+  日本語：BS TV Tokyo broadcast the program 'Nikkei NEXT,' focusing on physical artificial intelligence used to operate machinery and robots autonomously. Amid large-scale investments by the US and China to capture the market, the program featured startup executives discussing physical AI capabilities in the studio, including live demonstrations of robots. Additionally, the broadcast examined concerns raised by AI development leaders regarding the hypothetical scenario of AI leading to the extinction of humanity, with commentary from maincaster Asako Sakamoto, editor Takehiko Koyanagi, and guest experts including Shota Imai and Taisuke Ono.
+  中文：总结：BSテレ東播出了节目《日経NEXT》，聚焦于用于自主操作机械和机器人的物理人工智能（AI）。 在美中两国为争夺市场而进行大规模投资的背景下，节目邀请了创业公司高管在演播室演示当前物理AI的实力，并进行了现场机器人演示。 此外，节目还检视了AI开发领袖所提出的关于“AI毁灭人类”的威胁论，由主持续坂本麻子、编辑小柳建彦以及特邀嘉宾今井翔太和小野泰助等人共同参与评论。
+  📰 [tv-tokyo.co.jp](https://www.tv-tokyo.co.jp/broad_bstvtokyo4k/program/detail/202609/5175_202609222100.html)
+
+- **[2026.09.22] news.yahoo.co.jp — トヨタ製フィジカルAIロボットの強みは、トヨタ生産方式、AIモデル「LBM」、ロボットにも拡張した「拡張Arene（アリーン）」と中嶋裕樹副社長（Car Watch）**
+  日本語：Toyota Motor Corporation Executive Vice President and CTO Hiroki Nakajima detailed six key strengths of Toyota's physical AI robots during a technical briefing for investors in Europe. The core strengths comprise the Toyota Production Model, which optimizes processes and eliminates waste; the Foundation Model, utilizing Large Behavior Models (LBM) developed by Toyota Research Institute to learn tasks from demonstrations; reliable Toyota Hardware; the Factory Control Platform linking orders, production, and supply chains; Arene, a software platform expanded from automotive OS to robotic applications; and Genba. Nakajima announced that Toyota will invest 1 trillion yen annually starting in 2028 to update 60 existing factories and introduce physical AI robots across 400,000 total robots utilized by Toyota, group companies, and suppliers.
+  中文：总结：丰田汽车公司代表取締役副社長兼CTO中嶋裕树在欧洲举行的投资者技术说明会上，详细介绍了丰田物理AI机器人的六大核心优势。 这六大优势包括：优化流程并消除浪费的“丰田生产方式”；采用丰田研究院（TRI）开发的、通过演示学习任务的大规模行动模型（LBM）“ファウンデーションモデル（基础模型）”；高可靠性的“硬件”；连接订单、生产和供应链的“工厂控制平台”；从车载OS扩展至机器人应用平台的“Arene（阿リーン）”；以及“Genba（现场）”。 中嶋副总裁宣布，丰田将从2028年开始每年投资1 trillion yen，用于更新60家现有工厂并在丰田、集团公司及供应商所运用的总计40万台机器人中引入物理AI机器人。
+  📰 [news.yahoo.co.jp](https://news.yahoo.co.jp/articles/0c06b127646cb88ec0081bb3d94aac922b6a23a6)
+
+- **[2026.09.22] news.yahoo.co.jp — トヨタ、毎年1兆円を投資し工場とロボットを更新 40万台をフィジカルAIであるLarge Behavior Models搭載ロボなどに**
+  日本語：Toyota Motor Corporation announced at an investor event in Europe that it will invest 1 trillion yen annually starting in 2028 to update its 60 global factories and upgrade 400,000 robots operated by Toyota, its group companies, and suppliers. Executive Vice President and CTO Hiroki Nakajima explained that these robots will employ Large Behavior Models (LBM)—a generative AI developed by the Toyota Research Institute—to enable physical AI systems to learn actions end-to-end and realize Factory Automation 3. 0. During the demonstration, an embodied learning robot named ELEY showcased its capability to learn and autonomously execute shirt-folding operations based on human instruction.
+  中文：总结：丰田汽车公司在欧洲的投资者活动上宣布，从2028年起每年将投资1 trillion yen，用于更新其全球60家工厂以及升级由丰田、集团公司及供应商所运用的40万台机器人。 副社長兼CTO中嶋裕树解释称，这些机器人将采用丰田研究院（TRI）开发的生成式AI——大规模行动模型（LBM），使物理AI系统能够端到端地学习动作并实现工厂自动化3. 0。 在演示中，名为ELEY的具身学习机器人展示了根据人类教导学习并自主执行折T恤动作的能力。
+  📰 [news.yahoo.co.jp](https://news.yahoo.co.jp/articles/8e732657410ec83dc46e9090c43a128ebcf85d25)
+
+- **[2026.09.22] car.watch.impress.co.jp — トヨタ、フィジカルAIロボット導入に向け新組織「トヨタ ロボティクス」立ち上げ 志賀武文 モノづくり技術本部長がリーダーに**
+  日本語：Toyota Motor Corporation announced the creation of a new organization named 'Toyota Robotics' to spearhead the introduction of physical AI robots across its manufacturing ecosystem. The announcement was made by Executive Vice President and CTO Hiroki Nakajima during an investor briefing in Europe, where he reaffirmed Toyota's plan to invest 1 trillion yen annually starting in 2028 to refresh 60 existing factories and integrate AI-equipped robots utilizing Large Behavior Models (LBM) developed by the Toyota Research Institute. Takefumi Shiga, Chief Production Officer and head of the newly established Monozukuri Technology Headquarters, has been appointed to lead Toyota Robotics, overseeing the deployment of these AI robots across 400,000 units operated by Toyota, group companies, and suppliers.
+  中文：总结：丰田汽车公司宣布成立名为“トヨタ ロボティクス（丰田机器人）”的新组织，以统筹在其制造生态系统中引入物理AI机器人的工作。 这一消息是由副社長兼CTO中嶋裕树在欧洲的投资者说明会上宣布的，他重申了丰田从2028年起每年投资1 trillion yen刷新60家现有工厂并整合采用丰田研究院（TRI）开发的大规模行动模型（LBM）的AI机器人的计划。 身兼CPO（ものづくり最高責任者）及新成立的“モノづくり技术本部”本部長的执行役员志賀武文已被任命为丰田机器人的领导人，负责监督这些AI机器人在丰田、集团公司及供应商所运用的40万台机器人中的部署。
+  📰 [car.watch.impress.co.jp](https://car.watch.impress.co.jp/docs/news/2142609.html)
+
+- **[2026.09.22] 朝日新聞 — RobotBank、追従型搬送ロボット「STARWALK」を国内市場向けに全面アップグレード**
+  日本語：RobotBank has comprehensively upgraded its following transport robot, 'STARWALK,' for the Japanese market by introducing a Japanese-made battery as standard equipment to enhance safety, quality, durability, and long-term operational stability. Designed to alleviate severe labor shortages and physical burdens across industries such as manufacturing, logistics, construction, healthcare, and hospitality, STARWALK allows staff to walk naturally while the robot automatically follows and carries heavy loads behind them. By standardizing Japanese batteries, the upgraded robot achieves improved safety, stable quality, extended lifespan, and better compatibility with domestic maintenance systems. RobotBank aims to deliver integrated robot solutions tailored to Japanese quality standards to address pressing social challenges and drive productivity in the Physical AI era.
+  中文：总结：RobotBank株式会社针对日本市场对其追従型搬送ロボット（追随式搬运机器人）“STARWALK”进行了全面升级，将日本製电池作为标准配置，以进一步强化安全性、品质、耐久性以及长期运行的稳定性。 为了缓解制造、物流、建筑、医疗护理及酒店等各行业严峻的人手不足和身体负担问题，STARWALK允许员工正常行走，而机器人则在其身后自动跟随并运载重物。 通过采用日本製电池，升级后的机器人实现了更高的安全性、稳定的品质、更长的使用寿命以及与国内维护体制更好的契合度。 RobotBank旨在提供符合日本品质标准的一体化机器人解决方案，以在Physical AI时代解决社会课题并提升生产力。
+  📰 [朝日新聞](https://www.asahi.com/and/pressrelease/16775060)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.22] Vietnam.vn — 世界のヒューマノイドロボット出荷台数の97%以上を中国が占めている。**
+  English: According to data from research firm Smart Analytics Global, global shipments of humanoid robots reached approximately 19,100 units in the first half of 2026, more than triple the 5,100 units recorded in the same period last year, with China accounting for over 97% of the total. Total shipments are projected to reach around 60,000 units in 2026 and potentially rise to 500,000 units by 2030. Among major manufacturers, Shanghai-based AgiBot ranked first globally with about 8,400 units shipped, capturing 44% of the market share, followed by Hangzhou-based Unitree Robotics with roughly 5,900 units, far surpassing U. S. competitors such as Tesla, Figure AI, and Agility Robotics. Industrial and commercial applications accounted for over 70% of shipments compared to about 50% previously, though experts note the industry remains in its early development stages. Additionally, in late July 2026, Washington banned the import of specific Chinese-manufactured humanoid and quadruped robots and components citing national security and cybersecurity concerns.
+  中文：总结：根据研究公司Smart Analytics Global的数据，2026年上半年全球人型机器人出货量约为19,100台，是去年同期5,100台的三倍以上，其中中国占全球总出货量的97%以上。 预计2026年全球总出货量将达到约6万台，到2030年可能增加到50万台。 在主要制造商中，总部位于上海的智元机器人（AgiBot）以约8,400台的出货量跃居全球第一，占据44%的世界市场份额；杭州的宇树科技（Unitree Robotics）以约5,900台位居第二，远远超过特斯拉、Figure AI和Agility Robotics等美国竞争对手。 工业和商业领域占出货量的70%以上（高于一年前的约50%），不过专家指出该行业仍处于发展初期。 此外，2026年7月下旬，华盛顿以国家安全和网络安全担忧为由，禁止进口中国制造的特定人型和四足机器人及相关零部件。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/trung-quoc-chiem-hon-97-luong-robot-hinh-nguoi-xuat-xuong-toan-cau)
+
+- **[2026.09.23] NBC News — Influencer fights humanoid robot dubbed 'Terminator'**
+  English: An online video segment titled 'Influencer fights humanoid robot dubbed 'Terminator'' was featured alongside various news headlines and updates. The broadcasted topics included the discovery of kratom where two Ole Miss students were found dead, the theft of Simone Biles' Porsche, reported database hacks at the FBI, a U. S. citizen targeted by ICE, Jeremy Renner describing a near-death experience, Melania Trump on children using AI wisely, and Donald Trump signing a security deal regarding Greenland.
+  中文：总结：节目播出了名为“网红与被称为‘终结者’的人形机器人搏斗”的视频片段，并穿插了多条新闻头条与动态。 报道的主题包括在两名密西西比大学学生被发现死亡的地点发现了卡痛叶、西蒙·拜尔斯的保时捷被盗、FBI数据库遭黑客入侵的报道、一名美国公民据称成为ICE目标、杰瑞米·雷纳描述濒死体验、梅拉尼娅·特朗普谈论儿童明智使用AI，以及唐纳德·特朗普签署关于格陵兰岛安全协议等内容。
+  📰 [NBC News](https://www.nbcnews.com/video/shorts/influencer-fights-humanoid-robot-dubbed-terminator-270330437904)
+
+- **[2026.09.22] TechEBlog - — UBTECH’s Liuzhou Super Smart Factory Builds a Humanoid Robot Every Ten Minutes**
+  English: UBTECH Robotics commissioned its Industrial Humanoid Robot Super Smart Factory in Liuzhou, Guangxi Zhuang Autonomous Region, on September 12, 2026, featuring a mixed assembly layout designed to build a bipedal Walker S unit every ten minutes with a planned yearly output exceeding 10,000 machines. Spanning 14,000 square meters with a height of 13. 8 meters, the facility integrates rotating workbenches, collaborative arms, power assist manipulators, and self-docking carts to construct Walker S and wheeled Cruzr models without reconfiguring the line. Automated logistics trolleys and vehicles handle internal transport while automated torque stations secure over 2,000 screws per Walker S chassis, linking serial numbers to parts via RFID tags. Completed units undergo a four-hour whole-unit test and an automotive-grade lighting tunnel inspection. Built with Siemens digital twin planning, the factory utilizes more than 90% domestic components, supported by a dense supplier network.
+  中文：总结：优必选科技于2026年9月12日在广西壮族自治区柳州市正式投产其工业人形机器人超级智慧工厂，该厂采用混合装配布局，旨在每十分钟组装一台双足Walker S机器人，规划年产能超过10,000台。 该厂房占地14,000平方米，高13. 8米，集成了旋转工作台、协作机械臂、助力机械手和自对接小车，无需重新配置产线即可共线制造Walker S和轮式Cruzr型号。 自动化物流小车负责内部物料运输，自动化拧紧工位为每个Walker S底盘精细安装2,000多颗螺丝，并通过RFID标签将序列号与零件批次关联。 完工后的机器人在小型高架仓库中接受4小时以上的整机测试及汽车级灯光隧道检查。 在西门子数字孪生规划的支持下，该工厂利用密集的本土供应链体系，实现了超过90%的Walker S2零部件国内采购。
+  📰 [TechEBlog -](https://www.techeblog.com/ubtech-liuzhou-super-smart-factory-humanoid-robots/)
+
+- **[2026.09.21] techradar.com — Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' — an audacious vision to replace manual labor with humanoid AI**
+  English: During the Dreamforce event, Figure AI founder and CEO Brett Adcock spoke with Salesforce CEO Marc Benioff regarding the development of mass-produced humanoid robots, stating the ambitious goal of replacing manual labor and creating a new order of intelligence, or 'a new species. ' Figure AI has showcased its humanoid robots performing household tasks such as tidying bedrooms and stacking dishwashers, as well as a live stream where the Figure 03 robot sorted over 100,000 packages autonomously. While advanced humanoid robots still encounter failures, manufacturers are initiating mass production across 2026 and 2027, targeting initial deployments in industrial settings alongside long-term goals for domestic applications.
+  中文：总结：在Dreamforce活动期间，Figure AI创始人兼CEO Brett Adcock与Salesforce CEO Marc Benioff探讨了大规模量产人形机器人的发展，并提出了取代体力劳动、创造新秩序智能即“新生物”的宏伟愿景。 Figure AI此前展示了其人形机器人执行整理卧室和装洗碗机等家务的能力，其中Figure 03机器人在一次直播中自主分拣了超过100,000个包裹。 尽管先进的人形机器人仍会遇到失败，但制造商们正计划在2026年和2027年推进大规模量产，初期部署将面向工业环境，并长期致力于拓展至家庭应用场景。
+  📰 [techradar.com](https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai)
+
+- **[2026.09.23] Ynetnews — Watch: Humanoid robot kicks influencer across ring in viral fight video**
+  English: A viral social media video featured internet personality Frankie LaPenna squaring off against a 1. 83-meter (6-foot) humanoid robot built by REK, a company developing combat robots. In the 44-second clip, LaPenna wears heavy protective gear and attempts to punch the robot before being kicked multiple times in the chest and abdomen, with a final strike sending him flying across the boxing ring. While the video sparked discussion, questions arose regarding its authenticity given LaPenna's background in viral stunts and the suspicious nature of the impacts. The encounter highlights ongoing advancements in humanoid robots, which have progressed from basic walking to running, jumping, dancing, martial arts, and maintaining balance during dynamic movements. However, experts note a significant gap remains between controlled demonstrations and unpredictable real-world combat against trained human opponents.
+  中文：总结：一段在社交媒体上广为流传的视频显示，互联网名人Frankie LaPenna与一家名为REK的战斗机器人公司所开发的高约1. 83米（6英尺）的人形机器人进行了对决。 在44秒的片段中，LaPenna身穿重型防护装备试图出拳攻击机器人，随后被多次踢中胸部和腹部，最终一记重踢将其击飞过整个拳击台。 虽然这段视频引发了讨论，但鉴于LaPenna制作病毒式特技的背景以及受击时的可疑表现，其真实性受到了质疑。 这次对决突显了人形机器人在动态运动中从基础行走发展到跑步、跳跃、舞蹈、武术及保持平衡等方面的持续进步。 然而，专家指出，在精心编排的演示与面对训练有素的人类对手时不可预测的真实战斗之间，依然存在巨大差距。
+  📰 [Ynetnews](https://www.ynetnews.com/tech-and-digital/article/bjtogbeqmg)
+
+
+---
+※AI Robot News Digest | 2026.09.23 | full-text items: 20
