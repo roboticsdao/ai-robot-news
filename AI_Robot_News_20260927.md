@@ -13,111 +13,111 @@
 
 
 - **[2026.09.26] Fierce Sensors — Video: Physical AI, determinism and Nvidia’s AI domination**
-  English: At the Sensors Converge 2026 panel on May 6, moderated by Paul Pickering, experts discussed physical AI and sensor innovation. Chuck Gershman, co-founder and CEO of Owl Autonomous Imaging, stated that AI is probabilistic rather than deterministic and noted Nvidia's dominance in IoT, adding that physical AI needs significant development to become cost-effective and low-power. Fares Mubarak, CEO of Spark Microsystems, emphasized the infrastructure challenge of fast, reliable, and synchronized data delivery. Zhenyun Qian, co-founder and CTO of Zepsor Technologies, highlighted event-driven sensors for ultra-low power edge AI. Other panelists included Manny Singh, CEO of SenseTek Diagnostics, and Matteo Fusi from STMicroelectronics.
-  中文：总结：在2026年5月6日的Sensors Converge 2026大会专家小组讨论中， Owl Autonomous Imaging联合创始人兼CEO Chuck Gershman指出AI系统是概率性而非决定性的，并提到Nvidia在物联网领域的统治地位。 Spark Microsystems CEO Fares Mubarak强调了数据传输的同步与可靠性基础设施挑战。 Zepsor Technologies联合创始人兼CTO Zhenyun Qian提到了用于超低功耗边缘AI的事件驱动传感器。 其他小组成员还包括SenseTek Diagnostics CEO Manny Singh及意法半导体的Matteo Fusi。
+  English: At Sensors Converge 2026, industry experts discussed the rapid advancements and challenges of physical AI, highlighting Nvidia's dominant role in GPUs and software across the IoT and robotics space. Chuck Gershman, CEO of Owl Autonomous Imaging, questioned AI determinism, stating that modern AI systems are probabilistic and require thermal night vision and GPUs. Fares Mubarak of Spark Microsystems emphasized the need for fast, deterministic, and synchronized data infrastructure, while Zhenyun Qian of Zepsor Technologies discussed event-driven sensors for ultra-low power edge AI. The panel was moderated by Paul Pickering and included Manny Singh and Matteo Fusi.
+  中文：总结：在2026年传感器融合大会上，行业专家讨论了具身智能的快速发展与挑战，并指出英伟达GPU和软件在物联网及机器人领域的统治地位。 Owl Autonomous Imaging首席执行官Chuck Gershman质疑了人工智能的决定论，指出现代AI系统具有概率性而非决定论，需要热成像夜视和GPU支持。 Spark Microsystems首席执行官Fares Mubarak强调了实现快速、具决定性且同步的数据基础设施的需求，而Zepsor Technologies联合创始人兼CTO钱振云则探讨了用于超低功耗边缘AI的事件驱动传感器。 该小组讨论由Paul Pickering主持，其他参与者还包括Manny Singh和Matteo Fusi。
   📰 [Fierce Sensors](https://www.fiercesensors.com/ai/video-physical-ai-determinism-and-nvidias-ai-domination)
 
 - **[2026.09.26] Ars Technica — Tesla workers balk at training Optimus humanoid robots as replacements**
-  English: Tesla is facing production and development challenges as CEO Elon Musk bets the company's future on AI and robotics, describing the Optimus humanoid robot as potentially 'the biggest product ever. ' In May 2026, Tesla's Fremont factory stopped producing the Model S and Model X, reassigning workers and engineers to Optimus. However, developing the newer Optimus V3 has proved difficult, with production line equipment struggling to precisely align parts. While production has reached hundreds of robots per week, Tesla targets over 1,000 robots per week by the end of 2026. Additionally, human workers must manually assemble Optimus hands and forearms, which contain over 100 small components.
-  中文：总结：在CEO埃隆·马斯克将公司未来押注于AI与机器人、并将Optimus人形机器人描述为可能是‘史上最大产品’之际，特斯拉正面临生产与研发挑战。 截至2026年5月，特斯拉弗里蒙特工厂已停止生产Model S和Model X，并将工人和工程师转调至Optimus项目。 然而，新版Optimus V3在开发和制造上遇到困难，产线设备在精准对齐零件时出现问题。 尽管产量已达每周数百台，但特斯拉的目标是在2026年底前实现每周超过1,000台。 此外，Optimus的手部和前臂包含100多个小部件，仍需由人类工人手动组装。
+  English: Tesla is facing production and manufacturing challenges as it shifts its Fremont factory from electric cars to humanoid robots, stopping Model S and Model X production in May 2026 to focus on the Optimus robot. CEO Elon Musk described Optimus as a massive potential product but acknowledged the extreme difficulty of building autonomous general-purpose humanoids. The newest Optimus V3 version has encountered assembly and component alignment difficulties on production lines targeting over 1,000 units per week by the end of 2026. Particularly, constructing robotic hands requires manual assembly by human workers due to complex mechanisms involving over 100 small components.
+  中文：总结：特斯拉正面临生产与制造方面的挑战，其位于加州弗里蒙特的工厂已于2026年5月停产Model S轿车和Model X SUV，将生产线工人与工程师转而投入Optimus人形机器人的研发，以实现向AI与机器人领域的转型。 特斯拉CEO埃隆·马斯克将Optimus描述为潜在的“最大产品”，但也承认打造能够处理多任务的自主人形机器人极具难度。 最新的Optimus V3版本在生产线设备精准对齐及运行速度上面临限制，特斯拉计划在2026年底前将产量提升至每周1000台以上。 特别是机器人灵巧手的制造，由于包含100多个小型零部件，目前仍需要人类工人进行手动组装。
   📰 [Ars Technica](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/)
 
-- **[2026.09.26] The Verge — Tesla’s Optimus robot is going through growing pains**
-  English: Tesla is encountering manufacturing difficulties in producing its Optimus robot, aiming for a goal of 20,000 units per week. Last month, production reached 'several hundred robots a week' after repurposing Model S and Model X lines earlier in the year. Smaller, more precise parts have created snags, and V3 robot hands and forearms still require manual assembly by workers for over 100 screws and components. The robots lack an in-development 'sensing glove' and are currently used internally for specific tasks without remote teleoperation. Tesla reportedly plans to lease them initially to collect training data. Meanwhile, Chinese regulators have begun holding back IPO listings for humanoid robotics companies.
-  中文：总结：特斯拉在生产Optimus机器人时遭遇制造瓶颈，其目标是达到每周产2万台。 上个月在今年早些时候改造Model S和Model X产线后，产量达到了‘每周数百台’。 由于零件更小且需要更高的精准度，制造过程中出现了问题，目前V3机器人的手部和前臂仍需工人手动组装100多个螺丝及小部件。 这些机器人尚缺乏正在开发中的‘感应手套’，目前仅在内部特定区域执行特定任务，且无远程遥控操作。 特斯拉计划初期采用租赁方式收集训练数据。 与此同时，中国监管机构近期开始暂缓人形机器人公司的IPO上市。
-  📰 [The Verge](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
+- **[2026.09.26] theverge.com — Tesla’s Optimus robot is going through growing pains**
+  English: Tesla is encountering manufacturing difficulties while trying to reach its goal of producing 20,000 Optimus robots per week, following the repurposing of its Model S and Model X lines earlier in the year. Reports indicate Tesla produced several hundred robots a week last month, but faced issues such as precise parts alignment due to the tiny, intricate components required. Currently, the V3 Optimus robots still rely on manual human assembly for hands and forearms containing over 100 screws and small components. The robots feature more cameras and a lighter build, while awaiting a developing sensing glove to improve durability. Tesla intends to initially lease the robots and use collected data for training, though other developers are shifting to less lifelike designs amid Chinese regulatory hurdles for humanoid IPOs.
+  中文：总结：特斯拉在尝试实现每周生产20000台Optimus机器人的目标时遇到了制造难题，此前该公司在今年早些时候已将Model S和Model X生产线改造成Optimus产线。 据报道，特斯拉上个月每周生产“数百台机器人”，但由于零部件更小且需要更高的精密配合，遇到了零件对齐等制造上的阻碍。 目前，正在生产的V3版Optimus机器人的手部和前臂仍包含100多个螺丝及小零件，需要工人进行手动组装。 新款机器人更加轻便并配备了更多摄像头，但尚缺少正在研发中以提升耐用性的“感应手套”。 特斯拉计划初期以租赁方式推出机器人并收集训练数据，与此同时，其他开发者正转向不够拟真的设计，而中国监管机构近期也开始对人形机器人企业的IPO上市进行收紧。
+  📰 [theverge.com](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
 
 - **[2026.09.25] The Motley Fool — Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?**
-  English: Investors are weighing whether Tesla or Nvidia will yield a greater robotics payoff by 2030. Nvidia aims to supply foundational technology, open models, simulation frameworks, and chips across various industries, announcing at its 2026 GTC conference that partners like ABB, Agility, FANUC, Figure, Universal Robots, KUKA, and Medtronic are building physical AI on its tech. It introduced Cosmos world models, Isaac simulation frameworks, and compact Jetson Thor and T4000 modules. Meanwhile, Tesla pursues a general-purpose humanoid robot, Optimus, alongside self-driving, robotaxis, energy, and vehicle manufacturing, which introduces complexity and competing priorities that could influence the program's resources and timeline.
-  中文：总结：投资者正在权衡特斯拉与英伟达谁能在2030年前带来更大的机器人回报。 英伟达旨在为各行各业提供基础技术、开放模型、仿真框架和芯片，并在其2026年GTC大会上宣布ABB、Agility、发那科、Figure、优傲机器人、库卡和美敦力等合作伙伴正基于其技术构建物理AI。 英伟达推出了Cosmos世界模型、Isaac仿真框架以及小型的Jetson Thor和T4000模块。 与此同时，特斯拉在推进通用人形机器人Optimus的同时，还要兼顾自动驾驶、萝卜快跑、能源及汽车制造，这带来了复杂性与相互竞争的优先级，可能会影响该机器人项目的资源与时间表。
+  English: Evaluating physical AI investments toward 2030, Nvidia offers a broader and simpler robotics opportunity by supplying chips, open models, simulation frameworks, and standard computing modules like Jetson Thor and Jetson T4000 to partners across various industries, as announced at GTC 2026. Conversely, Tesla pursues a bold vision with its general-purpose humanoid Optimus robot designed for factory and warehouse tasks, alongside its automotive, robotaxi, and energy businesses. While Nvidia targets supplying the foundational infrastructure for diverse robotics applications, Tesla's ambitious program must balance multiple corporate priorities, self-driving regulations, and capital allocation.
+  中文：总结：在评估截至2030年的具身智能投资时，英伟达通过向各行业合作伙伴提供芯片、开放模型、仿真框架以及如Jetson Thor和Jetson T4000等标准计算模块，提供了一个更广泛且更简洁的机器人投资机会。 相比之下，特斯拉则通过其旨在执行工厂和仓库任务的通用人形机器人Optimus追求宏大愿景，同时还要兼顾其汽车、自动驾驶出租车和能源业务。 英伟达的目标是为多元化的机器人应用提供底层基础设施，而特斯拉雄心勃勃的项目则必须在多重企业优先事项、自动驾驶监管和资本分配之间进行平衡。
   📰 [The Motley Fool](https://www.fool.com/investing/2026/09/25/tesla-vs-nvidia-which-physical-ai-stock-has-the-bi/)
 
-- **[2026.09.25] finance.biggo.com — Rafael Levi: NVIDIA Discards 96% of Video in Robot Training — and That Waste Is the Real Bottleneck**
-  English: Rafael Levi, an eight-year veteran of Bright Data, argued on the AI Engineer podcast that the public web is the largest untapped robotics dataset, and discovery is the main bottleneck. He noted that NVIDIA discards about 96% of video data when training its Cosmos robot, leading to wasted compute and bandwidth. Conversely, Meta trained a model on roughly one million hours of real-world video and needed only 62 hours of real robotics data to control a physical robot. To bridge this gap, Bright Data proposes 'search first, collect second' by indexing public video by action using natural language descriptions, having scaled its index to 1. 1 billion videos.
-  中文：总结：Bright Data的8年老兵Rafael Levi在AI Engineer播客中指出，公开网络是最大的未开发机器人数据集，而发现机制才是真正的瓶颈。 他指出NVIDIA在训练Cosmos机器人时丢弃了约96%的视频数据，导致计算和带宽浪费。 相比之下，Meta利用约100万小时的真实世界视频训练模型，仅需62小时的真实机器人数据便能控制实体机器人。 为缩小这一差距，Bright Data提出‘先搜索、后收集’的方案，通过自然语言描述按动作索引公共视频，其索引规模已扩大至11亿个视频。
-  📰 [finance.biggo.com](https://finance.biggo.com/news/bb8f4f2fe9c2a137)
+- **[2026.09.25] A3 Association for Advancing Automation — Industry Insights: Boston Dynamics Spinout is Building Fluffy Amusement Park Robots**
+  English: Former Boston Dynamics commercial operations lead Marc Theermann launched Dynamic Creatures, an independent entity connected via a deal to buy, modify, and resell Boston Dynamics robots into entertainment and hospitality verticals. The venture stems from experiences fielding requests for robots in halftime shows and stage performances, as well as an internal project featuring a costumed Spot called Sparkles. Unlike simple costume drapes that interfere with sensor capabilities, Dynamic Creatures aims to build untethered robotic characters with moving facial features, puppeteer choreography, and child-safe operations, drawing inspiration from Disney Imagineering's theme park robots.
+  中文：总结：前波士顿动力公司商业运营负责人Marc Theermann创立了Dynamic Creatures，这是一家通过交易购买、改装并向娱乐和酒店垂直领域转售波士顿动力机器人的独立实体。 该创业项目的灵感来源于此前处理机器人参与中场秀和舞台表演请求的经历，以及一个名为Sparkles的穿戴服装Spot机器人的内部项目。 与会干扰传感器性能的简单服装覆盖不同，Dynamic Creatures旨在打造具有可动面部特征、专业木偶师编排动作以及儿童周边安全操作的无束缚机器人角色，其灵感借鉴自迪士尼幻想工程的主题公园机器人。
+  📰 [A3 Association for Advancing Automation](https://www.automate.org/robotics/industry-insights/dynamic-creatures-ceo-we-want-to-create-robots-that-you-can-hug)
 
 
 ## 🇨🇳 中国 / China
 
 
 - **[2026.09.27] 驱动之家 — 王兴兴回应造390万载人机甲：宇树不造别人也会造 大型机器人是行业必然趋势**
-  中文：总结：在杭州举行的第五届全球数字贸易博览会上，宇树科技展示了售价390万元起的GD01载人变形机甲。 在数字贸易与人工智能对话论坛上，宇树创始人王兴兴发表主旨演讲，阐释了研发GD01的战略考量，并表示大型机器人是行业不可阻挡的趋势。 他将GD01定义为‘机器人里的越野车’，其设计并非针对城市室内环境，而是面向户外复杂地形与强通过性，用于在野外环境中执行任务。 此前在7月，王兴兴曾携GD01登上《时代》杂志封面。
+  中文：总结：在杭州举行的第五届全球数字贸易博览会上，宇树科技展示了售价390万元起的GD01载人变形机甲。 宇树科技创始人王兴兴在数贸会数字贸易与人工智能对话论坛发表主旨演讲，阐述了研发该大型机器人的战略考量。 王兴兴表示，随着底层技术的成熟，大型机器人与小型机器人的研发并不冲突，大型机器人更是行业不可阻挡的趋势，即使宇树不做，未来几年也会有其他企业推出同类产品。 他指出，GD01被定义为机器人里的越野车，并非面向城市室内场景，而是专注于户外复杂地形及野外环境以完成特定任务。 此前在今年7月，王兴兴曾携GD01共同登上《时代》杂志封面。
   📰 [驱动之家](https://news.mydrivers.com/1/1154/1154092.htm)
 
 - **[2026.09.27] 观察者网 — 金明熙：中国机器人狂飙，韩国还能怎么争？**
-  中文：总结：韩国《电子时报》（ETNews）记者金明熙撰文审视了中国蓬勃发展的机器人产业，指出宇树科技、智元机器人和Galaxea AI等公司正通过IPO寻求资本。 金明熙认为，与中国竞争需要一个涵盖资本市场、政府支持、真实场景测试基础设施、国际贸易应对能力、专业人才以及上游零部件的强大产业生态系统。 尽管韩国在电机和减速器方面具有优势，但激光雷达和3D摄像头仍高度依赖海外供应。 文章强调，可持续的成功取决于协同的生态系统，而非仅靠单个企业的技术。
+  中文：总结：韩国媒体报道指出，中国机器人产业正加速资本化和IPO进程，并通过资本、政府投入、真实场景验证、核心零部件、人才和全球供应链构建相互咬合的系统优势。 相比之下，韩国企业在跨越长周期研发和量产投资时面临资金压力。 文章认为，韩国虽在电机和减速器等驱动系统具备基础，但在激光雷达和3D摄像头等传感器上仍依赖海外供应，且面临AI与海外业务专业人才短缺及国际贸易壁垒。 应对竞争不仅依赖单个企业的技术实力，更需要构建强大的机器人产业生态体系。
   📰 [观察者网](https://www.guancha.cn/jinmingxi/2026_09_27_901554.shtml)
 
 - **[2026.09.26] 新浪财经 — 百洋医药（301015）追加投资放射外科机器人 中国基地已量产出货**
-  中文：总结：百洋医药（301015）战略投资放射外科机器人企业Zap Surgical Systems，追加投资1100万美元，其相关的中国基地已实现量产出货。 该投资于9月23日经媒体报道。 分析人士指出，机器人属于长周期赛道，切勿将投资公告直接视作业绩兑现。
+  中文：总结：百洋医药（301015）宣布战略投资放射外科机器人企业Zap Surgical Systems，追加投资1100万美元，其相关中国基地已实现量产出货。 相关报道指出，机器人属于长周期赛道，投资公告不应直接等同于业绩兑现，具体成效需视后续实施进展与关联交易执行公告而定。
   📰 [新浪财经](https://finance.sina.cn/2026-09-25/detail-iniszvzt4284744.d.html?vt=4&wm=1029?q)
 
 - **[2026.09.26] 手机新浪网 — 宇树蒸发2475亿，人形机器人IPO“踩刹车”**
-  中文：总结：据报道，中国正对人形机器人企业的IPO踩刹车，重点审查高估值以及可能无法代表真实商业需求的政府支持收入。 路透社报道称，非正式窗口指导已暂时放缓或冻结部分上市进程，监管焦点集中在通过合资数据采集中心产生的收入。 与此同时，宇树科技的市值自2025年8月上市峰值以来大幅回落。 行业数据显示公开招标项目存在差异，同时其他企业如云深处等也面临不同的财务现实与市场环境。
+  中文：总结：中国监管部门近期通过非正式“窗口指导”对人形机器人企业的上市潮进行阶段性放缓，重点审视高企的估值以及依赖地方政府支持项目的收入能否代表真实商业需求。 数据显示中国已建设大量人形机器人数据采集和训练中心，部分企业通过关联交易制造收入引发争议。 与此同时，宇树科技等头部企业股价自上市高点大幅回撤，引发市场对板块泡沫与基本面匹配度的审视。 港股市场及相关18C上市制度也在酝酿调整，投资情绪正从普遍狂热转向选择性理性。
   📰 [手机新浪网](https://k.sina.com.cn/article_5953740931_162dee0830670403h4.html)
 
-- **[2026.09.24] 虎嗅网 — Counterpoint与IDC同日发布四足机器人市场报告 数据存在显著差异**
-  中文：总结：Counterpoint与IDC于9月21日同日发布全球四足机器人市场报告，在排名、出货量及市场规模上存在显著差异。 两份报告均将宇树科技列为第一，但后续名次各不相同：Counterpoint按出货量将智元酷拓排在第二，IDC则按硬件收入将云深处排在第二。 两家机构对2026年上半年总出货量的估计在3. 5万至4. 9万台之间，市场营收评估也各不相同。 这些差异源于统计口径的不同，包括是否包含软件和传感器以及如何定义消费级设备。
-  📰 [虎嗅网](https://www.huxiu.com/article/4893854.html)
+- **[2026.09.26] 风闻 — 帮忙装迫击炮弹！抢先中国，美国人形机器人已在乌克兰参加实战？**
+  中文：总结：美国初创企业基础未来工业公司的MK1人形机器人近期因宣传将其送往乌克兰参与实战而备受关注。 然而通过官方宣传视频及相关表现来看，该机器人在执行装填迫击炮弹等简单任务时仍需人工全程辅助，且存在行走不稳和手部追踪异常等问题。 该公司通过创始人背景、引入特朗普次子作为战略顾问以及与AMD合作等一系列资本与流量手段吸引投资。 相比之下，中国军队和企业选择推进实用性更强的机器狗等全地形地面平台，注重可靠性与成本控制，而非仅靠外观和炒作博取眼球。
+  📰 [风闻](https://user.guancha.cn/main/content?id=1744313&s=fwtjgzwz)
 
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.09.25] AIsmiley — ファナック、産業用ロボットのフィジカルAIシステム「AI溶接エージェント」開発。溶接条件とロボット動作を自動生成**
-  日本語：FANUC has developed the 'AI Welding Agent,' a physical AI system for industrial robots that automatically generates welding conditions and robot operations directly from blueprints, eliminating the need for manual setup and teaching. Developed in collaboration with Google using 'Gemini Enterprise,' the system uses the tablet camera on a CRX robot to read part designs securely without using user data for AI training. Scheduled for shipment starting at the end of December 2026, the subscription-based product aims to address global shortages of skilled welding operators and accelerate physical AI implementation.
-  中文：总结：发那科（FANUC）开发了用于工业机器人的物理AI系统‘AI溶接エージェント’（AI焊接代理），可从图纸中直接自动生成焊接条件和机器人动作，省去了设置和示教作业。 该系统与谷歌合作使用‘Gemini Enterprise’开发，利用CRX机器人的平板相机安全读取零件图纸，且不会将用户数据用于AI训练。 该产品计划于2026年12月底开始以订阅形式出货，旨在解决全球熟练焊接操作员短缺的问题并加速物理AI的落地。
-  📰 [AIsmiley](https://aismiley.co.jp/ai_news/fanuc-ai-welding-agent/)
+- **[2026.09.25] aismiley.co.jp — ファナック、産業用ロボットのフィジカルAIシステム「AI溶接エージェント」開発。溶接条件とロボット動作を自動生成**
+  日本語：ファナックは、図面を読み取って溶接条件やロボットの動作を自動生成し、設定・教示作業なしで実溶接を実現する産業用ロボット向けフィジカルAIシステム「AI溶接エージェント」を開発した。 世界的な溶接作業者の不足を補う新商品として、Googleとの協業による「Gemini Enterprise」を活用し、2026年12月末に出荷を開始する。 CRXのタブレットTP内蔵カメラで図面を読み取り、法人向けの高いセキュリティ機能を備え、サブスクリプション形式で提供される。
+  中文：总结：发那科开发了面向产业用机器人的具身AI系统“AI溶接エージェント”（AI焊接代理），可通过读取图纸自动生成焊接条件和机器人动作，实现无需设置与示教作业的实际焊接。 作为填补全球焊接作业人员短缺的新产品，该系统通过与谷歌合作并利用“Gemini Enterprise”开发，计划于2026年12月底开始出货。 它使用CRX平板TP内置相机读取图纸，具备面向法人的高度安全性，并将以订阅形式提供。
+  📰 [aismiley.co.jp](https://aismiley.co.jp/ai_news/fanuc-ai-welding-agent/)
 
-- **[2026.09.26] fnn.jp — 高市総理が「スタートアップ大賞」表彰式に出席 AIロボット開発のMujinに内閣総理大臣賞 成長分野の担い手に期待**
-  日本語：Prime Minister Sanae Takaichi attended the 'Startup Awards' ceremony, presenting the Prime Minister's Award to Mujin, a company developing AI robots that determine optimal movements for manufacturing and logistics facilities. Takaichi also received explanations regarding next-generation aquaculture fish developed through genome editing technology, while eating frozen fried oysters. She expressed strong expectations that startups will serve as key drivers leading domestic investments in 17 growth strategy fields, including AI.
-  中文：总结：高市早苗首相出席了‘初创企业大奖’颁奖典礼，并向开发制造与物流设施最优动作AI机器人的Mujin公司授予内阁总理大臣奖。 高市首相在品尝冷冻牡蛎的同时，还听取了有关采用基因编辑技术开发次世代养殖鱼的企业的介绍。 她表示热切期盼初创企业能够成为引领包括AI在内的17个增长战略领域国内投资的重要担当者。
-  📰 [fnn.jp](https://www.fnn.jp/articles/-/1121315)
+- **[2026.09.26] FNNプライムオンライン — 高市総理が「スタートアップ大賞」表彰式に出席 AIロボット開発のMujinに内閣総理大臣賞 成長分野の担い手に期待**
+  日本語：高市総理大臣は「スタートアップ大賞」の表彰式に出席し、製造業や物流現場向けに最適な動きを判断するAIロボットを開発した株式会社Mujinに内閣総理大臣賞を授与した。 また、ゲノム編集による次世代養殖魚の開発企業などの説明を受け、スタートアップ企業がAIなどの成長戦略における17分野の国内投資を牽引する重要な担い手になることに強い期待を示した。
+  中文：总结：高市首相出席了“初创企业大奖”颁奖仪式，向开发出能在制造业和物流现场判断最佳动作的AI机器人的Mujin公司授予了内阁总理大臣奖。 此外，高市听取了关于利用基因编辑技术开发下一代养殖鱼等企业的介绍，并对初创企业成为引领AI等成长战略17个领域国内投资的重要支柱寄予了厚望。
+  📰 [FNNプライムオンライン](https://www.fnn.jp/articles/-/1121315)
 
 - **[2026.09.25] Yahoo!ニュース — 高市総理 スタートアップ大賞表彰式に出席「戦略投資17分野のけん引を」内閣総理大臣賞に知能ロボットコントローラのMujin**
-  日本語：The 10th Japan Startup Awards ceremony was held at the Prime Minister's Official Residence on the 25th. Prime Minister Sanae Takaichi awarded the Prime Minister's Award to Mujin, Inc. for its physical AI-equipped robot controllers that automate logistics and manufacturing. Regional Fish Ltd. received an excellence award for genome-editing aquaculture, and Sakana AI Ltd. received the Information and Communications Startup Award for next-generation AI development. Takaichi emphasized that startups are positioned as a cross-cutting issue in Japan's growth strategy to expand domestic strategic investments across 17 key fields.
-  中文：总结：第10届日本初创企业大奖颁奖典礼于25日在首相官邸举行。 高市早苗首相向凭借搭载物理AI的机器人控制器推进物流和制造自动化的‘株式会社Mujin’颁发了内阁总理大臣奖。 利用基因编辑技术推进养殖鱼改良的‘Regional Fish株式会社’获得优秀奖，开发新一代AI的‘SakanaAI株式会社’获得信息通信初创企业奖。 高市强调，初创企业被定位为日本增长战略中跨领域课题之一，以在17个重点领域扩大国内战略投资。
+  日本語：政府主催の第10回「日本スタートアップ大賞」表彰式が総理大臣官邸で開かれ、高市総理が出席した。 成長戦略の17分野を牽引する内閣総理大臣賞には、フィジカルAI搭載ロボットで物流・製造現場の自動化を進める「株式会社Mujin」が選ばれた。 優秀賞にはゲノム編集の「リージョナルフィッシュ株式会社」、情報通信スタートアップ賞には「SakanaAI株式会社」が選定された。 高市総理は、スタートアップが戦略分野の国内投資を牽引し、起業の機運を高めて日本の未来を切り開くことに期待を述べた。
+  中文：总结：政府主办的第10届“日本初创企业大奖”颁奖仪式在首相官邸举行，高市首相出席了仪式。 通过搭载具身AI的机器人推进物流和制造现场自动化的“Mujin公司”获得了旨在引领成长战略17个领域的内阁总理大臣奖。 优秀奖授予了从事基因编辑的“Regional Fish公司”，信息通信初创奖则授予了“SakanaAI株式会社”。 高市首相表示，期望初创企业能够引领战略领域的国内投资，提高创业热情并开创日本的未来。
   📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/85289b0ce71ab94085aaee2768ed0b9055d1e959)
 
 - **[2026.09.25] Infoseek — 北海道科学大学×株式会社ニッコー 食産業の匠の技をAIとロボットへ**
-  日本語：Nikko Co. , Ltd. and Hokkaido Science University have concluded a memorandum of understanding on industry-academia collaboration to solve labor shortages and preserve skilled techniques in Hokkaido's food industry, while fostering next-generation talent. They are opening a joint research hub for AI and robotics at the Maeda campus. Research outcomes will be demonstrated and exhibited at the upcoming Teine Station front new campus scheduled to open in April 2027, creating an industry-academia-community co-creation model.
-  中文：总结：株式会社ニッコー与北海道科学大学就产学合作达成备忘录，旨在解决北海道食产业面临的人手不足与熟练技能传承等课题，并培养次世代人才。 双方将在前田校区开设人工智能与机器人学的共同研究基地。 研究成果将在预定于2027年4月开设的手翼站前新校区进行展示与实证，从而构建企业、大学与地域共同创造价值的产学共创模式。
+  日本語：株式会社ニッコーと北海道科学大学は、北海道の食産業における人手不足や熟練技能の継承等の課題解決と次世代人材育成を目的とした産学連携に関する覚書を締結した。 前田キャンパスにAIとロボティクスの共同研究拠点を新設し、ニッコーの食品加工機械やロボット技術のノウハウと大学の知見を融合させる。 研究成果は2027年4月開設予定の新キャンパスでの展示や地域への実証に繋げ、産学共創モデルへ発展させる計画である。
+  中文：总结：株式会社日工与北海道科学大学签署了关于产学合作的备忘录，旨在解决北海道食品产业面临的人手不足和熟练技能传承等课题，并培养下一代人才。 双方在前田校园新设立了AI与机器人共同研究基地，将日工在食品加工机械和机器人系统开发方面的技术诀窍与大学的AI及机器人学识相结合。 研究成果计划应用于2027年4月计划开设的新校园的展示及地区实证中，发展成为产学共创模式。
   📰 [Infoseek](https://news.infoseek.co.jp/article/digitalprplatform_144280/)
 
 - **[2026.09.25] korit.jp — キッチンロボットと電子薬、日本の村田製作所との協業候補に選ばれた**
-  日本語：Nine South Korean deep-tech startups pitched collaboration models to Murata Manufacturing headquarters representatives during the 'Startup OI Kyoto #DeepTech' final pitch event in Seoul, organized by D. CAMP and Korea Murata Electronic. Two winners were selected: Li. fizz Robotics, which proposed using Murata's motion sensors to improve AI action data collection accuracy for kitchen automation robots, and OceansBio, which proposed a wearable healthcare model combining electronic medicine for epilepsy with AI prediction technology. The initiatives aim to explore technical verification, licensing, and joint business ventures.
-  中文：总结：九家韩国深度科技初创企业在D. CAMP与韩国村田电子共同运营的‘Startup OI Kyoto #DeepTech’最终路演中，向村田制作所总部的代表进行了协作模式路演。 两家企业脱颖而出：从事厨房自动化机器人的Li. fizz Robotics提议利用村田的动作检测传感器提高AI学习行动数据收集装置的精度；开发癫痫电子药的OceansBio则提出了结合AI预测技术的穿戴式医疗保健协作模型。 这些举措旨在探索技术实证、技术转移及共同事业化。
+  日本語：D. CAMPと韓国ムラタ電子が共同運営する日本進出支援プログラム「スタートアップOI京都 #ディープテック」の最終ピッチが開催され、韓国内のディープテックスタートアップ9社が村田製作所本社の担当者に技術協業モデルを発表した。 審査の結果、キッチン自動化ロボットを手がけるLi. fizz Roboticsと、てんかん治療用電子薬を開発するOceansBioの2社が優秀企業に選定された。 村田製作所は今後、優秀企業に対し技術実証や技術移転、共同事業化などを検討する方針である。
+  中文：总结：由D. CAMP与韩国村田电子共同运营的日本进出支持项目“初创企业OI京都 #DeepTech”最终路演举行，9家韩国深科技初创企业向村田制造所总部的负责人发表了技术协作模式。 经评审，从事厨房自动化机器人的Li. fizz Robotics和开发癫痫治疗电子药物的OceansBio两家公司被选为优秀企业。 村田制造所计划今后对优秀企业推进技术实证、技术转让及共同商业化等事宜。
   📰 [korit.jp](https://www.korit.jp/news/startup/platum-murata-kitchen-robot-pharma-dcamp-260925/)
 
 
 ## 🤖 Humanoid Robotics
 
 
-- **[2026.09.25] 36Kr Japan — 中国UBTECH、日韓から人型ロボット受注 海外契約11億円超**
-  English: Chinese humanoid robot giant UBTECH Robotics announced that overseas contract values have exceeded 50 million yuan (approx. 1. 15 billion yen) following orders from Japan, South Korea, and Europe. Orders included Walker C1 commercial service robots and UWORLD U1 series humanoids. In Europe, UBTECH secured orders for German-speaking retail partner logistics, while in Japan, Walker C was used at the Osaka-Kansai Expo, and partnerships involve Hitachi's Chinese subsidiary and Honda Trading. UBTECH reported a 104. 2% year-on-year increase in 2026 H1 revenue to 1. 27 billion yuan (approx. 29 billion yen) and sold 16,123 robots.
-  中文：总结：中国人形机器人巨头优必选科技（UBTECH Robotics）宣布，在获得日本、韩国和欧州客户的订单后，海外订单额已超过5000万元（约11亿5000万元）。 订单包括商用服务人型机器人Walker C1及UWORLD U1系列。 在欧洲，优必选通过德语区零售合作伙伴获得物流基地订单；在日本，Walker C亮相大阪关西世博会，且其正与日立中国法人及本田贸易开展合作。 优必选2026年1-6月营收同比大增104. 2%至12亿7000万元（约290亿日元），人型机器人销量达16,123台。
-  📰 [36Kr Japan](https://36kr.jp/502670/)
-
 - **[2026.09.27] DroneXL — Fedorov Wants A Humanoid Robot Killing Russians Within Six Months**
-  English: Mykhailo Fedorov, former Ukrainian defense minister, launched the 'Army of Robots' on September 26, 2026, aiming to replace human soldiers with battlefield robots. The initiative's targets include having a humanoid robot kill a Russian soldier within six months and launching an infantry-free assault within twelve months. While presentation videos contained AI-generated concepts, Ukraine already utilizes thousands of ground-robot missions monthly, though walking armed humanoids are still in development. Fedorov, ousted on July 15, is currently building the private venture outside government, seeking U. S. financial backing.
-  中文：总结：乌克兰前国防部长米哈伊洛·费多罗夫于2026年9月26日推出了‘机器人军队’，旨在用战场机器人取代人类士兵。 该计划的目标包括在六个月内让一个人形机器人杀死一名俄罗斯士兵，并在十二个月内发起不涉及步兵的突击。 虽然展示视频包含AI生成的概念，但乌克兰每月已执行数千次地面机器人任务，尽管武装人形机器人仍在开发中。 于7月15日被解职的费多罗夫目前正从政府外部建立这一私人风险项目，并寻求美国资金支持。
+  English: Mykhailo Fedorov, recently dismissed as Ukraine’s defense minister, launched an "Army of Robots" initiative aiming to deploy humanoid robots to kill Russian soldiers within six months and assault positions within 12 months using collaborative drones and protocols. The launch video utilized AI-generated concept renders, and the immediate tasks for the humanoids are mechanical functions like machine gun reloading and sensor placement. While Ukraine operates numerous wheeled and tracked ground robots, walking armed humanoids are not yet deployed. Fedorov is pursuing this private venture globally after U. S. meetings, securing initial private backing from investor Alex Karp.
+  中文：总结：近期被解除乌克兰国防部长职务的米哈伊洛·费多罗夫启动了一项“机器人军队”计划，其目标是在六个月内让人形机器人消灭俄军士兵，并在十二个月内在无人机和共享协议的配合下对俄军阵地发起突击。 发布会视频使用的是人工智能生成的概念渲染图，人形机器人的首要任务是机枪重新装弹、更换电池等机械操作。 尽管乌克兰已经部署了大量的轮式和履带式地面机器人，但具备武装的步行人形机器人尚未投入使用。 费多罗夫在赴美会面后正从外部推进这一私营风险项目，并获得了投资人亚历克斯·卡普的初步个人资金支持。
   📰 [DroneXL](https://dronexl.co/2026/09/26/fedorov-army-of-robots-humanoid-ukraine/)
 
 - **[2026.09.24] Free Malaysia Today — China’s AgiBot eyes RM1bil investment in Malaysia by 2035**
-  English: Malaysian Prime Minister Anwar Ibrahim stated that AgiBot's investment in general-purpose AI robotics could create 5,000 job opportunities in Malaysia. During a working visit to Shanghai and Hangzhou, Anwar met with executives from ZTE, Alibaba Group, Geely Automobile Holdings, Huawei Technologies, and AgiBot. ZTE outlined investments worth RM170 million to drive digital transformation, while discussions with Alibaba focused on expanding market access for Malaysian small and medium-sized enterprises. Bilateral trade between China and Malaysia totaled US$113. 82 billion from January to August.
-  中文：总结：马来西亚总理安瓦尔·易卜拉欣表示，专注于通用人工智能机器人的智元机器人（AgiBot）的投资有望在马来西亚创造5,000个就业机会。 在对上海和杭州进行工作访问期间，安瓦尔会见了中兴通讯、阿里巴巴集团、吉利汽车控股、华为技术和智元机器人的高管。 中兴通讯概述了价值1. 7亿令吉的投资以推动数字化转型，而与阿里巴巴的讨论则聚焦于扩大马来西亚中小企业的产品市场准入。 1月至8月期间，中马双边贸易额总计113. 82亿美元。
+  English: During a working visit to Shanghai and Hangzhou, Malaysian Prime Minister Anwar Ibrahim discussed potential investments and strategic partnerships with tech firms including AgiBot, ZTE, Alibaba, Geely, and Huawei. AgiBot proposed an investment of RM1 billion by 2035 in general-purpose AI robotics, potentially creating 5,000 jobs. ZTE outlined investments worth RM170 million for digital transformation, while discussions with Alibaba focused on expanding market access for Malaysian SMEs and halal products. The talks covered high-impact sectors such as humanoid robotics, digital infrastructure, AI, and e-commerce, reinforcing bilateral trade ties.
+  中文：总结：马来西亚总理安瓦尔在对上海和杭州进行工作访问期间，与AGIBOT（智元机器人）、中兴通讯、阿里巴巴、吉利汽车和华为等科技公司讨论了潜在投资和战略伙伴关系。 AGIBOT提议到2035年在马来西亚投资10亿林吉特发展通用人工智能机器人，并可能创造5000个就业机会。 中兴通讯概述了价值1. 7亿林吉特的数字转型投资计划，而与阿里巴巴的讨论则聚焦于扩大马来西亚中小企业和清真产品进入中国及全球市场的渠道。 会谈涵盖了人形机器人、数字基础设施、人工智能和电子商务等高影响力领域，进一步巩固了双边贸易关系。
   📰 [Free Malaysia Today](https://www.freemalaysiatoday.com/category/nation/2026/09/24/china-s-agibot-eyes-rm1bil-investment-in-malaysia-by-2035)
 
 - **[2026.09.27] Currently.com — New humanoid robot 'cowers' and drops to its knees when workers get too close**
-  English: Agility Robotics' newest humanoid robot, Digit 5, features safety behaviors designed to freeze, step aside, or drop to its knees when a person approaches too closely. Utilizing Nvidia's Thor IGX chip for real-time detection, vision sensors, and proprietary AI algorithms, Digit 5 can lift up to 50 pounds and is optimized for OSHA-regulated warehouses. Agility reports that its robots run for 90 minutes per battery, recharge in nine minutes, and are already deployed commercially by companies including Amazon and Toyota.
-  中文：总结：Agility Robotics最新的人形机器人Digit 5具备安全功能，当有人靠近时会自动静止、让路甚至下跪。 利用英伟达的Thor IGX芯片进行实时检测、视觉传感器及专有AI算法，Digit 5可反复举起50磅重物，并针对OSHA监管的仓库进行了优化。 Agility称其机器人每块电池续航90分钟、9分钟即可充满，且已被亚马逊和丰田等公司投入商业运营。
+  English: Agility Robotics has introduced its newest humanoid robot, Digit 5, featuring advanced safety behaviors designed to freeze, step aside, or drop to its knees when a human worker approaches. Utilizing onboard sensors, proprietary AI algorithms, and Nvidia’s Thor IGX chip for real-time human detection, the robot automatically adapts its motion to prioritize human presence. Designed for commercial operations in warehouses and OSHA-regulated facilities, Digit 5 can lift up to 50 pounds and offers extended battery uptime with quick recharging capabilities, as companies increasingly focus on workplace safety alongside robot deployment.
+  中文：总结：Agility Robotics推出了其最新的人形机器人Digit 5，具备先进的安全行为模式，当人类工人靠近时能够自动冻结、避让或下跪。 该机器人利用机载传感器、专有AI算法以及用于实时人体检测的英伟达Thor IGX芯片，自动调整运动以优先确保人类安全。 Digit 5专为仓库和受OSHA监管的设施中的商业运营而设计，能够举起高达50磅的重量，并在提供快速充电能力的同时延长电池续航时间，随着企业日益关注机器人部署过程中的工作场所安全。
   📰 [Currently.com](https://currently.att.yahoo.com/att/humanoid-robot-cowers-drops-knees-232700140.html)
 
 - **[2026.09.26] The Robot Report — Agility Robotics, maker of Digit humanoid, exploring wheeled robots**
-  English: Agility Robotics is exploring wheeled robot designs alongside its bipedal humanoids, according to CEO Jonathan Hurst. While unveiling Digit 5—which features advanced safety cowering behavior, an Nvidia Thor IGX chip, and multi-year customer orders—the company noted that wheels offer stability and energy efficiency in flat environments. Agility is going public via a SPAC merger with Churchill Capital Corp. XI, valuing the firm at $2. 5 billion and generating over $620 million in gross proceeds, despite reporting $1. 8 million in 2025 revenue against a $140 million operating loss.
-  中文：总结：据CEO乔纳森·赫斯特透露，Agility Robotics在开发双足人形机器人的同时，也在探索轮式机器人设计。 在发布具备先进安全下跪行为、英伟达Thor IGX芯片及多年客户订单的Digit 5之际，该公司指出轮式设计在平坦环境中具备稳定性和能效优势。 Agility正通过与Churchill Capital Corp. XI的SPAC合并上市，估值为25亿美元并筹集超过6. 2亿美元总善款，尽管其2025年营收为180万美元，但运营亏损达1. 4亿美元。
+  English: Agility Robotics CEO Jonathan Hurst confirmed that the company is exploring wheeled robots alongside its bipedal humanoid Digit line to address diverse operating environments and customer needs. While legged robots remain advantageous for stairs and uneven terrain, wheeled alternatives offer stability and energy efficiency in flat spaces. The exploration coincides with Agility’s upcoming public listing via a SPAC merger with Churchill Capital Corp. XI, valuing the company at $2. 5 billion and securing multi-year Digit v5 orders from a major customer, highlighting both growing demand and the early stage of commercial scaling.
+  中文：总结：Agility Robotics首席执行官Jonathan Hurst证实，该公司在推进双足人形机器人Digit系列的同时，正在探索轮式机器人，以适应不同的运营环境和客户需求。 尽管腿部机器人在楼梯和不平坦地形上仍具优势，但轮式替代方案在平坦空间中提供了稳定性和能效。 这一探索正值Agility通过与Churchill Capital Corp. XI进行SPAC合并准备上市之际，该交易对公司的估值为25亿美元，并获得了一家大客户的多年生Digit v5订单，凸显了不断增长的需求以及商业规模化仍处于早期阶段的现状。
   📰 [The Robot Report](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)
+
+- **[2026.09.24] Yahoo Finance — AGIBOT and Chimelong Launch Large-Scale Embodied AI Theme Park with More Than 300 Robots**
+  English: AGIBOT and Chimelong Group launched a large-scale embodied AI deployment at Chimelong Spaceship Park, integrating over 300 robots across entertainment, education, visitor services, and hotel operations. The deployment marks the delivery of AGIBOT's 20,000th humanoid robot off the production line. The robots are deployed across seven core scenarios, performing martial arts, gymnastics, guiding visitors, interacting in table tennis, and delivering personalized guest services in hotels, moving robotics beyond standalone displays into fully integrated visitor and operational experiences.
+  中文：总结：智元机器人（AGIBOT）与长隆集团在长隆宇宙飞船公园启动了大规模具身智能落地项目，将300多台机器人整合应用于娱乐、教育、游客服务和酒店运营中。 此次部署标志着智元机器人第20000台人形机器人正式下线交付。 这些机器人被部署在七个核心场景中，执行武术、体操表演、导览、乒乓球互动以及在酒店提供个性化的宾客服务，将机器人应用从单一展示推向全面融入的游客与运营体验之中。
+  📰 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/agibot-chimelong-launch-large-scale-065100813.html)
 
 
 ---
