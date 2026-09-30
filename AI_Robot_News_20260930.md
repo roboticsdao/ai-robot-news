@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.09.30（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.09.30] The Business Times — Tesla lines up US$30 billion to borrow with AI, robotics investments to rise**
+  English: Tesla has secured US$30 billion in new loans and credit lines, including a US$20 billion delayed-draw term loan, an US$8 billion five-year line of credit, and a US$2 billion one-year line of credit. These facilities replace a previous US$5 billion credit line maturing in January 2028. Citigroup acts as administrative agent for the term loan, while Wells Fargo serves as administrative agent for the credit lines. Tesla does not plan to draw on any of these facilities in 2026. The borrowing supports CEO Elon Musk's initiative to transform the electric vehicle maker into a leader in humanoid robots and artificial intelligence, with planned capital spending exceeding US$25 billion in 2026 to expand factory operations and autonomous Cybercab robotaxis.
+  中文：总结：特斯拉已筹集300亿美元的新贷款和信贷额度，其中包括一项可在后期提取的200亿美元定期贷款、一项80亿美元的五年期信贷额度以及一项$20 billion的一年期信贷额度。 这些设施取代了此前定于2028年1月到期的50亿美元信贷额度。 花旗集团担任新延迟提取定期贷款的行政代理人，富国银行则担任信贷额度的行政代理人。 特斯拉在提交的文件中表示，目前计划在2026年不提取任何资金。 此次融资支持首席执行官埃隆·马斯克将这家电动汽车制造商转型为人形机器人和人工智能领导者的计划，该公司计划在2026年投入超过$25 billion用于扩大工厂运营和自动驾驶Cybercab无人驾驶出租车车队。
+  📰 [The Business Times](https://www.businesstimes.com.sg/companies-markets/tesla-lines-us30-billion-borrow-ai-robotics-investments-rise)
+
+- **[2026.09.29] Spherical Insights — Japan and NVIDIA Launch the World’s First National AI Infrastructure for Physical AI: Expert View By Spherical Insights**
+  English: Nvidia announced on July 16, 2026, a collaboration with Noetra Corp. to build a 140-megawatt Vera Rubin AI factory in Japan using 27,500 Rubin GPUs and 13,750 Vera CPUs connected via Spectrum-X Ethernet and BlueField DPUs. Supported by Japan's Ministry of Economy, Trade and Industry (METI) and part of the FRONTia Project, the facility will provide the computing foundation for multimodal foundation models in AI robotics and physical AI. METI has pledged ¥387. 3 billion for fiscal 2026 within a package of up to ¥1 trillion over five years from green transition bonds. Noetra is a consortium of about 44 companies led by CEO Hironobu Tamba and anchored by SoftBank, Sony, NEC, and Honda. Construction is slated to start in April 2027 with commissioning targeted for June 2028, aiming to support trillion-parameter-scale models and help Japan capture over 30% of the global AI robotics market by 2040.
+  中文：总结：英伟达于2026年7月16日宣布与Noetra Corp. 合作，在日本建造一座140兆瓦的Vera Rubin人工智能工厂，采用由Spectrum-X以太网和BlueField DPU连接的27,500个Rubin GPU和13,750个Vera CPU。 该设施得到日本经济产业省（METI）的支持，是FRONTia项目的一部分，将为人工智能机器人和物理人工智能的多模态基础模型提供计算基础。 经济产业省已承诺在2026财年拨出3873亿日元，作为五年内最高达¥1 trillion绿色转型债券资助计划的一部分。 Noetra是由首席执行官丹羽宏信领导、以软银、索尼、NEC和本田为核心的大约44家公司的财团。 建设定于2027年4月开始，目标是在2028年6月投入运营，旨在支持万亿参数规模的模型，并帮助日本在2040年之前占据全球人工智能机器人市场30%以上的份额。
+  📰 [Spherical Insights](https://www.sphericalinsights.com/blogs/japan-and-nvidia-launch-the-world-s-first-national-ai-infrastructure-for-physical-ai)
+
+- **[2026.09.29] Tomorrow's World Today — Boston Dynamics to Launch 25,000 Industrial Humanoid Robots**
+  English: Boston Dynamics opened a new training center called the Robotics Metaplant Application Center (RMAC) for its Atlas robot inside the Hyundai Motor Group Metaplant America. The facility deploys Atlas directly on the factory floor to learn sorting and arranging car parts for assembly. According to Boston Dynamics, Atlas will begin assembling parts by 2030 to take on heavy lifting and repetitive tasks. Hyundai plans to produce 25,000 Atlas units at its plants worldwide over the next few years and is building a new US factory capable of producing 30,000 robots annually. Zack Jackowski, Chief Product & Technology Officer at Boston Dynamics, stated that the partnership aims to scale physical AI at enterprise level. Next year, the training center will move to a building ten times larger on the Hyundai campus, and Boston Dynamics plans to evaluate Atlas's application in other fields by 2027.
+  中文：总结：波士顿动力公司在现代汽车集团美国大都市工厂内为其Atlas机器人开设了一个名为机器人大都市工厂应用中心（RMAC）的新培训中心。 该设施将Atlas直接部署在工厂车间，以学习分流和排列汽车零件以便进行装配。 根据波士顿动力公司的说法，Atlas将在2030年之前开始组装这些零件，以承担对工人造成身体负担的重体力劳动和重复性任务。 现代汽车计划在未来几年内在其实施全球现代和起亚工厂生产25,000台Atlas机器人，并正在美国建设一座年产30,000台机器人的新工厂。 波士顿动力首席产品与技术官扎克·杰科夫斯基表示，此次合作旨在实现企业级物理人工智能的规模化。 明年，该培训中心将搬迁至现代园区内大十倍的新建筑中，波士顿动力还计划到2027年考察Atlas在其他领域的应用。
+  📰 [Tomorrow's World Today](https://www.tomorrowsworldtoday.com/robotics/boston-dynamics-to-launch-25000-industrial-humanoid-robots/)
+
+- **[2026.09.30] The Boston Globe — ICE to buy modified Boston Dynamics robot dogs in $1.3 million contract**
+  English: US Immigration and Customs Enforcement (ICE) will spend about $1. 3 million on four modified Boston Dynamics robot dogs through Connecticut-based Radeco in a federal contract. Named Cerberus, the modified robots feature military-grade add-ons including a robotic arm, thermal camera, explosive material sensors, audio sensors, and a radio system, costing roughly $110,000 each without add-ons. ICE stated the robots will provide real-time situational awareness and safely assess hazardous, confined environments like tunnels during specialized operations supporting the Subterranean Border Defense Act and anti-cartel missions. The robots can be controlled from up to 932 miles away and have a top speed of 3. 5 miles per hour. Boston Dynamics spokesperson Sarah Tabak clarified that the robots will be used by ICE's Homeland Security Investigations unit for crimes like human trafficking and drug smuggling, and noted that Boston Dynamics prohibits weaponization, warning that misuse voids warranties, terminates licenses, and triggers legal action.
+  中文：总结：美国移民与海关执法局（ICE）将通过一份联邦合同，花费约130万美元向总部位于康涅狄格州的Radeco公司购买四只经过改装的波士顿动力机器人狗。 这些被命名为刻耳柏洛斯的改装机器人配备了包括机械臂、热成像仪、爆炸物传感器、音频传感器和无线电系统在内的军用级附加装置，不含附加装置的单价约为11,0000美元。 ICE表示，这些机器人将在支持《地下边境防御法》及打击贩毒集团等专项行动中，提供实时态势感知并安全评估诸如隧道等危险、狭窄的环境。 这些机器人可在最远932英里之外进行控制，最高时速为每小时3. 5英里。 波士顿动力公司发言人莎拉·塔巴克澄清说，这些机器人将由ICE国土安全调查部门用于人口走并和毒品走私等犯罪调查，并指出波士顿动力禁止将其武器化，警告滥用将导致保修失效、吊销许可证并引发法律诉讼。
+  📰 [The Boston Globe](https://www.bostonglobe.com/2026/09/29/business/ice-robot-dog-boston-dynamics-contract/)
+
+- **[2026.09.30] aol.com — Nvidia's next 'holy grail' is physical AI: Dan Ives**
+  English: Nvidia's high-powered AI chips driving robotics and automation are anticipated by Yorkville Ives partner and tech analyst Dan Ives to manifest physical AI in financial statements next year, calling it the 'holy grail' for Nvidia with spending expected to exceed current levels. Meanwhile, Nvidia announced a $150 billion stock buyback plan on Monday, the largest share repurchase authorization increase in history, bringing total buyback authorization to $235 billion. According to BenEmons of FedWatch Advisors, Nvidia shares historically gain an average of 24% in the 12 months following a large stock buyback announcement. CEO Jensen Huang is seen capitalizing on a declining forward price-to-earnings multiple ahead of accelerated AI development, despite strong financial quarters.
+  中文：总结：Yorkville Ives合伙人兼长期科技分析师丹·艾夫斯预测，明年英伟达驱动机器人和企业自动化的强力人工智能芯片将在财务报表中体现物理人工智能，他将其称为英伟达的“圣杯”，并预计相关支出将达到目前的数倍。 与此同时，这家人工智能芯片巨头于周一公布了一项高达1500亿美元的股票回购计划，这是历史上最大规模的股票回购授权额度增加，使其总回购授权额度达到$235 billion。 根据FedWatch Advisors创始人本·埃蒙斯的数据，英伟达股价在宣布大型股票回购计划后的12个月内通常平均上涨24%。 尽管财务季度表现强劲，但在人工智能开发加速推进之际，首席执行官黄仁勋被认为正抓住前瞻市盈率不断下降的时机回购公司股票。
+  📰 [aol.com](https://www.aol.com/articles/nvidias-next-holy-grail-physical-165038000.html)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.09.30] 网易新闻客户端 — 为全球机器人产业贡献“中国方案”**
+  中文：总结：由我国专家牵头制定的全球首个腿式机器人国际标准《机器人——服务机器人性能规范及其试验方法 第5部分：腿式机器人运动》经国际标准化组织批准正式发布。 该标准由ISO机器人技术委员会服务机器人工作组腿式机器人研究组召集人乔波参与推动，构建了面向应用的多维度、全要素性能表征体系，解决了行业测不准和难比较的痛点，倒逼智能大脑与控制小脑的研发，并规范了国际产业链合作。 相关测试方法已应用于世界人形机器人运动会等赛事及中国机器人产品认证体系中，展示了我国在该领域的领先地位并提升了全球竞争力。
+  📰 [网易新闻客户端](https://c.m.163.com/news/a/L82IBI9B0514CQIE.html)
+
+- **[2026.09.30] 新浪财经 — 今年上半年全球人形机器人销量达3.6万台 优必选智元等中国厂商包揽收入榜单前五丨封面有数**
+  中文：总结：弗若斯特沙利文发布的《2026全球人形机器人市场研究报告》显示，2025年全球人形机器人销量为3. 5万台，对应收入5亿美元；2026年上半年销量达3. 6万台，收入5. 4亿美元，已超2025全年水平。 2025至2026上半年全球收入排名前五的厂商均来自中国，优必选以24. 8%的收入占比排在首位，智元机器人、宇树科技、银河通用和乐聚机器人分列其后。 特斯拉Optimus、Figure AI和Agility等海外头部玩家则主要处于原型迭代和内部自用阶段。 在应用场景中，生产作业的收入增速最为突出，2026上半年实现收入0. 78亿美元。 此外，全尺寸具身智能人形机器人在2026上半年实现销量0. 58万台、收入3. 2亿美元，优必选在该细分市场中同样位居全球首位。
+  📰 [新浪财经](https://finance.sina.cn/stock/jdts/2026-09-29/detail-initnmvz7831210.d.html?oid=800&vt=4&cid=76993&node_id=76993)
+
+- **[2026.09.29] 朝鮮日報中文版 — 美国以安全为由禁止进口中国的人形机器人**
+  中文：总结：美国联邦通信委员会（FCC）于当地时间28日宣布限制外国产人形机器人和四足行走机器人的新机型在美国销售，理由是担心敏感数据被用于监视美国设施或通信网络遭黑客攻击导致瘫痪。 同时，美国还将连接太阳能和电池数据中心的外国产电力逆变器纳入监管范围，以防止华为和阳光电源等中国企业远程控制美国电网。 此前，美国已对华为、中兴的5G通信设备、字节跳动旗下的TikTok以及大疆等中国制造的无人机实施了限制。 英国《金融时报》分析认为，美国的对华政策已从大规模加征关税转向针对安全直接相关的特定产业实施精准打击。
+  📰 [朝鮮日報中文版](https://cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate=M1003&nNewsNumb=20260765146&nidx=65147)
+
+- **[2026.09.29] 搜狐网 — 宇树机器人把中国传统文化和最新科技带上《美国达人秀》**
+  中文：总结：宇树科技携手成都厚米丝舞团及舞者吴宇飞登上《美国达人秀》第21季总决赛舞台，成为该节目开播21季以来唯一晋级总决赛的中国团队，也是宇树人形机器人首次亮相该全球节目。 在四分之一决赛中，宇树机器人演绎功夫节目《莲》，获评委索菲娅·维加拉按下黄金按钮直接晋级。 总决赛中，宇树机器人换上传统水袖，G1-W轮滑机器人和G1机器人与舞者隔空对舞，并在揭晓夜与DJ史蒂芬青木同台表演。 尽管最终由美国本土观众投票决出的名次未能更进一步，但宇树科技成功将中国功夫、水袖舞与前沿科技结合，让中国机器人展现了参与表达和创造的能力。
+  📰 [搜狐网](https://www.sohu.com/a/1082404515_362042?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.29] 手机新浪网 — 宇树市值腰斩后，具身智能IPO迎生死关？**
+  中文：总结：港交所拟于明年上半年就修订特专科技公司上市制度（18C章）展开咨询并检讨市值门槛，对排队上市的具身智能企业产生影响。 此前宇树科技于8月登陆科创板，市值一度超4000亿元后近乎腰斩，多只零部件企业如梅卡曼德、本末科技等也相继赴港上市但面临破发。 根据人形机器人场景应用联盟统计，2026上半年国内公开披露的218个中标项目中，教育科研占55. 5%，政府及国资占20. 6%，工业企业占21. 1%且多为样机测试，暴露出行业真实商业化落地不足和对专项采购依赖的问题。 港交所和上交所对具身智能IPO审核均趋严，把关财务真实性，推动赛道从概念炒作转向商业化验证。
+  📰 [手机新浪网](https://k.sina.com.cn/article_2807379417_a75535d900101cnba.html?from=finance&subch=astocks)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.09.29] ASCII.jp — Physical AIの社会実装とAIの未来を議論「GPU UNITE 2026」10月21日、東京大学で開催**
+  日本語：GDEPソリューションズ株式会社が事務局を務めるGPU UNITE 実行委員会は、2026年10月21日に東京大学伊藤国際学術研究センターにて技術カンファレンス「GPU UNITE 2026」を開催する。 「Connecting Frontier Technologies」を掲げ、Physical AIやAI for Science、CG・デジタルツインなどをテーマに講演やパネルディスカッションを実施する。 午前の注目プログラムでは、Telexistenceの佐野元紀氏が小売現場でのロボット実装やヒューマノイドへの適用に向けた開発を紹介し、MWの成田修造氏がAI・ロボティクス・建築を融合した「Living Home」やAmbient AIからPhysical AIへの広がりについて講演する。 さらに、Anthropic Japanの辻潤一郎氏らを交えたパネルディスカッションでAIエージェントから社会実装までを議論するほか、午後には3トラックで全15講演が行われる。
+  中文：总结：GDEP解决方案株式会社担任秘书处的GPU UNITE执行委员会将于2026年10月21日在东京大学伊藤国际学术研究中心举办技术会议“GPU UNITE 2026”。 本次会议以“连接前沿技术”为宗旨，围绕物理人工智能、科学人工智能、计算机图形与数字孪生等主题举办演讲和小组讨论。 在上午的重点活动中，Telexistence的佐野元纪将介绍机器人在零售现场的部署及面向人形机器人应用开发的经验，MW的成田修造则将就融合人工智能、机器人与建筑的“Living Home”以及从环境人工智能向物理人工智能的扩展发表演讲。 此外，由Anthropic Japan的辻润一郎等人参与的小组讨论将探讨从人工智能代理到社会实现的未来可能性，下午还将分三个轨道进行共计15场演讲。
+  📰 [ASCII.jp](https://ascii.jp/elem/000/004/438/4438209/)
+
+- **[2026.09.29] waseda.jp — 高西・石井研究室発「自動歯磨き」技術が2026年度日本ロボット学会『実用化技術賞』を受賞**
+  日本語：一般社団法人日本ロボット学会が開催した第44回日本ロボット学会学術講演会において、早稲田大学創造理工学部の高西淳夫教授、石井裕之教授、および両研究室発の技術をロボット歯ブラシ「g. eN（ジェン）」として社会実装した株式会社Genicsの栄田源代表取締役が、2026年度「実用化技術賞」を受賞した。 受賞対象となった「g. eN」は、口腔内という限られた空間で歯列に沿ってブラシを動かし、歯の表裏を同時にブラッシングする機構を備えた口腔ケアロボットである。 本技術は、日常の歯磨き動作を自動化することで小さな子どもや高齢者、身体の不自由な人のケアの負担を軽減し、大学の基礎研究を量産可能な製品として社会実装に結びつけた点が評価された。 早稲田大学のオンラインショップ等で販売されている。
+  中文：总结：在一般社团法人日本机器人学会主办的第44届日本机器人学会学术演讲会上，早稻田大学创造理工学部的高西淳夫教授、石井裕之教授，以及将两实验室的技术作为机器人牙刷“g. eN”进行社会实现的株式会社Genics代表取締役荣田源，荣获了2026年度“实用化技术奖”。 获奖的“g. eN”是一款口腔护理机器人，具备在口腔内有限空间内沿牙列移动刷头、同时刷洗牙齿表里两侧的机构。 该技术通过自动完成日常刷牙动作，减轻了幼儿、老年人以及行动不便者的护理负担，并将大学的基础研究成功转化为可量产的产品并在社会中实现应用，受到了高度评价。 该产品已在早稻田大学网上商店等平台销售。
+  📰 [waseda.jp](https://www.waseda.jp/fsci/news/2026/09/29/39167)
+
+- **[2026.09.28] MONOist — 安川電機が熟練工の「感覚」をAIロボットで再現、カメラで見ながらアーク溶接：2026国際ウエルディングショー**
+  日本語：安川電機は「2026国際ウエルディングショー」において、AIロボット「MOTOMAN NEXT」を活用した熟練型アーク溶接のデモンストレーションを披露した。 建機や船舶などの溶接現場ではワークのバラつきが多く熟練溶接士の感覚的調整に依存しているが、今回のデモでは協働ロボット「MOTOMAN NEXT-NHC12」の先端カメラで溶融池の状態をリアルタイムに撮影。 コントローラー内の自律制御ユニットに実装された溶接用AIモデルが画像処理を行い、溶融池幅を指定された幅にするようロボットの動作や速度を自動修正することで、熟練工の感覚的な調整を再現した。 安川電機は今後、ビード外観検査などとの設備連携を進め、自律的に進化する溶接システムの確立を目指す。
+  中文：总结：安川电机在“2026国际焊接展”上展示了利用AI机器人“MOTOMAN NEXT”进行熟练型电弧焊接的实操演示。 在工程机械和造船等焊接现场，由于工件差异较大，一直依赖熟练焊接工凭感觉进行调整，而此次演示中，协作机器人“MOTOMAN NEXT-NHC12”前方的摄像头实时拍摄了熔池状态。 控制器内自主控制单元中搭载的焊接AI模型进行图像处理，识别熔池宽度并自动修正机器人的动作和速度，使其达到指定宽度，从而重现了熟练工凭感觉进行的调整。 安川电机未来将推进与焊道外观检查等设备的联动，力求建立能够自主进化的焊接系统。
+  📰 [MONOist](https://monoist.itmedia.co.jp/mn/articles/2609/28/news049.html)
+
+- **[2026.09.28] MONOist — ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに：2026国際ウエルディングショー**
+  日本語：ファナックは「2026国際ウエルディングショー」において、部品図面を読み取ってロボットがアーク溶接を行うAI溶接エージェントのデモンストレーションなどを披露した。 ティーチングペンダント内蔵カメラで撮影された図面から、Google Cloud上のGemini Enterpriseを活用したAIエージェントが溶接形状や板厚などを読み取り、最適な溶接条件を生成してロボットコントローラーへ転送、説明員がほとんど手を触れずに溶接を完了させた。 同社は2026年12月末の出荷開始を見込んでいる。 さらに、専用の固定治具を使わずロボット自身がワークを保持して重力の影響を受けない姿勢で溶接する「治具レス溶接」のデモも実施し、ソフトPLCの活用によりハードとしての安全PLCを置くことなく安全停止回路を完結させた。
+  中文：总结：发那科在“2026国际焊接展”上展示了读取零件图纸由机器人进行电弧焊接的AI焊接代理等演示。 通过示教器内置摄像头拍摄图纸，利用Google Cloud上的Gemini Enterprise等技术的AI代理读取焊接形状和板厚等参数，生成最佳焊接条件并传输给机器人控制器，操作人员几乎无需触碰即可完成焊接。 该公司预计将于2026年12月底开始出货。 此外，还展示了无需专用固定夹具、由机器人自身夹持工件并在不受重力影响的姿势下进行焊接的“无夹具焊接”演示，通过利用软件PLC，无需设置作为硬件的安全PLC，即可在机器人控制器单体上完成安全停止回路。
+  📰 [MONOist](https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html)
+
+- **[2026.09.29] PR TIMES — 【日本初】AIの知能が高まっても「偽造部品」1つでロボットは凶器と化す「フィジカルAI」の社会実装を阻む “サプライチェーンの死角” を解消しハードとソフトの真正性を繋ぐトラスト基盤に係る特許を権利化**
+  日本語：サイカルトラスト株式会社は、「鑑定証明システム（R）」に関する新たな国内特許（特願2025-519402）の特許査定を受領し、権利化したと発表した。 ドローンやロボット、自動運転車などの「フィジカルAI」領域において、高度なソフトウェア（SBOM）を開発しても、身体となるハードウェア（HBOM）に偽造半導体が混入すれば制御不能な凶器と化すサプライチェーンの脆弱性という課題に対し、物理的特徴とデジタルIDを一致させてHBOMの真正性を担保する。 また、SBOMの改ざん防止・検証履歴を連続的に記録し、両者を強固に結びつけることでエンドツーエンドの証明を可能にする。 これにより、ISO 26345と掛け合わせた「HBOM × SBOM統合証明」を実現し、インシデント発生時の説明責任を担保する強固なトラスト基盤を提供する。
+  中文：总结：赛卡尔信托株式会社宣布，已就“鉴定证明系统（R）”获得一项新的日本国内专利（特许申请2025-519402）的专利审定并实现权利化。 在无人机、机器人以及自动驾驶汽车等“物理人工智能”领域，即便开发出高度复杂的软件（SBOM），如果其承载的硬件（HBOM）中混入伪造半导体，也会变成失控的凶器，针对这一供应链脆弱性的课题，该系统通过将物理特征与数字ID相匹配来确保HBOM的真实性。 同时，它连续记录SBOM防篡改及验证历史，并将两者紧密结合，从而实现端到端的证明。 通过与ISO 26345相结合，实现“HBOM与SBOM集成证明”，并提供在发生事故时能够保证问责制的坚实信任基础。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000184.000044818.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.09.29] 電波タイムズ — 世界最大のヒューマノイドロボットとフィジカルAI特化の国際会議 5月28日(木)-29日(金)、東京・高輪にて開催**
+  English: Humanoids Summit Inc. will host 'Humanoids Summit Tokyo 2026', an international conference dedicated to humanoid robots and physical AI, on May 28-29, 2026, at the Takanawa Gateway Convention Center. Marking the first time the summit is held in Asia following Silicon Valley and London, the event will gather enterprises, developers, and investors from the US, Europe, and Asia for live demonstrations and strategic discussions. Osaka University robotics pioneer Professor Hiroshi Ishiguro will deliver the opening keynote with a live demonstration of his humanoid 'Geminoid', alongside top executives from Google DeepMind and other leading AI and robotics companies. Key themes include commercialization, manufacturing scale and supply chain, capital allocation, spatial AI, and legal safety frameworks presented by Cooley LLP and McKinsey & Company.
+  中文：总结：Humanoids Summit Inc. 将于2026年5月28日至29在高轮网关会议中心举办专注于人形机器人和物理人工智能的国际会议“Humanoids Summit Tokyo 2026”。 这是继硅谷和伦敦之后该峰会首次在亚洲举办，将汇聚来自美国、欧洲和亚洲的企业、开发人员和投资者，进行现场演示并开展战略讨论。 大阪大学机器人先驱石黒浩教授将发表开幕基调演讲，并对其人形机器人“Geminoid”进行现场演示，同时Google DeepMind等领先人工智能和机器人公司的顶级高管也将登场。 主要议题包括商业化、制造规模与供应链、资本配置、空间人工智能，以及由Cooley LLP和麦肯锡公司提出的法律安全框架。
+  📰 [電波タイムズ](https://www.dempa-times.co.jp/event-information/47934/)
+
+- **[2026.09.30] Enidnews.com — Agility Robotics Announces New Directors for Planned Public-Company Board | Associated Press | syndication news**
+  English: Agility Robotics announced that Merline Saintil, Derek Aberle, and Pierre Gentin are expected to join its board of directors upon completion of its previously announced business combination with Churchill Capital Corp XI (NASDAQ: CCXI). The new directors will serve alongside Agility CEO Peggy Johnson and co-founder Damion Shelton, both of whom will continue as members of the board.
+  中文：总结：Agility Robotics宣布，在完成此前已宣布的与Churchill Capital Corp XI（纳斯达克股票代码：CCXI）的业务合并后，Merline Saintil、Derek Aberle和Pierre Gentin预计将加入其董事会。 新董事将与Agility首席执行官Peggy Johnson以及联合创始人Damion Shelton共同任职，两人都将继续担任董事会成员。
+  📰 [Enidnews.com](https://www.enidnews.com/region/agility-robotics-announces-new-directors-for-planned-public-company-board/article_9553845a-0d76-5aee-a09d-b7bec2a6fe4d.html)
+
+- **[2026.09.30] Vocal — Figure AI Found a Robot Scaling Law. 56% of the Time.**
+  English: Figure AI released Helix 2. 5, achieving a 56% full-task success rate across 420 tests in 30 unfamiliar houses in the San Francisco Bay Area for tasks including tidying toys, folding towels, and making beds. The company stated the robots were not fine-tuned for the specific homes or objects. Starting with a pretraining on its human behavior dataset, Index, Helix 2. 5 demonstrated zero-shot capabilities in diverse home layouts, with bed-making reaching 67%, towel-folding 62%, and toy-tidying 40%. A control model without Index pretraining succeeded only 9% of the time, leading Figure AI to conclude that human behavior pretraining enables robots to transfer skills across homes and objects. The company also observed that scaling the Index dataset size improves performance, indicating a robotics scaling law.
+  中文：总结：Figure AI发布了Helix 2. 5，在旧金山湾区30所陌生住宅中通过420次测试实现了56%的全任务成功率，测试任务包括收拾玩具、折叠毛巾和整理床铺。 该公司表示，机器人并未针对这些特定的房屋或物品进行微调。 在利用其人类行为数据集Index进行预训练后，Helix 2. 5在不同的家居布局中展示了零样本学习能力，其中整理床铺成功率达67%，折叠毛巾达62%，收拾玩具达40%。 没有经过Index预训练的对照模型成功率仅为9%，这使Figure AI得出结论：人类行为预训练使机器人能够在不同的家庭和物体之间迁移技能。 该公司还观察到，扩大Index数据集的规模可以提升性能，这表明存在机器人领域的规模定律。
+  📰 [Vocal](https://vocal.media/01/figure-ai-found-a-robot-scaling-law-56-of-the-time)
+
+- **[2026.09.29] Benzinga — Tesla Optimus Rides a Robotics Boom as Valuations Fall - Tesla (NASDAQ:TSLA)**
+  English: Tesla's Optimus is entering a rapidly expanding robotics market while startup valuations face potential declines. OpenAI early investor Vinod Khosla predicts robotics will have its 'ChatGPT moment' within two years and that dexterous humanoid robots will learn industrial tasks quickly, but warns that 2030 valuations for startups might drop amid a major industry shakeout. Conversely, Faraday Future's Jerry Wang expects strong long-term prospects for the sector, viewing US public markets as just beginning to tap into physical AI. John Fowler of MBody AI notes that falling hardware costs will accelerate adoption while challenging individual hardware companies to sustain premium valuations, shifting focus to software, services, revenue, and customer retention. Tesla provides public-market exposure through Optimus, while Nvidia offers computing infrastructure. Despite market growth, Khosla warns that high valuations may not sustain for everyone.
+  中文：总结：特斯拉的Optimus正在进入一个快速扩张的机器人市场，而初创公司的估值则面临潜在下降。 OpenAI早期投资者维诺德·科斯拉预测，机器人技术将在两年内迎来其“ChatGPT”时刻，且灵巧的人工智能人形机器人将迅速学会工业任务，但他警告说，在经历重大行业大洗牌后，初创公司到2030年的估值可能会下降。 相反，法拉第未来的杰瑞·王预计该行业具有强劲的长期前景，认为美国公开市场才刚刚开始涉足物理人工智能。 MBody AI的约翰·福勒指出，不断下降的硬件成本将加速普及，同时使各个硬件公司难以维持高额估值，从而将焦点转移到软件、服务、收入和客户留存上。 特斯拉通过Optimus提供了公开市场投资渠道，而英伟达则提供了计算基础设施。 尽管市场在增长，但科斯拉警告称，高估值可能无法维持在每个人身上。
+  📰 [Benzinga](https://www.benzinga.com/trading-ideas/long-ideas/26/09/62053271/tesla-optimus-robotics-boom)
+
+- **[2026.09.29] PR Newswire — DYNA Robotics Launches DYNA 2.1 Physical Agent, a Semi-humanoid Robot that Completes Full Workflows such as a Commercial Laundry Shift**
+  English: DYNA Robotics launched the DYNA 2. 1 physical agent, a semi-humanoid robot designed to autonomously complete complex workflows like a commercial laundry shift without human intervention. Deployed in hotels, laundromats, and restaurants, DYNA 2. 1 features an upper torso with two arms, parallel-jaw grippers or dexterous hands, and four steerable wheels. Powered by a vision-language orchestrator and whole-body controller, the robot runs on the DYNA 2 world action model trained on a million hours of human and robot data. It can perform tasks including loading and unloading washers and dryers, folding towels into stacks, and autonomously correcting physical errors. The company emphasizes optimizing Mean Time Between Interventions (MTBI) rather than per-episode success rates to ensure commercial viability.
+  中文：总结：DYNA Robotics推出了DYNA 2. 1物理智能体，这是一款半人形机器人，旨在无需人工干预即可自主完成商业洗衣班次等复杂工作流程。 DYNA 2. 1部署在酒店、自助洗衣店和餐厅中，拥有带两条手臂的上半身、平行夹爪或灵巧手以及四个可转向的轮子。 该机器人由视觉语言协调器和全身控制器驱动，运行在经过数百万小时人类和机器人数据训练的DYNA 2世界动作模型之上。 它可以执行包括装卸洗衣机和烘干机、将毛巾折叠成叠以及自主纠正物理错误等任务。 该公司强调优化平均干预间隔时间（MTBI）而不是单次任务成功率，以确保商业可行性。
+  📰 [PR Newswire](https://www.prnewswire.com/news-releases/dyna-robotics-launches-dyna-2-1-physical-agent-a-semi-humanoid-robot-that-completes-full-workflows-such-as-a-commercial-laundry-shift-302892411.html)
+
+
+---
+※AI Robot News Digest | 2026.09.30 | full-text items: 20
