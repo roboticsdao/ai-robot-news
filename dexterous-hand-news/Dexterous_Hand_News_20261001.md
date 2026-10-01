@@ -1,0 +1,52 @@
+# 🖐 Dexterous Hand News | 2026.10.01（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.09.30] Unite.AI — AGILINK 机器人手臂进军苏州刺绣，出货量突破 15,000 台**
+  中文：总结：AGILINK 公司宣布其 OmniHand 3 Ultra 灵巧机器人手已由苏州刺绣传承人傅湘红教授基础刺绣技术，并展示了相关演示。 OmniHand 3 Ultra 具备 21 个主动自由度、全直驱结构及指尖触觉感知。 AGIBOT 副总裁兼 AGILINK CEO 乔天杰表示，单根丝线即可直观衡量该手部的指尖灵巧度。 旗舰直驱型号 OmniHand Ultra-M 拥有 20 个主动自由度，重 630 克，支持 3 千克稳定抓取有效载荷和 8 千克提升能力。 腱驱动型号 OmniHand Ultra-T 配备 22 个主动自由度及三自由度腕部。 AGILINK 于 2026 年 1 月从 AGIBOT 独立，出货量已突破 15,000 台，在 2026 年 8 月的世界类人机器人大赛中获得多枚奖牌。 公司在 2026 年 6 月完成第四轮融资后估值超过 10 亿美元，正将产能提升至每月 10,000 台，核心团队超过 60 人，计划在 2026 年第四季度扩大至超过 100 人。
+  📰 [Unite.AI](https://www.unite.ai/zh-cn/agilink-robot-hand-takes-up-suzhou-embroidery-as-shipments-pass-15-000/)
+
+- **[2026.09.30] Unite.AI — AGILINK Robot Hand Takes Up Suzhou Embroidery as Shipments Pass 15,000**
+  English: Chinese robotics company AGILINK announced on September 30, 2026, that its OmniHand 3 Ultra dexterous robot hand was taught foundational Suzhou embroidery techniques by master craftswoman Fu Xianghong. The company reported shipments of over 15,000 dexterous hands to date. Fu instructed the robotic hand to separate silk threads, thread a needle, stretch fabric on an embroidery hoop, and stitch. The OmniHand 3 Ultra features 21 active degrees of freedom, a fully direct-drive architecture, and vision-based tactile sensors at each fingertip, palm, and finger pads. Qiao Tianjie, Vice President of AGIBOT and CEO of AGILINK, stated that a single silk thread measures the fingertip dexterity. Flagship direct-drive model OmniHand Ultra-M weighs 630 grams with 20 active degrees of freedom, a 3-kilogram stable grasping payload, and an 8-kilogram lifting capacity. A tendon-driven model, OmniHand Ultra-T, has 22 active degrees of freedom plus a three-degree-of-freedom wrist and a 500-gram hand weight. Spun out from AGIBOT in January 2026, AGILINK won multiple medals at the World Humanoid Robot Games in August 2026 and achieved unicorn status with a valuation exceeding US$1 billion following its June 2026 funding round.
+  中文：总结：Chinese robotics company AGILINK announced on September 30, 2026, that its OmniHand 3 Ultra dexterous robot hand was taught foundational Suzhou embroidery techniques by master craftswoman Fu Xianghong. The company reported shipments of over 15,000 dexterous hands to date. Fu instructed the robotic hand to separate silk threads, thread a needle, stretch fabric on an embroidery hoop, and stitch. The OmniHand 3 Ultra features 21 active degrees of freedom, a fully direct-drive architecture, and vision-based tactile sensors at each fingertip, palm, and finger pads. Qiao Tianjie, Vice President of AGIBOT and CEO of AGILINK, stated that a single silk thread measures the fingertip dexterity. Flagship direct-drive model OmniHand Ultra-M weighs 630 grams with 20 active degrees of freedom, a 3-kilogram stable grasping payload, and an 8-kilogram lifting capacity. A tendon-driven model, OmniHand Ultra-T, has 22 active degrees of freedom plus a three-degree-of-freedom wrist and a 500-gram hand weight. Spun out from AGIBOT in January 2026, AGILINK won multiple medals at the World Humanoid Robot Games in August 2026 and achieved unicorn status with a valuation exceeding US$1 billion following its June 2026 funding round.
+  📰 [Unite.AI](https://www.unite.ai/agilink-robot-hand-takes-up-suzhou-embroidery-as-shipments-pass-15-000/)
+
+- **[2026.09.30] 搜狐网 — 临界点灵巧手OmniHand 3 Ultra挑战苏绣 OmniHand系列共交付超1.5万台**
+  中文：总结：专注于机器人灵巧操作的企业临界点表示，旗下最新旗舰全直驱灵巧手 OmniHand 3 Ultra “拜师” 苏绣非遗代表性传承人府向红，通过完成捻线、劈丝、穿针等苏绣基础工序，展现了国产灵巧手在柔性精密操作领域的最新进展。 宣传片中，府向红指导金属质感的灵巧手完成全套动作。 临界点表示，OmniHand 3 Ultra 采用全直驱硬件架构，指尖集成视触觉传感系统，结合强化学习算法持续优化，能边感知边调整动作轨迹。 截至 2026 年 9 月，OmniHand 系列灵巧手已累计交付超 1.5 万台，应用于工业、物流、服务等场景。 在第二届世界人形机器人运动会灵巧手专项赛中，临界点量产版 OmniHand 斩获 7 金 4 银 3 铜。
+  📰 [搜狐网](https://m.sohu.com/a/1082801102_120988576?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.09.30] 投资界 — 千年苏绣迎来机器人"学徒" 国产灵巧手挑战指尖上的非遗**
+  中文：总结：专注机器人灵巧操作的企业临界点发布主题宣传片，其旗舰全直驱灵巧手 OmniHand 3 Ultra “拜师” 苏绣非遗传承人府向红，完成了捻线、劈丝、穿针等苏绣基础工序。 苏绣劈丝和捻线工序极考验指尖分寸感，OmniHand 3 Ultra 逐一完成了全套动作。 企业介绍，该灵巧手采用全直驱硬件架构，指尖集成视触觉传感系统，结合强化学习算法持续优化，可边感知边调整动作轨迹。 临界点全称上海临界点创新智能科技有限公司，由智元机器人灵巧手业务分拆设立。 在第二届世界人形机器人运动会灵巧手专项赛中，其量产版 OmniHand 斩获 7 金 4 银 3 铜，8 个赛项全部登上领奖台。 截至 2026 年 9 月，OmniHand 系列灵巧手已累计交付超 1.5 万台。
+  📰 [投资界](https://news.pedaily.cn/202609/569817.shtml)
+
+- **[2026.09.30] 雷峰网 — 源升智能杨思成：具身模型能力突破之前，灵巧手要先卷性能｜物理AI 50人**
+  中文：总结：源升智能创始人杨思成曾任腾讯 Robotics X 实验室灵巧手项目总负责人，于 2024 年创立源升智能。 杨思成认为，灵巧手之于机器人就像兵刃之于剑术，卷参数的根本原因是为模型能力更快突破服务。 他提出灵巧手要成为相对通用的生产力工具，需在可靠性、灵巧性、负载能力、动态响应、触觉感知和精度六大维度均达到八九十分以上，其中可靠性排在首位。 源升智能自研了 Apex Hand 灵巧手，采用混合驱动方案，以绳驱为主，结合直驱和连杆传动，有 21 个自由度，最大单手主动负载 30 公斤。 在 2026 年 8 月的第二届世界人形机器人运动会上，举重、拔河重量级组别的金银铜牌队伍搭载的均是源升智能的 Apex Hand。 源升智能在 6 月份开始批量交付，并联合生态伙伴提供手加遥操作整套设备及触觉反馈方案。
+  📰 [雷峰网](https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html)
+
+- **[2026.09.29] FinancialContent — World Premiere: MirrorMe's Dexterous Hand VIVA Enables Real-Time Human-Robot Four-Hand Piano Duet; VIVA × CADA Milestone Unveiled**
+  English: MirrorMe unveiled its dexterous robotic hand VIVA on September 29, 2026, achieving a real-time human-robot four-hand piano duet. The company also announced the completion of the VIVA × CADA milestone, combining VIVA as the physical performer with CADA as the music embodied foundation model to enable composition, performance, and iterative learning. VIVA addresses the dexterity impossible triangle of power, speed, and dexterity by utilizing the world's first tendon-linkage hybrid transmission system. Tendon transmission relocates actuators proximally to reduce distal mass and increase finger speed, while rigid mechanical linkages preserve structural stiffness and force transfer. This architecture delivers joint speeds exceeding 1,000° per second and a peak fingertip force of 33 newtons. CADA, MirrorMe's self-developed music embodied foundation model, interprets natural-language prompts, crafts melodies, translates artistic expression into specific fingering and force commands, and establishes a continuous learning loop by comparing playback results against target references.
+  中文：总结：MirrorMe unveiled its dexterous robotic hand VIVA on September 29, 2026, achieving a real-time human-robot four-hand piano duet. The company also announced the completion of the VIVA × CADA milestone, combining VIVA as the physical performer with CADA as the music embodied foundation model to enable composition, performance, and iterative learning. VIVA addresses the dexterity impossible triangle of power, speed, and dexterity by utilizing the world's first tendon-linkage hybrid transmission system. Tendon transmission relocates actuators proximally to reduce distal mass and increase finger speed, while rigid mechanical linkages preserve structural stiffness and force transfer. This architecture delivers joint speeds exceeding 1,000° per second and a peak fingertip force of 33 newtons. CADA, MirrorMe's self-developed music embodied foundation model, interprets natural-language prompts, crafts melodies, translates artistic expression into specific fingering and force commands, and establishes a continuous learning loop by comparing playback results against target references.
+  📰 [FinancialContent](https://www.financialcontent.com/article/accwirecq-2026-9-29-world-premiere-mirrormes-dexterous-hand-viva-enables-real-time-human-robot-four-hand-piano-duet-viva-cada-milestone-unveiled)
+
+- **[2026.09.29] 搜狐网 — IROS 观察｜灵巧操作已是链路之争：Sharpa本体、灵巧手与数据手套三款新品集中发布！**
+  中文：总结：Sharpa 在匹兹堡 IROS 大会上同期展出人形机器人、灵巧手、外骨骼手套三套完整产品，旨在搭建端到端操作闭环。 本次发布的硬件包括：D01 人形机器人本体，采用 1:1 真人尺寸，手臂载荷自重比接近 1:1，末端最大运行速度超 10.5m/s，搭载球形腕关节与全身电子皮肤；W02 灵巧手，较上一代体积缩小 30%，防护等级 IP54，集成 21 个主动自由度，指尖搭载视觉触觉传感器，其余手指与手掌铺满电子皮肤；AE01 外骨骼手套，采用人手原生孪生设计，配备 22 个编码器提供 22 自由度输入，具备 256 级触觉反馈。 三者构成完整工作链路。 此外，Sharpa 联合 CFB 集团于 2026 年 8 月 29 日在上海吴江路 DQ 门店上线机器人制作暴风雪冰淇淋项目，无需改造原有设备，独立完成全部 55 道工序。
+  📰 [搜狐网](https://timeline.sohu.com/news/yTYVq6hJfH?from=news)
+
+- **[2026.09.29] PR Newswire — Sharpa Unveils Three Flagship Products: D01 Robot, W02 Dexterous Hand and AE01 Data Glove at IROS 2026**
+  English: Sharpa unveiled three flagship products at IROS 2026 on September 29, 2026: the D01 integrated robot, the W02 dexterous hand, and the AE01 haptic exoskeleton data glove. D01 features Sharpa Wave dexterous hands, seven-degree-of-freedom arms, whole-body electronic skin, an arm payload-to-weight ratio of approximately 1:1, a maximum end-effector speed exceeding 10.5 meters per second, a 1,000 Hz communication frequency, and 0.2-millimeter repeatability. W02 has 21 active degrees of freedom, weighs less than 750 grams, includes IP54 protection, and combines a fingertip Dynamic Tactile Array with electronic skin across fingers and palm. AE01 is a 22-degree-of-freedom data glove with 22 encoders, 256 levels of dynamic vibrotactile feedback at each fingertip, and fingertip position repeatability of less than 1 millimeter, requiring no user calibration. The lineup supports coordinated physical tasks, contact sensing and control, and human demonstration collection.
+  中文：总结：Sharpa unveiled three flagship products at IROS 2026 on September 29, 2026: the D01 integrated robot, the W02 dexterous hand, and the AE01 haptic exoskeleton data glove. D01 features Sharpa Wave dexterous hands, seven-degree-of-freedom arms, whole-body electronic skin, an arm payload-to-weight ratio of approximately 1:1, a maximum end-effector speed exceeding 10.5 meters per second, a 1,000 Hz communication frequency, and 0.2-millimeter repeatability. W02 has 21 active degrees of freedom, weighs less than 750 grams, includes IP54 protection, and combines a fingertip Dynamic Tactile Array with electronic skin across fingers and palm. AE01 is a 22-degree-of-freedom data glove with 22 encoders, 256 levels of dynamic vibrotactile feedback at each fingertip, and fingertip position repeatability of less than 1 millimeter, requiring no user calibration. The lineup supports coordinated physical tasks, contact sensing and control, and human demonstration collection.
+  📰 [PR Newswire](https://www.prnewswire.com/apac/news-releases/sharpa-unveils-three-flagship-products-d01-robot-w02-dexterous-hand-and-ae01-data-glove-at-iros-2026-302892155.html)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.01 | full-text items: 8
