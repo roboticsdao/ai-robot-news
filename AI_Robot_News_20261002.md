@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.02（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.02] finance.biggo.com — Boston Dynamics Unveils Four-Fingered Robot Hand for Atlas—From Drill Operation to Nut Fastening**
+  English: Hyundai Motor Group's robotics subsidiary, Boston Dynamics, unveiled its next-generation four-fingered robot hand for the humanoid robot Atlas on the 1st. The hand features 13 degrees of freedom across four fingers, including a thumb with four degrees of freedom and three fingers with three degrees each, achieving a human-like size with densely arranged pressure-based tactile sensors on the fingertips and palm. Alberto Rodriguez explained that the decision to omit the pinky followed an experiment where the development team worked with their pinkies tied down, concluding that four fingers are sufficient for precision industrial tasks like operating drills and fastening nuts. The development utilized a sim-to-real approach to train the robot in virtual environments.
+  中文：总结：现代汽车集团旗下机器人子公司波士顿动力于1日首次为人形机器人Atlas推出了新一代四指机器人手。 该机械手在四个手指上实现了总共13个自由度，包括一个拥有4个自由度的拇指以及其余三个各拥有3个自由度的手指，尺寸与人类手掌相仿，并在指尖和手掌密集排列了压力式触觉传感器。 Alberto Rodriguez解释称，选择四指而非五指的决定源于开发团队的一项实验，当时团队成员将小指绑住工作了一整天，最终得出结论：少一个手指完全可行。 该机械手能够执行钻孔和紧固螺母等精密工业任务，其开发采用了将虚拟环境训练成果应用到实体机器人的模拟到现实方法。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/dfce5eed-8adb-4558-9a92-6b2255db9952)
+
+- **[2026.10.02] The Robot Report — Boston Dynamics drops pinkie on new humanoid hand**
+  English: Boston Dynamics introduced the newest four-fingered hand for its Atlas humanoid, featuring 13 degrees of freedom, direct actuation, and a design geared toward mass manufacturing. Unlike previous versions with seven degrees of freedom focused on grasping, this hand prioritizes in-hand object manipulation, such as reorientation, slip recovery, and tool handling while pressing triggers. The choice to omit the pinky finger came after Chief Product and Technology Officer Zachary Jackowski asked the team to tape their pinky and ring fingers together for a day, leading them to agree that a fifth finger adds unnecessary complexity, size, and power consumption without sufficient benefit. The hand is covered with dense pressure tactile sensors on the fingertips and palm, supporting high-fidelity simulation and reinforcement learning.
+  中文：总结：波士顿动力为其Atlas人形机器人推出了最新的四指手，具备13个自由度、直接驱动设计，并专为大规模制造而打造。 与此前聚焦抓取的7自由度版本不同，这款新手更侧重于手内物体操作，例如重新定向、滑动恢复以及在按下扳手的同时操控工具。 决定去掉小指是在首席产品兼技术官Zachary Jackowski要求团队将小指和无名指绑在一起一天之后做出的，团队一致认为第五个手指会带来不必要的复杂性、尺寸和功耗，却没有带来足够的增益。 该机械手在指尖和手掌上覆盖了密集的压力触觉传感器，支持高保真仿真和强化学习。
+  📰 [The Robot Report](https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/)
+
+- **[2026.10.02] Yahoo Tech — Why Figure Melted Its Humanoid Robot Fleet By Making Them Leap Into a Furnace in Finland**
+  English: Figure decommissioned most of its F. 02 humanoid robot fleet by having them autonomously walk into a 75-ton electric arc furnace in Imatra, Finland, after finding that proprietary hardware generations are expensive to maintain and unsafe to recycle through standard channels. The stunt was inspired by Arnold Schwarzenegger, who suggested "You should melt them" and participated in the public farewell. Prior to the foundry drop, Figure trained the robots using simulations at its San Jose campus with stunt performers as references. The retirement clears the path for F. 03 and F. 04 development, while Figure reported that its Helix 2. 5 software achieved a 56% task success rate across 30 rented Bay Area homes without on-site fine-tuning.
+  中文：总结：Figure将其大部分F. 02人形机器人机队退役，让机器人在芬兰伊马特拉的一座75吨电弧炉中自主走入炉内熔化，此前该公司发现专有硬件世代维护成本高昂且不适合通过普通渠道回收。 这一举动受到了阿诺·施瓦辛格的启发，他曾建议“把它们熔掉”并参与了公开告别。 在送往铸造厂之前，Figure在圣何塞园区借助特技演员作为参考开展了模拟训练。 此次退役为F. 03和F. 04的开发腾出了资源，同时Figure报告称其Helix 2. 5软件在湾区30个未曾到访的出租房屋中实现了56%的任务成功率，且无需现场微调。
+  📰 [Yahoo Tech](https://tech.yahoo.com/ai/meta-ai/articles/why-figure-melted-humanoid-robot-150218197.html)
+
+- **[2026.10.01] AI Insider — Agility Robotics & Fort Robotics Expand Partnership For Humanoid Robot Safety**
+  English: Agility Robotics and Fort Robotics expanded their multiyear partnership to co-develop a three-part safety architecture for Digit 5, moving Fort beyond its previous role as a component supplier. The newly established architecture includes a safety pendant for emergency-stop and enabling-device controls, on-board communications, and an off-robot interface called the Offboard Safety Bridge that connects Digit with external safety systems. The partnership coincides with Fort's pursuit of a merger with Newbury Street II Acquisition Corp. valuing it at about $556. 6 million, alongside Agility's separate advancement of its $2. 5 billion merger with Churchill Capital Corp XI, as Digit 5 prepares for broader commercial deployment across customer sites where previous versions have logged over 65,000 operating hours.
+  中文：总结：Agility Robotics与Fort Robotics扩大了其多年期合作伙伴关系，将共同为Digit 5开发三部分安全架构，这使Fort超越了以往作为零部件供应商的角色。 新建立的架构包括用于急停和使能设备控制的安全挂件、机载通信系统，以及将Digit与外部安全系统相连接的场外安全桥（Offboard Safety Bridge）离线接口。 此次合作正值Fort推进与Newbury Street II Acquisition Corp. 的合并（估值约5. 566亿美元），而Agility也正独立推进其与Churchill Capital Corp XI价值25亿美元的合并，同时Digit 5正准备在前期版本已累计运行超过65,000小时的客户现场实现更广泛的商业部署。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/01/agility-robotics-fort-robotics-expand-partnership-for-humanoid-robot-safety/)
+
+- **[2026.09.30] The Business Times — Tesla lines up US$30 billion to borrow with AI, robotics investments to rise**
+  English: Tesla has secured $30 billion in new loans and credit lines to increase investments in artificial intelligence and robotics, driven by CEO Elon Musk's push to transform the company into a humanoid robot and AI leader. The financing package consists of a $20 billion term loan for future drawdowns, an $8 billion five-year line of credit, and a $2 billion one-year line of credit, which together replace a previous $5 billion line of credit maturing in January 2028. Citigroup acts as administrative agent for the term loan, while Wells Fargo serves as administrative agent for the credit lines. Tesla stated it has no current plans to draw on these facilities in 2026, while planning capital expenditures exceeding $25 billion in 2026 to expand factory operations and its Cybercab robotaxi fleet.
+  中文：总结：特斯拉已筹集了300亿美元的新贷款和信贷额度，以加大在人工智能和机器人领域的投资，此举由首席执行官埃隆·马斯克推动，旨在将这家电动汽车制造商转型为人形机器人和人工智能领域的领导者。 该融资方案包括一笔可在未来提取的200亿美元定期贷款、一项80亿美元的五年期信贷额度以及一项$20 billion的一年期信贷额度，这些设施取代了此前将于2028年1月到期的50亿美元信贷额度。 花旗集团担任该定期贷款的行政代理人，富国银行则担任信贷额度的行政代理人。 特斯拉在申报文件中表示，目前没有计划在2026年提取任何这些资金，同时计划在2026年投入超过$25 billion的资本支出，用于扩大工厂运营和Cybercab无人驾驶出租车车队。
+  📰 [The Business Times](https://www.businesstimes.com.sg/companies-markets/tesla-lines-us30-billion-borrow-ai-robotics-investments-rise)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.02] 搜狐网 — 艾媒鼎榜 | 2026年中国商用服务机器人10强**
+  中文：总结：艾媒鼎榜发布了2026年中国商用服务机器人10强榜单，标志着机器人产业正迎来从技术展示向价值交付和实际作业的关键转折点。 国家发展改革委政策研究室副主任李超详细阐述了以具身智能实训场、国家人工智能应用中试基地为抓手，以高质量真机数据、模型攻关和统一标准体系为支撑的政策路径，以推动行业健康有序发展。 作为该举措的一部分，“2026年中国机器人整机企业百强榜”通过专属评估体系和公开数据，对具身智能机器人、工业机器人、商用服务机器人、农业机器人等十三个赛道进行了规范化和标准化评估。
+  📰 [搜狐网](https://m.sohu.com/a/1082774641_120536144?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.02] chinanews.com.cn — 让机器人“能干活” 具身智能从“中国量产”走向“全球落地”**
+  中文：总结：2026IEEE/RSJ智能机器人与系统国际会议（IROS 2026）在美国匹兹堡举行，集中展示了中国的机器人创新成果。 在足式机器人挑战赛上，新加坡南洋理工大学战队携“智身铜锤M1”四足机器人斩获冠军，延续了上一届曼彻斯特大学使用“智身钢镚L1”夺冠的纪录。 智身科技的L2系列四足机器人实现了全面升级，搭载“一体双脑”架构，具备更强的扭矩与宽温适应能力。 今年上半年全球人形机器人出货量约1. 91万台，中国占比超过97%。 智身科技累计量产具身智能机器人突破15000台，广泛应用于电力、石化和应急等行业，近期完成数亿元人民币B轮融资并启动了向研究人员开放千台真机的“万有引力”计划。
+  📰 [chinanews.com.cn](https://www.chinanews.com.cn/cj/2026/10-02/10707009.shtml)
+
+- **[2026.10.02] 证券之星 — 机器人（300024）竞品动态：本末科技获4.72亿元港币基石轮投资_公司新闻**
+  中文：总结：本末动力(北京)科技股份有限公司于2026年9月21日获得由东莞科创和北京金财跟投的4. 72亿元港币基石轮融资，投后估值达到80. 00亿元港币。 该公司成立于2020年3月，是一家以直驱技术为核心的机器人技术公司，业务聚焦于消费机器人动力模组及轮足与双轮足机器人行业。 根据弗若斯特沙利文数据，按2025年收入计算，本末科技在中国消费机器人直驱动力模组行业以61. 1%的市场份额排名第一，在双轮足机器人行业以18. 6%的市场份额排名第二，并在2025年10月推出了全球首款商业化双轮足机器人D1。 此前该公司已完成多轮融资，包括2026年1月获得1. 85亿元人民币的C轮融资。
+  📰 [证券之星](http://stock.stockstar.com/RB2026100200000027.shtml)
+
+- **[2026.10.02] 新浪财经 — 宇树G1机器人上岗西南首个机器人营业厅亮相成都（附图片）|宇树科技|成都市|四川省|子公司|宽带_手机新浪网**
+  中文：总结：宇树G1机器人“小督”正式上岗中国移动四川成都分公司提督街营业厅，成为西南首个机器人营业厅。 该项目由宇树科技、中国移动四川成都分公司以及成都兴锦场景商业投资服务集团有限责任公司三方联合打造，依托宇树科技全资子公司在成都落地的契机展开。 “小督”能够使用中英文承担迎宾接待、引导排号、基础业务问询以及营业厅讲解等工作。 这一应用场景验证了传统通信营业厅向科技孵化器转型的可行性，并计划利用日常服务中积累的客户与咨询数据持续优化机器人的对话模型和业务知识库。
+  📰 [新浪财经](https://finance.sina.cn/2026-10-01/detail-initsyai2091431.d.html?vt=4)
+
+- **[2026.10.01] thepaper.cn — 全球人形机器人上半年出货激增432%，中国占比近80%，智元出货量超越宇树登顶**
+  中文：总结：2026年上半年全球人形机器人市场迎来爆发式增长，出货量同比激增272%至432%。 根据IDC统计，中国约占全球出货量的77. 9%，而SAG数据显示中国制造商贡献了超过97%的份额，全球出货量接近2. 5万台，中国市场超过1. 9万台。 市场竞争格局发生重大变化，按出货量计算，智元机器人（Agibot）首次超越宇树科技登顶全球第一，智元上半年出货量超过8600台，宇树则达到约5900台。 应用领域迅速从科研教育扩展到制造、物流等工业场景以及消费级个人陪伴市场，受益于政策支持和完善的供应链生态系统。
+  📰 [thepaper.cn](https://www.thepaper.cn/newsDetail_forward_34185305)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.02] prtimes.jp — JQA、生活支援ロボット分野で国内初となるJIS B 8445認証書を発行**
+  日本語：The Japan Quality Assurance Organization (JQA) issued Japan's first JIS mark certification in the service robotics sector to Mitsubishi Electric Mobility's hospital transport robot 'MELDY' on October 1, 2026, following evaluations under JIS B 8445 for safety requirements of personal care robots. The JIS B 8445 standard aligns with the international ISO 13482 standard, covering mobile servant robots, physical assistant robots, and person carrier robots. JQA reviewed both safety conformity and the manufacturer's quality control systems, marking a milestone for third-party safety certification to enhance user trust and support the social implementation of robots. Mitsubishi Electric Mobility was established in April 2024 as an independent spin-off of Mitsubishi Electric's automotive equipment division.
+  中文：总结：日本质量保证机构（JQA）于2026年10月1日向三菱电机的医疗搬送机器人“MELDY”颁发了日本生活支援机器人领域的首张JIS B 8445（生活支援机器人的安全要求事项）JIS标志认证证书。 JIS B 8445标准与国际标准ISO 13482相一致，涵盖移动服务机器人、身体辅助机器人和载人机器人。 JQA对该机器人的安全要求符合性及制造商的质量管理体系进行了审查，这是生活支援机器人领域的首个第三方安全认证。 三菱电机莫比リティ株式会社是由三菱电机汽车设备部门于2024年4月分社独立后成立的业务公司。
+  📰 [prtimes.jp](https://prtimes.jp/main/html/rd/p/000000466.000003627.html)
+
+- **[2026.10.02] t.co — 【日本初】エヌビディア責任者に聞く安全の新常識、工場のAIロボット事故はどう防ぐ？**
+  日本語：Nvidia expanded its 'Halos' framework to the robotics sector in June 2026 to address the safety challenges of AI-enabled robots operating in shared spaces with humans, where traditional distinct safety barriers are insufficient. Riccardo Mariani, who leads the Halos initiative at Nvidia, explained that unlike conventional industrial robots with fixed boundaries, autonomous mobile robots and humanoids combine AI reasoning and functional safety into a unified architecture. Halos integrates semiconductors, operating systems, AI monitoring, simulation, and third-party inspection spanning three core dimensions: system design, active operation, and validation through simulations and physical tests to ensure safety functions operate reliably during anomalies.
+  中文：总结：英伟达于2026年6月将其“Halos”框架扩展至机器人领域，以应对AI赋能机器人与人类共享空间时面临的安全挑战，因为传统的独立安全边界在此时已不再适用。 英伟达负责Halos项目的Riccardo Mariani解释称，与动线固定的传统工业机器人不同，自主移动机器人和人形机器人将AI推理与功能安全融为一体。 Halos将半导体、操作系统、AI监控、仿真以及第三方检测相结合，贯穿系统设计、运行监控以及通过仿真和实机测试进行验证这三个核心维度，以确保机器人在发生异常时能可靠触发安全功能。
+  📰 [t.co](https://t.co/31CEVDSBUQ)
+
+- **[2026.10.01] マイナビニュース — 産業用ロボットが現場で学習、日立とファナックが「フィジカルAI」を2027年度に事業化へ | TECH+（テックプラス）**
+  日本語：Hitachi and Fanuc signed a strategic partnership on September 30, 2026, to jointly commercialize physical AI implementation starting in fiscal 2027 for global customers in sectors such as semiconductors, pharmaceuticals, and automotive. Using Hitachi's Ibaraki plant as a 'customer zero' testing site, the partnership combines Hitachi's HMAX Industry AI solutions and edge AI semiconductors with Fanuc's AI-equipped industrial robots. The initiative aims to move beyond static automation by allowing robots to continuously learn and optimize operations—such as complex bin-picking and production line changeovers—directly on the factory floor, thereby reducing reliance on human labor and skilled workers.
+  中文：总结：日立制作所与发那科于2026年9月30日签署了战略伙伴关系协议，计划自2027年度起在半导体、医药、汽车等全球客户群体中共同商业化推广フィジカルAI（物理AI）。 该合作将日立的“HMAX Industry”AI解决方案及边缘AI半导体与发那科的工业机器人技术相结合，并以日立的茨城地区工厂作为“零号客户”测试基地。 此举旨在超越传统的固定式自动化，使机器人能够在实际制造现场通过持续学习和适应来优化零件抓取和产线换型等作业，从而解决劳动力短缺和技能传承等制造业课题。
+  📰 [マイナビニュース](https://news.mynavi.jp/techplus/article/20261001-5052483/)
+
+- **[2026.10.01] innovations-i.com — 現場発「ものづくりイノベーション」最前線：第13回ソニー「aibo」開発チームに聞く⑤人とロボットが紡ぐ「かけがえのない物語」**
+  日本語：Sony's aibo development team, led by AI robotics design head Takuma Morita and product planner Yuko Giga, discussed the core philosophy behind the 'ERS-1000' model and its new 'aibo no omoide' (aibo memories) feature introduced in March. The smartphone app feature uses generative AI to send daily photo diary messages from the robot's perspective, capturing spontaneous everyday moments with owners and their families to transform routine life into shared memories. Morita emphasized that creating emotional connections and mutual affection through such interactions is central to aibo's purpose, often breaking down emotional barriers and fostering genuine empathy akin to living pets.
+  中文：总结：索尼aibo开发团队的AI机器人设计部统括部长森田拓磨和产品策划仪我有子介绍了“ERS-1000”机型及其在3月引入的“aibo的记忆”新功能背后的核心理念。 该智能手机应用功能利用生成式人工智能，以机器人的视角发送日常照片日记信息，记录与主人及其家人相处时的 spontaneious 日常瞬间，将平凡生活转化为共同的回忆。 森田强调，通过此类互动建立情感联系和相互喜爱是aibo存在的核心意义，它往往能打破人类的心灵壁垒，培养出类似于活体宠物般的真挚情感。
+  📰 [innovations-i.com](https://www.innovations-i.com/column/monozukuri/13.html)
+
+- **[2026.09.30] ドリームニュース — 日本のAIロボットビジョン市場：AIを活用した品質検査とロボット自動化が次世代ビジョンソリューションの導入を加速**
+  日本語：Japan's AI robot vision market is expanding as manufacturers combine industrial robots with AI, computer vision, 3D recognition, tactile sensing, and physical AI technologies to address severe labor shortages. According to a Reuters/Nikkei Research survey published in May 2026, one-third of surveyed Japanese companies have implemented, plan to implement, or are considering AI-enabled robots, with manufacturing leading adoption. Furthermore, initiatives like AIST's participation in NEDO's FRONTia project, launched in July 2026, are developing domestic multimodal foundational models for physical AI, greatly enhancing robot capabilities in bin-picking, assembly, and quality inspection across automotive and semiconductor sectors.
+  中文：总结：随着日本制造企业将工业机器人与人工智能、计算机视觉、3D识别、触觉传感和物理AI技术相结合以应对严重的劳动力短缺，日本的AI机器人视觉市场正在快速发展。 根据路透社/日经研究社2026年5月公布的一项调查，三分之一受访日本企业已经或计划引入AI搭载机器人，其中制造业为最大应用领域。 此外，产业技术综合研究所（AIST）于2026年7月宣布启动NEDO的FRONTia项目，致力于开发面向物理AI的国产多模态基础模型，显著提升了机器人在汽车和半导体等行业的零件抓取、组装和质量检查等任务中的视觉能力。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000363937)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.02] NBC News — Could humanoid robot soldiers be on the horizon?**
+  English: NBC News reported on various technology and artificial intelligence developments, including a California Attorney General subpoena issued to OpenAI regarding cybersecurity risks, upcoming visits by tech leaders to meet with Donald Trump to discuss AI safety, and the launch of NASA and SpaceX's Crew-13 mission to the International Space Station. The broadcast also covered discussions on China's AI ambitions, Meta CEO Mark Zuckerberg's family use of AI and audio-only glasses, and growing interest in trade schools as Gen Z addresses the impact of AI on white-collar jobs.
+  中文：总结：美国全国广播公司新闻（NBC News）报道了多项科技与人工智能发展动态，其中包括加州总检察长向OpenAI就网络安全风险发出传票、科技领袖将与唐纳德·特朗普会面讨论AI安全，以及美国宇航局和太空探索技术公司发射前往国际空间站的Crew-13任务。 广播还涵盖了关于中国AI雄心、Meta首席执行官马克·扎克伯格对其家人使用AI及纯音频眼镜的看法，以及Z世代在面对AI对白领工作的影响时对职业学校兴趣日益增加的相关讨论。
+  📰 [NBC News](https://www.nbcnews.com/video/could-humanoid-robot-soldiers-be-on-the-horizon-270862405957)
+
+- **[2026.10.01] ARC Advisory Group — Agility Robotics Advances Industrial Humanoids with Digit 5**
+  English: Agility Robotics unveiled Digit 5, its latest humanoid robot featuring major upgrades in safety, payload capacity, runtime, and task flexibility, building upon over 65,000 operational hours logged across commercial customer sites like GXO, Schaeffler, Amazon, and Toyota Motor Manufacturing Canada. Designed for 'cooperatively safe' operations, Digit 5 incorporates a safety architecture with human detection, sensory cues, and an independent safety controller to work alongside humans without requiring physical barriers. Agility envisions the robot expanding beyond tote handling into facility workflows such as depalletizing, machine tending, kitting, quality inspection, and palletizing, supported by physical AI fleet management strategies.
+  中文：总结：Agility Robotics发布了最新一代人形机器人Digit 5，在安全性、负载能力、运行时间和任务灵活性方面进行了重大升级，这建立在GXO、舍弗勒、亚马逊和加拿大丰田汽车制造厂等商业客户现场累计超过65,000小时的运行经验之上。 Digit 5专为“协作安全”作业而设计，融合了包含人体检测、感官提示和独立安全控制器的安全架构，使其能够在无需物理隔离栏的情况下与人类共同工作。 Agility设想该机器人能够超越物料搬运，扩展至拆垛、机床看管、配料排序、质量检查和码垛等全厂工作流，并通过物理AI车队管理策略予以支持。
+  📰 [ARC Advisory Group](https://www.arcweb.com/blog/agility-robotics-advances-industrial-humanoids-digit-5)
+
+- **[2026.10.02] AI Insider — Figure AI Retires Humanoid Robot Fleet by Having Them Jump Into Vat of Molten Steel**
+  English: Figure AI retired most of its Figure 02 humanoid robot fleet by having them autonomously jump into a 75-ton electric arc furnace in Imatra, Finland, to securely destroy proprietary hardware containing lithium-ion batteries. The stunt was inspired by Arnold Schwarzenegger's suggestion to 'melt them' in response to CEO Brett Adock's X post, with Schwarzenegger later participating in the public farewell. Prior to shipping the robots, Figure trained them at its San Jose campus using stunt performers as references to develop a simulation-trained AI model allowing the robots to jump accurately into molten steel. The resulting metal was returned to the U. S. to be machined into limited commemorative artifacts.
+  中文：总结：Figure AI通过让其大部分Figure 02人形机器人自主跳入芬兰伊马特拉的一座75吨电弧炉中，将其安全退役并销毁了包含锂离子电池的专有硬件。 这一特技灵感源于阿诺·施瓦辛格对首席执行官布雷特·阿多克X平台帖子的回应“把它们熔掉”，施瓦辛格随后也参与了公开告别。 在运送机器人之前，Figure在圣何塞园区利用特技演员作为参考进行训练，开发出一个模拟训练AI模型，使机器能够准确跳入钢水之中。 熔化后的金属被运回美国，并被加工成限量的纪念工艺品。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/01/figure-ai-retires-humanoid-robot-fleet-by-having-them-jump-into-a-vat-of-molten-steel/)
+
+- **[2026.10.02] The Robot Report — Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026**
+  English: Vishay Precision Group (VPG) announced it will showcase its custom force and torque sensing solutions at RoboBusiness 2026, addressing the mechanical, thermal, and electrical challenges of humanoid robots operating in unpredictable environments. While advanced vision systems handle overall perception, VPG emphasizes that accurate physical feedback from force sensors is critical for maintaining joint torque, balance, grip strength, and contact pressure. VPG designs custom strain gage-based sensors integrated directly into the robot's structure to provide precise analog or digital signals for miniature tactile sensors, multi-axis force sensors, and joint torque sensors without the sizing and wiring limitations of off-the-shelf components.
+  中文：总结：威世精密集团（VPG）宣布将在RoboBusiness 2026上展示其定制的力与扭矩传感解决方案，以应对人形机器人在不可预测环境中运行时面临的机械、热学和电气挑战。 VPG强调，尽管先进的视觉系统负责整体感知，但来自力传感器的精确物理反馈对于维持关节扭矩、平衡、抓握力和接触压力至关重要。 VPG设计了直接集成到机器人结构中的定制应变片传感器，为微型触控传感器、多轴力传感器和关节扭矩传感器提供精确的模拟或数字信号，克服了现成零部件在尺寸和布线方面的局限性。
+  📰 [The Robot Report](https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/)
+
+- **[2026.09.30] Trend Hunter — Public Robotic Attractions: AgiBot Sends 300 Humanoids to Mingle With Theme Park Crowds**
+  English: AgiBot has deployed a fleet of over 300 autonomous humanoid robots across Chimelong Spaceship Park in China, allowing them to mingle with visitors, answer questions, and perform tasks in unscripted public environments rather than behind barriers. The robots operate on Agibot's 'three intelligences in one' architecture, combining movement, interaction, and manipulation, and are coordinated via a low-latency 5G-Advanced network. This large-scale deployment demonstrates the ability of networked humanoid fleets to serve as shared infrastructure across entertainment destinations and hospitality venues, setting a new benchmark for visitor-facing robotics.
+  中文：总结：智元机器人（AgiBot）在中国长隆飞船乐园部署了300多台自主人形机器人，让它们在无须隔离栏的非脚本化公共环境中穿梭于游客之间、回答问题并执行任务。 这些机器人运行于智元“三智合一”的架构上，将移动、交互和操作集于一身，并通过低延迟的5G-Advanced网络进行协同。 这一大规模部署展示了联网人形机器人车队作为娱乐和酒店场所共享基础设施的能力，为面向游客的服务型机器人树立了新的基准。
+  📰 [Trend Hunter](https://www.trendhunter.com/trends/public-robotic-attractions)
+
+
+---
+※AI Robot News Digest | 2026.10.02 | full-text items: 20
