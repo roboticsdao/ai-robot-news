@@ -8,6 +8,7 @@ from pathlib import Path
 from article_summaries import (
     deduplicate_summaries,
     enrich_articles,
+    fetch_rss_bytes,
     remove_repeated_summary_sentences,
     summarize_articles,
     summary_quality_issues,
@@ -375,6 +376,8 @@ def digest_quality_issues(text):
         lang_a = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_a) else "en"
         norm_a = re.sub(r"\s+", "", summary_a).lower()
         for title_b, summary_b in records[i + 1:]:
+            if title_a == title_b:
+                continue
             lang_b = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_b) else "en"
             if lang_a != lang_b:
                 continue
@@ -456,8 +459,7 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None, window_days=PRIMARY
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:
-            with urllib.request.urlopen(req, timeout=25) as response:
-                xml = response.read()
+            xml = fetch_rss_bytes(req)
         except Exception as ex:
             print(f"   RSS query failed: {query[:70]}... ({ex})")
             continue
@@ -480,8 +482,7 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None, window_days=PRIMARY
                 dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
                 date = dt.strftime("%Y.%m.%d")
             except Exception:
-                dt = TODAY
-                date = DATE_STR
+                continue
             window_cutoff = (TODAY - timedelta(days=window_days)).date()
             if parse_item_date(date) < window_cutoff:
                 continue

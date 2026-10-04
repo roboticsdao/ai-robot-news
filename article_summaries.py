@@ -1,8 +1,9 @@
 import json
 import re
-import subprocess
-import sys
 import time
+from difflib import SequenceMatcher
+import urllib.error
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -16,17 +17,35 @@ FORBIDDEN_ANALYSIS = (
 
 def _ensure_article_dependencies():
     try:
-        import googlenewsdecoder  # noqa: F401
-        import trafilatura  # noqa: F401
-    except ImportError:
-        subprocess.run(
-            [sys.executable, "-m", "pip", "install", "googlenewsdecoder==0.1.7", "trafilatura==2.2.0"],
-            check=True,
-        )
+        from googlenewsdecoder import gnewsdecoder  # noqa: F401
+        from selectolax.parser import HTMLParser
+        from trafilatura import extract  # noqa: F401
+        HTMLParser("<p>dependency check</p>")
+    except (ImportError, RuntimeError, ValueError) as exc:
+        raise RuntimeError(
+            "Article parser dependencies are incompatible. "
+            "Run: python -m pip install -r requirements.txt"
+        ) from exc
+
+
+def fetch_rss_bytes(request):
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=15) as response:
+                return response.read()
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
+                raise
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise
+        print(f"   RSS temporarily unavailable; retry {attempt + 2}/3")
+        time.sleep(2 ** (attempt + 1))
 
 
 def _clean(value):
-    return re.sub(r"\s+", " ", value or "").strip()
+    clean = re.sub(r"\s+", " ", value or "").strip()
+    return re.sub(r"(?<=\d)\.\s+(?=\d)", ".", clean)
 
 
 def _extractive_summary(text, limit=520):
@@ -190,14 +209,14 @@ def repair_legacy_unit_corruption(value):
     return repaired
 
 
-def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
+def _summarize_batch(items, api_key, model="gemini-3.5-flash-lite"):
     if not items:
         return []
     if api_key:
         from google import genai
         from google.genai import types
 
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=120000))
         prompt = _summary_prompt(items)
         for attempt in range(2):
             try:
@@ -206,6 +225,19 @@ def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
                     contents=prompt,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json",
+                        response_schema={
+                            "type": "ARRAY",
+                            "items": {
+                                "type": "OBJECT",
+                                "properties": {
+                                    "id": {"type": "STRING"},
+                                    "local_summary": {"type": "STRING"},
+                                    "zh_summary": {"type": "STRING"},
+                                },
+                                "required": ["id", "local_summary", "zh_summary"],
+                            },
+                        },
+                        max_output_tokens=8192,
                     ),
                 )
                 rows = {str(row.get("id")): row for row in _parse_json_array(response.text or "")}
@@ -229,10 +261,18 @@ def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
     completed = []
     for item in items:
         current = dict(item)
-        local = _extractive_summary(item.get("article_text", ""))
+        local = _extractive_summary(_sanitize_summary(item.get("article_text", "")))
         current["local_summary"] = local
         current["zh_summary"] = local if item.get("summary_language") == "Chinese" else ""
         completed.append(current)
+    return completed
+
+
+def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
+    completed = []
+    # Short batches avoid truncated JSON; one failing batch cannot discard others.
+    for start in range(0, len(items), 5):
+        completed.extend(_summarize_batch(items[start:start + 5], api_key, model))
     return completed
 
 
@@ -252,3 +292,77 @@ def summary_quality_issues(items):
                 issues.append(f"duplicate summary in {seen[normalized]} and {item.get('headline')}")
             seen[normalized] = item.get("headline")
     return issues
+
+
+def deduplicate_summaries(items):
+    """Drop later items whose generated body repeats an earlier article body."""
+    kept = []
+    removed = []
+    seen = {}
+    for item in items:
+        duplicate_of = None
+        normalized_values = []
+        for field in ("local_summary", "zh_summary"):
+            value = _clean(item.get(field, ""))
+            if not value:
+                continue
+            normalized = re.sub(r"\W+", "", value.lower())
+            for known, owner in seen.items():
+                if normalized == known or SequenceMatcher(None, normalized, known).ratio() >= 0.88:
+                    duplicate_of = owner
+                    break
+            if duplicate_of:
+                break
+            normalized_values.append(normalized)
+        if duplicate_of:
+            removed.append(f"{item.get('headline', '')} (same as {duplicate_of})")
+            continue
+        kept.append(item)
+        for normalized in normalized_values:
+            seen[normalized] = item.get("headline", "")
+    return kept, removed
+
+
+def remove_repeated_summary_sentences(items, min_sentence_chars=45):
+    """Remove syndicated sentences while preserving each article's unique facts."""
+    kept = []
+    removed = []
+    sentence_owner = {}
+    for item in items:
+        current = dict(item)
+        updates = {}
+        item_removed = []
+        too_short = False
+        for field in ("local_summary", "zh_summary"):
+            original = _clean(item.get(field, ""))
+            if not original:
+                continue
+            sentences = re.split(r"(?<=[.!?。！？])\s*", original)
+            unique = []
+            for sentence in sentences:
+                sentence = _clean(sentence)
+                if not sentence:
+                    continue
+                key = sentence.lower()
+                owner = sentence_owner.get(key) if len(key) >= min_sentence_chars else None
+                if owner and owner != item.get("headline"):
+                    item_removed.append(f"{field} sentence also used by {owner}")
+                    continue
+                unique.append(sentence)
+            cleaned = _clean(" ".join(unique))
+            if len(cleaned) < 40:
+                too_short = True
+                break
+            updates[field] = cleaned
+        if too_short:
+            removed.append(f"dropped {item.get('headline', '')} after duplicate-sentence removal")
+            continue
+        current.update(updates)
+        kept.append(current)
+        removed.extend(f"{item.get('headline', '')}: {detail}" for detail in item_removed)
+        for field in ("local_summary", "zh_summary"):
+            for sentence in re.split(r"(?<=[.!?。！？])\s*", _clean(current.get(field, ""))):
+                sentence = _clean(sentence)
+                if len(sentence) >= min_sentence_chars:
+                    sentence_owner.setdefault(sentence.lower(), item.get("headline", ""))
+    return kept, removed

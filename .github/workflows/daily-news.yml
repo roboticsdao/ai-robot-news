@@ -7,16 +7,25 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: daily-news-publish
+  cancel-in-progress: false
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
-      - run: pip install google-genai
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Test
+        run: python -m unittest discover -s . -v
       - name: Setup git
         run: |
           git config user.name "AI Robot News Bot"
@@ -24,9 +33,9 @@ jobs:
       - name: Generate
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python ai_robot_news_automation.py
+        run: python -u ai_robot_news_automation.py
       - name: Push
         run: |
-          git add latest.html *.html *.md history.json || true
+          git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md history.json
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
-          git push
+          bash .github/scripts/push-generated.sh

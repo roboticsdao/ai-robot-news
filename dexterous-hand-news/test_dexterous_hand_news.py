@@ -1,9 +1,19 @@
 import unittest
 
-from dexterous_hand_news import DATE_STR, has_required_content, is_relevant_robotics_item, md_to_html
+from dexterous_hand_news import DATE_STR, digest_quality_issues, has_required_content, is_relevant_robotics_item, md_to_html
 
 
 class DexterousHandNewsTests(unittest.TestCase):
+    def test_same_story_bilingual_summary_is_not_a_duplicate(self):
+        body = "Honda released new robot hands for a space station experiment with twelve sensors and a precision arm."
+        digest = f"- **[{DATE_STR}] Honda experiment**\n  English: {body}\n  中文：总结：{body}"
+        self.assertEqual([], digest_quality_issues(digest))
+
+    def test_repeated_text_in_separate_stories_is_still_rejected(self):
+        body = "Honda released new robot hands for a space station experiment with twelve sensors and a precision arm."
+        digest = "\n".join(f"- **[{DATE_STR}] {title}**\n  English: {body}" for title in ("First news", "Second news"))
+        self.assertTrue(digest_quality_issues(digest))
+
     def test_relevance_accepts_dexterous_hand_topic(self):
         region = {"emoji": "🔬"}
         self.assertTrue(is_relevant_robotics_item(region, "New tactile sensor improves dexterous robot hand manipulation"))

@@ -5,7 +5,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from article_summaries import enrich_articles, summarize_articles, summary_quality_issues
+from article_summaries import deduplicate_summaries, enrich_articles, fetch_rss_bytes, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
 
 LOCAL_TZ = timezone(timedelta(hours=9))
 TODAY = datetime.now(LOCAL_TZ)
@@ -416,6 +416,8 @@ def digest_quality_issues(text):
         lang_a = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_a) else "en"
         norm_a = re.sub(r"\s+", "", summary_a).lower()
         for title_b, summary_b in records[i + 1:]:
+            if title_a == title_b:
+                continue
             lang_b = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_b) else "en"
             if lang_a != lang_b:
                 continue
@@ -496,8 +498,7 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None):
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:
-            with urllib.request.urlopen(req, timeout=25) as response:
-                xml = response.read()
+            xml = fetch_rss_bytes(req)
         except Exception as ex:
             print(f"   RSS query failed: {query[:70]}... ({ex})")
             continue
@@ -520,8 +521,7 @@ def fetch_rss_items(region, limit=5, exclude_headlines=None):
                 dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
                 date = dt.strftime("%Y.%m.%d")
             except Exception:
-                dt = TODAY
-                date = DATE_STR
+                continue
             if parse_item_date(date) < CUTOFF_DATE:
                 continue
             items.append({"date": date, "headline": headline, "source": source, "link": link, "dt": dt})
@@ -747,7 +747,8 @@ def generate_digest_from_rss():
             for item in candidates:
                 item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
                 item["region_label"] = region["label"]
-            items = enrich_articles(candidates)[:target]
+            items = enrich_articles(candidates)[:target + 2]
+            print(f"   Readable full-text items: {len(items)}")
         except Exception as e:
             print(f"   Article fetch error for {region['label']}: {e}")
             items = []
@@ -756,6 +757,10 @@ def generate_digest_from_rss():
 
     flat_items = [item for _, items in grouped_items for item in items]
     summarized = summarize_articles(flat_items, GEMINI_API_KEY)
+    summarized, removed = deduplicate_summaries(summarized)
+    summarized, sentence_repairs = remove_repeated_summary_sentences(summarized)
+    if removed or sentence_repairs:
+        print(f"   Removed {len(removed)} duplicate articles; repaired {len(sentence_repairs)} repeated sentences")
     issues = summary_quality_issues(summarized)
     if issues:
         raise RuntimeError("; ".join(issues[:5]))
@@ -765,7 +770,7 @@ def generate_digest_from_rss():
 
     total = 0
     for region, _ in grouped_items:
-        items = summarized_by_region.get(region["label"], [])
+        items = summarized_by_region.get(region["label"], [])[:region.get("min_items", 5)]
         parts.append(f"\n## {region['emoji']} {region['label']}\n")
         if not items:
             parts.append(f"- **[{DATE_STR}] No readable source — 暂无可读取全文的新闻**\n  中文：本地区近期文章正文均无法可靠读取，因此未生成推测性摘要。\n  📰 Google News")
