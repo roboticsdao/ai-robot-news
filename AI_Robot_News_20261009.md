@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.09（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.09] 36 Kr — Robot "The Tale of Figure 02's Retirement": Leaps Directly into Steelmaking Furnace and Transforms into $1,900 Limited-Edition Collectible Figure**
+  English: On September 30, American humanoid robot company Figure AI released a video inspired by Terminator 2 featuring actor Arnold Schwarzenegger, showing its older Figure 02 robots being retired and melted down in a 75-ton electric arc furnace at a steel plant in Imatra, Finland. Figure AI CEO Brett Adcock previously asked netizens for retirement ideas, and Schwarzenegger suggested melting them down. The company chose this disposal method because Figure 02 contains proprietary hardware that would take technicians too much time to disassemble individually, potentially delaying Figure 04 development. Finding a facility willing to accept lithium-ion battery robots was difficult, but after training the robots to jump using airbags at their San Jose headquarters, the team successfully executed the 24-hour shoot with six smelting windows.
+  中文：总结：美国人形机器人公司Figure AI于9月30日发布了一段受《终结者2》启发的视频，演员阿诺·施瓦辛格参与其中，展示了其旧款Figure 02人形机器人在芬兰伊马特拉一家钢铁厂的75吨电弧炉中退役并被熔化的过程。 Figure首席执行官布雷特·阿德考克此前曾在社交媒体上向网友征求退役建议，施瓦辛格回复称将其熔化。 由于Figure 02包含大量定制执行器等专有硬件，逐一拆卸耗时巨大且可能耽误Figure 04的开发进度，因此公司决定将其熔化。 在寻找愿意接收锂电池机器人的冶炼厂后，团队通过在圣何塞总部设置气囊训练机器人跳跃，最终在24小时内完成了拍摄并拥有6次冶炼机会。
+  📰 [36 Kr](https://eu.36kr.com/en/p/4017963519397766)
+
+- **[2026.10.08] www.tokenpost.com — Nvidia Extends Halos Safety System for Humanoid Robots**
+  English: Nvidia announced the expansion of its Halos safety architecture from autonomous vehicles to humanoid and industrial robots on June 22, aiming to establish safety and certification standards for physical AI in factories, warehouses, and logistics facilities. The platform integrates Nvidia's IGX Thor computing system, Holoscan Sensor Bridge, Halos OS software, and an inspection program to support third-party certification. Agility Robotics is the first named humanoid partner, integrating IGX Thor and Halos Core into the safe human-detection system for its Digit robot, and planning to use Nvidia's Halos AI Systems Inspection Lab for software and cybersecurity assessments. The Halos system draws on more than 18,600 engineering years of autonomous-vehicle safety work and includes an Outside-In Safety Blueprint using external facility cameras. The inspection lab is accredited under ISO/IEC 17020 by the ANSI National Accreditation Board, with reports recognized by certification bodies such as TÜV Rheinland, TÜV SÜD, and UL Solutions, while customers connected to Agility's industrial work include Amazon, GXO, Schaeffler, and Toyota Motor Manufacturing Canada.
+  中文：总结：英伟达于6月22日宣布将其Halos安全架构从自动驾驶汽车扩展至人形和工业机器人，旨在为工厂、仓库和物流设施中的实体人工智能建立安全和认证标准。 该平台结合了英伟达的IGX Thor计算系统、Holoscan传感器桥接器、Halos操作系统软件以及支持第三方认证的检查程序。 Agility Robotics成为首个命名的人形机器人合作伙伴，在其Digit机器人的安全人体检测系统中集成IGX Thor和Halos Core，并计划使用英伟达的Halos AI系统检查实验室进行软件和网络安全评估。 Halos系统借鉴了超过18,600个工程年的自动驾驶安全工作经验，并包含使用外部设施摄像头的由外向内安全蓝图。 该检查实验室获得了ANSI国家认可委员会根据ISO/IEC 17020标准的认证，其报告得到莱茵TÜV、南德TÜV和UL Solutions等认证机构的认可，而与Agility工业工作相关的客户则包括亚马逊、GXO、舍弗勒和加拿大丰田汽车制造公司。
+  📰 [www.tokenpost.com](https://www.tokenpost.com/news/technology/27985)
+
+- **[2026.10.08] Ars Technica — Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots**
+  English: Nvidia has invested billions of dollars in physical AI technologies such as robotics and self-driving cars, launching its Halos system for autonomous vehicles in 2025 and expanding Nvidia Halos for Robotics in June 2026 to support autonomous mobile robots, humanoid robots, and surgical robots. Amit Goel, head of robotics ecosystem and edge computing at Nvidia, stated that safety was identified as the next bottleneck to unlock system capabilities. During a March 2026 podcast appearance, Nvidia CEO Jensen Huang stated that the physical AI business is already driving nearly $10 billion in annual revenue, having highlighted it as the company's second-most important growth category in 2025. Nvidia has directly invested in humanoid robotics startups Agility Robotics and Figure AI, robotics foundation model companies, and partnered with Chinese humanoid robotics company Unitree to provide an open humanoid robot reference design. The robotics safety system includes hardware such as the Nvidia IGX Thor computing module, which features an independent processor dedicated to safety workloads to run functional and safety systems on the same silicon.
+  中文：总结：英伟达在机器人和自动驾驶汽车等实体人工智能技术上投资了数十亿美元，于2025年推出了用于自动驾驶汽车的Halos系统，并于2026年6月扩展推出了英伟达机器人Halos系统，以支持自主移动机器人、仓库中行走的人形机器人以及手术机器人。 英伟达机器人生态系统和边缘计算负责人阿米特·戈尔向媒体表示，安全性被视为释放系统能力的下一个瓶颈。 在2026年3月的一档播客节目中，英伟达首席执行官黄仁勋表示，实体人工智能业务已为公司带来近$10 billion的年收入，并在此前的2025年将其列为公司第二大最重要的增长类别。 英伟达直接投资了人形机器人初创公司Agility Robotics和Figure AI以及机器人基础模型公司，并与中国人形机器人公司宇树科技合作提供开放式人形机器人参考设计。 该机器人安全系统包括英伟达IGX Thor计算模块等硬件，该模块拥有专门用于安全工作负载的独立处理器，可在同一芯片上运行功能和安全系统。
+  📰 [Ars Technica](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
+
+- **[2026.10.08] Engineering.com — Hyundai and Boston Dynamics Bet Big on AI Robot Training for Manufacturing**
+  English: Hyundai and Boston Dynamics have opened a large applications center in Georgia named the Robotics Metaplant Applications Center, designed to enable the wide-scale rollout and production work of Atlas humanoid robots. Both companies have identified AI-driven robot training as the pacing element in widespread deployment. The new Atlas humanoid units are engineered for a broad range of applications to streamline manufacturing processes, and the facility will use AI to train Boston Dynamics robots quickly to enable the eventual delivery of 25,000 humanoid robots to Hyundai manufacturing facilities.
+  中文：总结：现代汽车和波士顿动力公司在佐治亚州开设了一个名为机器人超级工厂应用中心的大型应用中心，旨在支持Atlas人形机器人的大规模部署和生产工作。 两家公司均认为人工智能驱动的机器人训练是实现广泛部署的步调要素。 新款Atlas人形机器人旨在适应广泛的应用以简化制造流程，该设施将利用人工智能快速训练波士顿动力公司的机器人，以便最终向现代汽车制造厂交付25,000台人形机器人。
+  📰 [Engineering.com](https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/)
+
+- **[2026.10.08] The News International — Nvidia eyes major investment in Figure AI robotics: Here’s what to know**
+  English: Nvidia is in talks to invest another $1 billion in Figure AI, a humanoid robotics startup founded by Brett Adcock in 2022. This follows Nvidia joining Figure's Series C funding round in September 2025 that raised over $1 billion and brought the post-money valuation to $39 billion. Nvidia acts as a technology provider for Figure's Helix AI models and robot deployments, with Jensen Huang stating the partnership allows Figure to train models on Nvidia Vera Rubin and implement them on Nvidia GPUs inside its robots. Figure's stated objectives focus on ramping up manufacturing for its humanoid robots and advancing Helix, while facing two primary constraints: a critical shortage of data and insufficient computing resources to accelerate development. Jensen Huang highlighted the setup as a robotics flywheel, illustrating Nvidia's push into physical AI and the massive compute demands of humanoid robotics.
+  中文：总结：英伟达正在洽谈向由布雷特·阿德考克于2022年创立的人形机器人初创公司Figure AI再投资10亿美元。 此前，英伟达曾于2025年9月参与Figure的C轮融资，该轮融资筹集了超过10亿美元，并使公司投后估值达到$39 billion。 英伟达作为Figure的Helix人工智能模型和机器人部署的技术提供商，首席执行官黄仁勋表示，该合作伙伴关系允许Figure在英伟达Vera Rubin上训练模型，并在Figure机器人内部的英伟达GPU上进行部署。 Figure公布的目标集中于扩大其人形机器人的制造规模并推进Helix的发展，同时面临两大主要限制：严重的数据短缺和加速开发所需的计算资源不足。 黄仁勋将这种设置强调为机器人飞轮，展示了英伟达向实体人工智能的推进以及人形机器人对海量计算的需求。
+  📰 [The News International](https://www.thenews.com.pk/amp/1419084-nvidia-eyes-major-investment-in-figure-ai-robotics-heres-what-to-know)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.09] www.icloudnews.net — 宙创自动化：全链机器人赋能，提速中国制造智能化转型**
+  中文：总结：东莞市宙创自动化有限公司聚焦机器人自动化领域，为制造企业、设备厂商及科研机构提供工业机器人、协作机器人、人形机器人及周边生态配件等四位一体的产品与服务。 在核心产品应用上，公司代理珞石、众为兴、库卡等主流品牌工业机器人，适配焊接、搬运、上下料、喷涂、打磨、装配等作业；轻量化协作机器人满足3C组装、精密检测、柔性分拣需求；同时布局人形机器人整机及配套组件。 公司还提供末端夹具、快换盘、视觉组件、减速机、伺服模组等周边生态配件。 其方案已广泛应用于3C电子、新能源、汽车零部件、包装物流、五金塑胶等领域。
+  📰 [www.icloudnews.net](https://www.icloudnews.net/a/123492.html)
+
+- **[2026.10.09] 新浪网 — 具身智能冲击IPO：估值盛宴之后狂欢退潮**
+  中文：总结：今年上半年，国内具身智能企业掀起了一股筹备IPO的资本热潮，多家机器人企业推进上市进程以争夺行业第一股地位。 8月19日，宇树科技正式上市，开盘大涨至发行价的7.3倍，达到1100元/股，随后股价回落至450元/股左右并在上市当天收于845元/股。 随着宇树科技股价回调，一级市场融资热度降温，2026年7月国内具身智能机器人赛道融资额环比下降约32.6%至约120亿元，部分中小企业开始收缩团队。 此前行业长期保持高强度运转，企业对人才学历和实操要求严苛，但整体商业化落地与盈利周期仍面临资本市场的严峻检验。
+  📰 [新浪网](https://k.sina.com.cn/article_2177386743_81c848f702701f0zi.html?)
+
+- **[2026.10.08] 中国网新闻中心 — 70多家训练场已启用 我国具身智能全产业链加速推进**
+  中文：总结：今年以来，中国持续推进具身智能产业发展，加快训练场基础设施建设并完善行业标准规范。 中关村某人工智能企业的具身智能数据平台已交付150万小时人类视频数据。 目前全国已建成启用70多家具身智能训练场，在建和规划40余家，形成长三角、京津冀、珠三角三大核心集群，相关实训数据已投入真机训练应用。 深圳赛博格机器人有限公司通过约几万条数据训练，使机器人以80%到90%的成功率完成开关电柜、启闭工业阀门等复杂作业。 2025年中国人工智能核心产业规模超过1.2万亿元，企业数量超过6200家。 工业和信息化部等部委已开展专项行动构建产业闭环。
+  📰 [中国网新闻中心](http://news.china.com.cn/2026-10/08/content_118725853.shtml)
+
+- **[2026.10.08] 搜狐网 — 9月A股机器人公司市值排行：宇树1820亿断层第一，仅三家上涨**
+  中文：总结：截至2026年9月30日收盘，16家A股机器人产业链公司总市值合计约4434.51亿元，较月初收盘的5166.85亿元减少约732.34亿元，减幅为14.17%。 其中12家公司总市值超过百亿元，占比75%。 宇树科技以1819.616亿元总市值位居榜首，绿的谐波以500.96亿元位居第二，奥比中光以348.57亿元位居第三。 宇树科技于今年8月19日以150.8元/股发行价在科创板挂牌，首日盘中冲上1100元，收盘报845元。 埃夫特-U、禾川科技、江苏北人、凯尔达4家公司市值均不到百亿元。 9月当月，16家公司中仅瑞松科技、鸣志电器、禾川科技3家总市值上升，瑞松科技以11.35%的涨幅居首。
+  📰 [搜狐网](https://m.sohu.com/a/1085220472_100032554?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.08] 新浪财经 — 优必选与一汽-大众达成战略合作，推进人形机器人在物流场景应用落地**
+  中文：总结：10月8日中午消息，优必选与一汽-大众汽车有限公司达成战略合作，双方将共同推进具身智能机器人在物流领域的应用场景开发及测试，构建示范应用场景，加速人形机器人在智能制造领域的部署与应用，推动人形机器人智能制造解决方案的落地与推广。 面向人形机器人在工业制造等真实场景的落地应用，优必选已经构建起包括具身大脑、仿人小脑、高性能本体、群体智能在内的四大核心技术集群。 在具身大脑核心领域，优必选搭建“基座模型-世界模型-行动模型”的全栈自研技术体系，让机器人真正具备“理解世界-预测世界-决策行动”的完整具身智能能力。
+  📰 [新浪财经](https://finance.sina.cn/chanjing/gsxw/2026-10-08/detail-iniunrrk5217022.d.html?oid=WA%200812%202782%205310%20Jasa%20Bikin%20Plafon%20Mewah%20Murah%20Gondangrejo%20Karanganyar&vt=4)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.09] ドリームニュース — 日本AIロボティクス市場：フィジカルAIの拡大と日本のAIロボット1,000万台目標が新たなロボティクス投資機会を創出**
+  日本語：日本は産業オートメーションにAIやマルチモーダル基盤モデル等を組み合わせるロボティクス開発の新たな段階に入っており、JETROによると世界の産業用ロボット生産の約46%を占め、2023年には4万6,000台を超える産業用ロボットが導入された。 日本のAIロボティクス市場は2025年に8億9,770万米ドルと評価され、2026年から2036年にかけてCAGR 27.7%で拡大し、2036年末までに102億8,340万米ドルを超える見込みである。 日本政府は労働力不足への対応や生産性向上を目的に関係省庁によるAIロボティクス推進会議を設置し、フィジカルAIや自律型ロボットなどを戦略的優先分野に位置付けている。
+  中文：总结：日本正进入将人工智能、多模态基础模型、计算机视觉、高级传感器、自主决策和实时学习相结合的机器人开发新阶段。 根据日本贸易振兴机构的数据，日本约占全球工业机器人生产的46%，2023年部署了超过4.6万台工业机器人。 日本AI机器人市场在2025年估值为8.977亿美元，预计在2026年至2036年期间以27.7%的复合年增长率扩大，到2036年底预计将超过102.834亿美元。 为应对劳动力短缺并提高生产力，日本政府设立了相关省厅参加的AI机器人推进会议，并将物理AI和自主机器人定位为战略优先领域。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000364762)
+
+- **[2026.10.07] Vietnam.vn — 日本が高齢者支援ロボットを導入：ベトナムが学ぶべき技術動向。**
+  日本語：川崎重工業は、現実世界と対話できるAI技術を用いた高齢者向けコンパニオンロボット「ホームレオ」を発表した。 ホームレオは会話や周囲の認識、状況に応じた判断、自律的行動が可能であり、10月6日に東京で開催されたビジネス情報説明会で紹介された。 同ロボットは高齢者の話し相手になり、健康状態の観察や日常生活の補助、食事や服装などの好みに関するデータの継続的記録を行う。 川崎重工業は2028年度からの実用化を目指し、異常な兆候を検知して家族や介護者に通知する機能の実装を予定している。 また、川崎重工業の橋本康彦社長は説明会でロボットの運用能力を実演した。
+  中文：总结：川崎重工业发布了名为“Home Leo”的面向老年人的伴侣机器人，该机器人采用能够与现实世界对话的AI技术开发。 Home Leo具备与人对话、识别周围环境、根据情况做出判断以及自主行动的能力，并于10月6日在东京由川崎重工业主办的商业信息说明会上亮相。 该机器人能够陪伴老年人、充当聊天对象、观察健康状况、提供日常生活的小帮助，并持续记录有关饮食和服装等用户偏好与习惯的数据。 川崎重工业计划在2028年度实现Home Leo的实际应用，并计划搭载检测异常迹象并通知家人或护理人员的功能。 川崎重工业社长桥本康彦在演示中展示了该机器人的运行能力。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/nhat-ban-ra-mat-robot-ho-tro-nguoi-cao-tuoi-xu-huong-cong-nghe-viet-nam-co-the-tham-khao)
+
+- **[2026.10.07] 航空新聞社 — GMO、日本最大級のヒューマノイド開発拠点を全面開業**
+  日本語：GMOインターネットグループは10月6日、東京・渋谷のセルリアンタワー内に人型ロボット向け研究開発拠点「GMOヒューマノイド・ラボ 渋谷ショールーム」を全面オープンした。 延床面積382坪の全フロアが稼働を開始し、国内最大級のフィジカルAI研究開発拠点となる。 また、GMO AI&ロボティクス商事は日本航空グループのJALグランドサービスと共同で羽田空港におけるヒューマノイド活用の実証実験を進めており、航空業界の将来の省人化に向けた研究開発拠点となることも見込まれている。
+  中文：总结：GMO互联网集团于10月6日宣布全面开放位于东京渋谷セルリアンタワー内的人形机器人研发基地“GMO人形机器人实验室 渋谷展厅”。 该基地建筑面积达382坪的全部楼层正式投入运行，成为日本国内最大规模的物理AI研发基地。 此外，GMO AI&机器人商事正与日本航空集团的JALグランドサービス合作，推进在羽田机场利用人形机器人的实证试验，该研发基地也有望成为未来实现航空业省人化的研究开发基地。
+  📰 [航空新聞社](https://www.jwing.net/news/113860)
+
+- **[2026.10.06] Infoseek — 次世代ロボットの社会実装を支える安全の考え方 ―フィジカルAIと協調安全の観点から―【10月21日、23日/無料セミナー】（産総研グループ）**
+  日本語：産業技術総合研究所（産総研）グループのAIST Solutionsは、一般財団法人日本品質保証機構（JQA）との共催で無料オンラインセミナー「次世代ロボットの社会実装を支える安全の考え方 ―フィジカルAIと協調安全の観点から―」を開催することを発表した。 開催日時は2026年10月21日と10月23日。 セミナーでは、フィジカルAIやエージェンティックAIの特性を踏まえた社会実装の課題や協調安全の最新動向、安全性・信頼性を評価する規格の活用について解説が行われる。
+  中文：总结：产业技术综合研究所（产总研）集团的AIST Solutions宣布将与一般财团法人日本质量保证机构（JQA）共同主办免费在线研讨会，主题为“支撑次世代机器人社会落地的安全思考方式：从物理AI与协同安全的角度出发”。 举办时间为2026年10月21日和10月23日。 研讨会上将结合物理AI与具身智能（代理式AI）的特性，解说社会落地的课题、协同安全的最新动向，以及用于评估安全性与可靠性的规格之利用方式。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000140_000146304/)
+
+- **[2026.10.06] Storm.mg — 西日本最大級の製造業展「ものづくりワールド大阪」10月開催へ 最新ロボット集う「フィジカルAI展」も**
+  日本語：西日本最大級の製造業展「第29回 ものづくり ワールド [大阪]」が2026年10月7日から9日までインテックス大阪で開催される。 主催のRX Japanによれば、約1,100社が出展し来場者数は約3万1,000名を見込む。 今大会では大阪初の「製造業×フィジカルAI展」が開催され、AGIRobotsの「AGIRobots Worker」やヴイストンの「VS-MPR-01」などの最新ロボットが公開されるほか、次世代3Dプリンタや高精度加工技術も出展される。
+  中文：总结：西日本最大规模的制造业展会“第29届制造业世界[大阪]”将于2026年10月7日至9日在大阪国际展览中心举办。 据主办方RX Japan合同会社透露，本届展会有约1100家企业参展，预计参观人数约为31000人。 本届大会首次在大阪举办“制造业×物理AI展”，将公开AGIRobots的“AGIRobots Worker”及Vstone的“VS-MPR-01”等最新机器人，同时展出次世代3D打印机及高精度加工技术。
+  📰 [Storm.mg](https://japan.storm.mg/articles/1168824)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.08] 電波タイムズ — 世界最大のヒューマノイドロボットとフィジカルAI特化の国際会議 5月28日(木)-29日(金)、東京・高輪にて開催**
+  English: Humanoids Summit Inc. will host the international conference 'Humanoids Summit Tokyo 2026' from May 28 to May 29, 2026, at the Takanawa Gateway Convention Center in Tokyo, marking the event's fourth edition and its first time in Asia. Over 40 speakers, exhibitors, and sponsors from the US, Europe, and Asia will participate in live demonstrations and sessions covering commercialization, supply chains, venture investment, spatial AI, safety regulations by Cooley LLP, and market trends by McKinsey & Company. Osaka University professor Hiroshi Ishiguro will deliver the opening keynote with his Geminoid humanoid, joined by speakers from Google DeepMind, Toyota, Panasonic, Boston Dynamics, and other global firms, as announced by summit founder Modar Alaoui of ALM Ventures.
+  中文：总结：Humanoids Summit Inc. 将于2026年5月28日至29日在东京高轮网关会议中心举办“Humanoids Summit Tokyo 2026”国际会议，这是该峰会第四次举办且首次落户亚洲。 来自美国、欧洲和亚洲的40多位发言人、参展商和赞助商将齐聚一堂，参与现场演示并讨论商业化、供应链、风险投资、空间AI、Cooley LLP提出的安全法规以及麦肯锡公司的市场趋势。 大阪大学教授石黑浩将携其分身机器人Geminoid进行开幕基调演讲和现场演示，Google DeepMind、丰田、松下、波士顿动力等全球企业的代表也将出席，峰会创始人兼ALM Ventures普通合伙人Modar Alaoui公布了相关筹备背景。
+  📰 [電波タイムズ](https://www.dempa-times.co.jp/event-information/47934/)
+
+- **[2026.10.09] Awani International — What is Unitree and why are China’s humanoid robot makers racing to list?**
+  English: Chinese robot maker Unitree has priced its Shanghai initial public offering at 150.8 yuan per share to raise 6.1 billion yuan ($904 million), aiming to become the first mainland-listed humanoid robot manufacturer with subscriptions starting on Monday. Founded in 2016 by Wang Xingxing and based in Hangzhou, Unitree produces inexpensive quadruped robots and G1, H1, and R1 humanoids that have gained global attention through viral demonstrations. The profitable company reported that its 2025 revenue rose more than fourfold to nearly 1.7 billion yuan, with adjusted net profit at about 600 million yuan and overseas sales accounting for over 40%. Other Chinese robotics companies are also pursuing public listings, including Leju Robotics, which filed to list on Shenzhen's ChiNext market in May, and AgiBot, which began preparations for a Hong Kong IPO in July.
+  中文：总结：中国机器人制造商宇树科技将其上海首次公开募股定价为每股150.8元，计划筹集6.1 billion（$904 million），拟成为首家在中国内地上市的人形机器人制造商，认购工作于周一启动。 宇树科技由王兴兴于2016年在杭州创立，以相对便宜的四足机器人及G1、H1和R1人形机器人闻名。 该公司已实现盈利，2025年营收增长超过四倍至近1.7 billion，调整后净利润约为6亿元，海外收入占比超过40%。 同时，其他中国机器人制造商也在推进上市，乐聚机器人于5月申请在深圳创业板上市，上海智元机器人则于7月开始筹备香港IPO。
+  📰 [Awani International](https://international.astroawani.com/technology-news/what-unitree-and-why-are-chinas-humanoid-robot-makers-racing-list)
+
+- **[2026.10.08] Gasgoo — UBTECH, FAW-Volkswagen partner on humanoid robots for logistics and smart manufacturing**
+  English: UBTECH Robotics and FAW-Volkswagen have formed a strategic partnership to develop and test embodied-intelligence robots for logistics and smart manufacturing demonstration scenarios. FAW-Volkswagen operates five production bases in Changchun, Chengdu, Foshan, Qingdao, and Tianjin, producing 35 models across its Volkswagen, Audi, and JETTA portfolios with cumulative production and sales exceeding 30 million units. UBTECH's industrial humanoid robot platform integrates a brain, cerebellum, hardware, and swarm intelligence, utilizing a software stack with foundation, world, and action models. UBTECH reported that a comparison of publicly disclosed financial statements places it first globally in total revenue, overall humanoid robot sales, and full-size embodied-intelligence robot metrics for products at least 160 centimeters tall with at least 200T computing power. Additionally, UBTECH stated that its 10,000-unit scale humanoid robot factory has begun operations and expects deliveries to ramp up in the second half of 2026.
+  中文：总结：优必选科技与一汽-大众达成战略合作，共同开发和测试用于物流作业及智能制造示范场景的具身智能机器人。 一汽-大众在长春、成都、佛山、青岛和天津运营五个生产基地，涵盖大众、奥迪和捷达三大品牌35款车型，累计产销量超过3000万辆。 优必选的工业人形机器人平台融合了“大脑”、“小脑”、高性能硬件和集群智能，软件栈结合了基础模型、世界模型和动作模型。 优必选表示，根据公开财报对比，其总营收、整体人形机器人销量以及身高至少160厘米且算力不低于200T的全尺寸具身智能机器人营收和销量均居全球第一。 此外，优必选宣布其万台级人形机器人工厂已投入运营，预计2026年下半年多条产品线将实现量产交付。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/ubtech-faw-volkswagen-partner-on-humanoid-robots-for-logistics-and-smart-manufacturing-2108068987505434624)
+
+- **[2026.10.06] Yahoo Finance — Agility Robotics to Livestream Analyst & Investor Day Today**
+  English: Agility Robotics hosted its Analyst & Investor Day in New York City on October 06, 2026, featuring a livestream and presentations from its leadership team alongside partners such as Schaeffler, Foxconn, and AUVSI. The event highlights Agility's commercial deployment momentum, including the September unveiling of Digit 5, its next-generation humanoid robot built on more than 65,000 hours of real-world operation and designed for manufacturing, warehousing, and logistics. Agility has secured more than $300 million in multi-year orders for Digit 5, with robots currently operating in commercial environments globally. The company also opened a new Fremont, California facility earlier this year and announced plans to complete a business combination with Churchill Capital Corp XI (Nasdaq: CCXI) in the fourth quarter of 2026 to trade on Nasdaq under the ticker symbol 'AGLT', as stated by CEO Peggy Johnson.
+  中文：总结：Agility Robotics于2026年10月6日在纽约市举办分析师与投资者日活动，并通过网络直播，由其领导团队与舍弗勒、富士康及AUVSI等合作伙伴共同出席。 该活动凸显了Agility在商业部署方面的势头，包括9月发布的基于65000小时以上真实世界运行经验、面向制造、仓储和物流的下一代人形机器人Digit 5。 Agility已为Digit 5获得了价值超过$300 million的多年生订单，其机器人已在全球领先企业的商业环境中运行。 此外，该公司今年早些时候在加利福尼亚州弗里蒙特开设了新工厂，并计划在2026年第四季度完成与Churchill Capital Corp XI（纳斯达克代码：CCXI）的业务合并，合并后以“AGLT”为股票代码在纳斯达克交易，首席执行官佩吉·约翰逊公布了相关规划。
+  📰 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/agility-robotics-livestream-analyst-investor-110000854.html)
+
+- **[2026.10.09] Yahoo Tech — Decommissioned Humanoid Robot Lowers Itself Into Molten Steel For A Terminator 2-Style Ending**
+  English: Figure AI retired its second-generation Figure 02 humanoid robots, which had previously been demonstrated at a BMW manufacturing facility in South Carolina. To securely dispose of proprietary hardware and custom intellectual property without dismantling every unit, Figure collaborated with Arnold Schwarzenegger and trained the robots using stunt movements and simulations to autonomously leap into molten steel at a Finnish foundry. Figure stated that the operation successfully destroyed the obsolete hardware while preserving intellectual property, and some of the melted material is being repurposed into limited-edition collectibles priced at $500, while a small number of Figure 02 units will remain in storage.
+  中文：总结：Figure AI退役了其第二代Figure 02人形机器人，这些机器此前曾在宝马位于南卡罗来纳州的制造厂进行过演示。 为了在不拆解每一台机器的情况下安全销毁专有硬件和定制知识产权，Figure与阿诺·施瓦辛格合作，通过特技动作训练和模拟，让机器人在芬兰的一家铸造厂自主跳入铁水之中。 Figure表示，此举成功销毁了过时的硬件并保护了知识产权，熔化后的材料将被重制为定价$500的限量版收藏品，同时少数Figure 02将被保留在仓库中。
+  📰 [Yahoo Tech](https://tech.yahoo.com/ai/meta-ai/articles/decommissioned-humanoid-robot-lowers-itself-170048769.html)
+
+
+---
+※AI Robot News Digest | 2026.10.09 | full-text items: 20
