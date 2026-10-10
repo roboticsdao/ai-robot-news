@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.10（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.10] The Motley Fool — What Is Physical AI? Nvidia Is the Stock I'd Buy to Own It.**
+  English: Nvidia refers to real-world artificial intelligence as physical AI, encompassing software for applications like warehouse robots and self-driving cars. Competitors are also entering this space, such as Advanced Micro Devices, which agreed on September 28 to acquire World Labs, a startup producing 3D space AI models and robot training tools, in an all-stock transaction valued at approximately $8.2 billion. For Nvidia, physical AI represents a minor component of its overall business; automotive revenue reached roughly $2.35 billion during the 12 months leading to late January 2026, representing about 1% of total revenue of $215.9 billion. Nvidia's broader physical AI category accounted for about $6 billion in fiscal 2026, remaining under 3% of total sales. Nvidia supplies hardware and software for robot and vehicle manufacturers, including Jetson Thor computers for robots, the DRIVE Hyperion platform for autonomous vehicles, and open AI models called Cosmos. During Nvidia's fiscal second-quarter 2027 earnings call in August, Chief Financial Officer Colette Kress stated that Amazon will adopt Nvidia's complete physical AI stack, comprising Omniverse, Cosmos, Isaac, and Jetson, to power its warehouse robot fleet. Kress additionally reported that Nvidia's sales of AI systems to automotive clients for their facilities reached around $8 billion over the preceding 12 months, which are recorded under data center sales rather than the automotive division. Nvidia's automotive revenue increased 39% in fiscal 2026, though quarterly growth decelerated from 69% in the second quarter to 32% in the third and 6% in the fourth quarter, reaching $604 million. Nvidia has since integrated automotive reporting into a category named Edge Computing alongside personal computers, game consoles, workstations, and robots. Edge Computing revenue for the second quarter of fiscal 2027, ending July 26, 2026, reached $7.2 billion, representing a 27% year-over-year increase, which management attributed to workstation sales without referencing robots or vehicles. Conversely, data center revenue totaled $89.0 billion. AMD anticipates its transaction will finalize by the end of 2026. Regarding market valuations, AMD's share price trades at approximately 41 times projected earnings per share for 2027 based on analyst consensus estimates, while Nvidia trades at roughly 15 times expected earnings per share for fiscal 2028, ending in January 2028, at a share price around $237.
+  中文：总结：英伟达将用于现实世界的通用人工智能称为实体人工智能，其软件可支持仓库机器人和自动驾驶汽车等应用。 竞争对手也在进军该市场，Advanced Micro Devices于9月28日宣布同意以全股票交易方式收购初创公司World Labs，交易价值约为$8.2 billion，该公司主要开发3D空间AI模型及机器人训练工具。 对英伟达而言，实体人工智能在其庞大业务中目前占比仍然较小，截至2026年1月末的12个月内，其汽车业务营收约为23.5亿美元，约占$215.9 billion总营收的1%。 英伟达更广泛的实体人工智能相关业务在2026财年约为60亿美元，占销售额不到3%。 英伟达向机器人及汽车制造商销售产品，包括用于机器人的Jetson Thor计算机、自动驾驶汽车的DRIVE Hyperion平台以及名为Cosmos的开放式AI模型。 在8月份的2027财年第二季度财报电话会议上，英伟达首席财务官科莱特·克雷斯表示，亚马逊将采用英伟达的全部实体人工智能技术栈Omniverse、Cosmos、Isaac和Jetson来驱动其仓库机器人车队。 克雷斯还指出，过去12个月中，英伟达面向汽车行业客户在其自有设施中使用的AI系统销售额达到约$8 billion，这部分支出计入数据中心销售额而非汽车业务。 英伟达汽车营收在2026财年增长了39%，但季度增速大幅放缓，第二季度同比增长69%，第三季度降至32%，第四季度降至6%，当季销售额达到6.04亿美元。 此后，英伟达不再单独报告汽车业务，而是将其与个人电脑、游戏机、工作站和机器人等产品合并归入边缘计算大类。 在截至2026年7月26日的2027财年第二季度，边缘计算营收为72亿美元，同比增长27%，管理层将增长归因于工作站销售强劲，未提及机器人或汽车。 相比之下，数据中心营收为890亿美元。 AMD表示预计该交易将在2026年底前完成。 在估值方面，根据分析师共识预估，AMD股价约为其2027年预期每股收益的41倍；而英伟达在股价约为237美元时，其估值约为2028财年预期每股收益的15倍，该财年将于2028年1月结束。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/09/what-is-physical-ai-nvidia-is-the-stock-i-d-buy-to-own-it/)
+
+- **[2026.10.10] The Robot Report — Boston Dynamics gives more insight into its redesigned humanoid hand**
+  English: Boston Dynamics Inc. revealed its redesigned humanoid robot hand featuring four fingers, 13 degrees of freedom, and direct actuation, designed specifically for mass manufacturing. The company eliminated the pinky finger and reduced the gripper's overall size. Additionally, the new hand was engineered to support high-fidelity simulation and enable sim-to-real reinforcement learning. Alberto Rodriguez, director of robot behavior for Atlas at Boston Dynamics, discussed the design process, noting that having a product roadmap for Atlas facilitated decisions regarding complexity, dexterity, strength, ruggedness, cost, reparability, and sensing. The hand utilizes 13 identical, fully encapsulated actuators with no cables crossing joints. Rodriguez noted that while previous hands could lift objects weighing over 100 pounds, strength was slightly reduced to improve actuation transparency. Boston Dynamics chose to develop the hand in-house to integrate it with the product roadmap and manage design tradeoffs. Durability is ensured through collaboration between behavior and hardware teams during early design phases, utilizing simulations, mockups, early prototypes, and rigorous validation and verification testing. Testing has involved representative industrial tasks such as utilizing handheld power tools, handling cables, and retrieving screws, alongside bring-up tasks and exploratory evaluations.
+  中文：总结：波士顿动力公司展示了其重新设计的人形机器人手部，该四指手部拥有13个自由度并采用直接驱动设计，旨在适应大规模制造。 该公司去除了小指并缩减了夹持器的尺寸。 此外，这款新手部专为高保真仿真而构建，以支持仿真到现实的强化学习。 波士顿动力公司Atlas机器人行为总监阿尔韦托·罗德里格斯讨论了设计过程，指出Atlas的产品路线图使得在复杂度、灵活性、强度、坚固性、成本、可修复性和传感之间做出权衡决策成为可能。 该手部由13个完全密封且互不相交错电缆的相同执行器组成。 罗德里格斯指出，尽管先前的双手能够举起超过100磅的重物，但团队适当降低了强度以进一步改善驱动透明度。 波士顿动力选择在内部开发手部，以便将其与产品路线图相结合并处理设计权衡。 耐用性是通过行为团队与硬件团队在早期设计阶段的合作来确保的，期间采用了仿真、实物模型、早期原型以及严格的验证和测试。 测试涵盖了使用手持电动工具、处理电缆和寻找螺丝等常见的工业任务，以及用于对比早期手部性能的启动任务和探索性评估。
+  📰 [The Robot Report](https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/)
+
+- **[2026.10.10] WRIF Rocks Detroit — Detroit Debuts Boston Dynamics’ Robot Dogs for Urban Innovation Testing**
+  English: Bedrock Detroit and Boston Dynamics are conducting testing with Spot robot dogs in downtown Detroit to establish the city as a technology testing ground. Kevin Mull, Bedrock Detroit's senior director for the Office of Urban Strategy, discussed the initiative during an interview with FOX 2 alongside a robot named Astro, which matches the machines being deployed. Testing is scheduled to begin the following week, focusing on tasks such as litter pickup, including items as small as cigarette butts using a robotic arm. The robot functions as an autonomous mobile sensing platform designed for tasks that are tedious, dangerous, or dirty, including building inspections, challenging area mapping, parking garage security patrols, and package handling, such as transporting packages delivered by drones on roofs into buildings. The project has been under development for six to eight months. Officials will monitor the test mode for several months before potentially transitioning to live deployment. Similar robotic dogs have previously been utilized to guard construction sites in Cleveland and deployed by the Taylor Police Department in Wayne County in March 2024 for risk assessment.
+  中文：总结：Bedrock底特律公司与波士顿动力公司正在底特律市中心测试Spot机器狗，旨在将该市打造成未来技术的试验场。 Bedrock底特律城市战略办公室高级总监凯文·马尔在接受FOX 2采访时讨论了该计划，并展示了一台名为Astro的机器人，该机器人与即将走上街头的机器高度一致。 测试最早于下周开始，重点关注垃圾清理等任务，利用机械臂捡拾小至烟头大小的垃圾。 该机器人被描述为一个自主移动传感平台，旨在执行繁琐、危险或肮脏的工作，应用场景包括建筑检查、复杂区域测绘、停车场等场所的安全巡逻以及包裹处理，例如将无人机投递到屋顶的包裹运送进建筑物内。 该项目已经悄悄进行了六到八个月。 官方将对测试模式进行几个月的密切监控，若进展顺利，机器人将进入实际应用环境。 此前，底特律市中心并非首个使用机器狗的地方，克利夫兰曾用机器狗看守建筑工地，韦恩郡的泰勒警察局也在2024年3月部署了四足机器人用于风险评估。
+  📰 [WRIF Rocks Detroit](https://wrif.com/2026/10/09/detroit-debuts-boston-dynamics-robot-dogs-for-urban-innovation-testing/)
+
+- **[2026.10.08] Engineering.com — Hyundai and Boston Dynamics Bet Big on AI Robot Training for Manufacturing**
+  English: Hyundai and Boston Dynamics are establishing the Robotics Metaplant Applications Center in Georgia to facilitate the widespread deployment of Atlas humanoid robots for production tasks. Following Hyundai's acquisition of Boston Dynamics, both companies have recognized artificial intelligence-driven robot training as the primary pacing element for large-scale implementation. The facility will utilize artificial intelligence to rapidly train Boston Dynamics robots to support the eventual delivery of 25,000 humanoid robots to Hyundai manufacturing facilities.
+  中文：总结：现代汽车与波士顿动力公司正在佐治亚州建立机器人超级工厂应用中心，以实现在生产工作中大规模推广Atlas人形机器人。 在现代汽车收购波士顿动力之后，两家公司均认为人工智能驱动的机器人训练是实现广泛部署的关键步调要素。 该设施将利用人工智能快速培训波士顿动力机器人，最终向现代汽车的制造工厂交付25,000台人形机器人。
+  📰 [Engineering.com](https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/)
+
+- **[2026.10.08] The News International — Nvidia eyes major investment in Figure AI robotics: Here’s what to know**
+  English: Nvidia has been in discussions to invest an additional $1 billion in humanoid robotics startup Figure AI, founded by Brett Adcock in 2022. Nvidia previously participated in Figure's Series C funding round in September 2025, which raised over $1 billion and established a post-money valuation of $39 billion. Nvidia serves as a technology provider for Figure's Helix AI models and robot deployments. Chief Executive Officer Jensen Huang stated that the partnership enables Figure to train models using Nvidia Vera Rubin hardware and execute them on Nvidia graphics processing units integrated into Figure's robots. Figure's stated objectives involve scaling manufacturing for its humanoid robots and advancing its Helix models, while facing primary constraints including a critical data shortage and insufficient computing resources. Huang described the arrangement as a robotics flywheel, highlighting Nvidia's expansion into physical artificial intelligence and the high computational demands of humanoid robotics.
+  中文：总结：英伟达一直在洽谈向人形机器人初创公司Figure AI追加投资10亿美元，该公司由布雷特·阿德考克于2022年创立。 英伟达并非首次涉足该领域，其曾于2025年9月参与Figure的C轮融资，该轮融资筹集了超过10亿美元，使公司投资后估值达到390亿美元。 英伟达的角色不仅限于提供资金，还是Figure的Helix AI模型及机器人部署的技术提供商。 黄仁勋表示，该合作伙伴关系允许Figure在英伟达Vera Rubin上训练模型，随后在Figure机器人内部的英伟达图形处理器上进行部署。 Figure公布的目标集中在扩大其人形机器人制造规模并推进Helix模型，该公司指出其面临的两大主要限制是严重的数据短缺以及用于加速开发的计算资源不足。 黄仁勋将这种设置形容为一个机器人技术飞轮，这些进展体现了英伟达向实体人工智能领域的推进以及人形机器人对海量计算的需求。
+  📰 [The News International](https://www.thenews.com.pk/latest/1419084-nvidia-eyes-major-investment-in-figure-ai-robotics-heres-what-to-know)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.10] 新浪财经 — 韩媒：中国品牌如何实现跨越式发展？|DeepSeek|小米|机器人|谢菲尔德|韩国**
+  中文：总结：《韩国日报》10月4日刊发文章，探讨中国品牌如何实现跨越式发展，该文基于姜俊默所著的《下一个中国品牌》。 书中分析了海底捞、小米、DeepSeek、大疆、宇树科技、TikTok、蜜雪冰城和希音等近40家企业。 姜俊默认为，中国品牌正从过去的便宜好用转向围绕情感、体验、数据和智能4个维度进行创新，从普通制造商拓展为生活平台与科技企业。
+  📰 [新浪财经](https://finance.sina.cn/2026-10-09/detail-iniuquqp7028225.d.html?vt=4)
+
+- **[2026.10.09] 新浪网 — 小鹏人形机器人量产线启用 目标月产千台**
+  中文：总结：小鹏汽车广州工厂正式启用人形机器人自动化产线，一台身高178厘米名为IRON的通用人形机器人走下产线。 小鹏计划年底开始量产，目标月产1000台，首批产品将部署在自家门店承担引导与客服，明年启动对外销售。 IRON所用零部件供应商中超过85%与小鹏汽车重合，其搭载三颗图灵AI半导体芯片组，最高算力达2250 TOPS。 小鹏机器人上月获得了来自IDG资本、腾讯与阿里巴巴的9亿美元投资。
+  📰 [新浪网](https://k.sina.com.cn/article_7879996919_1d5af35f702002ak76.html)
+
+- **[2026.10.09] 新浪财经 — 【国内动态】宇树机器人，顶着压力上岗**
+  中文：总结：宇树科技在2025年以5511台的出货量和32.4%的市场份额位居全球人形机器人出货量第一，并在2026年上半年继续保持领先。 宇树G1人形机器人已在三大场景中上岗：加州大学圣迭戈分校完成的腹腔镜胆囊切除手术、旧金山初创公司Tau Robotics试点的人形机器人上门保洁、以及日本航空在羽田机场引入G1承担行李集装箱推送等任务。 财务方面，宇树2026年上半年营收约11.52亿元，归母净利润2.74亿元，毛利率约56%，并正大力投入以UnifoLM-WLA-1.0为代表的智能机器人模型研发。
+  📰 [新浪财经](https://finance.sina.com.cn/wm/2026-10-09/doc-iniuqqhm3997896.shtml)
+
+- **[2026.10.08] 中国网新闻中心 — 70多家训练场已启用 我国具身智能全产业链加速推进**
+  中文：总结：我国具身智能全产业链正在加速推进，今年以来持续夯实产业发展基础并加快训练场基础设施建设。 目前全国已建成启用70多家具身智能训练场，在建、规划40余家，形成长三角、京津冀、珠三角三大核心集群。 中关村人工智能企业的人工智能数据平台已交付150万小时人类视频数据。 深圳的轮臂式人形机器人依托实训数据训练可完成开关电柜等作业。 工业和信息化部等部委开展了专项行动，构建产业闭环。 2025年我国人工智能核心产业规模超1.2万亿元，企业数量超6200家。
+  📰 [中国网新闻中心](http://news.china.com.cn/2026-10/08/content_118725853.shtml)
+
+- **[2026.10.10] 新浪网 — 马斯克、黄仁勋曾连续发警告！原来，中国机器人已让美国紧张焦虑**
+  中文：总结：特斯拉财报电话会上马斯克称中国是机器人领域最强劲对手，并提到特斯拉计划今年实现加州老工厂月产1万台Optimus。 英伟达在华盛顿首届开发者大会上透露其在中国的市场份额从95%掉到了0，黄仁勋曾表示中国将赢得人工智能竞赛。 宇树发布人形机器人R1后于2026年6月24日将起售价降到2.99万元并现货发售。 IDC统计2025年全球人形机器人出货约1.8万台，同比+508%，智元和宇树拿下全球一半多。 美国国会及议员提出了多项法案限制采购中国机器人，五角大楼将宇树列入1260H清单。 同时斯坦福、苏黎世联邦理工等机构确定采购搭载英伟达芯片的宇树H2Plus。
+  📰 [新浪网](https://k.sina.com.cn/article_7879924060_1d5ae195c020027t6c.html?from=tech)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.09] PR TIMES — 4足歩行ロボット×ドローンの空陸連携プラットフォームサービスの提供を開始。導入を希望する自治体・企業を募集**
+  日本語：株式会社puerisomnia宣布提供4足歩行ロボット与ドローン相结合的空陆連携平台服务，面向设备与基础设施点检、警备、巡视等场景，并开始招募希望引入的自治体与企业。 该系统将4足歩行ロボット作为ドローンの母艦，解决了电池容量、通信及狭窄空间限制等问题。 puerisomnia计划于2026年10月13日起在幕张メッセ举办的Japan Mobility Show Bizweek 2026上展出デモ機，并在展位接受咨询。
+  中文：总结：株式会社puerisomnia宣布提供4足歩行ロボット与ドローン相结合的空陆連携平台服务，面向设备与基础设施点检、警备、巡视等场景，并开始招募希望引入的自治体与企业。 该系统将4足歩行ロボット作为ドローンの母艦，解决了电池容量、通信及狭窄空间限制等问题。 puerisomnia计划于2026年10月13日起在幕张メッセ举办的Japan Mobility Show Bizweek 2026上展出デモ機，并在展位接受咨询。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000009.000164204.html)
+
+- **[2026.10.09] X — ソニーの四足ロボット水中動画が話題に、本物か疑念の声**
+  日本語：2026年10月9日更新の情報によると、X上でソニーのロゴが入った四足ロボットが水中を安定して移動する動画が拡散され、話題を集めています。 「タチコマみたい」と称賛する声がある一方で、Grokからは公式製品ではなくCGIやコンセプトである可能性や、AI生成コンテンツ専門アカウントによる投稿であるとの指摘が出ています。 ソニーの過去の脚移動技術とはデザインが一致しておらず、AIコンテンツと実在技術の境界をめぐる議論が活発に行われています。
+  中文：总结：根据2026年10月9日更新的信息，X平台上流传一段带有索尼标志的四足机器人稳步在水中移动的视频，引发热议。 虽然有声音称赞其“像塔奇克马”，但Grok指出这可能是CGI或概念设计而非官方产品，且发帖者被指是AI生成内容专门账号。 该设计与索尼过去的腿部移动技术成果并不一致，围绕AI内容与现实技术的边界引发了活跃讨论。
+  📰 [X](https://x.com/i/trending/2108389827834216468)
+
+- **[2026.10.09] ドリームニュース — 日本AIロボティクス市場：フィジカルAIの拡大と日本のAIロボット1,000万台目標が新たなロボティクス投資機会を創出**
+  日本語：日本はロボティクス開発の新たな段階に入っており、JETROによると日本は世界の産業用ロボット生産の約46%を占め、OECDも主要な導入国であると指摘しています。 2023年には4万6,000台を超える産業用ロボットが導入されました。 日本政府はAIロボティクスとフィジカルAIを戦略的優先分野に位置付け、関係省庁による推進会議を設置しています。 市場規模は2025年の8億9,770万米ドルから拡大し、2036年末までに102億8,340万米ドルを超える見込みです。 労働力不足を背景に、製造、物流、医療などの分野でAI搭載ロボットやヒューマノイドの導入が進められています。
+  中文：总结：日本已进入机器人开发的新阶段，根据JETRO数据，日本约占全球工业机器人产量的46%，OECD也指出日本持续作为主要的机器人引入国。 2023年引入了超过46,000台工业机器人。 日本政府将AI机器人与具身智能定位为战略优先领域，并设立了相关省厅参加的AI机器人推进会议。 该市场规模预计将从2025年的8.977亿美元扩大，到2036年底有望超过102.834亿美元。 在劳动力短缺的背景下，日本正在制造、物流、医疗等领域推进AI搭载机器人及人形机器人的应用。
+  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000364762)
+
+- **[2026.10.09] マイナビニュース — 米VC大手アンドリーセン・ホロウィッツが日本オフィスを開設 防衛やロボット分野への投資を計画**
+  日本語：米ベンチャーキャピタルのAndreessen Horowitz（a16z）は2026年10月7日、日本オフィスを開設し、日本代表に元日本マイクロソフト代表取締役社長の吉田仁志氏が就任したと発表しました。 a16zは複数のファンドで1000億ドル超の資産を運用しており、日本ではAI、サイバーセキュリティ、ロボティクス、防衛などを成長領域と位置付けています。 防衛分野では自律型船舶やドローンなどを重点領域とし、米国の先端技術と日本の製造基盤を組み合わせた双方向の連携を推進する方針です。
+  中文：总结：美国风险投资公司Andreessen Horowitz（a16z）于2026年10月7日宣布开设日本办事处，并由原日本微软代表取締役社长吉田仁志就任日本代表。 a16z通过多个基金管理着超过1000亿美元的资产，在日本将AI、网络安全、机器人和防务定位为增长领域。 在防务领域，该机构将自主船舶和无人机等作为重点方向，方针是推进美国尖端技术与日本制造基础相结合的双向合作。
+  📰 [マイナビニュース](https://news.mynavi.jp/techplus/article/20261009-5091768/)
+
+- **[2026.10.08] PlusWeb3 — 川崎重工が在宅支援ロボット開発 高齢化社会の課題に挑む新試作機**
+  日本語：川崎重工業は2026年10月6日、ヘルスケア分野向けソーシャルロボット「Home LEO」の試作機を製作したと発表しました。 高齢化社会における在宅生活支援を目指し、フィジカルAIを活用して周辺環境の認識や自律的な移動を行い、高齢者の見守りや会話を行います。 生活データを収集して医療機関や介護施設とセキュアに共有する仕組みを持ち、行政や医療機関と連携しながら実証試験を重ね、2028年度の市場投入を予定しています。
+  中文：总结：川崎重工业于2026年10月6日宣布制作了面向医疗保健领域的社交机器人“Home LEO”的试作机。 旨在支持老龄化社会中的居家生活，利用具身智能进行周边环境识别与自主移动，实现对老龄人群的陪伴与监护。 该机器人具备收集生活数据并与医疗机构及养老设施进行安全共享的机制，计划在与行政及医疗现场合作反复进行实证试验后，于2028年度投入市场。
+  📰 [PlusWeb3](https://plus-web3.com/media/latestnews_1000_10950/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.10] アットプレス — ヒューマノイドロボット用6軸トルクセンサーの世界市場（2026年～2032年）、市場規模（ひずみセンサー、光学センサー、圧電センサー）・分析レポートを発表**
+  English: 株式会社マーケットリサーチセンターは、「ヒューマノイドロボット用6軸トルクセンサーの世界市場（2026年～2032年）」に関する調査資料を発表した。 ヒューマノイドロボット向け6次元トルクセンサーの世界市場規模は、2025年の4億600万米ドルから2032年には57億3700万米ドルへ拡大し、2026年から2032年にかけて年平均成長率46.9%で成長すると予測されている。 主要企業にはATI、AMTI、Bota、Kistler、Kunwei Beijing Technologyなどが含まれる。
+  中文：总结：株式会社市场研究中心发布了关于“人形机器人六维力矩传感器全球市场（2026年至2032年）”的调查报告。 人形机器人用六维力矩传感器全球市场规模预计将从2025年的4亿600万米元扩大到2032年的57亿3700万米元，2026年至2032年的年均复合增长率为46.9%。 全球市场的主要企业包括ATI、AMTI、Bota、Kistler以及Kunwei Beijing Technology等。
+  📰 [アットプレス](https://www.atpress.ne.jp/news/5460301)
+
+- **[2026.10.10] Gasgoo — IDC: AgiBot Leads Global Humanoid Robot Shipments With Over 8,600 Units in H1**
+  English: IDCのデータによると、2026年上半期のグローバルヒューマノイドロボット出荷台数は約25,000台に達し、前年同期比432.1%増となった。 そのうち中国市場は19,000台を超え、世界全体の約77.9%を占めた。 AgiBotはこの期間に8,600台以上を出荷し、世界市場の約35%、国内市場の45%以上を獲得して、出荷台数と売上規模の両方で業界首位に立った。 同社は文化観光や小売、工業分野などで商用展開を進めており、IDCは2030年までに世界出荷台数が750,000台を超えると予測している。
+  中文：总结：根据IDC的数据，2026年上半年全球人形机器人出货量接近25,000台，同比增长432.1%。 其中中国市场贡献了超过19,000台，约占全球总数的77.9%。 智元机器人（AgiBot）在此期间出货超过8,600台，占全球市场约35%，国内市场超过45%，在出货量和营收规模上均排名行业第一。 该公司已在文化旅游、零售和工业等多个场景推进商业化部署，IDC预测到2030年全球人形机器人出货量将超过750,000台。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/other/idc-agibot-leads-global-humanoid-robot-shipments-with-over-8600-units-in-h1-2108532019490680833)
+
+- **[2026.10.10] Billings Gazette — Can a humanoid robot clean your house? A San Francisco company says yes**
+  English: A robotics company based in San Francisco is betting that humanoid robots can succeed where automation previously struggled by navigating cluttered and unpredictable home environments to provide cleaning services.
+  中文：总结：一家总部位于旧金山的机器人公司正致力于让人形机器人攻克以往自动化难以应对的难题，即在杂乱且不可预测的家庭环境中导航并提供清洁服务。
+  📰 [Billings Gazette](https://billingsgazette.com/life-entertainment/nation-world/home-gardening/article_86376557-086b-51da-bbda-e03523ef79f5.html)
+
+- **[2026.10.10] Gadget Review — UBTECH and FAW-Volkswagen Expand Robot Testing Into Logistics**
+  English: UBTECH Robotics and FAW-Volkswagen signed a strategic cooperation agreement on October 8 to expand their partnership into factory logistics and smart manufacturing. Building on an earlier collaboration at FAW-Volkswagen's Qingdao factory starting in July 2024 where the Walker S robot was tested on tasks like bolt tightening and quality inspection, the new agreement focuses on joint development, testing, and demonstration in logistics workflows such as component movement and parts sorting. No deployment has been confirmed, no order volume has been announced, and no timetable for routine operation has been disclosed. UBTECH recently commissioned a 14,000-square-meter humanoid robot factory in Liuzhou, Guangxi on September 12 with a stated annual capacity of over 10,000 Walker S and Cruzr robots, though this capacity does not represent a FAW-Volkswagen order.
+  中文：总结：优必选科技与一汽-大众于10月8日签署战略合作协议，将合作范围扩展至工厂物流和智能制造领域。 以2024年7月在一汽-大众青岛工厂开展的早期合作为基础，当时Walker S机器人测试了螺栓拧紧和质量检查等任务，新协议重点关注物流工作流程（如零部件搬运和零件分拣）的联合开发、测试与示范。 目前尚未确认实际部署，也未公布订单量或例行运营时间表。 优必选于9月12日在广西柳州投产了一座14,000平方米的人形机器人工厂，声明年产能超过10,000台Walker S和Cruzr机器人，不过该产能并不代表一汽-大众的订单。
+  📰 [Gadget Review](https://www.gadgetreview.com/ubtech-and-faw-volkswagen-expand-robot-testing-into-logistics)
+
+- **[2026.10.09] Digital Journal — ARC Stages Singapore's First Full-Sized Humanoid Fight Night Professional Martial Artists Pilot Robots REAL-TIME on Stage**
+  English: ARC held Singapore's first full-sized humanoid fight night at *SCAPE on Wednesday, 7 October, in front of an audience of over 380 people. Professional combat athletes wearing full-body motion capture suits controlled lightweight Unitree G1 and heavyweight EngineAI T800 humanoids in real time. The main card introduced a team format where Iron Fang and Steel Shadow each fielded one Unitree G1 and one EngineAI T800 in survival mode. The event also featured a group humanoid dance, a dance battle, and a kung fu demonstration. Pilots included Sham Raaj, Eugene Chung, and Lukas Leasure. Katena's real-time control system linked each pilot to their avatar. ARC founder Antonio Gai stated that the event demonstrated a vision of partnership rather than replacement.
+  中文：总结：ARC于10月7日星期三在*SCAPE举办了新加坡首场全尺寸人形机器人格斗之夜，吸引了超过380名观众观看。 身穿全身动捕服的职业格斗运动员实时操控了轻量级的Unitree G1和重量级的EngineAI T800人形机器人。 主赛引入了团队赛制，Iron Fang和Steel Shadow各自派出一个Unitree G1和一个EngineAI T800进行生存模式对决。 活动还包含人形机器人群舞、舞蹈对决以及功夫表演。 参赛飞行员包括Sham Raaj、Eugene Chung和Lukas Leasure。 Katena的实时控制系统将每位飞行员与他们的虚拟化身相连。 ARC创始人Antonio Gai表示，此次活动展示了人机伙伴关系而非取代的愿景。
+  📰 [Digital Journal](https://www.digitaljournal.com/pr/news/newsfile/arc-stages-singapore-s-first-full-sized-1382535392.html)
+
+
+---
+※AI Robot News Digest | 2026.10.10 | full-text items: 20
