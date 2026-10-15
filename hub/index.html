@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="RoboticsDAO 机器人产业图谱、全球新闻与市场日报">
+  <title>RoboticsDAO | 产业情报</title>
+  <link rel="icon" href="assets/robot-anatomy.png">
+  <script>try{let t=localStorage.getItem('rdao-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="vendor/d3.min.js"></script>
+  <script defer src="vendor/lucide.js"></script>
+  <script defer src="app.js"></script>
+  <script defer src="views.js"></script>
+  <script defer src="graphs.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#news"><img src="assets/robot-anatomy.png" alt=""><span><strong>RoboticsDAO</strong><small id="brandSub">机器人产业情报</small></span></a>
+    <nav id="navigation" aria-label="Main navigation"></nav>
+    <div class="header-actions">
+      <button id="companyFilter" class="compact" title="筛选公司"><i data-lucide="list-filter"></i><span id="filterCount">全部公司</span></button>
+      <button id="settingsButton" class="icon-button" title="显示设置" aria-label="显示设置"><i data-lucide="sliders-horizontal"></i></button>
+    </div>
+  </header>
+  <div id="settings" class="settings" hidden></div>
+  <div class="contextbar"><div id="contextLeft"></div><div id="contextRight"></div></div>
+  <div id="healthbar"></div>
+  <main id="main"><p class="loading">正在载入产业资料…</p></main>
+  <div id="modalLayer" class="modal-layer" hidden>
+    <div class="backdrop" data-close></div>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" tabindex="-1">
+      <header class="modal-head"><h2 id="modalTitle"></h2><div>
+        <button id="modalBack" class="icon-button" title="返回" aria-label="返回"><i data-lucide="arrow-left"></i></button>
+        <button id="modalForward" class="icon-button" title="前进" aria-label="前进"><i data-lucide="arrow-right"></i></button>
+        <button class="icon-button" data-close title="关闭" aria-label="关闭"><i data-lucide="x"></i></button>
+      </div></header>
+      <div id="modalContent"></div>
+    </section>
+  </div>
+  <div id="filterLayer" class="modal-layer" hidden>
+    <div class="backdrop" data-filter-close></div>
+    <section class="modal filter-modal" role="dialog" aria-modal="true" aria-labelledby="filterTitle">
+      <header class="modal-head"><h2 id="filterTitle">筛选公司</h2><button class="icon-button" data-filter-close title="关闭" aria-label="关闭"><i data-lucide="x"></i></button></header>
+      <div id="filterContent"></div>
+    </section>
+  </div>
+  <div id="tooltip" role="tooltip" hidden></div>
+</body>
+</html>

@@ -14,7 +14,9 @@ for directory in ("hub", "dexterous-hand-news"):
     if not source.exists():
         continue
     for path in source.rglob("*"):
-        if path.is_file() and path.suffix in (".html", ".json", ".js", ".css", ".png", ".jpg", ".jpeg", ".webp", ".ico", ".woff2"):
+        if any(part in ("node_modules", ".git", "__pycache__") for part in path.parts):
+            continue
+        if path.is_file() and path.suffix in (".html", ".json", ".js", ".css", ".png", ".jpg", ".jpeg", ".webp", ".svg", ".ico", ".woff2"):
             target = site / path.relative_to(root)
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(path, target)

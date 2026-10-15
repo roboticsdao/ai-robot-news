@@ -326,7 +326,7 @@ def has_recent_content(text):
     dates = re.findall(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]', text or "")
     if not dates:
         return False
-    return all((parse_item_date(d) or TODAY.date()) >= CUTOFF_DATE for d in dates)
+    return all((parsed := parse_item_date(d)) is not None and CUTOFF_DATE <= parsed <= TODAY.date() for d in dates)
 
 def section_item_counts(text):
     counts = {}
@@ -866,7 +866,7 @@ def md_to_html(md):
     return f'''<!DOCTYPE html>
 <html lang="zh"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 		<title>Dexterous Hand News | {DATE_STR}</title><style>{CSS}</style>{THEME_JS}</head><body>
-	<div class="top-bar"><div class="history-wrap"><button class="history-btn" id="historyBtn"><svg viewBox="0 0 16 16"><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 12.5A5.5 5.5 0 1 1 8 2.5a5.5 5.5 0 0 1 0 11zM8.5 4h-1v4.5l3.5 2 .5-.87-3-1.75V4z"/></svg>历史记录</button><div class="history-panel" id="historyPanel"><h3>📅 刷新记录</h3><div id="historyList"></div></div></div><div class="top-actions"><div class="updated-at">更新于 {TIME_STR} JST</div><button class="theme-btn" id="themeBtn" type="button"><span id="themeIcon" aria-hidden="true">◐</span></button></div></div>
+	<div class="top-bar"><div class="history-wrap"><button class="history-btn" id="historyBtn"><svg viewBox="0 0 16 16"><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 12.5A5.5 5.5 0 1 1 8 2.5a5.5 5.5 0 0 1 0 11zM8.5 4h-1v4.5l3.5 2 .5-.87-3-1.75V4z"/></svg>历史记录</button><div class="history-panel" id="historyPanel"><h3>📅 刷新记录</h3><div id="historyList"></div></div></div><div class="top-actions"><a href="../hub/#hand" style="font-size:12px;color:var(--link);white-space:nowrap">产业图谱</a><div class="updated-at">更新于 {TIME_STR} JST</div><button class="theme-btn" id="themeBtn" type="button"><span id="themeIcon" aria-hidden="true">◐</span></button></div></div>
 	<div class="masthead"><h1>Dexterous Hand News</h1><div class="date">{DATE_STR} — {WEEKDAY_EN} / {WEEKDAY_JP}曜日</div></div>
 <div class="disclaimer">{discl}</div>
 {body}

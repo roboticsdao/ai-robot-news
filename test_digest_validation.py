@@ -17,6 +17,10 @@ class DigestValidationTests(unittest.TestCase):
         self.assertIn('Original disclaimer',page)
         self.assertIn('No new readable article',page)
         self.assertIn('Japan',page)
+
+    def test_invalid_or_future_dates_are_not_treated_as_today(self):
+        for date in ('2026.99.99', '2099.01.01'):
+            self.assertFalse(news.has_recent_content(f'- **[{date}] Source story**'))
     def test_local_and_chinese_text_of_same_story_do_not_compare(self):
         body = "Honda announced new robot hardware for an experiment on a space station with twelve sensors and a precision arm."
         digest = f"- **[{news.DATE_STR}] Honda experiment**\n  English: {body}\n  中文：总结：{body}"

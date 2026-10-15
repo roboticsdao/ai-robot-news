@@ -16,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: daily-news-publish
@@ -41,10 +42,17 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u dexterous-hand-news/dexterous_hand_news.py
+      - name: Refresh integrated portal
+        run: python tools/build_portal.py
       - name: Publish generated files
         run: |
           git config user.name "Dexterous Hand News Bot"
           git config user.email "bot@example.com"
           git add dexterous-hand-news/latest.html dexterous-hand-news/Dexterous_Hand_News_*.html dexterous-hand-news/Dexterous_Hand_News_*.md dexterous-hand-news/history.json dexterous-hand-news/feed.json dexterous-hand-news/status.json
+          git add hub/data hub/assets/logos
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           bash .github/scripts/push-generated.sh
+      - name: Deploy committed edition
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --repo "${{ github.repository }}" --ref main

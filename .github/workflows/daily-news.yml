@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: daily-news-publish
   cancel-in-progress: false
@@ -33,8 +34,15 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u ai_robot_news_automation.py
+      - name: Refresh integrated portal
+        run: python tools/build_portal.py
       - name: Push
         run: |
           git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md history.json feed.json status.json
+          git add hub/data hub/assets/logos
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           bash .github/scripts/push-generated.sh
+      - name: Deploy committed edition
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --repo "${{ github.repository }}" --ref main

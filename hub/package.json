@@ -1,0 +1,16 @@
+{
+  "name": "roboticsdao-intelligence",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "d3": "7.9.0",
+    "lucide": "0.468.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "check": "node --check app.js"
+  },
+  "devDependencies": {
+    "vite": "6.4.1"
+  }
+}
