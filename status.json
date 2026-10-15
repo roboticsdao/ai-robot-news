@@ -1,0 +1,13 @@
+{
+  "state": "ok",
+  "checked_at": "2026-10-15T09:50:23.364841+09:00",
+  "latest_article_at": "2026-10-15T09:00:12+09:00",
+  "articles": 20,
+  "sections": {
+    "美国 / United States": 5,
+    "中国 / China": 5,
+    "日本 / Japan": 5,
+    "Humanoid Robotics": 5
+  },
+  "shortfalls": {}
+}
