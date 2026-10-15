@@ -92,6 +92,25 @@ translations. Missing translations are explicit partial-health data. Off-topic,
 duplicated harassment/parade coverage is excluded from the robotics industry feed.
 Unused title-based template generators were removed from all three code paths.
 
+## Final Production Verification
+
+The final generators completed successfully: AI Robot run `38664462803`, Dexterous
+Hand run `38664431644`, and Stock Market run `38664465241`. Published feeds contain
+20 / 8 / 23 source articles respectively, each with a nonempty Chinese summary;
+`translations_missing` is zero for all three. Stock has 8 US, 7 Japan and 8 macro
+articles in addition to separate quote supplements. AI's 5 humanoid entries cover
+Japan/GMO, automotive logistics, Unitree locomotion, commercial laundry and Agility's
+SEC milestone, not repeated coverage of a harassment incident.
+
+The deployed hub and old pages were opened in the independent browser. All 13 hub
+routes passed production desktop/mobile checks without document overflow, JavaScript
+errors or failed resource requests. Original pages also passed 390/2560 width checks,
+theme switching, original-link presence and history loading.
+
+The static exporter adds content hashes to CSS/JS URLs so a new deployment does not
+reuse an old cached application bundle. A mocked missing-translation state visibly
+showed the partial-health banner and missing count, then the interception was removed.
+
 Earlier local HTTP backlog resets were resolved by raising the test server backlog;
 the final clean browser run had no resource errors. These were not mistaken for a
 Gemini or production-source failure.

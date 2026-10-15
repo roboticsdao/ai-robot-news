@@ -1,4 +1,5 @@
 import shutil
+import hashlib
 from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
@@ -21,4 +22,11 @@ for directory in ("hub", "dexterous-hand-news"):
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(path, target)
 (site / ".nojekyll").touch()
+portal = site / "hub" / "index.html"
+if portal.exists():
+    html = portal.read_text(encoding="utf-8")
+    for asset in ("style.css", "app.js", "views.js", "graphs.js", "vendor/d3.min.js", "vendor/lucide.js"):
+        version = hashlib.sha256((portal.parent / asset).read_bytes()).hexdigest()[:12]
+        html = html.replace(f'"{asset}"', f'"{asset}?v={version}"')
+    portal.write_text(html, encoding="utf-8")
 print(f"Prepared {sum(1 for p in site.rglob('*') if p.is_file())} static files")
