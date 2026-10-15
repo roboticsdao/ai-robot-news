@@ -1,10 +1,11 @@
 {
   "state": "ok",
-  "checked_at": "2026-10-15T10:05:51.043684+09:00",
+  "checked_at": "2026-10-15T10:13:26.040454+09:00",
   "latest_article_at": "2026-10-14T22:39:47+09:00",
   "articles": 8,
   "sections": {
     "Global": 8
   },
-  "shortfalls": {}
+  "shortfalls": {},
+  "translations_missing": 0
 }
