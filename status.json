@@ -1,6 +1,6 @@
 {
   "state": "ok",
-  "checked_at": "2026-10-15T10:07:19.549316+09:00",
+  "checked_at": "2026-10-15T10:14:41.901889+09:00",
   "latest_article_at": "2026-10-15T09:50:50+09:00",
   "articles": 20,
   "sections": {
@@ -9,5 +9,6 @@
     "日本 / Japan": 5,
     "Humanoid Robotics": 5
   },
-  "shortfalls": {}
+  "shortfalls": {},
+  "translations_missing": 0
 }
