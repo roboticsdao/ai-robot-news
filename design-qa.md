@@ -142,3 +142,40 @@ Gemini or production-source failure.
 - [x] Static export excludes dependencies, Git metadata and Python caches.
 
 final result: passed
+
+## Responsive Follow-up
+
+Follow-up request: explicitly support phones, iPads and computers, including rotation.
+
+- At 768 px the original 275 px rail reduced the news column to 493 px. Portrait
+  tablet layouts now use the full column; company details remain available by tapping.
+- Phone/tablet news filters wrap into deliberate rows. Touch inputs use 16 px text
+  and main icon actions are 44 px; labeled tablet buttons are not forced into icon widths.
+- Settings and navigation menus scroll within short landscape viewports. Mobile menu
+  edges stay onscreen and tapping the same menu a second time now closes it.
+- Safe-area insets and dynamic viewport height reserve room for device edges and
+  bottom navigation. Mobile dialogs fill usable height without clipping close controls.
+- Charts relayout on resize/rotation without losing the selected month or layout.
+  The Figure evolution chart also redraws to its actual modal width.
+- Ordinary charts permit native vertical touch scrolling; only the interactive
+  relationship map captures pan/zoom gestures. Wide tables retain internal scrolling.
+- Computer layouts remain fluid, including 2560 px width, without a page-wide maximum.
+
+Verification used Playwright's WebKit engine with an iPad touch-emulation context,
+not physical iOS hardware. Final WebKit checks covered all 13 routes at 320x568,
+390x844, 568x320, 768x1024, 820x1180, 844x390, 1024x768, 1180x820 and 1366x1024:
+117 route/viewport checks, zero document overflow, clipped company-filter labels,
+or JavaScript errors. Chromium additionally passed 65 route/viewport checks across
+568x320, 1280x800, 1440x900, 1920x1080 and 2560x1440.
+
+Touch interactions checked: first/last menu bounds and dismissal, language settings
+in a 568x320 landscape viewport, 320/568/768-wide company dialogs, and relationship
+map rotation from 1024x768 to 768x1024. Month 2025-09 and cluster layout were preserved;
+chart viewBox width updated to 768. The phone company chart updated to 340 px width.
+
+Evidence: `output/playwright/responsive-ipad-comparison.png` puts the original and
+revised 768x1024 Chromium captures side by side at density 1. Touch screenshots
+`responsive-final-news-*.png` and `responsive-webkit-*.png` use density 2 and were
+inspected separately; they are not treated as 1:1 pixel comparisons with density-1 shots.
+
+Responsive follow-up result: passed.

@@ -191,5 +191,20 @@
     }catch(error){$('#main').innerHTML=`<div class="empty"><h2>${t('资料暂时无法载入','Data temporarily unavailable')}</h2><p>${E(error.message)}</p><a href="../latest.html">AI Robot News</a> · <a href="../../stock-market-daily/latest.html">Stock Market Daily</a></div>`;console.error(error);}
   }
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{if(S.theme==='system')applyTheme('system');});
+  let resizeTimer,layoutWidth=innerWidth,layoutHeight=innerHeight;
+  addEventListener('resize',()=>{
+    clearTimeout(resizeTimer);
+    resizeTimer=setTimeout(()=>{
+      if(!A.D||(innerWidth===layoutWidth&&Math.abs(innerHeight-layoutHeight)<80))return;
+      layoutWidth=innerWidth;layoutHeight=innerHeight;
+      if(['finance','betmap','network'].includes(S.view))A.render();
+      const [,type,encoded]=location.hash.slice(1).split('/');
+      if(type==='co'&&!$('#modalLayer').hidden){
+        const id=decodeURIComponent(encoded||'');
+        if($('#valueChart'))A.drawValue?.('#valueChart',A.D.valHist[id]||[]);
+        if($('#evolutionChart'))A.drawEvolution?.('#evolutionChart',id);
+      }
+    },180);
+  });
   document.addEventListener('DOMContentLoaded',load);
 })();
