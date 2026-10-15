@@ -6,6 +6,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from article_summaries import deduplicate_summaries, enrich_articles, fetch_rss_bytes, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
+from edition_health import publisher_candidates, write_feed
 
 LOCAL_TZ = timezone(timedelta(hours=9))
 TODAY = datetime.now(LOCAL_TZ)
@@ -382,8 +383,10 @@ def has_required_content(text):
     if not has_recent_content(text):
         return False
     counts = section_item_counts(text)
-    required = {"🇺🇸": 3, "🇨🇳": 3, "🇯🇵": 3, "🤖": 5}
-    return all(any(emoji in heading and count >= minimum for heading, count in counts.items()) for emoji, minimum in required.items())
+    # Per-section targets are availability goals, not evidence of a system crash.
+    return sum(counts.values()) >= 3 and all(
+        any(emoji in heading for heading in counts) for emoji in ("🇺🇸", "🇨🇳", "🇯🇵", "🤖")
+    )
 
 def digest_summary_records(text):
     records = []
@@ -738,7 +741,7 @@ def generate_digest_from_rss():
 
     grouped_items = []
     global_headlines = []
-    for region in REGIONS:
+    for region in sorted(REGIONS, key=lambda r: r["label"] != "Humanoid Robotics"):
         print(f"   RSS/body fetch: {region['emoji']} {region['label']}")
         target = region.get("min_items", 5)
         candidate_limit = target + 8
@@ -747,7 +750,18 @@ def generate_digest_from_rss():
             for item in candidates:
                 item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
                 item["region_label"] = region["label"]
-            items = enrich_articles(candidates)[:target + 2]
+            items = enrich_articles(candidates)[:target + 3]
+            if len(items) < target:
+                feeds = ["https://rss.itmedia.co.jp/rss/2.0/monoist.xml"] if region["emoji"] == "🇯🇵" else ["https://www.ithome.com/rss/"] if region["emoji"] == "🇨🇳" else ["https://www.therobotreport.com/feed/", "https://roboticsandautomationnews.com/feed/"]
+                fallback = publisher_candidates(
+                    feeds, TODAY - timedelta(days=3), TODAY,
+                    lambda title: is_relevant_robotics_item(region, title), fetch_rss_bytes,
+                )
+                fallback = [i for i in fallback if not duplicate_story(i["headline"], global_headlines + [j["headline"] for j in items])]
+                for item in fallback:
+                    item["summary_language"] = "Japanese" if region["emoji"] == "🇯🇵" else "Chinese" if region["emoji"] == "🇨🇳" else "English"
+                    item["region_label"] = region["label"]
+                items.extend(enrich_articles(fallback[:16]))
             print(f"   Readable full-text items: {len(items)}")
         except Exception as e:
             print(f"   Article fetch error for {region['label']}: {e}")
@@ -769,12 +783,16 @@ def generate_digest_from_rss():
         summarized_by_region.setdefault(item["region_label"], []).append(item)
 
     total = 0
-    for region, _ in grouped_items:
+    published_items = []
+    for region in REGIONS:
         items = summarized_by_region.get(region["label"], [])[:region.get("min_items", 5)]
         parts.append(f"\n## {region['emoji']} {region['label']}\n")
         if not items:
-            parts.append(f"- **[{DATE_STR}] No readable source — 暂无可读取全文的新闻**\n  中文：本地区近期文章正文均无法可靠读取，因此未生成推测性摘要。\n  📰 Google News")
+            parts.append("> 当前时段暂无可核实的最新全文，其他板块照常更新；未用旧稿或标题推测补数。")
             continue
+        if len(items) < region.get("min_items", 5):
+            parts.append(f"> 本轮核实 {len(items)} 条新闻，未达到目标数量；不重复收录或编造补数。")
+        published_items.extend(items)
         for item in items:
             total += 1
             if item["summary_language"] == "Japanese":
@@ -791,6 +809,10 @@ def generate_digest_from_rss():
                 f"  📰 [{item['source']}]({item['link']})"
             )
 
+    digest = "\n\n".join(parts)
+    if not has_required_content(digest) or not validate_digest_quality(digest):
+        raise RuntimeError("No publishable verified robot edition; preserving the previous edition")
+    write_feed(OUTPUT_DIR, published_items, "robot", TODAY, {r["label"]: r.get("min_items", 5) for r in REGIONS})
     parts.append(f"\n---\n※AI Robot News Digest | {DATE_STR} | full-text items: {total}")
     return "\n\n".join(parts)
 
@@ -805,12 +827,16 @@ DATE_RE = re.compile(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]\s*(.+?)\*\*')
 
 def md_to_html(md):
     regions, cur, items, discl = [], None, [], ""
+    notices = {}
     for line in md.split("\n"):
         s = line.strip()
         if s.startswith("> "):
-            discl = s[2:].strip()
+            if cur:
+                notices[cur[1]] = s[2:].strip()
+            else:
+                discl = s[2:].strip()
         elif s.startswith("## "):
-            if cur and items:
+            if cur:
                 regions.append((cur, items))
             h = s[3:].strip()
             f = ""
@@ -829,12 +855,14 @@ def md_to_html(md):
                 items.append({"date": "", "title": t, "lines": []})
         elif items and not s.startswith("## ") and not s.startswith("# ") and not s.startswith("---") and s:
             items[-1]["lines"].append(s)
-    if cur and items:
+    if cur:
         regions.append((cur, items))
 
     parts = []
     for (flag, label), itms in regions:
         parts.append(f'<div class="region"><div class="region-head">{flag} {label}</div>')
+        if label in notices:
+            parts.append(f'<p class="item-en">{html.escape(notices[label])}</p>')
         for it in itms:
             en = jp = zh = src_name = src_url = ""
             for ln in it["lines"]:

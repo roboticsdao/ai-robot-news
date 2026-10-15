@@ -4,6 +4,7 @@ import os, subprocess, re, sys, time, json, unicodedata, urllib.parse, urllib.re
 from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from edition_health import write_feed
 
 from article_summaries import (
     deduplicate_summaries,
@@ -772,6 +773,9 @@ def generate_digest_from_rss():
             f"  📰 [{item['source']}]({item['link']})"
         )
 
+    if total < MIN_DAILY_ITEMS:
+        raise RuntimeError("Fewer than five verified dexterous hand articles; preserving the previous edition")
+    write_feed(OUTPUT_DIR, summarized, "hand", TODAY, {"Global": MIN_DAILY_ITEMS})
     parts.append(f"\n---\n※Dexterous Hand News Digest | {DATE_STR} | full-text items: {total}")
     return "\n\n".join(parts)
 

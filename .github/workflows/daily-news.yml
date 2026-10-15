@@ -1,9 +1,8 @@
 name: Daily AI Robot News
 on:
   schedule:
-    - cron: '0 23 * * *'
-    - cron: '30 23 * * *'
-    - cron: '0 0 * * *'
+    - cron: '10 23 * * *'
+    - cron: '10 11 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -36,6 +35,6 @@ jobs:
         run: python -u ai_robot_news_automation.py
       - name: Push
         run: |
-          git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md history.json
+          git add latest.html AI_Robot_News_*.html AI_Robot_News_*.md history.json feed.json status.json
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           bash .github/scripts/push-generated.sh
