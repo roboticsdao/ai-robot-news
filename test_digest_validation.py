@@ -4,6 +4,12 @@ import ai_robot_news_automation as news
 
 
 class DigestValidationTests(unittest.TestCase):
+    def test_humanoid_industry_feed_excludes_duplicate_crime_and_parade_coverage(self):
+        region = next(r for r in news.REGIONS if r['label'] == 'Humanoid Robotics')
+        for title in ('Police seize humanoid robot after alleged assault on teen', 'Authorities investigate public harassment of teen girl by humanoid robot', 'Unitree G1 humanoid robot attends parade of Ljubljana Wind Orchestra'):
+            self.assertFalse(news.is_relevant_robotics_item(region, title))
+        self.assertTrue(news.is_relevant_robotics_item(region, 'UBTECH and FAW Volkswagen deploy humanoid robots in automotive logistics'))
+
     def test_shortfall_is_available_content_not_a_system_failure(self):
         digest='\n'.join(f'## {region}\n- **[{news.DATE_STR}] A source story**' for region in ['🇺🇸 United States','🇨🇳 China','🇯🇵 Japan','🤖 Humanoid Robotics'])
         self.assertTrue(news.has_required_content(digest))

@@ -71,7 +71,7 @@
     $('#contextLeft').innerHTML=`<strong>${E(L({zh:names[S.view]?.[0],en:names[S.view]?.[1]}))}</strong><span class="muted">· ${A.D.companies.length} ${t('家公司','companies')}</span>`;
     $('#contextRight').innerHTML=`<span>${t('图谱截至','Index as of')} ${A.date(A.D.asOf)}</span><a href="#status" title="${t('更新状态','Update status')}">${I('activity')}</a>`;
     const partial=Object.entries(A.D.feed_status||{}).filter(([k,v])=>['partial','stale'].includes(A.feedState(v,k)));
-    $('#healthbar').innerHTML=partial.length?`<div class="notice warning">${t('部分日报新稿不足或已超过更新周期。','Some feeds have fewer verified stories or are overdue.')}<a href="#status">${t('更新详情','Update details')}</a></div>`:'';
+    $('#healthbar').innerHTML=partial.length?`<div class="notice warning">${t('部分日报新稿不足、摘要缺失或已超过更新周期。','Some feeds have fewer stories, missing translations or are overdue.')}<a href="#status">${t('更新详情','Update details')}</a></div>`:'';
     A.iconize();
   }
   A.render=()=>{

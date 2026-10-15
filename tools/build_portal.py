@@ -59,6 +59,10 @@ def classify(title, kind="robot"):
     return next((topic for topic, terms in groups if any(term in value for term in terms)), "robots")
 
 
+def industry_story(title):
+    return not any(term in title.lower() for term in ("harassment", "alleged assault", "police seize", "robot attends parade", "parade of"))
+
+
 def markdown_articles(text, kind):
     section = "Global"
     articles = []
@@ -169,6 +173,8 @@ def name_matches(name, text):
 def merge_news(reference, articles, companies):
     merged = {}
     for item in reference:
+        if not industry_story(str(item.get("title", ""))):
+            continue
         url = canonical_url(item.get("url", ""))
         if not url:
             continue
@@ -176,6 +182,8 @@ def merge_news(reference, articles, companies):
         value["id"] = hashlib.sha256(url.encode()).hexdigest()[:16]
         merged[url] = value
     for article in articles:
+        if article["kind"] != "market" and not industry_story(article.get("headline", "")):
+            continue
         url = canonical_url(article.get("url", ""))
         date = article.get("date", "").replace(".", "-").replace("/", "-")
         if not url or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):

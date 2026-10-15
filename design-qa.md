@@ -83,7 +83,14 @@ Passed in the independent Playwright browser authorized by the user:
 - Multi-axis screener (52 matching companies for the tested pick), reset and axis selection.
 - Mobile bottom-menu navigation to Dexterous Hand.
 - Final route/interaction run: zero JavaScript errors and zero failed resource requests.
-- Python unit suites: AI root 29, Dexterous Hand 28, Stock Market 28, all passed.
+- Python unit suites: AI root 31, Dexterous Hand 29, Stock Market 29, all passed.
+
+Final content verification additionally found a refused/malformed model batch had
+discarded five Chinese summaries while leaving valid source extracts. Batch parse
+failures now retry articles individually; one refused article cannot discard other
+translations. Missing translations are explicit partial-health data. Off-topic,
+duplicated harassment/parade coverage is excluded from the robotics industry feed.
+Unused title-based template generators were removed from all three code paths.
 
 Earlier local HTTP backlog resets were resolved by raising the test server backlog;
 the final clean browser run had no resource errors. These were not mistaken for a
