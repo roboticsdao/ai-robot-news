@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.16（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.15] Audacy — We miss the days when Boston Dynamics robots didn't have faces | The Christian Arcand Show**
+  English: Boston Dynamics introduced Hugo, a new robotic creation described as resembling a character from Westworld or Sesame Street, with plans for deployment at a theme park.
+  中文：总结：波士顿动力公司推出了名为雨果的最新机器人创作，其外观被形容为类似于《西部世界》或《芝麻街》中的角色，并计划将其部署在主题公园中。
+  📰 [Audacy](https://www.audacy.com/weei/video/we-miss-the-days-when-boston-dynamics-robots-didn-t-have-faces-the-christian-arcand-show-xbnl7nu)
+
+- **[2026.10.14] Honeywell — Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations**
+  English: Honeywell Technologies launched Forge Cognition on October 14, 2026, a self-contained agentic AI and simulation platform for facility operations developed with technology from NVIDIA and Dell Technologies. Forge Cognition combines real-time digital twins with AI agents to help operators understand facility conditions, simulate scenarios, and coordinate actions across buildings, campuses, and industrial operations. NVIDIA provides advanced AI and accelerated computing capabilities, with its Voyager campus serving as an early real-world proving ground, utilizing Nemotron open models, Omniverse libraries, Cosmos open models, and RTX PRO GPUs. Dell Technologies provides AI infrastructure including Dell PowerEdge XE servers, AI Data Platform data and storage engines, and cyber resiliency solutions through the Dell AI Factory with NVIDIA.
+  中文：总结：霍尼韦尔科技于2026年10月14日推出了Forge Cognition，这是一个用于设施运营的独立智能体人工智能与模拟平台，由英伟达和戴尔科技的技术共同开发。 Forge Cognition将实时数字孪生与人工智能智能体相结合，帮助运营商了解设施状况、模拟运行场景，并在建筑物、园区和工业运营中协调各项操作。 英伟达提供先进的人工智能和加速计算能力，其沃杰园区作为早期的现实世界试验场，采用了Nemotron开源模型、Omniverse库、Cosmos开源模型和RTX PRO GPU。 戴尔科技通过搭载英伟达的戴尔人工智能工厂，提供包括戴尔PowerEdge XE服务器、人工智能数据平台数据与存储引擎以及网络韧性解决方案在内的人工智能基础设施。
+  📰 [Honeywell](https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-launches-forge-cognition-with-nvidia-and-dell-technologies-advancing-physical-ai-across-buildings-and-industrial-operations)
+
+- **[2026.10.14] The National Law Review — Grid Dynamics Co-Hosts Physical AI Summit Alongside NVIDIA, EAIGG**
+  English: Grid Dynamics Holdings, Inc. , an AI transformation partner for the Fortune 1000, announced it is co-hosting the invite-only Physical AI Summit alongside NVIDIA, EAIGG, and BGV. The event is scheduled for September 24, 2026, at the Wells Fargo Innovation Center in Menlo Park, CA, under the theme "From World Models to Real-World Control. " The summit brings together enterprises, Physical AI startups, and investors to address the practical challenges of deploying, scaling, and operating Physical AI systems in production environments across manufacturing, CPG, logistics, and retail. Grid Dynamics' involvement highlights its strategic partnerships with NVIDIA and Doosan Robotics, as well as its GAIN Platform for Physical AI, which supports digital twin simulation and robotic manipulation for complex industrial use cases.
+  中文：总结：Grid Dynamics Holdings, Inc. 作为财富1000强的AI转型合作伙伴，宣布将与NVIDIA、EAIGG和BGV共同举办仅限受邀者参加的物理AI峰会。 该峰会定于2026年9月24日在加利福尼亚州门洛帕克的富国银行创新中心举行，主题为“从世界模型到现实世界控制”。 活动汇聚了企业、物理AI初创公司及投资者，重点探讨在制造、消费品、物流和零售领域中部署、扩展和运营物理AI系统的实际挑战。 Grid Dynamics的参与依托于其与NVIDIA和Doosan Robotics的战略合作伙伴关系，并展示了其用于数字孪生仿真和机器人操作的GAIN平台，以应对复杂的工业用例。
+  📰 [The National Law Review](https://natlawreview.com/press-releases/grid-dynamics-co-hosts-physical-ai-summit-alongside-nvidia-eaigg-and-bgv)
+
+- **[2026.10.14] TechGig — NVIDIA unveils Jetson Orin Nano 2 for edge AI robotics**
+  English: NVIDIA announced the Jetson Orin Nano 2 on August 25, 2026, positioning it as the successor to the Jetson Orin Nano Super to enhance edge AI performance for home robots, drones, and small builders. The new board features Arm Cortex-A78 cores, 1,536 CUDA cores, 8GB of LPDDR5X-7500 memory with 120 GB/s bandwidth, and an Ampere GPU. It delivers 78 TOPS of AI performance, offering twice the inference capabilities and 40% better power efficiency compared to its predecessor. The 8GB memory configuration favors smaller, quantized models over larger language models. The module and developer kit are expected in the first half of 2027, with pricing not yet disclosed.
+  中文：总结：NVIDIA于2026年8月25日宣布推出Jetson Orin Nano 2，将其定位为Jetson Orin Nano Super的后继产品，旨在增强家用机器人、无人机和小型开发者的边缘AI性能。 新开发板采用Arm Cortex-A78核心、1,536个CUDA核心、8GB的LPDDR5X-7500内存（带宽达120 GB/s）以及Ampere GPU。 它可提供78 TOPS的AI性能，与上一代产品相比，推理能力提升一倍，能效提高40%。 其8GB内存配置更倾向于较小的量化模型而非大型语言模型。 模块和开发者套件预计于2027年上半年推出，定价尚未公布。
+  📰 [TechGig](https://techgig.com/news/ai/nvidia-unveils-jetson-orin-nano-2-for-edge-ai-robotics/134930001)
+
+- **[2026.10.14] The Motley Fool — The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics.**
+  English: Humanoid robot manufacturer Agility Robotics is preparing to go public by merging with special-purpose acquisition company Churchill Capital Corp XI, resulting in an implied company valuation of $2.5 billion. The company reported a loss of $140 million last year on $1.8 million in sales and expects to raise $620 million through the merger. Its fifth-generation humanoid robot, Digit, can lift up to 50 pounds and has over $300 million worth of orders lined up. Agility currently deploys robots with customers including GXO Logistics, Toyota Motor, and Schaeffler across nine locations, operating on a robotics-as-a-service model where each robot represents $400,000 to $500,000 in revenue over a five-year lifespan.
+  中文：总结：人形机器人制造商Agility Robotics正准备通过与特殊目的收购公司Churchill Capital Corp XI合并上市，隐含公司估值为25亿美元。 该公司去年在180万美元的销售额下亏损1.4亿美元，并预计通过此次合并筹集6.2亿美元。 其第五代人形机器人Digit能够举起重达50磅的物体，目前已获得了价值超过3亿美元的订单。 Agility目前在九个不同地点为GXO Logistics、丰田汽车和舍弗勒等客户部署机器人，并采用机器人即服务模式，在五年寿命期内每台机器人可带来40万至50万美元的收入。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/13/the-first-pure-play-humanoid-robot-stock-is-about/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.15] 时代在线 — IP+AI+机器人再添新场景：巨星传奇携手宇树科技打造机器人舞台剧亮相乌镇戏剧节**
+  中文：总结：2026年10月15日，第十三届乌镇戏剧节正式开幕，由巨星传奇与宇树科技出品、江湖文投联合出品的机器人舞台剧《第二指令：恰逢良机》作为古镇嘉年华特别联动之一亮相。 该剧将真人演员、机器人及四足机器狗带到同一舞台，采用人机共演形式，以直播间等热闹叙事呈现兼具科技感与东方韵味的歌舞表演，探讨人机边界、责任与信任。 巨星传奇与宇树科技于2025年7月达成全球战略合作，同年9月推出四足机器狗UNI DOGGIE并获得千万级订单，双方计划成立合资公司。 此次戏剧节亮相标志着双方合作从产品端进一步走向内容端和现场娱乐场景，演出于10月15日至25日在乌镇西栅景区升莲广场举行。
+  📰 [时代在线](https://time-weekly.com/post/333537)
+
+- **[2026.10.15] 中新经纬 — 广交会上 外籍残障人士借中国外骨骼机器人重新行走**
+  中文：总结：2026年10月15日，来自马来西亚的境外采购商刘智贤专程来到第140届广交会现场，体验了中国企业制造的外骨骼机器人。 他是一名下半身瘫痪近5年的残障人士，期盼借助外骨骼机器人实现正常行走。 他在体验后表示感觉还可以，并给其一个自己站起来运动的机会。
+  📰 [中新经纬](https://www.jwview.com/jingwei/html/10-15/692719.shtml)
+
+- **[2026.10.15] 中华网 — 中国工程院院士谭建荣走进武汉工程科技学院 纵论智能机器人发展趋势**
+  中文：总结：10月14日下午，武汉工程科技学院举行“院士进校园”主题报告会，中国工程院院士、机械工程专家谭建荣应邀到访，为师生带来题为《从机器人到智能机器人——具身智能与智能机器人：关键技术与发展趋势》的前沿学术报告。 谭建荣院士系统梳理了人工智能的发展演进脉络，重点围绕生成式AI、元宇宙、人形机器人三大颠覆性技术方向展开解读，并结合服务机器人送餐、达芬奇手术机器人临床应用等产业一线案例，阐释了人工智能与机械工程深度融合的发展趋势。 在互动环节，谭建荣院士就人工智能与学校优势专业的融合路径、青年学子专业学习规划以及AI技术对就业发展的实际影响等问题逐一回应，鼓励青年学子主动拥抱新技术，在跨学科融合中找准定位。
+  📰 [中华网](https://hb.china.com/jiaoyu/20003188/20261015/26019434.html)
+
+- **[2026.10.15] Mezha.net — 中国初创公司 DexForce 押注虚拟数据，降低人形机器人训练成本**
+  中文：总结：中国初创公司DexForce位于深圳，由香港中文大学（深圳）机器学习教授贾奎于2021年创立，目前拥有约500名员工。 该公司开发用于模拟物理环境的人工智能软件以及预测物体移动和互动的模型，押注虚拟环境生成的合成数据，在模拟环境中训练机器人后再将其所学迁移到实体机器上，以降低人形机器人训练成本并提高效率。 该公司获得联想创投、蓝思科技及数家国有基金支持，在B轮融资中筹集了10亿元（1亿4700万美元），估值超过100亿元，其软件已被丰田、三星、松下、富士康、海尔和海信等工业场景使用，机器人在中国超过15座城市的商场和旅游景点为顾客服务。
+  📰 [Mezha.net](https://mezha.net/ch/news/mezha-017d10e4698b40377a76fbe0_chinese-startup-dexforce-bets-on-virtual/)
+
+- **[2026.10.15] finance.sina.com.cn — 消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元**
+  中文：总结：具身智能独角兽公司智元创新近期启动了新一轮融资，融资额约 10 亿元—15 亿元，本轮融资已接近收尾，最新估值约 500 亿元。 智元成立于 2023 年，是一家以具身智能为核心技术方向的通用 AI 机器人公司，其第 2 万台具身智能机器人于 9 月 24 日宣布下线，刷新全球量产纪录。 根据 Counterpoint Research 发布的人形机器人研究报告，2026 年上半年全球人形机器人出货量突破 2.2 万台，同比增长近 300%。 其中，智元 AGIBOT 以 9,700 台的出货量位居全球第一，市场份额超 43%，宇树机器人、银河通用机器人、优必选和乐聚机器人依次排在其后，前五名均为中国厂商且合计占据总出货量的 86%。
+  📰 [finance.sina.com.cn](https://finance.sina.cn/tech/2026-10-14/detail-iniveefp7774904.d.html?oid=%E8%8B%8F%E5%B7%9E%E5%A7%91%E8%8B%8F%E5%8C%BA%E9%9D%A0%E8%B0%B1%E5%93%81%E8%8C%B6%E7%BB%8F%E7%BA%AA%E4%BA%BA%EF%BC%88%E9%AA%8C%E8%AF%81%E4%BF%9D%E7%9C%9F%EF%BC%89%EF%BC%88%E8%81%94%E7%BB%9CV%E5%8A%A0%EF%BC%9A%E2%91%A0%E2%91%A0778593%EF%BC%89%E8%A7%81%E9%9D%A2%E4%BB%98%E6%AC%BE%E7%9C%9F%E4%BA%BA%E9%AA%8C%E8%AF%81%E5%AF%B9%E6%AF%94%E6%97%A0%E5%A5%97%E8%B7%AFpM0GIlVP1y4mwzdbNhxWt8F0219&vt=4)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.15] サンスポ — ホンダが遠隔操作できる「アバターロボット」公開 ASIMOの技術継承、人間並みの器用さ披露**
+  日本語：ホンダは、千葉市美浜区の幕張メッセで開催中の最新ITの展示会「CEATEC 2026」で、自分の分身のように遠隔操作できる「ホンダアバターロボット」を公開している。 人間並みの手の器用さとしっかり握る力強さを特徴とし、「ASIMO」の技術を受け継いでいる。 会場では二輪自動車向け部品の組み立て作業を実演し、操作者がゴーグルとグローブをつけてねじをつまみあげる動作に入ると、ロボットも同じように手を動かしてねじを穴に差し込み、ドライバーで締め上げた。 ホンダはASIMO開発で培った膨大なデータや経験を生かし、人工知能で人の意図を推定して手の動きに補正を加えることで、ドライバーを落とさないようにした。 将来は災害や月面作業などでの実用化を見据えている。 会場では福島県が果実の表面をなでて収穫期を見極めるロボットを公開し、慶応大が物をつかんだ感覚が操作者に伝わるロボットを披露した。
+  中文：总结：本田正在日本千葉市美浜区幕展Messe举办的最新IT展会“CEATEC 2026”上，公开了可像自己分身一样进行远程操作的“本田阿凡达机器人”。 该机器人具备接近人类的手部灵活性以及紧紧握持的强劲力量，继承了“ASIMO”的技术。 在展会上，该机器人实演了二轮汽车零部件的组装作业，当佩戴护目镜和手套的操作人员做出捏起螺丝的动作时，机器人也会做出相同动作，将螺丝笔直插入孔中并用螺丝刀拧紧。 本田利用在ASIMO开发中积累的大量数据与经验，通过人工智能推测人的意图并对手部动作进行修正，使机器人不会掉落螺丝。 本田未来设想将其在灾害救援或月面作业等场景中投入实际应用。 展会上还展出了福岛县公开的通过抚摸果实表面来判断收获期的机器人，以及庆应大学披露的可将抓取物品触感传给操作者的机器人。
+  📰 [サンスポ](https://www.sanspo.com/article/20261015-AKBODNX2QFLZFKZNPDO3V4YXTU/?outputType=amp)
+
+- **[2026.10.14] ドローンジャーナル — GMOインターネットグループ、日本最大級のフィジカルAI拠点「GMOヒューマノイド・ラボ 渋谷ショールーム」全面開業**
+  日本語：2026年10月6日、GMOインターネットグループは、東京・渋谷のセルリアンタワー11階にある「GMOヒューマノイド・ラボ 渋谷ショールーム」を全面オープンした。 先進ロボットと研究開発設備が集まる日本最大級のフィジカルAI研究開発拠点であり、4月7日に延床面積382坪の約2分の1を先行オープンしていたが、残りのエリアの開業により全フロアが稼働し、最大100人収容可能なカンファレンススペース兼開発エリアなどの運用が始まった。 同拠点では、GMOインターネットグループ、GMO AI&ロボティクス商事、GMO Various Roboticsの3社が共同で研究開発を進める。 拡大エリアには、防振床を採用し大型クレーンを導入した開発エリア、最大100人収容可能なカンファレンススペース、GMO AIRの執務エリア、新規設置の来客用会議室が含まれる。 同グループは2026年を「ヒューマノイド元年」と位置づけ、ヒューマノイドの普及を進めることで人口減少が進む日本の課題解決に貢献する方針である。
+  中文：总结：2026年10月6日，GMO互联网集团全面开放了位于东京渋谷“Cerulean Tower”11楼的“GMO人形机器人实验室渋谷展厅”。 这是一个汇聚了先进机器人与研发设备的日本最大级物理AI研发基地，此前于4月7日先行开放了约占382坪延床面积一半的区域。 随着此次其余区域的开业，全楼层投入运营，包含最多可容纳100人的会议空间兼开发区域等设施正式启动。 在该基地中，GMO互联网集团、GMO AI&Robotics商事以及GMO Various Robotics三家公司将共同推进研发工作。 扩建区域包括采用防振地板并引入大型起重机的开发区域、可容纳最多100人的会议空间、GMO AIR的办公区域以及新设的访客会议室。 该集团将2026年定位为“人形机器人元年”，计划通过推进人形机器人的普及，为解决人口不断减少的日本所面临的问题做出贡献。
+  📰 [ドローンジャーナル](https://drone-journal.impress.co.jp/docs/news/1188969.html)
+
+- **[2026.10.13] FNNプライムオンライン — 川崎重工業が坂出工場に計１０００億円投資へ 四足歩行可能な「造船ロボット」実証実験開始へ【香川】**
+  日本語：川崎重工業は、香川県坂出市の造船工場において、造船ロボットの実証実験を2027年から始め、2028年度の実用化を目指すと発表した。 このロボットは四足歩行が可能でAIを搭載し、高い所での溶接や検査に対応できる。 同社は坂出工場で大型クレーンの更新など450億円の投資計画を発表しており、AIロボットの導入に関する投資などを含めると、今後10年で1000億円の規模になるとしている。 坂出工場では現在年間数百億円を売り上げており、商船の建造能力などを強化し、2035年には2000億円超まで引き上げる方針である。
+  中文：总结：川崎重工业宣布，计划在香川县坂出市的造船厂开展造船机器人实证实验，力争在2028年度实现实用化。 该机器人具备四足步行功能并搭载了AI，可应对高处焊接与检查等工作。 川崎重工业此前已公布在坂出厂更新大型起重机等450亿日元的投资计划，若加上此类AI机器人的引入投资等，未来10年总规模将达到1000亿日元。 坂出厂目前年销售额达数百亿日元，该公司计划通过强化商船建造能力等，在2035年将其提升至2000亿日元以上。
+  📰 [FNNプライムオンライン](https://www.fnn.jp/articles/-/1131660)
+
+- **[2026.10.13] PR TIMES — 松尾研究所と川崎重工、ヒューマノイド「Kaleido9」の重量物運搬デモに成功**
+  日本語：株式会社松尾研究所は川崎重工業株式会社と連携し、同社のヒューマノイドロボット「Kaleido9」に対する強化学習Policyの共同開発を行った。 NVIDIAシミュレータを活用したSim2Realプロセスを構築し、開発着手から6週間で学習から実機検証に至る全体フローを完成させた。 2026年5月21日に米国カリフォルニア州サンノゼで開催された川崎重工の「Kawasaki Physical AI Center San Jose」開所式において、Kaleido9が合計約50ポンド（約22.7キロ）のカゴを両手で持ち上げ机上に配置する重量物運搬デモを成功させた。 両社は高齢化に伴う労働力不足などの社会的課題の解決に向け、最先端のフィジカルAI技術を社会へ還元することを目指している。 また、開所式において川崎重工の橋本社長は、医療・介護分野への注力や病院ワンストップソリューションの確立、半導体・自動車などの産業分野への適用を進める方針を示した。
+  中文：总结：株式会社松尾研究所与株式会社川崎重工业合作，针对该公司的仿人机器人“Kaleido9”共同开发了强化学习Policy。 双方构建了利用NVIDIA模拟器的Sim2Real流程，在启动开发后6周内完成了从学习到实机验证的整体流程。 在2026年5月21日于美国加利福尼亚州圣何塞举办的川崎重工“Kawasaki Physical AI Center San Jose”开所式上，“Kaleido9”成功进行了双手提起总计约50磅（约22.7公斤）的篮子并放置在桌上的重物搬运演示。 双方旨在通过最先端物理AI技术的社会应用，解决伴随老龄化而来的劳动力不足等社会课题。 此外，在开所式上，川崎重工桥本社长表示将重点关注医疗护理领域、确立医院一站式解决方案，并推进其在半导体、汽车等产业领域的应用。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000041.000113160.html)
+
+- **[2026.10.15] PR TIMES — 離れた人の「分身」に、AIの「身体」に。日本製卓上型AIテレプレゼンスロボット「kubi 2.0」10月15日発売、初期ロット300台限定**
+  日本語：iPresence株式会社は、日本製卓上型AIテレプレゼンスロボット「kubi 2.0」を2026年10月15日より国内および一部海外市場で発売した。 本体価格は165,000円（税込）で、初回生産分は300台限定となる。 「kubi 2.0」はiPadを装着して遠隔操作し、左右300°・上下55°に首のように動くことで、離れた場所から周囲を見渡し話し相手に向き合える。 専用アプリ「iPresence Agent」との連携により、発売時はベータ版としてAIエージェント機能を提供し、受付や案内などへの活用を進める。 さらに、自走式ロボット「temi」との連携や、AI開発パートナーの募集も行い、テレプレゼンスとフィジカルAIの両方で新しい関わり方を広げていくとしている。
+  中文：总结：iPresence株式会社于2026年10月15日起在日本国内及部分海外市场发售日本制桌面型AI远程出勤机器人“kubi 2.0”。 本体价格为165,000日元（含税），首批产量限量300台。 “kubi 2.0”通过安装iPad进行远程操作，能够像头部一样左右转动300°、上下转动55°，让身处远1处的人员能够环视四周并面向对话对象。 通过与专用应用程序“iPresence Agent”联动，发售时将作为测试版提供AI代理功能，推进其在接待与导览等方面的应用。 此外，该公司还开展了与自走式机器人“temi”的联动以及AI开发合作伙伴的招募，旨在通过远程出勤与物理AI拓展全新的互动方式。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000015.000069565.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.15] 電波タイムズ — 世界最大のヒューマノイドロボットとフィジカルAI特化の国際会議 5月28日(木)-29日(金)、東京・高輪にて開催**
+  English: Humanoids Summit Inc. will host the Humanoids Summit Tokyo 2026 on May 28-29, 2026, at the Takanawa Gateway Convention Center in Tokyo, marking the fourth edition and the first time the event is held in Asia. The conference gathers international enterprises, developers, and investors to discuss humanoid robots and physical AI, focusing on topics such as commercialization, manufacturing scale, supply chain, capital allocation, spatial AI, and safety regulations. Over 40 speakers, exhibiting companies, and sponsors are confirmed, including a keynote and live demonstration by robotics researcher Hiroshi Ishiguro of Osaka University using his Geminoid humanoid. Participating organizations include Google DeepMind, Toyota, Panasonic, Boston Dynamics, General Motors, Honda, and McKinsey & Company.
+  中文：总结：Humanoids Summit Inc. 将于2026年5月28日至29日在东京高轮ゲートウェイコンベンションセンター举办“Humanoids Summit Tokyo 2026”，这是该峰会第四次举办且为首次在亚洲亮相。 会议汇聚了来自美国、欧洲和亚州的顶尖企业、开发者及投资者，重点讨论人形机器人和具身AI，涵盖商业化、量产、供应链、资本配分及安全法规等核心议题。 目前已有超过40位登坛者、出展企业和赞助商确定参与，其中包括大阪大学石黒浩教授的基调演讲及Geminoid机器人的直播演示，其他参与机构还包括Google DeepMind、丰田、松下、波士顿动力、通用汽车、本田以及麦肯锡等。
+  📰 [電波タイムズ](https://www.dempa-times.co.jp/event-information/47934/)
+
+- **[2026.10.15] Pulse 2.0 — Agility Robotics And Churchill Capital Corp XI Move $620 Million SPAC Deal Toward November Vote**
+  English: Agility Robotics and Churchill Capital Corp XI are advancing toward completing their business combination after their joint Form S-4 registration statement was declared effective by the SEC on October 13, 2026. Churchill XI scheduled an extraordinary general meeting for November 2, 2026, for shareholders to vote on the transaction, which is expected to close in November 2026. The combined company will operate as Agility and list on the Nasdaq under the ticker AGLT, creating what Agility expects to be the only U. S. publicly listed pure-play humanoid robotics company with active commercial deployments. The transaction is projected to provide over $620 million in gross proceeds, including approximately $424 million in trust and about $200 million from a common stock PIPE led by Foxconn. Agility plans to allocate the capital to fulfill existing customer orders, expand deployments, increase production of its Digit 5 humanoid robot, and invest in physical AI and manufacturing infrastructure.
+  中文：总结：Agility Robotics与Churchill Capital Corp XI的拟议业务合并推进，双方联合提交的Form S-4注册说明书已于2026年10月13日经美国证券交易委员会宣布生效。 Churchill XI已安排于2026年11月2日召开特别股东大会，对合并及相关事项进行投票，交易预计于2026年11月完成。 合并后新公司将以Agility名义运营，预计在纳斯达克上市，股票代码为AGLT，有望成为美国唯一一家拥有成熟、活跃商业部署的上市纯人形机器人公司。 该交易预计将带来超过$620 million的总收益，其中包括Churchill XI信托账户中约合$424 million的资金，以及由富士康领投的约合$200 million普通股PIPE融资。 Agility计划利用这笔资金履行现有客户订单、扩大商业部署、增加Digit 5人形机器人的产量，并继续投资于具身AI、机器人硬件及制造基础设施。
+  📰 [Pulse 2.0](https://pulse2.com/agility-robotics-and-churchill-capital-corp-xi-move-620-million-spac-deal-toward-november-vote/)
+
+- **[2026.10.15] ad-hoc-news.de — Ubtech Robotics Retreats 6.1% as US Inflation Data Rattles Asian Tech**
+  English: Ubtech Robotics experienced a 6.1% daily decline in its share price amid a broader Asian technology sector retreat driven by a hotter-than-expected U. S. inflation reading and expectations that the Federal Reserve will maintain tighter monetary policy. Reuters attributed the regional slump to technology stocks. Meanwhile, Ubtech recently formed strategic agreements, including a partnership with Xiamen C&D Inc. established on Monday to form a joint venture and target sales of at least 10,000 Ubtech humanoid robots by 2030 across logistics, warehousing, security, and public services, though this target represents an intended sales volume rather than a binding purchase order. Additional initiatives include a development and testing collaboration with FAW-Volkswagen for factory logistics robots, and political backing from Kazakh President Kassym-Jomart Tokayev for a proposed factory in Almaty.
+  中文：总结：受美国高于预期的通胀数据以及美联储可能长期维持紧缩货币政策的预期影响，亚洲股市科技板块普遍下跌，优必选股价单日下跌6.1%，路透社指出该地区性下滑由科技股领跌所致。 尽管股价下跌，优必选近期仍推进了一系列战略合作，包括周一与厦门国贸集团股份有限公司达成战略合作并设立合资公司，设定到2030年销售至少10,000台优必选人形机器人的共同销售目标，涵盖物流、仓储、安防巡检及公共城市场景，但该数字属于意向销售量而非具约束力的采购订单。 其他进展还包括与一汽-大众就工厂物流机器人开展研发测试合作，以及哈萨克斯坦总统卡瑟姆-若马尔特·托卡耶夫对在阿拉木提建立优必选工厂提案给予政治支持。
+  📰 [ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubtech-robotics-retreats-6-1-percent-as-us-inflation-data-rattles-asian/70330451)
+
+- **[2026.10.15] Interesting Engineering — Inside Boston Dynamics' push to build Atlas humanoids in just one hour**
+  English: Boston Dynamics released a video showcasing its prototype operations team that builds and maintains the Atlas humanoid robot through precision machining, assembly, and repair. The team currently builds a robot in about a day, with a target to reduce the process to approximately one hour next year, and longer-term ambitions of reaching minutes. The prototype facility integrates engineers and machinists to perform in-house precision machining, allowing teams to modify components and processes quickly as designs evolve, such as producing parts with tight tolerances and gear cutting. This setup shortens feedback loops between design and testing, enabling components to move from machining to assembly on the same or following day. The process also supports the design of Atlas features like four-finger hands, facilitating physical testing before broader production, though the build times refer to prototype operations rather than a production-line output rate.
+  中文：总结：波士顿动力发布了一段视频，展示了其负责制造和维护Atlas人形机器人的原型运营团队，该团队通过精密机械加工、组装和维修来加速机器人研发。 该公司表示，目前制造一台机器人大约需要一天时间，目标是在明年将该过程缩短至约一小时，长期更期望缩短至几分钟。 该原型工厂将工程师和机械师聚集在一起进行内部精密加工，使团队能够在设计演变时快速修改零件和工艺，包括生产具有严格尺寸公差的零件和进行齿轮切削。 这种紧密的协作缩短了设计与测试之间的反馈循环，使零部件能够在当天或次日从加工转入组装。 此种快速原型开发还支持对Atlas四指手等部件进行物理测试与改进，但上述建造时间针对原型制造流程，并不代表生产线的产出速度或商业交付时间表。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/inside-boston-dynamics-humanoid-robot-factory)
+
+- **[2026.10.14] Mjengo Hub — UBTECH and FAW Volkswagen partner to deploy humanoid robots in automotive logistics**
+  English: Shenzhen-based UBTECH Robotics and joint-venture automaker FAW Volkswagen signed a strategic cooperation agreement to develop and test humanoid robots for industrial factory logistics. The partnership builds on preliminary trials at FAW Volkswagen production facilities, including the Qingdao assembly plant, where UBTECH Walker S series humanoid robots were evaluated for quality control, bolt tightening, and localized component assembly. The expanded collaboration focuses on internal supply chain operations, testing how bipedal embodied-intelligence machines handle dynamic material transport, inventory sorting, and workstation replenishment alongside human workers. The companies will construct demonstration scenarios in working assembly facilities to evaluate autonomous navigation, physical manipulation, and fleet synchronization without requiring extensive plant retrofitting. No immediate fleet procurement quantities or commercial deployment dates were disclosed.
+  中文：总结：总部位于深圳的机器人研发企业优必选科技与合资车企一汽-大众签署了战略合作协议，旨在开发和测试用于工业工厂物流的人形机器人。 该协议建立在一汽-大众生产设施（包括青岛总装工厂）初步试验的基础之上，此前优必选Walker S系列人形机器人曾在该厂接受质量控制、螺栓拧紧和局部组件装配的评估。 扩展后的合作重点转向内部供应链运营，测试具身智能双足机器人在人类操作员身旁处理动态物料运输、库存分拣和工位补货的能力。 两家公司将在运作中的总装设施内构建专门的演示场景，评估自主导航、物理操控和车队同步，且无需对现有工厂基础设施进行大量昂贵的改造。 协议未披露具体的车队采购数量或商业部署日期。
+  📰 [Mjengo Hub](https://mjengohub.co.ke/articles/world/ubtech-and-faw-volkswagen-partner-to-deploy-humanoid-robots-in-automotive-logistics)
+
+
+---
+※AI Robot News Digest | 2026.10.16 | full-text items: 20
