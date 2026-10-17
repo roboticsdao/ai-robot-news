@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-10-17T10:16:29.779812+09:00",
+  "updated_at": "2026-10-17T23:11:15.030477+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-17T10:16:29.779812+09:00",
-    "latest_article_at": "2026-10-17T07:28:00+09:00",
+    "checked_at": "2026-10-17T23:11:15.030477+09:00",
+    "latest_article_at": "2026-10-17T20:11:09+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -18,14 +18,25 @@
   "articles": [
     {
       "date": "2026.10.17",
-      "published_at": "2026-10-17T03:38:30+09:00",
-      "headline": "Nvidia's open-source ASPIRE system taught a robot to solve a Rubik's Cube",
-      "source": "Startup Fortune",
-      "url": "https://startupfortune.com/nvidias-open-source-aspire-system-taught-a-robot-to-solve-a-rubiks-cube/",
+      "published_at": "2026-10-17T14:38:59+09:00",
+      "headline": "Robotics Remains In Its ‘Lego Era,’ Says Former Nvidia Leader Turned VC as Physical AI Awaits Its ChatGPT Moment",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62427182/robotics-lego-era-simulation-safety-physical-ai",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Nvidia's GEAR lab released version 1.0 of ASPIRE on GitHub this month under an Apache 2.0 license. The system achieved a 99% success rate across 80 tasks in the LIBERO-Pro benchmark, covering goal, object, spatial, and long-horizon manipulation challenges, along with selected tasks from Robosuite and BEHAVIOR-1K. The headlining demonstration featured a robot arm solving a Rubik's Cube without specific prior training. Unlike reinforcement learning systems that rely on simulation trial-and-error over months, ASPIRE uses a code-as-policy approach where a large language model writes Python control code for the robot, observes results, and rewrites it upon failure, storing validated fixes in a skill library. ASPIRE first appeared as an arXiv research paper on June 30, co-authored by Nvidia GEAR co-founders Jim Fan and Yuke Zhu alongside university collaborators. Benchmarking showed swapping the language model from GPT-5.6 Luna to Claude Opus 5.5 increased success from 15% to 99% on ten LIBERO-Pro tasks, while the Rubik's Cube run utilized GPT-6 Astra. Additionally, Bloomberg and the Financial Times reported that Reflection AI's valuation tripled to $25 billion in under a year, and Nvidia, which is an $800 million investor, is weighing options ranging from an acqui-hire to a larger equity stake.",
-      "summary_zh": "英伟达的GEAR实验室本月在GitHub上以Apache 2.0许可证发布了ASPIRE的1.0版本。 该系统在LIBERO-Pro基准测试的80个任务中取得了99%的成功率，涵盖目标、物体、空间和长视野操作挑战，以及来自Robosuite和BEHAVIOR-1K的部分任务。 其主打演示展示了一个机械臂在未经专门预先训练的情况下解开了一个魔方。 与依赖数月模拟试错的强化学习系统不同，ASPIRE采用代码即策略的方法，其中大语言模型为机器人编写Python控制代码，观察运行结果并在失败时进行重写，并将验证过的修复保存在技能库中。 ASPIRE最初于6月30日作为研究论文发布在arXiv上，由英伟达GEAR联合创始人吉姆·范和朱玉可与多所大学的合作者共同撰写。 基准测试显示，在十个LIBERO-Pro任务中，将底层语言模型从GPT-5.6 Luna更换为Claude Opus 5.5，成功率从15%提升至99%，而现实中的魔方运行则由GPT-6 Astra驱动。 此外，彭博社和《金融时报》报道称，Reflection AI的估值在不到一年的时间里三倍增至250亿美元，而作为已投资$800 million的投资方，英伟达正在权衡从技术收购到更大股权投资等多种选项。"
+      "summary": "Robotics remains in a Lego era where actuators, robotic hands, software, and safety standards are still being rebuilt, according to Techable VC founder and former Nvidia product marketing leader Amulya Vishwanath. Speaking on TechCrunch’s Equity podcast, Vishwanath noted that simulation will grow more critical and the industry requires increased emphasis on open-source safety and new standards. Her firm invests in early-stage startups in robotics, materials science, and life sciences where foundational pieces are built. Meanwhile, Ouster CEO Angus Pacala noted that mature pilots are moving into production, and a September Citrini Research report indicated most humanoid robots remain in development, training, or tele-operated demos. US startups are actively producing actuators, robotic hands, and domestic robots to build a local supply chain.",
+      "summary_zh": "风险投资公司Techable VC创始人兼前英伟达产品营销负责人阿穆尔亚·维斯瓦纳特在TechCrunch的Equity播客节目中表示，机器人技术仍处于乐高时代，其执行器、机械手、软件和安全标准仍在重建中。 维斯瓦纳特指出，仿真将变得更加关键，且行业需要更加重视开源安全与新标准。 她的公司投资于机器人、材料科学和生命科学领域的早期初创企业，这些领域正构建基础组件。 同时，Ouster首席执行官安格斯·帕卡拉指出成熟的试点项目正转向生产，而Citrini Research在9月份的一份报告显示，多数人形机器人仍处于开发、训练或远程操作演示阶段。 美国初创企业正积极制造执行器、机械手和本土机器人以建立本地供应链。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T00:38:58+09:00",
+      "headline": "Agility Robotics clears SEC hurdle, is set to become first public U.S. humanoid robotics firm",
+      "source": "WPXI",
+      "url": "https://www.wpxi.com/news/local/agility-robotics-clears-sec-hurdle-is-set-become-first-public-us-humanoid-robotics-firm/4HLBUQKLERHXXEULXU6ENLXSDE/?outputType=amp",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Oregon-headquartered Agility Robotics received regulatory approval from the United States Securities and Exchange Commission, which declared its S-4 business combination form effective. The company is set to go public through a merger with Churchill Capital Corp. XI, a special purpose acquisition company, making it the first public American humanoid robotics company. Churchill XI shareholders will vote on November 2 to approve the merger, which was first announced in June of this year. Agility develops Digit humanoid robots designed to function like humans in pre-existing environments. The company previously signed a multi-year contract with GXO Logistics in 2023, maintains partnerships with Amazon and Schaeffler, and is backed by investors including SoftBank and Nvidia.",
+      "summary_zh": "总部位于俄勒冈州的Agility Robotics获得了美国证券交易委员会的监管批准，该委员会宣布其S-4业务合并表格生效。 该公司将通过与特殊目的收购公司Churchill Capital Corp. XI合并上市，成为第一家上市的美国人形机器人公司。 Churchill XI的股东将于11月2日对该合并进行投票表决，该交易最初于今年6月宣布。 Agility开发了Digit人形机器人，旨在预先存在的环境中像人类一样运作。 该公司此前于2023年与GXO Logistics签署了多年期合同，与亚马逊和舍弗勒保持合作伙伴关系，并获得软银和英伟达等投资者的支持。"
     },
     {
       "date": "2026.10.16",
@@ -35,8 +46,8 @@
       "url": "https://pluang.com/en/news-feed/peluncuran-robot-humanoid-ff-nova-dan-akuisisi-faraday-future",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Tesla has rapidly expanded its Cybercab robotaxi fleet in Austin, increasing the vehicle count more than eight times within a month to over 300 units. The expansion points to growing traction for CEO Elon Musk's vision of autonomous robotaxis, with a subsequent expansion to Dallas also planned.",
-      "summary_zh": "特斯拉在奥斯汀迅速扩大了其Cybercab无人驾驶出租车车队，在一个月内将车辆数量增加了八倍以上，达到300多辆。 这一显着增长表明，埃隆·马斯克关于自动驾驶出租车的愿景正在获得关注，并且还计划向达拉斯扩展。"
+      "summary": "Tesla's Cybercab robotaxi fleet in Austin has grown over eightfold within a month, expanding to more than 300 vehicles. Additionally, the company is planning an expansion into Dallas, indicating that Elon Musk's vision for autonomous robotaxis is gaining momentum.",
+      "summary_zh": "特斯拉在奥斯丁的Cybercab无人驾驶出租车车队在一个月内增长了八倍以上，规模达到300多辆，并计划向达拉斯扩展。 这一显著增长表明，埃隆·马斯克的自动驾驶出租车愿景正在获得动力。"
     },
     {
       "date": "2026.10.16",
@@ -46,8 +57,8 @@
       "url": "https://www.shimz.co.jp/en/company/about/news-release/2026/2026044.html",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "On October 16, 2026, Shimizu Corporation announced the completion of an investment in Silicon Valley startup Noble Machines Inc. , led by CEO Wei Ding, to launch a collaboration developing humanoid AI robots for the construction industry. The partnership combines Noble Machines' hardware and software development capabilities with Shimizu's construction expertise to create robots capable of supporting or addressing labor shortages driven by an aging workforce. Noble Machines develops the MOBY series of humanoid AI robots along with control systems and application software. Shimizu plans to start virtual simulations for tasks like material transport, site navigation, and patrols by the end of this year, followed by physical robot testing at actual construction sites next spring.",
-      "summary_zh": "2026年10月16日，清水集团（总裁：新村达也）宣布完成对硅谷初创公司Noble Machines Inc. （首席执行官：Wei Ding）的投资，双方正式展开全面合作，共同开发适用于建筑行业的类人AI机器人。 此次合作将Noble Machines的软硬件开发能力与清水的施工专业知识相结合，旨在应对劳动力老龄化带来的劳动力短缺问题。 Noble Machines开发了面向建筑行业的MOBY系列类人AI机器人、控制系统及应用软件。 清水计划于今年年底前开始进行材料和设备运输、场地导航及巡逻等建筑场地应用的虚拟仿真，并从明年春天开始在实际建筑工地上对实体机器人进行测试。"
+      "summary": "On October 16, 2026, Shimizu Corporation completed an investment in Silicon Valley startup Noble Machines Inc. and launched a full-scale collaboration to develop humanoid AI robots for the construction industry. Led by CEO Wei Ding, Noble Machines develops the MOBY series of humanoid AI robots, control systems, and application software. The partnership combines Noble Machines' hardware and software capabilities with Shimizu's construction expertise to support or replace physically demanding and hazardous tasks, addressing future labor shortages from an aging workforce and declining young entrants. Shimizu plans to start virtual simulations for tasks like material transport, site navigation, and patrols by the end of this year, followed by physical robot testing at actual construction sites next spring.",
+      "summary_zh": "2026年10月16日，清水建设宣布完成对硅谷初创公司Noble Machines Inc. 的投资，并展开全面合作，为建筑行业开发人形AI机器人。 由首席执行官韦·丁领导的Noble Machines开发了面向建筑行业的MOBY系列人形AI机器人、控制系统和应用软件。 双方合作将Noble Machines的软硬件开发能力与清水建设的施工专业知识相结合，以支持或替代体力消耗大且危险的现场任务，应对劳动力老龄化和年轻新员工减少带来的未来劳动力短缺。 清水建设计划在今年年底前开始进行材料运输、工地导航和巡逻等人形AI机器人建筑应用虚拟模拟，并于明年春天在实际施工现场用实体机器人测试这些任务。"
     },
     {
       "date": "2026.10.16",
@@ -57,30 +68,52 @@
       "url": "https://hoodline.com/2026/10/google-deepmind-builds-robot-lab-in-cambridge-poaches-boston-dynamics-cto/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Google DeepMind is constructing a dedicated robotics hardware lab in Cambridge, Massachusetts, to integrate its Gemini AI models into physical machines. Aaron Saunders, who joined Google DeepMind as vice president of embodied systems and robotics after spending 22 years at Boston Dynamics including as CTO, announced the project on LinkedIn, indicating the lab could open in 2027. The team aims to hire machinists, engineers, and researchers. DeepMind CEO Demis Hassabis previously described the robotics strategy as an Android play to build Gemini as a universal AI operating system across various robot bodies. Recent technical developments include Gemini Robotics 2 for whole-body control and a Video-to-Sim-to-Real training pipeline powered by Gemini 4 Argon. The new Cambridge lab places DeepMind near its existing Kendall Square office footprint, amidst an influx of other AI and technology companies signing leases in the area.",
-      "summary_zh": "Google的人工智能研究机构Google DeepMind正在马萨诸塞州剑桥市建设一个专属的机器人硬件实验室，旨在将其Gemini AI模型转化为能够在物理世界中行走的机器人。 曾在波士顿动力公司担任首席技术官并工作了22年的亚伦·桑德斯（Aaron Saunders）在加入Google DeepMind担任具身系统与机器人副总裁后，在LinkedIn上宣布了这一项目，并暗示该实验室可能于2027年开业。 该团队计划招募机械师、工程师和研究人员。 DeepMind首席执行官德米斯·哈萨比斯将公司的机器人战略描述为“安卓玩法”，旨在构建一个适用于多种机器人躯体的通用AI操作系统。 近期技术进展包括用于全身控制的Gemini Robotics 2以及由Gemini 4 Argon驱动的视频到仿真再到现实的训练管线。 新实验室的建设使DeepMind更靠近其位于肯德尔广场的现有办公室，当地近期也迎来了多家签署办公租赁协议的AI与科技公司。"
-    },
-    {
-      "date": "2026.10.15",
-      "published_at": "2026-10-15T19:28:00+09:00",
-      "headline": "Inside Boston Dynamics' push to build Atlas humanoids in just one hour",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/inside-boston-dynamics-humanoid-robot-factory",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Boston Dynamics released a video detailing the operations of its prototype team that builds and maintains the Atlas humanoid robot, highlighting a goal to reduce individual robot build times from about a day currently to roughly an hour next year. The facility combines engineers and machinists to conduct in-house precision machining, gear cutting, and assembly, shortening the feedback loop between design and testing. This setup allows the team to modify components quickly as designs evolve, such as developing four-finger hands for Atlas to meet practical industrial requirements. The manufacturing efficiencies focus on accelerating research and development rather than establishing a commercial production-line output rate.",
-      "summary_zh": "波士顿动力公司发布了一段视频，详细介绍了其制造和维护Atlas类人机器人的原型运营团队的工作情况，并强调了将单个机器人的制造时间从目前的约一天缩短至明年约一小时的目标。 该设施将工程师和机械师结合在一起，开展内部精密加工、齿轮切削和装配，从而缩短设计与测试之间的反馈循环。 这种设置使团队能够随着设计的演进而迅速修改部件，例如为Atlas开发四指手部以满足实际工业需求。 制造效率的重点在于加速研发，而非确立商业生产线的产出率。"
+      "summary": "Google DeepMind, the artificial intelligence research and development wing of Alphabet, is building a dedicated robotics hardware lab in Cambridge to integrate its Gemini AI models into working machines that can walk, grip, and move. The project was announced by Aaron Saunders, who joined Google DeepMind as vice president of embodied systems and robotics after serving as chief technology officer at Boston Dynamics. Saunders hinted the lab could open in 2027 to hire machinists, engineers, and researchers, placing DeepMind in the Greater Boston robotics cluster near its Kendall Square office space. DeepMind CEO Demis Hassabis previously described the company's strategy as an Android play to build Gemini into a universal AI operating system for various robot bodies. Recent technical milestones include Gemini Robotics 2 for whole-body control on Apptronik's Apollo 2 platform and a Video-to-Sim-to-Real training pipeline using Gemini 4 Argon to generate MuJoCo physics simulations.",
+      "summary_zh": "Alphabet旗下的人工智能研发部门Google DeepMind正在剑桥建立一个专门的机器人硬件实验室，将其Gemini AI模型整合到能够行走、抓握和移动的工作机器中。 该项目由亚伦·桑德斯宣布，他曾担任波士顿动力公司的首席技术官，随后加入Google DeepMind担任具身系统和机器人技术副总裁。 桑德斯暗示该实验室可能于2027年开业，并计划聘请机械师、工程师和研究人员，此举使DeepMind置身于其肯德尔广场办公室附近的波士顿大都市区机器人集群中。 DeepMind首席执行官德米斯·哈萨比斯此前将公司的战略描述为“安卓式”玩法，旨在将Gemini打造成适用于各种机器人机身的通用AI操作系统。 最近的技术里程碑包括在Apptronik的Apollo 2平台上实现全身控制的Gemini Robotics 2，以及使用Gemini 4 Argon生成MuJoCo物理模拟的Video-to-Sim-to-Real训练流程。"
     },
     {
       "date": "2026.10.17",
-      "published_at": "2026-10-17T07:28:00+09:00",
-      "headline": "广东顺德：机器人产业加速奔跑",
-      "source": "中国经济网",
-      "url": "http://m.ce.cn/bwzg/202610/t20261017_3261055.shtml",
+      "published_at": "2026-10-17T20:11:09+09:00",
+      "headline": "全球人形机器人收入前五全是中国企业前8个月深圳机器人出口激增超1200%|弗若斯特沙利文|深圳市|产业链|美国|硅谷",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-17/detail-inivpsqc7157028.d.html?vt=4",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "Foshan's Shunde district has transformed a former waste-recycling area into the Guangdong Haichuang Dazhu Robot Industrial Park, gathering over 190 robot enterprises. By the end of 2025, the district's robot industry business entities reached 2,925. On July 28, Shunde established the nation's first government functional bureau dedicated to coordinating the entire embodied AI industrial chain. Leading enterprises include KUKA, which built China's first fully automated robot-producing-robot line and holds a 47.4% domestic market share in heavy-duty robots over 300 kilograms; Guangdong Hualyan Robot, with products sold to over 50 countries and regions; Guangdong Jaten Robot Automation, which completed sea trials for its 70-ton port unmanned transport vehicle at Rongqi Port; Longsheng Robot, expanding from home appliance automation lines to warehousing and logistics; and Guangdong Tanta Robot, focusing on precision joints. In 2025, Shunde's robot industry output value approached 40 billion yuan, with 80% of its designated-size manufacturing enterprises completing digital transformations.",
-      "summary_zh": "佛山市顺德区将曾经的废品回收区改造成广东海创大族机器人产业园，集聚了190多家机器人企业。 截至2025年底，全区机器人产业经营主体达2925家。 7月28日，顺德揭牌成立全国首个专门统筹具身智能全产业链发展的政府职能局。 龙头企业包括库卡机器人，其建成了全国首条“机器人生产机器人”的全自动化产线，重载机器人300公斤以上机型国内市占率达47.4%；广东华沿机器人股份有限公司，产品销往50多个国家和地区；广东嘉腾机器人自动化有限公司，其70吨级港口无人搬运车在容奇港完成实景测试；隆深机器人，从家电自动化产线拓展至仓储物流领域；广东天太机器人有限公司，专注于精密关节模组。 2025年，顺德机器人产业产值近400亿元，全区80%的规上制造企业完成数字化改造。"
+      "summary": "根据国际咨询机构弗若斯特沙利文发布的《2026年全球人形机器人市场研究报告》，今年上半年全球人形机器人销量达到3.6万台，市场收入达到5.4亿美元。 按收入计算，今年上半年全球人形机器人市场前五名全部由中国企业包揽，其中深圳企业占据两席。 16日下午，一个美国高级代表团抵达深圳南山机器人谷考察，该地集聚了从核心零部件到整机制造、软件算法到系统集成的完整产业链，聚集超200家机器人产业链企业。 深圳海关数据显示，今年前8个月，深圳各类单独列名的机器人合计出口达111.3亿元，同比增长12.2倍，产品已销至全球120多个国家和地区。",
+      "summary_zh": "根据国际咨询机构弗若斯特沙利文发布的《2026年全球人形机器人市场研究报告》，今年上半年全球人形机器人销量达到3.6万台，市场收入达到5.4亿美元。 按收入计算，今年上半年全球人形机器人市场前五名全部由中国企业包揽，其中深圳企业占据两席。 16日下午，一个美国高级代表团抵达深圳南山机器人谷考察，该地集聚了从核心零部件到整机制造、软件算法到系统集成的完整产业链，聚集超200家机器人产业链企业。 深圳海关数据显示，今年前8个月，深圳各类单独列名的机器人合计出口达111.3亿元，同比增长12.2倍，产品已销至全球120多个国家和地区。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T19:49:21+09:00",
+      "headline": "广交会上的“实干派”：中国机器人以规模化交付能力叩开全球市场",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202610173899064461.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "第140届中国进出口商品交易会第一期在广州举办，聚焦先进制造。 今年前8个月，中国机器人出口额达248.5亿元，同比增长359.0%。 云深处科技携全矩阵硬件产品与标准化解决方案亮相本届展会，其中山猫M20S可翻越半人高障碍并抵御风雨粉尘，山猫S10轻便易携支持单人快速部署，用于应急救援和侦察探测。 云深处科技的业务已覆盖全球46个国家和地区，其机器狗在美国加州某大型仓储中心实现双机协同智能巡检，将巡检效率提升200%，告警准确率稳定超过95%。 具身智能正处于量产与商业化关键拐点，中国机器人企业凭借全矩阵硬件、标准化方案及全球交付体系形成综合优势。",
+      "summary_zh": "第140届中国进出口商品交易会第一期在广州举办，聚焦先进制造。 今年前8个月，中国机器人出口额达248.5亿元，同比增长359.0%。 云深处科技携全矩阵硬件产品与标准化解决方案亮相本届展会，其中山猫M20S可翻越半人高障碍并抵御风雨粉尘，山猫S10轻便易携支持单人快速部署，用于应急救援和侦察探测。 云深处科技的业务已覆盖全球46个国家和地区，其机器狗在美国加州某大型仓储中心实现双机协同智能巡检，将巡检效率提升200%，告警准确率稳定超过95%。 具身智能正处于量产与商业化关键拐点，中国机器人企业凭借全矩阵硬件、标准化方案及全球交付体系形成综合优势。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T18:22:31+09:00",
+      "headline": "中国城博会观察：机器人“上岗”城市运维",
+      "source": "搜狐网",
+      "url": "https://www.sohu.com/a/1089048091_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "第24届中国国际城市建设博览会在北京举行，多款服务城市更新与运维一线的智慧机器人集中亮相。 中国建筑标准设计研究院有限公司研发的爬墙机器人搭载可见光设备、红外摄像头和探墙雷达，依靠负压吸附在曲面或凹凸不平墙面上检测裂缝与脱落等问题，已在北京东城、西城等地落地。 北京隆科兴科技集团股份有限公司的管道喷涂机器人适用于直径约60至100厘米、管道轻微破损、锈蚀深度2至3毫米的场景，通过双向闭环控制保证供水管道喷层厚度均匀，已应用于北京等地输水管线漏损项目。 广州市城市排水有限公司开发的吸污辅助爬行机器人配置可移动前视摄像头和多款式绞龙打散组件，实现可视化清淤，代替人工下井解决狭窄井口作业难题。",
+      "summary_zh": "第24届中国国际城市建设博览会在北京举行，多款服务城市更新与运维一线的智慧机器人集中亮相。 中国建筑标准设计研究院有限公司研发的爬墙机器人搭载可见光设备、红外摄像头和探墙雷达，依靠负压吸附在曲面或凹凸不平墙面上检测裂缝与脱落等问题，已在北京东城、西城等地落地。 北京隆科兴科技集团股份有限公司的管道喷涂机器人适用于直径约60至100厘米、管道轻微破损、锈蚀深度2至3毫米的场景，通过双向闭环控制保证供水管道喷层厚度均匀，已应用于北京等地输水管线漏损项目。 广州市城市排水有限公司开发的吸污辅助爬行机器人配置可移动前视摄像头和多款式绞龙打散组件，实现可视化清淤，代替人工下井解决狭窄井口作业难题。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T14:31:50+09:00",
+      "headline": "中国信通院人工智能所联合发布《具身智能发展报告(2026年)》|物理AI|格隆|产业|窗口期|清华大学",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.cn/2026-10-16/detail-inivkwts1592356.d.html?vt=4",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "在2026年10月14日至16日召开的人工智能产业发展联盟2026人工智能产业大会期间，中国信通院人工智能研究所联合清华大学电子工程系、具身智能测试实验室共同发布了《具身智能发展报告(2026年)》（中文版本），并在随后的国际电信联盟具身智能标准焦点组第三次会议同期研讨会上发布了英文版本。 该报告立足具身智能从实验室验证向规模化应用跨越的关键窗口期，聚焦过去一年产业发展的新变化与新挑战，系统分析了物理AI与具身智能的概念、产业热潮下的冷思考、具身智能四要素框架、从表演到应用的路径演进与商业模式、评测体系与国际标准进展等维度，并从技术架构重构、应用场景深化、评测体系完善和安全伦理构建四个方面对未来发展进行展望。",
+      "summary_zh": "在2026年10月14日至16日召开的人工智能产业发展联盟2026人工智能产业大会期间，中国信通院人工智能研究所联合清华大学电子工程系、具身智能测试实验室共同发布了《具身智能发展报告(2026年)》（中文版本），并在随后的国际电信联盟具身智能标准焦点组第三次会议同期研讨会上发布了英文版本。 该报告立足具身智能从实验室验证向规模化应用跨越的关键窗口期，聚焦过去一年产业发展的新变化与新挑战，系统分析了物理AI与具身智能的概念、产业热潮下的冷思考、具身智能四要素框架、从表演到应用的路径演进与商业模式、评测体系与国际标准进展等维度，并从技术架构重构、应用场景深化、评测体系完善和安全伦理构建四个方面对未来发展进行展望。"
     },
     {
       "date": "2026.10.17",
@@ -90,41 +123,8 @@
       "url": "https://www.chnfund.com/article/AR3a663a13-076b-1ee4-9fce-3a2457221015",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "Wamda Capital executive chairman Fadi Ghandour stated at the 'Dubai Business Forum - China' in Shenzhen that BYD electric vehicles will be ubiquitous in Dubai within two years. Ghandour founded Wamda Capital in 2010 and launched its venture capital arm in 2014, focusing on early-stage technology enterprises in the Middle East, Turkey, and East Africa with an initial fund of $70 million. Ghandour noted that Dubai's investments are shifting from consumer tech to deep tech, and although foreign capital's full return takes time, business activities continue with strong local and sovereign wealth fund investments. He highlighted that Chinese investors bring valuable experience, technology, expertise, and faster technology landing and deployment capabilities in AI and robotics. In the MENA region, startups raised $1.65 billion across 145 transactions from July to September 2026, marking a 108% quarter-over-quarter increase, while Saudi Arabia reclaimed the top funding spot from the UAE. Ghandour outlined acquisition, listing, and M&A as the three exit channels for Dubai investments, noting Talabat's December 2024 listing raised about $20 billion with a $101 billion market value.",
-      "summary_zh": "Wamda资本执行董事长法迪·甘杜尔在深圳举办的“迪拜商业论坛·中国”上表示，两年之内比亚迪等中国电动车将在迪拜随处可见。 甘杜尔于2010年创立Wamda资本，并在2014年发起风险投资机构，专注于中东、土耳其及东非的早期科技企业，首期基金规模为$70 million。 甘杜尔指出，迪拜的投资正从消费类科技转向深科技领域，尽管外国资本完全回归尚需时日，但商业活动在本土及主权财富基金持续投入下仍在开展。 他认为中国投资者能在人工智能和机器人领域带来经验、技术、专业知识以及更快的技术落地和部署能力。 2026年7月至9月，中东和北非地区初创企业通过145笔交易共融资$1.65 billion，较上一季度增长108%，沙特阿拉伯从阿联酋手中重新夺回榜首位置。 甘杜尔介绍了收购、上市和并购三种迪拜投资退出渠道，并提到外卖平台Talabat于2024年12月挂牌募资约$20 billion，上市时市值约$101 billion。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T21:15:48+09:00",
-      "headline": "量产上岗元年：中国具身智能10强落定，谁在真实场景“持续干活”？_行业新闻",
-      "source": "证券之星",
-      "url": "https://finance.stockstar.com/IG2026101600036802.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "China's embodied AI market reached 91.5 billion yuan in 2025 and is projected to surpass 1 trillion yuan in 2026. The industry is categorized by top companies including Zhipingfang, Galaxy General, Unitree Robotics, Agibot, Galbot, and others, spanning domains like large foundation models, humanoid robots, and quadruped robots. Zhipingfang established the NeuroVLA embodied large model with a brain-like architecture, securing a nearly 500 million yuan single order from Huike Corporation for 1,000 units, and deployed its robot in Hong Kong's Lan Kwai Fong. Galaxy General launched the LDA-1B foundational model and deployed over 1,200 units by 2025. Unitree Robotics achieved cumulative shipments exceeding 10,000 units by March 2026. Agibot delivered 1,079 full-sized humanoid robots in 2025 with over 1.4 billion yuan in orders. UBTECH's Walker S2 features a hot-swappable autonomous battery-swapping system and deployed over 1,000 units. Other firms like Galbot, Stardust Intelligence, and Deep Robotics advanced commercial deployments across automotive, retail, logistics, and industrial inspection sectors.",
-      "summary_zh": "2025年国内具身智能市场规模达9150亿元，2026年将突破万亿大关。 行业评选出中国具身智能机器人10强企业，涵盖智平方、银河通用、宇树科技、逐际动力、银河星坊等代表企业。 智平方发布了全球第一个类脑架构VLA具身大模型NeuroVLA，获得惠科股份3年1000台、近5亿元的订单，并在香港兰桂坊落地；银河通用发布LDA-1B基础模型，2025年累计出货突破1200台；宇树科技截至2026年3月累计下线突破10,000台；智元机器人2025年交付全尺寸人形机器人1079台，订单超14亿元；优必选Walker S2拥有热插拔自主换电系统，工业场景落地广泛。 Galbot、星尘智能、云深处科技、星动纪元等企业也在汽车制造、零售、物流和工业巡检等真实场景中实现了规模化应用与商业落地。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T15:48:02+09:00",
-      "headline": "中国信通院人工智能所等发布《具身智能发展报告（2026年）》中英文版",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/m/show/614231",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "The Institute of Artificial Intelligence of the China Academy of Information and Communications Technology (CAICT), alongside Tsinghua University's Department of Electronic Engineering and the Embodied AI Testing Laboratory, released the Chinese version of the 'Embodied AI Development Report (2026)' on October 14–16 during the 2026 Artificial Intelligence Industry Conference. Additionally, the English version of the report was released on October 16 at a seminar coinciding with the third meeting of the International Telecommunication Union (ITU-T) Focus Group on Embodied AI Standards (FG-EAI). The report focuses on the critical transition window of embodied AI from laboratory verification to scaled application, analyzing concepts of physical AI and embodied AI, reflections amid the industrial boom, a four-element framework, evolution pathways from performance to application and business models, and testing systems and international standards. Finally, the report outlines future developments across technical architecture reconstruction, application scenario deepening, evaluation system improvement, and safety ethics construction.",
-      "summary_zh": "中国信通院人工智能研究所联合清华大学电子工程系、具身智能测试实验室，在2026人工智能产业大会期间于10月14日至16日发布了《具身智能发展报告（2026年）》中文版本。 该报告英文版本于10月16日在国际电信联盟（ITU-T）具身智能标准焦点组（FG-EAI）第三次会议同期研讨会上发布。 报告立足具身智能从实验室验证向规模化应用跨越的关键窗口期，分析了物理AI与具身智能的概念、产业热潮之下的冷思考、具身智能四要素框架、从表演到应用的路径演进与商业模式、评测体系与国际标准进展。 报告最后从技术架构重构、应用场景深化、评测体系完善和安全伦理构建四个方面对未来发展进行了展望。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T15:19:29+09:00",
-      "headline": "人机共演走进乌镇戏剧节：巨星传奇携手宇树科技打造机器人舞台剧《第二指令：恰逢良机》",
-      "source": "finance.sina.com.cn",
-      "url": "https://cj.sina.cn/articles/view/1733360754/6750fc7202001k75w",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "2026年10月15日，第十三届乌镇戏剧节正式开幕。 巨星传奇与宇树科技出品的机器人舞台剧《第二指令：恰逢良机》作为古镇嘉年华特别联动亮相。 该剧将真人演员、机器人及四足机器狗带到同台，以直播叙事和人机共演形式，探讨人机边界、责任与信任。 此前2025年7月双方达成战略合作，9月首款产品四足机器狗UNI DOGGIE亮相并获千万级订单，此次乌镇亮相标志着合作从产品端走向内容与现场娱乐场景。",
-      "summary_zh": "2026年10月15日，第十三届乌镇戏剧节正式开幕。 巨星传奇与宇树科技出品的机器人舞台剧《第二指令：恰逢良机》作为古镇嘉年华特别联动亮相。 该剧将真人演员、机器人及四足机器狗带到同台，以直播叙事和人机共演形式，探讨人机边界、责任与信任。 此前2025年7月双方达成战略合作，9月首款产品四足机器狗UNI DOGGIE亮相并获千万级订单，此次乌镇亮相标志着合作从产品端走向内容与现场娱乐场景。"
+      "summary": "10月14日，迪拜商业论坛·中国在深圳举行，Wamda资本执行董事长法迪·甘杜尔接受采访时表示，中国投资者能带来经验、技术和专业知识，以及人工智能和机器人领域更快的技术落地和部署能力，两年之内比亚迪等中国电动车在迪拜将随处可见。 Wamda资本由法迪·甘杜尔于2010年创立，总部位于迪拜。 甘杜尔指出，迪拜商业活动持续开展，外国资本回归进程虽需时日，但本国投资者和主权财富基金持续投入。 中东北非地区初创企业在2026年第三季度通过145笔交易融资16.5亿美元，沙特阿拉伯重新夺回榜首位置。 对于迪拜投资退出渠道，他介绍了当地大型家族企业集团收购、上市以及并购三种方式，并建议中国创业者寻找当地合作伙伴。",
+      "summary_zh": "10月14日，迪拜商业论坛·中国在深圳举行，Wamda资本执行董事长法迪·甘杜尔接受采访时表示，中国投资者能带来经验、技术和专业知识，以及人工智能和机器人领域更快的技术落地和部署能力，两年之内比亚迪等中国电动车在迪拜将随处可见。 Wamda资本由法迪·甘杜尔于2010年创立，总部位于迪拜。 甘杜尔指出，迪拜商业活动持续开展，外国资本回归进程虽需时日，但本国投资者和主权财富基金持续投入。 中东北非地区初创企业在2026年第三季度通过145笔交易融资16.5亿美元，沙特阿拉伯重新夺回榜首位置。 对于迪拜投资退出渠道，他介绍了当地大型家族企业集团收购、上市以及并购三种方式，并建议中国创业者寻找当地合作伙伴。"
     },
     {
       "date": "2026.10.16",
@@ -134,30 +134,8 @@
       "url": "https://news.dellows.jp/703248/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社松尾研究所与川崎重工业株式会社合作，针对川崎重工的ヒューマノイドロボット「Kaleido9」共同开发了强化学习Policy。 双方在6週間でNVIDIAシミュレータを活用したSim2Realプロセスを構築し、2026年5月21日に米国の「Kawasaki Physical AI Center San Jose」開所式において、Kaleido9が合計約50ポンド（約22.7キロ）のカゴを両手で持ち上げ机上に配置する重量物運搬デモを成功させた。 川崎重工の橋本社長は、医療や介護分野をはじめとする幅広い産業分野へのソリューション展開方針を示している。",
-      "summary_zh": "株式会社松尾研究所与川崎重工业株式会社合作，针对川崎重工的Kaleido9人形机器人共同开发了强化学习Policy。 双方在6周内构建了利用NVIDIA模拟器的Sim2Real流程，并在2026年5月21日美国San Jose的Kawasaki Physical AI Center开所式上，成功演示了Kaleido9用双手提起总计约50磅（约22.7公斤）的筐子并放置在桌上的重量物运搬示范。 川崎重工社长桥本表示，计划将解决方案拓展至医疗、护理等广泛产业领域。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T18:45:11+09:00",
-      "headline": "JR東日本・ソフトバンクなど、赤羽駅など4駅でAI・ロボットによる駅舎清掃DXを実証へ（ビジネス＋IT）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d65daeb11a9449949bb947b682608d2585a4831d",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "JR東日本、JR東日本商事、ソフトバンクは10月16日、赤羽駅、王子駅、十条駅、東十条駅の4駅で、AIやIoTセンサー、ロボットを活用した駅舎清掃DXの実証実験を10月27日から2027年1月中旬まで実施すると発表した。 利用状況や汚れに応じて清掃する「需要連動型・予兆型清掃」の実現可能性を検証し、清掃品質の維持と現場の負担軽減の両立を図る。 改札内のトイレやごみ箱にIoTセンサーを設置するほか、AIカメラによる汚物検知やトイレ内での清掃ロボットの試験を行い、清掃管理プラットフォームにデータを統合して実用性を確かめる。 JR東日本が実証フィールドの提供、JR東日本商事が幹事として計画推進や機器調達、ソフトバンクがシステム構築などを担う。",
-      "summary_zh": "JR东日本、JR东日本商事和软银于10月16日宣布，将从10月27日起至2027年1月中旬在赤羽站、王子站、十条站和东十条站等4个车站，开展利用AI图像分析、IoT传感器及物理AI清洁机器人的车站清洁DX实证实验。 此举旨在验证根据使用状况及污垢产生情况在必要地点和时间进行清洁的“需求联动型、预兆型清洁”的可行性，以维持提升清洁质量并缓解人手不足带来的现场负担。 实验将在检票内厕所和垃圾桶设置IoT传感器，利用二维码让使用者请求厕所清洁，并在大厅设置临时摄像头通过AI分析检测污物，以及在厕所内测试物理AI清洁机器人，构建并验证清洁管理平台。 其中，王子站、十条站和东十条站仅进行IoT传感器的数据分析。 各方在实验中分工合作，推进可持续的车站清洁模式构建。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T17:15:02+09:00",
-      "headline": "ホンダが「アバター」ロボットと多指ハンドを公開 AIで遠隔作業を支援…CEATEC 2026で実演",
-      "source": "ロボスタ",
-      "url": "https://robotstart.info/article/2026/10/16/382530.html",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "本田技研工業は「CEATEC 2026」において、遠隔地から人間の分身として作業を行える「ホンダ・アバターロボット」を展示し、エンジンケースのねじ締め作業などを実演した。 人間の作業をロボットに置き換えるのではなく、人間の能力を遠隔地に届けることを目的としており、医療、設備保守、災害対応、宇宙開発などへの応用を想定している。 開発はASIMOの開発終了時期から約5～6年にわたり進められており、人間が得意とする状況判断とロボットが得意な精密制御を組み合わせることで、完全自律型ロボットよりも早い段階での実用化を目指す。 遠隔操作における視覚や力加減などの課題を補うため、AIサポートシステムによってロボット側が力加減や動作を補正する仕組みを開発しており、通信遅延環境下での作業や月面作業への応用も見据える。",
-      "summary_zh": "本田在“CEATEC 2026”上展示了能够在远程作为分身进行作业的“本田阿凡达机器人”，并实演了发动机壳体的螺丝紧固等作业。 该技术的目的并非用机器人取代人类工作，而是将人类的能力传送到远程，设想应用于医疗、设备维护、灾害应对及太空开发等领域。 研发工作自ASIMO研发结束时期起已进行约5至6年，通过将人类擅长的情境判断与机器人擅长的精密控制相结合，力求比完全自主型机器人更早实现实用化。 针对远程操作中视觉和力度把握等课题，本田开发了通过AI支撑系统由机器人侧修正力度和动作的机制，并着眼于通信延迟环境下的作业及月球表面作业的应用。"
+      "summary": "株式会社松尾研究所与川崎重工业株式会社合作，针对川崎重工的ヒューマノイドロボット「Kaleido9」共同开发了强化学习Policy。 双方在6週間内利用NVIDIAシミュレータ构建了Sim2Realプロセス，完成了从学习到实机验证的整体流程。 2026年5月21日，在美国加利福尼亚州圣何塞举行的「Kawasaki Physical AI Center San Jose」开所式上，Kaleido9成功演示了将总计约50ポンド（约22.7キロ）的カゴ用双手举起并放置在桌上的重量物运搬动作。 川崎重工社长桥本表示，フィジカルAI将用于安全高效地支援人类的判断和行动，未来将向医疗、护理等广泛产业领域展开解决方案。",
+      "summary_zh": "株式会社松尾研究所与川崎重工业株式会社合作，针对川崎重工的“Kaleido9”人形机器人共同开发了强化学习Policy。 双方在6周内利用NVIDIA模拟器构建了Sim2Real进程，完成了从学习到实机验证的整体流程。 2026年5月21日，在美国加利福尼亚州圣何塞举行的“Kawasaki Physical AI Center San Jose”开所式上，“Kaleido9”成功演示了将总计约50ポンド（约22.7キロ）的筐用双手举起并放置在桌上的重量物运搬动作。 川崎重工社长桥本表示，フィジカルAI将用于安全高效地支援人类的判断和行动，未来将向医疗、护理等广泛产业领域展开解决方案。"
     },
     {
       "date": "2026.10.16",
@@ -167,63 +145,74 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000384.000012100.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "ミスミグループ本社の製造業マーケットプレイス「meviyマーケットプレイス」が、日本信号の高所作業ロボット「ZIZAI」の開発における部品調達プロセスに導入された。 日本信号は鉄道の高所架線メンテナンス等の作業員不足に対応するため、高所作業ロボット「ZIZAI」の開発を進めているが、従来は図面完成後に見積もり回答まで約2週間、加工着手まで約1カ月を要し、納期や仕様見直しへの対応が課題となっていた。 「meviyマーケットプレイス」の導入により、見積もり回答が最短1日となり、お客さまへの提案期間が従来の6カ月から3カ月に短縮された。 さらに、板金・切削・樹脂などの加工部品のまとめ発注や、加工会社とのチャットを通じた直接対話により、コストや納期の改善提案を受けることが可能となった。",
-      "summary_zh": "株式会社米思米集团总部提供的制造业市场“meviy Marketplace”已被引入日本信号株式会社的高处作业机器人“ZIZAI”的零件采购流程中。 日本信号为应对铁路高处接触网维护等作业人员短缺问题，推进开发高处作业机器人“ZIZAI”，但此前图纸完成后需要约2周时间得到报价答复、约1个月才能开始加工，交付期及规格调整应对成为课题。 通过引入“meviy Marketplace”，报价答复缩短至最短1天，向客户的提案期间从以往的6个月缩短至3个月。 此外，钣金、切削、树脂等加工零件得以集中下单，且通过与加工公司的聊天直接沟通，能够获得成本和交付期改善的建议。"
-    },
-    {
-      "date": "2026.10.14",
-      "published_at": "2026-10-14T15:22:39+09:00",
-      "headline": "GMOインターネットグループ、日本最大級のフィジカルAI拠点「GMOヒューマノイド・ラボ 渋谷ショールーム」全面開業",
-      "source": "ドローンジャーナル",
-      "url": "https://drone-journal.impress.co.jp/docs/news/1188969.html",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "GMOインターネットグループは2026年10月6日、東京・渋谷のセルリアンタワー11階にある「GMOヒューマノイド・ラボ 渋谷ショールーム」を全面オープンした。 同拠点は先端ロボットと研究開発設備が集まる日本最大級のフィジカルAI研究開発拠点であり、4月7日の先行オープンに続き、残りのエリアの稼働を開始した。 今回開業したエリアには、防振床や大型クレーンを導入した開発エリア、最大100人を収容可能なカンファレンススペース兼開発エリア、GMO AI&ロボティクス商事の執務エリア、来客用会議室が含まれる。 同グループは2026年を「ヒューマノイド元年」と位置づけ、グループの3社共同で研究開発を進めるとともに、今回の全面オープンによって研究から社会実装へと加速させ、人型ロボットの普及を通じて日本の課題解決に貢献する方針である。",
-      "summary_zh": "GMO互联网集团于2026年10月6日全面开放了位于东京涩谷“Cerulean Tower”11楼的“GMO人形机器人实验室 涩谷展厅”。 该基地是聚集了先进机器人与研发设备的日本最大级别具身智能（物理AI）研发基地，继4月7日先行开放后，其余区域也正式投入运营。 此次开业的区域包括采用防振地板及大型起重机的开发区域、可容纳最多100人的会议空间兼开发区域、GMO AI&机器人商事的办公区域以及访客会议室。 该集团将2026年定位为“人形机器人元年”，由集团旗下3家公司共同推进研发，并通过此次全面开放加速从“研究”向“社会实现”的转变，计划通过普及人形机器人来为解决日本的课题作贡献。"
+      "summary": "ミスミグループ本社の製造業マーケットプレイス「meviyマーケットプレイス」が、日本信号株式会社の高所作業ロボット「ZIZAI」の開発における部品調達プロセスに導入された。 鉄道の高所架線メンテナンスなどにおける深刻な作業員不足を背景に開発が進む同ロボットは、図面完成後の見積もり回答までに約2週間、加工着手までに約1カ月を要し、標準的な納期が2〜3カ月に及ぶなどの課題を抱えていた。 meviyマーケットプレイスの活用により、約2週間かかっていた見積もり回答が最短1日になり、お客さまへの提案期間も従来の6カ月から3カ月に短縮された。 さらに、板金・切削・樹脂などの加工部品のまとめ発注や、チャットを通じた加工会社との直接対話によるコスト・納期の改善提案の受け取りが可能となった。",
+      "summary_zh": "ミスミ集团总公司旗下的制造业市场“meviyマーケットプレイス”已被引入日本信号株式会社的高处作业机器人“ZIZAI”的零部件采购流程中。 在铁路线路高处架线维护等作业人员严重短缺的背景下，该机器人此前面临着图纸完成后约需2周才能获得报价回复、约需1个月才能开始加工，标准交货期长达2至3个月等课题。 通过应用meviyマーケットプレイス，原本需要约2周的报价回复缩短至最短1天，向客户提交方案的期限也从传统的6个月缩短至3个月。 此外，钣金、切削、树脂等加工部件现在可以在该平台上进行集中订购，并通过聊天与加工公司直接沟通，从而能够接受关于降低成本和缩短交货期的建议。"
     },
     {
       "date": "2026.10.16",
-      "published_at": "2026-10-16T14:30:03+09:00",
-      "headline": "ヒューマノイドDigit 5を手がけるAgility Robotics、超急速充電バッテリーにNyobolt技術を採用 1日20時間以上の稼働が可能に",
-      "source": "ロボスタ",
-      "url": "https://robotstart.info/article/2026/10/16/382527.html",
+      "published_at": "2026-10-16T18:45:11+09:00",
+      "headline": "JR東日本・ソフトバンクなど、赤羽駅など4駅でAI・ロボットによる駅舎清掃DXを実証へ（ビジネス＋IT）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/d65daeb11a9449949bb947b682608d2585a4831d",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "JR東日本、JR東日本商事、ソフトバンクの3社は、10月16日にAI画像分析やIoTセンサー、フィジカルAI清掃ロボットを活用した駅舎清掃DXの実証実験を赤羽駅など4駅で10月27日から実施すると発表した。 実施期間は10月27日から2027年1月中旬までで、終日実施され、清掃ロボットの試験運転は終電後に行われる。 対象駅は赤羽駅、王子駅、十条駅、東十条駅の4駅だが、王子駅など3駅で行うのはIoTセンサーによるデータ分析のみとなる。 改札内のトイレやごみ箱へのIoTセンサー設置や二次元コードによる清掃依頼受付、コンコースへの仮設カメラによるAI汚物検知、トイレ内での清掃ロボット試験を行い、需要連動型・予兆型清掃の実現可能性を検証する。",
+      "summary_zh": "JR东日本、JR东日本商事以及软银于10月16日宣布，将从10月27日起在赤羽站等4个车站开展利用AI图像分析、IoT传感器及物理AI清扫机器人的车站清扫DX实证实验。 实施时间为10月27日至2027年1月中旬，全天实施，清扫机器人的试运行将在末班车后进行。 对象车站为赤羽站、王子站、十条站、东十条站共4个车站，但王子站等3个车站仅进行基于IoT传感器的 数据分析。 实验内容包括在检票内厕所及垃圾桶设置IoT传感器、通过二维码受理清扫请求、在集散大厅临时安装摄像头利用AI检测污物、以及在厕所内进行清扫机器人测试，旨在验证构建需求联动型与预兆型清扫模式的可能性。"
+    },
+    {
+      "date": "2026.10.16",
+      "published_at": "2026-10-16T17:35:26+09:00",
+      "headline": "JR東日本が推進するAIとロボットによる駅舎清掃のデジタル化実証実験の開始",
+      "source": "ニュースメディアVOIX",
+      "url": "https://voix.jp/credit-cards/jr-east-station-cleaning-dx-experiment/",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "JR東日本グループの経営ビジョン「勇翔2034」の実現に向けた取り組みとして、東日本旅客鉄道株式会社、株式会社JR東日本商事、ソフトバンク株式会社の3社は、赤羽駅を中心に駅舎清掃DXの実証実験を実施すると発表した。 清掃品質の維持・向上と人手不足に伴う負担増加の両立を目指し、IoTセンサーやAI画像分析、フィジカルAI清掃ロボットを活用して必要な場所を必要なタイミングで清掃する「需要連動型・予兆型清掃」の実現可能性を検証する。 実施期間は2026年10月27日から2027年1月中旬までで、赤羽駅、王子駅、十条駅、東十条駅の4駅で終日実施され、ロボットの試験運転は終電後に行われる。 トイレやごみ箱のIoTセンサー設置、二次元コードによる清掃依頼受付、カメラ画像のAI分析による汚物検知、トイレ内清掃ロボットの試験などが行われる。",
+      "summary_zh": "作为实现JR东日本集团经营愿景“勇翔2034”的举措，东日本旅客铁道株式会社、株式会社JR东日本商事以及软银株式会社宣布，将以赤羽站为中心实施车站清扫DX的实证实验。 为了兼顾维持与提升清扫品质以及应对人手短缺带来的负担增加，实验将利用IoT传感器、AI图像分析及物理AI清扫机器人，验证在需要的地点和时机进行清扫的“需求联动型、预兆型清扫”的实现可能性。 实施期间为2026年10月27日至2027年1月中旬，在赤羽站、王子站、十条站、东十条站4个车站全天实施，机器人的试运行在末班车后进行。 实验内容包括在厕所和垃圾桶设置IoT传感器、通过二维码受理清扫请求、通过摄像头图像的AI分析检测污物、以及进行厕所内清扫机器人的测试等。"
+    },
+    {
+      "date": "2026.10.16",
+      "published_at": "2026-10-16T15:32:06+09:00",
+      "headline": "ロボット重機で楽々メンテ JR西日本、高所作業や樹木伐採",
+      "source": "Infoseek",
+      "url": "https://news.infoseek.co.jp/article/kyodo_1483714709415100858/",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "JR西日本は16日、架線メンテナンスや線路脇の樹木の伐採に使用するロボットを備えた新たな重機2台の導入を発表した。 作業員を3割削減し、性別や年齢を問わない人材確保につなげる方針で、将来的には台数の増加を目指す。 今回導入されるのは、トラックにロボットを載せた2種類となる。 1台目は、作業員の足場を高所まで上げたり最大120キロの重さまで資材をつり上げたりできるほか、上空まで伸びるアームで架線を支える仕様で、従来作業員が電柱に登っていた作業を代替する。 2台目は、高さ15メートルの高所でも作業でき、人が操作して線路脇の樹木を伐採する人型ロボットである。",
+      "summary_zh": "JR西日本于16日宣布，将引入2台配备机器人的新型重机械，用于架线维护以及铁轨旁树木的砍伐。 该方针旨在将作业人员减少3%，并实现不分性别与年龄的人才招聘，未来目标是增加设备数量。 此次引入的是将机器人搭载在卡车上的2种机械。 第1种机械能够将作业人员的脚手架升至高处、吊起重达120公斤的物资，并且通过延伸至高空的机械臂来支撑架线，从而替代以往需要作业人员爬上电线杆的作业。 第2种机械是能够在15米高空作业、由人类操作来砍伐铁轨旁树木的人形机器人。"
+    },
+    {
+      "date": "2026.10.16",
+      "published_at": "2026-10-16T08:00:00+09:00",
+      "headline": "日本に本当に勝ち筋はあるのか ヒューマノイド「解剖」で見る中国の強さと課題：FAイベントレポート（1/3 ページ）",
+      "source": "MONOist",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "On October 15, 2026, American humanoid robot maker Agility Robotics announced that British ultra-fast charging technology company Nyobolt will be the battery technology partner for its next-generation humanoid robot, Digit 5. Digit 5 is designed to operate for over 20 hours out of 24, achieving a 10:1 runtime-to-charge ratio with 9 minutes of charge providing 90 minutes of work, an improvement over Digit 4's 2:1 ratio. Agility Chief Business Officer Daniel Diez stated that this efficiency improves the economic model of humanoid deployment. Nyobolt CEO Sai Shivareddy noted that the technology meets high reliability demands in harsh environments. Early access to Digit 5 is scheduled for the first half of 2027, expanding to manufacturing, warehousing, and logistics operators over the subsequent 6 to 9 months. Additionally, Agility is preparing to go public through a business combination with Churchill Capital Corp XI, expecting completion in the fourth quarter of 2026 to trade on Nasdaq under the ticker symbol AGLT.",
-      "summary_zh": "美国人形机器人制造商Agility Robotics于2026年10月15日宣布，选择拥有超急速充电技术的英国Nyobolt作为其次世代人形机器人“Digit 5”的电池技术合作伙伴。 Digit 5预计可在24小时内稼动20小时以上，实现9分钟充电稼动90分钟，稼动与充电比达到10:1，较前代Digit 4的2:1大幅改善。 Agility首席商务官丹尼尔·迪エズ表示，该成果显著改善了人形机器人的运作成本经济性。 Nyobolt共同创始人兼CEO赛·希巴雷迪指出，该技术满足了严苛环境下的高可靠性需求。 搭载Nyobolt技术的Digit 5预计于2027年前半开始先行提供，并在之后6至9个月内扩大至制造、仓库与流通运营商。 此外，Agility正推进与Churchill Capital Corp XI的业务整合以准备上市，预计于2026年第四季度完成，并在Nasdaq以代码AGLT上市。"
+      "summary": "中国ではヒューマノイドロボットの開発や量産、社会実装が加速しており、2026年上半期の出荷台数は1万8500台に達した。 SUGENAの須毛原勲氏が2026年9月29日のセミナーで、政府の方針やEVのサプライチェーンなど5つの要因による急速な量産体制を解説した一方、脳や神経などの「解剖」を通じて日本企業の勝負どころを分析した。",
+      "summary_zh": "中国目前正加速人形机器人的开发、量产与社会应用，2026年上半年出货量达18500台。 SUGENA代表取締役社長须毛原勋在2026年9月29日的线上研讨会上，分析了中国凭借政府方针及电动汽车供应链等五大因素实现快速量产的原因，并通过对机器人大脑、神经及传感器的解剖分析了日本企业的胜算领域。"
     },
     {
       "date": "2026.10.17",
-      "published_at": "2026-10-17T01:20:46+09:00",
-      "headline": "Meet 'Codey' the humanoid robot that hopes to tackle loneliness epidemic",
-      "source": "ABC7 New York",
-      "url": "https://abc7ny.com/amp/post/meet-codey-humanoid-robot-hopes-tackle-loneliness-epidemic/19942030/",
+      "published_at": "2026-10-17T19:42:18+09:00",
+      "headline": "AiMOGA to Open Global Pre-Orders for Mobo Home Humanoid Robot",
+      "source": "AI Insider",
+      "url": "https://theaiinsider.tech/2026/10/17/aimoga-to-open-global-pre-orders-for-mobo-home-humanoid-robot/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Mind Children has developed a social humanoid robot named Codey, focusing on communication, learning, and relationship-building rather than labor tasks. CEO Chris Kudla stated that development began approximately three years ago to make humanoid robots more accessible and approachable with a smaller frame and realistic facial features. Codey is designed for personal interaction settings such as health care environments, elderly care facilities, and schools, and has been updated to play games like hide-and-seek and Pictionary. Kudla noted the technology could assist individuals living alone or aging in place. Currently a prototype, Codey is the company's only robot of its kind, though officials hope to expand the technology and introduce it into health care settings by 2027.",
-      "summary_zh": "Mind Children开发了一款名为Codey的社交人形机器人，其设计定位为社交机器人而非劳动力机器人，重点关注沟通、学习和关系建立。 公司CEO克里斯·库德拉表示，该技术于大约三年前开始研发，旨在通过较小的身形和逼真的面部特征，使人形机器人更易接近。 Codey被设计用于人际互动重要的场景，包括医疗保健环境、老人护理机构和学校，并已更新了玩捉迷藏和Pictionary等游戏的功能。 库德拉指出，该技术还可以帮助独居或居家养老的人群。 目前Codey仍是一个原型机，也是该公司同类中唯一的机器人，不过官方希望在2027年之前将该技术扩展并带入医疗保健环境中。"
+      "summary": "AiMOGA Robotics will open global pre-orders for Mobo, its first consumer home companion humanoid robot, at the 2026 Chery International User Summit in Wuhu, China, running Oct. 19 through Oct. 23. Mobo features 22 degrees of freedom, the MoAgent AI system, spatial perception, dynamic obstacle avoidance, and family member preference memory. AiMOGA, part of Chery Group, reported cumulative deliveries of more than 3,000 units across over 60 countries and regions.",
+      "summary_zh": "奇瑞集团旗下的AiMOGA Robotics计划在2026年10月19日至10月23日于中国芜湖举办的2026奇瑞国际用户峰会上，为其首款消费级家庭陪伴人形机器人Mobo开启全球预售。 Mobo具备22个自由度、MoAgent人工智能系统、空间感知、动态避障以及家庭成员习惯记忆功能。 AiMOGA表示，其机器人已在60多个国家和地区累计交付超过3000台。"
     },
     {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T20:49:37+09:00",
-      "headline": "Figure AI Loan Assistant Targets Abandonment & Mortgage Growth",
-      "source": "HousingWire",
-      "url": "https://www.housingwire.com/videos/figure-ai-mortgage-growth/",
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T07:47:36+09:00",
+      "headline": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/gary-marcus",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "In a discussion with HousingWire, Figure CEO Michael Tannenbaum outlined how AI and product expansion help mortgage lenders address a challenging rate environment. Figure acquired Kiavi to expand lending offerings, noting home equity products are countercyclical to rates. To increase conversions, Figure developed the Figure AI loan assistant in partnership with Sierra to support loan officers, which has increased conversion rates by 20 percent and been validated through internal lending operations before partner deployment. Tannenbaum noted that the cost to originate a mortgage remains at $12,000, and cited home equity loan abandonment at approximately 49 percent as a major industry challenge, which the AI assistant addresses through borrower outreach. Figure's loan process averages nine days, including a three-day government-mandated rescission period, and the company is investing in faster capital markets execution such as pre-funded securitizations.",
-      "summary_zh": "Figure首席执行官迈克尔·坦嫩鲍姆在与HousingWire的对话中，阐述了人工智能与产品拓展如何帮助抵押贷款机构应对具有挑战性的利率环境。 Figure通过收购Kiavi来扩大贷款产品线，并指出房屋净值产品具有逆利率周期的特点。 为了提高转化率，Figure与Sierra合作开发了Figure AI贷款助手来支持信贷员，使转化率提升了百分之二十，并在向合作伙伴推出之前通过自身的借贷业务进行了验证。 坦嫩鲍姆指出，抵押贷款的发起成本仍为$12,000，并将大约49%的房屋净值贷款放弃率称为行业危机，而AI助手正通过借贷人外展服务来应对这一挑战。 Figure的贷款流程平均在9天内完成，其中包括3天政府强制的撤销期，且该公司正投资于预融资证券化等更快速的资本市场执行方式。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T20:25:25+09:00",
-      "headline": "RoboParty launches open-source RP1 humanoid robot",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/roboparty-launches-open-source-rp1-humanoid-robot/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "RoboParty has officially launched RP1 (ROBOTO 01), a full-stack open-source humanoid robot platform designed for embodied AI research, featuring 24-DoF and 30-DoF versions. The platform provides open access to hardware and software designs, including in-house-developed ROMOMO joint actuator modules, motion-control tools, firmware, SDKs, and simulation resources. The standard RP1 stands about 1.3 meters tall with 24 actuated degrees of freedom for gait and balance research, while the Pro version features 30 actuated degrees of freedom, including a 2-DoF neck and two 7-DoF arms for end-to-end policies and interaction studies. The modular architecture and interchangeable modules, such as the RP Hand dexterous hand, allow research teams to customize hardware configurations, trace experimental failures across physical and software layers, and conduct controlled comparative evaluations.",
-      "summary_zh": "RoboParty正式推出了RP1（ROBOTO 01），这是一款专为具身智能研究设计的高性能全栈开源人形机器人平台，提供24自由度和30自由度版本。 该平台对硬件和软件设计开放访问，包括其自主研发的ROMOMO关节执行器模块、运动控制工具、固件、软件开发工具包以及仿真资源。 标准版RP1身高约1.3米，拥有24个驱动自由度以支持步态和平衡研究；Pro版本则拥有30个驱动自由度，包含2自由度颈部和两个7自由度手臂，以支持端到端策略和交互研究。 其模块化架构和可更换模块（如RP Hand灵巧手）使研究团队能够定制硬件配置、跨物理与软件层追踪实验故障，并进行受控的对比评估。"
+      "summary": "Following Tesla's September 30, 2022 introduction of its Optimus robot prototypes, IEEE Spectrum gathered reactions from various robotics experts in academia and industry. While researchers like Georgia Chalvatzaki were impressed by the hardware progress made in a year and excited about accessible tools for academic research, they noted that the demonstrated behaviors lagged behind achievements like Honda's Asimo from 20 years ago and that solving manipulation requires much more work.",
+      "summary_zh": "在特斯拉于2022年9月30日推出其Optimus机器人原型后，IEEE Spectrum收集了学术界和工业界多位机器人专家的看法。 达姆施塔特工业大学的Georgia Chalvatzaki等研究人员虽然对工程团队在一年内取得的硬件进展以及可用于学术研究的触手可及的硬件感到印象深刻，但也指出其演示的行为不如本田20年前的Asimo，且解决操作问题还需付出更多努力。"
     },
     {
       "date": "2026.10.15",
@@ -233,8 +222,19 @@
       "url": "https://theaiinsider.tech/2026/10/15/china-physical-ai-roundup-ubtech-signs-faw-volkswagen-cd-deals-and-ldrobot-moves-to-buy-germanys-sabo-plus-funding-rounds/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "UBTech Robotics signed agreements with FAW-Volkswagen to develop and test humanoids for logistics at its Qingdao plant and with Xiamen C&D to expand sales channels into government exhibition halls and industrial parks. Chinese physical AI companies also reported funding rounds, including several hundred million yuan for Litchibot backed by Ant Group, over 100 million yuan for Wuxi Juxie Intelligent Drive Technology led by Huatai Zijin, and about 100 million yuan for LivSyn Robotics. Additionally, LDRobot agreed to buy Germany's Sabo-Maschinenfabrik for up to €6 million to utilize its European retail network, Keli Sensing invested tens of millions of yuan in Lumos Robotics, and ModelBest agreed to run models on Lumos robots. Robotera open-sourced its VPP2 model following top performance on the RoboDojo benchmark and deployment in over 10 logistics centers, while Westlake Robotics released the WR1 model for coordinated walking, posture, and hand movements.",
-      "summary_zh": "优必选科技与一汽-大众签署协议，将在青岛工厂开发和测试用于物流的人形机器人，并与厦门建发签署战略协议以将销售渠道拓展至政府展馆和产业园区。 中国具身智能企业还公布了多起融资，其中荔枝智能（Litchibot）获得由蚂蚁集团参与投资的数亿元人民币，无锡具协智能传动技术获得由华泰紫金领投的逾1 million人民币，利快机器人（LivSyn Robotics）获得约1亿元人民币。 此外，乐动机器人（LDRobot）同意以最高€600万收购德国Sabo-Maschinenfabrik以利用其欧洲零售网络，柯力传感向Lumos Robotics投资数千万元人民币，面壁智能（ModelBest）同意在Lumos机器人上运行其模型。 萝卜园区（Robotera）在RoboDojo基准测试中排名第一并在10多个物流中心部署后，将其VPP2模型开源；西湖机器人则发布了能够协调步行、姿势和手部动作的WR1模型。"
+      "summary": "UBTech Robotics signed agreements with FAW-Volkswagen to develop logistics humanoids and with Xiamen C&D to expand sales channels. Meanwhile, LDRobot agreed to acquire Germany's Sabo-Maschinenfabrik for up to €6 million, and several Chinese Physical AI companies secured funding rounds, including Litchibot, Wuxi Juxie Intelligent Drive Technology, and LivSyn Robotics. Additionally, Robotera open-sourced its VPP2 model and Westlake Robotics released the WR1 model.",
+      "summary_zh": "优必选科技与一汽-大众签署了物流人形机器人开发协议，并与厦门建发集团合作以拓展销售渠道。 同时，LDRobot同意以最高600万欧元收购德国割草机制造商Sabo-Maschinenfabrik，多家中国具身体素企业如荔枝微步、无锡聚偕智能驱动科技及利珀机器人等也获得了新一轮融资。 此外，星动纪元开源了VPP2模型，西湖机器人发布了WR1模型。"
+    },
+    {
+      "date": "2026.10.15",
+      "published_at": "2026-10-15T21:51:20+09:00",
+      "headline": "Ubtech Robotics Retreats 6.1% as US Inflation Data Rattles Asian Tech",
+      "source": "ad-hoc-news.de",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubtech-robotics-retreats-6-1-percent-as-us-inflation-data-rattles-asian/70330451",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "A hotter-than-expected US inflation reading caused a regional retreat in Asian technology stocks, leading to a 6.1% daily decline for Ubtech Robotics. The market pullback is separate from Ubtech's recent announcements, which include a joint venture with Xiamen C&D targeting the sale of at least 10,000 humanoid robots by 2030, a factory trial agreement with FAW-Volkswagen, and political backing for a plant in Almaty, Kazakhstan.",
+      "summary_zh": "美国高于预期的通胀数据引发了亚洲科技股的普遍回落，导致优必选科技股价单日下跌6.1%。 这一市场回调与优必选近期的战略合作无关，其近期动态包括与厦门建发设立合资企业并在2030年前实现销售至少10000台人形机器人的目标、与一汽-大众开展工厂测试合作，以及哈萨克斯坦阿拉木图工厂项目获得政治支持。"
     }
   ]
 }
