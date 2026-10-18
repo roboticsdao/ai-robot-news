@@ -1,0 +1,53 @@
+# 🖐 Dexterous Hand News | 2026.10.18（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.17] 广州日报新花城 — 38个自由度！仿生灵巧手内部精密仿生结构首次“开箱”**
+  中文：总结：10月16日，北京达奇月泉仿生科技宣布，应手Y-Hand M2的内部精密仿生结构在吉林大学办学成果展上首次公开。 该产品是吉林大学任雷教授提出的“仿生拉压体机器人理论与技术”产业化成果。 应手Y-Hand M2拥有38个自由度，是目前全球自由度最高的仿生灵巧手之一。 此次公开展示了其机械结构、驱动传动系统、感知及控制系统。 经过测试，该灵巧手在力量、速度、精度、灵活、柔顺五个核心性能上全面超越传统刚性手，成功完成全部33类类人灵巧操控，成功率达96%。 目前已实现规模化量产，可应用于智能制造、航空航天、医疗健康等多个领域。
+  📰 [广州日报新花城](https://huacheng.gz-cmc.com/pages/2026/10/17/9596acab72214d99a91c194d4a2f033a.html)
+
+- **[2026.10.17] 证券之星 — 长盛轴承10月16日回应具身智能话题：聚焦机器人关节自润滑轴承及灵巧手零部件_公司新闻**
+  中文：总结：长盛轴承于10月16日在投资者互动平台上回应，公司主营自润滑轴承及高性能聚合物的研发、生产与销售，产品广泛应用于汽车、工程机械、具身智能、清洁能源等领域。 作为汽车主机厂的二级或三级配套供应商，公司已有产品应用于特斯拉汽车上。 在具身智能领域，长盛轴承聚焦机器人关节自润滑轴承、部分直线执行器及灵巧手等零部件，并已与国内多家产业链企业开展业务与技术合作。
+  📰 [证券之星](https://stock.stockstar.com/RB2026101700005407.shtml)
+
+- **[2026.10.16] Robotics & Automation News — Tesla patent reveals touch-sensitive skin for robot hands**
+  English: Tesla has filed a US patent application, US 2026/0310299 A1, published on October 8, for a touch-sensitive skin that can be molded around robot fingers and palms to detect contact, force, and pressure. The sensor is manufactured by printing tactile sensors onto flat, flexible materials before heat-forming them into three-dimensional shapes. The design uses two flexible substrate layers carrying conductive regions, separated by a compressible layer. Tesla’s proposed manufacturing processes include screen printing, laser cutting, conductive paste deposition, and thermoforming. Potential substrate materials include thermoplastic polyurethane, PET, and polyimide. While the application does not state the technology will be used in the Optimus humanoid robot, it identifies robot fingertips, palms, and end-effectors among potential applications.
+  中文：总结：特斯拉提交了一项美国专利申请，即于10月8日公布的US 2026/0310299 A1，内容涉及一种可围绕机器人手指和手掌模塑的触敏“皮肤”，用于检测接触、力和压力。 该传感器的制造工艺是将触觉传感器印刷在扁平的柔性材料上，然后热成型为三维形状。 该设计使用两个带有导电区域的柔性基板层，中间由可压缩层隔开。 特斯拉提出的制造工艺包括丝网印刷、激光切割、导电浆料沉积和热成型。 可能的基板材料包括热塑性聚氨酯、PET和聚酰亚胺。 虽然该申请并未明确说明该技术将用于特斯拉的Optimus人形机器人，但它将机器人指尖、手掌和末端执行器列为潜在应用场景。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/tesla-patent-reveals-touch-sensitive-skin-for-robot-hands/105999/)
+
+- **[2026.10.16] Robotics & Automation News — ETH Zurich scientists turn WUJI robotic hand into self-propelled mobile manipulator**
+  English: Scientists at ETH Zurich demonstrated an anthropomorphic robotic hand from WUJI that uses its fingers for both manipulation and locomotion, enabling it to crawl, recover from falls, and move without a separate mobility system. The research was detailed in a paper by Amirhossein Kazemipour, Hehui Zheng, and Robert Katzschmann. Using reinforcement learning developed in simulation, the hand supports its own weight and performs tasks such as pressing keyboard keys and pushing objects. The system incorporates onboard power and computation. WUJI also develops the WUJI Hand 2 and WUJI Glove for real-time teleoperation and data collection, and provides native device support for Nvidia Isaac Teleop.
+  中文：总结：苏黎世联邦理工学院的科学家展示了一种来自WUJI的人形机器人手，该手能够利用其手指进行操作和运动，使其能够在没有独立移动系统的情况下爬行、从跌落中恢复并四处移动。 该研究由Amirhossein Kazemipour、Hehui Zheng和Robert Katzschmann撰写的论文进行了详细介绍。 通过在仿真中开发的强化学习，该手能够支撑自身重量并执行诸如按压键盘按键和推动物体等任务。 该系统集成了车载电源和计算能力。 WUJI还开发了WUJI Hand 2和WUJI Glove用于实时遥操作和数据收集，并为Nvidia Isaac Teleop提供本地设备支持。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/eth-zurich-scientists-turn-wuji-robotic-hand-into-self-propelled-mobile-manipulator/105991/)
+
+- **[2026.10.16] 新华报业网 — CIIF 2026｜从灵巧手到工业灵巧操作：灵掌携手遨博智能展示双臂智能分拣**
+  中文：总结：10月12日至16日，第26届中国国际工业博览会在上海举行。 无锡灵掌机器人科技有限公司携手遨博智能在展会上展示了双臂智能分拣系统。 该系统采用遨博智能协作机械臂，末端搭载灵掌机器人自主研发的LZ-Pro工业重载灵巧手，并结合视觉识别与灵巧操作控制系统。 灵掌机器人采用规则控制与学习策略相结合的技术路线，应对工业现场环境感知、抓取控制和任务规划的需求。 此次展示所采用的LZ-Pro工业重载灵巧手具有11个自由度，主动抓取负载可达10kg。 此外，公司还自主研发了具有23个自由度的LZ-Explore高自由度灵巧手，主动抓取负载可达15kg。
+  📰 [新华报业网](https://www.xhby.net/content/s6ad1d1fce4b0f381426982c3.html)
+
+- **[2026.10.16] 数字中国建设峰会 — 灵巧手量产按下加速键**
+  中文：总结：中国灵巧手产业在经历了资本加码和自由度等硬件参数竞赛后，正向标准化、规模化制造迈进。 截至2026年9月底，因时机器人OmniHand系列累计交付超过1.5万台，且今年产能进一步扩大4倍并启用常熟智造基地。 高工产业研究院数据显示，2025年中国灵巧手市场销量约1.92万只，预计2026年达到7.02万只。 然而，行业仍面临工业场景应用比例低、高可靠性产品稀缺、投资回报率计算以及软硬件磨合等挑战。 因时机器人CMO房海南指出工业场景客户处于POC验证渗透阶段，灵巧智能创始人兼董事长许春山表示行业尚缺能稳定干活的手。 企业正在通过全栈自研、深耕场景适配及构建标准来跨越规模应用门槛。
+  📰 [数字中国建设峰会](https://www.szzg.gov.cn/2026/xwzx/szkx/202610/t20261016_5382652.htm)
+
+- **[2026.10.15] 36Kr — Embodied Intelligence Paradigm Shift: Why Dexterous Hands Are Moving Beyond Freedom Degree Competition – Brain Lag & Cost Control Challenges**
+  English: Embodied intelligence is experiencing a critical shift from parameter competition to pragmatism as the humanoid robot industry focuses on scenario-based and large-scale implementation. Enterprises have significantly slowed down the pursuit of ultra-high degrees of freedom. While companies previously developed dexterous hands with massive DoF exceeding the human hand—such as Yuequan Bionics' Y-Hand M2 with 38 DoF, Zhongke Huisi's F-series with 37 DoF, and Lingxin Qiaoshou's LinkerHand with 42 DoF—recent designs have scaled back, with Boston Dynamics introducing a 4-finger, 13-DoF hand for Atlas and Unitree Robotics releasing the Dex5-S with 22 DoF. Industry experts note that when degrees of freedom exceed 25, marginal effects decrease while costs rise exponentially. High-DoF hands require extensive motor and sensor integration, creating heat dissipation, energy consumption, and high manufacturing cost challenges, with prices ranging from tens of thousands of yuan to millions. Furthermore, software limitations, such as existing VLA models outputting only about 10 motion control vectors per timestamp, restrict the capabilities of high-DoF hardware and necessitate remote control for precise movements.
+  中文：总结：具身智能行业正经历从参数竞争向实用主义的关键转变，人形机器人领域更加关注场景化和规模化落地。 企业已明显放缓对超高自由度的盲目追求。 此前多家企业曾开发远超人手自由度的灵巧手，例如泉源仿生开发的38自由度Y-Hand M2、中科慧思的37自由度F系列以及灵心巧手的42自由度LinkerHand；然而近期设计有所精简，波士顿动力为Atlas推出了4指13自由度灵巧手，宇树科技则发布了具备22自由度的Dex5-S。 行业专家指出，当自由度超过25时，边际效用递减而成本呈指数级上升。 高自由度手需要大量电机与传感器集成，带来了散热、能耗和高昂制造成本等挑战，价格从数万元到数百万元不等。 此外，软件能力受限（例如现有VLA模型在每个时间戳仅能输出约10个运动控制向量）限制了高-DoF硬件的上限，许多精确动作仍需通过遥控来实现。
+  📰 [36Kr](https://eu.36kr.com/en/p/4026593084233608)
+
+- **[2026.10.14] PR Newswire — Tesollo Expects Cumulative Robotic Hand and Gripper Sales to Surpass 1,000 Units in 2026**
+  English: South Korean robotic hand and gripper company Tesollo expects its cumulative sales of robotic hands and multi-finger grippers to exceed 1,000 units by the end of 2026. This growth is driven by expanding demand across humanoid robotics, Physical AI, industrial automation, and research. To support this demand, Tesollo expanded its production facilities in 2026, upgrading infrastructure for assembly, inspection, quality control, and shipment to ensure scalable supply. The company offers end-effectors ranging from one-finger mechanisms to five-finger dexterous hands. Its investor base includes early institutional backers Samsung Venture Investment and POSCO Technology Investment, as well as newer industrial equity investors HL Mando and Daesung Hi-Tech, who collaborate with Tesollo on manufacturing competitiveness. Platinum Technology Investment is also an investor, and Tesollo is discussing potential cooperation with its largest shareholder, Jahwa Electronics. Tesollo is also preparing for a potential public listing in South Korea with KB Securities appointed as lead underwriter.
+  中文：总结：韩国机器人手与夹持器公司Tesollo预计，到2026年底其机器人手和多指夹持器的累计销售额将超过1000台。 这一增长是由人形机器人、具身智能、工业自动化和研究领域不断扩大的需求所推动的。 为支持这种需求，Tesollo在2026年扩大了生产设施，升级了涵盖组装、检查、质量控制和发货的基础设施，以确保可扩展的供应。 该公司提供从单指机构到五指灵巧机械手的末端执行器。 其投资者基础包括早期的机构支持者三星风险投资和浦项科技投资，以及更新的工业股权投资者HL Mando和大成高科，后者与Tesollo在制造竞争力方面展开合作。 铂金科技投资公司也是投资者之一，Tesollo正与其最大股东惹华电子讨论潜在合作。 Tesollo还在筹备在韩国潜在上市，并已任命KB证券为主承销商。
+  📰 [PR Newswire](https://www.prnewswire.com/news-releases/tesollo-expects-cumulative-robotic-hand-and-gripper-sales-to-surpass-1-000-units-in-2026--302905529.html)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.18 | full-text items: 8
