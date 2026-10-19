@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.19（月曜日 / Monday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.19] Vietnam.vn — US and China compete in a $5 trillion race for humanoid robots.**
+  English: China is pulling ahead of the US in the humanoid robot race, accounting for 97% of global deliveries in the first half of the year, aided by government support, a vast component supply network, and an engineering workforce. Morgan Stanley forecasts the industry could reach over $5 trillion by 2050. While Chinese companies hold advantages in hardware and manufacturing, US rivals focus on AI brains, supported by advanced chips and leading models. LinkerBot supplies over 80% of global advanced robotic hands with clients like Samsung and Meta, and startups like PsiBot are developing cognitive abilities while nearing a $1.5 billion valuation.
+  中文：总结：在政府支持、庞大的零部件供应网络和工程劳动力的协助下，中国在人形机器人竞赛中正超越美国，今年上半年占全球交付量的97%。 摩根士丹利预测，到2050年该行业价值可能超过$5 trillion。 虽然中国公司在硬件和制造方面占据优势，但美国竞争对手在先进芯片和领先模型的支持下专注于人工智能大脑。 LinkerBot供应了全球80%以上的先进机器人手，客户包括三星和Meta，而PsiBot等初创公司正在开发认知能力，估值接近15亿美元。
+  📰 [Vietnam.vn](https://www.vietnam.vn/en/my-trung-so-ke-cuoc-dua-robot-hinh-nguoi-tri-gia-5-000-ty-usd)
+
+- **[2026.10.18] Waltham Times — Local advocates rally against sale of Boston Dynamics’ robot dogs to ICE**
+  English: Local activist groups, including Don’t Mourn Organize and De-ICE Action Network, are protesting outside Boston Dynamics’ Waltham headquarters against the sale of its robot dogs to US Immigration and Customs Enforcement. The activists are demanding that the company revoke the software license allowing ICE to operate the machines and that Massachusetts rescind a $25 million tax credit awarded to Boston Dynamics. The contract involves modified SPOT dogs called Cerberus sold by Connecticut company RADeCO for about $1.3 million, which Boston Dynamics states are legally prohibited from being weaponized or used for harm.
+  中文：总结：当地维权团体（包括Don’t Mourn Organize和De-ICE Action Network）在波士顿动力公司位于沃尔瑟姆的总部外抗议，反对将该公司的机器狗出售给美国移民和海关执法局。 活动人士要求该公司撤销允许ICE操作这些机器的软件许可证，并要求马萨诸塞州撤回授予波士顿动力公司的2500万美元税收抵免。 该合同涉及由康涅狄格州公司RADeCO以约130万美元售出的名为Cerberus的改装SPOT狗，波士顿动力公司表示法律禁止将这些机器人武器化或用于伤害目的。
+  📰 [Waltham Times](https://walthamtimes.org/2026/10/17/local-advocates-rally-against-sale-of-boston-dynamics-robot-dogs-to-ice/)
+
+- **[2026.10.16] BusinessLine — Boston Dynamics appoints Rohit Prasad as CEO to lead robotics expansion**
+  English: Boston Dynamics appointed former Amazon executive Rohit Prasad as chief executive officer on Tuesday. Prasad will lead the Hyundai Motor Co. -controlled company into its next era of innovation and commercialization of its robots, including physical AI development. Hyundai acquired majority ownership of Boston Dynamics in 2021 and plans to deploy the Atlas robot at its Georgia plant starting in 2028, with a capacity to produce up to 30,000 humanoids annually. Prasad previously spent 12 years at Amazon helping build Alexa and 14 years at Raytheon BBN Technologies. He succeeds Robert Playter, who stepped down earlier this year after six years as CEO. Additionally, Hyundai is moving to acquire SoftBank Group Corp. 's remaining stake to secure full ownership and has formed strategic partnerships with Nvidia Corp. and Google DeepMind to develop Atlas for simple tasks like welding and logistics by 2028, and component assembly by 2030.
+  中文：总结：波士顿动力于周二任命前亚马逊高管罗希特·普拉萨德为首席执行官，领导这家由现代汽车公司控股的企业进入机器人创新与商业化新时期，重点推进物理人工智能技术。 现代汽车于2021年收购了波士顿动力多数股权，并于今年早些时候宣布计划自2028年起在其佐治亚州工厂部署Atlas机器人，年产能目标达最多30,000台人形机器人。 普拉萨德此前在亚马逊度过了12年时光，参与构建并扩展了智能助手Alexa，加入亚马逊之前还在雷神BBN技术公司工作了14年。 他接替了今年早些时候卸任的前首席执行官罗伯特·普雷特。 与此同时，现代汽车正着手收购软银集团持有的波士顿动力剩余股份以获得全资所有权，并已与英伟达公司及谷歌DeepMind建立战略合作伙伴关系，计划让Atlas机器人在2028年前开始从事焊接和物流等简单任务，并在2030年前投入组件装配等更复杂的制造流程。
+  📰 [BusinessLine](https://www.thehindubusinessline.com/info-tech/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-as-ceo/article71554195.ece)
+
+- **[2026.10.16] The Manila Times — FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recr**
+  English: FF EAI Robotics and FF Jointly launched FF Nova, America's first humanoid robot priced below $2,500 at $2,490, alongside a $390 Developer Skills Package. Launched in three phases, Phase One is by invitation only and limited to 100 units. They also introduced the FF Nova Mini foundational education platform at $299 with a $499 curriculum, the Physical AI Spark Program Curriculum, and the Physical AI Reinforcement Learning Developer Program utilizing the NVIDIA Isaac platform. Furthermore, FFR and FFAI signed definitive agreements on October 12, 2026, for FFR to acquire FFAI's robotics assets and business in an all-stock transaction valued at approximately $200 million. FFR will issue shares at $2.246 per share, representing an approximately 50% premium over FFR's October 12 closing price of $1.50, with FFAI valued on a fully diluted basis alongside FFR's approximately $60 million valuation. Upon closing, FFR will become a U. S. -listed pure-play humanoid and bionic EAI robotics ecosystem company.
+  中文：总结：FF EAI Robotics与FF联合推出了美国首款售价低于$2,500的人形机器人FF Nova，定价为$2,490，并搭配售价$390的开发者技能包。 Nova的分阶段推出计划中，第一阶段采取邀请制且限量100台。 双方还推出了售价$299、配套课程$499的FF Nova Mini基础教育平台、物理人工智能火花计划课程，以及依托NVIDIA Isaac平台的物理人工智能强化学习开发者项目。 此外，FFR与FFAI于2026年10月12日签署了最终协议，由FFR通过全股票交易收购FFAI的机器人资产与业务，交易估值约为$200 million。 FFR将以每股$2.246的价格发行股票，较10月12日$1.50的收盘价溢价约50%，FFAI的估值基于完全摊薄计算，同时FFR自身的估值约为$60 million。 交易完成后，FFR将成为美国上市的纯正人形及仿生EAI机器人生态系统公司。
+  📰 [The Manila Times](https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/ff-eai-robotics-ffr-and-ff-jointly-launch-ff-nova-first-embodied-ai-humanoid-robot-priced-below-2500-in-us-ff-nova-mini-physical-ai-spark-program-curriculum-nova-reinforcement-learning-developer-program-and-developer-community-recruitment/2447233/amp)
+
+- **[2026.10.16] 清水建設 — Shimizu Completes Investment in U.S. Robotics Startup Noble Machines Inc.**
+  English: Shimizu Corporation completed an investment in Noble Machines Inc. , a Silicon Valley startup developing humanoid AI robots for the construction industry led by CEO Wei Ding, and launched a full-scale collaboration on October 16, 2026. The partnership combines Noble Machines' hardware and software development capabilities with Shimizu's construction expertise to create robots supporting or replacing physically demanding and hazardous tasks amid anticipated labor shortages. Noble Machines develops hardware including the MOBY series of humanoid AI robots, control systems, and application software. Shimizu plans to begin virtual simulations by the end of this year for tasks such as transporting materials, navigating sites, and conducting patrols using BIM/CIM data, followed by physical on-site testing starting next spring.
+  中文：总结：清水建设于2026年10月16日完成了对Noble Machines Inc. 的投资，并与其展开全面合作。 Noble Machines是一家位于硅谷的初创公司，由首席执行官魏丁领导，致力于开发面向建筑行业的人形AI机器人。 此次合作将Noble Machines的软硬件开发能力与清水建设的施工专业知识相结合，旨在打造能够支持或替代高强度及危险现场任务的机器人，以应对未来劳动力短缺的问题。 Noble Machines开发了包括MOBY系列建筑人形AI机器人在内的硬件、控制系统及应用软件。 清水建设计划于今年年底前利用BIM/CIM数据开始进行材料运输、场地导航和巡逻等建筑应用的虚拟仿真，并从明年春天开始在实际建筑工地上对实体机器人进行测试。
+  📰 [清水建設](https://www.shimz.co.jp/en/company/about/news-release/2026/2026044.html)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.19] www.mrjjxw.com — 中国企业把咖啡机器人卖到全球75国，宣称有门店4个月回本！头部厂商讲述出海“生意经”**
+  中文：总结：在第140届广交会上，上海氦豚机器人科技有限公司与酷库智能机器人有限公司等企业的智能咖啡机器人吸引了大量全球采购商，单机每日可制作600至800杯咖啡。 氦豚科技创始人韩兆林表示，本届广交会首日意向订单较春季展会首日增长约15%。 IDC报告显示，2025年全球商用服务机器人出货量前十厂商中，中国企业合计出货量占比超过90%。 氦豚科技的COFE+咖啡机器人已销往全球75个国家、200多个城市，客户实际运营显示最快4个月至8个月可实现回本。 市场研究机构Stratistics MRC测算，2026年全球咖啡机器人市场规模约为$700 million，预计到2034年将增长至$2.79 billion，复合年均增长率为18.8%。
+  📰 [www.mrjjxw.com](https://www.mrjjxw.com/articles/2026-10-19/4607973.html)
+
+- **[2026.10.18] 证券之星 — 北交所行业主题报告：中国机器人心脏移植手术技术空白填补，北交所/新三板4家标的卡位产业链**
+  中文：总结：开源证券发布研报称，中国机器人心脏移植手术技术取得进展并填补了技术空白，2025年中国市场规模预计达11.03亿元。 2026年10月5日，通通大学第一附属医院通过机器人辅助成功为一名终末期心衰患者实施心脏移植手术。 根据产业研究院数据，2023年全球手术机器人市场规模约为180.74亿元，2024年约为204亿元，2025年预计达到230亿元。 2024年中国手术机器人市场规模约为9.59亿元，2020-2024年CAGR为34.5%，2025年预计达11.03亿元。
+  📰 [证券之星](https://stock.stockstar.com/JC2026101800007827.shtml)
+
+- **[2026.10.18] 第一财经 — 宇树上市后首次演讲，王兴兴谈“让机器人自己写代码进化”**
+  中文：总结：宇树科技创始人、董事长王兴兴在公司正式登陆科创板敲钟仪式次日，于8月20日的世界机器人大会上发表主题演讲，介绍了G1人形机器人、载人机甲及新机“超人”等产品。 宇树已在部分汽车工厂和自家工厂部署机器人，但因泛用性能力尚显不足而未大规模推广。 公司自研的具身大模型包括1月份完成试点部署的UnifoLM-X1-0、5月份发布的WVLA2.0模型以及7月份发布的UnifoLM-OminiA-0.3。 王兴兴认为目前全球具身智能最大瓶颈是泛化能力不足，要在80%的陌生场景中通过指令顺利完成约80%的任务，理想情况下需要2至3年或5至10年实现。
+  📰 [第一财经](https://www.yicai.com/news/103326177.html)
+
+- **[2026.10.18] 证券之星 — 机器人行业周报：GPT-6 Astra冲榜具身大脑，中国包揽全球人形收入前五_行业研究_研报**
+  中文：总结：根据《2026年全球人形机器人市场研究报告》计算，今年上半年全球人形机器人市场前五名全部由中国企业包揽。 常德发布了合计1658个具身智能数采场景资源清单，上海提出到2028年培育500家以上先进级智能工厂，具身智能国际应用训练场在港正式开幕。 在融资方面，星尘智能完成10亿元规模新一轮融资，云深处科技完成数亿元B+轮融资，法奥机器人连续完成C+轮及D轮融资、累计近10亿元。 在技术与产品方面，SuperCLUE发布的具身大脑评测榜单中GPT-6 Astra综合排名第一，同时世界模型、触觉感知与精密传动等多线发展持续推进。
+  📰 [证券之星](https://stock.stockstar.com/JC2026101800006915.shtml)
+
+- **[2026.10.18] 中华网 — 机器人出口暴增1220%！全球资本涌入 中国领跑人形机器人赛道**
+  中文：总结：今年前8个月，深圳机器人出口同比增速达到1200%，总价值111.3亿元，销往全球120多个国家和地区。 今年上半年全球人形机器人销量为3.6万台，超过去年全年的3.5万台，在全球5.4亿美元的市场收入中排名前五的企业全部来自中国，深圳占据两个席位。 当前中国在民用人形机器人领域处于领先地位。 A股市场上人形机器人概念反弹，核心推动力是特斯拉Optimus V3硬件设计方案基本冻结，即将进入量产周期，头部玩家准备投入生产线并下单。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20261018/49800338.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.19] ｄメニューニュース — フィジカルAIの“耳”で状況を音から認識。位置合わせ0.1mm精度でアームロボットがネジ締め…三菱電機が取り組む「安全に動くフィジカルAI」**
+  日本語：「CEATEC 2026」の三菱電機グループのブースでは、デジタル基盤「Serendie」を活用したフィジカルAIの取り組みを紹介した。 執行役員デジタルイノベーション事業本部AXイノベーションセンター副センター長の岡田祐氏は、熟練作業者と同等レベルの判断・行動を実現する「行動モデル」と物理空間における実用価値を創出する「インテグレーション」の2つの技術が特徴であると述べた。 総務大臣賞を受賞した「タスク汎用音源分離技術（TUSS）」は、プロンプトで指定した音を単一のAIモデルで分離・抽出する。 また、アームロボットが手元カメラで0.1mmの精度で位置合わせしてネジ締めを行うデモンストレーションや、CP Roboticsとのパートナーシップによる小売店舗向け棚出しロボット、生産ライン改善サービスなどを紹介した。
+  中文：总结：在“CEATEC 2026”三菱电机集团展位上，介绍了利用数字化基准“Serendie”实现物理AI的举措。 执行董事、数字创新事业本部AX创新中心副中心长 Okada Yu 表示，其特点在于实现与熟练作业人员同等水平判断与行动的“行动模型”和创造物理空间实用价值的“集成”这两项技术。 获得总务大臣奖的“任务通用音源分离技术（TUSS）”能够通过提示指定声音，并用单一AI模型进行分离与提取。 此外，展会还演示了手臂机器人利用手部摄像头以0.1毫米精度进行定位对准并拧螺丝的作业、通过与CP Robotics合作实现的小卖部上货机器人以及生产线改善服务等。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/article/internet_watch/trend/internet_watch-2149065?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4)
+
+- **[2026.10.19] Newscast.jp — 日本の製造用ロボット市場規模は、年平均成長率（CAGR）15.89%で拡大し、2034年には5万1300台に達する見通し。**
+  日本語：日本の製造業向けロボット市場は2025年の13,600台から拡大し、2034年には51,300台に達する見通しです。 2026年から2034年にかけての年平均成長率は15.89%と予測されています。 IMARCグループの調査レポートによると、背景には労働力不足、高齢化、電気自動車生産への移行に伴う高度な自動化の必要性があります。 ファナック、安川電機、川崎重工業、ナチなどの大手メーカーが自動車やエレクトロニクス業界等へ製品を供給しています。 また、AIを活用したプログラミングの簡素化、マシンビジョン品質検査、予知保全などの技術が導入され、製造現場の効率化やコスト削減に寄与しています。
+  中文：总结：日本制造业机器人的市场规模预计将以15.89%的复合年增长率扩大，在2034年达到51,300台。 根据IMARC集团的调查报告，该市场在2025年已达到13,600台。 劳动力短缺、老龄化以及向电动汽车生产过渡等因素推动了2026年的显著增长。 发那科、安川电机、川崎重工和那智等主要制造商向全球及国内的汽车和电子等产业供应产品。 协作机器人因易用性和安全性在中小企业中迅速普及。 此外，人工智能在机器人编程、机器视觉质量检查以及预测性维护等领域的应用，正持续简化生产并降低成本。
+  📰 [Newscast.jp](https://newscast.jp/smart/news/1523942)
+
+- **[2026.10.19] ニュースイッチ by 日刊工業新聞社 — 熱処理炉､4足歩行ロボットで自動点検…日本精工が外販へ**
+  日本語：日本精工は2027年度に、アールティの4足歩行ロボットを用いた工場内点検システムの運用を藤沢工場で開始します。 アールティ製ロボットが熱処理炉の稼働に関するメーターをAIカメラで自動読み取り・記録し、高温環境下での作業者の負担を軽減します。 6月に試作機を用いた実証を開始し、10月末をめどに概念実証を終える予定で、早ければ28年度に国内外の多業界への外販を目指します。 日本精工は2025年にアールティとの業務提携を発表し、26年にはロボット事業部を新設してフィジカルAIやロボティクス事業を強化しています。
+  中文：总结：日本精工计划在2027年度开始在藤泽工厂运用由RT公司的四足步行机器人构成的厂内点检系统。 RT公司的机器人将在高温环境下自动巡回，利用AI摄像头读取并记录热处理炉运行相关的仪表，以减轻现场作业人员的负担。 该实证于6月开始使用样机，计划在10月底左右结束概念验证，最早在2028年度向国内外多个行业进行外部销售。 日本精工于2025年宣布与擅长AI机器人开发的RT公司开展业务合作，并于2026年新设机器人事业部，强化具身智能与机器人业务。
+  📰 [ニュースイッチ by 日刊工業新聞社](https://newswitch.jp/p/50556)
+
+- **[2026.10.17] 日経バイオテクONLINE — 製造AIの導入を支援する企業が続々登場、アステラス製薬と安川電機の合弁はロボットAIで細胞製造法開発**
+  日本語：人工知能を使用してワクチンや抗体医薬、細胞医薬などの製造工程を革新させる取り組みの中で、共同研究や受託の形でAI開発・導入を支援する企業が増加しています。 アステラス製薬と安川電機の合弁会社によるロボットAIを用いた細胞製造法の開発や、ファーメランタの大腸菌培養におけるエピストラと日立製作所の共同開発など、支援産業を展開する企業とその研究が行われています。
+  中文：总结：在利用人工智能革新疫苗、抗体药物及细胞药物等制造工序的过程中，以共同研究或受托形式支持AI开发与引入的企业不断增加。 其中包括安斯泰来制药与安川电机的合资企业利用机器人AI开发细胞制造方法，以及Fermelanta在大肠杆菌培养中由Epistra和日立制作所共同开发的案例，展现了从事支持产业的企业及其相关研究。
+  📰 [日経バイオテクONLINE](https://bio.nikkeibp.co.jp/atcl/report/16/082400016/042400453/)
+
+- **[2026.10.17] AGARA 紀伊民報 — 「meviyマーケットプレイス」 日本信号の高所作業ロボット「ZIZAI」、部品調達方法の変更により開発を加速**
+  日本語：日本信号株式会社は、鉄道の架線メンテナンスなどの高所作業を代替するロボット「ZIZAI」の開発において、ミスミグループ本社の製造業マーケットプレイス「meviyマーケットプレイス」を導入しました。 従来は図面完成後から見積もり回答に約2週間、加工着手に約1カ月を要し、標準的な納期は2〜3カ月に及んでいましたが、導入により見積もり回答が最短1日となり、提案期間が従来の6カ月から3カ月に短縮されました。 さらに板金・切削・樹脂などの部品発注が集約され、加工会社とのチャットによる直接対話でコストや納期の改善提案を受けることが可能になりました。
+  中文：总结：日本信号株式会社在开发替代铁路架线维护等高空作业的高空作业机器人“ZIZAI”时，引入了ミスミ集团总公司运营的制造业市场“meviyマーケットプレイス”。 过去图纸完成后需要约2周时间得到报价回复、约1个月才能开始加工，标准交货期长达2至3个月；引入后，报价回复缩短至最短1天，向客户提交提案的期间从传统的6个月缩短至3个月。 此外，钣金、切削和树脂等部件的订购得以集中，通过与加工企业的聊天直接沟通，能够获得有关成本和交货期改善的建议。
+  📰 [AGARA 紀伊民報](https://www.agara.co.jp/article/699885/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.19] ZDNET Japan — Bitcoin Japan、UBTECH製ヒューマノイドロボットの日本展開に向け独占契約を締結**
+  English: Bitcoin Japan株式会社は2026年10月16日付で、UBTECH ROBOTICS LIMITEDとの間に、産業用ヒューマノイドWalker S2を含む6機種および関連サービス等の日本国内における独占販売契約を締結しました。 本契約は同社が9月17日に公表し10月1日に開始したフィジカルAI事業を前進させるものであり、36か月間の独占販売期間は最初の機種であるWalker C1の日本における適合性確認および認証の完了日から起算されます。 対象機種はWalker S2、Walker Tienkung、Tienkung Dex、Sky Walker、Walker C1、Cruzr S2です。 また、UBTECHグループの2026年上半期のフルサイズエンボディドAI搭載ヒューマノイドロボットの売上高は5億9,030万人民元、販売台数は921台であり、グループ全体の売上高は12億6,910万人民元を記録しています。
+  中文：总结：Bitcoin Japan株式会社于2026年10月16日与UBTECH ROBOTICS LIMITED签署了日本独家销售协议，涵盖包含工业级人形机器人Walker S2在内的6款机器人及相关服务。 该协议推进了该公司于10月1日启动的具身AI业务，36个月的独家销售期自首款机型Walker C1完成日本适应性确认及认证之日起计算。 涉及的6款机型包括Walker S2、Walker Tienkung、Tienkung Dex、Sky Walker、Walker C1和Cruzr S2。 此外，UBTECH集团2026年上半年全尺寸具身AI人形机器人产品的销售额为5.903亿元人民币，销量为921台，集团整体营业收入达到12.691亿元人民币。
+  📰 [ZDNET Japan](https://japan.zdnet.com/release/31216321/)
+
+- **[2026.10.19] TechRadar — UCLA researchers built a $400 humanoid robot around cheap phone technology**
+  English: Researchers at the University of California, Los Angeles (UCLA), have developed PhoneBot, a compact humanoid robot that costs approximately $400 in hardware, excluding the phone, and reuses cheap Android smartphones for sensing and computing. PhoneBot stands 483 mm tall, weighs 1.8 kg, and uses 13 servo motors to control its legs and rotating torso. Instead of dedicated cameras and motion sensors, it uses four Android phones—including an older Honor 9 and three handsets costing $50 to $80—for vision, computing, and walking control via TensorFlow Lite. The team trained the walking controller using reinforcement learning in simulation, applying mirrored training samples to improve gait symmetry and reduce joint-angle symmetry error from 0.254 radians to 0.003 radians across five independent training runs. The robot is limited by low-powered servos and lacks arms, leaving uneven-terrain mobility unresolved.
+  中文：总结：加利福尼亚大学洛杉矶分校（UCLA）的研究人员开发了名为PhoneBot的小型人形机器人，其不含手机的硬件成本约为400美元，并重复利用廉价的Android智能手机进行传感与计算。 PhoneBot高483毫米，重1.8公斤，使用13个伺服电机来控制其腿部及旋转躯干。 它不依赖专用摄像头和运动传感器，而是使用4款Android手机（包括一台2017年发布的旧款荣耀9以及三款售价约50至80美元的低端手机）通过TensorFlow Lite来处理视觉、计算和行走控制。 研究团队在仿真环境中使用强化学习训练行走的控制器，应用镜像训练样本来改善步态对称性，在五次独立训练中将关节角度对称误差从0.254弧度降至0.003弧度。 该机器人受限于低功率伺服电机且缺乏手臂，尚未解决不平坦地面的移动问题。
+  📰 [TechRadar](https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers)
+
+- **[2026.10.18] BigGo Finance — OpenAI Confirms In-House Humanoid Robot Development; Altman Says Intelligent 'Brain' Takes Priority Over Hardware**
+  English: Artificial intelligence company OpenAI has officially confirmed it will independently develop humanoid robots, with CEO Sam Altman stating that the core focus is the intelligent 'brain' rather than physical appearance or hardware. Altman noted that matching the human form factor is a reasonable choice because world infrastructure is designed around the human body, and confirmed OpenAI will pursue both humanoid robots and other form factors such as data center machines. OpenAI expects to deliver a demonstration prototype by 2027, though public deployment will take several more years. The technical challenges involve integrating environmental understanding, instruction interpretation, action planning, and physical coordination. OpenAI previously conducted the Dactyl project, training a robotic hand entirely in simulation to solve a Rubik's Cube, which yielded a 60% success rate for normal scrambles and 20% for the hardest scrambles requiring 26 rotations.
+  中文：总结：人工智能公司OpenAI已正式确认将独立开发人形机器人，首席执行官山姆·阿尔特曼（Sam Altman）在播客节目中表示，该项目的核心焦点是智能“大脑”，而非外观或硬件。 阿尔特曼指出，由于世界基础设施是围绕人体设计的，匹配人形外形是一个合理的选择，并确认OpenAI将同时研发人形机器人以及数据中心机器等其他形态。 OpenAI预计在2027年推出演示原型机，但实际面向公众部署仍需几年时间。 技术挑战涉及整合环境理解、指令解析、行动规划和身体协调。 OpenAI此前曾开展Dactyl项目，在仿真环境中训练机械手解魔方，普通打乱情况下的成功率约为60%，而需要26次旋转的最难打乱情况下的成功率降至约20%。
+  📰 [BigGo Finance](https://finance.biggo.com/news/66329e60-850c-495b-aba0-0bf87d810207)
+
+- **[2026.10.18] Stocktwits — XPeng’s Humanoid Robot Bet Hit A $6.3B Valuation - So Why Is XPEV Stock Falling?**
+  English: XPeng's robotics business has raised more than $900 million at a post-money valuation above $6.3 billion through share purchase agreements led by IDG Capital, with participation from Gaorong Ventures, Tencent, and Alibaba. XPeng plans to use the capital to develop hardware and software, train Physical AI models, generate data, and build mass-production facilities for its humanoid robots, including its next-generation robot Iron, which is expected to enter mass production by the end of 2026. Deliveries are planned for XPeng stores and campuses initially, followed by China and overseas markets in 2027, while XPeng retains controlling ownership. Meanwhile, XPeng reported a wider second-quarter adjusted loss and a revenue miss, with Q2 revenue rising 8% to RMB19.74 billion against a Wall Street estimate of RMB20.50 billion, and R&D expenses increasing 32% to RMB2.91 billion.
+  中文：总结：小鹏汽车的机器人业务通过股份购买协议筹集了超过9亿美元资金，投后估值超过63亿美元，该轮融资由IDG资本领投，高榕资本以及腾讯和阿里巴巴参与。 小鹏计划利用这笔资金为其人形机器人开发硬件和软件、训练具身AI模型、生成数据并建设量产设施，其新一代人形机器人Iron预计在2026年底前进入量产。 初期计划部署在小鹏门店和园区，随后于2027年在中国和海外市场交付，小鹏将保留该机器人业务的控股权。 与此同时，小鹏汽车公布的第二季度调整后亏损扩大且营收未达预期，第二季度营收同比增长8%至197.4亿元人民币，低于华尔街205.0亿元人民币的预期，研发费用则同比增长32%至29.1亿元人民币。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/xpeng-xpev-stock-q2-earnings-humanoid-robot-6-3-billion-valuation/cZYKLlkRJnt)
+
+- **[2026.10.17] ad-hoc-news.de — Ubtech Robotics Ships U1 Humanoids to First Buyers While Lining Up a Cheaper Model**
+  English: Ubtech Robotics has begun placing its U1 humanoid robot in the hands of ordinary customers through small-batch shipments, with Vice President Jiao Jichao confirming deliveries are underway and a cheaper 'Youth Edition' is slated for the fourth quarter of 2026. On October 9, Ubtech signed a strategic partnership with Xiamen C&D Inc. to form a joint venture operating the Fujian headquarters of the UBTECH Ecological Technology Center, aiming to sell at least 10,000 Ubtech humanoid robots by 2030 across state exhibition halls, commercial complexes, and industrial parks. Additionally, Ubtech and FAW-Volkswagen agreed to develop and test embodied-AI robot applications for factory logistics and intelligent manufacturing. Separately, the trustee of the company's H-share incentive scheme bought 80,000 H-shares on October 8 for about HK$5,534,823, lifting the trust's holding to 1,146,950 H-shares.
+  中文：总结：优必选科技已通过小批量出货开始将U1人形机器人交付给普通客户，副总裁焦继超确认交付正在进行中，且更具性价比的“青年版”计划于2026年第四季度推出。 10月9日，优必选与厦门建发集团签署战略合作协议，拟成立合资公司运营优必选生态科技中心福建总部，目标是在2030年前在国家展览馆、商业综合体和产业园售出至少10,000台优必选人形机器人。 此外，优必选与一汽-大众同意合作开发并测试用于工厂物流和智能制造的具身智能机器人应用。 另外，该公司H股奖励计划的受托人于10月8日以约5,534,823港元购入80,000股H股，使信托持股量增加至1,146,950股H股。
+  📰 [ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubtech-robotics-ships-u1-humanoids-to-first-buyers-while-lining-up-a-cheaper-model/70347815)
+
+
+---
+※AI Robot News Digest | 2026.10.19 | full-text items: 20
