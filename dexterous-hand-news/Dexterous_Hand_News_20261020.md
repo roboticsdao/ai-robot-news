@@ -1,0 +1,54 @@
+# 🖐 Dexterous Hand News | 2026.10.20（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.20] Robotics & Automation News — Tesollo robotic hand sales set to surpass 1,000 units in 2026**
+  English: Tesollo, a South Korean robotics company specializing in robotic hands and multi-finger grippers, expects cumulative sales to surpass 1,000 units by the end of 2026. The milestone reflects growing demand across humanoid robotics, physical AI, industrial automation, and research as Tesollo expands its manufacturing capabilities, production infrastructure, and supply systems. The company offers articulated end-effectors ranging from one-finger mechanisms to five-finger dexterous hands, moving from research toward real-world industrial deployments. Tesollo's shareholder base includes institutional and industrial investors such as Samsung Venture Investment, POSCO Technology Investment, HL Mando, Daesung Hi-Tech, and Platinum Technology Investment through Jahwa Electronics, which collaborate on manufacturing and business development. Tesollo has appointed KB Securities as lead underwriter to prepare for a technology-based IPO in South Korea, supported by its growing sales base and expanded infrastructure. CEO Youngjin Kim noted that robotic hands must transition from technical demonstrations into practical products.
+  中文：总结：韩国机器人公司Tesollo专注于机器人手和多指夹爪，预计到2026年底其机器人手和夹爪的累计销量将超过1000台。 这一里程碑伴随着人形机器人、具身智能、工业自动化和机器人研究领域不断增长的需求，同时该公司也在扩大其生产和供应能力以支持全球客户群。 Tesollo提供从单指机构到五指灵巧手的多关节末端执行器产品组合，应用场景已从早期的研究和概念验证扩展到包括工业环境在内的现实部署。 Tesollo的股东基础随着公司发展而演变，早期投资者包括Samsung Venture Investment和POSCO Technology Investment，随后HL Mando和Daesung Hi-Tech通过直接投资普通股成为股东，双方在工业能力方面保持合作。 Platinum Technology Investment也是其投资者之一，其最大股东为韩国电子及精密零部件制造商Jahwa Electronics，Tesollo正与该公司探讨制造和业务开发方面的合作。 Tesollo正准备在韩国进行技术型IPO，并已任命KB Securities为主承销商。 公司首席执行官Youngjin Kim表示，机器人手必须超越技术演示，成为真正可用的产品。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/19/tesollo-robotic-hand-sales-set-to-surpass-1000-units-in-2026/106066/)
+
+- **[2026.10.19] 吉林大学 — 吉大团队！全球最高自由度灵巧手内部精密仿生结构首次公开**
+  中文：总结：吉林大学任雷教授团队基于“仿生拉压体机器人理论与技术”研发出应手Y-Hand M2仿生灵巧手，该成果已在北京达奇月泉仿生科技落地量产并首次公开内部精密仿生结构。 该技术体系打破了传统刚性铰链式设计，重现了三维6自由度自然运动，基于自研磁集电驱人工肌肉技术重现了骨骼肌生物力学特性，并采用仿生刚柔耦合多层级一体化设计。 应手Y-Hand M2拥有38个自由度，其内部机械系统由仿生骨骼与软骨、三维关节曲面和超材料编织韧带系统构成；驱动系统采用YQ Motors系列电机及YQ Muscles人工肌肉模组；传动系统采用肌腱-腱鞘网络系统；感知系统通过多源编码器和力传感器获取触觉与本体感受；控制系统采用类人体神经肌肉的脉冲神经网络、视触觉融合及肌肉本体感受。 经实机测试，该灵巧手在力量、速度、精度、灵活、柔顺五个核心性能上超越传统刚性手，成功完成全部33类类人灵巧操控，成功率达96%，可自适应抓取不同形状和材质的物体，已实现规模化量产并应用于智能制造、航空航天、巡检运维、医疗健康及家政养老等领域。
+  📰 [吉林大学](https://news.jlu.edu.cn/info/1306/62102.htm)
+
+- **[2026.10.19] 具身之家 — 傲意科技亮相广交会 灵巧手与数采解决方案赋能具身智能落地**
+  中文：总结：傲意科技携多项自研产品亮相广交会先进制造专区，集中展示了ROHAND系列灵巧手、OpenArm双臂数采机器人全套解决方案、下肢外骨骼及肌电生物电采集方案。 企业自2017年从假肢手项目起步，已具备规模化量产与大批量交付能力。 ROHAND系列灵巧手在尺寸和动作形态上高度仿真人手，单指工程冗余承载能力最高可达20公斤，高端型号搭载自研3D磁触觉指尖传感器，最低可感知0.1牛的微弱作用力，可实现从大负载稳定抓取到精密装配的精细作业，并支持手势实时复刻与捕捉手套动作同步。 该系列采用梯度化版本布局，其中Lite系列面向1.3米级小型人形机器人，作为消费入门版本定价8888元并开放SDK；此外还展出了面向工业拧螺丝的高适配三指夹爪方案。 针对具身智能大模型训练对真实高质量数据采集的需求，傲意科技展示了OpenArm双臂数采机器人，通过主从遥操作将人的双臂动作实时迁移至机器人本体并沉淀标准化数据集；同时全球首次展示了由头戴模块和肌电腕带组成的轻量化数采方案，可采集人体运动轨迹、深度信息及肌电信号，相关产品已在工业、科研和教育等领域实现规模化量产落地。
+  📰 [具身之家](https://www.jushenhome.com/news_d.php?id=2029)
+
+- **[2026.10.19] THE ELEC, Korea Electronics Industry Media — Infineon Targets Semiconductor Market for Humanoid Robotic Hands**
+  English: Infineon is targeting the market for humanoid robotic hands by applying its industrial and automotive semiconductor expertise, offering microcontrollers, power semiconductors, and tactile sensors. Sarah Wu introduced the company's semiconductor solutions during the 'Semiconductors That Build Humanoids' session at SEDEX 2026 in Seoul on Oct. 16. Robotic hands require precise, independent finger and joint control alongside adjustable gripping force to handle delicate objects, relying on motor-control MCUs, drivers, and sensors. Infineon supports centralized, hybrid, and fully distributed control architectures corresponding to the hand's degrees of freedom. Tactile sensing is achieved through 3D magnetic, pressure, and capacitive sensors adapted from smartphones and home appliances, while the company also explores MEMS microphones to identify object characteristics via sound and vibration. Additionally, Infineon demonstrated a 66-millimeter board equipped with an MCU, gallium nitride power semiconductors, and sensors capable of driving motors up to 1.2 kilowatts. The company noted that gallium nitride enables faster switching and lower power losses than silicon, helping reduce motor-drive circuit size for humanoid robot joints.
+  中文：总结：Infineon正在利用其在工业和汽车半导体领域的专业知识，将目标瞄准作为人形机器人关键组件的机器人手市场，主要提供微控制器（MCU）、功率半导体和触界传感器。 Sarah Wu在10月16日于首尔COEX举行的Semiconductor Exhibition (SEDEX) 2026同期举办的“Semiconductors That Build Humanoids”会议上介绍了公司的机器人半导体解决方案。 人形机器人手必须像人手一样抓取和操作物体，每个手指和关节都需要精确、独立的控制，同时根据处理的物体调整抓握力，这使得手部成为最具开发难度的组件之一。 机器人手需要电机控制和触觉传感技术，其中电机控制MCU和驱动器用于移动手指关节，而传感器则用于检测手指位置和抓握力。 Infineon支持集中式、混合式和完全分布式这三种机器人手控制架构，并能够根据自由度进行适配。 触觉传感依赖于磁性、压力和电容传感器，其中包括安装在指尖的3D磁性传感器和压力传感器，公司还探索使用微机电系统（MEMS）麦克风通过声音和振动识别物体特征。 此外，Infineon展示了一款配备MCU、氮化镓（GaN）功率半导体以及功率和位置传感器的电路板，尺寸约为66毫米，能够驱动高达1.2千瓦的电机。 该公司表示，与硅相比，氮化镓能够实现更快的开关速度和更低的功率损耗，从而帮助减小人形机器人关节处电机驱动电路的尺寸。
+  📰 [THE ELEC, Korea Electronics Industry Media](https://www.thelec.net/news/articleView.html?idxno=14713)
+
+- **[2026.10.17] 搜狐 — 新型“灵巧手”亮相广交会 单指可提近20公斤重物**
+  中文：总结：10月17日，在第140届中国进出口商品交易会现场，参展企业负责人黄俊介绍了一款五指“灵巧手”。 该设备可随操作人员的手势实时复刻抓握动作，动作连贯顺滑，吸引了众多境外采购商围观咨询。 据介绍，该“灵巧手”单根手指能够提起接近20公斤重的物体。 除了大负载能力外，研发团队还在手指内部集成了大量一维传感器，使机器人与物体交互时能够获得类似人类手指的触觉反馈，从而实时调整抓取力度，实现“摘葡萄不碎，剥鸡蛋不破”。
+  📰 [搜狐](https://m.sohu.com/a/1089092484_115239/?pvid=000115_3w_a)
+
+- **[2026.10.16] Robotics & Automation News — Tesla patent reveals touch-sensitive skin for robot hands**
+  English: Tesla has filed a patent for a touch-sensitive skin that can be molded around robot fingers and palms to detect contact, force, and pressure. Published on October 8, patent application US 2026/0310299 A1 describes printing tactile sensors onto flexible materials and heat-forming them into three-dimensional shapes. The sensor uses two flexible substrate layers carrying conductive regions separated by a compressible layer, utilizing capacitive and piezoresistive approaches with materials such as thermoplastic polyurethane, PET, and polyimide. The manufacturing process involves screen printing, laser cutting, conductive paste deposition, and thermoforming. While the filing identifies potential applications in robot fingertips, palms, and end-effectors, it does not explicitly confirm use in the Optimus humanoid robot or provide figures for sensitivity, resolution, or durability.
+  中文：总结：特斯拉提交了一项美国专利申请，涉及一种可塑形于机器人手指和手掌周围的触控感应皮肤，旨在为人形机器人提供一种可扩展的方式来检测接触、力和压力。 该申请编号为US 2026/0310299 A1，于10月8日公开，描述了一种将触控传感器印刷到柔性材料上并热成型为三维形状的制造工艺。 该传感器使用两个带有导电区域的柔性基板层，中间由可压缩层隔开，采用了电容式和压阻式方法，基板材料包括热塑性聚氨酯、PET和聚酰胺。 专利中描述的工艺包括丝网印刷、激光切割、导电浆料沉积和热成型。 尽管该文件未明确指出该技术将用于特斯拉的Optimus人形机器人，但它将机器人指尖、手掌和末端执行器列为潜在应用。 专利情报出版物Patentlyze指出，该文件未提供传感器的灵敏度、分辨率或耐久性数据。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/tesla-patent-reveals-touch-sensitive-skin-for-robot-hands/105999/)
+
+- **[2026.10.16] ロボスタ — ホンダが「アバター」ロボットと多指ハンドを公開 AIで遠隔作業を支援…CEATEC 2026で実演**
+  日本語：Honda showcased its avatar robot at CEATEC 2026, combining a multi-fingered hand with an AI support system to enable remote operations such as tightening engine case screws. Developed over approximately 5 to 6 years since the conclusion of the ASIMO project, the avatar robot aims to project human skills to remote locations like overseas research labs, healthcare, disaster response, and space exploration. The system addresses the lack of sensory feedback in remote operations by using an AI support system to adjust force and movements, reducing the need for precise manual adjustments and mitigating communication delays such as 200ms latencies between Japan and the US or in lunar environments. Honda demonstrated the robot at Makuhari Messe in Chiba City, comparing performance with and without AI support across tasks including picking up screws, using a nutdriver, and applying a torque wrench.
+  中文：总结：本田在CEATEC 2026上展示了“本田·アバターロボット”（Honda Avatar Robot），该机器人结合了类似人手般灵活多动的多指手以及支持操作者的AI支撑系统，并在现场实演了通过远程操作进行发动机箱螺丝紧固的作业。 据本田技术研究所集成技术センターフロンティアロボティクス研究ドメイン的山口皓大称，该项目在ASIMO研发结束后启动，已推进了约5到6年的研发工作。 其目的是将人类的能力传送到远隔地，应用场景设想为医疗、设备维护、灾害应对和宇宙开发等。 针对远程操作中缺乏视觉、触触觉和力觉等信息的课题，本田开发了由AI支撑系统进行力度和动作补偿的机制，以应对日本和美国之间约200ms等通信延迟及月面作业。 在千葉市幕拜メッセ的展会上，本田实演了有无AI支撑系统下的螺丝抓取、螺母起子紧固及扭矩扳手精加工等作业的对比。
+  📰 [ロボスタ](https://robotstart.info/article/2026/10/16/382530.html)
+
+- **[2026.10.16] Robotics & Automation News — ETH Zurich scientists turn WUJI robotic hand into self-propelled mobile manipulator**
+  English: Scientists at ETH Zurich have demonstrated an anthropomorphic robotic hand from WUJI that uses its fingers for both locomotion and manipulation without a separate mobility system. The system can crawl, steer, and recover from falls while performing manipulation tasks like pressing keyboard keys and pushing objects toward targets. Detailed in a paper by Amirhossein Kazemipour, Hehui Zheng, and Robert Katzschmann, the locomotion capabilities were developed using reinforcement learning in simulation calibrated with physical hardware measurements. The hand incorporates onboard power and computation for untethered operation. Additionally, WUJI showcased its WUJI Hand 2 and WUJI Glove at IROS 2026 in Pittsburgh from September 27 to October 1, demonstrating real-time teleoperation to capture human motion for training embodied AI and robotic manipulation models, and providing native device support for Nvidia Isaac Teleop.
+  中文：总结：苏黎世联邦理工学院的科学家展示了一种来自WUJI的人形机械手，该机械手不仅能进行操作，还能将其手指用于移动，从而实现了爬行、从跌落中恢复以及在环境中移动，而无需单独的移动系统。 该研究使用来自灵巧手和远程操作技术开发商WUJI现成的机器人手，由Amirhossein Kazemipour、Hehui Zheng和Robert Katzschmann撰写的论文题为《Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand》。 研究人员利用强化学习开发了移动能力，并在仿真中进行了训练。 该系统集成车载电源和计算能力，可执行按键盘和推动物体等操作。 此外，WUJI在9月27日至10月1日于匹兹堡举行的IROS 2026上展示了WUJI Hand 2和WUJI Glove，用于实时远程操作以收集用于训练具身智能模型的运动和触觉数据，并支持Nvidia Isaac Teleop。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/eth-zurich-scientists-turn-wuji-robotic-hand-into-self-propelled-mobile-manipulator/105991/)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.20 | full-text items: 8
