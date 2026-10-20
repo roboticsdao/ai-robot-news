@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.21（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.20] THE ELEC, Korea Electronics Industry Media — Altera Targets Physical AI Market With FPGAs for Nvidia Sensor Bridge**
+  English: Altera is targeting the physical artificial intelligence market using field-programmable gate arrays designed for Nvidia's Holoscan Sensor Bridge. Discussed by director Lee Nam-hoon at the SEDEX 2026 conference in Seoul, the architecture connects sensors, FPGAs, Ethernet, and GPUs in sequence to improve computational efficiency. The FPGA aggregates data from diverse sensors and handles latency-sensitive operations like positioning, motor control, and image preprocessing before transmitting data directly to Nvidia GPU memory, allowing the GPU to focus on parallel computing and AI inference. Altera offers four FPGA families for the bridge, including Cyclone, Agilex 3, Agilex 5, and Agilex 7.
+  中文：总结：Altera正利用为英伟达Holoscan Sensor Bridge设计的现场可编程门阵列瞄准物理人工智能市场。 Altera总监李南勋在首尔SEDEX 2026会议上讨论了该技术，其架构将传感器、FPGA、以太网和GPU按顺序连接以提高计算效率。 FPGA聚合来自不同传感器的通信数据，并处理定位、电机控制和图像预处理等对延迟敏感的操作，然后将数据直接传输到英伟达GPU内存，使GPU专注于并行计算和AI推理。 Altera为该传感器桥接器提供四个FPGA系列，包括Cyclone、Agilex 3、Agilex 5和Agilex 7。
+  📰 [THE ELEC, Korea Electronics Industry Media](https://www.thelec.net/news/articleView.html?idxno=14720)
+
+- **[2026.10.20] AI Insider — Germany Signs Agreement with Nvidia to Develop Advanced Industrial and Physical AI**
+  English: Germany signed an agreement with Nvidia to develop advanced AI models for industrial and physical AI as part of the federal government's AI Roadmap and Industry 4.0 Platform. The initiative focuses on specialized open industrial AI models based on technologies such as Nvidia Nemotron and Nvidia Cosmos, with the Industry 4.0 Platform serving as a central strategy network. Nvidia will expand its work with German research institutions, industrial companies, and small and midsize businesses. The joint declaration of intent was signed at the Invest in Germany Summit by the Federal Ministry for Economic Affairs and Energy and the Federal Ministry for Research, Technology and Space, with Chancellor Friedrich Merz attending.
+  中文：总结：德国与英伟达签署了一项协议，旨在开发用于工业和物理人工智能的先进AI模型，作为联邦政府人工智能路线图和工业4.0平台的一部分。 该倡议专注于基于英伟达Nemotron和英伟达Cosmos等技术的专用开放式工业AI模型，并将工业4.0平台作为中央战略网络。 英伟达将扩大其与德国研究机构、工业企业以及中小型企业的合作。 该意向书联合宣言在德国投资峰会上由联邦经济和能源部以及联邦研究、技术和空间部签署，德国总理弗里德里希·默茨出席了签字仪式。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/19/germany-signs-agreement-with-nvidia-to-develop-advanced-industrial-and-physical-ai/)
+
+- **[2026.10.20] Robotics & Automation News — Agility Robotics’ new Digit humanoid to work 20 hours a day with Nyobolt fast-charging battery**
+  English: Agility Robotics announced that Nyobolt is the technology provider powering a fast recharge battery system for Digit 5, enabling the humanoid robot to work more than 20 hours in a 24-hour day. Digit 5 features a battery system with 90-minutes of runtime and a 9-minute charge time, achieving a 10:1 run-to-charge ratio. According to Daniel Diez, chief business officer of Agility Robotics, uptime is the business case, and Nyobolt's ultra-fast charging technology prepares Digit 5 for full-scale operation in industrial conditions. Nyobolt CEO Sai Shivareddy stated that the technology was chosen because Digit 5 requires more power from a smaller, lighter pack in reliable environments. Early access to Digit 5 with Nyobolt's battery is expected in the first half of 2027. Additionally, Agility is preparing to become a public company through a business combination with Churchill Capital Corp XI, expected to close in the fourth quarter of 2026 to trade on Nasdaq under the ticker symbol AGLT.
+  中文：总结：Agility Robotics 宣布 Nyobolt 成为其技术供应商，为 Digit 5 人形机器人提供快速充电电池系统，使其能够在 24 小时内工作超过 20 小时。 Digit 5 的新电池系统拥有 90 分钟的运行时间，仅需 9 分钟即可充满，运行充电比从 Digit 4 的 2:1 提升至 10:1。 Agility Robotics 首席商务官 Daniel Diez 表示，机器人的正常运行时间是商业基础，Nyobolt 的超快充电技术使 Digit 5 为全规模运营做好了准备。 Nyobolt 联合创始人兼首席执行官 Sai Shivareddy 表示，该技术因其高可靠性、小尺寸和轻量化而被选中。 配备 Nyobolt 电池技术的 Digit 5 预计将于 2027 年上半年开始提供早期体验。 此外，Agility 正在通过与 Churchill Capital Corp XI 的业务合并准备成为一家上市公司，该合并预计于 2026 年第四季度完成，之后合并后的公司将在纳斯达克上市，股票代码为 AGLT。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/20/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-its-new-humanoid/106087/)
+
+- **[2026.10.20] Telecompaper — Germany cooperates with Nvidia to advance physical AI**
+  English: The German government signed a joint declaration of intent with Nvidia to cooperate on advancing cutting-edge AI models for physical AI. The agreement was signed on the sidelines of the Invest in Germany summit, which was organized by the government to attract investors. Through this agreement, both parties intend to systematically bring industrial AI into widespread use and establish a state-of-the-art industrial AI ecosystem in Europe.
+  中文：总结：德国政府与英伟达签署了一项联合意向声明，双方将合作推进用于物理 AI 的前沿 AI 模型。 该协议是在德国政府为吸引投资者而组织的“投资德国”峰会期间签署的。 通过与英伟达的这项协议，双方旨在系统性地推动工业 AI 的广泛应用，并在欧洲建立最先进的工业 AI 生态系统。
+  📰 [Telecompaper](https://www.telecompaper.com/news/germany-cooperates-with-nvidia-to-advance-physical-ai--1586173)
+
+- **[2026.10.20] Automation World — Q&A: How U.S. Trade Policies Are Reshaping Chinese Robotics Imports**
+  English: U. S. trade policies, tariffs, and supply chain exposure are reshaping how companies evaluate Chinese robotics imports, making geopolitical risk and component sourcing central considerations alongside purchase price and performance. U. S. robot makers still rely heavily on Chinese actuators, motors, and magnets, placing near-term costs on them. Companies are advised to look beyond procurement and analyze the entire technology stack, including classification, tariffs, cybersecurity, data collection, and spare parts availability. Geopolitical and supply chain risks have also become part of the investment thesis for venture firms evaluating robotics companies, alongside underlying technology and market dynamics.
+  中文：总结：美国贸易政策、关税以及供应链风险正在重塑企业评估中国机器人进口的方式，使得地缘政治风险和组件采购与购买价格和性能一起成为核心考量因素。 许多美国机器人制造商仍然依赖中国的执行器、电机和磁铁，这给它们带来了近期的成本压力。 企业被建议停止将此纯粹视为采购决策，而应分析整个技术栈，包括分类、关税、网络安全、数据收集以及备件可用性。 对于评估机器人公司的风险投资机构而言，地缘政治和供应链风险也已成为投资论点的一部分，与底层技术和市场动态并重。
+  📰 [Automation World](https://www.automationworld.com/process/robotics/article/55412744/qa-cybernetix-ventures-fady-saad-shares-how-us-trade-policies-are-reshaping-chinese-robotics-imports)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.20] 中国新闻网 — 探访新疆首家机器人9S中心**
+  中文：总结：10月20日，新疆首家机器人9S中心在乌鲁木齐市正式亮相并吸引民众参观体验。 该中心部署有人形机器人、仿生机器人等智能化硬件设备100余台（套），全面覆盖机器人产品全品类。 现场展示了人形机器人舞蹈展示和足球互动、机器人“远征A3”比爱心、四足机器狗“酷拓D1”与“天狼”跨越障碍、机器人“宇树U3”演奏架子鼓、机器人“加速进化K1”足球射门，以及智能对弈机器人“元萝卜”与市民下象棋等丰富内容。
+  📰 [中国新闻网](https://www.chinanews.com.cn/tp/2026/10-20/10718142.shtml)
+
+- **[2026.10.20] 凤凰网科技 — 宇树科技：人形机器人行业尚处商业化早期，存在估值回归的投资风险**
+  中文：总结：宇树科技股份有限公司于今日发布《股票交易异常波动公告》，显示公司股票在2026年10月16日、10月19日和10月20日连续三个交易日内收盘价格涨幅偏离值累计超过30%，构成股票交易异常波动。 截至2026年10月20日，宇树科技滚动市盈率为388.25倍，高于中证指数有限公司发布的行业最近一个月平均滚动市盈率39.51倍。 公司特别提示，人形机器人行业尚处于商业化早期，技术成熟度、下游市场需求培育及产业链配套能力均存在不确定性，若行业大规模商业化落地进度不及预期，将对营收扩张和业绩释放产生不利影响，并存在估值回归的投资风险。
+  📰 [凤凰网科技](https://tech.ifeng.com/c/8xNnglR4cdY)
+
+- **[2026.10.20] 新浪财经 — 优必选午前涨超8% 牵头起草及参编首批六项人形机器人国标**
+  中文：总结：10月20日至22日上海黄浦江畔举行2026可持续全球领导者大会期间，优必选盘中涨超10%，截至发稿股价上涨8.37%报69.95港元，成交额4.64亿港元。 近日，由优必选牵头起草及参编的首批六项人形机器人国家标准正式发布，并将于2027年4月1日实施，助力关键技术协同发展。 截至目前，优必选已累计参与起草发布73项相关标准，含国际标准4项、国家标准和行业标准42项。 优必选2026年上半年实现总营收12.7亿元，同比增长104.2%，人形机器人整体销量同比上涨268.3%，其中全尺寸具身智能人形机器人收入同比增长1445%、销量同比增长1946.7%。 弗若斯特沙利文报告显示，优必选在全部人形机器人和全尺寸具身智能人形机器人两大核心品类中市占率均居全球第一。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-20/doc-inivvxct6524368.shtml)
+
+- **[2026.10.20] 证券之星 — 宇树科技：人形机器人行业尚处于商业化早期丨公告精选**
+  中文：总结：宇树科技公告称股票连续三个交易日收盘价涨幅偏离值累计超30%，并指出人形机器人行业尚处商业化早期，若大规模商业化不及预期存在估值回归风险。 云南锗业公告第三季度营业收入6.32亿元、净利润1.02亿元，前三季度营业收入13.64亿元、净利润1.76亿元，主要因半导体材料及锗产品销量上升。 天齐锂业预计前三季度归属于上市公司股东的净利润为51.00亿元-60.00亿元，同比增长2735%-3235%，主要受益于锂产品销售均价增长及SQM投资收益。 科森科技公告决定暂缓推进收购展固科技53.26%股权事项（交易金额不超过5亿元），以避免在业绩尚未释放时形成估值偏差。 天岳先进前三季度实现营业收入15.59亿元、归属于上市公司股东的净利润2721.62万元，受益于新能源汽车800V高压平台和AI服务器高压电源等下游需求拉动衬底出货规模增长。
+  📰 [证券之星](https://stock.stockstar.com/IG2026102000035671.shtml)
+
+- **[2026.10.20] 新浪财经 — 宇树科技3天暴涨近30%，机器人ETF大反弹，市场在炒什么？**
+  中文：总结：10月19日，机器人板块逆势走强，机器人ETF易方达上涨4.3%，机器人ETF华夏上涨2.9%。 政策和产业事件集中到来，商务部等九部门发布《关于加快推进科技兴商的意见》，英伟达柏林GTC大会也将物理AI与机器人列为重要议题。 市场关注点正向模型、训练数据和实际部署延伸。 宇树科技股价在10月19日上涨16.15%，总市值重返200亿元，成为板块情绪风向标之一。 截至2026年10月19日，全市场17只机器人主题ETF合计规模约474亿元，但今年以来净值全部下跌。 资金异动主要由产业催化、前期调整和主题轮动共同促成，后续仍需订单和盈利验证。
+  📰 [新浪财经](https://finance.sina.com.cn/cj/2026-10-20/doc-inivwpzi5694242.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.20] Yahoo!ニュース — 国内初の「ロボット遠隔手術」、３０キロ離れた病院を光回線で結ぶ…弘前大「どの地域にも質の高い医療を提供できる」**
+  日本語：日本外科学会と弘前大は、経験豊富な医師が患者から離れた場所でロボットを操作する「遠隔手術」を国内で初めて実施したと発表した。 今年8月から大腸がんの患者5人に行い、トラブルは確認されていないという。 弘前大病院と約30キロメートル離れたつがる総合病院を光回線で結んで行われた臨床研究であり、1例目ではつがる総合病院にいる医師が手術支援ロボット「hinotori」を操って手術をサポートした。 今後さらに5人に手術を行って安全性などを検証し、遠隔手術への公的医療保険の適用を目指す。 研究を主導する袴田健一特任教授は、遠隔実用化によりどの地域にも質の高い医療を提供できるようになると述べている。
+  中文：总结：日本外科学会与弘前大学宣布实施了国内首次由经验丰富的医生在远离患者的地方操作机器人的“远程手术”。 该手术自今年8月起对5名大肠癌患者实施，据称未确认发生故障。 这项临床研究通过光缆连接了弘前大学医院与约30公里外的“津轻综合医院”，在第一例手术中，位于津轻综合医院的医生操作手术支援机器人“hinotori”进行了手术支持。 未来将对另外5名患者实施手术以验证安全性等，并力争将远程手术纳入公共医疗保险。 主导研究的弘前大学特任教授袴田健一表示，远程手术若能实用化，将能够在任何地区提供高质量的医疗服务。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/84f2430c448eb849bc32ce03590e0648b1b8e882)
+
+- **[2026.10.20] LOGISTICS TODAY — 日本AIセンターHD、カゴ車搬送ロボット公開**
+  日本語：日本AIセンターホールディングスは19日、開発パートナーとの連携を強化し、しあわせもの工房が開発したカゴ車搬送ロボット「Noruno Atlas」をプロロジスパーク北本で公開すると発表した。 物流倉庫や工場で使用中のカゴ車や棚を生かし、搬送作業の自動化を目指す。 Noruno Atlasは、既存のカゴ車やキャスター付き棚にロボットが自動でドッキングし、自律走行で搬送することを想定した試作機である。 専用カートへの置き換えやけん引器具の使用を前提とせず、低床・コンパクトな設計により曲がり角での接触リスク低減を図る。 現時点ではマーケティングや技術検証の段階で、一般販売は未定である。
+  中文：总结：日本AI中心控股公司于19日宣布，将加强与开发合作伙伴的合作，并在Prologis Park北本公开由幸福者工房开发的手推笼车搬运机器人“Noruno Atlas”。 该技术旨在利用物流仓库或工厂中正在使用的手推笼车和货架，实现搬运作业的自动化。 “Noruno Atlas”是一款原型机，设想由机器人自动对接现有手推笼车或带脚轮的货架进行自主行驶搬运。 它不以更换专用推车或使用牵引器具为前提，通过低底盘和紧凑设计力求降低转弯时的接触风险。 目前处于市场营销和技术验证阶段，一般销售尚未确定。
+  📰 [LOGISTICS TODAY](https://www.logi-today.com/1012344)
+
+- **[2026.10.19] INTERNET Watch — フィジカルAIの“耳”で状況を音から認識。位置合わせ0.1mm精度でアームロボットがネジ締め…三菱電機が取り組む「安全に動くフィジカルAI」【CEATEC 2026】**
+  日本語：三菱電機は「CEATEC 2026」において、安全に動くフィジカルAIを実現するための取り組みや無人化工場の実現に向けた技術を紹介した。 注目を集めた「タスク汎用音源分離技術（TUSS）」は、単一のAIモデルでプロンプトを指定することにより多様な環境下の音を正確に聞き分ける聴覚認識機能であり、災害現場などで人の声を分離して再生できる。 また、ネジ締め作業を行うアームロボットでは、AIを活用して俯瞰カメラと手元カメラにより0.1mmの精度で位置合わせを行い、熟練作業者と同等レベルでネジ穴を追随して締め付けを行うデモンストレーションを実施した。 さらに、CP Roboticsとのパートナーシップによる小売店舗向け棚出しロボットや、生産ライン改善を支援する各種AIサービスも紹介された。
+  中文：总结：三菱电机在“CEATEC 2026”上介绍了实现安全运行的物理AI相关举措以及面向实现无人化工厂的技术。 备受瞩目的“任务通用声源分离技术（TUSS）”是一种听觉识别功能，能够通过单个AI模型并利用提示词指定，在各种环境下准确辨别声音，例如在灾害现场分离并播放人声。 此外，在进行螺丝紧固作业的机械臂方面，三菱电机进行了示范演示，利用AI通过俯瞰相机和手部相机实现0.1毫米精度的定位，并以与熟练作业人员同等水平追踪螺丝孔进行紧固。 此外，还介绍了通过与CP Robotics合作实现的面向零售店铺的货架上货机器人，以及支持生产线改善的各种AI服务。
+  📰 [INTERNET Watch](https://internet.watch.impress.co.jp/docs/event/2149065.html)
+
+- **[2026.10.19] Newscast.jp — 日本の製造用ロボット市場規模は、年平均成長率（CAGR）15.89%で拡大し、2034年には5万1300台に達する見通し。**
+  日本語：日本の製造業向けロボット市場は2025年の13,600台から2034年には51,300台に拡大し、2026年から2034年までの年平均成長率（CAGR）は15.89%になると予測されている。 IMARCグループの調査レポートによると、労働力不足や高齢化、EV生産への移行が成長の背景にある。 ファナック、安川電機、川崎重工業、ナチなどが主要メーカーとして挙げられ、協働ロボットやSCARAロボットの導入が進んでいる。 AI技術の統合により、プログラミングの簡素化、マシンビジョンを用いた品質検査、ロボットフリートの予知保全が可能になり、製造効率の向上が図られている。 また、ハードウェアやソフトウェアのセグメント、自動車やエレクトロニクスなどのエンドユーザー別分析が含まれている。
+  中文：总结：日本制造业机器人市场规模预计将从2025年的13,600台扩大到2034年的51,300台，2026年至2034年期间的复合年增长率（CAGR）预计为15.89%。 根据IMARC集团的调查报告，劳动力短缺、老龄化以及向电动汽车生产的转型是背后的主要驱动因素。 发条、安川电机、川崎重工和不二越等被列为主要制造商，协作机器人和SCARA机器人的应用正在推进。 人工智能技术的整合实现了编程简化、利用机器视觉的质量检查以及机器人车队的预测性维护，从而提高了制造效率。 此外，报告还包含了硬件与软件等细分领域以及汽车和电子等终端用户的分析。
+  📰 [Newscast.jp](https://newscast.jp/smart/news/1523942)
+
+- **[2026.10.20] CNET Japan — JR東日本、AIロボットでトイレ清掃 10月27日から赤羽駅で**
+  日本語：JR東日本など4社は、10月16日に赤羽駅などでAIロボットやIoTセンサーを活用したトイレ清掃の実証実験を10月27日から2027年1月中旬まで実施すると発表した。 赤羽駅では終電後に「フィジカルAI清掃ロボット」による清掃を試すほか、トイレやごみ箱にIoTセンサーを設置して利用状況を把握する。 また、利用者が二次元コードを読み取って清掃を依頼できる仕組みや、カメラ画像をAIで分析して汚物を検知する検証も行う。 王子駅、十条駅、東十条駅ではセンサーによる状況把握のみを実施する。 この実験はJR東日本、JR東日本商事、ソフトバンクが、JR東日本環境アクセスの駅舎清掃業務を対象に行うものである。
+  中文：总结：JR东日本等四家公司于10月16日宣布，将从10月27日至2027年1月中旬在赤羽站等地开展利用人工智能机器人和物联网传感器的厕所清洁等实证实验。 在赤羽站，除了在末班车后尝试使用“物理AI清洁机器人”进行清扫外，还将在厕所和垃圾桶安装物联网传感器以掌握使用状况。 此外，还将引入用户扫描二维码请求清洁的机制，以及通过人工智能分析摄像头图像来检测污物的验证。 王子站、十条站和东十条站仅实施通过传感器的状况掌握。 该实验由JR东日本、JR东日本商事和软银针对JR东日本环境アクセスの车站清洁业务共同实施。
+  📰 [CNET Japan](https://japan.cnet.com/article/35253745/)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.20] 電波タイムズ — 世界最大のヒューマノイドロボットとフィジカルAI特化の国際会議 5月28日(木)-29日(金)、東京・高輪にて開催**
+  English: Humanoids Summit Inc. will host the Humanoids Summit Tokyo 2026, an international conference dedicated to humanoid robots and physical AI, on May 28-29, 2026, at the Takanawa Gateway Convention Center in Tokyo. This marks the fourth summit, following events in Silicon Valley and London, and the first time it is held in Asia. The conference features opening keynote speeches and live demonstrations by robotics expert Professor Hiroshi Ishiguro of Osaka University, alongside participants from Google DeepMind, Toyota, Panasonic, and over 40 other organizations. Key session topics include commercialization strategies, manufacturing scale, capital allocation, spatial AI, and safety frameworks presented by Cooley LLP and McKinsey & Company.
+  中文：总结：Humanoids Summit Inc. 将于2026年5月28日至29日在东京高轮gateway会议中心举办第四届“Humanoids Summit Tokyo 2026”国际会议，这也是该峰会首次在亚洲举行，专注于人形机器人和物理AI。 大阪大学机器人学教授石黒浩将发表开幕基调演讲并进行Geminoid直播演示，Google DeepMind、丰田、松下等来自美欧亚的机构和企业也将参与。 会议涵盖商业化与部署战略、制造规模与供应链、资本分配、世界模型与空间AI的进展，以及由Cooley LLP和McKinsey & Company带来的安全与监管框架探讨。
+  📰 [電波タイムズ](https://www.dempa-times.co.jp/event-information/47934/)
+
+- **[2026.10.20] AI Insider — Humanoid Robot Pilot by AGCO and Agility Robotics Planned for Kansas Manufacturing Plant**
+  English: AGCO and Agility Robotics signed a commercial agreement to pilot Agility's Digit humanoid robot at AGCO's Hesston, Kansas, manufacturing plant beginning in 2027. Digit will initially handle repetitive and physically demanding production tasks, including sorting and stacking parts and placing totes into storage. AGCO director of manufacturing technology Thomas Enghof stated that the pilot aims to evaluate whether humanoid robots can improve ergonomics and operational efficiency while introducing flexible automation into existing workflows. Agility noted that Digit adapts to changing workflows via AI and is managed through the Agility Arc cloud-based fleet platform, adding AGCO to a customer group that includes Toyota, GXO and Schaeffler.
+  中文：总结：AGCO与Agility Robotics签署了一项商业协议，计划于2027年开始在其位于堪萨斯州黑斯顿的制造工厂试用Agility的Digit人形机器人。 Digit最初将负责零部件分拣、堆叠以及将周转箱放入仓储等重复且体力要求高的生产任务。 AGCO制造技术总监Thomas Enghof表示，该试点旨在评估人形机器人能否在不改变现有设施的情况下引入灵活自动化并提高运营效率。 Agility指出，Digit利用人工智能适应不断变化的工作流程，并通过其Agility Arc云平台进行管理，其客户群还包括丰田、GXO和舍弗勒。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/20/humanoid-robot-pilot-by-agco-and-agility-robotics-planned-for-kansas-manufacturing-plant/)
+
+- **[2026.10.20] CNBC — Peggy Johnson, Agility Robotics CEO: A Fortt Knox Conversation**
+  English: Agility Robotics CEO Peggy Johnson stated in an interview that safety is the gate for humanoid robots, noting that current Digit units stay inside fenced areas while Digit 5, scheduled for release next year, can walk among people. She cited $300 million in booked orders and a manufacturing plant built to produce 10,000 robots a year, addressing a projected gap of 2 million unfilled jobs by 2033. Johnson discussed her career path, which included working at Qualcomm, Microsoft, and Magic Leap after putting herself through San Diego State University.
+  中文：总结：Agility Robotics首席执行官Peggy Johnson在采访中表示，安全是人形机器人的大门，并指出目前的Digit机器人在围栏区域内活动，而计划于明年推出的Digit 5则可以在人群中行走。 她提到已预订的订单价值300 million美元，工厂年产量可达10,000台机器人，以应对她预计到2033年将达到2 million个空缺岗位的劳动力缺口。 Johnson还回顾了自己曾就读圣迭戈州立大学，并在高通、微软和Magic Leap工作的职业经历。
+  📰 [CNBC](https://www.cnbc.com/video/2026/10/20/peggy-johnson-agility-robotics-ceo-a-fortt-knox-conversation.html)
+
+- **[2026.10.20] Quiver Quantitative — YYForce Announces Acquisition of Wearable Data Collection Systems to Advance Humanoid Robotics Development**
+  English: YYForce Inc. announced the acquisition of 20 wearable data collection systems, including head-mounted and wrist-mounted cameras, to support its humanoid robotics development program. The equipment will be deployed in an initiative at Novotel Singapore on Stevens with its housekeeping team to capture first-person perspectives and close-up recordings of routine service tasks such as bed preparation, towel organization, and surface cleaning. CEO Mike Fu stated that the initiative aims to document how experienced staff perform hospitality workflows, creating datasets for robot learning research, vision-language-action models, and task evaluation in compliance with data protection standards.
+  中文：总结：YYForce Inc. 宣布收购20套穿戴式数据采集系统（包括头戴式和腕戴式摄像机），以支持其人形机器人开发项目。 该设备将部署在新加坡史蒂文斯诺富特酒店的客房部团队中，用于拍摄铺床、整理毛巾和表面清洁等日常服务任务的第一人称视角和特写记录。 首席执行官Mike Fu表示，该计划旨在记录有经验的员工如何执行酒店工作流程，从而在符合数据保护标准的前提下，为机器人学习研究、视觉-语言-动作模型及任务评估创建数据集。
+  📰 [Quiver Quantitative](https://www.quiverquant.com/news/YYForce+Announces+Acquisition+of+Wearable+Data+Collection+Systems+to+Advance+Humanoid+Robotics+Development)
+
+- **[2026.10.20] NewzTodays — Companion robots: UBTECH launches realistic humanoid**
+  English: Chinese robotics manufacturer UBTECH started delivering its U1 series of humanoid companion robots in September, with availability at dealerships in China and South Korea. The male and female models measure 183 cm and 168 cm tall, feature silicone skin with detailed features, and are equipped with 88 servo joints for human-like movements. Powered by an on-device AI system using a Rockchip RK3588 processor, the robots maintain eye contact, converse, and respond to over 20 human emotions. UBTECH offers three variants—U1 Lite, U1 Pro, and U1 Ultra—with prices ranging from 119,800 yuan to 990,000 yuan, and has reported over 13,000 orders since its June 30 launch, with a delivery goal of 1,500 to 2,000 units in 2026.
+  中文：总结：中国机器人制造商优必选于9月开始交付其U1系列人形陪伴机器人，目前在中国和韩国的经销商处有售。 男性和女性型号身高分别为183厘米和168厘米，采用带有细致毛孔和指纹等特征的硅胶皮肤，并配备88个伺服关节。 该机器人由搭载瑞芯微RK3588处理器的端侧AI系统驱动，能够保持眼神交流、对话并对20多种人类情绪做出反应。 优必选提供U1 Lite、U1 Pro和U1 Ultra三种型号，售价从119,800 yuan到990,000 yuan不等，自6月30日发布以来订单已超过13,000台，2026年的实际交付目标设定为1,500至2,000台。
+  📰 [NewzTodays](https://newztodays.com/ubtech-begins-delivery-of-realistic-companion-robots/)
+
+
+---
+※AI Robot News Digest | 2026.10.21 | full-text items: 20
