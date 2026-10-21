@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.22（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.21] Marine Insight — U.S. Navy Quadruples AI Robotics Deal To $300 Million To Boost Fleet Readiness**
+  English: The U. S. Navy has expanded its contract with Gecko Robotics, increasing the agreement ceiling from $71 million to $300 million to deploy robotics and AI systems for countering threats in the Indo-Pacific and speeding up ship maintenance. The expanded deal aims to address shipyard delays, labor shortages, and maintenance schedules to reach an 80 percent fleet readiness target. Gecko Robotics utilizes wall-climbing robots to inspect destroyers, amphibious warships, and littoral combat ships for metal loss and corrosion 50 times faster than manual inspections. The data is processed through the company's Cantilever software platform, which helps maintenance teams identify issues early and can save up to 8 million dollars in repair costs per ship. Additionally, Gecko revealed a specialized robot named Komodo designed to scan steel decks beneath non-skid coatings for hidden corrosion without stripping surfaces. CEO Jake Loosararian stated that AI-driven maintenance systems enable the military to outsmart operational bottlenecks and keep vessels combat-ready.
+  中文：总结：美国海军已将与Gecko Robotics的合同上限从7100万美元扩大至3.03亿美元，以部署机器人和人工智能系统来应对印太地区的威胁并加快舰艇维护。 此项扩大的协议旨在应对造船厂延误、劳动力短缺和维护进度问题，以实现80%的舰队战备目标。 Gecko Robotics利用爬壁机器人检查驱逐舰、两栖战舰和濒海战斗舰的金属流失与腐蚀情况，速度比人工检查快50倍。 相关数据输入至公司的Cantilever软件平台，帮助维修团队及早发现问题，每艘舰艇可节省高达800万美元的维修成本。 此外，Gecko推出了一款名为Komodo的专用机器人，用于扫描防滑涂层下的钢制甲板以寻找隐藏腐蚀，且无需剥离表面。 Gecko Robotics首席执行官Jake Loosararian强调，人工智能驱动的维护系统使军方能够克服运营瓶颈并保持舰艇战备状态。
+  📰 [Marine Insight](https://www.marineinsight.com/u-s-navy-quadruples-ai-robotics-deal-to-300-million-to-boost-fleet-readiness/)
+
+- **[2026.10.21] Spherical Insights — SpaceX and Tesla Earnings Test the Commercial Returns of AI, Robotics and Connectivity Investments**
+  English: SpaceX and Tesla are scheduled to report their third-quarter financial results on October 20 and October 21, 2026, respectively, highlighting their investments in Starlink, automotive business, artificial intelligence, robotaxis, and robotics. SpaceX combines launch services, satellite connectivity, and AI infrastructure, while Tesla focuses on electric vehicles, energy storage, autonomous mobility, and humanoid robotics. The earnings announcements occur amid speculation regarding a potential SpaceX-Tesla merger, though neither company has confirmed a transaction. In the second quarter of 2026, SpaceX generated $7.8 billion in revenue with a 92% year-over-year increase, reported a net loss of $541 million, and achieved an adjusted EBITDA of $3.5 billion, driven by AI infrastructure contracts and Starlink demand. Analysts projected third-quarter revenue of approximately $12.74 billion for SpaceX. For Tesla, reported figures included 486,532 vehicle deliveries and 13.7 gigawatt-hours of energy storage deployments for the third quarter, with analysts estimating revenue of approximately $27.88 billion and earnings of $0.43 per share.
+  中文：总结：SpaceX和特斯拉分别计划于2026年10月20日和10月21日公布第三季度财务业绩，重点展示其在星链、汽车业务、人工智能、自动驾驶出租车和机器人领域的投资。 SpaceX结合了发射服务、卫星连接和人工智能基础设施，而特斯拉则以电动汽车为核心业务，并扩展至储能、自动出行和人形机器人。 这两家公司的财报发布正值关于潜在合并的猜测期间，尽管两家公司均未证实该交易。 在2026年第二季度，受人工智能基础设施合同和星链服务需求的推动，SpaceX实现营收78亿美元，同比增长92%，净亏损$541 million，调整后EBITDA为35亿美元。 分析师预计SpaceX第三季度营收约为127.4亿美元。 对于特斯拉，第三季度报告显示交付了486,532辆汽车并部署了13.7吉瓦时的储能，分析师预计第三季度营收约为278.8亿美元，每股收益为0.43美元。
+  📰 [Spherical Insights](https://www.sphericalinsights.com/blogs/spacex-and-tesla-earnings-test-the-commercial-returns-of-ai-robotics-and-connectivity-investments)
+
+- **[2026.10.21] TechCrunch — Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’**
+  English: Amulya Vishwanath, founder and managing partner of Techable Ventures and former Nvidia product marketer, discussed the current state of physical AI on TechCrunch's Equity. Describing the robotics industry as being in its "LEGO era," Vishwanath noted that foundational software and building blocks like robotic hands and actuators are currently being rethought to enable scalable innovation. General- and special-purpose robots are being constructed, and the technology will advance over time, drawing comparisons to the internet era and the Industrial Revolution. Additionally, Vishwanath emphasized that talent remains critical in the U. S. market. Her firm operates as a moat by connecting startup founders with top talent to help them stay competitive against large companies such as Anthropic and Nvidia, leveraging her established network from years of working in the space.
+  中文：总结：Techable Ventures创始人兼管理合伙人、前英伟达产品营销人员Amulya Vishwanath在TechCrunch的Equity节目中讨论了实体人工智能的现状。 Vishwanath将机器人行业描述为处于“乐高时代”，并指出基础软件以及机械手和执行器等构建模块目前正在被重新构思，以实现可扩展的创新。 通用和专用机器人正在建造中，技术将随着时间推移而进步，她将其与互联网时代和工业革命进行了比较。 此外，Vishwanath强调人才在美国市场至关重要。 她的公司通过将初创企业创始人与顶级人才联系起来，帮助他们在面对Anthropic和英伟达等大公司时保持竞争力，以此构建护城河，并利用她多年来在该领域工作建立的网络为创始人提供支持。
+  📰 [TechCrunch](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
+
+- **[2026.10.21] Supply Chain Digital — Audi and NVIDIA Use Agile Robots for Parts Sequencing Trial**
+  English: Audi is collaborating with Agile Robots, Dassault Systèmes, and NVIDIA in a proof-of-concept project at its Ingolstadt plant to automate parts sequencing using mobile humanoid robots. Audi's material supply operations manage approximately one million picks daily, and the trial focuses on picking mixed components and placing them in correct assembly sequences. The project utilizes Audi's production expertise, Agile Robots' mobile humanoid robotics, Dassault Systèmes' DELMIA virtual-twin technology, and NVIDIA's physical-AI libraries. Gerd Walker, Member of the Board of Management for Production and Logistics at Audi, stated the project explores how AI-powered robotics can solve tough picking challenges and unlock productivity. Before deployment, a virtual twin created through Dassault Systèmes' 3DEXPERIENCE platform and NVIDIA Omniverse libraries helps engineers test robot feasibility, cycle times, and ergonomics. Agile Robots, based in Munich and having deployed over 20,000 robotic solutions, provides mobile humanoids featuring dual-arm manipulation and a mobile base to operate within existing factory environments. Dr. Zhaopeng Chen, Founder and CEO of Agile Robots, stated that the partnership demonstrates how mobile humanoids perform critical tasks that were previously impossible to automate.
+  中文：总结：奥迪正与Agile Robots、达索系统和英伟达合作，在其因戈尔施塔特工厂开展一项概念验证项目，使用移动人形机器人实现零件排序自动化。 奥迪的物料供应运营每天管理约一百万次拣选，该试验专注于拣选混合组件并将其按正确的装配顺序放置。 该项目结合了奥迪的生产专业知识、Agile Robots的移动人形机器人技术、达索系统的DELMIA虚拟孪生技术以及英伟达的实体人工智能库。 奥迪生产与物流董事会成员Gerd Walker表示，该项目探索了人工智能驱动的机器人如何解决艰难的拣选挑战并释放生产力。 在部署之前，通过达索系统的3DEXPERIENCE平台和英伟达Omniverse库创建的虚拟孪生帮助工程师测试机器人可行性、周期时间和人体工程学。 总部位于慕尼黑且已部署超过20,000个机器人解决方案的Agile Robots提供了具备双臂操作和移动底盘的移动人形机器人，以便在现有工厂环境中运行。 Agile Robots创始人兼首席执行官陈兆鹏博士表示，该合作展示了移动人形机器人如何执行以前无法自动化的关键任务。
+  📰 [Supply Chain Digital](https://supplychaindigital.com/news/audi-and-nvidia-use-agile-robots-for-parts-sequencing-trial)
+
+- **[2026.10.21] Interesting Engineering — Two-letter trigger makes US robot turn knife toward human hand in security test**
+  English: Researchers at Binghamton University in New York demonstrated how a two-letter trigger can compromise large language models used in robot task planning, forcing a Segway-based mobile robot to direct a knife toward a model human hand instead of an apple. The attack, named MuTRAP, inserts hidden malicious behavior activated by specific triggers. The team also developed a defense system called PROTEA to identify unsafe actions step by step. The findings were presented at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems.
+  中文：总结：纽约宾汉姆顿大学的研究人员展示了双字母触发器如何破坏用于机器人任务规划的大型语言模型，促使基于赛格威的移动机器人将刀指向模型人手而非苹果。 这种名为MuTRAP的攻击会植入由特定触发器激活的隐藏恶意行为。 研究团队还开发了名为PROTEA的防御系统，用于逐步识别不安全动作。 相关研究成果在2026年IEEE/RSJ智能机器人与系统国际会议上进行了展示。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/two-letter-trigger-robot-attack-test)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.21] 新浪财经 — 商演租金暴跌九成！宇树们加码海外，机器人寻觅更大的舞台**
+  中文：总结：国内商演机器人租赁市场价格大幅下跌，在产量增加、竞争加剧以及宇树和智元等官方及半导体平台入局的推动下，人形机器人的全包日租金从过去的高达1万至3万元降至约1000至3000元。 与此同时，宇树科技的人形机器人携手舞者吴宇飞和厚米丝舞团闯入《美国达人秀》第21季总决赛，在国际舞台上引发关注。 此外，智元等企业正与长隆集团等合作，在主题乐园部署具身智能机器人，使文娱科教成为主要的商业出口之一。
+  📰 [新浪财经](https://finance.sina.com.cn/roll/2026-10-21/doc-inivzcqk4889523.shtml)
+
+- **[2026.10.21] 东大新闻网 — 【中国新闻网】百余台智能机器人亮相 首届智能机器人应用技能大展南京站启动**
+  中文：总结：10月20日，“智竞未来——首届智能机器人应用技能大展”南京站在东南大学九龙湖校区启动。 来自全国的51家企业联袂展出了逾100台智能机器人。 活动现场举行了江苏省具身智能机器人行业产教融合共同体揭牌仪式，南京市发布了智能机器人十大应用场景，江宁区智能工业机器人产业集群也在活动上揭牌，共有30个南京机器人合作项目集中签约，总签约金额达到52亿元。 现场展示了戏曲机器人、地砖铺贴机器人、蛇形工业机器人、微型蛇形医疗机器人等前沿科技成果。
+  📰 [东大新闻网](https://news.seu.edu.cn/2026/1021/c5485a587093/page.htm)
+
+- **[2026.10.21] 新浪网 — Optimus量产在即！远不如中国机器人强大，马斯克是最大优势？**
+  中文：总结：特斯拉在年度股东会材料中首次书面确认，第三代人形机器人Optimus已为大规模量产做好了准备，但未公布具体量产时间。 在硬件与软件层面，灵巧手、供应链及具身大脑仍是行业难关，其中供应链方面中国企业起到了关键作用。 中国信息通信研究院人工智能研究所联合多机构发布的《具身智能发展报告（2026年）》（英文版）显示，2026年上半年全球人形机器人出货量超过2.2万台，同比增长接近300%。 特斯拉创始人马斯克预测人形机器人未来数量将大幅增长。
+  📰 [新浪网](https://k.sina.com.cn/article_5952915720_162d249080670518ew.html?from=tech)
+
+- **[2026.10.21] 新浪网 — 宇树科技3天暴涨近30%，机器人ETF大反弹，市场在炒什么？**
+  中文：总结：10月19日，机器人板块逆势走强，机器人ETF易方达上涨4.3%，机器人ETF华夏上涨2.9%。 政策和产业事件集中到来，商务部等九部门公开《关于加快推进科技兴商的意见》，英伟达柏林GTC在10月20日至22日举行。 新剑传动披露的上市审核问询回复显示其具身智能机器人领域丝杠及相关机电执行器总成收入在2025年约3111万元，2026年上半年约1621万元。 截至2026年10月19日，全市场17只机器人主题ETF合计规模约474亿元。 同日，宇树科技收报495.92元，上涨16.15%，总市值重返2000亿元。
+  📰 [新浪网](https://k.sina.com.cn/article_1030341137_3d69c21101901jhpi.html?from=finance)
+
+- **[2026.10.21] 科学网—新闻 — 第七届CCF中国智能机器人学术年会在天津举行**
+  中文：总结：第七届中国计算机学会中国智能机器人学术年会在天津举行，1200余名专家学者及企业家代表参会。 本届年会由CCF主办，CCF智能机器人专业委员会、天津大学人工智能学院承办。 天津大学校长助理刘秀国表示该校2026年9月成立了具身智能研究院。 天津市科技局副局长谭振东介绍天津已将智能机器人列为重点产业链，集聚相关企业200余家，并出台了相关行动方案明确到2028年底核心产值突破200亿元。 大会期间还举行了2026 CCF灵巧操作精英挑战赛颁奖等议程。
+  📰 [科学网—新闻](https://news.sciencenet.cn/htmlnews/2026/10/573362.shtm)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.21] DXマガジン — JR東日本とソフトバンク、駅の清掃にAI・IoT・ロボットを導入！ 赤羽駅など4駅で清掃DXの実証実験へ**
+  日本語：JR東日本、JR東日本商事、ソフトバンクは2026年10月16日、AI・IoT・清掃ロボットを活用した駅舎清掃DXの実証実験を同年10月27日から2027年1月中旬まで実施すると発表した。 赤羽駅、王子駅、十条駅、東十条駅の4駅を対象とし、IoTセンサーでトイレやごみ箱の利用状況を把握する。 中心となる赤羽駅では、二次元コードによるトイレ清掃依頼受付、仮設カメラ画像を用いたAIによる汚物検知、終電後のトイレ内でのフィジカルAI清掃ロボット試験運転を行う。 JR東日本環境アクセスも協力し、取得情報を集約して需要連動型・予兆型清掃への転換を目指す。
+  中文：总结：JR东日本、JR东日本商事和软银于2026年10月16日宣布，将从2026年10月27日至2027年1月中旬实施利用AI、IoT和清洁机器人的车站清扫DX实证实验。 以赤羽站、王子站、十条站和东十条站4个车站为对象，通过IoT传感器掌握厕所和垃圾桶的使用状况。 作为中心的赤羽站还将验证通过二维码受理厕所清扫请求、利用临时摄像头图像由AI检测污物机制，以及在末班车后于厕所内进行物理AI清扫机器人试验运行。 JR东日本环境访问也参与合作，旨在将清扫归纳为需求联动型与预兆型清扫。
+  📰 [DXマガジン](https://dxmagazine.jp/news/ytoda2644-14/)
+
+- **[2026.10.21] Dellows News — 日本のフィジカルAIの勝ち筋議論 GROOVE Xなどロボット3社が討論会**
+  日本語：ロボットベンチャーのGROOVE X株式会社は2026年10月20日、日本のフィジカルAIの勝ち筋をテーマとしたメディア向けラウンドテーブルを開催した。 Preferred Roboticsの礒部達氏は家庭で磨いた技術がBtoBでも強みになると述べ、NEDOのGENIACで移動ロボット基盤モデルを開発中であると語った。 ｕｇｏの松井健氏は継続的学習サイクルやKPI設定の重要性を指摘し、セミヒューマノイド「ugo Nova」を発表した。 GROOVE Xの林要は「関係形成型」ロボットの価値と日本の強みを訴えた。 ファーストライト・キャピタルの頼嘉満氏の進行のもと、米中主導の投資に対する日本の戦い方が議論された。
+  中文：总结：机器人初创公司GROOVE X于2026年10月20日举办了以日本物理AI取胜思路为主题的面向媒体的圆桌会议。 Preferred Robotics代表礒部达表示在家庭环境中磨炼的技术在BtoB领域也成为优势，并提及正在通过NEDO的GENIAC开发移动机器人基盘模型。 ugo代表松井健指出持续学习循环与设定KPI的重要性，并发布了半人形机器人“ugo Nova”。 GROOVE X代表林要阐述了“关系形成型”机器人的价值与日本的优势。 在First Light Capital的赖嘉満主持下，各方探讨了针对美中主导投资加速时日本的应对方式。
+  📰 [Dellows News](https://news.dellows.jp/835874/?from=top_category_area)
+
+- **[2026.10.20] 日経バイオテクONLINE — 製造AIの導入を支援する企業が続々登場、アステラス製薬と安川電機の合弁はロボットAIで細胞製造法開発**
+  日本語：人工知能を活用してワクチンや抗体医薬、細胞医薬などの製造工程を革新させる取り組みを追う特集の第4回。 製薬企業や食品企業の導入事例に続き、共同研究や受託の形でAI開発・導入を支援する企業や研究を紹介している。 アステラス製薬と安川電機の合弁はロボットAIで細胞製造法を開発しており、ファーメランタの大腸菌培養ではエピストラと日立製作所が共同開発を行っている。 記事の大部分は有料会員限定となっている。
+  中文：总结：本报道为追踪利用人工智能革新疫苗、抗体医药及细胞医药等制造工程举措的专题第四期。 继制药企业和食品企业的应用案例之后，介绍了以共同研究或受托形式支持AI开发与引入的企业及研究。 安斯泰来制药与安川电机的合资企业正在通过机器人AI开发细胞制造方法，而PharmaTheca的大肠菌培养则由Epistra和日立制作所共同开发。 文章大部分内容仅限付费会员阅读。
+  📰 [日経バイオテクONLINE](https://bio.nikkeibp.co.jp/atcl/report/16/082400016/042400453/)
+
+- **[2026.10.20] LOGISTICS TODAY — 日本AIセンターHD、カゴ車搬送ロボット公開**
+  日本語：日本AIセンターホールディングスは19日、開発パートナーとの連携を強化し、ししあわせもの工房が開発したカゴ車搬送ロボット「Noruno Atlas」をプロロジスパーク北本で公開すると発表した。 Noruno Atlasは既存のカゴ車やキャスター付き棚にロボットが自動でドッキングし、自律走行で搬送することを想定した試作機である。 専用カートへの置き換えを前提とせず、現場の設備を生かす低床・コンパクト設計で、曲がり角の接触リスク低減を図る。 現在はマーケティングや技術検証段階であり一般販売は未定。 同社は他にもDoogの協働運搬ロボットのカスタマイズなどで連携している。
+  中文：总结：日本AI中心控股于19日宣布将强化与开发合作伙伴的协作，并在普洛斯北本物流园公开由幸福物语工房开发的手推车搬送机器人“Noruno Atlas”。 Noruno Atlas是一款设想由机器人自动对接现有手推车或带轮货架并通过自主行驶进行搬送的试制机。 该机不以更换专用车行为前提，采用利用现场设备的低底盘紧凑设计，力求降低转弯时的接触风险。 目前处于市场营销与技术验证阶段，一般销售尚未确定。 该公司还通过Doog的协作搬送机器人定制等方面展开合作。
+  📰 [LOGISTICS TODAY](https://www.logi-today.com/1012344)
+
+- **[2026.10.19] INTERNET Watch — フィジカルAIの“耳”で状況を音から認識。位置合わせ0.1mm精度でアームロボットがネジ締め…三菱電機が取り組む「安全に動くフィジカルAI」【CEATEC 2026】**
+  日本語：CEATEC 2026の三菱電機グループのブースでは、現場ナレッジやデータと共創で生み出す「安全に動くフィジカルAI」に関する体験型展示や社外共創事例が紹介された。 デジタル基盤「Serendie」を活用し、自律的な判断で物理世界を理解する取り組みが示された。 執行役員の岡田祐氏は、現場の状況認識、推論、行動、学習を繰り返して価値を高める同社の特徴を語った。 総務大臣賞を受賞した「フィジカルAIの耳」であるタスク汎用音源分離技術（TUSS）は、プロンプトで指定した目的の音を単一のAIモデルで分離・抽出でき、災害時の人声認識などに活用できる。 また、アームロボットが俯瞰カメラや手元カメラにより0.1mmの精度で位置合わせしてネジ締めを行うデモや、CP Roboticsとのパートナーシップによるコンビニ等の棚出しロボット、さらに生産ライン改善サービスなどの自律型無人化工場に向けたアプリケーション群も披露された。
+  中文：总结：在CEATEC 2026的三菱电机集团展位上，介绍了旨在实现“安全运转的物理AI”的体验型展示及社内外共创案例，主题为通过现场知识与数据共创产生新价值。 三菱电机数字创新事业本部AX创新中心副中心长 Okada Yu 表示，其物理AI具备理解现场状况并付诸行动的特征。 获得总务大臣奖的“物理AI的‘耳’”任务通用声源分离技术（TUSS），可通过提示词从混合音中分离出目标声音。 此外，展会还演示了配备手部摄像头的机械臂以0.1mm精度进行螺丝紧固的作业、与CP Robotics合作的货架补货机器人，以及用于实现自动化工厂的生产线改善服务等应用群。
+  📰 [INTERNET Watch](https://internet.watch.impress.co.jp/docs/event/2149065.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.21] Interesting Engineering — Video: New humanoid home robot promises to find lost items and tidy messy rooms**
+  English: Tuesday Labs has opened reservations for the Voxel Series-1, a bipedal home robot designed to help with everyday tasks such as finding misplaced items, tidying living spaces, and watering plants. The New York-based robotics lab is offering reservations for $200, with an estimated retail price of around $20,000 when deliveries begin in 2028. Voxel features articulated arms, a vision system combining stereo RGB and wide-field cameras, and Z-shaped legs with backward-bending knees. The robot's movements are developed using 3D animation models and machine learning to help it navigate indoor environments, recognize objects, and maintain balance.
+  中文：总结：Tuesday Labs开放了双足家用机器人Voxel Series-1的预订，该机器人旨在协助寻找错放物品、整理生活空间和给植物浇水等日常家务。 这家总部位于纽约的机器人实验室将预订价格定为200美元，预计在2028年开始交付时的售价约为20,000美元。 Voxel配备了关节手臂、结合了立体RGB相机和广角相机的视觉系统，以及带有后弯膝盖的Z形腿。 该机器人的动作是通过3D动画模型和机器学习开发的，以帮助其在室内环境中导航、识别物体并保持平衡。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/voxel-humanoid-robot-to-find-lost-items)
+
+- **[2026.10.21] Yahoo Finance — Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin**
+  English: Nvidia debuted its OpenShell Reference Architecture at the GTC Berlin event in Germany on Wednesday, designed to allow customers to build, contain, and observe AI agents. The setup runs AI models on Nvidia's Vera Rubin system, with agent software on Vera CPUs, and BlueField-4 data processing units acting as security guards to block unauthorized actions within milliseconds. Nvidia CEO Jensen Huang stated that AI capability and safety must advance together. Additionally, Nvidia collaborated with Agile Robots on a humanoid robot reference design named Agile One SN, a 4.59-foot-tall robot running on Nvidia Isaac GR00T software and the Jetson Thor computer to help developers build general-purpose robot brains.
+  中文：总结：英伟达周三在德国柏林GTC大会上推出了OpenShell参考架构，旨在允许客户构建、包含和观察AI智能体。 该设置在英伟达的Vera Rubin系统上运行AI模型，智能体软件运行在Vera CPU上，BlueField-4数据处理单元则充当安全卫士，在毫秒内阻止未经授权的操作。 英伟达首席执行官黄仁勋表示，AI能力和安全性必须同步推进。 此外，英伟达与Agile Robots合作推出了名为Agile One SN的人形机器人参考设计，这是一款高4.59英尺的人形机器人，运行于英伟达Isaac GR00T软件和Jetson Thor计算机之上，旨在帮助开发者构建通用机器人大脑。
+  📰 [Yahoo Finance](https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html)
+
+- **[2026.10.21] KuCoin — MoE Bot Launches Its First Consumer-Grade Family Companion Humanoid Robot, 'Moka'**
+  English: The 2026 MoJia Robotics global launch event took place in Wuhu, Anhui, where General Manager Zhang Guibing stated the company has sold over 3,000 units globally across more than 60 countries. Operating under the Chery Group, MoJia Robotics officially launched its consumer-grade home companion humanoid robot, 'MoBao,' and opened global pre-orders. MoBao stands 0.9 meters tall, features 22 degrees of freedom, and supports interaction in over 20 languages. The robot provides children with Q&A, stories, and English interaction, and offers elderly family members daily conversation and personalized reminders using family member recognition and long-term memory across a closed perception, decision-making, execution, and feedback loop.
+  中文：总结：2026年墨家机器人全球新品发布会在安徽芜湖举行，总经理张贵兵表示公司已在全球60多个国家和地区累计销售超过3,000台设备。 作为奇瑞集团旗下的企业，墨家机器人正式发布了首款消费级家庭陪伴人形机器人“墨宝”，并同步开启全球预订。 墨宝身高0.9米，拥有22个自由度，支持20多种语言交互。 该机器人能为儿童提供问答、故事和英语互动，并通过家庭成员识别与长期记忆，为老年家庭成员提供日常对话和个性化提醒，形成了感知、决策、执行与反馈的闭环。
+  📰 [KuCoin](https://www.kucoin.com/news/flash/moe-bot-launches-first-consumer-grade-family-companion-humanoid-robot-moka)
+
+- **[2026.10.19] PR Newswire — Government of Ras Al Khaimah and UBTECH Robotics Sign Strategic MoU to Advance Humanoid Robotics Research and Climate Testing**
+  English: The Government of Ras Al Khaimah and UBTECH Robotics signed a strategic Memorandum of Understanding witnessed by UAE Supreme Council Member and Ruler of Ras Al Khaimah, Sheikh Saud bin Saqr Al Qasimi. The agreement establishes a framework to test, demonstrate, and deploy humanoid robotic systems across industrial assembly, public-facing services, elder care, and cultural tourism. The partnership explores launching the Ras Al Khaimah Humanoid Robotics Climate Research Initiative to leverage the Emirate's environmental conditions for validating robotic performance. UBTECH will deploy its humanoid robots and engineering teams to conduct live demonstration projects, reinforcing the Emirate's position as a sandbox for high technology.
+  中文：总结：哈伊马角政府与优必选科技签署了战略谅解备忘录，阿联酋最高委员会成员兼哈伊马角酋长谢赫·沙特·本·萨格尔·阿卡西米见证了签约仪式。 该协议建立了一个框架，用于在工业装配、公共服务、养老护理和文化旅游等场景中测试、演示和部署人形机器人系统。 该合作伙伴关系探讨发起哈伊马角人形机器人气候研究倡议，利用该酋长国的环境条件来验证机器人性能。 优必选将部署其人形机器人和工程团队开展现场演示项目，巩固该酋长国作为高科技沙盒的地位。
+  📰 [PR Newswire](https://www.prnewswire.com/apac/news-releases/government-of-ras-al-khaimah-and-ubtech-robotics-sign-strategic-mou-to-advance-humanoid-robotics-research-and-climate-testing-302912145.html)
+
+- **[2026.10.21] Chosunbiz — Battery swap and fast charge race to boost humanoid uptime, McKinsey says - CHOSUNBIZ**
+  English: Global humanoid robot battery development is splitting into rapid swapping and fast charging to address operating time limits, according to a recent McKinsey report. Hyundai Motor Group's Boston Dynamics applied automatic battery swapping to its Atlas humanoid, allowing it to swap batteries in 3 minutes after working up to 4 hours, with deployment planned for a U. S. plant in 2028. Chinese company UBTECH also adopted battery swapping for its Walker S2 industrial humanoid. Conversely, Agility Robotics selected Nyobolt for ultra-fast charging on its Digit 5 humanoid, which recharges in 9 minutes after 90 minutes of work. Figure AI applied fast charging and wireless soles to Figure 03. Professor Choi Byung-ho noted that battery technology needs further development to achieve 24-hour operation.
+  中文：总结：根据麦肯锡的最新报告，全球人形机器人电池开发正分化为快速换电和快速充电两条路径，以解决运行时间限制问题。 现代汽车集团的波士顿动力在其Atlas人形机器人上采用了自动换电方法，使其在工作长达4小时后能在3分钟内完成换电，计划于2028年部署在一家美国工厂。 中国企业优必选也在其Walker S2工业人形机器人上采用了换电方法。 相反，Agility Robotics选择Nyobolt为其Digit 5人形机器人提供超快充技术，该机器人在工作90分钟后可在9分钟内充满电。 Figure AI则将快充和无线充电鞋底应用于Figure 03。 韩国大学机械工程系教授崔炳浩指出，要实现24小时运行，电池技术仍需进一步发展。
+  📰 [Chosunbiz](https://biz.chosun.com/en/en-industry/2026/10/21/2MPCGEGWF5FWJMNMZADA736ZFA/?outputType=amp)
+
+
+---
+※AI Robot News Digest | 2026.10.22 | full-text items: 20
