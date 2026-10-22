@@ -1,0 +1,53 @@
+# 🖐 Dexterous Hand News | 2026.10.22（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.21] 广州日报新花城 — 灵巧手、外骨骼齐亮相！全球科创项目汇聚南沙，2026广州科技创新创业大赛全球赛决赛举行**
+  中文：总结：10月21日，2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛决赛在广州南沙举行。 本次大赛首次升级为全球赛，共征集441个海内外科创项目，同比增长20.8%，覆盖人工智能、高端装备等赛道。 来自上海临界点智能创新科技的“高性能仿人五指灵巧手”项目夺得一等奖并晋级全国总决赛。 同期举办的创业嘉年华上展出了可搬运最高28公斤重物的腰背助力外骨骼，该产品定价约为人民币2.6—2.7万，计划年底推向市场。 广州市科学技术局局长谢明表示，广州将构建全链条服务闭环，全方位助力项目落地。 香港科技大学协理副校长金信哲博士及大赛负责人卢志强出席并介绍了相关成果与引才举措。
+  📰 [广州日报新花城](https://huacheng.gz-cmc.com/pages/2026/10/21/be5b0aa2c6d7443abce8a05559cfeb03.html)
+
+- **[2026.10.21] 新浪财经 — 五指灵巧手、LNP等技术获奖，广州向海内外创新项目释放吸引力**
+  中文：总结：本届大赛升级为全球赛，项目招募覆盖30多个国家和地区。 上海临界点创新智能科技有限公司的“高性能仿人五指灵巧手”项目获得一等奖，该公司成立于2026年1月，已完成三轮融资，估值超1亿美元，2026年Q1季度全球灵巧手市占率第一，营业额超1亿元，纳税超10万元。 惠正奇医药（广州）有限公司的“enCureLip：新创新自研缓释型LNP”与澳大利亚Fold AI公司的项目获得二等奖。 自2022年起，赛事累计吸引近1300家港澳台地区优质科创企业参赛，助力企业获得4.2亿元投融资支持。 广州市科学技术局局长谢明表示广州将打造开放平台助力项目落地。
+  📰 [新浪财经](https://finance.sina.com.cn/roll/2026-10-21/doc-inivzcqc5377763.shtml)
+
+- **[2026.10.21] 搜狐网 — 人形机器人灵巧手难点在哪？这款微型电机攻坚狭小驱动难题**
+  中文：总结：人形机器人微型电驱厂商贝塞默（Bessemer Tech）面向全球推出TF-20微型横向磁通电机，瞄准机器人灵巧手等紧凑微型驱动场景，目前已完成实体样机进入性能测试与系统集成验证阶段。 贝塞默（上海）科技有限公司成立于2025年8月。 联合创始人兼CEO唐菲菲指出人形机器人灵巧手面临空间极度受限、输出能力与体积矛盾、散热与连续工作能力不足、系统集成与可靠性要求高等四大挑战。 TF-20产品外径20mm、机身长度22mm，额定转矩12mN·m、最大转矩25mN·m。 该电机基于横向磁通技术路线，通过三维磁路、软磁复合材料（SMC）模块化定子、高极数转子与高槽满率内出线绕组四项关键技术协同设计，解决微型尺度工程难题。 贝塞默正开发更小型的产品以适应小型化需求。
+  📰 [搜狐网](https://www.sohu.com/a/1090664668_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.21] openPR.com — Dexterous Robotic Hand Market to Reach USD 4.84 Billion by 2035, Growing from USD 410 Million in 2025 - SRI**
+  English: According to a report by Strategic Revenue Insights Inc. and lead analyst Anirudh Singh, the Dexterous Robotic Hand market was valued at USD 410 million in 2025 and is projected to reach USD 4.84 billion by 2035, growing at a CAGR of 28.0%. The research methodology combines primary interviews with stakeholders and secondary data. Growth is driven by the humanoid robotics race adding 7.0 percentage points, component cost reduction at 6.0 percentage points, labor shortages at 5.0 percentage points, and AI grasping models at 4.0 percentage points. Market restraints include high initial costs reducing CAGR by 4.0 percentage points and regulatory challenges subtracting 3.0 percentage points. By degrees of freedom, 6 to 12 DoF holds a 35% share while Above 20 DoF is the fastest-growing at a 31.5% CAGR. Electric Motor-Driven actuation leads at 40% with a 29.6% CAGR. Tactile Sensing leads sensing at 35%. Humanoid Robots is the largest application at 30% with a 30.3% CAGR. Asia Pacific is the largest regional market with a 35% share in 2025 and a 30.2% CAGR. Profiled participants include Unitree Robotics, Shadow Robot Company, UBTech Robotics, Tesla, Inspire Robots, and Agility Robotics.
+  中文：总结：根据Strategic Revenue Insights Inc. 及首席分析师Anirudh Singh发布的报告，具身灵巧手市场规模在2025年为USD 410 million，预计到2035年将达到USD 4.84 billion，复合年增长率为28.0%。 研究方法结合了利益相关者的初一级访谈与次一级数据。 市场增长由人形机器人竞赛（贡献7.0个百分点）、组件成本降低（6.0个百分点）、劳动力短缺（5.0个百分点）以及AI抓取模型（4.0个百分点）驱动。 市场限制包括高昂初始成本（扣除4.0个百分点）与监管挑战（扣除3.0个百分点）。 在自由度方面，6至12 DoF占35%份额，20 DoF以上以31.5%的复合年增长率增长最快。 电动机驱动占40%且以29.6%的复合年增长率领先。 触觉传感占35%。 人形机器人应用占30%且复合年增长率为30.3%。 亚太地区占35%份额并在2025年成为最大的区域市场，复合年增长率为30.2%。 报告提及的企业包括Unitree Robotics、Shadow Robot Company、UBTech Robotics、Tesla、Inspire Robots和Agility Robotics。
+  📰 [openPR.com](https://www.openpr.com/news/4667426/dexterous-robotic-hand-market-to-reach-usd-4-84-billion-by-2035)
+
+- **[2026.10.20] Menafn — Tesollo Robotic Hand Sales Set To Surpass 1,000 Units In 2026**
+  English: Tesollo develops and manufactures articulated robotic hands and grippers for industrial automation, robotics research, AI learning, and humanoid robotics. In 2026, Tesollo expanded its production facilities and upgraded manufacturing infrastructure covering assembly, inspection, quality control, and shipment. The company offers portfolios from one-finger mechanisms to five-finger dexterous hands. Based on its current sales trajectory, Tesollo expects cumulative sales of robotic hands and grippers to exceed 1,000 units by the end of 2026. Samsung Venture Investment and POSCO Technology Investment invested in Tesollo earlier, while HL Mando and Daesung Hi-Tech joined as shareholders through direct equity investments. Platinum Technology Investment is also an investor, and Jahwa Electronics is the largest shareholder of Platinum Technology Investment, with Tesollo discussing cooperation with Jahwa Electronics. Tesollo has appointed KB Securities as its lead underwriter and is proceeding with preparations for a technology-based IPO in South Korea. CEO Youngjin Kim noted that robotic hands must transition from technical demonstrations to reliably supplied products of consistent quality.
+  中文：总结：Tesollo开发并制造用于工业自动化、机器人研究、AI学习和人形机器人的关节式机器人手和夹爪。 2026年，Tesollo扩大了生产设施并升级了涵盖组装、检查、质量控制和发货的制造基础设施。 该公司提供从单指机构到五指灵巧手的产品组合。 基于当前的销售轨迹，Tesollo预计到2026年底，机器人手和夹爪的累计销量将超过1,000台。 三星风险投资（Samsung Venture Investment）和浦项科技投资（POSCO Technology Investment）在早期进行了投资，而HL Mando和Daesung Hi-Tech则通过直接股权投资成为股东。 Platinum Technology Investment也是投资方，而韩国电子及精密元件制造商Jahwa Electronics是该公司最大的股东，Tesollo正与Jahwa Electronics探讨制造和业务发展合作。 Tesollo已任命KB Securities为其主承销商，并正在韩国推进技术型首次公开募股（IPO）的筹备工作。 首席执行官Youngjin Kim表示，机器人手必须超越技术演示，成为能够以稳定质量重复制造并可靠供应给客户的产品。
+  📰 [Menafn](https://menafn.com/1111834564/Tesollo-Robotic-Hand-Sales-Set-To-Surpass-1000-Units-In-2026)
+
+- **[2026.10.19] THE ELEC, Korea Electronics Industry Media — Infineon Targets Semiconductor Market for Humanoid Robotic Hands**
+  English: Infineon is targeting the market for robotic hands in humanoid robots using its industrial and automotive semiconductor solutions, such as microcontrollers, power semiconductors, and tactile sensors. At a session held alongside SEDEX 2026 in Seoul on Oct. 16, Sarah Wu introduced Infineon's robotics solutions. Robotic hands require precise motor control and tactile sensing, which are challenging to develop due to the need for independent joint control and variable gripping force. Infineon supports centralized, hybrid, and fully distributed control architectures depending on the hand's degrees of freedom. Tactile sensing relies on magnetic, pressure, and capacitive sensors, adapting smartphone and home appliance technologies, and exploring MEMS microphones to identify objects through sound and vibration. Infineon also demonstrated a board with an MCU, GaN power semiconductors, and sensors capable of driving motors up to 1.2 kilowatts within 66 millimeters, noting that GaN helps reduce the size of motor-drive circuits.
+  中文：总结：英飞凌正凭借其在工业和汽车半导体领域的专业知识，将目标瞄准人形机器人关键组件机器人手部市场，其核心产品包括微控制器、功率半导体和触界传感器。 10月16日，在首尔COEX举办的SEDEX 2026期间举行的“构建人形机器人的半导体”专题会议上，英飞凌代表Sarah Wu介绍了公司的机器人半导体解决方案。 人形机器人手部必须像人手一样抓取和操控物体，每个手指和关节都需要精确的独立控制，并且要根据处理的物体调整握力，这使其成为最难开发的组件之一。 机器人手部需要电机控制和触觉传感技术，其中电机控制MCU和驱动器用于移动手指关节，传感器用于检测手指位置和抓取力。 英飞凌通过工业和汽车半导体产品支持这些技术。 机器人手部控制架构分为集中式、混合式和完全分布式三种，英飞凌解释称架构取决于手部的自由度，且公司可以支持这三种架构。 触觉传感依赖于磁性、压力和电容传感器，安装在指尖的三维磁传感器和压力传感器用于测量接触压力，电容传感器用于检测手指位置和指尖施加的力。 英飞凌已将此前用于智能手机和家用电器的技术调整用于机器人手部，并在探索使用微机电系统麦克风通过声音和振动来识别接触手部的物体特征。 英飞凌还展示了一块配备MCU、氮化镓功率半导体以及功率和位置传感器的电路板，能够驱动功率高达1.2千瓦的电机，尺寸约为66毫米。 由于氮化镓的开关速度更快且功率损耗比硅更低，英飞凌表示氮化镓技术有助于减小电机驱动电路的尺寸。
+  📰 [THE ELEC, Korea Electronics Industry Media](https://www.thelec.net/news/articleView.html?idxno=14713)
+
+- **[2026.10.19] 霞光社 — 7金4银3铜！临界点携量产灵巧手首战世界人形机器人运动会，覆盖全部8个赛项**
+  中文：总结：第二届世界人形机器人运动会首次设立灵巧手专项赛，平均每项报名51支队伍，晋级决赛仅7至17支。 首次参赛的临界点携量产产品OmniHand拿下7金4银3铜，覆盖全部8个赛项，成为该专项赛获得金牌最多的参赛方。 这14枚奖牌均来自同一款未做硬件改装的OmniHand，从精细夹取、粉末称量到工具使用、线缆连接均登上领奖台，其中7项夺金，验证了量产灵巧手的通用性、稳定性和可靠性。 OmniHand并非自由度最高或特调样机，却在训练、预赛到决赛的高强度使用中经受了全场考。 例如在粉末称量项目中，武汉大学智元联合赛队备赛三多周且几乎每天从上午训练到深夜，期间未更换灵巧手也未出现硬件损坏。 OmniHand不仅硬件能力经得住考验，还拿下了镊子夹豆、积木搭建、粉末沉量3个自主项目的冠军，其中前两项由临界点自研自主方案完成，粉末称量冠军则来自武汉大学团队自主开发算法的联合赛队。 这证明OmniHand不仅能承接临界点自己的算法，也能为不同团队的自主方案提供稳定精准的硬件基础。 随着人形机器人从能运动走向会操作，一双能稳定完成不同任务的手已成为必答题。
+  📰 [霞光社](https://xiaguangshe.com/en/15479/)
+
+- **[2026.10.16] Robotics & Automation News — Tesla patent reveals touch-sensitive skin for robot hands**
+  English: Tesla has filed a US patent application, US 2026/0310299 A1, published on October 8 and brought to light by Patentlyze, for a touch-sensitive skin that can be molded around robot fingers and palms to detect contact, force, and pressure at scale. The manufacturing process involves printing tactile sensors onto flat, flexible materials before heat-forming them into 3D shapes. The proposed sensor uses two flexible substrate layers with conductive regions separated by a compressible layer, forming sensing points where regions overlap. The patent describes capacitive and piezoresistive approaches and lists thermoplastic polyurethane, PET, and polyimide as substrate materials. Emphasizing manufacturability, Tesla describes screen printing, laser cutting, conductive paste deposition, and thermoforming processes. The 3D tactile sensors can conform to curved geometries and measure surface force, touch, and pressure. While the filing does not specify use in the Optimus humanoid robot, it identifies fingertips, palms, and end-effectors as potential applications. Patentlyze noted that the filing lacks figures for sensitivity, resolution, or durability, but the patent indicates Tesla's work on hardware for sophisticated manipulation capabilities.
+  中文：总结：特斯拉提交了一项美国专利申请，即10月8日公布并经专利情报出版物Patentlyze分析的US 2026/0310299 A1号专利，内容涉及一种可模压在机器人手指和手掌周围的触觉敏感皮肤，为人形机器人提供了一种可扩展的检测接触、力和压力的方法。 该专利描述了一种制造工艺，即将触觉传感器印刷到扁平的柔性材料上，然后热成型为三维形状。 特斯拉提出的传感器使用两个带有导电区域的柔性基板层，中间由可压缩层隔开，在导电区域重叠处形成能够检测压力引起的变化的感应点。 该专利描述了电容式和压阻式方法，并列举了热塑性聚氨酯、PET和聚酰胺作为可能的基板材料。 该申请强调了可制造性，描述了丝网印刷、激光切割、导电浆料沉积和热成型等成熟制造工艺，使得触觉表面能够大规模生产。 该申请称三维触觉传感器可以贴合曲面几何形状，用于测量表面力、触觉和压力。 尽管该文件未明确指出该技术将用于特斯拉的Optimus人形机器人，但它将机器人指尖、手掌和末端执行器列为潜在应用。 Patentlyze指出该文件未提供传感器的灵敏度、分辨率或耐用性数据，因此其实际性能尚无法评估，但该专利表明了特斯拉在赋予机器人更复杂的操控能力所需硬件方面的工作。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/tesla-patent-reveals-touch-sensitive-skin-for-robot-hands/105999/)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.22 | full-text items: 8
