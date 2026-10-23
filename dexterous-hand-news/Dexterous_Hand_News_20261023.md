@@ -1,0 +1,53 @@
+# 🖐 Dexterous Hand News | 2026.10.23（金曜日 / Friday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.22] ZAKER新闻 — “创@广州”赛事收官，高性能仿人五指灵巧手夺冠- 21世纪经济报道**
+  中文：总结：10月21日，2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛决赛在广州南沙举行。 本次大赛共征集441个优质科创项目，涵盖人工智能、高端装备制造、生物医疗科技、新材料等领域。 经过多轮角逐，“高性能仿人五指灵巧手”项目夺得一等奖，率先晋级香港科技大学百万奖金创业大赛全国总决赛。 本届大赛由广州市科学技术局与香港科技大学联合主办，广州市香港科大霍英东研究院、广州科技进步基金会共同承办。 赛事现金奖励总额达200万元，获奖项目团队还可获得云算力资源、工商财税服务等综合配套支持。 决赛同日还举办了Nansha Ignite 2026创业嘉年华，推动优质项目、人才与资本落地广州。
+  📰 [ZAKER新闻](https://app.myzaker.com/news/article.php?pk=6ad9bfb68e9f0944c756fdde)
+
+- **[2026.10.22] Robotics & Automation News — Robotiq launches the 2FC physical AI gripper**
+  English: Robotiq has launched the 2FC physical AI gripper, a production-ready adaptive gripper featuring tactile sensing and embedded intelligence. Designed to help robots learn from physical interaction, the 2FC captures synchronized, contact-rich data including pressure, vibration, proprioception, force, position, and current. Powered by Contact Core software and an AI Hub located at the wrist, the gripper runs grasp skills locally and in real time, emitting labeled events rather than raw signals. Rated for 2 million cycles, the gripper supports both parallel and encompassing grasps, and existing owners of Robotiq 2F grippers can upgrade using TSF tactile sensors and the AI Hub. Pre-orders are open now in 85 mm and 140 mm versions, with shipping scheduled to begin in Q1 2027.
+  中文：总结：Robotiq发布了2FC物理AI夹爪，这是一款配备触控感知与嵌入式智能的量产自适应夹爪。 该夹爪旨在帮助机器人从物理交互中学习，能够捕获包括压力、振动、本体感受、力、位置和电流在内、经时间戳同步且富含接触信息的丰富数据。 依托腕部的计算单元AI Hub及物理AI软件Contact Core，该夹爪可在本地实时运行抓取技能，输出标注事件而非仅输出原始信号。 2FC额定循环寿命为2万次，支持平行抓取和包络抓取，现有Robotiq 2F夹爪用户可通过添加TSF触觉传感器和AI Hub进行升级。 该产品提供85 mm和140 mm行程版本并于今日开启预售，计划于2027年第一季度开始发货。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/22/robotiq-launches-the-2fc-physical-ai-gripper/106191/)
+
+- **[2026.10.22] 新浪财经 — 兆威机电盘中涨超20% 公司布局灵巧手打开市场空间**
+  中文：总结：兆威机电盘中涨超20%，截至发稿股价上涨16.18%，现报32.74港元，成交额1.09亿港元。 特斯拉在提交致股东年度报告材料中表示，Optimus第三代已为大规模量产做好准备，马斯克重申公司将把重心放在机器人与人工智能领域。 华兴证券研报指出，兆威机电将机器人业务划分为整手、代工及模组三类，重点聚焦微型传动驱动，主攻机械手与灵巧手。 公司2025年机器人相关收入约2，387万元，其中90%以上来自零部件及模组销售。 公司预计2026年机器人业务收入有望翻倍达到4000–5000万元，并瞄准2027年收入突破1亿元。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwaezw4853841.shtml)
+
+- **[2026.10.22] TrendForce — Dexterous Hands: A US$6 Billion Market**
+  English: Elon Musk notes that building human-like robot hands is exceptionally difficult, and TrendForce research indicates that Tesla's pursuit of near-human dexterity makes manufacturing the toughest bottleneck for Optimus, with hand assembly still relying heavily on manual processes. Dexterous hands are critical end-effectors that determine whether humanoid robots can transition from demonstrations to real-world tasks, and are projected to account for 20% to 30% of a humanoid robot's total hardware cost. TrendForce projects global humanoid robot sales will exceed 2 million units by 2030, driving the dexterous hand market to approximately US$6 billion. Capital is actively flowing into the sector; as of the first half of 2026, China had nearly 510 dexterous hand-related companies, with three core module makers—LinkerBot, AGILINK, and GeniTech—raising a combined RMB 5.3 billion (about US$790 million) during that period.
+  中文：总结：Elon Musk表示构建拟人机器人手“极其困难”，TrendForce的最新研究显示，特斯拉对接近人类灵巧度的追求使制造成为Optimus最艰难的瓶颈，其手部组装仍严重依赖人工装配。 灵巧手决定了人形机器人能否从演示走向现实工作，预计未来将占人形机器人总硬件成本的20%至30%。 TrendForce预测，到2030年全球人形机器人销量将超过200万台，可能推动灵巧手市场达到约US$6 billion。 资本正加速涌入，截至2026年上半年，中国拥有近510家与灵巧手相关的公司，其中LinkerBot、AGILINK和GeniTech三家核心灵巧手模组制造商在2026年上半年共筹集了RMB 5.3 billion（约合US$790 million）。
+  📰 [TrendForce](https://insights.trendforce.com/p/dexterous-hand-a-6-billion-dollar-market)
+
+- **[2026.10.22] 东方财富 — 人形机器人灵巧手难点在哪？这款微型电机攻坚狭小驱动难题**
+  中文：总结：贝塞默（上海）科技有限公司近日发布TF-20微型横向磁通电机，面向人形机器人灵巧手等安装空间紧凑的微型驱动场景。 该公司成立于2025年8月，联合创始人兼CEO为唐菲菲。 人形机器人灵巧手面临空间极度受限、输出能力与体积矛盾、散热与连续工作能力挑战、系统集成与可靠性要求高四大挑战。 TF-20微型横向磁通电机产品外径20mm、机身长度22mm，额定转矩12mN·m、最大转矩25mN·m，通过三维磁路、软磁复合材料（SMC）模块化定子、高极数转子与高槽满率内出线绕组四项关键技术协同设计。 目前，该产品已完成实体样机，进入性能测试与系统集成验证阶段。
+  📰 [东方财富](http://finance.eastmoney.com/a/202610213902601747.html)
+
+- **[2026.10.19] THE ELEC, Korea Electronics Industry Media — Infineon Targets Semiconductor Market for Humanoid Robotic Hands**
+  English: Infineon Technologies is targeting the humanoid robotic hands market by leveraging its industrial and automotive semiconductor solutions, including microcontrollers, power semiconductors, and tactile sensors. Presented by company representative Sarah Wu at SEDEX 2026 in Seoul on Oct. 16, the solutions support centralized, hybrid, and fully distributed control architectures based on degrees of freedom. Infineon uses 3D magnetic, pressure, and capacitive sensors, as well as MEMS microphones, to measure contact and identify object characteristics through sound and vibration. The company also demonstrated a 66-millimeter motor-drive board featuring an MCU, gallium nitride (GaN) power semiconductors, and sensors capable of driving motors up to 1.2 kilowatts, noting that GaN helps reduce circuit size.
+  中文：总结：英飞凌正在利用其在工业和汽车半导体领域的专业知识，将目标瞄准作为人形机器人关键组件的机器人手部市场，其核心产品包括微控制器、功率半导体和触觉传感器。 英飞凌代表莎拉·吴（Sarah Wu）于10月16日在首尔COEX举行的2026年半导体展览会（SEDEX）期间，在一场名为“构建人形机器人的半导体”的会议上介绍了公司的机器人半导体解决方案。 机器人手部需要电机控制和触觉传感技术，英飞凌的工业和汽车半导体产品支持集中式、混合式和完全分布式三种控制架构。 触觉传感依赖于磁性、压力和电容式传感器，英飞凌还探索使用微机电系统麦克风通过声音和振动识别物体特征。 此外，英飞凌还展示了一块配备微控制器、氮化镓功率半导体以及功率和位置传感器的电路板，能够驱动高达1.2千瓦的电机，尺寸约为66毫米，氮化镓技术有助于减小电机驱动电路的尺寸。
+  📰 [THE ELEC, Korea Electronics Industry Media](https://www.thelec.net/news/articleView.html?idxno=14713)
+
+- **[2026.10.19] 霞光社 — 7金4银3铜！临界点携量产灵巧手首战世界人形机器人运动会，覆盖全部8个赛项**
+  中文：总结：在第二届世界人形机器人运动会首次设立的灵巧手专项赛中，首次参赛的临界点携未做硬件改装的量产产品OmniHand拿下7金4银3铜，覆盖全部8个赛项，成为该专项赛获得金牌最多的参赛方。 这14枚奖牌涵盖精细夹取、粉末称量、工具使用和线缆连接等8个操作任务。 在竞争激烈的自主方案比拼中，搭载OmniHand的赛队拿下了镊子夹豆、积木搭建、粉末称量3个自主项目的冠军，其中前两项由临界点自研自主方案完成，粉末称量冠军则来自武汉大学团队自主开发算法的联合赛队。 OmniHand在训练、预赛到决赛的高强度实际使用中，验证了其在不同任务和使用强度下的通用性、稳定性和软硬件协同能力。
+  📰 [霞光社](https://xiaguangshe.com/en/15479/)
+
+- **[2026.10.16] Robotics & Automation News — Tesla patent reveals touch-sensitive skin for robot hands**
+  English: Tesla has filed a US patent application, designated as US 2026/0310299 A1 and published on October 8, for a touch-sensitive skin that can be molded around robot fingers and palms to detect contact, force, and pressure. The manufacturing process involves printing tactile sensors onto flat, flexible materials before heat-forming them into three-dimensional shapes. The proposed sensor uses two flexible substrate layers with conductive regions separated by a compressible layer, utilizing capacitive and piezoresistive approaches with substrate materials such as thermoplastic polyurethane, PET, and polyimide. Tesla emphasizes manufacturability through screen printing, laser cutting, conductive paste deposition, and thermoforming. While not specifically tied to the Optimus humanoid robot, potential applications include robot fingertips, palms, and end-effectors.
+  中文：总结：特斯拉已提交了一项美国专利申请（申请号US 2026/0310299 A1，于10月8日公布），内容关于一种可塑形于机器人手指和手掌周围的触感“皮肤”，为人形机器人提供一种可扩展的接触、力和压力检测方式。 该专利描述了一种制造工艺，即将触觉传感器印刷在扁平的柔性材料上，然后热成型为三维形状。 特斯拉拟议的传感器使用两个带有导电区域的柔性基板层，中间由可压缩层隔开，描述了电容式和压阻式方法，并列出了热塑性聚氨酯、PET和聚酰胺等可能的基板材料。 该文件强调了可制造性，涵盖丝网印刷、激光切割、导电浆料沉积和热成型等工艺。 虽然该申请并未明确指出该技术将用于特斯拉的Optimus人形机器人，但其将机器人指尖、手掌和末端执行器列为潜在应用场景。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/16/tesla-patent-reveals-touch-sensitive-skin-for-robot-hands/105999/)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.23 | full-text items: 8
