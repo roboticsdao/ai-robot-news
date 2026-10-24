@@ -1,0 +1,52 @@
+# 🖐 Dexterous Hand News | 2026.10.24（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.24] 证券之星 — 骏鼎达10月23日回应人形机器人话题：灵巧手腱绳及护套材料尚未大规模量产_公司新闻**
+  中文：总结：骏鼎达于10月23日对人形机器人相关话题作出回应，表示公司依托高分子改性保护材料的技术积累，推进“灵巧手驱动用腱绳及护套材料”的研发与生产。 截至2026年上半年，该产品实现不足100万元销售收入，尚未大规模量产，具体客户及项目信息基于下游客户保密要求暂不披露。 此外，“灵巧手手套防护材料”为上半年新开发产品，目前也尚未量产。 公司预计相关产品短期内不会对经营业绩产生重大影响，该业务整体收入占比极低。
+  📰 [证券之星](http://stock.stockstar.com/RB2026102400006507.shtml)
+
+- **[2026.10.23] 搜狐 — 深化生态协同：因时亮相2026宇树生态大会，灵巧手演绎制茶新“手”艺**
+  中文：总结：10月22日，2026世界物理AI大会暨宇树合作伙伴生态大会在杭州国际博览中心二期闭幕。 因时机器人携全系列灵巧手产品参会，并在现场通过宇树G1机器人装配因时H1系列灵巧手进行了一场茶叶翻炒演示。 演示中，机器人通过双臂与手指的协调运动轻巧翻动茶叶，展现出H1系列灵巧手灵活的手指运动、精细的力度控制、稳定的动作响应，以及在面对轻薄、松散且形态不规则物体时多指动作的协调配合能力。
+  📰 [搜狐](https://m.sohu.com/a/1091743990_702717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.23] 搜狐网 — OpenTac 开源触觉传感生态上线：一键为机器人曲面设计 3D 触觉皮肤**
+  中文：总结：约翰斯・霍普金斯大学与麻省理工的研究团队于10月23日宣布推出OpenTac开源触觉传感生态工具链，将在CoRL 2026进行现场演示。 该生态涵盖触觉皮肤自动化设计、加工、高速采集、仿真及跨传感器数据迁移全流程。 其核心硬件基于柔性PCB、压敏薄膜与3D打印TPU凸起结构，可同时解算出法向力与双轴剪切力，测力区间为0.1N–10N。 配套模块包括OpenTac-CAD自动设计工具、自适应稀疏采样机制OpenTac-Xampling、OpenTac-Sim仿真器及OpenTac-Transfer跨传感器迁移模块。 团队已在SO-101机械臂、YAM双臂机器人、Dexmate灵巧手等平台上完成多项纯触觉任务验证，项目目前已实现完整开源。
+  📰 [搜狐网](https://www.sohu.com/a/1091720081_100106801)
+
+- **[2026.10.23] www.caiwennews.com — 兆威机电盘中跌超5%，马斯克预判机器人量产并加码灵巧手**
+  中文：总结：10月23日，兆威机电盘中跌超5%，截至11时21分跌5.27%，报32.38港元/股，成交额26901.39万港元。 同期公开数据显示，今年前三季度具身智能机器人销售额增长22.6%，2026年上半年全球机器人和物理AI领域风险投资融资总额达334亿美元。 特斯拉CEO马斯克在10月21日财报电话会议及分析员会议上表示，Optimus第三代已为大规模量产做好准备，弗里蒙特工厂已开始早期生产，年产100万台生产线绝大部分已到位，预计最快需时至少一年甚至更长时间达到每周生产20000台产能。 兆威机电半年报显示其灵巧手产品已形成两大技术路线的产品矩阵，今年4月曾公告拟投资约8亿元建设灵巧手及微型驱动系统产业园项目。
+  📰 [www.caiwennews.com](https://www.caiwennews.com/article/1664940.shtml)
+
+- **[2026.10.23] Vietnam.vn — Why don't robotic hands look like human hands?**
+  English: Robot hands are exceptionally difficult to develop because housework requires unpredictable, highly coordinated interactions involving hands, arms, torso, vision, and the environment, unlike calculated acrobatic routines. To approach human-like hand dexterity, researchers must simultaneously overcome three primary challenges: hardware, tactile sensing, and learning capabilities. First, the mechanical challenge involves fitting actuators, motors, or cable-driven mechanisms and sensors into a restricted space while balancing force, precision, friction, and heat. Second, the tactile challenge requires integrating real-time pressure, vibration, slip detection, and texture feedback to dynamically adjust grip strength before an object falls. Third, the data and learning challenge stems from the difficulty of collecting complex manipulation data compared to images. Companies including Unittree, Apptronik, Tesla, and 1X are developing various humanoid robots with mobility and manipulation features, though bridging the gap between test conditions and real-world domestic adaptability remains ongoing.
+  中文：总结：机器人手部极难开发，因为家务劳动涉及不可预测、高度协调的互动，需要手部、手臂、躯干、视觉系统和周围环境的共同配合，这与经过计算的杂技动作不同。 为了接近人类手部的灵巧度，研究人员必须同时克服硬件、触觉感知和学习能力这三大主要挑战。 首先，机械挑战涉及在有限空间内配置执行器、马达或拉线驱动机构以及传感器，同时平衡力量、精度、摩擦力和热量。 其次，触觉挑战需要集成实时的压力、振动、防滑检测和纹理反馈，以便在物体掉落前动态调整抓握力度。 最后，数据与学习挑战源于收集复杂操作数据比图像数据更为困难。 Unittree、Apptronik、Tesla和1X等公司都在开发具备移动与操作功能的人形机器人，不过要弥合测试条件与真实家庭适应能力之间的差距仍在进行中。
+  📰 [Vietnam.vn](https://www.vietnam.vn/en/vi-sao-ban-tay-robot-khong-giong-con-nguoi)
+
+- **[2026.10.22] Robotics & Automation News — Robotiq launches the 2FC physical AI gripper**
+  English: Robotiq has launched the 2FC physical AI gripper, a production-ready adaptive gripper featuring tactile sensing and embedded intelligence designed to help robots learn from physical interaction. Pre-orders are open now, with shipping scheduled for Q1 2027. The 2FC builds on the 2F adaptive gripper platform by integrating tactile sensing, an AI Hub for wrist compute, and Contact Core software. It captures synchronized and timestamped contact-rich data including pressure, vibration, force, position, and current at a millisecond level. Running compute locally on the gripper enables real-time grasp skills such as grasp quality assessment, incipient slip detection, object pose estimation, object centering, and advanced grip check. Rated for 2 million cycles, the 2FC is available in 85 mm and 140 mm stroke versions, and existing 2F owners can upgrade using TSF tactile sensors and the AI Hub. Robotiq CEO Samuel Bouchard noted that tactile intelligence is finally catching up to make use of touch data. Robotiq will present the gripper in a launch webinar on October 28, 2026.
+  中文：总结：Robotiq推出了2FC物理AI抓手，这是一款具备触觉感知和嵌入式智能的量产型自适应抓手，旨在帮助机器人通过物理交互进行学习。 该产品即日起接受预订，预计于2027年第一季度发货。 2FC在Robotiq的2F自适应抓手基础之上，增加了触觉传感、腕部计算模块AI Hub以及用于物理AI的Contact Core软件。 它能够以毫秒级同步捕获压力、振动、本体感觉、力、位置和电流等丰富的数据。 通过在抓手上直接运行计算，2FC可实时执行抓取质量评估、初期滑移检测、物体位姿估计、物体定心和高级抓取检查等抓取技能。 2FC额定寿命为200万次循环，提供85毫米和140毫米行程版本，现有2F抓手用户可以通过添加TSF触觉传感器和AI Hub进行升级。 Robotiq首席执行官Samuel Bouchard表示，触觉智能的发展终于能够充分利用触觉数据。 公司将于2026年10月28日上午11点举办线上发布会展示该产品。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/22/robotiq-launches-the-2fc-physical-ai-gripper/106191/)
+
+- **[2026.10.22] 新浪财经 — 兆威机电盘中涨超20% 公司布局灵巧手打开市场空间**
+  中文：总结：兆威机电（02692）盘中涨超20%，截至发稿股价上涨16.18%，现报32.74港元，成交额1.09亿港元。 近日特斯拉在致股东年度报告中表示Optimus第三代已为大规模量产做好准备，马斯克在社交平台表示Optimus和Cybercab将构成特斯拉价值的“绝大部分”，并重申将重心放在机器人与人工智能领域。 业内人士认为Optimus量产爬坡有望增加相关零部件需求。 华兴证券研报指出，兆威机电将机器人业务划分为整手、代工及模组三类，重点聚焦微型传动驱动，主攻技术壁垒更高的机械手与灵巧手。 公司2025年机器人相关收入约2，387万元，其中90%以上来自零部件及模组销售，整手机器人出货量较小。 公司预计2026年机器人业务收入有望翻倍达到4000–5000万元，并瞄准2027年收入突破1亿元。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwaezw4853841.shtml?cre=tianyi&mod=pcfinhkst&loc=10&r=0&rfunc=16&tj=cxvertical_pc_finhkst&tr=12)
+
+- **[2026.10.22] TrendForce — Dexterous Hands: A US$6 Billion Market**
+  English: Elon Musk describes building human-like robot hands as shockingly difficult, and TrendForce research indicates that Tesla's pursuit of near-human dexterity makes manufacturing the toughest bottleneck for Optimus, with hands relying on manual assembly and tactile sensor reliability still improving. Tesla plans a modular, swappable sensing glove for its 2027 model. Dexterous hands determine whether humanoid robots can transition from demos to real-world work by enabling grasping, pinching, and tool use, and are expected to account for 20% to 30% of total hardware cost, ranking second behind body actuation. TrendForce projects global humanoid robot sales will exceed 2 million units by 2030, driving the dexterous hand market to around US$6 billion. Capital is flowing into key components; as of 1H26, China had nearly 510 dexterous hand-related companies, and three core module makers—LinkerBot, AGILINK, and GeniTech—raised a combined RMB 5.3 billion (about US$790 million) in 1H26.
+  中文：总结：马斯克称制造类人机器人手“极其困难”，TrendForce的最新研究显示，特斯拉对接近人类灵巧度的追求使得制造成为Optimus最大的瓶颈，其手部高度依赖手工装配，触觉传感器可靠性仍在改进，特斯拉计划在2027年型号中采用模块化、可更换的感应手套。 灵巧手决定了人形机器人能否从演示走向现实工作，作为末端执行器直接决定机器人能否抓取、捏取、使用工具和执行精细操作。 长期来看，灵巧手预计占人形机器人总硬件成本的20%至30%，仅次于身体驱动系统。 TrendForce预计到2030年全球人形机器人销量将超过200万台，推动灵巧手市场达到约US$6 billion。 资本正在涌入，截至2026年上半年中国有近510家与灵巧手相关的公司，三大核心灵巧手模块制造商LinkerBot、AGILINK和GeniTech在2026年上半年共筹集了53亿元人民币（约合US$790 million）。
+  📰 [TrendForce](https://insights.trendforce.com/p/dexterous-hand-a-6-billion-dollar-market)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.24 | full-text items: 8
