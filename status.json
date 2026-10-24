@@ -1,7 +1,7 @@
 {
-  "state": "ok",
-  "checked_at": "2026-10-24T10:32:02.002353+09:00",
-  "latest_article_at": "2026-10-24T09:00:00+09:00",
+  "state": "partial",
+  "checked_at": "2026-10-24T23:28:58.767348+09:00",
+  "latest_article_at": "2026-10-24T22:06:48+09:00",
   "articles": 20,
   "sections": {
     "美国 / United States": 5,
@@ -10,5 +10,5 @@
     "Humanoid Robotics": 5
   },
   "shortfalls": {},
-  "translations_missing": 0
+  "translations_missing": 3
 }
