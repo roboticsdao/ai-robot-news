@@ -1,0 +1,53 @@
+# 🖐 Dexterous Hand News | 2026.10.25（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.25] Ubergizmo JAPAN — ムラタとMELT、ロボットハンド訓練向け受賞グローブ「ContactGlove3 Pro」を披露**
+  日本語：村田製作所は、CEATEC 2026においてMELT Interface Technologiesと共同開発したハンドトラッキンググローブ「ContactGlove3 Pro」を披露し、CEATEC AWARD 2026優秀賞を受賞した。 同グローブは、電磁界センシングや村田製作所の超小型・高感度3軸低周波アンテナを採用し、外部カメラを不要としながら指の動きを3次元で精密に追跡する。 ゼロドリフト技術により追跡誤差の蓄積を防ぎ、位置誤差の中央値は0.5mm、最大誤差は1.5mm、動作周波数は100Hz、遅延は30ミリ秒以下である。 Pro版ではトラッキングセンサーが指先側に移動し、金属干渉対策として電磁干渉を最大80パーセント低減する技術も開発された。 バッテリー駆動時間は最大10時間で、米国において3999ドルで2026年11月に提供開始予定である。 さらに、村田製作所はバッテリーレスRFIDセンサータグやガラス管センサータグ、牛脂を燃料とするエネルギーハーベスティングなどの技術も展示した。
+  中文：总结：村田制作所参与CEATEC 2026并出展了与MELT Interface Technologies共同开发的先进手部追踪手套ContactGlove3 Pro，该技术荣获CEATEC AWARD 2026优秀奖。 该手套采用电磁界传感及村田制作所的超小型高感度3轴低周波天线，无需外部摄像头即可实现3D追踪。 手套采用零漂移技术，位置误差中位数为0.5mm，最大误差为1.5mm，工作频率为100Hz，延迟在30毫秒以下。 Pro版将追踪传感器移向指尖，并开发了可将电磁干扰降低最多80%的降噪技术。 电池续航时间最长达10小时，MELT计划于2026年11月在美国以3,999美元的价格发售Pro版。 此外，村田制作所还在展会上展示了无电池RFID传感器标签、玻璃管传感器标签以及使用牛脂作为燃料的能量采集演示等技术。
+  📰 [Ubergizmo JAPAN](https://jp.ubergizmo.com/2026/10/25/27185/)
+
+- **[2026.10.24] 证券之星 — 骏鼎达10月23日回应人形机器人话题：灵巧手腱绳及护套材料尚未大规模量产_公司新闻**
+  中文：总结：骏鼎达于10月23日在投资者互动平台上对人形机器人相关话题作出回应。 公司依托高分子改性保护材料的技术积累推进灵巧手驱动用腱绳及护套材料的研发与生产，截至2026年上半年实现不足100万元销售收入，尚未大规模量产。 基于下游客户保密要求，具体客户及项目信息暂不披露。 灵巧手手套防护材料为上半年新开发产品，目前尚未量产，相关产品预计短期内不会对公司经营业绩产生重大影响。 上述业务整体收入占比极低，公司提请投资者注意投资风险。
+  📰 [证券之星](https://stock.stockstar.com/RB2026102400006507.shtml)
+
+- **[2026.10.23] 搜狐网 — OpenTac 开源触觉传感生态上线：一键为机器人曲面设计 3D 触觉皮肤**
+  中文：总结：来自美国约翰斯・霍普金斯大学、麻省理工的研究团队宣布推出OpenTac，一套完整开源、可定制、可迁移的3D触觉传感工具链，将在CoRL 2026进行现场演示。 核心硬件基于柔性PCB、压敏薄膜搭配3D打印TPU凸起结构，一组2×2传感单元配合凸起结构可同时解算出法向力与双轴剪切力，测力区间0.1N–10N。 生态包含OpenTac-CAD自动设计工具，可在几秒内自动完成曲面传感阵列布线并输出Gerber文件，已适配30余款不同机器人形态。 自研的OpenTac-Xampling自适应稀疏采样机制在1024单元的触觉皮肤上最高可达1286帧/秒。 生态内置OpenTac-Sim仿真器与OpenTac-Transfer跨传感器迁移模块。 团队已在SO-101机械臂、YAM双臂机器人、Dexmate灵巧手等平台上完成销孔插入、插座插拔、钥匙装配、抗冲击防滑抓取等纯触觉任务验证，项目完整开源。
+  📰 [搜狐网](https://www.sohu.com/a/1091720081_100106801)
+
+- **[2026.10.23] Dellows News — 「指先で考えるロボットハンド」でものづくりを変革～ 「EY アントレプレナー・オブ・ザ・イヤー 2026ジャパン」関西地区大会でThinkerのCEO藤本弘道が特別賞を受賞**
+  日本語：株式会社Thinkerの代表取締役兼CEOである藤本弘道は、EY Japan主催の「EY Entrepreneur Of The Year 2026 Japan」関西地区大会において「Challenging Spirit部門 特別賞」を受賞した。 表彰式は2026年10月14日に大阪市内で開催され、過去の事業撤退と再起業を経た歩みや、ロボティクスおよびAIを軸とした挑戦の姿勢が評価された。 藤本は2003年に着用型ロボットを開発するスタートアップを創業しシェア60パーセントを獲得したが、コロナ禍の影響で2022年に事業撤退を余儀なくされた。 同年に大阪大学発スタートアップのThinkerやSHIN-JIGENを起業し、ロボティクスやAIを軸とした新事業の創出を続けている。 大会のプレゼンテーションでは、空想世界をもとに実現したい未来を思い描き逆算する「未来実装」の概念や、誰もが自由に挑戦できる「フリーアビリティ社会」の実現に向けた構想を披露した。 さらに、人の手のような器用さを備えた次世代ロボットハンドや、現場作業を通じて自ら成長する「現場学習型AIロボット」の開発の重要性を強調した。
+  中文：总结：株式会社Thinker的代表取締役兼CEO藤本弘道在EY Japan主办的企业家表彰制度EY Entrepreneur Of The Year 2026 Japan关西地区大会上获得Challenging Spirit部门特别赏。 表彰于2026年10月14日在大阪市内举行，其经历过的사업撤退与再创业历程以及以机器人和AI为核心的挑战姿态获得了评价。 藤本于2003年创立开发穿戴式机器人的初创企业并获得60%的市场份额，受疫情影响于2022年被迫撤退사업，同年创立大阪大学出身的初创企业Thinker及SHIN-JIGEN。 在大会演讲中，藤本介绍了基于空想世界构想未来并倒推实现目标的未来实现概念，以及实现任何人都能自由挑战的自由能力社会构想。 此外，他还强调了具备人手般灵巧度的下一代机器人手以及通过现场作业自行成长的现场学习型AI机器人开发的重要性。
+  📰 [Dellows News](https://news.dellows.jp/867741/)
+
+- **[2026.10.22] ZAKER新闻 — “创@广州”赛事收官，高性能仿人五指灵巧手夺冠- 21世纪经济报道**
+  中文：总结：10月21日，2026年广州科技创新创业大赛全球赛暨香港科技大学百万奖金创业大赛广州赛决赛在广州南沙举行。 本次大赛共有441个境外科创项目报名，其中180个来自海外赛道、261个来自港澳台赛道。 经过多轮角逐，高性能仿人五指灵巧手项目夺得一等奖，率先晋级香港科技大学百万奖金创业大赛全国总决赛。 本届大赛由广州市科学技术局与香港科技大学联合主办，广州市香港科大霍英东研究院等共同承办。 项目领域涵盖人工智能、高端装备制造、生物医疗科技、新材料等，覆盖30多个国家和地区。 大赛现金奖励总额达200万元，获奖团队将获得综合配套支持。 决赛当天，25个项目依次完成7分钟项目介绍与3分钟答辩，由评审团进行现场打分。 决赛同日举办了Nansha Ignite 2026创业嘉年华，后续组委会将逐一走访获奖企业并精准对接资源。
+  📰 [ZAKER新闻](https://app.myzaker.com/news/article.php?pk=6ad9bfb68e9f0944c756fdde)
+
+- **[2026.10.22] Robotics & Automation News — Robotiq launches the 2FC physical AI gripper**
+  English: Robotiq has launched the 2FC physical AI gripper, a production-ready adaptive gripper featuring tactile sensing and embedded intelligence. Pre-orders are open now with shipping scheduled for Q1 2027. CEO Samuel Bouchard noted that intelligence is increasingly derived from physical touch. The gripper builds upon Robotiq's existing 2F adaptive gripper platform by adding TSF tactile sensors, compute at the wrist via the AI Hub, and Contact Core software. It captures synchronized, millisecond-level contact-rich data including pressure, vibration, force, position, and current. Powered by embedded compute, it runs grasp skills locally in real time such as quality assessment, slip detection, object pose estimation, and centering, emitting labeled events rather than raw signals. Rated for 2 million cycles, the 2FC is available in 85 mm and 140 mm stroke versions, and existing 2F owners can upgrade using TSF sensors and the AI Hub.
+  中文：总结：Robotiq发布了2FC物理AI夹爪，这是一款具备触觉传感和嵌入式智能的量产型自适应夹爪，现已开放预订，并将于2027年第一季度发货。 首席执行官Samuel Bouchard表示，触觉交互产生了大量智能。 该夹爪基于Robotiq的2F自适应夹爪平台构建，集成了TSF触觉传感器、腕部计算单元AI Hub以及Contact Core物理AI软件。 它能够以毫秒级捕获并同步包含压力、振动、本体感受、力和位置等丰富接触数据的统一时间帧。 借助内置计算能力，2FC可在本地实时运行抓取质量评估、初期打滑检测、物体位姿估计和物体居中等抓取技能，直接输出带标签的事件而非仅有原始信号。 2FC额定寿命为200万次循环，提供85毫米和140毫米行程版本，现有2F夹爪用户也可通过添加TSF传感器和AI Hub进行升级。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/22/robotiq-launches-the-2fc-physical-ai-gripper/106191/)
+
+- **[2026.10.22] 新浪财经 — 兆威机电盘中涨超20% 公司布局灵巧手打开市场空间**
+  中文：总结：兆威机电（02692）盘中股价一度上涨超过20%，截至发稿时上涨16.18%至32.74港元，成交额达到1.09亿港元。 此前特斯拉在致股东年度报告材料中表示，第三代Optimus已为大规模量产做好准备，马斯克也在社交平台上重申公司重心在机器人与人工智能领域。 华兴证券研报指出，兆威机电将机器人业务划分为整手、代工及模组三类，重点聚焦于微型传动驱动，主攻机械手与灵巧手。 该公司2025年机器人相关收入约为2，387万元，其中90%以上来自零部件及模组销售。 公司预计2026年机器人业务收入有望翻倍达到4000–5000万元，并计划在2027年实现收入突破1亿元。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwaezw4853841.shtml?cre=tianyi&mod=pcfinhkst&loc=10&r=0&rfunc=16&tj=cxvertical_pc_finhkst&tr=12)
+
+- **[2026.10.22] TrendForce — Dexterous Hands: A US$6 Billion Market**
+  English: Elon Musk described building human-like robot hands as shockingly difficult, and TrendForce research highlights that manufacturing is the toughest bottleneck for Tesla's Optimus due to heavy reliance on manual assembly and evolving tactile sensor reliability. Tesla plans to introduce a modular, swappable sensing glove for its 2027 model. Dexterous hands are critical end-effectors determining whether humanoid robots can perform real-world work, and are expected to account for 20% to 30% of total hardware costs over the long term. TrendForce projects global humanoid robot sales will exceed 2 million units by 2030, driving the dexterous hand market to approximately US$6 billion. As of 1H26, China had nearly 510 dexterous hand-related companies, with capital increasingly flowing into components like modules, sensors, and chips. For example, LinkerBot, AGILINK, and GeniTech raised a combined RMB 5.3 billion, which is about US$790 million, in 1H26.
+  中文：总结：Elon Musk表示制造仿真人手极其困难，TrendForce最新研究显示，由于高度依赖手工装配且触觉传感器可靠性仍在改进，制造环节成为了特斯拉Optimus的最大瓶颈。 特斯拉计划在2027年型号中采用模块化且可更换的传感手套。 灵巧手是决定人形机器人能否从事现实工作的重要末端执行器，长期来看预计将占人形机器人硬件总成本的20%至30%。 TrendForce预测，到2030年全球人形机器人销量将超过200万台，从而推动灵巧手市场规模达到约US$6 billion。 截至2026年上半年，中国拥有近510家与灵巧手相关的公司，资本正加速流向灵巧手模块、传感器和芯片等核心零部件。 例如，LinkerBot、AGILINK和GeniTech这三家核心灵巧手模块制造商在2026年上半年共筹集了RMB 5.3 billion，约合US$790 million资金。
+  📰 [TrendForce](https://insights.trendforce.com/p/dexterous-hand-a-6-billion-dollar-market)
+
+
+---
+※Dexterous Hand News Digest | 2026.10.25 | full-text items: 8
