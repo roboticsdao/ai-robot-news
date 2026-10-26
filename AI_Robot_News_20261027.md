@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.27（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.26] Counterpoint Research — NVIDIA Leads Humanoid Robot AI Accelerator Market as Qualcomm, Intel, Tesla, Xpeng Step Up Competition**
+  English: According to Counterpoint Research's Global Humanoid Robotics Tracker, global humanoid robot AI accelerator cumulative shipments are expected to exceed one million units by 2030, growing at a CAGR of 144% between 2026 and 2030. While GPUs remain dominant near-term, AI ASICs are evolving as humanoid robots see mass adoption. NVIDIA currently leads the AI accelerator market with a complete stack, supported by collaborations with makers such as AGIBOT, Unitree, UBTech, Galbot, Figure AI, Neura Robotics, and Noetix Robotics. Meanwhile, Qualcomm and Intel are securing design wins, with Qualcomm offering heterogeneous compute architecture to challenge NVIDIA. Tesla and Xpeng are positioned to reshape the landscape using automotive expertise, custom silicon, and vertical integration, and D-Robotics is strengthening China's domestic ecosystem through partnerships with Leju Robotics and LIMX Dynamics.
+  中文：总结：根据Counterpoint Research的全球人形机器人追踪器报告，全球人形机器人AI加速器累计出货量预计将在2030年超过一百万台，2026年至2030年间的复合年增长率为144%。 尽管GPU在近期将保持主导计算架构，但随着人形机器人的大规模普及，AI ASIC也将不断演进。 NVIDIA目前在人形机器人AI加速器市场处于领先地位，拥有从计算到模型再到模拟的完整技术栈，并得到了AGIBOT、宇树、优必选、银河通用、Figure AI、Neura Robotics和Noetix Robotics等领先机器人制造商的支持。 与此同时，高通和 Intel 正在赢得设计订单，高通通过提供异构计算架构来挑战NVIDIA的地位。 特斯拉和小鹏汽车正利用其汽车专业知识、定制芯片和垂直整合重塑人形机器人AI加速器格局，而地平机器人旗下的D-Robotics则通过与乐聚机器人和利氪科技等公司的合作，不断加强中国本土生态系统。
+  📰 [Counterpoint Research](https://counterpointresearch.com/en/insights/nvidia-leads-humanoid-robot-ai-accelerator-market)
+
+- **[2026.10.24] Startup Fortune — Boston Dynamics workers petition against ICE deal for Spot robots**
+  English: Nearly 300 Boston Dynamics employees signed an internal petition this autumn asking leadership to cancel a $1.3 million robot sale of four Spot units tied to Immigration and Customs Enforcement (ICE). The company sold the robots anyway through a Connecticut-based reseller named Radeco. The package includes a robotic arm, a thermal camera, and sensors built to detect radiation and explosive materials for Homeland Security Investigations agents to search tunnels, crawl spaces, and closets along the border. Boston Dynamics defended the contract by stating it runs through the Homeland Security Investigations division rather than Enforcement and Removal Operations, and argued that the robot can help keep people safe. In May, employee pressure previously caused the company to cancel a sale to a police equipment supplier that wanted to add flash-bang grenades to a Spot unit.
+  中文：总结：今年秋天，近300名波士顿动力公司员工签署了一项内部请愿书，要求公司领导层取消一笔价值$1.3 million、涉及四台Spot机器人的与美国移民和海关执法局（ICE）相关的销售交易。 尽管如此，该公司仍然通过康涅狄格州的转售商Radeco完成了这笔销售。 这批机器人配备了机械臂、热成像仪以及用于检测辐射和爆炸物的传感器，供国土安全调查局特工用于搜查边境沿线的隧道、狭窄空间和壁橱。 波士顿动力公司为该合同进行了辩护，称该合同是通过国土安全调查局而非执法和遣散行动部门进行的，并认为该机器人有助于保障人员安全。 今年5月，员工的压力曾促使该公司取消了一面向希望在Spot单元上加装闪光弹的警察装备供应商的销售。
+  📰 [Startup Fortune](https://startupfortune.com/boston-dynamics-workers-petition-against-ice-deal-for-spot-robots/)
+
+- **[2026.10.24] Interesting Engineering — Robots power US AI foundry lab's push for faster alloy discovery**
+  English: Texas A&M University's Department of Materials Science and Engineering received a $2 million grant from the WoodNext Foundation to build the Aggie AI Foundry, a first-of-its-kind self-driven research lab. Led by professors Raymundo Arróyave and Ibrahim Karaman, the fully automated facility will combine artificial intelligence and robotic workers to test novel metal alloys. Computer-controlled robotic arms will mix, melt, and test materials based on directions from an AI brain trained using physical models, algorithms, and human knowledge. The automated processes are expected to increase alloy development rates from months to a week or less, freeing students and researchers for more creative work and enabling AI to explore a trillion possible combinations of elements.
+  中文：总结：德克萨斯农工大学材料科学与工程系获得了WoodNext Foundation提供的$2 million资助，用于建造名为Aggie AI Foundry的首个自主研发实验室。 在教授Raymundo Arróyave和Ibrahim Karaman的领导下，这个全自动化设施将结合人工智能和机器人工作者来测试新型金属合金。 在经过物理模型、算法和人类知识训练的AI大脑指导下，计算机控制的机械臂将负责混合、熔炼和测试材料。 这些自动化流程预计将把合金开发速度从几个月缩短到一周甚至更短，从而解放学生和研究人员去从事更具创造性的工作，并使AI能够探索元素之间的一万亿种可能组合。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-foundry-lab-robots-alloy-discovery)
+
+- **[2026.10.24] Mashable — Robot companies, like Boston Dynamics, sign pledge to not have their products turned into weapons**
+  English: A group of robotics companies, including Boston Dynamics, Agility Robotics, ANYbotics, Clearpath Robotics, Open Robotics, and Unitree Robotics, signed an open letter pledging not to weaponize their advanced-mobility general-purpose robots or the software that enables them, and agreed not to support others in doing so. The companies noted in the pledge that adding weapons to remotely or autonomously operated mobile robots widely available to the public raises new risks of harm and serious ethical issues. The companies also stated they will carefully review customers' intended applications when possible to avoid potential weaponization, though the pledge specifies it applies to general-purpose robots and leaves room to make robots specifically for the military.
+  中文：总结：包括波士顿动力、Agility Robotics、ANYbotics、Clearpath Robotics、Open Robotics和宇树科技在内的一批机器人公司签署了一份公开信，承诺不将其具备先进移动能力的通用机器人或支持该技术的软件武器化，并承诺不协助他人进行此类活动。 这些公司在承诺中指出，向公众广泛使用的远程或自主操作移动机器人添加武器会带来新的伤害风险和严重的伦理问题。 这些公司还表示，将在可能的情况下仔细审查客户的预定应用以避免潜在的武器化，不过该承诺明确指出其仅适用于通用机器人，并为专门制造军用机器人留出了空间。
+  📰 [Mashable](https://mashable.com/article/robot-companies-pledge-no-weapons)
+
+- **[2026.10.24] The Diplomatic Insight — Nvidia’s CEO Visits Astana as Kazakhstan Pitches Itself as a Physical AI Hub**
+  English: Nvidia founder and CEO Jensen Huang visited Astana, Kazakhstan, on Friday at the invitation of Deputy Prime Minister Zhaslan Madiyev. Huang was briefed on the national AI strategy, sovereign computing infrastructure, and local tech products, and participated in a fireside chat on the AI industry. Officials presented plans to establish Kazakhstan as a global center for Physical AI, noting the country's heavy industry, energy reserves, and central geographic position. Huang praised President Kassym-Jomart Tokayev's goal of making Kazakhstan an AI nation. Discussions also covered the Alem. Cloud supercomputer, a planned Ekibastuz data center cluster, education initiatives with technical universities, and recent infrastructure agreements and startup valuations announced by Kazakh officials.
+  中文：总结：英伟达创始人兼首席执行官黄仁勋于周五访问哈萨克斯坦首都阿斯塔纳，接受副总理兼人工智能和数字发展部长扎斯兰·马迪耶夫的邀请。 黄仁勋听取了国家人工智能战略、主权计算基础设施及本地科技产品的汇报，并就人工智能行业方向展开对话。 官员们介绍了将哈萨克斯坦打造为物理人工智能全球中心的计划，指出该国具备重工业、能源储量及地理优势。 黄仁勋赞扬了总统卡瑟姆若马尔特·托卡耶夫将哈萨克斯坦建设成为人工智能国家的战略目标。 双方讨论内容还包括Alem. Cloud超级计算机、埃基巴斯图兹数据中心集群规划、与高等院校的教育合作计划，以及哈萨克斯坦官员此前宣布的大约$10 billion人工智能基础设施协议与初创企业估值。
+  📰 [The Diplomatic Insight](https://thediplomaticinsight.com/nvidia-ceo-visits-kazakhstan-physical-ai-hub/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.26] 新浪新闻_手机新浪网 — 宇树科技提示风险：人形机器人行业尚处于商业化早期，若行业商业化落地不及预期，存在估值回归的投资风险**
+  中文：总结：宇树科技发布风险提示公告称，人形机器人行业尚处于商业化早期，若行业商业化落地进度不及预期，存在估值回归的投资风险。 公司股票近期出现异常波动，截至2026年10月26日，滚动市盈率为465.22倍，显著高于通用设备制造业行业平均滚动市盈率38.54倍。 创始人王兴兴在2026世界物理AI大会上表示，物理AI已有被突破迹象，并判断商业服务场景的商业化推进速度将快于家庭端与工业领域。 宇树科技于2026年8月在科创板挂牌上市，发行价为150.8元，上市后其股价经历大幅波动与近期反弹。
+  📰 [新浪新闻_手机新浪网](https://news.sina.cn/gn/2026-10-26/detail-iniwqarn2462757.d.html?oid=akun%20demo%20gacor%E3%80%90pp.bingo%E3%80%91.ghid&vt=4&cid=56261&node_id=56261)
+
+- **[2026.10.26] 新浪军事 — 当埃塞咖啡遇到昆山机器人**
+  中文：总结：埃塞俄比亚广播公司于10月21日刊发由内比尤·温多森撰写的文章，探讨中国在人工智能和技术发展方面的经验对埃塞俄比亚数字化未来的启示。 作者描述了在江苏省昆山市机器人6S店亲眼目睹AI机械臂无需人工协助便能研磨和冲泡埃塞俄比亚咖啡的场景，并提及了中国自2017年起应用于患者的国产人工心脏技术。 文章指出，中国的技术飞跃伴随着坚实的伦理理念与治理框架，即扣好第一颗纽扣。 受中国成功经验的启发，埃塞俄比亚人工智能研究所正效仿并积极构建本国的医疗解决方案与科技伦理框架，以推进数字埃塞俄比亚战略并引导青年成为积极的AI创造者。
+  📰 [新浪军事](https://mil.news.sina.com.cn/2026-10-26/doc-iniwprzs2521542.shtml)
+
+- **[2026.10.26] Sohu — 宇树人形机器人演示失误侧空翻摔倒小腿摔断，前一天发布时展示将车门踢凹，还能在4米高台跃下时完成空翻等动作，主打安保与应急救援场景**
+  中文：总结：10月22日，宇树科技的一台白色人形机器人在进行功夫动作演示时侧空翻失误摔倒，一条机械小腿从连接处脱落掉落垫上。 发生意外的机器人为宇树科技10月21日刚刚发布的H2-X人形机器人，官方命名为“H2-X功夫传奇 守护”，其宣传视频曾展示踢凹车门、徒手抬起汽车及高台跃下等动作，主打安保与应急救援场景，最长续航约8小时。 宇树科技对此事暂未回复新识研究所。
+  📰 [Sohu](https://m.sohu.com/a/1093026002_122045489?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.26] 凤凰网 — 人形机器人 A 股第一股｜宇树科技，具身智能硬核龙头**
+  中文：总结：宇树科技股份有限公司代码为688836，于2026年8月19日在科创板上市，发行价150.80元，发行市盈率219倍，创始人为王兴兴，募资总额42.02亿元。 公司业务分为人形机器人、四足机器人和机器人核心组件三大块。 2025年总营收16.99亿元，其中人形机器人收入8.70亿元，四足机器人收入7.00亿元，组件及其他收入1.00亿元；2025年归母净利润2.78亿元，毛利率60.13%。 2026年上半年营收11.52亿元，同比增长48.54%，归母净利润2.74亿元，扣非净利润2.44亿元，同比下滑19.34%，公司解释扣非下滑原因为行业热度回落、竞争加剧、收入基数变大、降价放量及人形机器人单价持续下行。
+  📰 [凤凰网](https://finance.ifeng.com/c/8xXhXuziGrH)
+
+- **[2026.10.26] ThePaper.cn — 机器人概念股再度走强：宇树科技盘中涨超18%，量产落地与物理AI进展引关注**
+  中文：总结：10月26日，机器人概念股再度走强，宇树科技盘中涨超18%，报收672元，市值2718亿元。 10月22日世界物理AI大会上，王兴兴透露宇树G1人形机器人已有1万至2万台下线，并展示了宇树将GPT-6应用于机器人的视频。 特斯拉在10月22日三季度业绩会上确认Optimus已在弗里蒙特工厂高产能产线上启动早期生产，预计至少需要一年左右将产能提升至每周约2万台，计划2027年底前后启动对外商业交付。 商务部等9部门于10月19日发布《关于加快推进科技兴商的意见》，提出推动具身智能技术在商贸领域落地。 弗若斯特沙利文报告显示，今年上半年全球人形机器人销量达到3.6万台，市场收入达到5.4亿美元，收入排名前五的企业均为中国企业。
+  📰 [ThePaper.cn](https://www.thepaper.cn/newsDetail_forward_34334370)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.26] Dellows News — 未来機械などの墨出しロボットSUMIDASが日本ロボット学会実用化技術賞を受賞**
+  日本語：香川県高松市の株式会社未来機械は、竹中工務店、レンタルのニッケンと共同開発した墨出しロボット「SUMIDAS」により、日本ロボット学会の2026年度第31回「実用化技術賞」を受賞した。 表彰式は2026年9月3日に行われた。 SUMIDASは3次元レーザ測量機で位置を計測しCADデータに基づいて床面に墨出しを行う自走式ロボットであり、竹中工務店が基本特許や試作開発、未来機械が商用機開発と製造、レンタルのニッケンが2023年11月からレンタル事業を展開している。 未来機械の代表取締役社長である三宅徹らは受賞者として名を連ねており、今後は海外市場向けの自社製墨出しロボット「HOKUSAI」の展開なども進められる。
+  中文：总结：香川县高松市株式会社未来机械与竹中工务店、日研租賃株式会社共同开发的划线机器人“SUMIDAS”，获得了日本机器人学会2026年度第31届“实用化技术奖”，表彰式于2026年9月3日举行。 SUMIDAS是一款通过三维激光测量仪计量位置并根据CAD数据在地面自动进行划线作业的自走式机器人系统。 其中竹中工务店负责基本专利发明与试作机开发验证，未来机械负责商用机开发制造，日研租赁自2023年11月起开展租赁业务。 未来机械代表取締役社長三宅彻等人位列获奖者名单中，未来该公司还计划推进面向海外市场的自主产品划线机器人“HOKUSAI”等业务。
+  📰 [Dellows News](https://news.dellows.jp/894247/?from=top_category_area)
+
+- **[2026.10.26] Yahoo!ニュース — 「AIロボット保険」11月発売 国内初、誤作動リスクなどに備え（朝日新聞）**
+  日本語：東京海上日動火災保険は26日、AIを搭載して自律的に動くロボットの誤作動などに備える「AIロボット保険」を11月に発売すると発表した。 国内の損害保険会社で初めて取り扱う。 対象となるのは、センサーやカメラで周囲を判断し動作を制御する「フィジカルAI」を実装した移動式ロボットであり、二足歩行の人型だけでなく四足や車輪で自律移動する機体も含まれる。 補償内容は、ロボットが災害や衝突で壊れた際の修理代、誤作動で被害を与えた場合の損害賠償費用、代わり機体のレンタル費などである。 ただし、サイバー攻撃を受けて生じた損害は補償対象外となる。
+  中文：总结：东京海上日动火灾保险于26日宣布，将于11月推出“AI机器人保险”，以应对搭载AI且自主运行的机器人的误动作等风险，此为日本国内损耗保险公司首次推出该险种。 该保险的对象为通过传感器或摄像头判断周围环境并控制动作、搭载了“物理AI”的移动式机器人，不仅限于双足人形，还涵盖四足或车轮自主移动的机体。 保障内容包括机器人因灾害或碰撞损坏时的修理费、误动作造成损害的赔偿费用以及替代机体的租赁费等。 不过，若因遭受网络攻击而产生损害，则不在补偿范围内。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/47d48898f30004a7ccd8f7055c68da9efd5848f7)
+
+- **[2026.10.26] AIsmiley — JR東日本商事ら3社、AI・IoT・清掃ロボットを活用した駅舎清掃DXの実証実験を実施**
+  日本語：JR東日本、JR東日本商事、ソフトバンクの3社は、赤羽駅を中心にAIやロボットを活用した駅舎清掃DXの実証実験を実施すると発表した。 実証期間は2026年10月27日から2027年1月中旬までで、王子駅、十条駅、東十条駅などの複数駅で行われる。 駅のトイレやごみ箱にIoTセンサーを設置し利用状況や設備状態を把握するほか、二次元コードによる清掃依頼の受付、改札内コンコースの仮設カメラ画像を用いたAIによる汚物検知、トイレ内でのフィジカルAI清掃ロボットによる清掃試験を実施する。 収集したデータを一元的に可視化・管理し、需要連動型・予兆型清掃の実現可能性を検証する。
+  中文：总结：JR东日本、JR东日本商事与软银三家公司宣布，将以赤羽站为中心实施利用AI与机器人的车站大楼清扫DX实证实验。 实证期间为2026年10月27日至2027年1月中旬，在王子站、十条站、东十条站等多个车站进行。 实验内容包括在车站厕所及垃圾桶安装IoT传感器以掌握使用状况与设备状态、利用二维码接受清扫求助、通过检票口内大厅临时安装的摄像头图像利用AI检测污物，以及在厕所内开展物理AI清扫机器人的清扫测试。 各方将对收集的数据进行统一可视化与管理，验证实现需求联动型与预兆型清扫的可能性。
+  📰 [AIsmiley](https://aismiley.co.jp/ai_news/jreast-station-cleaning-dx/)
+
+- **[2026.10.26] ASCII.jp — 三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発**
+  日本語：三菱電機株式会社は10月21日、フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。 自社AI技術「Maisart」を活用したフィジカルAIにより、個別システム構築を行うことなく自然言語指示のみで連動し、製造現場における加工プロセスの省人化を目指す。 同システムは、指示を解析してタスクを自動生成・振り分けを行う「AI加工タスクプランナー」、自然言語で制御情報を伝達する「CNC工作機械」、そして「汎用ヒューマノイドロボット」の3要素で構成される。 同社は2030年の実用化に向けて機能高度化と実証実験を進める方針である。
+  中文：总结：三菱电机株式会社于10月21日宣布，开发出了通过物理AI使人形机器人与CNC工作机械进行无缝联动的高效加工系统。 该系统利用其自身的AI技术“Maisart”所赋能的物理AI，无需构建独立系统，仅通过自然语言指令即可实现联动，旨在推进制造现场加工流程的省人化。 该系统由负责解析指令并自动生成及分配任务的“AI加工任务规划器”、以自然语言传递控制信息的“CNC工作机械”以及“通用人形机器人”这三个要素构成。 该公司计划朝着2030年实现实用化的目标，推进功能升级与实证实验。
+  📰 [ASCII.jp](https://ascii.jp/elem/000/004/445/4445081/)
+
+- **[2026.10.26] ｄメニューニュース — 「囲碁はお好きですか？」 プロ棋士と対戦したのは「AIロボット」 日本初の5人同時対局 平成四天王・山下九段が敗れる波乱も、4勝1敗で人が勝ち越し 新規ファン獲得目指す**
+  日本語：あわら市のあわら温泉「越路」で24日、日本初となるAI搭載ロボットとプロ棋士ら5人による同時対局が開催された。 山森囲碁サロンが新規ファン獲得を目指して企画し、福井市出身の櫻本絢子初段やアマチュア3人がロボットに勝利した一方、「平成四天王」の山下敬吾九段は敗れ、団体戦は4勝1敗で人が勝ち越した。 対局を見守った山森囲碁サロンの柴田恒夫代表は、AIに負けないよう人間力を高めて囲碁を普及させたいと語った。
+  中文：总结：24日在福井县芦原市芦原温泉“越路”，举办了日本首场AI搭载机器人与职业棋手等5人的同时对弈比赛。 该活动由山森围棋沙龙企划，旨在获得新的围棋粉丝。 来自福井市的职业初段樱本绚子以及3名业余棋手战胜了机器人，而被称为“平成四天王”的九段山下敬吾则落败，最终人类以4胜1负的战绩取得优胜。 山森围棋沙龙代表柴田恒夫表示，希望人类能提升自身实力不输给AI，并借此普及围棋。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/amp/article/fbc/region/fbc-2026102601977213)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.27] TradingView — Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot**
+  English: Agility Robotics highlighted commercial momentum for its Digit humanoid robot, announcing an expanded partnership with GXO Logistics to deploy Digit at two additional U. S. facilities in Statesville, North Carolina, and Lebanon, Tennessee, starting in early 2027 using Digit 4 and transitioning to Digit 5. Agility also detailed paid programs with three undisclosed enterprise customers including a major global automaker, an automotive technology developer, and a consumer products manufacturer, alongside an active pipeline of over 30 prospective customers across manufacturing, logistics, and defense. CEO Peggy Johnson scheduled an investor call on October 26, 2026, to discuss the company's commercial progress.
+  中文：总结：Agility Robotics于2026年10月26日宣布其Digit人形机器人商业势头强劲，并将与现有客户GXO物流扩大合作，于2027年初开始在美国北卡罗来纳州斯泰茨ville和田纳西州黎巴嫩的两处新设施部署Digit，初期使用Digit 4并计划过渡到Digit 5。 此外，Agility公布了与三家未具名企业制造客户的付费项目进展，涵盖一家全球大型汽车制造商、一家汽车技术与组件开发商以及一家消费品制造商，其在制造、物流和国防等领域的潜在客户管道超过30家。 公司CEO佩吉·约翰逊于当日主持投资者会议，讨论商业进展与前景。
+  📰 [TradingView](https://www.tradingview.com/news/stocktwits:d62a399b3094b:0-agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot/)
+
+- **[2026.10.27] Data Center Dynamics — Generative Bionics plans AI data center and humanoid robotics factory in Italy**
+  English: Generative Bionics plans to build a 5,000 sqm physical AI data factory in Italy's Liguria region to develop its humanoid robots for industrial settings, with partial operations potentially beginning in Q4 2027. The facility will run on AMD Helios infrastructure and house fleets of its Gene. 01 robots to generate physical data, train action models, and execute digital-twin simulations. Generative Bionics was founded to commercialize research from the Istituto Italiano di Tecnologia and has raised €70 million ($78m) from backers including AMD, which is providing high-performance AI computing infrastructure for the project.
+  中文：总结：机器人公司Generative Bionics计划在意大利利古里亚大区建设一座面积达5,000平方米的物理AI数据工厂，旨在开发用于工业环境的人形机器人，该设施预计最早于2027年第四季度部分投入运营。 该站点将采用AMD Helios基础设施运行，并容纳其Gene. 01机器人舰队以生成物理数据、训练世界动作模型及执行数字孪生模拟。 Generative Bionics旨在将意大利理工学院的物理AI研究商业化，目前已从包括AMD在内的支持者处筹集了€70 million（$78m）资金，AMD将为该项目提供高性能AI计算基础设施。
+  📰 [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/humanoid-robot-factory-ai-data-center-generative-bionics-italy/)
+
+- **[2026.10.26] Rutland Herald — Realbotix Launches Echo Humanoid Robot Line**
+  English: Realbotix Corp. launched its new flagship humanoid robot platform, Echo, designed for companionship, education, and wellness, with initial production limited to 225 Tabletop units and 25 Full Body units for delivery in the second half of 2027. Reservations require a $199 deposit, and units are available exclusively through the company's website. The Echo line includes the Echo Tabletop priced at $11,950 with 17 degrees of freedom and weighing approximately 25 lbs. , and the Echo Full Body priced at $59,950 with 39 degrees of freedom and weighing approximately 88 lbs. Echo robots feature proprietary silicone-based synthetic skin, support over 100 languages, and offer native integration with ChatGPT, Claude, and Gemini, alongside an optional Vinci computer-vision AI upgrade.
+  中文：总结：Realbotix Corp. 推出了其全新的旗舰人形机器人平台Echo，旨在用于陪伴、教育和健康领域，首批产量限制为225台桌面端单元和25台全尺寸端单元，计划于2027年下半年交付。 客户可通过公司网站以$199的押金进行预订。 Echo系列包含定价$11,950、拥有17个自由度且重约25磅的Echo Tabletop桌面型，以及定价$59,950、拥有39个自由度且重约88磅的Echo Full Body全尺寸型。 Echo机器人采用专利硅胶合成皮肤，支持超过100种语言，并原生集成ChatGPT、Claude和Gemini，同时提供可选的Vinci计算机视觉AI升级功能。
+  📰 [Rutland Herald](https://www.rutlandherald.com/news/business/realbotix-launches-echo-humanoid-robot-line/article_e6bb00a0-29b8-5ce0-85f2-bf96868199cb.html)
+
+- **[2026.10.27] AI Insider — GXO, Agility Robotics Expand Digit Humanoid Deployments to Two More U.S. Warehouses**
+  English: GXO Logistics and Agility Robotics are expanding their deployment of Digit humanoid robots to warehouses in Statesville, North Carolina, and Lebanon, Tennessee, in early 2027, building on their existing operations in Georgia where Digit has moved over 100,000 totes. The new deployments will utilize Digit 4 initially before transitioning to Digit 5. Agility reported that Digit has accumulated over 65,000 hours of operation across commercial and customer programs. Additionally, Agility is preparing to go public through a merger with Churchill Capital Corp XI, expected to close in the fourth quarter of 2026 with trading on Nasdaq under the ticker AGLT.
+  中文：总结：GXO物流与Agility Robotics将于2027年初把Digit人形机器人的部署扩展至北卡罗来纳州斯泰茨ville和田纳西州黎巴嫩的仓库，这建立在双方佐治亚州现有运营的基础之上，该处的Digit已搬运超过100,000个周转箱。 新部署初期将使用Digit 4，随后过渡到Digit 5。 Agility报告称，Digit在各项商业和客户项目中已累计运行超过65,000小时。 此外，Agility正准备通过与Churchill Capital Corp XI的合并上市，该交易预计于2026年第四季度完成，合并后的公司预计将在纳斯达克交易，股票代码为AGLT。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/26/gxo-agility-robotics-expand-digit-humanoid-deployments-to-two-more-u-s-warehouses/)
+
+- **[2026.10.25] Global Times — 110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment**
+  English: AgiBot set a Guinness World Record for the most humanoid robots dancing simultaneously as 110 Expedition A3 robots performed synchronized routines using the company's LinkBots cluster-control platform and ultra-wideband positioning technology in Jinan, Shandong Province, on October 24. Following the event, the robots are slated for deployment in cultural performances, public services, research, and education. Industry developments in China include Robotera deploying over 100 parcel-sorting robots across 15 warehouses and DexForce deploying robots at a Lens Technology factory. A Chinese government initiative launched in June aims to develop over 100 high-value application scenarios and build capacity for tens of thousands of robots by the end of 2026, building on production figures showing Chinese companies produced over 40,000 humanoid units in the first half of 2026.
+  中文：总结：10月24日，在中国山东省济南市，智元机器人（AgiBot）旗下的110台远征A3人形机器人利用公司的LinkBots集群控制平台和超宽带定位技术，完成了同步舞蹈表演，创下了最多人形机器人同时跳舞的吉尼斯世界纪录称号。 活动结束后，这些机器人将被部署在文化表演、公共服务、科学研究和教育等场景中。 中国同期的行业进展包括：星动纪元（Robotera）在15个仓库部署了100多台分拣机器人，穹彻智能（DexForce）在蓝思科技工厂部署了机器人。 中国在6月启动了一项实景训练计划，旨在到2026年底前开发100多个高价值应用场景并构建数万台机器人的规模化部署能力，此前官方数据显示中国企业在2026年上半年生产了超过40,000台人形机器人。
+  📰 [Global Times](https://www.globaltimes.cn/page/202610/1372888.shtml)
+
+
+---
+※AI Robot News Digest | 2026.10.27 | full-text items: 20
