@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.10.26（月曜日 / Monday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.24] Interesting Engineering — Robots power US AI foundry lab's push for faster alloy discovery**
+  English: The Department of Materials Science and Engineering at Texas A&M University received a $2 million grant from the WoodNext Foundation to build the Aggie AI Foundry, a first-of-its-kind self-driven research lab. Conceived by professors Raymundo Arróyave and Ibrahim Karaman, the fully automated facility will combine artificial intelligence and robotic workers to accelerate the discovery and development of new metal alloys. Computer-controlled robotic arms will function in an assembly line, taking samples from a wall cabinet of elements from the entire periodic table to mix, melt, and test materials based on directions from a trained AI brain. The automated processes are expected to reduce alloy development time from months to a week or less. Arróyave noted that while computers can predict some behaviors, no computational tool can predict alloy behavior without physical testing on actual materials. The lab aims to perform trillions of mixing combinations across dozens of elements, helping scientists explore possibilities at an unprecedented scale, while freeing students from laborious tasks to focus on creative science.
+  中文：总结：得克萨斯农工大学材料科学与工程系获得了WoodNext Foundation提供的$2 million资助，用于建造名为Aggie AI Foundry的首个同类全自主研究实验室。 该全自动化设施由该系教授Raymundo Arróyave和Ibrahim Karaman构想，将结合人工智能与机器人工人，以加速新金属合金的发现与开发。 受过训练的人工智能大脑将指导计算机控制的机械臂在流水线上运作，从包含整个元素周期表元素的壁柜中取样，对材料进行混合、熔炼和测试。 这些自动化过程预计将合金开发时间从数月缩短至一周甚至更短。 Arróyave指出，虽然计算机可以预测某些行为，但在不对实际材料进行物理测试的情况下，没有任何计算工具能够预测合金的行为。 该实验室旨在对数十种元素进行数万亿种混合组合测试，帮助科学家以空前规模探索各种可能，同时将学生从繁重的手工任务中解放出来，专注于更具创造性的科学研究。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-foundry-lab-robots-alloy-discovery)
+
+- **[2026.10.24] Startup Fortune — Boston Dynamics workers petition against ICE deal for Spot robots**
+  English: In early September, nearly 300 Boston Dynamics employees signed an internal petition asking company leadership to cancel a $1.3 million robot sale tied to Immigration and Customs Enforcement (ICE). Boston Dynamics builds quadruped Spot robots capable of climbing stairs, opening doors, and performing backflips. ICE finalized the $1.3 million contract in September through Connecticut-based reseller Radeco to acquire four Spot units equipped with a robotic arm, thermal camera, and sensors to detect radiation and explosives for searching border tunnels, crawl spaces, and closets. Employees argued the sale links the company directly to an agency sowing fear across immigrant communities, though nearly half of the signatures were anonymous among the company's 1,500 employees. Boston Dynamics defended the contract by stating it runs through ICE's Homeland Security Investigations division, which targets transnational crime rather than detention and deportation, and asserted that the robot helps keep people safe. The contract complies with a 2022 joint pledge by robotics makers not to weaponize general-purpose robots while permitting surveillance, inspection, and reconnaissance use. In May, employee pressure led the company to cancel a separate sale to a police equipment supplier wanting to attach flash-bang grenades to a Spot unit.
+  中文：总结：9月初，近300名波士顿动力公司员工签署了一份内部请愿书，要求公司领导层取消一笔与美国移民和海关执法局（ICE）有关的$1.3 million机器人销售订单。 波士顿动力公司制造能够爬楼梯、开门和后空翻的四足Spot机器人。 ICE于9月通过总部位于康涅狄格州的转售商Radeco敲定了这笔$1.3 million的合同，采购了4台配备机械臂、热成像仪以及用于检测辐射和爆炸物的传感器的Spot机器人，供国土安全调查局特工在边境搜查隧道、狭窄空间和壁橱。 员工在请愿中辩称，此项销售使公司与在移民社区制造恐惧的机构直接产生联系，尽管在公司1,500多名员工中，近半数的签名是匿名的。 波士顿动力公司为该合同进行辩护，称该合同是通过ICE负责打击跨国犯罪的国土安全调查局而非拘留和驱逐部门进行的，并表示该机器人有助于保障人们的安全。 该合同符合机器人制造商在2022年签署的联合承诺，即不将通用机器人武器化，同时允许将其用于监视、检查和侦察。 今年5月，员工的压力曾促使该公司取消了向一家希望将震爆弹装到Spot机器人上的警察设备供应商出售机器人的计划。
+  📰 [Startup Fortune](https://startupfortune.com/boston-dynamics-workers-petition-against-ice-deal-for-spot-robots/)
+
+- **[2026.10.24] Mashable — Robot companies, like Boston Dynamics, sign pledge to not have their products turned into weapons**
+  English: Several robotics companies, including Boston Dynamics, Agility Robotics, ANYbotics, Clearpath Robotics, Open Robotics, and Unitree Robotics, signed an open letter pledging not to weaponize their advanced-mobility general-purpose robots or the software enabling them. The companies stated that adding weapons to remotely or autonomously operated robots accessible to the public creates serious ethical issues and risks of harm, and they committed to reviewing customer applications to prevent weaponization. However, the pledge specifies general-purpose robots, leaving room for military-specific machines, and notable companies producing armed robot dogs did not sign.
+  中文：总结：包括Boston Dynamics、Agility Robotics、ANYbotics、Clearpath Robotics、Open Robotics和Unitree Robotics在内的多家机器人公司共同签署了一封公开信，承诺不将其先进移动通用机器人或相关软件武器化。 这些公司在信中表示，为公众可接触的远程或自主操作机器人添加武器会带来严重的道德问题和伤害风险，并承诺审查客户应用以避免潜在的武器化。 不过，该承诺明确针对通用机器人，为专门制造军用机器人留出了空间，且生产武装机器狗的公司并未签署该承诺。
+  📰 [Mashable](https://mashable.com/article/robot-companies-pledge-no-weapons)
+
+- **[2026.10.24] Global Brands Magazine — NVIDIA Cosmos: 3 Powerful Wins for Smart Physical AI**
+  English: NVIDIA expanded its physical AI platform, NVIDIA Cosmos, in October 2026 with new world models and training tools designed to help machines understand physical environments like gravity, friction, and momentum. The bundle combines world-generation models with reasoning and action models, offering code, model checkpoints, synthetic datasets, and evaluation benchmarks. It includes the high-accuracy Super tier, faster Nano tier, and Edge tier for real-time inference. Released under an open licence, the platform aims to reduce the time and cost of teaching machines to operate safely in physical sectors such as warehousing, factories, agriculture, and transport.
+  中文：总结：NVIDIA在2026年10月通过全新的世界模型和训练工具扩展了其物理AI平台NVIDIA Cosmos，旨在帮助机器理解重力、摩擦力和动量等物理环境。 该平台将世界生成模型与推理和动作模型相结合，提供代码、模型检查点、合成数据集和评估基准。 它包含高精度的Super层、更快的Nano层以及用于实时推理的Edge层。 该平台在开放许可下发布，旨在降低在仓储、工厂、农业和运输等实体领域中教导机器安全运行的时间和成本。
+  📰 [Global Brands Magazine](https://www.globalbrandsmagazine.com/nvidia-cosmos-world-models/)
+
+- **[2026.10.24] WBUR — ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'**
+  English: Dozens of Boston Dynamics employees signed a petition urging the company to cancel the sale of its AI-powered Spot robot dogs to U. S. Immigration and Customs Enforcement. The Department of Homeland Security planned the purchase in late August, and a $1.3 million contract for four robot dogs and related technology was settled in September. Employees argued the deal harms the company's image and associates them directly with an agency that instills fear, while ICE stated the robots provide real-time situational awareness in hazardous environments without replacing human judgment. Boston Dynamics interim CEO Amanda McMaster informed employees that the company is standing by its decision, noting that customers must comply with terms prohibiting weaponization or harm.
+  中文：总结：数十名Boston Dynamics员工签署了一份请愿书，敦促公司取消向美国移民和海关执法局销售其人工智能驱动的Spot机器狗的交易。 国土安全部于8月下旬计划了这笔采购，并在9月敲定了价值130万美元、包含四台机器狗及相关技术的合同。 员工们认为这笔交易损害了公司形象，使他们直接与一个制造恐惧的机构联系在一起，而ICE则表示这些机器人能在危险环境中提供实时态势感知，且不会取代人类判断。 Boston Dynamics临时首席执行官阿曼达·麦克马斯特（Amanda McMaster）通知员工，公司坚持该决定，并指出客户必须遵守禁止武器化或伤害用途的条款。
+  📰 [WBUR](https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.26] 文学城 — 中国留学生德国打工期间死亡 遭升降机器人夹颈**
+  中文：总结：一名24岁的中国留学生在德国打工期间于10月13日深夜遭遇致命事故身亡。 事件发生在德国不来梅Neustädter Hafen港区Senator-Blase-Straße街道的一座高架仓库内，当时该男子正在维修仓库自动化设备。 在对一台仓库升降机器人进行维护时，这名年轻人被困在机器内部，颈部受到严重伤害。 现场同事立即实施急救，但最终确认当场死亡。 德国刑事警察部门已介入调查事故具体原因，同时当地中国留学生群组及网络讨论对仓库的工作安全、缺乏防坠落保护以及登高设备使用限制等问题表达了担忧。
+  📰 [文学城](https://www.wenxuecity.com/news/2026/10/25/126815709.html)
+
+- **[2026.10.25] 汽车之家 — 宇树机器人徒手抬汽车、炒菜机器人加速去上岗，生活越来越魔幻了**
+  中文：总结：宇树科技发布了一款名为“H2-X 功夫传奇 守护”的人形机器人，续航时间约8小时，可踢凹汽车车门并徒手抬起汽车。 与此同时，央视新闻展示了炒菜机器人精准烹饪回锅肉、红烧肉等菜品的应用场景，这些机器人依托视觉感知系统和智能决策大脑，加速在连锁餐厅和校园食堂落地上岗。 此外，国家统计局公布了9月份分年龄组失业率数据，其中16至24岁劳动力失业率为18.0%，环比下降0.9个百分点；25至29岁劳动力失业率为7.4%，环比下降0.1个百分点；30至59岁劳动力失业率为3.9%，环比持平。
+  📰 [汽车之家](https://chejiahao.autohome.com.cn/info/26728868)
+
+- **[2026.10.25] 中华网 — 宇树正开发AI系统让机器人自我改进 迈向自进化时代**
+  中文：总结：在杭州举行的2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技董事长王兴兴表示，随着GPT-6的发布，物理AI有望在未来1-3年内实现突破。 王兴兴透露，宇树科技正在研发“物理AI机器人自进化V1.0”大模型，旨在建立能够自主搜索论文、编写代码、在仿真环境中训练并在真实环境中测试的正向循环。 自2024年5月发布以来，宇树G1人形机器人已累计生产约1万至2万台。 产业方面，上半年我国人形机器人整机产量超过4万台，预计全年将突破10万台，全球人形机器人销量达到3.6万台，收入前五名全部由中国企业占据。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20261025/49816031.html)
+
+- **[2026.10.24] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
+  中文：总结：宇树科技于8月10日正式开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，预计募集资金总额约60.99亿元，对应上市时市值约60.993亿元。 网上发行最终中签率为0.01809759%，募集资金将用于智能机器人模型研发、本体研发、新产品开发及制造基地建设。 创始人王兴兴合计持股比例超33%，美团、小米、腾讯、阿里、字节等互联网大厂及国资基金参与投资。 此次上市标志着A股具身智能赛道首次出现可验证的估值锚点，人形机器人产业从叙事驱动进入分层定价阶段。
+  📰 [财联社](https://www.cls.cn/detail/2450388)
+
+- **[2026.10.24] 新浪财经 — 宇树机器人侧空翻表演甩断腿，系新发布的H2-X人形机器人**
+  中文：总结：画面中，一台白色人形机器人正在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧摔在地，一条机械小腿从连接处脱落，掉落在一旁的黑色地垫上。 据了解，发生意外的机器人为宇树科技10月21日刚刚发布的H2-X人形机器人，官方命名为“H2-X 功夫传奇 守护”。 此前，官方宣传视频展示了该机器人踢凹汽车车门、徒手抬起汽车，以及从约4米高台跃下完成空翻等动作，主要面向安保与应急救援场景，最长续航约8小时。 截至目前，宇树科技未对此事进行说明。
+  📰 [新浪财经](https://finance.sina.com.cn/tob/2026-10-24/doc-iniwicvn8029436.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.26] ASCII.jp — 三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発**
+  日本語：三菱電機株式会社は10月21日、フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。 製造現場での深刻な人手不足に伴い、材料設置や清掃、検査などの自動化が求められる一方で、ロボット導入における個別通信・制御プログラミングの構築が課題となっていた。 新システムは、指示を解析してタスクを自動生成・振り分けする「AI加工タスクプランナー」、自然言語で制御情報を伝達する「CNC工作機械」、そして「汎用ヒューマノイドロボット」の3要素で構成される。 これにより、高度なシステムインテグレーションを経ずにオペレーターの簡単な指示だけで一連の加工作業を実行・管理できるという。 同社は2030年の実用化に向けて機能高度化と実証実験を進め、完全無人化工場の実現を目指す方針である。
+  中文：总结：三菱电机株式会社于10月21日宣布，开发出通过具身智能使人形机器人与CNC工作机械无缝协同的加工系统。 面对制造现场严峻的人手不足，材料设置、机械清扫及检查等作业的自动化需求迫切，但传统机器人接入时需要针对不同机型单独构建通信和控制编程。 该系统由负责解析指令并自动生成及分配任务的“AI加工任务规划器”、通过自然语言传递控制信息的“CNC工作机械”以及“通用人形机器人”三要素构成。 操作员无需进行高度系统集成，仅凭简单指示即可执行和管理加工任务。 该公司计划推进功能升级与实证试验，以期在2030年实现实用化并达成完全无人化工厂的目标。
+  📰 [ASCII.jp](https://ascii.jp/elem/000/004/445/4445081/)
+
+- **[2026.10.24] Ubergizmo JAPAN — 川崎重工、船体を登って溶接する四足歩行ロボットを公開**
+  日本語：川崎重工業は、電磁石で鋼板の船体に張り付いて点検や溶接を行う四足歩行のプロトタイプロボットを公開した。 サイズは60×44×29センチメートルで、カメラとセンサーで継ぎ目を確認して溶接が必要かを判断する。 背景には熟練溶接技術者の不足や猛暑下での生産維持がある。 2027年に香川県の坂出製作所で実証試験を行い、2028年頃の実用化を目標としている。
+  中文：总结：川崎重工公开了一种四足步行机器人原型，旨在通过电磁铁吸附在钢板船体上进行检查和焊接。 其尺寸为60×44×29厘米，利用摄像头和传感器确认接缝并判断焊接需求。 此举的背景是熟练焊接技术人员的短缺以及在盛夏酷暑下维持生产的需求。 计划于2027年在香川县的坂出制作所进行实证试验，目标是在2028年前后投入实际应用。
+  📰 [Ubergizmo JAPAN](https://jp.ubergizmo.com/2026/10/24/27171/)
+
+- **[2026.10.24] Dellows News — ミスミのmeviyマーケットプレイスを日本信号が高所作業ロボット開発に導入**
+  日本語：日本信号株式会社は、高所作業ロボット「ZIZAI」の部品調達プロセスにおいて、ミスミグループ本社の製造業マーケットプレイス「meviy（meviy）マーケットプレイス」を導入した。 これにより、約2週間かかっていた見積もり回答が最短1日になり、顧客からの要望から提案までの期間が6カ月から3カ月へ半減した。 さらに、板金・切削・樹脂などの加工部品をまとめて発注できるようになり、管理の手間が削減された。
+  中文：总结：日本信号株式会社在高空作业机器人“ZIZAI”的零件采购流程中，引入了株式会社米思米集团总部提供的制造业务市场“meviy（meviy）マーケットプレイス”。 通过该平台，原本需要约两周的报价回复缩短至最快一天，从客户提出需求到给出方案的周期由六个月减半至三个月。 此外，钣金、切削、树脂等加工零件得以在平台上统一订购，减少了管理工作量。
+  📰 [Dellows News](https://news.dellows.jp/766048/)
+
+- **[2026.10.23] PR TIMES — エクソスケルトン型ロボットスーツ「Keeogoメディカル」日本国内における「管理医療機器」認証を取得**
+  日本語：パシフィックサプライ株式会社は、エクソスケルトン型ロボットスーツ「Keeogoメディカル」について、日本国内における医薬品医療機器等法に基づく「管理医療機器（クラスⅡ）」の認証を取得した。 これにより、全国の医療機関やリハビリテーション施設等に向けた医療機器としての提供および導入支援を開始する。 本装置はセンサーで患者の動きを検知し、膝モーターによって歩行や立ち上がりなどの下肢運動を補助する。
+  中文：总结：太平洋供应株式会社宣布，其外骨骼型机器人套装“Keeogoメディカル”已在日本国内根据医药医疗器械等相关法律取得“管理医疗机器（Ⅱ类）”认证。 随着此次认证的取得，公司将开始向全国的医疗机构及康复设施等提供医疗器械并支持其引进。 该装置通过传感器检测患者的动作，并利用膝部电机辅助步行及站立等下肢运动。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000049.000132758.html)
+
+- **[2026.10.23] Yahoo!ニュース — “ロボットが合わせる工場”を目指す三菱電機、“フィジカルAIの耳”も披露（MONOist）**
+  日本語：三菱電機は「CEATEC 2026」において、現実に使えるフィジカルAIに向けた各種技術を紹介した。 その一つである「タスク汎用音源分離技術（TUSS）」は「CEATEC AWARD 2026」の総務大臣賞を受賞した。 この技術は、マイクで収音した混合音から単一のAIモデルを用いてプロンプトで指示した目的の音声を分離・抽出できるのが特徴であり、工場での話者音声抽出や設備異常音の把握などへの応用が想定されている。
+  中文：总结：三菱电机在“CEATEC 2026”上介绍了面向实际可用物理AI的各项技术。 其中，“任务通用音源分离技术（TUSS）”获得了“CEATEC AWARD 2026”的总务大臣奖。 该技术的特点在于能够使用单一AI模型，从麦克风收集的混合声音中通过提示词指令分离并提取目标语音，预计可应用于工厂中的说话者语音提取以及设备异常声音的识别等。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/2779d00a8c420e6b6311635f441399c5f7125501)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.26] A3 Association for Advancing Automation — AGCO's Humanoid Robot Pilot Puts the Focus on Factory Work, Not Robot Demos**
+  English: Agricultural equipment manufacturer AGCO has announced a commercial agreement with Agility Robotics to pilot the Digit humanoid robot at its Hesston, Kansas manufacturing facility, starting in 2027. The program will focus on straightforward material-handling tasks such as parts sorting, stacking materials, and placing totes into storage. AGCO director of manufacturing technology Thomas Enghof stated that the initiative aims to improve operational efficiency and ergonomics while allowing employees to focus on skilled assignments. While AGCO evaluates whether Digit can perform repetitive tasks economically, Agility is also expanding its industrial customer base through relationships with GXO Logistics, Toyota, and Schaeffler.
+  中文：总结：农业装备制造商AGCO与Agility Robotics于10月20日宣布了一项商业协议，计划于2027年在其位于堪萨斯州黑斯顿的制造工厂试用Agility的Digit人形机器人。 该项目最初将专注于零件分类、堆叠材料以及将周转箱放入存储区等物料搬运任务。 AGCO制造技术总监托马斯·英格霍夫表示，此举旨在提升运营效率并改善人体工学，同时让员工专注于更具技术性的工作。 在AGCO评估Digit是否能以经济高效的方式执行重复性制造任务的同时，Agility也通过与GXO Logistics、丰田和舍弗勒的合作扩大了其工业客户基础。
+  📰 [A3 Association for Advancing Automation](https://www.automate.org/robotics/industry-insights/agcos-humanoid-robot-pilot-puts-the-focus-on-factory-work-not-robot-demos)
+
+- **[2026.10.26] https://mikekalil.com/ — Tesla’s Optimus Enters Mass Production But…**
+  English: Tesla is scaling production of its Optimus humanoid robot, with early manufacturing underway on a high-volume line at its Fremont, California factory designed for an annual capacity of 1 million robots, requiring a rate of 20,000 units per week. Construction has also started on a second Optimus factory in Austin with a planned annual capacity of 10 million robots. Tesla CEO Elon Musk expects design, AI, reliability, and usage life issues to be resolved around the end of next year, with deliveries to outside companies to follow. Additionally, Tesla is developing Optimus with a network of suppliers, including Chinese automotive parts companies Tuopu Group, Sanhua Intelligent Controls, and Joyson Electronics.
+  中文：总结：特斯拉正在扩大其Optimus人形机器人的生产规模，早期生产已在其加利福尼亚州弗里蒙特工厂的高产量生产线上启动。 该生产线旨在支持每年100万台机器人的产能，这需要达到每周2万台的速率。 奥斯汀第二座Optimus工厂的建设也已开始，计划年产能为1000万台。 特斯拉CEO埃隆·马斯克预计，人工智能、机电设计、可靠性以及使用寿命等问题将在明年年底左右得到解决，届时将向特斯拉以外的公司交付Optimus。 此外，特斯拉正借助由中国汽车零部件供应商（包括拓普集团、三花智控和均胜电子等）组成的供应链网络来开发Optimus。
+  📰 [https://mikekalil.com/](https://mikekalil.com/blog/tesla-optimus-mass-production/)
+
+- **[2026.10.25] HousingWire — Figure AI Loan Assistant Targets Abandonment & Mortgage Growth**
+  English: Figure CEO Michael Tannenbaum discussed how technology and product expansion are helping mortgage lenders navigate a challenging rate environment during a conversation with HousingWire. Figure has developed the Figure AI loan assistant with Sierra, which acts as a loan officer assistant to support borrower engagement and has increased conversion by twenty percent. Tannenbaum noted that loan abandonment in home equity is about 49 percent, a challenge the AI assistant addresses through borrower outreach. Furthermore, Figure's origination process averages nine days, which includes a three-day government-mandated rescission period.
+  中文：总结：Figure首席执行官迈克尔·坦嫩鲍姆在与HousingWire的对话中探讨了技术和产品拓展如何帮助抵押贷款机构应对充满挑战的利率环境。 Figure与Sierra合作开发了Figure AI贷款助手，该助手充当信贷员助理以支持借款人互动，并将转化率提高了百分之二十。 坦嫩鲍姆指出，房屋净值贷款中的放弃率约为49 percent，AI助手通过借款人外呼来解决这一挑战。 此外，Figure的贷款发起流程平均需要九天，其中包括政府强制规定的三天撤销期。
+  📰 [HousingWire](https://www.housingwire.com/videos/figure-ai-mortgage-growth/)
+
+- **[2026.10.25] Global Times — Unitree's newly unveiled humanoid robot stumbles at demo, drawing mixed reactions on Chinese social media**
+  English: Unitree's newly unveiled H2-X humanoid robot stumbled and lost part of a leg during a kung fu demonstration at the 2026 World Physical AI Conference in Hangzhou, Zhejiang Province. The incident sparked mixed social media reactions on Sina Weibo, with some users calling for improved mechanical design and motion algorithms, while others viewed glitches as natural during technological progress. The H2-X was unveiled a day prior for security and emergency rescue applications. During the same conference, Unitree founder and CEO Wang Xingxing discussed physical artificial intelligence breakthroughs, and Unitree's shares rose 20 percent on October 23, closing at 624 yuan ($93.55) per share with a market capitalization of approximately 252.38 billion yuan.
+  中文：总结：宇树科技新发布的人形机器人H2-X在浙江杭州举办的2026世界具身智能大会的一场功夫演示中出现踉跄并摔掉了一部分腿。 该事件在社交媒体平台新浪微博上引发了褒贬不一的反应，一些用户呼吁改进机械设计和运动算法，而另一些用户则认为技术进步过程中出现小故障是自然的。 H2-X于前一天发布，旨在用于安防和应急救援应用。 在同一会议上，宇树科技创始人兼CEO王兴兴讨论了具身智能的突破，宇树的股价在10月23日上涨了20 percent，收盘报每股624元（$93.55），公司市值约为25238亿元。
+  📰 [Global Times](https://www.globaltimes.cn/page/202610/1372914.shtml)
+
+- **[2026.10.23] Fortune — Washington's robot curbs could slash the U.S.'s humanoid robotics revenue by 58%, as companies lose access to China**
+  English: Washington's trade restrictions, including the FCC adding foreign-produced advanced robotic devices to its Covered List, could leave the U. S. humanoid robotics market nearly 60 percent smaller by 2030, according to International Data Corporation (IDC). The restrictions block new models from obtaining import and sales authorization, creating supply chain challenges for U. S. startups reliant on China and other non-U. S. manufacturers. IDC projects over $6 billion in lost revenue by the end of the decade, lowering the sector's annual growth rate to about 9 percent. Meanwhile, global shipments continue to grow, with Chinese vendors like Unitree and AGIBOT accounting for roughly 95 percent of global humanoid shipments.
+  中文：总结：根据国际数据公司（IDC）的预测，华盛顿的贸易限制（包括美国联邦通信委员会将外国生产的高级机器人设备列入清单）可能使美国的人形机器人市场到2030年缩小近60 percent。 这些限制阻止了新型号获得进口和销售授权，给依赖中国及其他非美国制造商的美国初创企业带来了供应链挑战。 IDC预计到本十年末将损失超过$6 billion的收入，使该行业的年增长率降至约9 percent。 与此同时，全球出货量继续增长，以宇树科技和智元机器人等为代表的中国供应商约占全球人形机器人出货量的95 percent。
+  📰 [Fortune](https://fortune.com/2026/10/23/fcc-robot-ban-humanoid-revenue-idc/)
+
+
+---
+※AI Robot News Digest | 2026.10.26 | full-text items: 20
