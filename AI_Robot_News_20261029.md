@@ -1,0 +1,120 @@
+# 🤖 AI Robot News | 2026.10.29（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.10.29] CleanTechnica — Boston Dynamics Workers Protest Use Of Robot Dogs By ICE**
+  English: Hundreds of Boston Dynamics employees expressed strong opposition after discovering that four of the company's robot dogs were acquired by US Immigration and Customs Enforcement for $1.3 million. The four machines, modified with a robotic arm, thermal camera, and explosive detection sensors, were sold via RADeCO under the trade name Cerebus, with Boston Dynamics providing direct technical support. In a letter to top executives, employees warned that the deal damages the company's reputation and workforce morale. In response, Boston Dynamics stated that the robots are intended to keep people safe and that the Department of Homeland Security must adhere to terms prohibiting weaponization or use for harm or intimidation.
+  中文：总结：在发现美国移民和海关执法局以1.3 million美元收购了四只波士顿动力公司的机器人狗后，数百名该公司员工表达了强烈反对。 这四台机器经过改装，配备了机械臂、热成像仪和爆炸物传感器，是通过一家名为RADeCO的公司以Cerebus商品名出售的，波士顿动力公司则直接提供技术支持。 员工在写给高管的信中警告称，这笔交易损害了公司的声誉和员工士气。 作为回应，波士顿动力公司发表声明称，这些机器人的目的是保障人员安全，国土安全部必须遵守禁止将机器人武器化或用于伤害和恐吓的条款。
+  📰 [CleanTechnica](https://cleantechnica.com/2026/10/28/boston-dynamics-workers-protest-use-of-robot-dogs-by-ice/)
+
+- **[2026.10.28] SPACInsider — Podcast: Agility and Churchill Capital XI (CCXI) Chart a Path for Humanoid Robotics**
+  English: Agility Robotics Chief Financial Officer Michael Beer and Chief Business Officer Daniel Diez discussed the company's $2.5 billion business combination with Churchill Capital Corp. XI in a podcast interview. The executives detailed how Agility's pricing models help deploy Digit robots quickly to customers, while discussing current applications and how the next-generation Digit 5 models will expand capabilities. The podcast noted that forward-looking statements regarding Agility's technology, commercial operations, and financial outlook involve risks and uncertainties, including scaling production challenges and customer adoption, as detailed in SEC filings by CCXI.
+  中文：总结：Agility Robotics首席财务官Michael Beer和首席业务官Daniel Diez在一档播客访谈中讨论了该公司与Churchill Capital Corp. XI价值2.5 billion美元的业务合并。 高管们详细介绍了Agility的定价模式如何帮助客户快速部署Digit机器人，同时探讨了当前的应用场景以及下一代Digit 5型号将如何进一步扩展功能。 播客指出，关于Agility的技术、商业运营和财务前景的前瞻性声明涉及风险和不确定性，包括生产规模扩大挑战和客户采用情况，相关内容已在CCXI向美国证券交易委员会提交的文件中详细说明。
+  📰 [SPACInsider](https://www.spacinsider.com/news/podcasts-and-webinars/podcast-agility-churchill-capital-xi-ccxi-chart-path-humanoid-robotics)
+
+- **[2026.10.28] Simply Wall Street — 3 US Robotics Stocks Retail Investors Are Watching As Automation Spending Rises**
+  English: Driven by energy costs and inflation, US companies are turning to automation, AI, and robotics, providing growth opportunities for US small-cap robotics stocks like Powerus, Xtend AI Robotics, and Kodiak AI. Powerus builds autonomous air and maritime systems with a market cap of US$313 million and operates at an early revenue base, backed by forecast top-line expansion above 80% per year and new government orders. Xtend AI Robotics has a market cap of US$450 million, generating about US$23.7 million from Software & Programming across multiple regions, driven by its XOS operating system and AI Pilots software for defense and security missions. Kodiak AI develops autonomous trucking platforms and related services with a market cap of US$225 million, generating about US$7.2 million entirely from the United States, aiming to scale driverless freight corridors in harsh industrial environments.
+  中文：总结：受能源成本和通货膨胀推动，美国企业加速向自动化、人工智能和机器人技术转型，使Powerus、Xtend AI Robotics和Kodiak AI等美国小型机器人股票受益。 Powerus市值达US$313 million，构建自主空中和海事系统，目前处于早期次规模营收阶段，预期顶线扩张每年超过80%并获得新的政府订单。 Xtend AI Robotics市值达US$450 million，软件与编程业务产生约US$23.7 million的收入，分布于美国、以色列、亚太、欧洲中东非洲及新加坡，凭借XOS操作系统和AI Pilots软件服务于国防与安全任务。 Kodiak AI市值达US$225 million，从事自主车辆技术开发及相关服务并产生约US$7.2 million收入，全部源自美国，致力于在恶劣工业环境中扩展全天候无人驾驶货运走廊。
+  📰 [Simply Wall Street](https://simplywall.st/stocks/us/capital-goods/nyse-xtnd/xtend-ai-robotics/news/3-us-robotics-stocks-retail-investors-are-watching-as-automa)
+
+- **[2026.10.28] The Korea Herald — Nvidia's Madison Huang returns to Seoul amid physical AI push**
+  English: Nvidia's senior director of product marketing for Omniverse and robotics, Madison Huang, is expected to visit Seoul next month to attend Nvidia AI Day Seoul 2026 at Coex on November 9-10. This visit, her fourth to Korea this year, underscores Nvidia's deepening engagement with Korean robotics and manufacturing sectors. During the event, Nvidia AI Day Seoul will feature 15 sessions on physical AI, agentic AI, and AI infrastructure, followed by technical workshops and startup networking with about 20 participating partner companies including Samsung, SK hynix, LG Electronics, and Naver Cloud. Nvidia is expanding Korean partnerships beyond semiconductors and AI infrastructure into robotics, autonomous driving, and factory automation. Recent developments include LG Group signing an agreement in August covering robotics, AI factories, and future mobility with humanoid robots, Doosan Group developing an agentic robot operating system using Nvidia technology, and Hyundai Motor Group planning to build an AI factory powered by 50,000 Nvidia GPUs.
+  中文：总结：英伟达Omniverse与机器人产品营销高级总监、首席执行官黄仁勋之女Madison Huang预计将于下月访问首尔，出席11月9日至10日在首尔南部Coex举行的2026首尔英伟达人工智能日。 此次访问是她今年第四次访问韩国，凸显了英伟达对韩国机器人和制造领域的日益深入参与。 活动期间，首尔英伟达人工智能日将举办15场关于具身智能、智能体人工智能和人工智能基础设施的会议，随后进行技术研讨会和初创企业交流，约有20家三星、SK海力士、LG电子和Naver Cloud等合作企业参与。 英伟达正将其在韩国的合作伙伴关系从半导体和人工智能基础设施扩展到机器人、自动驾驶和工厂自动化。 近期进展包括LG集团于8月签署涵盖机器人、人工智能工厂及未来移动出行包括人形机器人的协议，斗山集团正使用英伟达技术开发智能体机器人操作系统，现代汽车集团则计划建造由50,000个英伟达GPU驱动的人工智能工厂。
+  📰 [The Korea Herald](https://www.koreaherald.com/article/10917506)
+
+- **[2026.10.28] Global Brands Magazine — NVIDIA Cosmos: 3 Powerful Wins for Smart Physical AI**
+  English: Nvidia widened its NVIDIA Cosmos platform in October 2026 with fresh world models and training tools designed to simulate physical environments like gravity, friction, and momentum so companies can train and test machines. NVIDIA Cosmos is a bundle pairing world-generation models with reasoning and action models, alongside code, model checkpoints, synthetic datasets, and an evaluation benchmark. The family includes the high-accuracy Super tier for post-training robotics and autonomous vehicles, the faster Nano tier, and the Edge tier for real-time inference. The October update added newer world models and optimisation tools requiring less compute, alongside simulation checkpoints for driving and robotic-manipulation scenarios under an open licence through public repositories. These tools impact physical sectors such as warehousing, factory lines, ports, last-mile delivery, agriculture, and passenger transport, while Nvidia also launched a Cosmos Coalition of robotics and AI partners.
+  中文：总结：英伟达于2026年10月通过全新的世界模型和训练工具扩展了NVIDIA Cosmos平台，这些模型旨在模拟重力、摩擦力和动量等物理环境，以便企业训练和测试机器。 NVIDIA Cosmos是一个将世界生成模型与推理和动作模型相结合的软件包，并附带代码、模型检查点、精选合成数据集和评估基准。 该系列包括用于后训练机器人和自动驾驶车辆的高准确度Super层、更快的Nano层以及用于实时推理的Edge层。 10月的更新通过公共存储库在开源许可下添加了需要较少计算更新的世界模型和优化工具，以及用于驾驶和机器人操作场景的仿真检查点。 这些工具影响了仓储、生产线、港口、最后一英里交付、农业和客运等实体行业，同时英伟达还推出了由机器人和人工智能伙伴组成的Cosmos联盟。
+  📰 [Global Brands Magazine](https://www.globalbrandsmagazine.com/nvidia-cosmos-world-models/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.10.29] finance.sina.com.cn — 4200平方米，宇树要在钱塘江畔建一个“机器人练手场”**
+  中文：总结：宇树科技创始人王兴兴10月22日在钱塘江畔举行的2026世界物理AI大会暨宇树合作伙伴生态大会上展示了一台机器人在画布上画画的视频，并指出具身智能最大的瓶颈是AI模型的输入输出与真实机器人的对齐程度不高。 大会举行前不久，4200平方米的“钱塘区—宇树新质生产力创新实验基地”在高创World产业园落地。 钱塘新区管委会、宇树科技、上海索辰信息科技、中国计量大学和浙江图岳控股五方代表参与签约共建该基地。 该产业园底部用于小试生产，中部用于研发实验，顶部用于行政办公，成为机器人的试验场。 2025年，钱塘区规上工业总产值突破4000亿元。 宇树将把机器人上下游测试团队、应用方和商业化机会引到钱塘区。 索辰科技提供具身智能虚拟训练平台，中国计量大学参与产业标准化项目，图岳控股负责市场化运营，基地计划于2027年春节前正式投入运营。
+  📰 [finance.sina.com.cn](https://finance.sina.cn/stock/jdts/2026-10-28/detail-iniwuzmq3250657.d.html?oid=800&vt=4&cid=76993&node_id=76993)
+
+- **[2026.10.28] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
+  中文：总结：宇树科技于8月10日正式开启首次公开发行股票申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为60.99亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，网上发行最终中签率为0.01809759%，中签结果于8月12日揭晓。 宇树科技预计募集资金总额约60.99亿元，主要用于智能机器人模型研发、机器人本体研发、新型智能机器人产品开发以及智能机器人制造基地建设等项目。 发行前创始人王兴兴合计持股比例超33%。 公司投资名单中聚集了互联网大厂、VC/PE机构及国资，其中美团持股9.65%成为最大外部机构股东，小米、腾讯、阿里和字节跳动也参与其中。 宇树2025年实现营业收入16.99亿元、净利润5.9亿元，四足机器人累计出货3.3万台，全球市占率约60%，并预计2026年上半年营业收入在10.52亿至11.28亿元之间，归母净利润在2.58亿至3.06亿元之间。
+  📰 [财联社](https://www.cls.cn/detail/2450388)
+
+- **[2026.10.28] 第一财经 — A股“人形机器人第一股”上市在即，宇树科技相关概念股涨超6%**
+  中文：总结：7月31日开盘后，A股机器人和人形机器人概念股走高，宇树科技相关概念股涨幅超6%。 消息面上，宇树科技于7月30日晚公告称，首次公开发行股票并在科创板上市的申请已获证监会同意注册。 本次拟发行4044.6434万股，占发行后总股本10%，发行后总股本为40446.4340万股，初步询价日为8月5日，网上网下申购日为8月10日。 本次发行初始战略配售发行数量为808.93万股，占20.00%。 宇树科技员工资管计划参与战略配售的数量合计不超过本次公开发行规模的10%，认购金额合计不超过27150万元。 宇树科技董事长、总经理、CTO王兴兴认购1500万元。 宇树科技招股书披露，预计2026年1-6月营业收入约为10.52亿元-11.28亿元，同比增幅约为35.62%-45.41%；扣非后净利润预计约为2.36亿元-2.83亿元，较上年同期下降约21.97%至6.43%。 针对美国联邦通信委员会限制进口机器人的禁令，宇树科技表示该政策变更目前不影响现有主要产品在美国市场的销售，但后续开发的新型号机器人产品面临无法取得FCC认证而无法在美国销售的风险。 最近三年来自境外的收入占比均超过40%，其中来自美国市场的收入占比分别为18.39%、19.54%和13.30%。
+  📰 [第一财经](https://www.yicai.com/news/103300384.html)
+
+- **[2026.10.28] 新浪财经 — 中国一汽机器人业务再落一子 轮臂式机器人斩获首单**
+  中文：总结：10月28日，中国一汽轮臂式（3kg）机器人完成商业化首单落地，实现从0到1的突破。 该机器人采用上半身人形双臂结构与轮式移动底盘相结合的设计，融合轮式移动的灵活性与双臂操作的精准性，可适应物料上下料、工件转运、精准取放、工位切换及双臂协同作业等工业场景。 此次首单除机器人本体外，还配套交付一套关节模组测试台，可完成关节模组电流、扭矩、转速、角度等性能测试与数据采集，助力高校构建完整的研发验证环境。 该合作将轮臂式机器人作为教学科研载体，支撑高校开展具身智能、移动操作、机器人控制等方向的课程实验与课题研究，补齐高校具身智能实验室实操平台短板。 智能机器人事业部未来将以双轮模式推动具身智能产品在汽车制造、生产物流、园区巡检、教育科研等多场景规模化落地，深化产学研合作。
+  📰 [新浪财经](https://finance.sina.com.cn/enterprise/central/2026-10-28/doc-iniwuqvv9438076.shtml)
+
+- **[2026.10.28] 新浪财经 — 机器人，为宇树提前开香槟？**
+  中文：总结：近期机器人板块大涨，宇树科技即将迎来上市后首份完整三季报。 68亿元，占主营业务收入的51.78%，四足机器人收入为6.98亿元，占比41.62%，而2023年人形机器人收入仅为296.71万元，占比1.88%。 进入2026年，纯人形机器人出货量超5900台，位居全球首位，超越2025年全年5511台的水平，本次三季报将验证全年1-2万台出货目标的完成进度。 在盈利能力方面，2026年上半年公司营收同比增长48.54%，扣非后净利润2.44亿元，同比下降19.34%，综合毛利率从去年的60%下滑到56.01%，利润下滑系当期研发与销售费用大幅增加所致，其中上半年研发费用同比增加8203.74万元。 在商业闭环与下游需求方面，今年3月招股书显示宇树机器人产销率超过95%，本次三季报将公布分产品产销率水平以验证产能扩张后下游需求的承接力度。 此外，物理AI概念持续升温带动板块普涨，英伟达、OpenAI、特斯拉等产业巨头持续密集布局。
+  📰 [新浪财经](https://finance.sina.com.cn/stock/s/2026-10-28/doc-iniwuqvv9509207.shtml)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.10.28] ロボスタ — 富士ソフトとダイドーが「フィジカルAIスタートパッケージ」の実機デモ公開 NVIDIA DGX Sparkで音声理解、ファナックのロボットを制御**
+  日本語：富士ソフトとダイドーは、協働ロボットを使ったフィジカルAIの導入・検証を支援する「フィジカルAIスタートパッケージ」を共同で開発した。 ロボットアーム、カメラ、マイク、NVIDIAのAIコンピュータ「DGX Spark」、ソフトウェアなどを一式で提供する。 音声による指示をAIが理解し、対象物の認識からロボットの動作計画、実機制御までを実行できる環境を構築し、企業のフィジカルAI導入に向けた検証を支援する。 両社は2027年1月から本格的な受注活動を開始、2028年度に年間100台の販売を目指す。 2026年10月13日（火）～14日（水）、愛知県名古屋市で開催された「ダイドーロボット館十年祭」において、富士ソフトは同パッケージの実機デモを公開した。 ロボスタ編集部は会場を訪れ、音声による指示をAIが理解し、カメラ映像から対象物を認識して、協働ロボットがつかむデモを取材した。
+  📰 [ロボスタ](https://robotstart.info/article/2026/10/28/382574.html)
+
+- **[2026.10.28] Car Watch — GAZOO Racingと安川電機、AIを活用した自律化ロボット生産技術を共同開発 「蒲郡GRカート工房」で導入開始**
+  日本語：ニュース GAZOO Racingと安川電機、AIを活用した自律化ロボット生産技術を共同開発 「蒲郡GRカート工房」で導入開始 モータースポーツの現場で鍛えたアーク溶接技術「SFA工法」の知見を発展 2026年10月28日 15:31 - 2026年10月28日 発表 GAZOO Racing（GR）と安川電機は10月28日、モータースポーツの現場で鍛えてきたアーク溶接技術「SFA工法（Sequence Freezing Arc Welding）」の知見をもとに、AIを活用した自律化ロボット生産技術を共同開発し、2026年9月に「蒲郡GRカート工房」で導入を開始したと発表した。 GRがモータースポーツに取り組む目的は、極限の現場で人とクルマを鍛え、その知見を市販車へフィードバックすることにあるといい、「モータースポーツを起点としたもっといいクルマづくり」を進めている。
+  📰 [Car Watch](https://car.watch.impress.co.jp/docs/news/2151902.html)
+
+- **[2026.10.28] MUGENLABO Magazine — フィジカルAIで日本の産業を変える。KDDIとRLWRLDが挑む、ロボット実装への道**
+  日本語：2026年10月28日 フィジカルAIで日本の産業を変える。 KDDIとRLWRLDが挑む、ロボット実装への道 - RLWRLD K. K. / リアルワールド株式会社 李 勲 - President, Japan - KDDI株式会社 貞光 雅徳 2026年9月18日、フィジカルAIをテーマとしたセッションイベントが開催された。 登壇したのは、フィジカルAIの基盤モデル開発を手掛けるRLWRLDと、同社への出資をきっかけに事業共創を進めるKDDI。 物流や小売の現場における実証の取り組みから、スタートアップと大企業がどのように新たな市場をつくり上げていくのか、そのリアルな挑戦が語られた。 目次 RLWRLD日本代表の李 勲氏は、コンサルティングファームのBCGでキャリアを積んだ後、「事業を通じて世界を変え、社会に貢献したい」という思いからフィジカルAIの領域へ飛び込んだ。
+  📰 [MUGENLABO Magazine](https://mugenlabo-magazine.kddi.com/list/kddi_rlwrld/)
+
+- **[2026.10.26] Howl.Link — トヨタが人型ロボットに年64億ドルの賭け──8GB VRAMでQwen 3.8 Flash Next、HFTはAIコンピュート争奪 | Devdog Lab**
+  日本語：トヨタが人型ロボットと工場自動化に年64億ドル──「グローバルロボティクス企業」への転身を宣言 The Decoderの報道によると、トヨタは人型ロボットと工場自動化に年間64億ドル規模の投資を行い、自社をグローバルなロボティクス企業へと転身させる方針を明らかにしました。 自動車製造で培った生産技術をロボットへ転用する動きは各社で加速していますが、トヨタほどの規模のメーカーが人型ロボットを工場自動化と並ぶ経営の柱に据えると表明した点は注目に値します。 投資の使途や具体的な機体の詳細は現時点では報じられておらず、今後の発表を待ちたいところです。 日本を代表する製造業が「クルマ会社」から「ロボット会社」へ看板を書き換えようとしている──その意思表示として受け止めるのが自然なニュースでした。 8GB VRAMのノートGPUでQwen 3.8 Flash Nextが動いた──ローカルLLMの「動作下限」がまた下がる r/LocalLLaMAに投稿された実験レポートが注目を集めています。
+  📰 [Howl.Link](https://t.co/CVEzYEcNfH)
+
+- **[2026.10.26] Yahoo!ニュース — 「AIロボット保険」11月発売 国内初、誤作動リスクなどに備え（朝日新聞）**
+  日本語：東京海上日動火災保険は26日、AIを搭載して自律的に動くロボットの誤作動などに備える「AIロボット保険」を11月に発売すると発表した。 国内の損害保険会社で初めての取り扱いとなる。 保険の対象は、センサーやカメラで周囲の状況を判断し動作を制御する「フィジカルAI」を実装した移動式のロボットで、二足歩行の人型だけでなく四足や車輪で自律移動する機体も含まれる。 ロボットが災害や衝突で壊れた際の修理代、誤作動による損害賠償費用、代わり機体のレンタル費などを補償する。 ただし、サイバー攻撃を受けて生じた損害は補償対象外となり、別の保険で対応する必要がある。
+  中文：总结：东京海上日动火灾保险于26日宣布，将于11月发售国内首款针对搭载AI并自主运行的机器人误动作等风险的“AI机器人保险”。 该保险对象为搭载“物理AI”的移动式机器人，包括人形、四足及轮式自主移动机体。 保险将赔偿机器人因灾害或碰撞损坏的修理费、因误动作造成损害的赔偿费用以及替代机体的租赁费等。 不过，若系统因遭受网络攻击而产生损害则不属于赔偿对象，需要通过其他网络攻击风险保险来应对。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/47d48898f30004a7ccd8f7055c68da9efd5848f7)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.10.29] Interesting Engineering — This humanoid robot unloads parcels from a Cybertruck and carries them to your door**
+  English: Bay Area startup Reward AI deployed its OM-1 robot model outdoors, featuring a humanoid that unloaded parcels from a Tesla Cybertruck and carried them to a doorstep. The robot operates fully autonomously at real speed, adjusting to boxes from Amazon, Walmart, and DHL placed at different angles. It climbs to reach packages and maintains a grip while descending. Indoors, it picks up objects on a staircase with its feet on different steps. According to Reward AI, the OM-1 learned from people wearing a sensor glove without robot data or remote control, though these remain company demos with no published success rates.
+  中文：总结：湾区初创公司Reward AI将其OM-1机器人模型带到户外，展示了一款人形机器人从特斯拉Cybertruck上卸下包裹并将其搬运到门前的过程。 该机器人以真实速度全自主运行，能够适应以不同角度放置的亚马逊、沃尔玛和DHL纸箱。 它会爬高去够取包裹，并在返回时保持紧握。 在室内，即使双脚踩在不同的台阶上，它也能拾取楼梯上的物品。 Reward AI表示，OM-1是通过佩戴传感器手套的人类学习而来的，没有使用机器人数据和远程控制，但这些演示均由公司发布，目前尚未公布成功率。
+  📰 [Interesting Engineering](https://interestingengineering.com/videos/this-humanoid-robot-unloads-parcels-from-a-cybertruck-and-carries-them-to-your-door)
+
+- **[2026.10.29] Global Times — Unitree's post-IPO results show strong revenue growth**
+  English: Chinese humanoid robot maker Unitree Robotics reported its first financial results since going public, showing strong revenue growth alongside a sharp rise in R&D spending while quarterly profit dropped amid rising costs. Revenue reached 1.817 billion yuan ($255 million) in the first nine months, up 55.71 percent year-on-year, while net profit attributable to shareholders rose 270.54 percent to 387 million yuan. Third-quarter revenue rose 69.93 percent to 665 million yuan. R&D spending jumped 191.48 percent to 263 million yuan in the January-September period. Analysts noted the results reflect growth momentum in China's humanoid robotics sector and test commercialization progress.
+  中文：总结：中国人形机器人制造商宇树科技发布了上市以来的首份财务报告，显示出强劲的营收增长以及研发支出的急剧上升，同时由于成本上升导致季度利润下降。 前九个月营收达到1.817 billion yuan（$255 million），同比增长55.71%，归属于股东的净利润增长270.54%至387 million yuan。 第三季度营收增长69.93%至665 million yuan。 1月至9月期间，研发支出跃升191.48%至263 million yuan。 分析师指出，这些业绩反映了中国人形机器人行业的增长势头，并检验了商业化进展。
+  📰 [Global Times](https://www.globaltimes.cn/page/202610/1373175.shtml)
+
+- **[2026.10.28] Robotics Tomorrow — The Humanoid Robotics Funding Race: What the Money Tells Us About Commercial Readiness**
+  English: Nearly $11.7 billion in disclosed capital has gone into humanoid robotics, but companies that raised the most remain at pilot or prototype stages, while commercialized ones raised the least. Data from The Robotic Life's Humanoid Robotics Funding Tracker shows six companies raised over $500 million each, holding $7.6 billion or roughly 65 percent of sector capital. Four companies with humanoids in general commercial availability raised $1.03 billion combined. Major private rounds include Figure AI at $2.34 billion, Apptronik at $1.1 billion, and NEURA Robotics at $1.6 billion. Meanwhile, Unitree reached commercial shipping on roughly $155 million in pre-IPO private capital.
+  中文：总结：近$11.7 billion的公开资本流向了人形机器人领域，但筹集资金最多的公司仍处于试点或原型阶段，而实现商业化的公司筹集的资金最少。 The Robotic Life的人形机器人融资追踪器数据显示，有六家公司每家筹集了超过$500 million，共持有$7.6 billion，约占该行业资本的65%。 四家实现人形机器人一般商业化可用的公司总共筹集了$1.03 billion。 主要的私人融资包括Figure AI的$2.34 billion、Apptronik的$1.1 billion以及NEURA Robotics的$1.6 billion。 同时，宇树科技凭借大约$155 million的IPO前私人资本实现了商业化出货。
+  📰 [Robotics Tomorrow](https://www.roboticstomorrow.com/article/2026/10/the-humanoid-robotics-funding-race-what-the-money-tells-us-about-commercial-readiness/27111)
+
+- **[2026.10.27] IEEE Spectrum — What Robotics Experts Think of Tesla’s Optimus Robot**
+  English: Tesla introduced several prototypes of its humanoid robot, Optimus, on September 30, following a year of speculation and assertions by CEO Elon Musk. The live-streamed event drew roboticists from industry and academia to see Tesla's approach. Reactions across the robotics community were diverse. Georgia Chalvatzaki of Technische Universität Darmstadt expressed amazement at what engineers achieved in a year, though noting behaviors were less impressive than Honda's Asimo from 20 years ago, while welcoming cheap and accessible hardware for academic research.
+  中文：总结：在经历了一年的猜测以及CEO埃隆·马斯克的断言之后，特斯拉于9月30日推出了其人形机器人Optimus的几个原型。 这场直播活动吸引了来自业界和学术界的机器人专家，以了解特斯拉在人形机器人领域的方法。 整个机器人社区的反应各不相同。 达姆施塔特工业大学的Georgia Chalvatzaki对工程师在一年内取得的成就感到惊叹，尽管她指出其表现不如20年前本田的Asimo令人印象深刻，但她对学术研究能够获得廉价且易获取的硬件表示期待。
+  📰 [IEEE Spectrum](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/dennis-hong?itm_source=summaries&itm_medium=ieee-spectrum&itm_campaign=summary-dennis-hong&itm_content=summary-exploits)
+
+- **[2026.10.28] AI Insider — China Physical AI Roundup: Unitree Earnings, AgiBot Robot Launch, XPeng Robotaxi Update, Plus Funding & Xiaomi's New Hand**
+  English: Unitree reported third-quarter 2026 revenue of 665 million yuan (about $94 million), up 69.93 percent, while net profit fell 17.37 percent as R&D more than tripled. PIA Automation raised 1.025 billion yuan (about $145 million) in a STAR Market placement, earmarking 542.1 million yuan (about $77 million) for intelligent-robot work including the Jarvis humanoid. AgiBot launched the G2 Max heavy-duty wheeled robot, CASBOT and MoSense closed funding rounds, XPeng won Guangzhou L4 robotaxi demo approval, and Xiaomi disclosed a 21-DoF factory hand.
+  中文：总结：宇树科技报告2026年第三季度营收为665 million yuan（约合$94 million），增长69.93%，而随着研发支出增加两倍以上，净利润下降了17.37%。 PIA Automation在科创板增发中筹集了1.025 billion yuan（约合$145 million），其中542.1 million yuan（约合$77 million）指定用于包括Jarvis人形机器人在内的智能机器人工作。 智元机器人发布了G2 Max重型轮式机器人，CASBOT和MoSense完成了融资轮次，小鹏汽车获得了广州L4级自动驾驶出租车示范运营审批，小米披露了一种21自由度的工厂灵巧手。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/28/china-physical-ai-roundup-unitree-earnings-agibot-robot-launch-xpeng-robotaxi-update-plus-funding-rounds-xiaomis-new-hand/)
+
+
+---
+※AI Robot News Digest | 2026.10.29 | full-text items: 20
