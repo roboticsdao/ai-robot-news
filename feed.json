@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-10-28T01:34:35.237252+09:00",
+  "updated_at": "2026-10-28T11:09:17.321339+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-28T01:34:35.237252+09:00",
-    "latest_article_at": "2026-10-28T00:25:00+09:00",
+    "checked_at": "2026-10-28T11:09:17.321339+09:00",
+    "latest_article_at": "2026-10-28T10:26:37+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -17,103 +17,103 @@
   },
   "articles": [
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T17:41:14+09:00",
-      "headline": "GXO and Agility Robotics expand humanoid robot deployment across US warehouses",
-      "source": "Container News",
-      "url": "https://container-news.com/gxo-and-agility-robotics-expand-humanoid-robot-deployment-across-us-warehouses/",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T09:46:00+09:00",
+      "headline": "Nvidia visit to Korea fuels rally in robotics stocks on physical AI hopes",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-finance/2026/10/28/RLQWVQ6U7VFGRJUTRCCQ26JC3Q/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "GXO Logistics and Agility Robotics announced plans on October 26 to expand their partnership by deploying humanoid robots at two additional US logistics facilities in Statesville, North Carolina, and Lebanon, Tennessee, starting in early 2027 for e-commerce fulfillment and material-handling tasks. This builds on an existing collaboration where Digit robots have moved over 100,000 totes at GXO's Flowery Branch facility in Georgia since initial deployment, working alongside existing warehouse automation. GXO and Agility began collaborating in late 2023 with a proof-of-concept project, signed a multi-year Robots-as-a-Service agreement in June 2024, and integrated Agility Arc. GXO CEO Patrick Kelleher noted the partnership focuses on practical operational improvements. The next phase will introduce Digit 4 robots before transitioning to Digit 5, unveiled in September 2026 for safer operation alongside people. Agility Robotics is expanding commercial deployments after Digit accumulated over 65,000 hours of real-world operation. Agility CEO Peggy Johnson noted that expanding sites signals real value. Agility operates RoboFab, a 70,000-square-foot manufacturing facility in Salem, Oregon, with an annual production capacity up to 10,000 robots, and prepares to trade on Nasdaq under ticker AGLT through a proposed business combination with Churchill Capital Corp XI expected to close in the fourth quarter of 2026. The companies did not disclose the number of robots or financial values for the expanded agreement.",
-      "summary_zh": "GXO物流与敏捷机器人公司于10月26日宣布计划扩大合作，于2027年初开始在美国北卡罗来纳州斯泰茨维尔和田纳西州黎巴嫩的两个额外物流设施中部署人形机器人，以支持电子商务履约和重复性材料搬运任务。 此次扩展建立在双方现有商业合作的基础之上，此前在佐治亚州GXO的弗劳里布兰奇设施中，Digit机器人自初始部署以来已移动了超过100,000个周转箱，并与现有的仓库自动化系统协同工作。 GXO与敏捷机器人于2023年末通过概念验证项目开始合作，并于2024年6月签署了多年期机器人即服务协议，引入了Agility Arc平台。 GXO首席执行官帕特里克·凯利赫指出，合作重点是将新兴技术转化为运营改进。 下一阶段将在两个新设施中引入Digit 4机器人，并在更新型号于2026年9月亮相后过渡到旨在与人类安全协同工作的Digit 5。 随着Digit积累了超过65,000小时的现实世界运行时间，敏捷机器人正致力于支持更大规模的商业部署。 敏捷机器人首席执行官佩吉·约翰逊表示，扩展至更多站点是价值真实存在的清晰信号。 敏捷机器人在俄勒冈州塞勒姆运营着一座70,000平方英尺名为RoboFab的制造厂，年产能力可达10,000台机器人，并正通过与丘吉尔资本十一号公司的拟议业务合并准备在纳斯达克上市，交易代码为AGLT，预计于2026年第四季度完成。 两家公司未透露新设施计划部署的机器人数量及扩展协议的财务价值。"
+      "summary": "Domestic robot-related stocks rallied early in the session following news that Madison Huang, senior director of Robotics at Nvidia and eldest daughter of CEO Jensen Huang, will visit Korea next month. According to the Korea Exchange on the 28th, KOSDAQ-listed Rainbow Robotics traded at 403,000 won, up 51,500 won or 14.65%, ROBOTIS rose 11.75%, and Doosan Robotics showed gains in the 7% range. Huang is scheduled to attend Nvidia AI Day Seoul 2026 at COEX in Seoul on Dec. 9-10, overseeing Omniverse and Robotics product marketing, though specific details and meetings with domestic corporations remain unconfirmed. Nvidia is expanding its physical AI ecosystem through Omniverse, the Isaac robot development and training platform, and the Cosmos physical environment AI model.",
+      "summary_zh": "受英伟达机器人高级总监、首席执行官黄仁勋的长女Madison Huang将于下个月访问韩国的消息影响，韩国国内机器人相关股票在盘初普遍上涨。 根据韩国交易所28日的数据，截至上午9点43分，KOSDAQ市场的彩虹机器人交易价为403,000韩元，较前一交易日上涨51,500韩元（14.65%），ROBOTIS上涨11.75%，主板市场的斗山机器人也呈现7%范围的涨幅。 Huang计划于12月9日至10日在首尔COEX出席“2026首尔英伟达人工智能日”，她目前在英伟达负责Omniverse和机器人产品营销，不过其访问的具体细节以及是否会与韩国本土企业官员会面尚未得到证实。 英伟达正通过Omniverse、机器人开发与训练平台Isaac以及物理环境AI模型Cosmos来扩展其实体AI生态系统。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T03:04:54+09:00",
+      "headline": "About 300 Boston Dynamics employees protest ICE robot dogs deal",
+      "source": "Yahoo",
+      "url": "https://www.yahoo.com/news/politics/articles/300-boston-dynamics-employees-protest-180454799.html",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Approximately 300 Boston Dynamics employees petitioned company leadership to cancel a $1.3 million order for four modified Spot robot dogs purchased by ICE through Radeco, a Connecticut-based company that customizes Spot with robotic arms, thermal cameras, hazard sensors, and explosives. ICE argued only Radeco's version met requirements for inspecting tunnels along the southwest border and dangerous spaces, though ICE has not disclosed deployment locations or agent training details. A Boston Dynamics spokesperson stated the robots will go to Homeland Security Investigations for transnational crime and will not handle deportations or detentions, noting that terms of sale ban weapons and use meant to harm or intimidate people, with violations voiding warranties and software updates.",
+      "summary_zh": "大约300名波士顿动力公司员工请愿公司领导层取消一份价值130万美元的订单，该订单涉及4只经过改装的Spot机器人狗，由美国移民及海关执法局（ICE）通过总部位于康涅狄格州、负责为Spot加装机械臂、热成像仪、危险传感器和爆炸物的Radeco公司进行采购。 ICE辩称只有Radeco的版本符合其检查西南部边境隧道及其他危险空间的要求，不过ICE尚未披露部署地点或特工培训细节。 波士顿动力公司发言人表示，这些机器人将交由国土安全调查局用于打击跨国犯罪，不会处理驱逐或拘留任务，并指出销售条款禁止武器及任何旨在伤害或恐吓人类的使用方式，违规将导致保修失效和软件更新终止。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T08:20:53+09:00",
+      "headline": "NVIDIA Cosmos: 3 Powerful Wins for Smart Physical AI",
+      "source": "Global Brands Magazine",
+      "url": "https://www.globalbrandsmagazine.com/nvidia-cosmos-world-models/",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "In October 2026, NVIDIA expanded its Cosmos platform with new world models and training tools to tackle physical AI. A world model simulates how the physical world behaves, allowing companies to train and test machines in simulation rather than failing in reality. Cosmos 3, released earlier in 2026, is an open omnimodel working across text, images, video, audio, and actions, featuring Super, Nano, and Edge tiers. The October update added optimisation tools and simulation checkpoints for driving and robotics. NVIDIA also formed a Cosmos Coalition of partners to support sectors like warehousing, factories, and transport.",
+      "summary_zh": "2026年10月，NVIDIA扩展了其Cosmos平台，推出了全新的世界模型和训练工具，以应对物理人工智能。 世界模型能够模拟物理世界的运作方式，使企业能够在模拟环境中训练和测试机器，而无需在现实中经历失败。 2026年初发布的Cosmos 3是一个完全开源的通用模型，能够跨文本、图像、视频、音频和动作进行工作，并包含Super、Nano和Edge三个层级。 10月的更新增添了优化工具以及针对驾驶和机器人操作场景的仿真检查点。 NVIDIA还成立了Cosmos合作伙伴联盟，以支持仓储、工厂和运输等行业。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T00:00:47+09:00",
+      "headline": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/gary-marcus",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "On 30 September 2022, Tesla introduced several prototypes of its new humanoid robot, Optimus, following a year of speculation and assertions by CEO Elon Musk. The live-streamed event drew live tuning and attendance from roboticists to evaluate Tesla's approach. IEEE Spectrum collected and shared diverse expert reactions from academia and industry to provide a detailed understanding of the robot's present context and future potential. Commentators included researchers and professors such as Georgia Chalvatzaki from Technische Universität Darmstadt, Kate Darling from MIT Media Lab, and others from institutions like the University of Toronto, Clearpath Robotics, Google Brain, UCLA, Florida State University, Engineered Arts, Boston Dynamics, Amazon, and Women in Robotics.",
+      "summary_zh": "在经历了一年的猜测以及特斯拉首席执行官埃隆·马斯克的一系列断言之后，特斯拉于2022年9月30日推出了其新款人形机器人Optimus的多个原型。 这场现场直播的活动吸引了众多机器人专家在线观看或亲临现场，以评估特斯拉在人形机器人领域的方法。 IEEE Spectrum收集并分享了来自学术界和工业界的多位专家的多元化反应，以便深入理解该机器人的现状与未来潜力。 评论者包括来自达姆施塔特工业大学的Georgia Chalvatzaki、麻省理工学院媒体实验室的Kate Darling等研究人员和教授，以及来自多伦多大学、Clearpath Robotics、Google Brain、加州大学洛杉矶分校、佛罗里达州立大学、Engineered Arts、波士顿动力、亚马逊和女性机器人组织等机构的专家。"
     },
     {
       "date": "2026.10.27",
-      "published_at": "2026-10-27T08:06:30+09:00",
-      "headline": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
-      "source": "Robotics & Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/10/26/comau-integrates-nvidia-technology-to-accelerate-development-of-ai-powered-robots/106373/",
+      "published_at": "2026-10-27T18:33:00+09:00",
+      "headline": "Can Boston Dynamics keep up with Tesla and China in the humanoid robot race?",
+      "source": "MassLive.com",
+      "url": "https://www.masslive.com/news/2026/10/can-boston-dynamics-keep-up-with-tesla-and-china-in-the-humanoid-robot-race.html",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Comau is boosting the development of AI-enabled robotics and automation solutions for industrial applications by combining its robotics experience with Nvidia physical AI simulation libraries and accelerated computing. Comau is integrating Nvidia technologies across its product portfolio and design processes, featuring industrial robot controllers powered by Nvidia Jetson edge compute, integration of its robot portfolio into Nvidia Isaac Sim, and utilization of the Nvidia software stack to optimize vision-based features and control strategies for intralogistics products. The next generation of Comau industrial robot controllers will combine with Nvidia technology to provide computing power for advanced AI workloads. Comau is integrating its industrial, collaborative, and mobile robot portfolio into Nvidia Isaac Sim, an open-source framework built on Nvidia Omniverse libraries, and contributing SimReady OpenUSD robot assets to the SimReady Central Library on Hugging Face. Nvidia's simulation and AI libraries support vision-based applications and control strategy optimization for intralogistics equipment, including training AI models for Comau's MI. RA vision system family using reinforcement learning for palletizing and depalletizing tasks. Comau uses Nvidia Isaac Sim's physics, Discrete Event Simulation for logistical workflows, and Isaac Lab's learning capabilities to create virtual models for training AI-driven control strategies prior to factory floor implementation. Comau chief engineering officer Andrew Lloyd and Nvidia EMEA vice president Paolo Guglielmini emphasized that physical AI and simulation libraries help accelerate intelligent solution development and deployment for manufacturers globally.",
-      "summary_zh": "柯马通过将自身的机器人技术经验与英伟达物理人工智能仿真库及加速计算相结合，正在推动面向工业应用的具身人工智能机器人及自动化解决方案的发展。 柯马正将其产品组合和设计流程与英伟达技术进行整合，具体包括由英伟达Jetson边缘计算驱动的柯马工业机器人控制器、将柯马机器人产品组合整合至Nvidia Isaac Sim中，以及利用英伟达软件栈来优化内部物流产品的基于视觉的功能和控制策略。 下一代柯马工业机器人控制器将与英伟达技术相结合，为先进的人工智能工作负载提供所需的计算能力。 柯马正在将其工业、协作和移动机器人产品组合整合到基于英伟达Omniverse库构建的开源框架Nvidia Isaac Sim中，并向Hugging Face上的SimReady中央库贡献SimReady OpenUSD机器人资产。 英伟达的仿真和人工智能库支持智能视觉应用的开发以及内部物流设备控制策略的优化，包括使用强化学习为柯马的MI. RA视觉系统系列训练人工智能模型以用于高级码垛和拆垛任务。 柯马利用Nvidia Isaac Sim的高保真物理学、用于物流工作流的离散事件仿真以及Nvidia Isaac Lab的高级学习能力来创建超精确虚拟模型，以便在将人工智能驱动的控制策略投入工厂车间之前对其进行训练。 柯马首席工程官安德鲁·劳埃德和英伟达EMEA副总裁保罗·古列尔米尼强调，物理人工智能和仿真库有助于加快智能解决方案的开发，并帮助全球制造商加速部署人工智能驱动的自动化。"
+      "summary": "Boston Dynamics, owned by South Korean manufacturing conglomerate Hyundai, appointed Rohit Prasad as its new chief executive starting on October 7. Prasad, a former Amazon researcher who helped develop Alexa, succeeds former CEO Rob Playter, while the company also recently lost its chief operating officer and chief strategy officer. Boston Dynamics plans to make its Atlas humanoid robot available for customer purchase in 2027, following Hyundai's plan to introduce 25,000 Atlas robots into its factories in coming years. Meanwhile, competitors are advancing: Tesla announced its Optimus robot is entering production for use on assembly lines before public sales by the end of next year; Agility Robotics plans to go public and sells its Digit robot; China's Unitree Robotics went public on a Shanghai stock exchange in August after raising more than $900 million and selling over 5,000 robots last year; and Figure sells humanoid robots to customers like Catalyst Brands. Additionally, Boston Dynamics has deployed over 2,000 Spot robots globally and hundreds of Stretch warehouse robots, with commitments from customers like DHL.",
+      "summary_zh": "由韩国制造企业集团现代汽车拥有的波士顿动力公司任命罗希特·普拉萨德为新任首席执行官，自10月7日起上任。 普拉萨德曾是亚马逊的研究人员并帮助开发了Alexa，他接替了前首席执行官罗布·普莱特，同时该公司最近还失去了首席运营官和首席战略官。 继现代汽车计划在未来几年在其工厂引入2万5千台Atlas机器人之后，波士顿动力公司计划在2027年向客户发售Atlas人形机器人。 与此同时，竞争对手正在取得进展：特斯拉宣布其Optimus机器人正在投入生产，将首先用于装配线，并在明年底前向其他公司销售；Agility Robotics计划上市并正在销售其Digit机器人；中国的宇树科技于8月在上海证券交易所上市，筹集了超过9亿美元资金，并且去年售出了超过5,000台机器人；Figure公司则向Catalyst Brands等客户销售人形机器人。 此外，波士顿动力在全球已部署了超过2,000台Spot机器人和数百台Stretch仓库机器人，并获得了DHL等主要客户的部署承诺。"
     },
     {
-      "date": "2026.10.26",
-      "published_at": "2026-10-26T22:37:00+09:00",
-      "headline": "NVIDIA, Bulgaria’s INSAIT develop platform to evaluate AI Models in robotics",
-      "source": "Azərtac",
-      "url": "https://azertag.az/en/xeber/nvidia_bulgarias_insait_develop_platform_to_evaluate_ai_models_in_robotics-4480515",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "NVIDIA and INSAIT, an institute at Sofia University, developed the LADDER platform to evaluate AI models in controlling robots for sequential actions. The project focuses on Physical AI, where AI systems interact with the real world. Initial tests revealed that leading models, such as GPT-6 Astra, Claude Opus 5.5, and Gemini 4 Argon, still struggle with multi-step tasks, succeeding in only about one-third of attempts in the most challenging tests involving eight to ten consecutive actions. The study also highlighted high evaluation costs, exceeding USD 6 per task and around USD 8,000 for a full evaluation. Additionally, Google made a USD 1 million donation to INSAIT on October 23, bringing its total support to over USD 7 million for the institute, which was founded in partnership with ETH Zurich and EPFL.",
-      "summary_zh": "英伟达与索菲亚大学下属的INSAIT研究所合作开发了名为LADDER的平台，用于评估人工智能模型在控制机器人执行连续动作方面的能力。 该项目聚焦于物理人工智能。 初步测试显示，GPT-6 Astra、Claude Opus 5.5和Gemini 4 Argon等领先模型在面对包含八到十个连续动作的极具挑战性测试时，成功率仅约为三分之一。 研究还指出使用顶级AI模型的成本高昂，单项任务平均成本超过USD 6，完整评估费用约为USD 8,000。 此外，谷歌于10月23日向INSAIT捐赠了USD 1 million，使其对该研究所的总资助超过USD 7 million。 INSAIT由索菲亚大学与瑞士苏黎世联邦理工学院及洛桑联邦理工学院合作建立。"
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T10:26:37+09:00",
+      "headline": "中国电信孵化人形机器人公司",
+      "source": "RFID世界网",
+      "url": "https://www.rfidworld.com.cn/news/2610_626143925E4F314E.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "在中国电信人工智能研究院孵化下，具身智能创新企业伽马智能于上海徐汇完成注册并入驻模速空间，主攻自进化人形机器人全模型技术研发与落地应用。 该公司获得中电信（上海）人工智能产业私募基金战略投资。 中国电信集团CTO、首席科学家、中国电信人工智能研究院院长李学龙担任科学顾问，白辰甲出任创始人、CEO。 伽马智能将依托中国电信及TeleAI的资源，聚焦人形机器人自进化与全身模型两大方向，推进前沿科研成果转化。",
+      "summary_zh": "在中国电信人工智能研究院孵化下，具身智能创新企业伽马智能于上海徐汇完成注册并入驻模速空间，主攻自进化人形机器人全模型技术研发与落地应用。 该公司获得中电信（上海）人工智能产业私募基金战略投资。 中国电信集团CTO、首席科学家、中国电信人工智能研究院院长李学龙担任科学顾问，白辰甲出任创始人、CEO。 伽马智能将依托中国电信及TeleAI的资源，聚焦人形机器人自进化与全身模型两大方向，推进前沿科研成果转化。"
     },
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T03:50:41+09:00",
-      "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Hundreds of employees at Boston Dynamics signed a petition urging executives to cancel a sale of the company's robot dogs to US Immigration and Customs Enforcement. Executives defended the deal, stating the robots would not be weaponized. The Department of Homeland Security awarded a $1.3 million contract on September 25 to Radeco, a Connecticut company, to provide ICE with modified Boston Dynamics quadruped robots. The petition gathered over 300 signatures from a workforce of approximately 1,400 people. The contract covers four Spot robots modified into a platform named Cerberus, intended for detecting radiation, toxic gas leaks, and explosive threats, as well as conducting remote observation and inspection with oxygen sensors, zoom cameras, and thermal imaging.",
-      "summary_zh": "波士顿动力的数百名员工签署了一份请愿书，呼吁高管叫停向美国移民及海关执法局销售机器人狗的交易。 高管们则对该交易表示支持，并称这些机器人不会被武器化。 美国国土安全部于9月25日向康涅狄格州公司Radeco授予了一份价值$1.3 million的合同，为ICE提供改装版的波士顿动力四足机器人。 该请愿书获得了约1,400名员工中300多人的签名。 该合同涵盖四台经过Radeco改装的Spot机器人，该平台被称为Cerberus，旨在用于探测辐射、有毒气体泄漏和爆炸物威胁，并通过氧气传感器、变焦相机和热成像技术进行远程观察和检查任务。"
-    },
-    {
-      "date": "2026.10.26",
-      "published_at": "2026-10-26T21:59:00+09:00",
-      "headline": "Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agility-robotics-highlights-commercial-momentum-125900154.html",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Agility Robotics highlighted commercial momentum for its Digit humanoid robot, including an expanded agreement with GXO to deploy Digit at two additional facilities in Statesville, North Carolina, and Lebanon, Tennessee, starting in early 2027. GXO previously utilized Digit at a Georgia facility since 2024. In addition to GXO, Agility reported participation in paid programs with three enterprise manufacturing customers: a major global automaker selling over three million vehicles annually, a major developer of automotive technology and components, and a leading global consumer products manufacturer. CEO Peggy Johnson is set to discuss the company's commercial progress during an investor conference call.",
-      "summary_zh": "Agility Robotics介绍了其Digit人形机器人的商业势头，其中包括与GXO达成扩展协议，计划于2027年初开始在北卡罗来纳州斯塔茨维尔和田纳西州黎巴嫩的两处新设施部署Digit。 GXO自2024年起已在其佐治亚州设施使用Digit。 除GXO外，Agility还宣布与三家企业制造客户开展付费项目合作：一家年销量超三万辆汽车的全球主要汽车制造商、一家全球最大的汽车技术与零部件开发商之一，以及一家领先的全球消费品制造商。 公司首席执行官佩吉·约翰逊将在投资者电话会议上讨论商业进展。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:13:27+09:00",
-      "headline": "中国好技术企业普郎克机器人亮相2026中国香港环球资源消费电子展，荣获环球资源创新奖",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T09:45:00+09:00",
+      "headline": "致中国智能机器人首批“阵亡者”：19个月倒下20多家！一批企业倒在量产前夜",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tjhz/2026-10-27/doc-iniwsseq6985436.shtml",
+      "url": "https://finance.sina.com.cn/wm/2026-10-28/doc-iniwttsf9717130.shtml",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "Guangzhou Planck Intelligent Technology Co. , Ltd. won the Best of Innovation Awards at the Global Sources Consumer Electronics Show in Hong Kong on October 19, 2026, for its P2Air lightweight AI exoskeleton robot. Selected from hundreds of entries, the company secured its first batch of overseas orders from Europe, Southeast Asia, and the Middle East. The P2Air weighs 1.8kg, delivers 48–62N·m torque output from dual motors, and features a response time of ≤5ms. The product has completed over one million uses across more than 30 scenic spots in China and holds 16 international certifications, including CE, FCC, RoHS, IP54, UN38.3, and GPSR.",
-      "summary_zh": "广州普朗克智能科技有限公司于2026年10月19日在中国香港环球资源消费电子展的环球资源创新大奖颁奖典礼上，凭借其P2Air轻量化AI外骨骼机器人荣获创新大奖。 该产品从数百款报名产品中脱颖而出，并为公司带来了来自欧洲、东南亚和中东市场的第一批海外订单。 P2Air机身重1.8kg，双电机输出48–62N·m扭矩，响应时间≤5ms。 该产品已在全国30多个景区完成超过100万人次的真实场景验证，并获得了CE、FCC、RoHS、IP54、UN38.3和GPSR等16项国际认证。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T21:35:29+09:00",
-      "headline": "宇树上市后，投资人反而不敢投机器人了-36氪",
-      "source": "www.36kr.com",
-      "url": "http://www.36kr.com/p/4043963640059780",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "2026年上半年，中国具身智能赛道融资事件达322起，融资总额935亿元，同比增长137%。 与此同时，2025年2月至2026年9月的19个月间，超过20家机器人公司破产、解散或关停，其中包括获得大厂投资的深兰机器人、盈合机器人等。 金沙江创投朱啸虎指出行业商业化路径不清晰，并实施批量退出。 行业早期买家主要为各地建设的数据采集中心，截至2026年8月，全国已建成及在建集中式具身智能数采中心达106家，其中84家已投运。 但数采中心模式面临产能增长与付费需求不匹配的问题。 此外，供应链平台的兴起降低了硬件门槛，使机器人企业面临技术同质化和单靠演示难以评估真实差距的挑战。",
-      "summary_zh": "2026年上半年，中国具身智能赛道融资事件达322起，融资总额935亿元，同比增长137%。 与此同时，2025年2月至2026年9月的19个月间，超过20家机器人公司破产、解散或关停，其中包括获得大厂投资的深兰机器人、盈合机器人等。 金沙江创投朱啸虎指出行业商业化路径不清晰，并实施批量退出。 行业早期买家主要为各地建设的数据采集中心，截至2026年8月，全国已建成及在建集中式具身智能数采中心达106家，其中84家已投运。 但数采中心模式面临产能增长与付费需求不匹配的问题。 此外，供应链平台的兴起降低了硬件门槛，使机器人企业面临技术同质化和单靠演示难以评估真实差距的挑战。"
+      "summary": "具身智能赛道近期出现资本高度集中与明星企业批量倒闭并存的现象。 2026年前10个月全球具身智能投融资达22345.81亿元，资源高度向算法层集中，但过去19个月国内至少有20家明星机器人企业陷入经营危机或破产清算。 达闼机器人因云端路线延迟、高额亏损及资金链断裂进入破产清算；盈合机器人因多线业务扩张失控、营收与估值严重脱解而召开债权人会议；深兰科技则因跨界扩张透支现金流、消毒机器人大单未实质履约而导致欠薪破产。",
+      "summary_zh": "具身智能赛道近期出现资本高度集中与明星企业批量倒闭并存的现象。 2026年前10个月全球具身智能投融资达2345.81亿元，资源高度向算法层集中，但过去19个月国内至少有20家明星机器人企业陷入经营危机或破产清算。 达闼机器人因云端路线延迟、高额亏损及资金链断裂进入破产清算；盈合机器人因多线业务扩张失控、营收与估值严重脱解而召开债权人会议；深兰科技则因跨界扩张透支现金流、消毒机器人大单未实质履约而导致欠薪破产。"
     },
     {
       "date": "2026.10.27",
       "published_at": "2026-10-27T21:19:00+09:00",
       "headline": "韦伯咨询：《2026年中国农业机器人行业专题调研与深度分析报告》发布",
-      "source": "新浪财经",
+      "source": "finance.sina.com.cn",
       "url": "https://cj.sina.cn/articles/view/2442012107/918e25cb00101prqq",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "韦伯咨询农业机器人行业研究专家团队经过市场调研与数据引用，发布了《2026年中国农业机器人行业专题调研与深度分析报告》。 该报告涵盖农业机器人行业的政策规划、市场需求、竞争格局、全国重点省市发展情况、龙头企业经营状况以及细分领域布局进展、行业发展趋势与前景预测、投资机会挖掘等内容，旨在为预知行业需求、把握政策走向、了解竞争对手业务布局及制定公司应对战略与实施方案提供参考价值。",
-      "summary_zh": "韦伯咨询农业机器人行业研究专家团队经过市场调研与数据引用，发布了《2026年中国农业机器人行业专题调研与深度分析报告》。 该报告涵盖农业机器人行业的政策规划、市场需求、竞争格局、全国重点省市发展情况、龙头企业经营状况以及细分领域布局进展、行业发展趋势与前景预测、投资机会挖掘等内容，旨在为预知行业需求、把握政策走向、了解竞争对手业务布局及制定公司应对战略与实施方案提供参考价值。"
+      "summary": "韦伯咨询发布《2026年中国农业机器人行业专题调研与深度分析报告》，内容涵盖行业发展背景、政策规划、市场需求、进出口状况、经营现状、产业链梳理、细分产品与市场、竞争格局及重点企业分析，并对行业发展趋势与投资前景作出预测。",
+      "summary_zh": "韦伯咨询发布《2026年中国农业机器人行业专题调研与深度分析报告》，内容涵盖行业发展背景、政策规划、市场需求、进出口状况、经营现状、产业链梳理、细分产品与市场、竞争格局及重点企业分析，并对行业发展趋势与投资前景作出预测。"
     },
     {
       "date": "2026.10.27",
-      "published_at": "2026-10-27T19:12:55+09:00",
-      "headline": "AI机器人周报：宇树机器人侧空翻表演时甩断腿；智元发布重载工业机器人；传松延动力秘密递表港交所；小鹏Etta道歉视频被标疑似AI生成…",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1093493661_350699?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "published_at": "2026-10-27T19:05:55+09:00",
+      "headline": "营收超宇树科技，优必选：人形机器人销量承压",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsfqw3835599.shtml",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "10月22日，在杭州举行的2026世界物理AI大会暨宇树合作伙伴生态大会现场，宇树科技一台H2-X人形机器人在进行侧空翻表演时失去姿态控制，侧摔落地，右侧机械小腿从关节连接处脱落，膝关节疑似爆出火花，表演随即中止。",
-      "summary_zh": "10月22日，在杭州举行的2026世界物理AI大会暨宇树合作伙伴生态大会现场，宇树科技一台H2-X人形机器人在进行侧空翻表演时失去姿态控制，侧摔落地，右侧机械小腿从关节连接处脱落，膝关节疑似爆出火花，表演随即中止。"
+      "summary": "优必选公布2026年上半年业绩，实现营业收入12.69亿元，其中全尺寸具身智能人形机器人产品及解决方案收入5.90亿元，销量921台。 相比2025年下半年出货量，上半年销量环比减少约10.9%，收入环比下滑约24.6%，单台价格中枢降至约64.1万元。 公司整体毛利率提升至44.7%，但仍未跨过持续盈利门槛，面临订单交付兑现、降价对冲以及应收账款和存货等财务风险。",
+      "summary_zh": "优必选公布2026年上半年业绩，实现营业收入12.69亿元，其中全尺寸具身智能人形机器人产品及解决方案收入5.90亿元，销量921台。 相比2025年下半年出货量，上半年销量环比减少约10.9%，收入环比下滑约24.6%，单台价格中枢降至约64.1万元。 公司整体毛利率提升至44.7%，但仍未跨过持续盈利门槛，面临订单交付兑现、降价对冲以及应收账款和存货等财务风险。"
     },
     {
       "date": "2026.10.26",
@@ -123,19 +123,19 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34334370",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "10月26日，机器人概念股再度走强，宇树科技盘中涨超18%，收盘报672元，市值达2718亿元。 近期行业在量产落地和物理AI进展上频传消息：宇树发布新款安保与应急救援机器人H2-X，创始人王兴兴透露G1人形机器人已有1万至2万台下线；启元机器人第5000台个人机器人正式下线，实现每2.5分钟下线一台；智元发布安规级重载具身机器人精灵G2 Max并在多行业展开验证。 海外方面，特斯拉在三季度业绩会上确认Optimus已在弗里蒙特工厂启动早期生产，马斯克预计约一年后将产能提升至每周约2万台，并计划2027年底前后启动对外商业交付。 此外，商务部等9部门发布《关于加快推进科技兴商的意见》，提出丰富智能商品供给并推动具身智能在商贸领域落地。 弗若斯特沙利文报告显示，今年上半年全球人形机器人销量达3.6万台，市场收入达到5.4亿美元。",
-      "summary_zh": "10月26日，机器人概念股再度走强，宇树科技盘中涨超18%，收盘报672元，市值达2718亿元。 近期行业在量产落地和物理AI进展上频传消息：宇树发布新款安保与应急救援机器人H2-X，创始人王兴兴透露G1人形机器人已有1万至2万台下线；启元机器人第5000台个人机器人正式下线，实现每2.5分钟下线一台；智元发布安规级重载具身机器人精灵G2 Max并在多行业展开验证。 海外方面，特斯拉在三季度业绩会上确认Optimus已在弗里蒙特工厂启动早期生产，马斯克预计约一年后将产能提升至每周约2万台，并计划2027年底前后启动对外商业交付. 此外，商务部等9部门发布《关于加快推进科技兴商的意见》，提出丰富智能商品供给并推动具身智能在商贸领域落地。 弗若斯特沙利文报告显示，今年上半年全球人形机器人销量达3.6万台，市场收入达到5.4亿美元。"
+      "summary": "机器人概念股走强，宇树科技盘中涨超18%，报收672元。 行业在量产落地和物理AI应用方面进展加速：宇树科技创始人王兴兴透露G1人形机器人已有1万至2万台下线；启元机器人第5000台个人机器人下线，实现每2.5分钟下线一台；智元发布安规级重载具身机器人精灵G2 Max。 特斯拉在三季度业绩会上确认Optimus已在弗里蒙特工厂高产能产线上启动早期生产，首批机器人正式下线。 通用大模型在机器人任务中的应用受到市场关注，商务部等9部门亦发布意见推动具身智能技术在商贸领域落地。",
+      "summary_zh": "机器人概念股走强，宇树科技盘中涨超18%，报收672元。 行业在量产落地和物理AI应用方面进展加速：宇树科技创始人王兴兴透露G1人形机器人已有1万至2万台下线；启元机器人第5000台个人机器人下线，实现每2.5分钟下线一台；智元发布安规级重载具身机器人精灵G2 Max。 特斯拉在三季度业绩会上确认Optimus已在弗里蒙特工厂高产能产线上启动早期生产，首批机器人正式下线。 通用大模型在机器人任务中的应用受到市场关注，商务部等9部门亦发布意见推动具身智能技术在商贸领域落地。"
     },
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T19:10:00+09:00",
-      "headline": "エクソスケルトン型ロボットスーツ「Keeogoメディカル」日本国内における「管理医療機器」認証を取得",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000049_000132758/",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T07:00:32+09:00",
+      "headline": "フィジカルAIで日本の産業を変える。KDDIとRLWRLDが挑む、ロボット実装への道",
+      "source": "MUGENLABO Magazine",
+      "url": "https://mugenlabo-magazine.kddi.com/list/kddi_rlwrld/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "パシフィックサプライ株式会社は、エクソスケルトン型ロボットスーツ「Keeogoメディカル」について、日本国内における医薬品医療機器等法に基づく「管理医療機器（クラスII）」の認証を取得したと発表した。 これに伴い、全国の医療機関やリハビリテーション施設に向けた医療機器としての提供および導入支援を開始する。 「Keeogoメディカル」は、患者の随意運動による物理的な情報をセンサーで検知し、内蔵された制御プログラムに基づき膝モーターで歩行や立ち上がり等の下肢運動を補助する。 今後はリハビリテーション環境の充実に寄与し、患者のQOL向上に貢献することを目指す。",
-      "summary_zh": "太平洋供应株式会社宣布，其外骨骼型机器人套装“Keeogo Medical”已获得日本国内根据医药医疗机器等法规定的“管理医疗机器（II类）”认证。 伴随此次认证取得，公司将面向全国的医疗机构与康复设施等开始提供医疗机器及引入支持。 “Keeogo Medical”通过传感器检测患者随意运动产生的物理信息，基于内置控制程序由膝部电机对步行及起立等下肢运动提供辅助。 未来将致力于充实康复环境并贡献于患者生活质量的提升。"
+      "summary": "2026年9月18日，聚焦フィジカルAIをテーマとしたセッションイベントが開催され、基盤モデル開発を手掛けるRLWRLDと出資を通じて事業共創を進めるKDDIが登壇した。 少子高齢化による人手不足が深刻化する中、両社は物流倉庫や小売店舗などの現場でデータを収集し、フィジカルAIを適用したロボットの実装に向けた検証を行っている。 経済産業省のGENIACにおける小売・物流向けロボット基盤モデルの研究開発へと発展したこの取り組みでは、効率的なデータ収集技術や、シミュレーションと実環境の双方で安定して動作する基盤モデルの開発を目指している。 大企業とスタートアップが互いの強みを生かし、日本全体でフィジカルAIの市場とエコシステムを育てることを目標に掲げている。",
+      "summary_zh": "2026年9月18日，聚焦フィジカルAIをテーマとしたセッションイベントが開催され、基盤モデル開発を手掛けるRLWRLDと出資を通じて事業共創を進めるKDDIが登壇した。 少子高齢化による人手不足が深刻化する中、両社は物流倉庫や小売店舗などの現場でデータを収集し、フィジカルAIを適用したロボットの実装に向けた検証を行っている。 経済産業省のGENIACにおける小売・物流向けロボット基盤モデルの研究開発へと発展したこの取り組みでは、効率的なデータ収集技術や、シミュレーションと実環境の双方で安定して動作する基盤モデルの開発を目指している。 大企業とスタートアップが互いの強みを生かし、日本全体でフィジカルAIの市場とエコシステムを育てることを目標に掲げている。"
     },
     {
       "date": "2026.10.27",
@@ -145,8 +145,8 @@
       "url": "https://online.logi-biz.com/151802/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "東京海上日動火災保険は10月26日、AIロボットの機体損害や第三者への損害賠償責任に加え、稼働停止時の代替人材の人件費などを補償する「AIロボット保険」の提供を11月に始めると発表した。 同種の損害保険は国内初とみられる。 フィジカルAIの進展により自律移動型ロボットの活用が幅広い分野で拡大する一方、転倒や衝突による機体損害や高額な修理費用、稼働停止が事業継続に与えるリスクに対応する。 対象は車輪型、4足歩行、ヒューマノイドなどの自律移動型ロボットで、サイバーインシデントに起因する損害は補償対象外となる。 政府のロードマップでは、AIロボットの世界市場が2040年までに約60兆円規模へ拡大すると予想されている。",
-      "summary_zh": "东京海上日动火灾保险于10月26日宣布，将于11月推出“AI机器人保险”，以补偿AI机器人的机体损害、对第三方的损害赔偿责任以及因停机造成的替代人才劳动力成本等。 同类损害保险在日本国内尚属首次。 随着物理AI的发展，自律移动型机器人应用在各领域扩大，同时为应对跌落或碰撞造成的机体损害、高额修理费以及停机对业务持续性的影响。 对象包括车轮型、四足步行、人形等自律移动型机器人，网络攻击导致的损害不在补偿范围内。 根据政府路线图，预计AI机器人全球市场到2040年将扩大至约60万亿日元规模。"
+      "summary": "東京海上日動火災保険は10月26日、AIロボットの機体損害や第三者への損害賠償責任に加え、稼働停止時の代替人材の人件費などを補償する「AIロボット保険」の提供を11月に始めると発表した。 同種の損害保険は国内で初めてとみられる。 フィジカルAIの進展により、警備や清掃、物流などの分野で自律移動型ロボットの活用拡大が見込まれている一方で、転倒や衝突による機体損害や高額な修理費用、事業継続への影響といったリスクが生じている。 政府のロードマップでは、AIロボットの世界市場が2040年までに約60兆円規模へ拡大すると予想されており、同社は企業が安心してAIロボットを導入・活用できる環境の整備を支援する方針である。",
+      "summary_zh": "東京海上日動火災保険は10月26日、AIロボットの機体損害や第三者への損害賠償責任に加え、稼働停止時の代替人材の人件費などを補償する「AIロボット保険」の提供を11月に始めると発表した。 同種の損害保険は国内で初めてとみられる。 フィジカルAIの進展により、警備や清掃、物流などの分野で自律移動型ロボットの活用拡大が見込まれている一方で、転倒や衝突による機体損害や高額な修理費用、事業継続への影響といったリスクが生じている。 政府のロードマップでは、AIロボットの世界市場が2040年までに約60兆円規模へ拡大すると予想されており、同社は企業が安心してAIロボットを導入・活用できる環境の整備を支援する方針である。"
     },
     {
       "date": "2026.10.26",
@@ -156,8 +156,8 @@
       "url": "https://news.yahoo.co.jp/articles/47d48898f30004a7ccd8f7055c68da9efd5848f7",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "東京海上日動火災保険は26日、AIを搭載して自律的に動くロボットの誤作動などに備える「AIロボット保険」を11月に発売すると発表した。 国内の損害保険会社で取り扱うのは初めてとなる。 対象となるのは、センサーやカメラで周囲を判断し動作を制御する「フィジカルAI」を実装した移動式のロボットで、二足歩行の人型に限らず、四足や車輪で自律移動する機体も含まれる。 補償内容は、ロボットの災害や衝突による修理代、誤作動による損害賠償費用、代わり機体のレンタル費など。 ただし、サイバー攻撃を受けて生じた損害は補償対象外となる。",
-      "summary_zh": "东京海上日动火灾保险于26日宣布，将于11月推出“AI机器人保险”，以防范搭载AI自律行动机器人的误操作等风险。 这是日本国内财产保险公司首次开展此项业务。 对象为通过传感器和摄像头判断周围环境并控制动作的“物理AI”移动式机器人，不仅限于双足步行的人形，还包括通过四足或车轮自律移动的机体。 保障内容包括机器人因灾害或碰撞产生的修理费、误操作导致的损害赔偿费用以及替代机型的租赁费等。 不过，遭受网络攻击所产生的损害不属于补偿对象。"
+      "summary": "東京海上日動火災保険は26日、AIを搭載して自律的に動くロボットの誤作動などに備える「AIロボット保険」を11月に発売すると発表した。 国内の損害保険会社で初めて取り扱う。 保険の対象となるのは、周囲の状況を判断し動作を制御する「フィジカルAI」を実装した移動式のロボットである。 ロボットが災害や衝突で破損した際の修理代、誤作動などで被害を与えた際の損害賠償費用、代わりの機体のレンタル費などを補償する。 ただし、サイバー攻撃を受けて損害が生じた場合は補償対象外となる。",
+      "summary_zh": "东京海上日动火灾保险于26日宣布，将于11月推出“AI机器人保险”，以应对搭载AI且自主运行的机器人的误操作等风险，这是日本国内财产保险公司首次推出该业务。 该保险的对象为通过传感器和摄像头判断周边情况并控制动作、搭载了“物理AI”的移动式机器人。 保险内容包括机器人在灾害或碰撞中受损时的修理费、误操作造成损害时的损害赔偿费用以及替代机体的租赁费等。 不过，若系统等遭受网络攻击而产生损害，则不属于补偿对象。"
     },
     {
       "date": "2026.10.26",
@@ -167,30 +167,63 @@
       "url": "https://ascii.jp/elem/000/004/445/4445081/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "三菱電機株式会社は2025年10月21日、自社AI技術「Maisart」を活用したフィジカルAIを介して、ヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。 製造現場の人手不足や従来のシステム構築における課題を背景に、自然言語による指示のみでタスクを自動生成・振り分けを行い、ロボットの個別システム構築を不要にする。 同社は2030年の実用化を目指し、完全無人化された工場の実現に向けて機能の高度化や実証実験を進める方針である。",
-      "summary_zh": "三菱电机株式会社于2025年10月21日宣布，开发出通过物理AI使人形机器人与CNC机床实现无缝协作的加工系统。 该系统利用自有AI技术“Maisart”，无需针对机器人机型构建个别系统，仅通过自然语言指令即可联动，旨在减少制造现场的人手需求并实现加工流程省人化。 面对制造业严重的人手短缺，该系统由AI自动生成和分配任务，操作员只需简单指示即可执行和管理加工。 三菱电机计划在2030年实现其实用化，推进功能升级与验证试验，以达成完全无人工厂的目标。"
+      "summary": "三菱電機株式会社は10月21日、フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。 自社AI技術「Maisart」を活用し、個別システム構築なしで自然言語指示のみで連動し製造現場の省人化を目指す。 システムは「AI加工タスクプランナー」「CNC工作機械」「汎用ヒューマノイドロボット」の3要素で構成され、AIが作業工程を自動で組み立てて各機器へ割り振る。 同社は2030年の実用化に向けて機能高度化と実証実験を進める方針である。",
+      "summary_zh": "三菱电机株式会社于10月21日宣布，开发出通过物理AI使人形机器人与CNC机床无缝协作的加工系统。 该系统利用自有AI技术“Maisart”，无需构建个别系统，仅通过自然语言指令即可联动，旨在实现制造现场的少人化。 该系统由“AI加工任务规划器”、“CNC机床”和“通用人形机器人”三个要素构成，AI可自动组装工作流程并分配给各设备。 该公司计划推进功能高度化和验证实验，以实现2030年的实用化。"
     },
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T13:10:00+09:00",
-      "headline": "「腕が3本でもいい」フィジカルAIは人型である必要がある？ 日本のロボット3社トップが語った“勝ち筋”とは（VAGUE）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/aaa74711ef36b06211907fe6acce6c1d98e26e4d?page=4",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T01:10:00+09:00",
+      "headline": "エクソスケルトン型ロボットスーツ「Keeogoメディカル」日本国内における「管理医療機器」認証を取得",
+      "source": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=000000049.000132758&g=prt",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "コリン・アングル氏の取り組みや国内ロボット企業トップへの個別取材を通じて、ヒューマノイドロボットの未来や社会実装に関する議論が語られた。 家庭環境において人間そっくりの高性能な機械が居続けることで生じる緊張感や、二足歩行による転倒リスク、重量・価格・騒音への影響が指摘された。 研究開発を加速させる目標としての人型と、完成した製品の必然性は分けて考えるべきであり、家事用の家政婦型や関係構築を重視するドラえもん型など、目的に応じた多様な身体の設計や人間との距離感が検討されている。",
-      "summary_zh": "通过对科林·安格尔的举措及国内机器人企业高管的个别采访，探讨了人形机器人的未来及社会落地相关议论。 文章指出，在家庭环境中持续存在外观极似人类的高性能机械可能会带来紧张感，且二足步行带来的易倒闭风险、重量、价格及噪音均会受到影响。 应当将作为加速研发目标的人形与完成后的产品必然性区分开来，针对家务劳动的“家政妇型”以及重视关系构建的“哆啦A梦型”等，根据目的设计多样化的躯干以及与人类的距离感正在受到审视。"
+      "summary": "パシフィックサプライ株式会社は、エクソスケルトン型ロボットスーツ「Keeogoメディカル」について、日本国内における医薬品医療機器等法に基づく管理医療機器（クラスII）および特定保守管理医療機器の認証を取得したと発表した。 これに伴い、全国の医療機関やリハビリテーション施設等に向けた医療機器としての提供および導入支援を開始する。 販売名はKeeogoメディカル、使用目的は下肢の筋力を維持、発達又は回復させることである。 患者の随意運動による物理的な情報を感知し、膝モーターによって歩行や立ち上がり等の動作を補助する。",
+      "summary_zh": "太平洋供应株式会社宣布，关于外骨骼型机器人套服“Keeogo Medical”，已取得日本国内根据医药医疗器械等相关法律的“管理医疗器械（II类）”及特定保守管理医疗器械认证。 伴随此次认证取得，该公司开始面向全国的医疗机构及康复设施等提供医疗设备并支援引入。 其销售名称为Keeogo Medical，使用目的为维持、发展或恢复下肢肌力。 该装置通过感知患者自主运动带来的物理信息变化，利用膝部马达对步行及起立等动作提供必要的辅助力。"
     },
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T09:35:00+09:00",
-      "headline": "ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
-      "source": "Newscast.jp",
-      "url": "https://newscast.jp/smart/news/9241185",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T07:55:08+09:00",
+      "headline": "BMWの自動車3万台の生産に貢献したヒューマノイド「Figure 02」から日本の自動車業界が学べること",
+      "source": "オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/serial/2026/10/bmw3figure_02.html",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "世界のヒューマノイドロボット用コンポーネント市場は、2025年の15億米ドルから2035年には452億米ドルに達し、2026年から2035年の予測期間における年平均成長率（CAGR）は40.6％になると予測されている。 市場拡大の背景には製造業の人手不足や物流施設の自動化需要があり、アクチュエータやセンサー、AIプロセッサーなどの高性能部品が実用化を支える。 特にアクチュエータは部品表の40％～60％を占め最大のコスト要因となっており、5本指ハンドは7万ドルを超える場合がある。 主要企業としてHarmonic Drive Systems、Nidec、Schaeffler、Maxon、Nabtesco、Sanhua、Tesla、NVIDIAなどが挙げられている。",
-      "summary_zh": "全球人形机器人组件市场预计将从2025年的15亿美元增长到2035年的452亿美元，2026年至2035年的复合年增长率为40.6%。 市场扩大的背景包括制造业劳动力短缺、物流设施自动化需求及研发投资增加，其中执行器、传感器和AI处理器等高性能部件是关键技术基础。 执行器占机器人物料清单的40%至60%，是最大的成本因素，而高级五指灵巧手在小批量采购时价格可能超过7万美元。 主要企业包括Harmonic Drive Systems、Nidec、Schaeffler、Maxon、Nabtesco、Sanhua、Tesla、NVIDIA等。"
+      "summary": "米国のロボティクス企業Figure AIが開発した人型ロボット「Figure 02」が、BMWの米国スパータンバーグ工場におけるBMW X3の生産ラインに投入され、3万台以上の生産に貢献した。 Figure 02は、車体製造の溶接工程の前段階として、ラックからの板金部品の取り出し、溶接治具までの運搬、および約5mm以内の許容誤差と約2秒の配置時間という要件に沿った位置決めとセットを担当した。 稼働実績として、1,250時間以上、約200マイルの歩行距離、約120万歩、9万点以上の板金部品の取り扱いが記録された。 一方で、長時間の運用により前腕内部のマイクロコントローラー基板や配線などのハードウェアに課題が見つかり、後継機のFigure 03では手首の電子回路が再設計されることになった。",
+      "summary_zh": "美国机器人公司Figure AI开发的具身人形机器人“Figure 02”进入BMW美国斯帕坦堡工厂的BMW X3实际生产线，为超过3万辆汽车的生产提供了助力。 Figure 02在车身焊接工序的前期环节中负责从料架取出钣金件、运送至焊接夹具，并以大约5毫米以内的误差容限和约2秒的配置时间完成精准定位与放置。 其运营记录显示运行时间超过1,250小时、步行距离约200英里、步数约120万步、处理了超过9万个钣金部件。 另一方面，长期的实际应用也暴露出前腕内部微控制器电路板及布线等硬件问题，促使后继机型“Figure 03”重新设计了手腕的电子电路。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T05:55:56+09:00",
+      "headline": "How do astronauts survive and thrive? Smithsonian exhibit features space toilet and humanoid robot",
+      "source": "WTOP News",
+      "url": "https://wtop.com/things-to-do-in-dc/2026/10/how-do-astronauts-survive-and-thrive-smithsonian-exhibit-features-space-toilet-and-humanoid-robot/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "The Smithsonian’s Air and Space Museum renovation in Southwest D. C. is set to open the \"At Home in Space\" exhibit later this week, exploring the 50-year history of humans living and working in space. Main attractions include a space shuttle main engine, an Extravehicular Mobility Unit spacesuit, an experimental humanoid robot named Robonaut 1A, and an International Space Station module mock-up. Curator Emily Margolis highlighted challenges such as microgravity bathroom use via a replica space station toilet utilizing light suction instead of water, and the fact that 98% of station water is recycled. Additionally, the exhibit features thick astronaut spacesuit gloves in an interactive vacuum setting to demonstrate the difficulty of working with hand tools, along with a space-baked cookie returned from the ISS in 2019.",
+      "summary_zh": "位于华盛顿特区西南部的史密森尼国家航空航天博物馆翻新工程计划于本周晚些时候开放“太空之家”展览，展示人类在太空中生活与工作的50年历史。 主要展品包括航天飞机主发动机、曾经历太空真空环境舱外机动宇航服、名为Robonaut 1A的实验性人形机器人以及国际空间站舱段模型。 策展人埃米莉·马戈利斯重点介绍了微重力环境下如厕的挑战，展出了采用微弱吸力代替水来转移废弃物的空间站同款马桶复制品，并指出空间站98%的水得到了循环利用。 此外，展览还设置了真空环境下的互动体验，让参观者戴着厚重的宇航服手套尝试使用手工工具，以展示在太空中作业的巨大难度，同时展出了2019年在国际空间站烘焙后被带回地球的一块太空曲奇。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T04:23:54+09:00",
+      "headline": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight",
+      "source": "KED Global",
+      "url": "https://www.kedglobal.com/robotics/newsView/ked202610270008",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "Robert Playter, the former chief executive of Boston Dynamics Inc. , spoke during day two of Web Summit 2025 at the MEO Arena in Lisbon, Portugal, sharing his perspective that humanoid robots are approaching a major turning point resembling a 'ChatGPT moment' for physical AI.",
+      "summary_zh": "波士顿动力公司前首席执行官罗伯特·普莱特在葡萄牙里斯本MEO Arena举行的2025年网络峰会第二天发表讲话，分享了他对人形机器人正接近物理人工智能“ChatGPT时刻”这一重大转折点的看法。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T00:45:00+09:00",
+      "headline": "The Humanoid Robotics Funding Race: What the Money Tells Us About Commercial Readiness",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com/article/2026/10/the-humanoid-robotics-funding-race-what-the-money-tells-us-about-commercial-readiness/27111",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "The humanoid robotics sector has attracted nearly $11.7 billion in disclosed capital, yet the most heavily funded companies remain at the pilot or prototype stage, while commercially available humanoids originate from firms that raised the least. Data from The Robotic Life's funding tracker as of September 1, 2026, indicates that six companies raised over $500 million each, holding $7.6 billion (about 65% of the sector total), while four companies with humanoids in general commercial availability raised a combined $1.03 billion (under 9%). Major fundraising includes Figure AI at $2.34 billion cumulative capital with a $39 billion valuation following a Series C exceeding $1 billion in September 2025, Apptronik holding $1.1 billion at a $5.5 billion valuation, NEURA Robotics at $1.6 billion total funding with a $7 billion valuation backed by Tether, NVIDIA, Amazon, Qualcomm, Bosch, and Schaeffler, and UBTECH raising over $1 billion before listing in December 2023 with Walker S units active at BYD, Foxconn, Zeekr, and Audi FAW plants. Meanwhile, Unitree achieved commercial shipping and a public listing on the Shanghai Stock Exchange on roughly $155 million in pre-IPO private capital. Tesla and Xiaomi's internally funded corporate programs of over $20 billion and $10 billion respectively are excluded from the external capital figures.",
+      "summary_zh": "人形机器人行业已吸引了近117亿美元的公开融资金额，然而获得最多资金支持的公司仍处于试验或原型阶段，实现全面商业化的人机反而是融资最少的企业。 根据《机器人生活》截至2026年9月1日的融资追踪数据，有6家公司各自筹集了超过5亿美元，共计持有76亿美元（约占行业总资金的65%），而拥有实现全面商业化人形机器人的4家公司总共筹集了$1.03 billion（不足9%）。 主要的融资案例包括：Figure AI在2025年9月完成超过$10 billion的C轮融资后，累计资本达到23.4亿美元，估值390亿美元；Apptronik拥有11亿美元资金，估值55亿美元；NEURA Robotics总融资额达到16亿美元，估值70亿美元，投资方包括Tether、英伟达、亚马逊、高通、博世和舍弗勒；优必选在2023年12月上市前私下筹集了超过10亿美元，其Walker S机器人在比亚迪、富士康、极氪和奥迪一汽工厂投入运行。 与此同时，宇树科技凭借约1.55亿美元的IPO前私人资本实现了商业出货并在上海证券交易所上市。 特斯拉和小米内部资助的企业项目分别超过200亿美元和100亿美元，未计入外部资本数据中。"
     },
     {
       "date": "2026.10.28",
@@ -200,41 +233,8 @@
       "url": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Tesla plans to use its Optimus humanoid robots to plug in Robotaxis while working on a more automated wireless charging system. Currently, Tesla employees charge driverless Robotaxis by hand at an Austin Supercharger and move vehicles that are parked too far from the stall. Cybercabs rely on Superchargers because they do not support AC charging and feature a NACS charge port in the rear bumper. Tesla received FCC approval for wireless Cybercab charging earlier this year and plans an Austin hub with 80 wireless chargers. Tesla recently began early Optimus production at its Fremont factory, with corporate customer deliveries planned for 2027.",
-      "summary_zh": "特斯拉计划在其致力于开发更自动化的无线充电系统期间，使用其Optimus人形机器人为Robotaxi插电充电。 目前，特斯拉员工在奥斯汀超充站通过人工方式为无驾驶员Robotaxi充电，并移动未停到位的车辆。 由于不支持交流充电，Cybercab仅能使用超充站，并在后保险杠隐蔽处设有NACS充电端口。 特斯拉今年早些时候获得了Cybercab无线充电的FCC批准，并计划在奥斯汀建设拥有80个无线充电器的枢纽。 特斯拉最近在弗里蒙特工厂开始早期Optimus生产，计划于2027年向企业客户交付首批产品。"
-    },
-    {
-      "date": "2026.10.28",
-      "published_at": "2026-10-28T00:22:15+09:00",
-      "headline": "Can Tesla’s Optimus Handle Last-Mile Delivery? The Hardware Reality Behind the Pitch",
-      "source": "Yahoo Tech",
-      "url": "https://tech.yahoo.com/transportation/articles/tesla-optimus-handle-last-mile-152215208.html",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Tesla executives Lars Moravy and Eric Earley described a future where Optimus participates in logistics and last-mile delivery, starting by charging robotaxis inside controlled environments and potentially moving into vehicle servicing and delivery. Amazon operates a fulfillment network with more than 1 million coordinated robots managed through its DeepFleet system. Agility Robotics' Digit has been deployed with GXO Logistics, whereas Amazon-related activity has been described as a pilot. Moravy and Earley noted that Optimus runs on a single battery module of roughly 2.5 kWh, which represents a relatively small share of the total cost. Realizing outdoor delivery would require overcoming unproven battery endurance, reliable outdoor autonomy, and regulatory clearance.",
-      "summary_zh": "特斯拉高管Lars Moravy和Eric Earley描述了未来Optimus参与物流和最后一英里配送的愿景，起步阶段是在受控环境中为机器人出租车充电，随后可能涉足车辆维修和配送领域。 亚马逊运营着一个拥有超过100万台协调机器人的履约网络，并通过DeepFleet系统进行管理。 Agility Robotics的Digit已部署在GXO物流的仓库运营中，而亚马逊相关的活动被描述为试点。 Moravy和Earley指出，Optimus运行在一个约2.5 kWh的单个电池模块上，该电池占总成本的比例相对较小。 实现户外配送需要克服未经验证的电池续航能力、可靠的户外自主性以及监管审批等门槛。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T22:23:54+09:00",
-      "headline": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight",
-      "source": "KED Global",
-      "url": "https://www.kedglobal.com/robotics/newsView/ked202610270008",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Humanoid robots will report to work soon as the physical AI moment arrives, according to former Boston Dynamics CEO Robert Playter speaking during day two of Web Summit 2025 at the MEO Arena in Lisbon, Portugal.",
-      "summary_zh": "根据前波士顿动力公司首席执行官Robert Playter在葡萄牙里斯本MEO Arena举行的2025年网络峰会第二天上的发言，随着物理人工智能时刻的到来，人形机器人很快将走上工作岗位。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T19:43:41+09:00",
-      "headline": "Agile Robots and NVIDIA Unveil Agile ONE SN Humanoid Robot for Research",
-      "source": "Gasgoo",
-      "url": "https://autonews.gasgoo.com/articles/news/agile-robots-and-nvidia-unveil-agile-one-sn-humanoid-robot-for-research-2115031857569349632",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Agile Robots and NVIDIA jointly unveiled the Agile ONE SN humanoid robot for research at the NVIDIA GTC conference in Berlin. Built on the NVIDIA Isaac GR00T development platform, the unit stands 1.4 meters tall, weighs 43 kilograms, and has 31 degrees of freedom. It features an onboard NVIDIA Jetson Thor computing platform, a multi-view sensor system including an RGB-D camera, wrist cameras, 3D LiDAR, and an IMU. Joint torque reaches up to 140 newton-meters, with a maximum single-arm payload of 3 kilograms, while supporting Wi-Fi 7 and Bluetooth. The software includes the Isaac GR00T system with the GR00T 1.7 open-source vision-language-action model. The Agile ONE S and SN series is scheduled for an early 2027 launch.",
-      "summary_zh": "Agile Robots与英伟达在柏林英伟达GTC大会上联合发布了专为研究设计的人形机器人Agile ONE SN。 该机器人基于英伟达Isaac GR00T开发平台构建，高1.4米，重43公斤，具有31个自由度。 它配备了机载英伟达Jetson Thor计算平台以及包括RGB-D相机、腕部相机、3D激光雷达和IMU在内的多视角传感器系统。 其关节扭矩高达140牛米，单臂最大负载为3公斤，并支持Wi-Fi 7和蓝牙连接。 软件方面搭载了包含GR00T 1.7开源视觉-语言-动作模型的Isaac GR00T系统。 Agile ONE S和SN系列计划于2027年初发布。"
+      "summary": "Tesla plans to use its Optimus humanoid robots to plug in Robotaxis to charge while developing a more automated wireless charging system. Currently, Tesla employees manually plug in Cybercabs and Model Y robotaxis at Austin Superchargers because Cybercabs rely on a NACS charge port in the rear bumper and lack AC charging support. Tesla has already secured FCC approval for wireless Cybercab charging and plans an Austin Robotaxi hub with 80 wireless chargers, but wireless charging will take time to implement. Tesla recently began early Optimus production at its Fremont factory with first corporate customer deliveries planned for 2027. In addition to charging, Tesla engineers indicated Optimus might eventually service the fleet and assist in the delivery space, forming part of a physical AI trifecta alongside Cybercab and Robovan.",
+      "summary_zh": "特斯拉计划在开发更自动化的无线充电系统的同时，利用其Optimus人形机器人为Robotaxi插电充电。 目前，特斯拉员工在奥斯汀超级充电站手动为Cybercab和Model Y robotaxis插电，因为Cybercab依赖后保险杠中隐藏的NACS充电端口，且不支持交流充电。 特斯拉此前已获得美国联邦通信委员会对Cybercab无线充电的批准，并计划在奥斯汀建立一个拥有80个无线充电器的Robotaxi枢纽，但无线充电的落地仍需时间。 特斯拉最近已在其弗里蒙特工厂开始早期Optimus生产，计划于2027年向企业客户进行首批交付。 除了充电之外，特斯拉工程师表示Optimus未来可能还会负责车队维护并在配送领域提供协助，与Cybercab和Robovan共同构成物理人工智能的三大支柱。"
     }
   ]
 }
