@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-10-28T11:06:04.572596+09:00",
+  "updated_at": "2026-10-29T11:16:28.974217+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-28T11:06:04.572596+09:00",
-    "latest_article_at": "2026-10-28T08:30:00+09:00",
+    "checked_at": "2026-10-29T11:16:28.974217+09:00",
+    "latest_article_at": "2026-10-28T15:41:21+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -15,14 +15,47 @@
   "articles": [
     {
       "date": "2026.10.28",
+      "published_at": "2026-10-28T15:41:21+09:00",
+      "headline": "灵巧手的能力边界，由什么决定？",
+      "source": "具身之家",
+      "url": "https://www.jushenhome.com/news_d.php?id=2150",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "10 月 16 日，ROSCon China 2026 在上海开幕，临界点具身首席科学家黄碧丹分享了灵巧手算法与硬件系统协同的实践经验。 在第二届世界人形机器人灵巧手专项赛中，临界点团队使用量产型 OmniHand 3 灵巧手搭配消费级相机取得 7 金 4 银 3 铜。 通过优化感知、规划与抓取环节，团队将积木搭建赛项的成绩由预赛的 5 分钟仅搭建 7 块逆转为决赛以 2 分 07 秒完成 20 块积木。 在镊子夹豆赛项中，团队克服现场规则与物料变化，快速迭代方案，最终采用螺旋夹取策略拿下冠军。 黄碧丹指出，软硬协同不是让算法迁就硬件，而是要在设计之初将硬件特性纳入约束，实现软硬件深度协同。 此外，临界点推出面向全球开发者的 Project Eureka 生态计划，并计划于 10 月 29 日发布灵巧手挑战赛与全新数采手套。",
+      "summary_zh": "10 月 16 日，ROSCon China 2026 在上海开幕，临界点具身首席科学家黄碧丹分享了灵巧手算法与硬件系统协同的实践经验。 在第二届世界人形机器人灵巧手专项赛中，临界点团队使用量产型 OmniHand 3 灵巧手搭配消费级相机取得 7 金 4 银 3 铜。 通过优化感知、规划与抓取环节，团队将积木搭建赛项的成绩由预赛的 5 分钟仅搭建 7 块逆转为决赛以 2 分 07 秒完成 20 块积木。 在镊子夹豆赛项中，团队克服现场规则与物料变化，快速迭代方案，最终采用螺旋夹取策略拿下冠军。 黄碧丹指出，软硬协同不是让算法迁就硬件，而是要在设计之初将硬件特性纳入约束，实现软硬件深度协同。 此外，临界点推出面向全球开发者的 Project Eureka 生态计划，并计划于 10 月 29 日发布灵巧手挑战赛与全新数采手套。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T13:51:55+09:00",
+      "headline": "机器人最后的\"一厘米\"，投融界研究院解读灵巧手创业窗口",
+      "source": "凤凰网",
+      "url": "https://hainan.ifeng.com/c/8xaTnhasPKB",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "Robot dexterity and dexterous hands represent a critical bottleneck in factory automation, with industry demand growing rapidly. According to Gaogong Industry Research Institute data, China's dexterous hand market sales are approximately 19,200 units in 2025, an increase of over 230% year-on-year, and are expected to reach around 70,000 units in 2026 and exceed 430,000 units by 2030. High-freedom dexterous hands have dropped in price from 400,000 to 500,000 yuan to 10,000-yuan-level products, opening doors across industrial, scientific research, medical rehabilitation, and service sectors. Entrepreneurs can enter the market through core components like micro-motors and tactile sensors, small application scenarios such as 3C manufacturing and automotive assembly, and integrated software and hardware solutions. Capital funding has also surged, with investments in dexterous hands and related fields exceeding 31 billion yuan in the first 8 months of 2026, marking 1.85 times the total for 2025.",
+      "summary_zh": "机器人灵巧度与灵巧手是工厂自动化面临的关键瓶颈，行业需求正在快速增长。 根据高工产业研究院数据，2025 年中国灵巧手市场销量约 1.92 万只，同比增长超过 230%，预计 2026 年将达 7 万只左右，到 2030 年有望突破 43 万只。 高自由度灵巧手价格已从过去每只 40 万至 50 万元降至万元级产品，打开了工业、科研、医疗康复和服务领域的应用大门。 创业者可从微型电机与触觉传感器等核心零部件、3C 制造与汽车装配等小型具体场景、以及手加算法的软硬件解决方案三个方向切入。 同时资金热度高涨，2026 年前 8 个月涌入灵巧手及相关领域的资金超过 310 亿元，是 2025 年全年的 1.85 倍。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T12:00:33+09:00",
+      "headline": "Xiaomi Engineers Robotic Hand From 1,827 Factory SOPs: China Spy Law Travels With It",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/329583/20261027/xiaomi-engineers-robotic-hand-1827-factory-sops-china-spy-law-travels-it.htm",
+      "language": "English",
+      "section": "Global",
+      "summary": "Xiaomi has developed a new robotic hand for automotive manufacturing, engineered from 1,827 standard operating procedures derived from Xiaomi's automotive test center. Announced by Xiaomi, the device weighs 324 grams and features 26 electric motors, 21 degrees of freedom, and approximately 1,500 tactile sensing points. A June 2026 World Economic Forum and RLWRLD report noted that finger-level manipulation remains the primary bottleneck to factory deployment. Xiaomi's engineers analyzed their SOP corpus and determined that moving from a 6-to-15 degrees of freedom design to a 21-degrees of freedom design raises stable grasp success rates by roughly 15 to 38 percent, while pushing beyond 23 degrees of freedom yields diminishing returns. To accommodate tactile sensors, 16 of the 21 degrees of freedom are cable-driven with motors housed in the forearm, while the remaining 5 use direct drive. Maximum power draw for a single hand is rated at 100W, and the system uses tendon tension sensors to modulate grip in real time.",
+      "summary_zh": "小米为汽车制造开发了一种新型机器人灵巧手，该设计源自小米汽车测试中心的 1,827 条标准操作程序。 小米于今日发布该设备，其重量为 324 克，拥有 26 个电动机、21 个自由度以及大约 1,500 个触觉传感点。 世界经济论坛与 RLWRLD 2026 年 6 月发布的一份报告指出，手指级操作仍然是工厂部署的主要瓶颈。 小米工程师分析了标准操作程序语料库后发现，将自由度从 6 至 15 个提升至 21 个可将稳定抓取成功率提高约 15% 至 38%，而超过 23 个自由度则会带来递减的效率回报。 为了腾出空间放置触觉传感器，21 个自由度中有 16 个采用腱绳驱动，电动机容纳在前臂中，其余 5 个自由度使用直接驱动。 单只手的最大功耗额定值为 100W，系统通过腱绳张力传感器实时调节抓握。"
+    },
+    {
+      "date": "2026.10.28",
       "published_at": "2026-10-28T08:30:00+09:00",
       "headline": "Sarcomere Dynamics robotic hand shortlisted for groundbreaking technology award",
       "source": "St. Albert Gazette",
       "url": "https://www.stalbertgazette.com/local-news/sarcomere-dynamics-robotic-hand-shortlisted-for-groundbreaking-technology-award-12927243",
       "language": "English",
       "section": "Global",
-      "summary": "Sarcomere Dynamics, a robotics company founded in 2019 by Avtar Mandaher with operations in St. Albert, Calgary, and B. C. , has been shortlisted for the Groundbreaking Technology award in the 2026 Humanoid Robotics Industry Awards for its ARTUS Lite robotic hand. The dexterous hand features five working fingers and 20 articulated joints, and is intended for precision manufacturing, tool handling, factory line tending, medical and laboratory automation, and materials handling. Mandaher stated that the company focuses on creating useful robotic technologies for unstructured environments, performing a large portion of manufacturing in-house at its Pit Meadows, B. C. , facility to cut costs and integrate engineering with production. The winners of the 2026 awards will be announced on Thursday, Oct. 29.",
-      "summary_zh": "由Avtar Mandaher于2019年创立、总部位于St. Albert、Calgary及B. C. 的机器人公司Sarcomere Dynamics凭借其ARTUS Lite机器人手入围了2026年Humanoid Robotics Industry Awards的Groundbreaking Technology奖项。 这款灵巧手拥有5根工作手指和20个关节，旨在用于精密制造、工具操作、工厂产线照看、医疗与实验室自动化以及物料搬运。 Mandaher表示，公司致力于为非结构化环境创造实用的机器人技术，其大部分制造工作在位于B. C. Pit Meadows的内部工业设施中完成，以降低成本。 2026年Humanoid Robotics Industry Awards的获胜者将于10月29日星期四宣布。"
+      "summary": "Avtar Mandaher started building robotic hand prototypes in 2020 and co-founded Sarcomere Dynamics in 2019 upon graduating from the University of British Columbia. Based in St. Albert, Calgary, and British Columbia, Sarcomere Dynamics is the sole Canadian organization nominated for an award in the 2026 Humanoid Robotics Industry Awards. Their product, the ARTUS Lite, is a dexterous robot hand featuring five working fingers and 20 articulated joints, and has been nominated for the Groundbreaking Technology award alongside companies such as Tesla and Boston Dynamics. Intended for precision manufacturing, tool handling, factory line tending, medical and laboratory automation, and materials handling, the ARTUS Lite is designed to perform boring and dangerous industrial tasks with high durability, grip strength, and precision dexterity. A significant portion of Sarcomere's manufacturing is conducted in-house at their Pit Meadows, British Columbia industrial facility, reducing manufacturing costs. The 2026 Humanoid Robotics Industry Awards winners will be announced on Thursday, October 29.",
+      "summary_zh": "Avtar Mandaher 于 2020 年开始制作机器人手原型，并在 2019 年从英属哥伦比亚大学毕业时共同创立了 Sarcomere Dynamics。 总部位于圣阿尔伯特、卡尔加里和英属哥伦比亚的 Sarcomere Dynamics，是唯一一家入围 2026 年人形机器人行业奖项提名的加拿大机构。 其产品 ARTUS Lite 是一款拥有 5 个工作手指和 20 个关节的灵巧机器人手，与特斯拉和波士顿动力等公司一同获得 2026 年人形机器人行业奖项中突破性技术奖的提名。 ARTUS Lite 旨在用于精密制造、工具处理、工厂产线照看、医疗与实验室自动化以及材料处理，通过高耐用性、抓握力与精准灵巧度来执行工业环境中的任务。 Sarcomere 的大部分制造工作在其位于英属哥伦比亚皮特梅多斯的工业设施内部完成，从而降低了制造成本。 2026 年人形机器人行业奖项的得主将于 10 月 29 日星期四宣布。"
     },
     {
       "date": "2026.10.27",
@@ -32,19 +65,30 @@
       "url": "https://m.sohu.com/a/1093305540_100085330?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "Xiaomi officially announced its new bionic dexterous hand on October 27, featuring 21 degrees of freedom, 26 motors, and 1,500-point high-density whole-palm tactile sensors. The hand was developed based on 1,827 real operation SOPs from Xiaomi Auto's intelligent manufacturing center test center, drawing from 16 typical workstation processes and 2,579 manual operation SOPs collected by the robot team. The hardware utilizes a mixed drive scheme paired with tendon tension control to bend fingers and precisely control grip force. The 1,500-point whole-palm tactile sensors allow the hand to perceive pressure and friction and distinguish object hardness and shape in real time. The development aims to replace repetitive manual factory operations, handle part gripping and assembly, and reduce labor costs on Xiaomi Auto's intelligent manufacturing production lines.",
-      "summary_zh": "小米于10月27日官宣全新仿生灵巧手，具备21个自由度、26台电机混合驱动以及1500点高密度全掌触觉传感器。 该仿生手基于小米汽车智能制造部中试中心1827条真实作业SOP开发，源自机器人团队采集的工厂16个典型工段共2579个人工操作SOP。 硬件采用混合驱动方案搭配腱绳张力控制，以确保手指灵活弯曲并精准控制抓握力度。 1500点高密度全掌触觉使其能够实时感知压力、摩擦力并分辨物体软硬与形状。 其研发目标是未来替代工厂里重复性人工操作，完成零件抓取与装配，并降低小米汽车智能制造产线的人力成本。"
+      "summary": "10 月 27 日，小米官宣全新仿生灵巧手。 该仿生手基于小米汽车智能制造部中试中心 1827 条真实作业 SOP 开发，具备 21 个自由度、26 台电机混合驱动以及 1500 点高密度全掌触觉传感器。 研发源头来自小米汽车工厂真实生产线，小米机器人团队采集了工厂 16 个典型工段共计 2579 个人工操作 SOP，并筛选出 1827 条高频工序构建训练数据集，覆盖 70.8% 以上的工厂人工操作工序。 该仿生手的研发目标是未来替代工厂里的重复性人工操作，完成零件抓取、装配和精细组装，落地到小米汽车智能制造产线以降低人力成本。 硬件采用混合驱动方案搭配腱绳张力控制，配合 1500 点高密度全掌触觉感知，使其能够实时感知压力与摩擦力并分辨物体软硬与形状。",
+      "summary_zh": "10 月 27 日，小米官宣全新仿生灵巧手。 该仿生手基于小米汽车智能制造部中试中心 1827 条真实作业 SOP 开发，具备 21 个自由度、26 台电机混合驱动以及 1500 点高密度全掌触觉传感器。 研发源头来自小米汽车工厂真实生产线，小米机器人团队采集了工厂 16 个典型工段共计 2579 个人工操作 SOP，并筛选出 1827 条高频工序构建训练数据集，覆盖 70.8% 以上的工厂人工操作工序。 该仿生手的研发目标是未来替代工厂里的重复性人工操作，完成零件抓取、装配和精细组装，落地到小米汽车智能制造产线以降低人力成本。 硬件采用混合驱动方案搭配腱绳张力控制，配合 1500 点高密度全掌触觉感知，使其能够实时感知压力与摩擦力并分辨物体软硬与形状。"
     },
     {
       "date": "2026.10.26",
       "published_at": "2026-10-26T09:44:50+09:00",
       "headline": "Tsinghua Research Team Builds HandsOn Dexterous Manipulation Benchmark: Comprehensive 66-Task Evaluation of Robot Bimanual Capabilities",
-      "source": "36Kr",
+      "source": "eu.36kr.com",
       "url": "https://eu.36kr.com/en/p/4041153787892617",
       "language": "English",
       "section": "Global",
-      "summary": "A research team led by Ning Ding from Tsinghua University, in collaboration with researchers from Beijing University of Posts and Telecommunications, Peking University, and Nature Will, has built the composable simulation platform and evaluation benchmark HandsOn for cross-embodiment dexterous manipulation. HandsOn contains 66 human-validated tasks and 18,000 human teleoperation demonstration records in simulation, focusing evaluations on tool use, fine contact, bimanual collaboration, and task transfer across 5 types of robotic arms, 6 types of dexterous hands, and about 200 assets. Evaluations of different technical routes showed that the best-performing trained multi-task policy achieved a success rate of 29.1% on Core-50 tasks with provided training demonstrations, while the average success rate on Transfer-16 tasks without target task training demonstrations was lower than 1%. Furthermore, GPT-6 achieved success rates of 5.2% and 1.9% on Core-50 and Transfer-16 respectively across 660 tests without fine-tuning.",
-      "summary_zh": "清华大学丁宁领导的团队联合北京邮电大学、北京大学和Nature Will的研究人员，共同构建了用于跨具身灵巧操作的可组合仿真平台与评估基准HandsOn。 HandsOn包含66个经人类验证的任务以及18000条仿真中的人类遥操作示范记录，评估聚焦于工具使用、精细接触、双臂协作和任务迁移，支持5种机械臂、6种灵巧手以及约200种资产。 不同技术路线的评估结果显示，在提供训练示范的Core-50任务中，表现最好的多任务策略成功率为29.1%；而在无目标任务训练示范的Transfer-16任务中，所有8个多任务策略的平均成功率低于1%。 此外，GPT-6在未经基准数据微调的情况下，在660次测试中对Core-50和Transfer-16的成功率分别为5.2%和1.9%。"
+      "summary": "A research team led by Ning Ding from Tsinghua University, in collaboration with researchers from Beijing University of Posts and Telecommunications, Peking University, and Nature Will, developed a composable simulation platform and evaluation benchmark called HandsOn for cross-embodiment dexterous manipulation. HandsOn includes 66 human-validated tasks and 18,000 simulation teleoperation demonstration records divided into Core-50 and Transfer-16 categories, supporting 5 robotic arm types, 6 dexterous hand types, and about 200 assets. Evaluations of different technical routes showed that the best-performing trained multi-task policy on Core-50 achieved a 29.1% success rate, while the average success rate on Transfer-16 was below 1%. GPT-6 achieved success rates of 5.2% on Core-50 and 1.9% on Transfer-16 across 660 tests without fine-tuning. The team found that robots frequently completed the first half of action sequences but failed at critical moments in tasks involving tool use, fine contact, bimanual collaboration, and task transfer.",
+      "summary_zh": "清华大学丁宁团队联合北京邮电大学、北京大学及Nature Will的研究人员，共同构建了一个用于跨构型灵巧操作的可组合仿真平台与评估基准HandsOn。 HandsOn包含66个经人类验证的任务以及18,000条仿真遥操作演示记录，分为Core-50和Transfer-16两类，支持5种机械臂、6种灵巧手类型以及约200个资产。 对不同技术路线的评估显示，在有训练演示的Core-50任务中，表现最好的多任务策略成功率为29.1%；而在无目标任务训练演示的Transfer-16任务中，所有8个多任务策略的平均成功率低于1%。 GPT-6在未经微调的660次测试中，在Core-50和Transfer-16上的成功率分别为5.2%和1.9%。 团队发现机器人在涉及工具使用、精细接触、双臂协作和任务迁移的任务中，往往能完成动作序列的前半部分但在关键时刻出错。"
+    },
+    {
+      "date": "2026.10.26",
+      "published_at": "2026-10-26T05:15:32+09:00",
+      "headline": "Industry Insights: This Disembodied Robot Hand Moves on its Own",
+      "source": "A3 Association for Advancing Automation",
+      "url": "https://www.automate.org/robotics/industry-insights/what-if-thing-from-addams-family-was-actually-a-robot",
+      "language": "English",
+      "section": "Global",
+      "summary": "Robot engineers from ETH Zurich developed a robotic hand that moves independently by crawling across 14 different surfaces while balancing and interacting with its environment. Led by Amirhossein Kazemipour, the researchers mounted motion sensors, a battery, and a miniaturized computer on the back of a commercial anthropomorphic hand, retaining its finger kinematics and position controller. The untethered setup weighs 818g (1.8 lbs) or around 800 grams, features 20 powered joints, and uses reinforcement learning inside computer simulations to train locomotion and balance. The approach accounted for the hand's unequal fingers and offset thumb using a reward formulation and a penalty pulling each fingertip toward its nominal stance position. The robot was tested inside and outside on surfaces including carpet, gravel, grass, and metal grating, demonstrating capabilities to crawl, steer, recover from falls, press operator-requested keyboard keys, and push objects using an overhead camera.",
+      "summary_zh": "苏黎世联邦理工学院的机器人工程师开发了一款能够独立移动的机器人手，它通过在14种不同的表面上爬行来保持平衡并与环境交互。 在首席作者Amirhossein Kazemipour的带领下，研究人员在一个商用仿生手的背面安装了运动传感器、电池和微型计算机，保留了其手指运动学和位置控制器。 这个无线缆的装置重818g（1.8磅）或约800克，拥有20个动力关节，并利用计算机仿真内部的强化学习来训练运动和平衡。 该方法通过奖励公式以及将每个指尖拉向其名义站姿位置的惩罚项，解决了该手不均等手指和偏置拇指的问题。 该机器人在室内和室外的地毯、碎石、草地以及金属格栅等14种表面上进行了测试，展示了爬行、转向、从跌落中恢复、按下操作员要求的键盘按键以及使用头顶摄像机推动物体的能力。"
     },
     {
       "date": "2026.10.25",
@@ -54,52 +98,8 @@
       "url": "https://jp.ubergizmo.com/2026/10/25/27185/",
       "language": "Japanese",
       "section": "Global",
-      "summary": "Murata Manufacturing exhibited at CEATEC 2026, featuring the ContactGlove3 Pro hand-tracking glove co-developed with MELT Interface Technologies, which won the CEATEC AWARD 2026 Excellence Award. Austin Kazami, chief sales and marketing officer at MELT, explained that the glove uses electromagnetic field sensing with Murata's ultra-compact 3-axis low-frequency antennas to track finger movements without external cameras, achieving three times the power efficiency of comparable systems and reducing electromagnetic interference by up to 80%. The Pro version moves tracking sensors closer to the fingertips and measures 30 degrees of freedom, outputting 25 degrees of freedom through a biomechanical model with median position errors of 0.5mm. The glove includes software and SDK support, offers up to 10 hours of battery life, and is planned for US release in November 2026 at a price of 3,999 dollars. Murata and MELT announced a business partnership in September 2026 to expand into other human-machine interfaces.",
-      "summary_zh": "村田製作所再次出展CEATEC 2026，其展品亮点是由村田製作所与MELT Interface Technologies共同开发的先进ハンドトラッキンググローブ「ContactGlove3 Pro」，该技术获得了「CEATEC AWARD 2026」优秀赏。 MELT的Austin Kazami表示，该グローブ使用电磁界センシング与村田的超小型3轴低频率アンテナ来追踪手指运动，无需外部摄像头，能效为同类系统的约3倍，并将电磁干扰降低高达80%。 Pro版将追踪传感器移至指尖侧，以30自由度测量并在生物力学模型中输出25自由度，位置误差中央值为0.5mm。 该グローブ配备了软件与SDK支持，电池续航时间长达10小时，MELT计划于2026年11月在美国以3,999美元的价格发售Pro版。 村田製作所与MELT于2026年9月宣布了业务合作，并计划扩展至其他人机界面。"
-    },
-    {
-      "date": "2026.10.24",
-      "published_at": "2026-10-24T19:00:00+09:00",
-      "headline": "吉大刘春宝孵化 00后团队创业仿生灵巧手获数千万融资丨36氪首发",
-      "source": "36Kr",
-      "url": "https://eu.36kr.com/zh/p/4040083368629381",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "Hangzhou Liyan Technology Co. , Ltd. , founded in June 2026 in Hangzhou and led by 00-after CEO Zhao Changyi, has completed tens of millions of yuan in angel and angel-plus financing from investors including Yingdom Capital, Torch Center, Yida Capital, Plum Ventures, and Linglu Capital. Liyan Technology develops the FaceSoul Agent full-stack emotional interaction solution for humanoid and service robots, featuring high-fidelity physical presentation and AI-driven expression generation. The company's founders originated from Jilin University's Key Lab of Bionic Engineering under Professor Liu Chunbao. Liyan Technology employs a cable-driven technology path that saves facial space, achieving 32 facial degrees of freedom, and has developed lightweight end-side expression generation models. The company has established cooperation or intended cooperation with operators, cultural tourism exhibits, commercial services, and humanoid robot host manufacturers.",
-      "summary_zh": "杭州灵颜科技有限公司于2026年6月在杭州成立，由00后博士赵常屹担任创始人兼CEO，近期已完成数千万元种子轮及种子+轮融资，投资方包括盈动资本、浙江火炬中心、毅达资本、梅花创投和领甪资本。 灵颜科技为人形机器人、服务机器人及情感陪伴设备提供FaceSoul Agent全栈式情感交互解决方案，实现高保真物理呈现与AI驱动的表情生成。 公司核心成员脱胎于吉林大学工程仿生教育部重点实验室，创始人师从刘春宝教授。 灵颜科技采用线驱技术路径节省面部空间，使面部自由度达到32个，并自研了轻量化端侧表情生成模型。 公司目前已与运营商、文旅展陈、商业服务及部分人形机器人主机厂达成合作或意向合作。"
-    },
-    {
-      "date": "2026.10.23",
-      "published_at": "2026-10-23T18:41:40+09:00",
-      "headline": "深化生态协同：因时亮相2026宇树生态大会，灵巧手演绎制茶新“手”艺",
-      "source": "凤凰网",
-      "url": "https://hainan.ifeng.com/c/8xSTVlfEWTb",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "10月22日，2026世界物理AI大会暨宇树合作伙伴生态大会在杭州国际博览中心二期闭幕。 因时机器人携全系列灵巧手产品亮相，并在现场通过宇树G1机器人装配因时H1系列灵巧手演示了“翻炒茶叶”的精细操作。 因时技术路线覆盖连杆、腱绳、全直驱等，可满足高灵活仿人操作、精细力控及工业级应用需求。 因时深耕微型精密驱动领域，持续开展微型伺服电缸、驱动控制、传感技术及整手系统的自主研发。 未来因时将深化与整机企业、科研机构及开发者的技术合作，拓展技术应用广度与深度，共同探索灵巧操作能力在更多领域的应用价值。",
-      "summary_zh": "10月22日，2026世界物理AI大会暨宇树合作伙伴生态大会在杭州闭幕。 因时机器人携全系列灵巧手产品亮相，现场通过宇树G1机器人装配因时H1系列灵巧手演示了“翻炒茶叶”的精细操作。 因时技术路线覆盖连杆、腱绳、全直驱等，满足多元场景需求。 因时深耕微型精密驱动领域，持续开展微型伺服电缸、驱动控制、传感技术及整手系统的自主研发。 未来因时将深化与整机企业、科研机构及开发者的技术合作，拓展应用广度与深度，与产业伙伴共同探索灵巧操作在更多领域的应用价值。"
-    },
-    {
-      "date": "2026.10.23",
-      "published_at": "2026-10-23T16:24:25+09:00",
-      "headline": "OpenTac 开源触觉传感生态上线：一键为机器人曲面设计 3D 触觉皮肤",
-      "source": "搜狐网",
-      "url": "https://www.sohu.com/a/1091720081_100106801",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "10月23日消息，约翰斯・霍普金斯大学与麻省理工的研究团队推出OpenTac开源3D触觉传感工具链，将在CoRL 2026进行现场演示。 OpenTac硬件基于柔性PCB、压敏薄膜与3D打印TPU凸起结构，2×2传感单元可解算法向力与双轴剪切力，测力区间0.1N–10N。 生态包含OpenTac-CAD自动设计工具、自适应稀疏采样机制OpenTac-Xampling（最高可达1286帧/秒）、OpenTac-Sim仿真器及OpenTac-Transfer跨传感器迁移模块。 团队已在SO-101机械臂、YAM双臂机器人、Dexmate灵巧手等平台上开展纯触觉任务验证，证实剪切力信息是精细装配与稳定抓取的关键，项目目前已完整开源。",
-      "summary_zh": "10月23日消息，来自美国约翰斯・霍普金斯大学、麻省理工的研究团队宣布推出OpenTac，一套完整开源、可定制、可迁移的3D触觉传感工具链，将在CoRL 2026进行现场演示。 其核心硬件基于柔性PCB、压敏薄膜搭配3D打印TPU凸起结构，可同时解算出法向力与双轴剪切力，测力区间0.1N–10N。 生态包含OpenTac-CAD自动设计工具、自适应稀疏采样机制OpenTac-Xampling（最高可达1286帧/秒）、OpenTac-Sim仿真器及OpenTac-Transfer跨传感器迁移模块。 团队已在SO-101机械臂、YAM双臂机器人、Dexmate灵巧手等平台上完成纯触觉任务验证，项目已完整开源。"
-    },
-    {
-      "date": "2026.10.23",
-      "published_at": "2026-10-23T09:26:23+09:00",
-      "headline": "Why don't robotic hands look like human hands?",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/vi-sao-ban-tay-robot-khong-giong-con-nguoi",
-      "language": "English",
-      "section": "Global",
-      "summary": "Robotic hands remain one of the most difficult parts to develop for humanoid robots due to the complex interplay of mechanics, tactile sensation, and control required to handle unpredictable real-world tasks like folding shirts. Researchers must simultaneously address three major challenges: mechanical design (fitting actuators and sensors into limited spaces while balancing power, precision, and friction), tactile sensing (real-time slip and pressure detection to adjust grip instantly), and data/learning (collecting complex manipulation data rather than simple images). Various robotics companies are tackling these challenges differently: Unittree developed the G1 with force-controlled hands and tactile sensors, Apptronik created Apollo combining mobility and manipulation, Tesla developed Optimus as a versatile humanoid, and 1X focuses on household chore robots. Despite advanced mobility capabilities, versatile humanoid robots still require significant time to master basic tasks like picking up a towel.",
-      "summary_zh": "机器人手部由于需要复杂的机械结构、触感和现实世界适应能力，成为人形机器人开发中最困难的部分之一。 研究人员必须同时应对三大挑战：机械问题（在狭小空间内平衡致动器与传感器的功率、精度和摩擦力）、触觉问题（实现实时滑移和压力检测以动态调整抓握力）以及数据和学习挑战（收集复杂的操控数据）。 多家机器人公司正从多角度切入：宇树科技开发了带有力控手和触觉传感器的G1机器人，Apptronik开发了Apollo，特斯拉开发了Optimus，1X专注于家务机器人。 尽管机器人在跳跃和奔跑方面表现出色，但要学会拿起一条毛巾仍需很长时间。"
+      "summary": "Murata Manufacturing showcased the ContactGlove3 Pro advanced hand tracking glove, co-developed with MELT Interface Technologies, at CEATEC 2026 where it won the CEATEC AWARD 2026 Excellence Award. The glove uses electromagnetic field (EMF) sensing with Murata's ultra-compact, high-sensitivity 3-axis low-frequency antennas instead of external cameras, achieving about three times the power efficiency of existing EMF gloves with the same battery capacity. It features MELT's zero-drift technology to measure absolute finger positions without accumulating tracking errors over time. The Pro model moves tracking sensors closer to the fingertips compared to the standard ContactGlove3, tracking all five fingers with a median position error of 0.5mm, a maximum error of 1.5mm, an operating frequency of 100Hz, and latency under 30 milliseconds, measuring 30 degrees of freedom and outputting 25 via a biomechanical model. MELT includes software and SDKs supporting ROS 2, C++, Python, Unity, Unreal Engine, and MotionBuilder, with up to 10 hours of battery life and a planned US release in November 2026 priced at $3,999.",
+      "summary_zh": "村田製作所在CEATEC 2026上展示了与MELT Interface Technologies共同开发的先进手部追踪手套“ContactGlove3 Pro”，该技术荣获“CEATEC AWARD 2026”优秀奖。 该手套采用电磁场感应，内置村田製作所的超小型、高灵敏度3轴低频天线来替代外部Cams，在相同电池容量下实现了现有电磁场手套约3倍的电力效率。 它采用MELT独特的“零漂移技术”测量手指绝对位置，防止追踪误差随时间累积。 与标准版“ContactGlove3”相比，Pro版将追踪传感器移至更靠近指尖的位置，可追踪全部5根指头，指定条件下的位置误差中位数为0.5mm，最大误差为1.5mm，工作频率为100Hz，延迟在30毫秒以下，通过生物力学模型测量30个自由度并输出25个自由度。 MELT为其配备了支持ROS 2、C++、Python、Unity、Unreal Engine和MotionBuilder的软件及SDK，电池续航时间最长达10小时，计划于2026年11月在美国推出，售价为3,999美元。"
     }
   ]
 }
