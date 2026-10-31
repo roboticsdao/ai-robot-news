@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-10-31T11:16:40.495773+09:00",
+  "updated_at": "2026-11-01T01:03:50.183402+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-31T11:16:40.495773+09:00",
-    "latest_article_at": "2026-10-31T08:25:13+09:00",
+    "checked_at": "2026-11-01T01:03:50.183402+09:00",
+    "latest_article_at": "2026-10-31T17:02:00+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -24,30 +24,30 @@
       "url": "https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Tesla has converted parts of its Fremont factory to produce Optimus humanoids. According to robotics investor Modar Alaoui of ALM Ventures, Tesla is expected to open customer reservations for Optimus in early December, with shipments estimated for another year and buyers having time to save up the expected $20,000-plus for the unit. CEO Elon Musk posted 'No' on X regarding December waitlist plans, and Tesla did not respond to requests for comment. Alaoui stated that Tesla's first shipment is expected to include the Optimus V3 robot, and Tesla plans to demo the Optimus V3 model and showcase self-driving cars at the 'Humanoids Summit' conference on Dec. 1-2 in San Mateo. In January, Musk announced that production of car models X and S would stop to convert the Fremont factory space for Optimus manufacturing. Competitors including 1X, Neura Robotics, and Humanoid have opened reservations or delivered bots, while companies like Boston Dynamics and Figure have not yet created public waitlists. Elon Musk has stated that Tesla must produce between 10,000 and 20,000 robots to practice completing tasks and gather data.",
-      "summary_zh": "特斯拉已将其弗里蒙特工厂的部分区域改造成用于生产Optimus人形机器人。 据ALM Ventures的机器人投资者莫达尔·阿拉维透露，特斯拉预计在12月初开放Optimus的客户预订，预计产品将在一年后发货，买家有时间存钱以应对预计超过$20,000的单价。 特斯拉CEO埃隆·马斯克周五下午在X上发帖回应“No”，似乎否认了12月的候补名单计划，特斯拉也未回应置评请求。 阿拉维表示，特斯拉的首批出货预计将包含Optimus V3机器人，特斯拉计划在12月1日至2日于圣马特奥举办的“人形机器人峰会”上演示Optimus V3并展示自动驾驶汽车。 1月，马斯克宣布将停止生产X和S车型，并将弗里蒙特工厂生产这些车型的部分区域改造为制造Optimus。 1X、Neura Robotics和Humanoid等竞争对手已开放预订或交付机器人，而波士顿动力和Figure等公司尚未建立公开候补名单。 马斯克曾表示，特斯拉必须生产10,000至20,000台机器人来练习完成任务并收集数据。"
+      "summary": "Tesla is expected to open customer reservations for its Optimus humanoid robot in early December, according to robotics investor Modar Alaoui, with the robots not anticipated to ship for another year. Tesla has converted parts of its Fremont factory to manufacture the humanoids, stopping production of car models X and S in January. The Optimus V3 model is expected to be part of the first shipment, priced at over $20,000. CEO Elon Musk posted 'No' on X regarding December waitlist plans, and Tesla did not comment. Competitors like 1X, Neura Robotics, and Humanoid have also opened reservations or waitlists for their robots, though practical at-home chores remain challenging and require extensive data collection.",
+      "summary_zh": "根据机器人投资者Modar Alaoui的说法，特斯拉预计将在12月初为其Optimus人形机器人开放客户预订，预计这些机器人还要再过一年才会发货。 特斯拉已将弗里蒙特工厂的部分区域改造成用于制造该人形机器人的产线，并于1月停止了X和S车型的生产。 预计首批出货将包含Optimus V3型号，售价预计在20,000美元以上。 首席执行官埃隆·马斯克周五下午在X平台上发帖“No”否认了12月的候补名单计划，特斯拉未对此置评。 1X、Neura Robotics和Humanoid等竞争对手也为其机器人开放了预订或候补名单，尽管处理实际的家务劳动仍然具有挑战性并需要大量的数据收集。"
     },
     {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T02:31:50+09:00",
-      "headline": "Inside AGCO’s Humanoid Robot Pilot with Agility Robotics",
-      "source": "Manufacturing Digital Magazine",
-      "url": "https://manufacturingdigital.com/news/inside-agcos-humanoid-robot-pilot-with-agility-robotics",
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T01:27:29+09:00",
+      "headline": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "AGCO will test Agility Robotics' Digit humanoid robot at its Hesston, Kansas production facility starting in 2027 for tasks that conventional automation has struggled to reach, such as sorting and stacking parts and placing totes for storage. Daniel Diez, Chief Business Officer at Agility Robotics, stated that Digit extends automation to work it hasn't been able to reach and combines mobility and manipulation in one machine. Thomas Enghof, Director of Manufacturing Technology at AGCO, noted that humanoid robotics and AI act as essential teammates in building flexible, intelligent factories. AGCO chose the initial tasks to improve ergonomic safety, addressing physical strain that contributes to ergonomic issues over time. According to a US Bureau of Labor Statistics report, overexertion and repetitive motion caused 946,290 cases involving days away from work or job restriction in 2023 and 2024. Agility states Digit will be judged on safety, accuracy, uptime, throughput, and return on investment, noting it must make both a safety case and a business case before going beyond Hesston.",
-      "summary_zh": "AGCO将从2027年起在其位于美国堪萨斯州黑斯顿的生产基地测试Agility Robotics的Digit人形机器人，用于传统自动化难以触及的工作，例如分拣和堆叠零件以及放置周转箱进行仓储。 Agility Robotics首席商务官丹尼尔·迭斯表示，Digit将自动化扩展到了以往无法触及的工作，并在单台机器中结合了移动性和操作性。 AGCO制造技术总监托马斯·英格霍夫指出，人形机器人和人工智能是建设灵活、智能工厂必不可少的“队友”。 AGCO选择这些初始任务是为了改善人机工程学安全，以应对随时间推移导致人机工程学劳损的体力要求。 根据美国劳工统计局的报告，2023年至2024年间，过度劳累、重复动作及身体状况导致了946,290起需要离岗、工作受限或调岗的案例。 Agility表示，Digit将根据安全性、准确性、正常运行时间、吞吐量和投资回报率来接受评估，并指出在超出黑斯顿工厂应用之前，它必须证明其安全性和商业合理性。"
+      "summary": "Agility Robotics and Churchill Capital Corp XI expect to raise about $465 million in a proposed SPAC merger, down from a previously predicted $620 million. The total includes $164 million from Churchill XI’s trust account, $201 million from a common stock PIPE led by Foxconn at $10 per share, and $100 million in equity funding already received. Agility plans to close the transaction on November 4, subject to shareholder approval. The company unveiled its Digit 5 humanoid, selected Nyobolt for fast recharging to enable over 20 hours of daily operation, and reported $1.8 million in net sales in 2025 across nine sites with customers including Toyota, Mercado Libre, and Schaeffler. Agility also expanded partnerships with NVIDIA and GXO Logistics.",
+      "summary_zh": "Agility Robotics与Churchill Capital Corp XI表示，双方在拟议的SPAC合并中预计筹集约$465 million资金，低于此前预计的$620 million。 该总额包括来自Churchill XI信托账户的约$164 million、由富士康领投且按每股$10定价的普通股PIPE约$201 million，以及已收到的$100 million股权融资。 在获得股东批准的前提下，Agility计划于11月4日完成该SPAC交易。 该公司推出了Digit 5人形机器人，选择Nyobolt进行快速充电以实现每天超过20小时的运行，并在2025年报告了$1.8 million的净销售额，客户遍布9个地点的九个现场，包括丰田、美客多和舍弗勒。 Agility还扩大了与NVIDIA和GXO Logistics的合作伙伴关系。"
     },
     {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T01:23:15+09:00",
-      "headline": "Kazakhstan and Nvidia look to open new chapter in physical AI",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366652916/Kazakhstan-NVIDIA-look-to-open-new-chapter-in-physical-AI",
+      "date": "2026.10.29",
+      "published_at": "2026-10-29T20:30:00+09:00",
+      "headline": "FF EAI Robotics Ecosystem (FFR) Now Accessible to Global Investors Outside the United States Through Binance's U.S. Stock Trading Service",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/prnewswire:d1dc558951c1d:0-ff-eai-robotics-ecosystem-ffr-now-accessible-to-global-investors-outside-the-united-states-through-binance-s-u-s-stock-trading-service/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "In April 2026, the government of Kazakhstan, led by Deputy Prime Minister and Minister Zhaslan Madiyev, revealed a collaboration with AI hardware leader Nvidia to apply advanced AI in industry, energy, transport, and robotics as part of a 10-year digital transformation. Aiming to build an AI nation for its 20 million people, Kazakhstan has integrated over 90% of public services online, advanced cashless transactions, piloted a national digital currency, and passed a comprehensive AI law. During a visit to the International Centre for Artificial Intelligence in Astana, Nvidia CEO Jensen Huang praised President Kassym-Jomart Tokayev's national AI priority, discussing sovereign compute infrastructure and the rise of physical AI with local leadership.",
-      "summary_zh": "2026年4月，在副总理兼人工智能和数字发展部部长扎斯兰·马迪耶フ的领导下，哈萨克斯坦政府透露正与人工智能硬件领头羊英伟达合作，寻求在工业、能源、交通和机器人领域应用先进人工智能的机会，作为其长达10年的数字化转型的一部分。 为了给2000万人口打造一个人工智能国家，哈萨克斯坦实现了90%以上的公共服务在线办理，推进无现金交易，试行了国家数字货币，并颁布了全面的人工智能法。 在访问阿斯塔纳国际人工智能中心期间，英伟达创始人兼首席执行官黄仁勋赞扬了哈萨克斯坦总统卡西姆若马尔特·托卡耶夫将人工智能发展定为国家优先事项的决策，并与马迪耶夫讨论了主权计算基础设施以及实体人工智能的兴起。"
+      "summary": "FF EAI Robotics Ecosystem Inc. (FFR) announced on October 29, 2026, that its common stock is available for trading by eligible users through Binance's U. S. stock trading service outside the United States using stablecoin. FFR completed its acquisition of Faraday Future's robotics business on October 23, closing the deal on October 26 in New York. Following the transaction, FFR continues to trade on Nasdaq as a company focused on humanoid and bionic Physical AI robotics. Executive Chairman Jerry Wang stated that availability on Binance expands investor access to the company's ecosystem.",
+      "summary_zh": "FF EAI Robotics Ecosystem Inc. (FFR) 于2026年10月29日宣布，其普通股已通过币安（Binance）的美国股票交易服务向美国境外的合规用户开放，用户可使用稳定币进行交易。 FFR于10月23日完成了对法拉第未来机器人业务的收购，并于10月26日在纽约完成了交易交割。 交易完成后，FFR继续在纳斯达克交易，并专注于人形和仿生物理人工智能机器人业务。 执行主席杰里·王表示，在币安上线扩大了投资者接触该公司生态系统的渠道。"
     },
     {
       "date": "2026.10.29",
@@ -57,19 +57,52 @@
       "url": "https://interestingengineering.com/innovation/lego-like-modular-kits-drone-hubs",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Florida-based Tesseract Ventures and Kentucky-based Lok-N-Blok announced an initiative to develop modular technology-enabled infrastructure using Lego-like building blocks that can be rapidly deployed, customized, expanded, and relocated. Named Tesseract Synthetic Brick Technology Kits, the systems feature built-in technology rather than added components, allowing structures to be designed around specific missions. The customizable kits can integrate sensors, cameras, communications equipment, drone storage and launch systems, and robotic fabrication equipment. The companies intend to target four key markets: defense, construction, critical infrastructure, and agriculture, utilizing standardized and reusable technology packages for various configurations.",
-      "summary_zh": "总部位于佛罗里达州的Tesseract Ventures与总部位于肯塔基州的Lok-N-Blok宣布了一项合作计划，将利用类似乐高的积木开发模块化技术赋能基础设施，这些设施可以快速部署、定制、扩展和重新安置。 该系统名为Tesseract合成积木技术套件，其特点是将技术直接内置于结构中，而非事后添加，从而使建筑物能够围绕特定任务进行设计。 这些可定制的套件可以集成传感器、摄像头、通信设备、无人机存储与发射系统以及机器人制造设备。 两家公司计划将国防、建筑、关键基础设施和农业作为四个核心市场，利用标准化和可重复使用的技术包来实现各种配置。"
+      "summary": "Florida-based Tesseract Ventures and Kentucky-based Lok-N-Blok announced a partnership on Tuesday to develop modular technology-enabled infrastructure using Lego-like building blocks called Tesseract Synthetic Brick Technology Kits. The kits are designed with integrated technology such as sensors, cameras, communications equipment, drone storage and launch systems, and robotic fabrication equipment. The modular structures can be assembled near deployment sites, expanded, dismantled, and redeployed. Initially, the companies expect the technology kits to serve defense, construction, critical infrastructure, and agriculture markets.",
+      "summary_zh": "总部位于佛罗里达州的Tesseract Ventures与总部位于肯塔基州的Lok-N-Blok于周二宣布建立合作关系，利用类似乐高积木的建筑构件开发名为Tesseract合成积木技术套件的模块化科技基础设施。 该套件在设计之初就内置了传感器、摄像头、通信设备、无人机存储与发射系统以及机器人制造设备等技术。 这些模块化结构可以在部署地点附近组装、扩建、拆卸并重新部署。 两家公司预计这些技术套件最初将服务于国防、建筑、关键基础设施和农业市场。"
     },
     {
-      "date": "2026.10.28",
-      "published_at": "2026-10-28T18:00:34+09:00",
-      "headline": "We went inside Amazon's robot-powered warehouse to see if machines are taking jobs. What we found surprised us.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
+      "date": "2026.10.30",
+      "published_at": "2026-10-30T22:15:41+09:00",
+      "headline": "Schneider, NVIDIA & HPE Take Physical AI to Process Plants",
+      "source": "Energy Digital Magazine",
+      "url": "https://energydigital.com/news/schneider-nvidia-hpe-take-physical-ai-to-process-plants",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Amazon's fulfillment center in Tracy, California, employs hundreds of robots, such as Hercules, Robin, Cardinal, Pegasus, and Proteus, to manage inventory and sort packages. Spanning 1.4 million square feet, the site uses robots to reduce walking and lifting times for human employees, while human workers continue to pick, pack, load trucks, and oversee automated systems. The Tracy site employs over 3,000 workers, up from approximately 1,000 when it opened in 2023. According to Amazon, automated next-generation fulfillment centers are about 25% more productive, cut order-processing time by up to 25%, and support roughly 30% more skilled technical and engineering jobs.",
-      "summary_zh": "亚马逊位于加利福尼亚州特雷西的物流中心使用了数百台机器人（如Hercules、Robin、Cardinal、Pegasus和Proteus）来管理库存并分拣包裹。 该场地占地140万平方英尺，利用机器人减少了人类员工的步行和搬运时间，同时人类员工仍继续负责拣货、打包、装车以及监督自动化系统。 特雷西分拣中心目前雇用了3000多名员工，高于2023年刚开业时的约1000人。 亚马逊表示，自动化程度更高的下一代运营中心的生产力提高了约25%，订单处理时间缩短了多达25%，并支持了大约多出30%的熟练技术和工程岗位。"
+      "summary": "Schneider Electric, NVIDIA, and HPE announced a collaboration to bring physical AI to process industries such as oil refining, beer brewing, and paper manufacturing through an opening product called Industrial AI Agents at the Edge. The system uses edge computing and AI agents to monitor situations, reason, take action, and verify results. Three agents will cover operational technology monitoring, cybersecurity, and energy optimisation. CMPC Chile, a pulp, paper and packaging producer, has run Schneider's operational technology monitoring system for three years and sees potential for AI agents to help specialists investigate issues faster.",
+      "summary_zh": "施耐德电气、英伟达和慧与（HPE）宣布合作，通过名为“边缘工业AI代理”的首发产品，将物理人工智能引入炼油、啤酒酿造和造纸等流程工业。 该系统利用边缘计算和AI代理来监控情况、进行推理、采取行动并验证结果。 首批三个代理将涵盖运营技术监控、网络安全和能源优化。 作为纸浆、纸张和包装生产商，智利CMPC公司已经运行了施耐德的运营技术监控系统三年，并看好AI代理帮助专业人员更快调查问题的前景。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T17:02:00+09:00",
+      "headline": "机器人行业日报(10.30) : 机器人产业升温",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1095427115_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "Yushu Technology released its financial report for the first three quarters of 2026, reporting revenue of 1.817 billion yuan, a year-on-year increase of 55.71%, and net profit of 387 million yuan, a year-on-year increase of 270.54%. Xiaopeng Motors' vice president revealed that Xiaopeng's robot mass production line is ready. In Pudong, the humanoid robot industry ecosystem is accelerating, and Yushu Technology has established the \"Shanyu Venture Plan\" with Sequoia China. Agibot's revenue in the first half of the year was nearly 2 billion yuan, with 20,000 general-purpose AI robots shipped cumulatively. Kaipuyuan signed a contract for an embodied AI application pilot base project worth 50.03 million yuan. Following its listing, Yushu Technology experienced a slowdown in revenue growth, recording third-quarter revenue of 6.65 billion yuan, up 69.93% year-on-year, while net profit fell 17.37% year-on-year. Founder Wang Xingxing is seeking external technological innovation and launched the \"Yuchuang Plan\" and the \"Shanyu Venture Plan\" to support startup projects in related fields.",
+      "summary_zh": "宇树科技发布2026年前三季度财报，实现营收18.17亿元，同比增长55.71%，净利润3.87亿元，同比增长270.54%。 小鹏汽车副总裁透露小鹏机器人量产产线已就绪。 浦东人形机器人产业生态加速，宇树科技与红杉中国成立“杉宇·创计划”。 智元机器人上半年营收近20亿元，通用AI机器人累计下线20000台。 开普云签订5003万元具身智能应用中试基地项目合同。 宇树科技上市后营收增速放缓，第三季度营收6.65亿元，同比增长69.93%，净利润同比下降17.37%。 公司创始人王兴兴寻求外部技术创新，并推出“宇创计划”和“杉宇·创计划”，以支持机器人相关领域的创业项目。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T15:57:55+09:00",
+      "headline": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2450388",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "Yushu Technology initiated its subscription process, setting the issuance price at 150.80 yuan per share with an issue volume of 40.446434 million shares, corresponding to a market capitalization of approximately 60.993 billion yuan at listing. The online final issuance quantity after the clawback mechanism is 9.70 million shares, and the final online winning rate is 0.01809759%. Yushu Technology expects to raise approximately 6.099 billion yuan in total funds, intended for smart robot model research and development, robot body R&D, new smart robot product development, and smart robot manufacturing base construction. In 2025, Yushu achieved global leadership in humanoid robot shipments, according to Chairman, General Manager, and CTO Wang Xingxing. The company's 2023 to 2025 cumulative R&D investment is approximately 260 million yuan, with cumulative shipments of 3.3 million four-legged robots and a global market share of about 60%. In 2025, operating revenue reached 1.699 billion yuan with a net profit of 590 million yuan. Before the issuance, founder Wang Xingxing held a total share ratio exceeding 33%. Major corporate investors include Meituan, Xiaomi, Tencent, Alibaba, and ByteDance, alongside various state-owned capital funds and strategic placement participants.",
+      "summary_zh": "宇树科技正式开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，网上发行最终中签率为0.01809759%。 宇树科技预计募集资金总额约60.99亿元，主要用于智能机器人模型研发、机器人本体研发、新型智能机器人产品开发以及智能机器人制造基地建设等项目。 董事长、总经理兼首席技术官王兴兴表示公司2025年已实现人形机器人出货量全球第一。 2023至2025年宇树科技累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%。 2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 发行前创始人王兴兴合计持股比例超33%。 美团、小米、腾讯、阿里、字节等参与投资，多家国资及战略配售对象也位列其中。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T11:34:00+09:00",
+      "headline": "地瓜机器人与宇树科技达成深度合作，先落地教育场景后向工业拓展",
+      "source": "手机新浪网",
+      "url": "http://k.sina.com.cn/article_5952915720_162d24908067053at0.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "Horizon Robotics and Yushu Technology made their first joint exhibition appearance at the Changsha Educational Equipment Exhibition and announced a deep partnership. Centered on the Sunrise S100 computing box and combining Yushu's Go2 quadruped robot and R1 humanoid robot, the two companies jointly launched an embodied AI education solution encompassing hardware devices, curriculum systems, course-competition integration practical projects, and teaching environment construction. Education serves as the first collaborative landing scenario, with plans to expand cooperation into industrial and other sectors. The Sunrise S100 smart computing platform integrates CPU, BPU, and MCU within a single SoC, placing perception, decision-making, and real-time motion control into the same chip to provide edge computing power. The solution establishes a two-stage progressive path spanning desktop-level and real-time machine-level learning needs across primary, middle, and high schools, supported by 15 theme courses totaling 180 classes and 6 course-competition integration curriculums.",
+      "summary_zh": "地瓜机器人与宇树科技首次以联合参展形式亮相长沙教育装备展，并宣布达成深度合作。 双方以旭日S100算力盒为核心算力底座，结合宇树科技Go2四足机器人、R1人形机器人，联合推出具身智能教育解决方案，涵盖硬件设备、课程体系、课赛融合实践项目及教学环境建设。 双方将教育作为首个合作落地场景，并计划向工业等更多场景拓展。 旭日S100智能计算平台在单颗SoC内集成CPU、BPU与MCU，将感知决策与实时运动控制置于同一芯片内协同。 方案建立桌面级与真机级两级进阶路径，配套15款主题课程共180节课覆盖中小学，并引入6门课赛融合课程以具体任务检验学习成果。"
     },
     {
       "date": "2026.10.31",
@@ -79,41 +112,8 @@
       "url": "https://www.21jingji.com/article/20261031/f688c450dd137691d78d35dfa6ea9485.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "The embodied AI sector is experiencing a divergence between cooling capital funding and a booming industrial landscape, with humanoid robot production projected by the Ministry of Industry and Information Technology to exceed 100,000 units in China for the year. In October, IT桔子 data showed 33 financing transactions totaling 10.105 billion yuan, nearly halving from September. Concurrently, companies like Agibot reported nearly 2 billion yuan in first-half revenue, and Unitree reported 1.817 billion yuan in revenue for the first three quarters with 387 million yuan in net profit. Industry leaders such as Agibot co-founder Peng Zhihui and Unitree founder Wang Xingxing emphasize the transition from volume manufacturing to stable deployment and effective work hours, introducing new metrics like Worken while navigating the deployment hurdles and exploring multi-stage physical AI development.",
-      "summary_zh": "具身智能赛道近期出现资本端冷清与产业端热闹的割裂现象，工信部预计今年中国人形机器人整机产量突破10万台。 IT桔子数据显示，10月具身智能赛道发生33起融资，总额101.05亿元，交易数量近乎腰斩。 与此同时，产业端企业表现活跃，智元宣布上半年收入接近20亿元，宇树前三季度营收18.17亿元，归母净利润3.87亿元。 智元联合创始人彭志辉提出了衡量有效智能工时的新单位Worken，并指出行业评判标准正从制造规模转向稳定上岗能力。 宇树创始人王兴兴也强调了提升大规模量产制造能力的重要性。 两家公司在物理AI的发展路径和部署场景上各有侧重，共同面对具身智能行业的交付与部署门槛。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T23:35:15+09:00",
-      "headline": "优必选披露六组GPT-6 Astra机器人测试：直接抓取未成功，协同模型完成叠碗",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1095121870_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "UBTECH disclosed six rounds of testing involving GPT-6 Astra robots across real-world and simulation environments. The tests covered real-world tasks such as grasping a Rubik's cube, grabbing a lucky bag, and autonomous obstacle avoidance, alongside simulation tasks like basket moving, direct bowl stacking, and world model-assisted bowl stacking. According to the report, direct control by Astra failed in grasping the Rubik's cube, simulation basket moving, and direct bowl stacking. However, collaboration with dedicated embodied models enabled the robot to successfully complete lucky bag grasping, obstacle avoidance, and bowl stacking. UBTECH noted that while general models possess spatial understanding and task planning capabilities, bridging high-level decisions with precise execution remains critical for practical applications.",
-      "summary_zh": "优必选近期围绕GPT-6 Astra开展了六组真机与仿真测试，涵盖真机抓取魔方、抓取福袋、自主绕障，以及仿真环境中的篮子搬运、直接叠碗和结合世界模型叠碗。 测试结果显示，Astra直接抓取魔方、仿真搬运篮子及直接叠碗均未完成；但在与专用具身模型协同后，机器人成功完成了福袋抓取、绕障移动及叠碗。 优必选指出，通用模型具备空间理解与任务规划能力，但如何将高层决策与连续、精细的动作执行有效衔接，仍是机器人走向实际应用的关键所在。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T23:00:56+09:00",
-      "headline": "地瓜机器人与宇树科技达成深度合作，先落地教育场景后向工业拓展",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzprk5371174.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "DiDi Robotics and Unitree Technology have established a deep partnership, aiming to integrate DiDi's intelligent computing technology with Unitree's quadruped and humanoid robot capabilities, starting with education as the initial landing scenario and expanding toward industrial applications. The joint solution features Unitree Go2 quadruped robots, R1 humanoid robots, DiDi's RDK S100 intelligent computing platform, and Guijiang desktop robots, paired with 15 thematic courses totaling 180 classes for K-12 students. The S100 platform integrates CPU, BPU, and MCU in a single SoC for perceptual decision-making and real-time motion control. The collaboration aims to build standardized regional robotics education templates and transition students from desktop practice to advanced real-machine applications.",
-      "summary_zh": "地瓜机器人与宇树科技达成深度合作，将地瓜机器人在智能计算领域的技术积累与宇树科技在四足、人形机器人领域的产品能力相融合，以教育为首个合作落地场景并计划向工业等场景拓展。 联合方案以宇树Go2四足机器人、R1人形机器人、地瓜旭日S100智能计算平台及古月居桌面机器人为核心硬件，配套15款主题共180节课的课程体系。 旭日S100平台在单颗SoC内集成CPU、BPU与MCU，实现感知决策与实时运动控制的算控一体闭环。 双方通过算力底座、课程配套与区域示范，共同开拓具身智能教育市场并支持学生持续进阶。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T18:31:56+09:00",
-      "headline": "2026中国人工智能数字创新大会举行 多款机器人现场秀绝活",
-      "source": "温州新闻",
-      "url": "https://www.66wz.com/wendu/system/2026/10/30/105864013.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "The 2026 China Artificial Intelligence Digital Innovation Conference was held with the theme of intelligence gathering and future readiness, serving as a local themed supporting event for the 2026 World Young Scientist Summit. The exhibition area featured coffee-making robots, football robots, and boxing robots from over 10 leading brands including Unitree, Agibot, and Songyan Power, coordinated by Qingtian Yao Robot Technology (Wenzhou) Co. , Ltd. During the opening ceremony, multiple centers and industrial zones were unveiled, and 22 artificial intelligence investment projects along with 11 leading talent entrepreneurial projects were signed, covering embodied intelligence humanoid robots, AI large models, and AI medical imaging. Since 2023, Lucheng and the Chinese Association for Automation have hosted three consecutive editions of the conference, gathering over 1,000 artificial intelligence enterprises.",
-      "summary_zh": "2026中国人工智能数字创新大会以“智汇瓯江 未来已来”为主题举行，是2026世界青年科学家峰会的地方主题配套活动之一。 机器人展区汇聚了宇树、智元、松延动力等10余个国内外领先机器人品牌，展示了咖啡机器人、足球机器人和拳击机器人等应用。 大会开幕式上揭牌了省级特色产业集群高端软件协同区等项目，并集中签约了22个人工智能招商项目和11个领军人才创业项目，覆盖具身智能人形机器人、AI大模型、AI医学影像等领域。 自2023年以来，鹿城已连续三届举办该大会，累计集聚人工智能企业1000余家。"
+      "summary": "In October, the embodied AI sector recorded 33 financing deals totaling 10.105 billion yuan, nearly halving in transaction volume compared to 60 deals totaling 11.028 billion yuan in September. Meanwhile, the Ministry of Industry and Information Technology expects China's humanoid robot whole-machine output to exceed 100,000 units this year. Agibot announced on October 29 that its first-half revenue approached 2 billion yuan, while Yushu reported first-three-quarter revenue of 1.817 billion yuan and net profit of 387 million yuan, up 270%. Agibot co-founder, president, and CTO Peng Zhihui introduced a new unit called Worken to measure effective intelligent work hours based on active robot numbers, autonomous work duration, and output efficiency ratio. According to Counterpoint, over 60% of global humanoid robots sold in the first half of 2026 went to stages and laboratories, with fewer than 20% entering factories and warehouses. Frost & Sullivan data indicated that global sales of humanoid robots used for production operations in the first half of 2026 reached only 1,200 units, generating $78 million in revenue. The China Academy of Information and Communications Technology warned in an October report that bubble risks are accumulating in the embodied AI industry.",
+      "summary_zh": "10月具身智能赛道发生33起融资，总额101.05亿元，交易数量相比9月的60起近乎腰斩。 工信部预计今年中国人形机器人整机产量突破10万台。 智元在10月29日创新日上宣布上半年收入接近20亿元，宇树前三季度营收18.17亿元，归母净利润3.87亿元，同比增长270%。 智元联合创始人、总裁兼CTO彭志辉提出用Worken度量“有效智能工时”。 Counterpoint统计显示，2026年上半年全球人形机器人六成以上卖给了舞台和实验室，进厂进仓创造直接经济价值的不足两成。 弗若斯特沙利文口径下，2026年上半年全球用于“生产作业”的人形机器人销量仅0.12万台，收入0.78亿美元。 中国信通院在2026年10月发布的报告中提示，具身智能产业泡沫风险正在积聚。"
     },
     {
       "date": "2026.10.30",
@@ -123,19 +123,19 @@
       "url": "https://www.21jingji.com/article/20261030/herald/1b10c6ecc70005549c0ac3fc2f7b8fd8.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "优必选在完成对锋龙股份收购后，设立全资子公司新锋龙，并向其注入具身智能技术，推进核心零部件研发与规模化制造。 锋龙股份主业仍承压，今年前三季度扣非归母净利润亏损528.55万元。 优必选以约16.65亿元取得锋龙股份控制权，股份过户后持股43.01%。 新锋龙已量产二指夹爪和仿生人面部舵机，高功率密度舵机等计划于2027年量产。 锋龙股份股价在收购消息披露后曾出现多次涨停，真实成色有待已量产产品形成收入和利润来验证。",
-      "summary_zh": "优必选在完成对锋龙股份收购后，设立全资子公司新锋龙，并向其注入具身智能技术，推进核心零部件研发与规模化制造。 锋龙股份主业仍承压，今年前三季度扣非归母净利润亏损528.55万元。 优必选以约16.65亿元取得锋龙股份控制权，股份过户后持股43.01%。 新锋龙已量产二指夹爪和仿生人面部舵机，高功率密度舵机等计划于2027年量产。 锋龙股份股价在收购消息披露后曾出现多次涨停，真实成色有待已量产产品形成收入和利润来验证。"
+      "summary": "优必选在完成对锋龙股份收购后设立全资子公司新锋龙，并向其注入具身智能技术，推进核心硬件自研与规模化制造。 新锋龙已构建核心零部件、末端执行器和周边配套部件三大产品矩阵，其中二指夹爪和仿生人面部舵机已量产，高功率密度舵机、灵巧手等计划于2027年量产。 优必选此前以约16.65亿元取得锋龙股份控制权。 锋龙股份今年前三季度营业收入3.98亿元，同比增长6.75%，但扣非归母净利润亏损528.55万元。 新锋龙后续将整合优世界、优医疗等业务并引入外部总经理，其产品和客户进展将是决定锋龙股份估值切换的关键。",
+      "summary_zh": "优必选在完成对锋龙股份收购后设立全资子公司新锋龙，并向其注入具身智能技术，推进核心硬件自研与规模化制造。 新锋龙已构建核心零部件、末端执行器和周边配套部件三大产品矩阵，其中二指夹爪和仿生人面部舵机已量产，高功率密度舵机、灵巧手等计划于2027年量产。 优必选此前以约16.65亿元取得锋龙股份控制权。 锋龙股份今年前三季度营业收入3.98亿元，同比增长6.75%，但扣非归母净利润亏损528.55万元。 新锋龙后续将整合优世界、优医疗等业务并引入外部总经理，其产品和客户进展将是决定锋龙股份估值切换的关键。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T08:25:13+09:00",
+      "published_at": "2026-10-31T08:20:53+09:00",
       "headline": "人手不足の救世主になるか…車から荷物を取り出し、玄関先まで届ける人型ロボットの驚くべき映像（ニューズウィーク日本版）",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/124f5fbcaab8ed198f87b89d4d0e63bf0b1054b0",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "米国のアメリカのAIスタートアップReward AIは10月27日、人型ロボットによる配送作業の実演映像を公開した。 映像では、同社が開発したロボット向けAIモデル「OM-1」を搭載した人型ロボットが、テスラの電動ピックアップトラック「サイバートラック」の荷台から段ボール箱を取り出し、建物の入り口まで運ぶ様子が実演された。 同社によるとOM-1は荷物の位置や向きに応じて動作を調整できるとし、アマゾンやウォルマートなどの箱を使った試験も行っている。",
-      "summary_zh": "美国AI初创公司Reward AI于10月27日公开了一段由人形机器人执行配送作业的实演影像。 影像中，搭载该公司研发的机器人AI模型“OM-1”的人形机器人，从特斯拉电动皮卡车“赛博越野旅行车”的后车厢中取出纸箱，并将其运送至建筑物入口。 Reward AI表示，OM-1能够根据货物的位姿调整动作，并且该公司还使用亚马逊和沃尔玛等箱子进行了相关测试。"
+      "summary": "米カリフォルニア州のAIスタートアップ、Reward AIは10月27日、人型ロボットによる配送作業の実演映像を公開した。 ロボットには同社開発のAIモデル「OM-1」が搭載され、テスラの電動ピックアップトラック「サイバートラック」の荷台から段ボール箱を取り出し、地面に降りて建物の入り口まで運ぶ様子が実演された。 同社は、荷物の位置や向きに応じて動作を調整し、遠隔操作によらず完全自律で動作すると説明している。 人間のように脚と腕を使うロボットは、車輪型では障害になる階段や段差に対応できる可能性があるが、実際の宅配サービスへの導入や様々な天候・地形への対応能力は明らかにされていない。",
+      "summary_zh": "美国加利福尼亚州的人工智能初创公司Reward AI于10月27日公开了一段人形机器人进行配送作业的实演影像。 该机器人搭载了该公司开发的AI模型“OM-1”，实演了从特斯拉电动皮卡“赛博越野旅行车”的货箱中取出纸箱、降落到地面并运送至建筑物入口的动作。 该公司说明称，机器人能根据货物的位置和方向调整动作，且在不通过远程操作的情况下实现完全自主运行。 像人类一样使用双腿和双臂的机器人有望应对轮式机器人难以克服的楼梯或阶梯等障碍，但其实际投入快递服务以及应对各种天气和地形的能力尚未明朗。"
     },
     {
       "date": "2026.10.30",
@@ -145,8 +145,8 @@
       "url": "https://news.yahoo.co.jp/articles/f2e66f0d7b5a4fc8b1c14cfb7c523aba32a0f2e5",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "安川電機は2025年10月28日、トヨタ自動車のモータースポーツチーム「ガズーレーシング」（GR）と共同開発したAI活用の自律化ロボット生産技術を、同年9月にトヨタの生産拠点「蒲郡GR KART工房」（愛知県蒲郡市）に導入したと発表した。 両社が2024年に開発したアーク溶接技術「SFA工法」を発展させ、自動化が困難だった入門用レーシングカート「GR KART」のパイプフレーム溶接工程をロボットで実用化した。 新技術には安川電機のAIロボット「MOTOMAN NEXT」を採用し、組付け状態や隙間、溶接後の仕上がり状態に応じて最適な作業をロボットが自律的に判断する。 外観画像に加え、溶接時の音や各種データをAIが総合的に分析することで、品質の安定化と生産性向上を図っている。 SFA工法は従来2―3週間かかっていた競技車両のロールケージ製作を3日に短縮している。",
-      "summary_zh": "安川电机于10月28日宣布，已于同年9月将与丰田汽车赛车团队“GAZOO Racing”（GR）共同开发的AI应用自主化机器人生产技术，引入至丰田的生产基地“蒲郡GR KART工房”（爱知县蒲郡市）。 该技术发展了双方于2024年共同开发的大弧焊技术“SFA工法”，在机器人中实现了管道框架焊接工序的高度化，并在入门级赛车卡丁车“GR KART”的车架制造工序中投入实用。 新技术采用安川电机的AI机器人“MOTOMAN NEXT”，机器人可根据组装状态、间隙及焊接后的成品状态自主判断最佳作业，并综合分析外观图像、焊接时的声音及各种数据，以实现品质稳定与生产效率提升。 SFA工法曾将竞技车辆防滚架的制作周期从原本的2―3周缩短至3天。"
+      "summary": "安川電機は2025年9月に、トヨタ自動車のモータースポーツチーム「ガズーレーシング」（GR）と共同開発したAI活用の自律化ロボット生産技術を、トヨタの生産拠点「蒲郡GR KART工房」に導入したと発表した。 両社が2024年に開発したアーク溶接技術「SFA工法」を発展させ、パイプフレーム溶接工程の高度化をロボットで実現した。 入門用レーシングカート「GR KART」のフレーム製造工程で実用化された。 新技術には安川電機のAIロボット「MOTOMAN NEXT」が採用され、ロボットがパイプフレームの組付け状態や隙間、溶接後の仕上がり状態に応じて最適な作業を自ら判断し、熟練工の技能に依存していた一連の溶接工程を自律的に実施する。 外観画像に加え、溶接時の音や各種データをAIが総合的に分析することで品質の安定化と生産性向上のほか、競技車両のロールケージ製作期間を短縮した。",
+      "summary_zh": "安川电机于2025年9月宣布，将与丰田汽车赛车团队“GAZOO Racing”（GR）共同开发的AI应用自主化机器人生产技术，引入了丰田的生产基地“蒲郡GR KART工房”。 双方发展了2024年共同开发的气体保护电弧焊技术“SFA工法”，通过机器人实现了管道框架焊接工序的高度化，并在入门级赛车卡丁车“GR KART”的车架制造工序中投入实际应用。 该新技术采用了安川电机的AI机器人“MOTOMAN NEXT”，机器人可根据管道框架的组装状态、间隙以及焊接后的完成状态自主判断最佳作业，自主执行曾依赖熟练工技能的一系列焊接工序。 除了外观图像外，AI还综合分析焊接时的声音及各种数据，旨在稳定品质并提高生产效率，同时缩短了竞技车辆防滚架的制作周期。"
     },
     {
       "date": "2026.10.30",
@@ -156,8 +156,8 @@
       "url": "https://plus-web3.com/media/latestnews_1002_11251/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "安川電機は、トヨタ自動車のGAZOO Racing（GR）と共同開発したAI活用の自律化ロボット生産技術を発表した。 国内のGR KART製造現場に導入し、パイプフレームの溶接から品質確認、補正までをロボットが自律的に担う。 中核となるGPUとAIを搭載した「MOTOMAN NEXT」は、外観画像に加え溶接中の音や各種データをAIが総合的に分析する。 技術の土台は2024年に開発したアーク溶接の「SFA工法」にあり、競技車両のロールケージ製作期間を従来の2～3週間から3日へ短縮した。 安川電機によれば今回の導入は生産性向上や品質安定化、原価低減に寄与しており、今後は他の製造現場への展開や溶接以外の自動化技術の開発、MOTOMAN NEXTの市場投入拡大を進める方針である。",
-      "summary_zh": "安川电机公布了与丰田汽车旗下的GAZOO Racing（GR）共同开发的AI应用自主化机器人生产技术。 该技术被引入国内的GR KART制造现场，由机器人自主承担从管道框架焊接、质量确认到修正的全过程。 作为核心、搭载了GPU与AI的“MOTOMAN NEXT”除了外观图像外，还会利用AI综合分析焊接过程中的声音及各种数据。 该技术的基石是2024年开发的大弧焊“SFA工法”，该工法将竞技车辆防滚架的制作周期从传统的2至3周缩短至3天。 安川电机表示，此次引入有助于提升生产效率、稳定品质并降低成本，今后计划向其他制造现场推广、开发焊接以外的自动化技术，并扩大“MOTOMAN NEXT”的市场投放。"
+      "summary": "安川電機はトヨタ自動車のGAZOO Racing（GR）と共同開発したAI活用の自律化ロボット生産技術を「蒲郡GR KART工房」に導入した。 対象はGR KARTのパイプフレーム製造工程であり、ロボットが組付け状態や隙間を認識して溶接作業を判断し、溶接後の品質確認や補正も自律的に実施する。 中核となるのはGPUとAIを搭載した「MOTOMAN NEXT」で、外観画像に加え溶接中の音や各種データをAIが総合的に分析する。 この技術は2024年に開発したアーク溶接の「SFA工法」を土台としており、競技車両のロールケージ製作期間短縮などに寄与した技術を実生産ラインへ導入したものである。 安川電機によれば生産性向上や品質安定化、原価低減に寄与しており、今後は他の製造現場への展開やMOTOMAN NEXTの市場投入拡大を進める方針である。",
+      "summary_zh": "安川电机宣布将与丰田汽车旗下的GAZOO Racing（GR）共同开发的AI应用自主化机器人生产技术引入“蒲郡GR KART工房”。 该技术以GR KART的管道框架制造工序为对象，由机器人识别组装状态及间隙来判断焊接作业，并在焊接后自主实施品质确认与修正。 其核心是搭载了GPU与AI的“MOTOMAN NEXT”，AI除了外观图像外还会综合分析焊接中的声音及各种数据。 该技术以2024年开发的气体保护电弧焊“SFA工法”为基础，将曾为竞技车辆防滚架制作周期缩短等做出贡献的技术引入了实际生产线。 据安川电机称，此次引入有助于提升生产力、稳定品质并降低成本，今后计划向其他制造现场推广并扩大“MOTOMAN NEXT”的市场投放。"
     },
     {
       "date": "2026.10.29",
@@ -167,8 +167,8 @@
       "url": "https://news.dellows.jp/788952/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "日本オーチス・エレベータ株式会社は、立命館大学びわこ・くさつキャンパスにおいて、サービスロボットとエレベーターを連携するOtis Integrated Dispatch™技術を活用し、清掃ロボットによるフロア間の自律移動を実現した。 延床面積22,800平方メートルを超える7階建ての施設内で、清掃ロボットが人の介在なく複数フロアを移動し、清掃業務の自動化を広範囲で進めている。 同技術はクラウドを介してロボットとエレベーターを連携させるAPIソリューションであり、ほぼ全ての自律型サービスロボットと連携可能で1990年以降に製造されたオーチス製の商用エレベーターと互換性がある。 大学側は清掃スタッフがより付加価値の高い業務に注力できるようになったとしている。",
-      "summary_zh": "日本奥的斯电梯株式会社在立命馆大学琵琶湖·草津校区，利用将服务机器人与电梯进行联动的Otis Integrated Dispatch™技术，实现了清洁机器人在楼层之间的自主移动。 在总建筑面积超过22,800平方米的7层设施内，清洁机器人无需人工介入即可在多个楼层之间移动，在更广泛的范围内推进了清洁业务的自动化。 该技术是通过云端将机器人与电梯联动的API解决方案，可与几乎所有自主型服务机器人联动，并与1990年以后制造的奥的斯商用电梯兼容。 校方表示，清洁人员因此能够专注于附加值更高的业务。"
+      "summary": "日本オーチス・エレベータ株式会社は、立命館大学びわこ・くさつキャンパスにおいて、サービスロボットとエレベーターを連携するOtis Integrated Dispatch技術を活用し、清掃ロボットによるフロア間の自律移動を実現した。 延床面積22800平方メートルを超える7階建ての施設内で、清掃ロボットが人の介在なく複数フロアを移動できるようになり、清掃業務の自動化を広範囲で進めている。 同技術はクラウドを介してロボットとエレベーターを連携させるシステムで、ロボットが自律的にフロア間を移動できる。 施設側では清掃スタッフが細部の清掃や点検など付加価値の高い業務に注力できるようになり、日本オーチス代表取締役社長のパトリック・ヨング氏は、人とロボットが効果的に協働できる環境を実現し人手不足への対応を支援するとしている。",
+      "summary_zh": "日本奥的斯电梯株式会社在立命馆大学琵琶湖·草津校区利用将服务机器人与电梯联动的Otis Integrated Dispatch技术，实现了清扫机器人跨楼层的自主移动。 在总建筑面积超过22800平方米的7层设施内，清扫机器人能够在无人工干预的情况下跨多层移动，在广泛范围内推进了清扫业务的自动化。 该技术是通过云端将机器人与电梯进行联动的系统，使机器人能够自主在楼层间移动。 设施方面表示，清扫人员得以专注于细节清洁与检查等附加值更高的业务，日本奥的斯代表董事社长帕特里克·永（Patrick Yong）表示，该方案实现了人与机器人有效协作的环境，并支持应对劳动力短缺问题。"
     },
     {
       "date": "2026.10.29",
@@ -178,19 +178,41 @@
       "url": "https://news.mynavi.jp/techplus/article/20261029-5216002/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "ファナックは10月27日、AIを活用して産業用ロボットの物体認識を高度化する新技術「AIマスタレスビジョン」を開発したと発表した。 従来のビジョンセンサと異なり、事前に形状を登録するビジョン教示を行わず、「円柱部品」と指示するだけで初めて見る加工素材でもカメラ画像から認識してロボットで搬送できる。 カメラとAIを組み合わせて物体の3次元形状を認識し、照明条件が変化する環境でも対象物を認識可能である。 また、従来のビジョンセンサでは難しかった透明な物体や光沢のある金属部品にも対応する。 同社は2027年1月に同技術の出荷を開始する予定である。",
-      "summary_zh": "发那科于10月27日宣布，开发出利用AI提升产业用机器人物体识别能力的新技术“AI Mastreless Vision”。 与传统的视觉传感器不同，该技术无需事先注册形状的视觉示教，仅需指示“圆柱部件”，即可从相机图像中识别从未见过的加工素材并通过机器人进行搬运。 该技术结合相机与AI来识别物体的3维形状，即使在照明条件变化的环境中也能识别目标物体。 此外，它还能应对传统视觉传感器难以识别的透明物体或具有光泽的金属部件。 该公司计划于2027年1月开始出货该技术。"
+      "summary": "ファナックは10月27日、AIを活用して産業用ロボットの物体認識を高度化する新技術「AIマスタレスビジョン」を開発したと発表した。 従来のビジョンセンサで必要だった形状等の事前登録（ビジョン教示）を不要にし、「円柱部品」と指示するだけで初めて見る加工素材でもカメラ画像から認識してロボットで搬送できるようにした。 カメラとAIを組み合わせて物体の3次元形状を認識し、照明条件の事前学習により時間帯や季節で明るさが変化する環境でも対象物を認識できる。 従来のビジョンセンサでは難しかった透明な物体や光沢のある金属部品にも対応し、調整の負担を軽減する。 ファナックは2027年1月に同技術の出荷を開始する予定である。",
+      "summary_zh": "发那科于10月27日宣布开发出利用AI提升工业机器人物体识别能力的新技术“AI Maste-less Vision”。 该技术无需传统视觉传感器所需的形状等预先注册（视觉示教），仅需指示“圆柱零件”等指令，即可通过相机图像识别从未见过的加工素材并由机器人进行搬运。 该技术结合相机与AI识别物体的三维形状，并通过对照明条件的事先学习，即使在时间段或季节导致明暗变化的环境中也能识别目标物体。 它还支持传统视觉传感器难以识别的透明物体以及具有光泽的金属零件，减轻了调整负担。 发那科计划于2027年1月开始出货该技术。"
     },
     {
       "date": "2026.10.30",
-      "published_at": "2026-10-30T11:25:33+09:00",
-      "headline": "ポケット・クエリーズと建築研究所、ヒューマノイド×四足歩行ロボットによる被災建築物調査を検証",
-      "source": "ドローンジャーナル",
-      "url": "https://drone-journal.impress.co.jp/docs/news/1189030.html",
+      "published_at": "2026-10-30T09:20:19+09:00",
+      "headline": "アトラグループ---RBBと合弁会社を設立しヒューマノイドロボット事業に参入(フィスコ)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://finance.yahoo.co.jp/news/detail/688b1e98200059dea180c12d2d1927c92f9ad6c9",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "ポケット・クエリーズは、建築研究所との共同研究によるヒューマノイドロボットと四足歩行ロボットを用いた被災建築物調査の検証成果を、2026年9月の日本建築学会大会で発表した。 両者はこれまで危険な災害現場における調査技術の研究を進めており、今回の発表では模擬被災環境における基礎実験を通じて、対話・認識性能や操作・視覚性能、被災状況の把握などの妥当性を確認した。 遠隔管理者がロボット群を統括し役割分担して調査を行う構成や、人・ヒューマノイド・四足歩行の3者による協調体制の有効性を実証した。 今後はフィジカルAIの高度化や作業範囲の拡大、通信環境の安定化などの課題解決を推進するとしている。",
-      "summary_zh": "口袋查询（Pocket Queries）与建筑研究所作为共同研究的成果，于2026年9月在日本建筑学会大会上发布了利用人形机器人与四足步行机器人进行受灾建筑物调查的验证成果。 双方此前一直在推进危险灾害现场调查技术的研究，本次发布报告了在模拟受灾环境中对机器人功能、操作性及识别性能等基础验证的结果。 验证了远程管理者统筹机器人群并根据各自特性分工调查的架构，以及人、人形机器人和四足步行机器人三者协作体制的有效性。 未来将推进提升物理AI的精度、扩大可应对作业范围以及稳定通信环境等实际应用课题的解决。"
+      "summary": "アトラグループは29日、RBBとの共同出資によりロボットシステムの販売や導入支援を行う合弁会社「SIbot」を設立すると発表した。 資本金は1000万円で、アトラグループが51.0％、RBBが49.0％を出資する。 設立は10月31日の予定で、アトラグループの連結子会社となる見込み。 新会社ではヒューマノイドロボット等の販売・導入支援に加え、ロボットの学習用データを収集・生成するデータファクトリーの整備・運営を計画しており、産業分野での実用化から着手し、将来的には医療・介護現場で活用可能なロボットの実現を目指す。 事業開始は2026年中を予定し、総額約150百万円の支出を見込む。",
+      "summary_zh": "Atra Group于29日宣布，将与RBB共同出资成立合资公司“SIbot”，从事机器人系统的销售及部署支持等业务。 该公司资本金为1000万円，Atra Group出资51.0%，RBB出资49.0%。 新公司预计于10月31日成立，并成为Atra Group的合并子公司。 新公司计划除销售和支持部署人形机器人外，还将建设并运营收集和生成机器人学习数据的“数据工厂”，从工业领域实用化入手，未来力争构建有助于医疗和护理现场机器人的数据基础。 业务预计于2026年启动，预计总支出约150百万円，将以自有资金支付。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T15:58:37+09:00",
+      "headline": "SynDexy dexterous manipulation humanoid robot, completes first small-batch delivery",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com/articles/news/syndexy-dexterous-manipulation-humanoid-robot-completes-first-small-batch-delivery-2116424707997593601",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "SynDexy announced on Oct. 30 that its dual-arm wheeled humanoid robot, the SynDexy C1, has completed its first small-batch delivery to precision assembly lines at consumer electronics and component factories. The C1 features in-house vision-tactile sensors and runs SynDexy M1, a vision-tactile-force tri-state fusion model with 22 degrees of freedom and 1-millisecond real-time motion control. Development kicked off in April 2026, with a first-gen prototype by July and small-batch deliveries in October. Founded in 2025 and led by Professor Fang Bin from BUPT, SynDexy focuses on high-precision industrial dexterity, though small-batch deliveries are distinct from mass production and stability will depend on future orders.",
+      "summary_zh": "SynDexy于10月30日宣布，其自主研发的双臂轮式人形机器人SynDexy C1已完成首批小批量交付，送往消费电子和零部件工厂的精密组装线。 C1搭载了自研的视触觉传感器，运行SynDexy M1（即视-触-力三态融合模型），拥有22个自由度和1毫秒实时运动控制。 该机器人于2026年4月开始研发，7月制成第一代原型机，10月完成小批量交付。 SynDexy成立于2025年，由北京邮电大学教授方斌领导，专注于高精度工业灵巧操作，但小批量交付远非大规模生产，其稳定性与成本控制仍取决于未来的订单。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T08:01:55+09:00",
+      "headline": "Tesla Optimus Reservations Rumored for December: What We Know - BASENOR",
+      "source": "Tesla Accessories",
+      "url": "https://www.basenor.com/blogs/news/tesla-optimus-reservations-rumored-for-december-what-we-know",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "A report from the San Francisco Standard published on October 30, 2026, claims Tesla is planning to open customer reservations for its Optimus humanoid robot as early as December, potentially around the Humanoids Summit on December 1–2. Tesla has not officially confirmed the reservations. During Tesla's Q3 2026 earnings call on October 21, Elon Musk stated that deliveries to external companies are expected around the end of 2027. Tesla has started early production of Optimus at its Fremont factory. Elon Musk has cited a long-term target retail price of $20,000–$30,000, while consumer delivery timelines are estimated by analysts to be further out in 2028 or 2029.",
+      "summary_zh": "根据《旧金山标准报》于2026年10月30日发布的报道，特斯拉计划最早于12月份（可能围绕12月1日至2日举行的机器人峰会前后）开放客户对Optimus人形机器人的预订。 特斯拉尚未官方确认此举。 在2026年10月21日的第三季度财报电话会议上，埃隆·马斯克表示，向特斯拉外部公司的交付预计在2027年底左右。 特斯拉已在其弗里蒙特工厂开始Optimus的高产量早期生产。 马斯克曾长期给出20,000美元至30,000美元的零售价目标，而分析师估计消费者实际收到机器人的时间可能会在2028年或2029年。"
     },
     {
       "date": "2026.10.31",
@@ -200,30 +222,8 @@
       "url": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Bleu Robotics, a Paris, France-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-seed round, co-led by Contrarian Ventures and OVNI Capital, with participation from Kvanted, WEPA Ventures, Motier Ventures and Charlie Songhurst. The company will use the funds to grow its team and scale its software solution across industries in pursuit of its goal to reduce the full humanoid robot deployment process to one hour or shorter. Its abductive learning model allows robots to learn new tasks from as few as ten operator demonstrations while keeping explainability and 99%+ accuracy. The software plugs into any humanoid platform and uses handheld training devices to eliminate coding. Bleu Robotics was founded in December 2025 by Benoît Berkoukchi, Jean-Baptiste Mouret and Serena Ivaldi, and is already working with two major industrial companies while building partnerships with robot distributors.",
-      "summary_zh": "总部位于法国巴黎的工业人形机器人AI模型初创公司Bleu Robotics完成了500万欧元的Pre-种子轮融资，由Contrarian Ventures和OVNI Capital共同领投，Kvanted、WEPA Ventures、Motier Ventures以及查理·松赫斯特参与了投资。 该公司将利用这笔资金壮大团队，并在各行业扩大其软件解决方案的规模，以实现将人形机器人完整部署流程缩短至一小时或更短的目标。 其溯因学习模型允许机器人通过少至十次的操作员演示来学习新任务，同时保持工业安全所需的可解释性和99%以上的准确率。 该软件可插入任何人形机器人平台，并使用手持训练设备消除了对编程的需求。 Bleu Robotics由勒内·贝鲁基、让-巴蒂斯特·穆雷和塞雷娜·伊瓦尔迪于2025年12月创立，目前已与两家大型工业企业合作，同时在建立机器人分销商伙伴关系。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T05:04:15+09:00",
-      "headline": "Tesla Optimus Reservations Rumored for December: What We Know - BASENOR",
-      "source": "Tesla Accessories",
-      "url": "https://www.basenor.com/blogs/news/tesla-optimus-reservations-rumored-for-december-what-we-know",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "A report from the San Francisco Standard, published October 30, 2026, claims Tesla is planning to open customer reservations for its Optimus humanoid robot as early as December, potentially timed around the Humanoids Summit on December 1–2. The report cites robotics investor Modar Alaoui, who claimed Tesla indicated reservations would launch around or after the summit. Tesla has not officially confirmed the move and did not respond to requests for comment, though it has previously warned against unofficial reservation sites. During the Q3 2026 earnings call on October 21, Elon Musk stated that deliveries to external companies are expected around the end of 2027. Tesla has started early production of Optimus at its Fremont factory, and Musk has previously cited a long-term target retail price of $20,000–$30,000.",
-      "summary_zh": "《旧金山纪事报》于2026年10月30日发布的一篇报道称，特斯拉计划最早于12月开放其Optimus人形机器人客户预订，时间可能安排在12月1日至2日举行的“人形机器人峰会”前后。 该报道援引机器人投资者莫达尔·阿拉乌伊的话称，特斯拉暗示预订将在峰会期间或之后不久启动。 特斯拉尚未官方证实此举，也未回应置评请求，但此前曾警告消费者警惕非官方预订网站。 在10月21日的2026年第三季度财报电话会议上，埃隆·马斯克表示，向特斯拉以外公司的交付预计在2027年底左右。 特斯拉已在其弗里蒙特工厂开始了Optimus的早期生产，马斯克此前曾引用20,000美元至30,000美元的长期目标零售价。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T22:23:14+09:00",
-      "headline": "Agility Robotics Expects About $465M From SPAC Deal Ahead of Nov. 5 Nasdaq Debut",
-      "source": "AI Insider",
-      "url": "https://theaiinsider.tech/2026/10/30/agility-robotics-expects-about-465m-from-spac-deal-ahead-of-nov-5-nasdaq-debut/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Agility Robotics expects about $465 million in gross capital from its merger with Churchill Capital Corp XI and related financings, with shares set to begin trading on Nasdaq as AGLT on Nov. 5. The total combines about $164 million left in the SPAC’s trust after redemptions, a roughly $201 million PIPE led by Foxconn and $100 million in equity Agility already received. Agility cited more than $300 million in committed multi-year orders for its Digit 5 humanoid, which it said does not represent current-period revenue. Churchill XI shareholders vote Nov. 2, and the merger is expected to close Nov. 4. Digit 5 early-access customers should receive units in the first half of 2027, with general availability by year-end. GXO plans to put Digit in two more facilities, and AGCO will start a manufacturing pilot in 2027.",
-      "summary_zh": "Agility Robotics预计通过与特殊目的收购公司Churchill Capital Corp XI的合并及相关融资获得约4.65亿美元的总资金，其股票定于11月5日以代码AGLT在纳斯达克开始交易。 总额结合了赎回后SPAC信托中剩余的约1.64亿美元、由富士康领投的约2.01亿美元PIPE以及Agility已收到的1亿美元股权。 Agility称其Digit 5人形机器人获得了超过3亿美元的承诺多年期订单，并表示这不代表当期收入。 Churchill XI股东将于11月2日投票，合并预计于11月4日完成。 Digit 5的早期体验客户应在2027年上半年收到设备，并计划于年底前实现全面上市。 GXO计划在另外两个设施中部署Digit，AGCO将于2027年启动制造试点。"
+      "summary": "Bleu Robotics, a Paris-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-seed round co-led by Contrarian Ventures and OVNI Capital, with participation from Kvanted, WEPA Ventures, Motier Ventures, and Charlie Songhurst. The funds will be used to grow its team and scale its software solution with the goal of reducing humanoid robot deployment to one hour or shorter. Using an abductive learning model, Bleu's technology allows robots to learn new tasks from as few as ten operator demonstrations while maintaining 99%+ accuracy. Founded in December 2025 by Benoît Berkoukchi, Jean-Baptiste Mouret, and Serena Ivaldi, the company is already working with two major industrial companies.",
+      "summary_zh": "总部位于法国巴黎、为工业人形机器人构建AI模型的初创公司Bleu Robotics已筹集500万欧元的种子轮前融资，由Contrarian Ventures和OVNI Capital共同领投，Kvanted、WEPA Ventures、Motier Ventures和Charlie Songhurst参与。 该公司将利用这笔资金扩大团队并推广其软件解决方案，旨在将人形机器人的部署流程缩短至一小时或更短。 借助溯因学习模型，Bleu的技术允许机器人通过操作员的至少十次演示来学习新任务，同时保持99%以上的准确率。 该公司由Benoît Berkoukchi、Jean-Baptiste Mouret和Serena Ivaldi于2025年12月在巴黎创立，目前正与两家大型工业企业合作。"
     },
     {
       "date": "2026.10.30",
@@ -233,8 +233,8 @@
       "url": "https://interestingengineering.com/ai-robotics/humanoid-robot-achieves-success-with-agibot-go3",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Chinese robotics company AGIBOT has unveiled GO-3 Preview, an embodied AI model designed to help robots continuously learn and improve capabilities using a World Reasoning Action Model (WRAM) architecture. The model connects task reasoning, outcome prediction, and action generation, and has secured first place on RoboDojo, RoboTwin, and RoboColiseum benchmarks. AGIBOT plans to open-source the full model by the end of 2026. The approach combines first-person human videos and robot trajectories. For post-training, AGIBOT developed Genie Evolver, a distributed training system combining 100 physical robots with physics simulations and world models. In demonstrations, a robot exceeded human performance in tabletop curling after four hours of online practice, and a G2 robot deployed in a convenience store increased its task workflow success rate from 28.6 percent to a stable 85.7 percent after five days using the Genie Master agent framework.",
-      "summary_zh": "中国机器人公司智元机器人（AGIBOT）推出了GO-3 Preview，这是一种具身智能模型，旨在利用世界推理动作模型（WRAM）架构帮助机器人持续学习并提升能力。 该模型将任务推理、结果预测和动作生成连接起来，并在RoboDojo、RoboTwin和RoboColiseum基准测试中夺得第一名。 智元机器人计划在2026年底前将完整模型开源。 该方法结合了第一人称人类视频和机器人轨迹。 在后训练方面，智元开发了Genie Evolver，这是一个将100台物理机器人与物理模拟和世界模型相结合的分布式训练系统。 在演示中，机器人在进行四小时的网络练习后，桌面冰壶表现超过了测试人类的平均水平；部署在便利店中的G2机器人利用Genie Master智能体框架，在五天内将完整任务工作流的成功率从第一天的28.6%提高到稳定的85.7%。"
+      "summary": "Chinese robotics company AGIBOT has unveiled GO-3 Preview, an embodied AI model using a World Reasoning Action Model architecture to connect task reasoning, outcome prediction, and action generation. Launched on October 29, the model aims to support continuous learning across pre-training, post-training, and deployment, securing first place on RoboDojo, RoboTwin, and RoboColiseum benchmarks, with a full open-source release planned by the end of 2026. For post-training, AGIBOT developed a distributed training system called Genie Evolver and a Genie Master agent framework. In a convenience store deployment using a G2 robot, the system's success rate increased from 28.6 percent on the first day to a stable 85.7 percent after five days without human intervention.",
+      "summary_zh": "中国机器人公司智元机器人发布了GO-3 Preview具身智能模型，该模型采用世界推理动作模型架构，将任务推理、结果预测和动作生成连接起来。 该模型于10月29日推出，旨在支持跨预训练、后训练和部署的持续学习，并在RoboDojo、RoboTwin和RoboColiseum基准测试中夺得第一，计划于2026年底前完全开源。 在后训练方面，智元开发了名为Genie Evolver的分布式训练系统及Genie Master智能体框架。 在便利店部署G2机器人的实际测试中，系统在无需人工干预的情况下，任务成功率从第一天的28.6%提升至五天后的稳定85.7%。"
     }
   ]
 }
