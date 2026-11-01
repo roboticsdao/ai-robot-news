@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.11.02（月曜日 / Monday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.11.01] SDxCentral — T-Mobile US hunts for engineers as humanoid efforts broaden**
+  English: T-Mobile US is hiring a senior engineer to support its commercial AI programs, edge-AI infrastructure platform Kinetic Edge AI, and broader physical AI expansion involving robotics and embodied AI. The role involves writing production code for device integrations, sensor and vision data pipelines, and AI inference services, as well as integrating drones, autonomous mobile robots, and autonomous vehicles with network RAN and core engineering. CTO John Saw disclosed that T-Mobile has worked with Figure AI on running humanoids at the network edge, progressing from eSIM connectivity to evaluating parts of Figure's Helix S1 and S2 models. Additionally, the firm developed an AI supervision layer for fleet management of Serve Robotics delivery robots and tested 6G equipment with Ericsson and MediaTek in Bellevue, Washington.
+  中文：总结：T-Mobile US正在招聘一名高级工程师，以支持其商业人工智能项目、边缘AI基础设施平台Kinetic Edge AI以及涉及机器人和具身智能的更广泛的物理AI扩张。 该职位涉及为设备集成、传感器和视觉数据管道以及AI推理服务编写生产代码，并将无人机、自动移动机器人和自动车辆与网络无线接入网（RAN）及核心工程进行集成。 首席技术官约翰·索（John Saw）透露，T-Mobile一直与Figure AI合作在网络边缘运行人形机器人，其合作已从eSIM连接发展到评估Figure的Helix S1和S2模型的部分功能。 此外，该公司还为Serve Robotics送货机器人的车队管理开发了一个AI监督层，并在华盛顿州贝尔维尤与爱立信和联发科测试了6G设备。
+  📰 [SDxCentral](https://www.sdxcentral.com/news/t-mobile-us-hunts-for-engineers-as-humanoid-efforts-broaden/)
+
+- **[2026.10.31] The San Francisco Standard — Tesla is set to open reservations for Optimus robot later this year, says industry expert**
+  English: Tesla is expected to open customer reservations for its Optimus humanoid robot in early December, according to robotics investor Modar Alaoui of ALM Ventures, who runs 'The Humanoids Summit. ' Tesla has converted parts of its Fremont factory to produce the humanoids and is expected to showcase the Optimus V3 model at the summit. The robots would likely not ship for another year, with a price tag expected to be $20,000-plus, and while the majority will be sold to companies, a small number will be set aside for consumers. CEO Elon Musk appeared to deny December waitlist plans on X with the word 'No,' and Tesla did not respond to requests for comment. Musk previously stated that Tesla will need to produce 10,000 to 20,000 units to gather data for training.
+  中文：总结：根据举办“人形机器人峰会”的ALM Ventures机器人投资者莫达·阿拉维（Modar Alaoui）的说法，特斯拉预计将在12月初为其Optimus人形机器人开放客户预订。 特斯拉已将弗里蒙特工厂的部分区域改造用于生产该人形机器人，并预计在该峰会上展示Optimus V3型号。 这些机器人预计还要一年左右才会发货，售价预计在20,000美元以上，其中大部分将出售给企业，一小部分留给消费者。 首席执行官埃隆·马斯克（Elon Musk）似乎在X上用“No”字否认了12月份的候补名单计划，特斯拉也没有回应置评请求。 马斯克此前曾表示，特斯拉需要生产10,000到20,000台设备来收集训练数据。
+  📰 [The San Francisco Standard](https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/)
+
+- **[2026.10.31] Robotics & Automation News — Humanoid expands collaboration with Nvidia to power its next generation of humanoid robots**
+  English: Humanoid, a UK-based AI and robotics company, is expanding its collaboration with Nvidia to build the computing foundation for its next generation of AI-powered humanoid robots. The companies are developing a high-performance robotic edge runtime to allow Humanoid's robots to run sophisticated AI onboard for real-time perception, reasoning, and response. Humanoid is integrating Nvidia Jetson Thor, Nvidia Isaac OS, Nvidia Holoscan Sensor Bridge, and the Holoscan SDK to consolidate computing capacity, reduce latency, and simplify overall architecture. Humanoid's founder and CEO Artem Sokolov stated that Nvidia has been an important technology partner as their robots become more capable.
+  中文：总结：总部位于英国的人工智能与机器人公司Humanoid正扩大与英伟达的合作，为其新一代人形机器人构建计算基础。 双方正合作开发高性能机器人边缘运行时，使Humanoid的机器人能够直接在机载端运行复杂的AI，以实时感知、推理并对物理世界做出反应。 Humanoid正在集成英伟达最新的机器人和边缘计算技术，包括Nvidia Jetson Thor、Nvidia Isaac OS、Nvidia Holoscan Sensor Bridge和Holoscan SDK，以整合计算能力、降低延迟并简化整体架构。 Humanoid创始人兼首席执行官阿尔乔姆·索科洛夫表示，随着机器人功能越来越强大，英伟达一直是其重要的技术合作伙伴。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/30/humanoid-expands-collaboration-with-nvidia-to-power-its-next-generation-of-humanoid-robots/106493/)
+
+- **[2026.10.31] The Robot Report — Humanoid developer Agility now expects to raise $465M in SPAC deal**
+  English: Agility Robotics Inc. and Churchill Capital Corp XI announced they expect Agility to raise about $465 million in its proposed merger with the special-purpose acquisition company. The gross capital raise includes about $164 million from Churchill XI’s trust account, approximately $201 million from a common stock PIPE committed at $10 per share led by Foxconn, and $100 million of equity funding already received. This total is lower than the $620 million Agility predicted at a $2.5 billion valuation in June. Agility expects to close the SPAC transaction on Nov. 4, subject to shareholder approval and closing conditions. The company stated it is on track to begin deliveries to early-access customers in the first half of 2027, with general availability targeted for the end of 2027, and has more than $300 million in committed multi-year orders for Digit 5.
+  中文：总结：Agility Robotics Inc. 与Churchill Capital Corp XI宣布，预计Agility在其与特殊目的收购公司的拟议合并中将筹集约46500万美元资金。 总资本筹集包括来自Churchill XI信托账户的约16400万美元、由富士康领投并以每股10美元承诺的普通股PIPE的约20100万美元，以及已收到的10000万美元股权资金。 这一总额低于Agility在6月份以25亿美元估值时预测的62000万美元。 在获得股东批准并满足惯例交割条件的前提下，Agility预计于11月4日完成SPAC交易。 该公司表示，有望在2027年上半年开始向早期访问客户交付，通用版本预计在2027年底推出，并且目前拥有超过30000万美元的Digit 5承诺多年订单。
+  📰 [The Robot Report](https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/)
+
+- **[2026.10.30] Energy Digital Magazine — Schneider, NVIDIA & HPE Take Physical AI to Process Plants**
+  English: Schneider Electric, NVIDIA, and HPE are collaborating to bring physical AI to process industries such as oil refining, beer brewing, and paper manufacturing through a new product called Industrial AI Agents at the Edge. The opening product features three AI agents covering operational technology monitoring, cybersecurity, and energy optimisation, performing computing on-site near the equipment producing data. CMPC Chile, part of Empresas CMPC, is named as a customer that has run Schneider’s operational technology monitoring system for three years. Matías Jory, Digital & Process Manager at CMPC, expressed excitement about introducing the technology, while Gwenaelle Huet, EVP of Industrial Automation at Schneider Electric, highlighted the opportunity to apply Physical AI to critical industrial systems.
+  中文：总结：施耐德电气、英伟达与慧与正通过一项名为“边缘工业AI代理”的新产品，将具身智能引入石油精炼、啤酒酿造和造纸等过程工业。 首发产品包含三个AI代理，分别涵盖运营技术监控、网络安全和能源优化，在靠近产生数据的设备现场执行计算。 作为 Empresas CMPC 旗下的企业，CMPC Chile 被点名为已运行施耐德运营技术监控系统三年的客户。 CMPC 数字与工艺经理马蒂亚斯·约里对在这一领域引入该技术表示兴奋，而施耐德电气工业自动化执行副总裁格温埃尔·于埃则强调了将具身智能应用于关键工业系统的机遇。
+  📰 [Energy Digital Magazine](https://energydigital.com/news/schneider-nvidia-hpe-take-physical-ai-to-process-plants)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.11.02] 新浪财经 — Muse人形机器人来了！小扎带队，中国造|上海市|知情人士|家庭|原型|环境_手机新浪网**
+  中文：总结：Meta已与中国机器人公司傅利叶合作，在3个月内打造出一款名为“Max”的人形机器人原型，并已于9月开始开发第二代产品Max 2。 该原型机重约106磅，身高约1.5米，搭载英伟达Jetson Thor芯片及相关软件平台，胸部装有两个扬声器，面部可模拟表情，五指机械手能拿起小瓶子和玩具。 Meta推出个人Agent助理产品“Muse”后，旨在开发能够协助处理家务和日常事务的消费级机器人，Meta首席技术官Andrew Bosworth曾将其描述为Muse的实体化形态。 Meta机器人业务产品副总裁Li-Chen Miller曾在傅利叶位于上海的工厂工作近两个月，推进原型机开发。 8月底，Meta在内部机器人峰会上展示了该原型。 Max 2将采用重新设计的躯干、改进机械手、配备投影仪及更多传感器以帮助上下楼梯。 同时，Meta正在上海和深圳招聘工程师以推进大规模生产。 傅利叶成立于2015年，总部位于上海张江。 Meta机器人部门近期也出现管理层变动，Marc Whitten已于8月底离开，Ning Li担任临时负责人并向Andrew Bosworth汇报。
+  📰 [新浪财经](https://finance.sina.cn/2026-11-01/detail-inixfzvs7686635.d.html?vt=4)
+
+- **[2026.11.01] 中国新闻网 — 胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海**
+  中文：总结：在第140届广交会展台上，花生大小的智能胶囊胃镜及腔镜手术机器人亮相并吸引境外采购商注意。 安哥拉采购商佩德罗·皮萨拉表示此行重点考察便携式内窥镜，计划在基层医疗机构开展产品试用。 广州思德医疗科技有限公司董事长助理刘思哲介绍，该产品已在内地和香港实现商业化销售，计划延伸为综合健康管理服务。 英国采购商阿蒂夫·N·伊沙克认为技术可靠、适配长期使用且定价在大众可承受区间的产品在英国市场具备广阔空间。 哈尔滨思哲睿智能医疗设备股份有限公司企业代表李函颖介绍，该款全自研腔镜手术机器人可辅助医生开展高难度精细化外科手术，今年以来已在欧洲、非洲等多个区域拓展业务，并通过海外合作伙伴及专业培训体系提供技术支持。 李函颖还称，不同海外市场呈现出差异化需求，高端医疗装备的发展得益于较为完整的制造业产业链及企业与一线临床医生的深度合作。 广州复星禅诚医院院长谭明华表示，一批中国产医疗设备实现本土自主研发、全链路迭代升级，境外患者愿意来中国就医也为医疗器械出海创造了机会。
+  📰 [中国新闻网](https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml)
+
+- **[2026.11.01] Forbes China — 具身智能进入量产验证期：智元上半年出货9700台、宇树G1累计下线1-2万台**
+  中文：总结：10月29日，智元联合创始人、总裁兼CTO彭志辉在2026智元创新日上披露，2026年上半年出货9700台，以超过43%的份额位居全球人形机器人出货量前列，收入接近20亿元；截至9月，通用AI机器人累计下线突破2万台。 宇树科技创始人、董事长兼CEO王兴兴在10月22日称，G1自2024年5月发布以来累计生产下线约1万至2万台；10月28日宇树披露的三季报显示Q3营收6.65亿元增69.93%，归母净利润1.13亿元降17.37%，研发投入1.27亿元增249.58%，单季毛利率50.58%，前三季度累计毛利率54.02%。 IDC 9月报告显示，2026年上半年全球人形机器人出货近2.5万台，同比增长432.1%，非工业场景占比从2025年全年的83.8%降至69%。 优必选2026年半年报显示人形机器人总销量16123台，其中全尺寸921台，非全尺寸15202台，上半年营收12.7亿元、同比减亏45.9%。 银河通用商业部署规模突破千台，宁德时代单一产线部署量为近百台。 资本端方面，辉羲智能完成约17亿元两轮融资，星尘智能完成约10亿元新一轮融资且投后估值150亿元，法奥机器人C+轮及D轮合计近10亿元，智元同周完成10亿至15亿元融资、估值约500亿元。
+  📰 [Forbes China](https://www.forbeschina.com/business/72315)
+
+- **[2026.11.01] 朝鮮日報中文版 — 美国以安全为由禁止进口中国的人形机器人**
+  中文：总结：当地时间28日，美国联邦通信委员会（FCC）宣布限制外国产人形机器人和四足行走机器人的新机型在美国销售，理由是机器人收集的敏感数据可能被用于监视美国人和主要工业设施，或增强外国情报机构能力，且存在通信网络或控制系统被黑客攻击导致工厂、研究所和军事设施功能瘫痪的风险。 同时，美国政府还将连接太阳能和电池的数据中心的外国产电力逆变器纳入监管范围，以防止华为、阳光电源等中国企业通过远程控制关闭美国数据中心电力网。 市场上有观点认为这是企图以本国为中心重组未来机器人供应链的战略布局。 此前，美国已对华为和中兴的通信设备实施全面禁止发放新批准，强行推动字节跳动将TikTok在美国的运营权和数据转移，并阻止大疆等中国制造无人机的新机型批准。 英国《金融时报》分析称，美国的对华政策正从大规模加征关税转向针对与安全直接相关的特定产业实施精准打击的监管措施。
+  📰 [朝鮮日報中文版](https://cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate=M1003&nNewsNumb=20260765146&nidx=65147)
+
+- **[2026.11.01] 凤凰网科技 — 消息称Meta与中国企业傅利叶打造人形机器人原型，号称Muse模型的物理化身**
+  中文：总结：Meta近日与中国企业傅利叶合作，打造了一款名为Max的人形机器人原型。 该机器人研发用时3个月，身高接近5英尺，体重约106磅，搭载英伟达Thor芯片。 Meta首席执行官马克·扎克伯格将这款人形机器人视为Muse人工智能模型的“物理化身”，认为其能够承担日常家务。 两家公司已在今年9月启动Max 2原型产品的研发工作，新机器人预计将重新设计躯干部分并进行其他常规升级。 Meta与傅利叶暂未确定该产品推出时间，也无计划销售原型机。
+  📰 [凤凰网科技](https://tech.ifeng.com/c/8xgpk0VhYHt)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.11.01] Yahoo!ニュース — 国内外の大道芸人が一堂に AIロボットの即興ラップも 静岡（毎日新聞）**
+  日本語：「大道芸ワールドカップ（Ｗ杯）ｉｎ静岡２０２６」が１０月３１日に開幕した。 静岡市葵区の駿府城公園など市内３１カ所で国内外のアーティストが演目を披露し、実行委は期間中に１００万人の来場者を見込む。 駿府城公園ではワイングラスやＢＭＸを使ったアクロバティックな技が披露された。 青葉シンボルロードでは、アプリを使ったデジタル通貨での投げ銭体験や、ＡＩロボットによる即興ラップが行われた。 「ＭＩＲＡＩＥリアン」には初のインクルーシブシアターが設けられ、長女と訪れた井沢泉さんが屋内で安心して見られたと感想を述べた。
+  中文：总结：“静冈大道芸世界杯2026”于10月31日开幕。 国内外艺术家在静岡市葵区的骏府城公园等市内31处地点表演节目，执行委员会预计期间将迎来100万名游客。 骏府城公园会场上演了使用酒杯和BMX的杂技。 青叶象征之路会场举办了使用智能手机应用的数字货币打赏体验，以及AI机器人即兴说唱表演。 “MIRAIE Lian”首次设立包容性剧场，与长女一同造访的葵区主妇井沢泉表示在室内能安心观看。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/18fcd8a585e07227382753bb7920e3faeb66ec7c)
+
+- **[2026.10.30] PlusWeb3 — 安川電機とGRがAI溶接ロボット導入 熟練技能の自動化へ**
+  日本語：安川電機は、トヨタ自動車のGAZOO Racing（GR）と共同開発したAI活用の自律化ロボット生産技術を発表し、2026年10月28日に同年9月から「蒲郡GR KART工房」のGR KARTパイプフレーム製造工程で導入していると明らかにした。 ロボットが部材の組付け状態や隙間を認識し、溶接から品質確認、補正までを自律的に担う。 中核となるのはGPUとAIを搭載した「MOTOMAN NEXT」で、外観画像に加え音や各種データも分析する。 両社が2024年に開発したアーク溶接の「SFA工法」を土台とし、生産性向上や品質安定化、原価低減に寄与しているという。
+  中文：总结：安川电机公布了与丰田汽车旗下GAZOO Racing（GR）共同开发的AI自律化机器人生产技术，并于2026年10月28日宣布该技术已于同年9月起在“蒲郡GR KART工房”的GR KART管状车架制造工序中投入使用。 机器人可识别部材组装状态与缝隙，自律完成从焊接、质量确认到修正的全过程。 核心是搭载GPU与AI的“MOTOMAN NEXT”，除外观图像外还综合分析声音与各种数据。 该技术以双方2024年开发的气体保护电弧焊“SFA工法”为基础，有助于提高生产效率、稳定质量并降低成本。
+  📰 [PlusWeb3](https://plus-web3.com/media/latestnews_1002_11251/)
+
+- **[2026.10.30] 時事ドットコム — 「フィジカルAIの市場・産業構造と技術開発」と題して、株式会社日本政策投資銀行 鈴木 遥人氏/早稲田大学次世代ロボット研究機構 淺間 一氏によるセミナーを2026年11月30日(月)に開催!!**
+  日本語：新社会システム総合研究所は、2026年11月30日にビジネスセミナー「生成AIからフィジカルAIへ 市場・産業構造と技術開発の最前線」を開催する。 株式会社日本政策投資銀行の鈴木遥人氏と早稲田大学次世代ロボット研究機構の淺間一氏が登壇し、会場受講、ライブ配信、アーカイブ配信を実施する。 第一部では鈴木氏が生成AIからフィジカルAIへの展開やJVによる解決策などを解説し、第二部では淺間氏がフィジカルAIの意味やニーズ、2027年度概算要求で約9000億円が盛り込まれた開発基盤関連予算に触れながら開発動向や課題について議論する。
+  中文：总结：新社会系统综合研究所将于2026年11月30日举办题为“从生成式AI到物理AI：市场、产业结构与技术开发最前线”的商业研讨会。 株式会社日本政策投资银行的铃木遥人与早稻田大学次世代机器人研究所的浅间一将担任讲师，采用会场参会、直播及回放形式进行。 第一部分由铃木遥人讲解从生成式AI向物理AI的拓展及通过合资企业解决问题等内容；第二部分由浅间一探讨物理AI的意义、需求及开发动态与课题，其中提及2027年度概算申请中纳入了约9000亿日元的物理AI支援开发基础相关预算。
+  📰 [時事ドットコム](https://www.jiji.com/jc/article?k=000004746.000032407&g=prt)
+
+- **[2026.11.01] 朝日新聞 — 静岡市で大道芸ワールドカップ開幕 AIロボット芸人も登場 [静岡県] [AIの時代]**
+  日本語：静岡市で31日、秋恒例の「大道芸ワールドカップin静岡2026」が開幕した。 国内および13の国と地域から78組121人が参加し、11月3日までの4日間でマジックやアクロバットなどを披露する。 葵区の青葉シンボルロードでは、ハイランダーズとカラクリが共同開発した「AI大道芸人」が初登場した。 観客から募ったお題をAIがその場で解析してラップの歌詞を作り、音楽に合わせて踊りながら披露して観客から大きな拍手を浴びた。 初日がハロウィーンと重なり、仮装した来場者がアーティストと記念撮影する姿も見られた。
+  中文：总结：秋季例行活动“静冈街头艺人世界杯in静冈2026”于31日在静冈市开幕。 包括国内在内，来自13个国家和地区的78组121人参加，在截至11月3日的4天内展示魔术、杂技和哑剧等。 在葵区的青叶象征路，由Highlanders与Karakuri共同开发的“AI街头艺人”首次登场。 AI当场解析从观众处征集到的题目并创作押韵说唱歌词，伴随音乐边跳舞边表演，赢得了观众的热烈掌声。 由于首日恰逢万圣节，现场也有盛装打扮的游客与艺术家合影留念。
+  📰 [朝日新聞](https://www.asahi.com/articles/ASVB03RT6VB0UTPB007M.html?iref=_area_area_list_n)
+
+- **[2026.11.01] note — ヒューマノイドの"関節の熱"を小型株が解決している？ヒーハイスト（6433）の球面軸受に注目すべき理由と、知られざるロボット銘柄の正体｜日本個別株デューデリジェンスセンター**
+  日本語：人型ロボットの関節はモーターで駆動され、負荷による発熱が効率低下や寿命短縮につながるため、摩擦を減らすことが重要となる。 埼玉県川越市の部品メーカーであるヒーハイストの転がり式球面軸受は、摩擦の小ささと省スペース性から人型ロボットの関節部品として評価されている。 同社の売上の大半は工作機械向けの直線運動用軸受であり、THKへの納品やOEMが大きな割合を占める。 同社は設備投資に業績が左右される部品メーカーの顔と、人型ロボットの関節という未来市場に足場を持つ技術企業の顔の二面性を持っており、決算短信には継続企業の前提に関する重要事象等が記載されている。
+  中文：总结：人形机器人的关节由马达驱动，负荷产生的发热会导致效率下降和寿命缩短，因此减少摩擦至关重要。 埼玉县川越市的零部件制造商Hi-Interst的滚动式球面轴受因摩擦小且省空间，作为人形机器人的关节零部件受到了评价。 该公司的大部分销售额为面向机床的直线运动轴受，向THK供货及OEM占据了很大比例。 该公司具有受设备投资波及的零部件制造商面孔，以及立足于人形机器人关节这一未来市场的技术企业面孔双重身份，其财报中记载了有关持续经营前提的重要事项等。
+  📰 [note](https://note.com/tatsuya_sabato/n/n4889c22c8fd4)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.11.01] note — 2030年に2.5兆円市場へ。ヒューマノイド・フィジカルAI関連、本命から"まだ誰も知らない小型株"まで厳選20銘柄【保存版】**
+  English: In 2024, the global humanoid robot market was approximately 2,300 units worth about 6 billion yen, but Japan Research Institute estimates it will grow to around 500,000 units and a 2.5 trillion yen scale by 2030. Tesla has started producing its Optimus humanoid at its Fremont plant on a line designed for 1 million units annually, while Chinese firms like Unitree and UBTECH also advance mass production. In Japan, the government released a roadmap in March 2026 targeting over 30 percent global share in AI robots by 2040, and the Japan Robot Association reported that industrial robot orders for April to June 2026 reached 3,126 billion yen, up 40 percent year-on-year. Fanuc reported April to September 2026 sales of 4,737 billion yen and raised its full-year sales forecast to over 1 trillion yen, noting demand related to humanoid parts machining and AI collaborations with Nvidia, Google, and Hitachi. Yachiyo Electric set humanoid robotics as the core focus of its Dash 35 mid-term management plan targeting 100 billion yen in operating profit.
+  中文：总结：2024年全球人形机器人市场仅有约2,300台、价值约60亿元，日本能率協会総合研究所推测到2030年将扩大至年约50万台、2.5兆日元规模。 特斯拉在弗里蒙特工厂开始生产Optimus，中国宇树科技与优必选也在推进量产。 日本政府于2026年3月提出到2040年占领AI机器人30%以上全球份额的路线图，日本机器人工业会称2026年4至6月产业用机器人订单额达3,126亿日元，同比增加40%。 发那科公布2026年4至9月销售额为4,737亿日元，并将全年销售预期上调至突破1兆日元，其间推进了与英伟达、谷歌及日立的合作。 安川电机则在其5月公布的中期经营计划Dash 35中，将人形机器人列为基本方针首位，并设定了1,000亿日元营业利润的目标。
+  📰 [note](https://note.com/tatsuya_sabato/n/n46db70cd533f)
+
+- **[2026.11.01] Global Times — Humanoid robot traffic police on duty at 2026 Hangzhou Marathon**
+  English: Traffic and security humanoid robots developed by Hangzhou-based DEEP Robotics and local authorities went on duty at the 2026 Hangzhou Marathon on November 1, 2026. Named Hangxing No. 2 and based on the DEEP Robotics DR02 model, the robot stands 178 centimeters tall with an IP66 rating, operating in temperatures from -20 C to 55 C. Deployed around the Huanglong Sports Center for a four-point patrol team, it supports intersection monitoring, autonomous patrols, traffic violation warnings, and public inquiry services. The marathon attracted over 300,000 applicants with 36,000 runners participating, creating pressure on traditional security systems. Hangxing No. 2 features a 275 TOPS computing unit, LiDAR, a depth camera, and a wide-angle camera to detect real-time violations like pedestrians crossing and vehicles cutting in, while broadcasting traffic safety advisories. DEEP Robotics representative Meng Yuan stated that marathons offer a good scenario for robots due to dense crowds and repetitive tasks. Beijing Academy of Social Sciences research fellow Wang Peng noted that security, inspection, logistics, and household services are among the first commercially viable areas for humanoid robots.
+  中文：总结：由杭州宇树科技等机构开发的交通与安保人形机器人于2026年11月1日在2026年杭州马拉松上正式上岗。 这款名为杭行二号的机器人基于宇树DR02人形机器人研发，身高178厘米，具备IP66防护等级，可在-20 C至55 C温度下工作。 它被部署在黄龙体育中心周围的四点巡逻队中，支持路口监控、自主巡航、交通违章警告和公众问询服务。 本届杭州马拉松吸引了超过30万名申请者，36,000名跑者参赛。 杭行二号配备了275 TOPS计算单元、激光雷达、深度摄像头和广角摄像头，可实时检测行人横穿马路和车辆加塞等违章行为，并广播交通安全提示。 宇树代表孟远表示马拉松是机器人应用的良好场景，北京市社会科学院研究员王鹏指出安保、巡检、物流和家政服务是人形机器人最先实现商业化的领域之一。
+  📰 [Global Times](https://www.globaltimes.cn/page/202611/1373413.shtml)
+
+- **[2026.10.30] AI Insider — Agility Robotics Expects About $465M From SPAC Deal Ahead of Nov. 5 Nasdaq Debut**
+  English: Agility Robotics expects about $465 million in gross capital from its merger with blank-check company Churchill Capital Corp XI and related financings, with shares set to trade on Nasdaq as AGLT on November 5. The total combines roughly $164 million remaining in the SPAC's trust after redemptions, a $201 million PIPE led by Foxconn, and $100 million in equity Agility already received. Agility reported over $300 million in committed multi-year orders for its Digit 5 humanoid, though it noted this is potential value over time and not current revenue. Early-access customers are scheduled to receive Digit 5 units in the first half of 2027, with general availability by year-end. GXO plans to deploy Digit in two more facilities, and AGCO will start a manufacturing pilot in 2027. Chief Financial Officer Michael Beer stated on a podcast that Digit 5's bill of materials will cost about $150,000 per robot at a volume of 1,000 units a year, dropping to around $75,000 and then about $30,000 at 10,000 units annually.
+  中文：总结：Agility Robotics通过与空壳公司Churchill Capital Corp XI的合并及相关融资，预计将获得约4.65亿美元的总资本，其股票定于11月5日在纳斯达克以AGLT代码开始交易。 该总额结合了赎回后留在SPAC信托基金中的约1.64亿美元、由富士康领投的约2.01亿美元PIPE融资，以及Agility已经收到的1亿美元股权。 Agility报告称，其Digit 5人形机器人拥有超过3亿美元的承诺多年期订单，但该公司指出这并非当前周期的收入。 早期访问客户预计将在2027年上半年收到Digit 5单元，并计划于年底实现全面上市。 GXO计划在另外两家工厂部署Digit，AGCO将在2027年启动制造试点。 首席财务官迈克尔·比尔在播客中表示，在年产1,000台的情况下，Digit 5的物料清单成本约为每台15万美元，而在年产10,000台时将降至约7.5万美元，随后降至约3万美元。
+  📰 [AI Insider](https://theaiinsider.tech/2026/10/30/agility-robotics-expects-about-465m-from-spac-deal-ahead-of-nov-5-nasdaq-debut/)
+
+- **[2026.10.30] Interesting Engineering — Humanoid robot achieves 85% success rate in real-life trial with AGIBOT’s GO-3 model**
+  English: Chinese robotics company AGIBOT unveiled GO-3 Preview, an embodied AI model using a World Reasoning Action Model architecture to connect task reasoning, outcome prediction, and action generation. Launched on October 29, the model supports continuous learning across pre-training, post-training, and deployment stages. AGIBOT stated the model secured first place on RoboDojo, RoboTwin, and RoboColiseum benchmarks, and plans to open-source the complete model by the end of 2026. During pre-training, the model handles tasks in homes, kitchens, and multi-robot settings without fine-tuning, such as preparing jianbing or assembling Lego pieces. For post-training, AGIBOT developed Genie Evolver, a distributed training system combining data from about 100 physical robots with physics simulations. In testing, a robot using the model exceeded average human performance in tabletop curling after four hours of online practice and removed five consecutive blocks from a tower without collapse. Utilizing the Genie Master agent framework, a G2 robot deployed in a convenience store increased its success rate from 28.6 percent on the first day to a stable 85.7 percent after five days by identifying and correcting its own failures.
+  中文：总结：中国机器人公司智元机器人推出了GO-3 Preview，这是一种具身AI模型，采用世界推理动作模型架构来连接任务推理、结果预测和动作生成。 该模型于10月29日发布，支持在预训练、后训练和部署阶段进行持续学习。 智元机器人表示该模型在RoboDojo、RoboTwin和RoboColiseum三个基准测试中获得第一名，并计划在2026年底前将完整模型开源。 在预训练期间，该模型无需微调即可处理家庭、厨房和多机器人环境中的任务，例如制作煎饼或组装乐高积木。 对于后训练，智元开发了Genie Evolver，这是一个结合了约100台物理机器人数据与物理模拟的分布式训练系统。 在测试中，使用该模型的机器人在四小时的网络练习后在桌面冰壶中超过了人类的平均表现，并成功从塔上移除了五个连续的积木而未倒塌。 利用Genie Master智能体框架，部署在便利店中的G2机器人通过识别并纠正自身的失败，其成功率从第一天的28.6%提升到五天后的稳定85.7%。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robot-achieves-success-with-agibot-go3)
+
+- **[2026.10.30] Manufacturing Digital — Inside AGCO’s Humanoid Robot Pilot with Agility Robotics**
+  English: AGCO will test Agility Robotics' Digit humanoid robot at its Hesston, Kansas production facility starting in 2027, focusing on sorting and stacking parts and placing totes for storage. According to AGCO, these tasks were chosen to improve ergonomic safety by taking over repetitive and physically demanding work. Agility Chief Business Officer Daniel Diez stated the robot will be judged on safety, accuracy, uptime, throughput, and return on investment. The International Federation of Robotics World Robotics 2026 report states that nearly 7,000 full-size humanoids were sold worldwide in 2025, noting the technology is still moving from laboratories to pilots. Daniel Diez explained that conventional automation works in structured environments, whereas Digit addresses work in spaces built for people where persistent labor gaps impact productivity. The Manufacturing Institute and Deloitte estimated in 2024 that US manufacturing could need up to 3.8 million more workers between 2024 and 2033, with 1.9 million jobs potentially going unfilled. AGCO joins Toyota, GXO, and Schaeffler among companies deploying Agility's humanoids.
+  中文：总结：爱科集团将于2027年开始在其位于美国堪萨斯州黑斯顿的生产设施中测试Agility Robotics的Digit人形机器人，主要从事零件的分拣、堆叠以及放置用于存储的周转箱。 爱科表示，选择这些任务是为了通过承担重复且体力要求高的工作来改善人机工程学安全。 Agility首席商务官丹尼尔·迪兹表示，该机器人将根据安全性、准确性、正常运行时间、吞吐量和投资回报率来接受评估。 国际机器人联合会发布的2026年世界机器人报告称，2025年全球售出近7,000台全尺寸人形机器人，并指出该技术仍处于从实验室向试点过渡的阶段。 丹尼尔·迪兹解释说，传统自动化适用于结构化环境，而Digit则应对专为人类建造的空间中的工作，这些地方持续的劳动力缺口影响了生产力。 制造研究所与德勤于2024年估计，美国制造业在2024年至2033年间可能需要多达380万名工人，其中190万个工作岗位可能无法填补。 爱科加入了丰田、GXO和舍弗勒等部署Agility人形机器人的公司行列。
+  📰 [Manufacturing Digital](https://manufacturingdigital.com/news/inside-agcos-humanoid-robot-pilot-with-agility-robotics)
+
+
+---
+※AI Robot News Digest | 2026.11.02 | full-text items: 20
