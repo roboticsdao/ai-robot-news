@@ -1,0 +1,52 @@
+# 🖐 Dexterous Hand News | 2026.11.01（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.10.31] Gasgoo — SynDexy dexterous manipulation humanoid robot, completes first small-batch delivery**
+  English: SynDexy announced on October 30 that its in-house dual-arm wheeled humanoid robot, the SynDexy C1, has completed its first small-batch delivery for precision assembly lines at consumer electronics and component factories. The C1 features vision-tactile fusion with micron-level spatial resolution and runs the SynDexy M1 tri-state fusion model. It packs 22 degrees of freedom and 1-millisecond real-time motion control, achieving a success rate above 98% on critical tasks during prior testing. Development began in April 2026, with a prototype ready by July and small-batch deliveries in October. Founded in 2025 and led by Beijing University of Posts and Telecommunications Professor Fang Bin, SynDexy is a full-stack embodied AI company focused on high-precision industrial dexterity.
+  中文：总结：SynDexy于10月30日宣布，其自研双臂轮式人形机器人SynDexy C1已完成首批小批量交付，将用于消费电子和零部件工厂的精密装配线。 C1核心搭载了具备微米级空间分辨率的视触觉融合技术，运行SynDexy M1三态融合模型，拥有22个自由度与1毫秒实时运动控制，此前关键任务成功率超过98%。 该产品自2026年4月启动开发，7月完成首代原型机，10月实现小批量交付。 SynDexy成立于2025年，由北京邮电大学教授方斌带队，是一家专注于高精度工业灵巧操作的全栈具身AI公司。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/syndexy-dexterous-manipulation-humanoid-robot-completes-first-small-batch-delivery-2116424707997593601)
+
+- **[2026.10.31] 手机新浪网 — 智元系灵巧手，开始独立讲故事**
+  中文：总结：在10月29日举行的2026智元创新日上，从智元拆分独立9个月的临界点发布了数采手套OmniGlove-PRO、工业部署框架Omni-Maestro、DUET 2.0架构升级以及学者计划和Project Eureka三项产品与两项生态计划。 据CEO乔天杰介绍，现场演示了对应卧龙希尔工厂真实工序的72步拧螺丝长程作业，任务成功率达到98%，机器人最长可连续不间断作业12小时，自主完成测试耗时8.5分钟，人工约为8分钟。 乔天杰透露，故障率已降至0.5%以下，2026年截至10月灵巧手累计量产已突破15000台，智元订单占60%到70%，并已形成英伟达、Meta的初步订单。
+  📰 [手机新浪网](http://k.sina.com.cn/article_5952915720_162d249080670536xi.html)
+
+- **[2026.10.30] 证券之星 — 临界点CEO乔天杰：具身智能灵巧手价格在1—2年内有望实现数量级下降**
+  中文：总结：在真实的工厂测试工位上，一只灵巧手全自主完成了精准上料、扫码、装夹、抓取螺丝枪拧固及启动设备等共72个操作步骤，无需人工介入。 临界点CEO乔天杰在接受采访时透露，灵巧手在机器人整机中的成本占比约15%—20%。 通过真实部署线的快速迭代，灵巧手故障率已从早期接近10%降至0.5%以下。 乔天杰指出，连杆方案因可靠性最高已率先满足部署门槛，直驱和绳驱尚需1—2年技术演进。 他预测，随着量产规模跨越临界点，通过正向设计与工艺优化，灵巧手价格在1—2年内有望实现数量级下降。
+  📰 [证券之星](https://stock.stockstar.com/IG2026103000046693.shtml)
+
+- **[2026.10.30] 搜狐网 — 灵巧手进厂干活了！临界点披露量产数据：今年已突破15000台**
+  中文：总结：在2026智元创新日·灵巧操作分论坛上，具身智能企业临界点展示了OmniHand灵巧手在绍兴临界点卧龙联合生产制造基地的真实工位上全自主完成的上料、扫码、抓取螺丝枪拧固等72道工序性能测试。 POC验证数据显示任务成功率达98%，单轮作业耗时8.5分钟，可连续不间断作业8小时。 为化解数据难题，临界点自研并量产了首款数采手套OmniGlovePro，配置了746个触觉感知点位。 临界点CEO乔天杰表示，截至2026年10月，全年灵巧手累计量产已突破15000台，整机故障率已降至0.5%以下。
+  📰 [搜狐网](https://www.sohu.com/a/1094974718_120988576?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.10.30] 雷峰网 — IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？**
+  中文：总结：在今年的IROS展会上，源升智能展示了高自由度五指灵巧手Apex Hand的手内转球、灵巧手把脉、全掌触觉实时感知、劈裂木板和钉钉子等操作。 创始人杨思成表示，产品从落地角度出发，追求可靠性、灵巧性、负载能力、动态响应、触觉感知和精度六个维度的均衡。 Apex Hand拥有对应人手解剖学结构的21个自由度、约5毫米的最小抓握直径、全掌覆盖触觉以及全关节反驱能力。 在可靠性方面，源升展示了Apex Hand全天主动抓握超过10 kg的两大桶矿泉水持续8小时不间断。 其最大单手主动负载为30公斤，驱动方案采用以绳驱为主、电机集中在手掌内部的混合驱动方案。
+  📰 [雷峰网](https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html)
+
+- **[2026.10.30] 至顶网 — 灵巧手决战“部署态”，临界点走到了哪一步？**
+  中文：总结：智元机器人于2026年年初将灵巧手业务拆分成立独立子公司临界点，并由CEO乔天杰与团队推进灵巧手从“开发态”向“部署态”的跨越。 当前人形机器人产业整机及产量快速增长，但实际干活时仍多使用夹爪，灵巧手面临自由度、触觉、成本与可靠性无法兼顾的难题。 临界点推出了OmniGlove遥操数采一体手套，单手触点位达746个，位姿与触觉输出率为125Hz，平均定位误差为0.66mm。 在架构方面，打造了DUET双层具身接触智能架构与OMNI-SYMPHONY全域部署态灵巧操作架构，并配合Omni-Maestro工业部署态智能体框架来提高模型鲁棒性。 截至2026年10月，临界点灵巧手累计出货量超过1.5万台，并已在珠海长隆度假区和卧龙希尔工厂实现了常态化部署，在工厂打螺丝等场景下的成功率高达98%。
+  📰 [至顶网](https://www.zhiding.cn/physical-ai/2026/1030/3204125.shtml)
+
+- **[2026.10.29] ロボスタ — Thinker、フィジカルAIの現在地を読み解く無料ウェビナーを11/12に開催 ロボットハンド技術などを解説**
+  日本語：ロボットハンドの開発を手掛ける株式会社Thinkerは、2026年11月12日に無料オンラインセミナー「フィジカルAIの現在地と社会実装への課題」を開催する。 登壇するのは同社Co-Founderで大阪大学大学院基礎工学研究科 招聘准教授の小山佳祐氏である。 セミナーでは、最先端ロボットデモを技術的視点から読み解きながら、自律性・シミュレーション・ハードウェアの3つの観点から社会実装に向けた課題を分析し、ロボットハンドが果たす役割やAIと手先ハードウェアの融合による自動化の可能性について考察が行われる。 また、ロボスタでは、自民党ロボット議連事務局長の山田太郎氏による日本フィジカルAI開発戦略に関するセミナーを11月13日に、Hondaの「P2」や「ASIMO」の開発を担った竹中透氏によるヒューマノイドの原点と未来に関するセミナーを2026年11月25日に、さらにugo株式会社の松井健CEOによる国産セミヒューマノイド「ugo Nova」の開発戦略に関するセミナーを2026年12月15日にそれぞれ開催予定である。
+  中文：总结：机器人手部研发企业Thinker株式会社将于2026年11月12日举办题为“物理AI的当前阵地与社会实现课题”的免费在线研讨会，由该公司联合创始人、大阪大学大学院基础工学研究科特聘副教授小山佳祐担任主讲人。 研讨会将从技术视角解读最先端机器人演示，并从自主性、仿真、硬件三个视角多角度分析面向社会实现的课题，同时探讨机器人手部发挥的作用以及AI与手部硬件融合带来的自动化可能性。 此外，Robosta还将举办多场在线研讨会：11月13日由自民党机器人议连事务局长山田太郎主讲日本物理AI开发战略；2026年11月25日由曾负责Honda“P2”与“ASIMO”开发的竹中透主讲人形机器人的原点与未来；2026年12月15日由ugo株式会社CEO松井健主讲国产半人形机器人“ugo Nova”的开发战略。
+  📰 [ロボスタ](https://robotstart.info/article/2026/10/29/382581.html)
+
+- **[2026.10.28] Electronic Products & Technology — Tactile sensors give humanoid robots a ‘sense of touch’**
+  English: IDTechEx report reveals that a third of all currently active humanoid robot developers are integrating or developing tactile sensors into their designs. Humanoid robots are transitioning from design to commercial use, driven by advancements in sensor technology. IDTechEx projects the sensor market for humanoid robots will exceed US$6.59 billion by 2037, with a compound annual growth rate of 21.4%. Key sensors include perception, force/torque, encoders, inertial measurement units (IMUs), and tactile sensors, which enhance safety and task performance. About one-third of humanoid robot developers, including Tesla and Unitree, are integrating tactile sensors into hands or grippers to precisely manipulate objects and discern material types. Emerging technologies such as optical or magnetic sensing and e-skins may expand tactile sensor applications beyond hands to other parts of the robot body, enhancing safety in shared environments.
+  中文：总结：IDTechEx的报告显示，目前活跃的人形机器人开发者中有三分之一正在将触觉传感器整合到设计中或进行相关开发。 在传感器技术进步的推动下，人形机器人正从概念设计向早期商业化过渡。 IDTechEx预测，到2037年，人形机器人传感器市场将超过US$6.59 billion，复合年增长率为21.4%。 关键传感器包括感知传感器、力/扭矩传感器、编码器、惯性测量单元以及触觉传感器，这些传感器能够提升安全性和任务执行性能。 包括Tesla和Unitree在内的约三分之一人形机器人开发者正将触觉传感器部署在手部或夹爪上，使机器人能够精准操纵物体并通过表面纹理辨别材质类型。 光学或磁性传感以及电子皮肤等新兴技术有望将触觉传感器的应用从手部扩展至机器人身体的其他部位，从而增强人机共享环境中的安全性。
+  📰 [Electronic Products & Technology](https://www.ept.ca/tactile-sensors-give-humanoid-robots-a-sense-of-touch/)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.01 | full-text items: 8
