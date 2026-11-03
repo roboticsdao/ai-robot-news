@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-03T12:55:02.842457+09:00",
+  "updated_at": "2026-11-04T03:24:55.147376+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-03T12:55:02.842457+09:00",
-    "latest_article_at": "2026-11-03T12:41:00+09:00",
+    "checked_at": "2026-11-04T03:24:55.147376+09:00",
+    "latest_article_at": "2026-11-04T00:14:00+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -17,6 +17,50 @@
   },
   "articles": [
     {
+      "date": "2026.11.04",
+      "published_at": "2026-11-04T00:14:00+09:00",
+      "headline": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/livex-unveils-ai-city-bringing-151400242.html",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "LiveX announced AI City at the Smart City Expo World Congress in Barcelona on November 3, 2026. Powered by NVIDIA technologies, LiveX AI City introduces life-size, human-like AI Hosts to provide interactive navigation, personalized recommendations, and conversational assistance in everyday physical spaces. Deployed in over 100 customer sites, these AI Hosts operate at PUMA stores, San José Mineta International Airport, SAP Center, the San Jose Sharks stadium, El Camino Hospital, and Marriott and Hilton hotels across retail, technology, hospitality, and entertainment. The expanded product capabilities include interactive 3D maps for location-aware navigation and discovery, 3D product recommendation, multilingual translation, and a Physical AI Host experience powered by Lyra.",
+      "summary_zh": "LiveX于2026年11月3日在巴塞罗那举行的全球智慧城市博览会上宣布推出AI City。 在NVIDIA技术的支持下，LiveX AI City引入了真人大小、形似人类的AI主播，在日常实体空间中提供交互式导航、个性化推荐和对话辅助。 这些AI主播已部署在100多个客户现场，运行于PUMA商店、圣何塞米内塔国际机场、SAP中心、圣何塞鲨鱼队体育场、埃尔卡米诺医院以及万豪和希尔顿酒店，涉及零售、科技、酒店和娱乐等行业。 扩展的产品功能包括用于位置感知导航和发现的交互式3D地图、3D产品推荐、多语言翻译以及由Lyra驱动的物理AI主播体验。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T22:28:00+09:00",
+      "headline": "Video: Figure’s new humanoid robot workforce takes first steps outside US factory",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "U. S. robotics firm Figure shared a video showing newly manufactured Figure 03 humanoid robots walking out of its BotQ manufacturing facility in California. The roughly 19-second clip posted by founder Brett Adcock on X shows several white-and-black robots moving across the company's campus, crossing a marked pedestrian walkway, though Adcock did not specify the number of units shown or their exact destination and supervision status. Previously, Figure disclosed that BotQ had produced more than 350 Figure 03 humanoids, achieving a production cycle of one robot per hour, and later announced in July that it manufactured its 1,000th humanoid robot. Introduced in October 2025, Figure 03 features redesigned hardware and sensing architecture around the Helix vision-language-action AI system, including upgraded cameras with twice the frame rate and a 60 percent wider field of view, embedded palm cameras, custom tactile fingertips detecting forces as small as three grams, washable exterior coverings, and inductive charging coils on its feet allowing wireless recharging at up to 2 kilowatts.",
+      "summary_zh": "美国机器人公司Figure分享了一段视频，展示了新制造的Figure 03人形机器人走其位于加利福尼亚州的BotQ制造厂。 这段由创始人布雷特·阿德考克在X上发布的约19秒剪辑显示，几台黑白相间的机器人在公司园区内移动，穿过有标记的人行横道，但阿德考克没有具体说明展示的机器人数量及其确切目的地和监督状态。 此前，Figure曾透露BotQ已生产了350多台Figure 03人形机器人，实现了每小时生产一台机器人的生产周期，随后在7月宣布制造了其第1,000台人形机器人。 Figure 03于2025年10月推出，围绕Helix视觉-语言-动作AI系统采用了重新设计的硬件和传感架构，包括帧率翻倍且视野宽60%的升级摄像头、嵌入式手掌摄像头、能够检测小至三克力的定制触觉指尖、可清洗的外罩，以及脚上的感应充电线圈，允许以高达2千瓦的功率进行无线充电。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T20:41:49+09:00",
+      "headline": "The only U.S. pure-play humanoid robotics stock begins trading this week",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Shareholders of Churchill Capital Corp XI approved the business combination with Agility Robotics, which is expected to begin trading as a pure-play humanoid robotics company on November 5. Agility's gross capital raise is expected to be approximately $465M before transaction expenses, including approximately $164M from Churchill XI’s trust account, approximately $201M from a common stock PIPE committed at $10 per share led by Foxconn, and $100M of equity funding already received. Founded in 2015 out of Oregon State University by Jonathan Hurst, Damion Shelton, and Mikhail Jones, Agility launched the Cassie robot in 2017 and Digit in 2019, later shifting toward warehouse and factory material handling. Peggy Johnson became CEO in 2024 to lead commercialization, reporting commercial deployments and agreements with GXO Logistics, Schaeffler, Toyota Motor Manufacturing Canada, and MercadoLibre, and launching Digit 5 in September after over 65,000 hours of real-world operation. Backers include Amazon, NVIDIA, SoftBank Vision Fund 2, DCVC, Playground Global, and Schaeffler.",
+      "summary_zh": "Churchill Capital Corp XI的股东批准了与Agility Robotics的业务合并，该公司预计将于11月5日作为纯人形机器人公司开始交易。 Agility在交易前的总筹资额预计约为$465M，其中包括来自Churchill XI信托账户的约$164M、由富士康领投的以每股$10认购的普通股PIPE约$201M以及已收到的$100M股权资金。 Agility于2015年由乔纳森·赫斯特、达米安·谢尔顿和米哈伊尔·琼斯从俄勒冈州立大学创立，于2017年推出Cassie机器人，2019年推出Digit，随后转向仓库和工厂物料搬运。 佩吉·约翰逊于2024年担任首席执行官以领导商业化进程，并报告了与GXO Logistics、舍弗勒、加拿大丰田汽车制造公司和MercadoLibre的商业部署和协议，并在经过65,000多小时的实际运行后于9月推出了Digit 5。 其支持者包括亚马逊、NVIDIA、软银愿景基金二期、DCVC、Playground Global和舍弗勒。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T15:48:37+09:00",
+      "headline": "Adaptive Robotics Market Is Going to Boom |• Boston Dynamics • Agility Robotics • SoftBank Robotics",
+      "source": "openPR.com",
+      "url": "https://www.openpr.com/news/4680060/adaptive-robotics-market-is-going-to-boom-boston-dynamics",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "The research study examines the adaptive robotics market, covering growth factors, industry regulations, supply chain transformation, and purchasing patterns. It profiles leading companies such as Boston Dynamics, Agility Robotics, SoftBank Robotics, Fetch Robotics, Rethink Robotics, Universal Robots, KUKA, ABB, Yaskawa Electric, PAL Robotics, Robotis, and Diligent Robotics. The market segmentation spans industrial robotics, healthcare, agriculture, logistics and warehousing, retail, defense and security, education, and personal assistance across North America, Europe, Asia Pacific, South America, and the Middle East and Africa. Research methodology combines primary interviews with secondary sources including government publications, company reports, and trade associations.",
+      "summary_zh": "研究报告探讨了自适应机器人市场，涵盖增长因素、行业法规、供应链转型及采购模式。 报告剖析了波士顿动力、敏捷机器人、软银机器人、Fetch Robotics、Rethink Robotics、优必选机器人、库卡、ABB、安川电机、PAL Robotics、Robotis和Diligent Robotics等领先企业。 市场细分为工业机器人、医疗保健、农业、物流仓储、零售、国防安全、教育和个人协助，涉及北美、欧洲、亚太、南美以及中东和非洲。 研究方法结合了一手行业访谈与政府出版物、公司报告及行业协会等二手资料。"
+    },
+    {
       "date": "2026.11.03",
       "published_at": "2026-11-03T02:39:48+09:00",
       "headline": "Blackline Safety integrates gas detection technology with Boston Dynamics Spot robot",
@@ -24,118 +68,74 @@
       "url": "https://www.bicmagazine.com/resources/products-services/blackline-safety-integrates-gas-detection-technology-with-bo/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Blackline Safety announced an integration with Boston Dynamics that equips the Spot quadruped robot with Blackline's connected gas detection technology. The system enables Spot to conduct autonomous inspections in hazardous industrial environments such as oil and gas facilities, chemical plants, and utilities. It transmits live gas readings and worker safety data to Blackline's cloud-based safety platform, allowing remote monitoring and alerting when hazardous gas levels are detected.",
-      "summary_zh": "Blackline Safety宣布与波士顿动力公司进行集成，为Spot四足机器人配备Blackline的连网气体检测技术。 该系统使Spot能够在石油和天然气设施、化工厂以及公用事业等危险工业环境中进行自主巡检。 它能够将实时气体读数和工人安全数据传输到Blackline基于云的安全平台，以便进行远程监控并在检测到危险气体水平时触发警报。"
+      "summary": "Blackline Safety has announced an integration with Boston Dynamics that equips the Spot quadruped robot with Blackline’s connected gas detection technology. The collaboration brings real-time gas monitoring and worker safety data to autonomous robotic inspections in hazardous industrial environments. The integrated system allows Spot to carry sensors into areas with elevated risks to human workers, transmitting live readings to safety teams and triggering alerts when hazardous gas levels are detected. The data connects to a cloud-based safety platform for remote condition monitoring and document inspection results, extending the reach of Blackline's connected safety ecosystem into autonomous operations for oil and gas facilities, chemical plants, and utilities.",
+      "summary_zh": "Blackline Safety宣布与波士顿动力进行集成，为Spot四足机器人配备Blackline的联网气体检测技术。 此次合作将实时气体监测和工人安全数据引入危险工业环境中的自主机器人巡检。 该集成系统允许Spot将传感器带入对人类工人存在较高风险的区域，将实时读数传输给安全团队并在检测到危险气体水平时触发警报。 数据连接至基于云的安全平台以进行远程状态监测和记录检查结果，将Blackline的联网安全生态系统扩展至石油和天然气设施、化工厂和公用事业的自主运营中。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T01:08:35+09:00",
-      "headline": "China Pours $13 Billion Into AI Robotics as Competition With US Enters New Phase",
-      "source": "Vision Times",
-      "url": "https://www.visiontimes.com/2026/11/02/china-pours-13-billion-into-ai-robotics-as-competition-with-us-enters-new-phase.html",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Chinese companies developing embodied artificial intelligence raised approximately 93.5 billion yuan ($13 billion) across 322 financing deals during the first half of 2026, representing five times the amount from a year earlier, according to ITJuzi. Investment has concentrated on AI models, robot-training data, and commercially viable applications, with backing from Alibaba, Tencent, Meituan, and state-supported funds. In August, XPeng's robotics business raised over $900 million at a valuation exceeding $6.3 billion. Meanwhile, the International Federation of Robotics reported that Chinese factories installed approximately 354,000 industrial robots in 2025, accounting for 59 percent of global installations, while Chinese manufacturers supplied 55 percent of their domestic industrial robotics market.",
-      "summary_zh": "根据投资研究公司IT桔子的数据，中国开发具身人工智能的企业在2026年上半年通过322笔融资交易筹集了约935亿元人民币（折合$13 billion），为去年同期的五倍。 投资主要集中在AI模型、机器人训练数据和具身商业化应用上，获得了阿里巴巴、腾讯、美团及国家支持基金的资金支持。 8月份，小鹏汽车的机器人业务融资超过9亿美元，估值超过63亿美元。 同时，国际机器人联合会报告称，中国工厂在2025年安装了约354,000台工业机器人，占全球安装量的59%，中国制造商供应了国内55%的工业机器人市场。"
+      "published_at": "2026-11-03T22:20:49+09:00",
+      "headline": "世界级开源具身基模亮相乌镇，中国机器人大脑走向全球",
+      "source": "凤凰网",
+      "url": "https://finance.ifeng.com/c/8xl7kYngj5t",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "At the 2026 World Internet Conference Wuzhen Summit held from November 2 to 5, Ant Group's embodied AI subsidiary Ant Lingbo showcased its full-stack open-source robot general brain models. LingBot series models have surpassed 2.2 million downloads and 33,000 GitHub stars over 9 months, with applications adopted globally by institutions such as Stanford University, FastOPD, and EPFL, alongside ecosystem integrations with LeRobot, timm, vLLM, SGLang, and NVIDIA FlashDreams. During the summit, Ant Lingbo partnered with Sinopharm Good Faith Pharmacy at the Wuzhen World Internet Science and Technology Museum to present a smart pharmacy featuring autonomous sorting robots operating in 80 cm wide aisles, which is already running normally across multiple Shanghai stores. Lingbo is also expanding industrial and logistics applications with partners like Lunsong Weiru, Dema Technology, and Derxiang Network, validating multi-machine reuse with Leju and Titan, and signing a memorandum of understanding with the Arab Digital Economy Federation. Additionally, Ant Lingbo won two 'New Light' awards at the 'Light of Internet' Expo for its general brain full-stack models and smart pharmacy scenario.",
+      "summary_zh": "在11月2日至5日举行的2026年世界互联网大会乌镇峰会上，蚂蚁集团旗下具身智能公司蚂蚁灵波展示了全栈开源的机器人通用大脑。 LingBot系列模型开源9个月来，下载量已突破220万，GitHub Star数超过3.3万，被斯坦福大学、韩国FastOPD、瑞士洛桑联邦理工学院等机构复用，并完成了对LeRobot、timm、vLLM、SGLang及英伟达FlashDreams等全球开发者工具链的生态适配。 峰会期间，蚂蚁灵波与国大药房在乌镇世界互联网科技馆联合呈现机器人智慧药房，相关方案已在上海国大药房多家门店常态化运营。 灵波还与隆盛唯睿、德马科技、德迩象网、乐聚、钛虎等伙伴拓展工业物流与多机复用合作，并与阿拉伯数字经济联盟签署合作备忘录。 凭借技术创新，蚂蚁灵波的机器人通用大脑全栈模型和机器人智慧药房分别荣获2026年世界互联网大会“互联网之光”博览会“新光”产品奖与“新耀”场景奖。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T21:46:08+09:00",
+      "headline": "优必选、锋龙股份合资公司发布机器人关节产品矩阵",
+      "source": "www.gasgoo.com",
+      "url": "https://www.gasgoo.com/apps/e060bad9eca91db7f01403fc7120041f/robot/news/70476785-%E4%BC%98%E5%BF%85%E9%80%89-%E9%94%8B%E9%BE%99%E8%82%A1%E4%BB%BD%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%B3%E8%8A%82%E4%BA%A7%E5%93%81%E7%9F%A9%E9%98%B5/",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "On November 3, Gaogong Embodied AI learned that New Fenglong, backed by Unitree's embodied AI technology accumulation and Fenglong Shares' precision manufacturing capabilities, released a robot joint product matrix covering planetary joint modules, harmonic joint modules, linear joint modules, and bionic facial micro servos, targeting humanoid robots, mobile robots, and industrial applications. The planetary joint modules target high-dynamic motion scenarios with peak torque up to 300Nm and torque density up to 200Nm/kg, supporting hollow wiring. The harmonic joint modules focus on precision motion control with absolute position accuracy reaching ±0.2°, relative position accuracy reaching ±0.05°, and a maximum reduction ratio of 161. The linear joint modules integrate lead screws, drives, and encoders with peak push-pull force up to 100N and absolute position accuracy of ±0.05mm. The bionic facial micro servos have already achieved mass production, weighing under 40g with a maximum torque of 6kgf·cm, supporting 360° rotation and CAN communication to resolve the contradiction between limited facial space and driving performance in bionic robots.",
+      "summary_zh": "11月3日，盖世具身智能获悉，依托优必选具身智能技术积累及锋龙股份精密制造能力，新锋龙推出机器人关节产品矩阵，涵盖行星关节模组、谐波关节模组、直线关节模组及仿生人面部微型舵机，面向人形机器人、移动机器人及工业应用等场景。 行星关节模组主要面向高动态运动场景，峰值扭矩最高达300Nm，扭矩密度最高200Nm/kg，支持中空走线。 谐波关节模组侧重精密运动控制，绝对位置精度达±0.2°，相对位置精度达±0.05°，最高减速比161。 直线关节模组集成丝杠、驱动及编码器，峰值推拉力最高100N，绝对位置精度±0.05mm。 新锋龙同步推出的仿生人面部微型舵机已实现量产，重量不足40g，最大力矩6kgf·cm，支持360°旋转及CAN通信，主要解决仿生机器人面部空间有限与驱动性能之间的矛盾。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T14:02:29+09:00",
+      "headline": "广交会观察：机器人、AI算法层见叠出 中国智能化适老产品“出海”走俏",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725258.shtml",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "At the 3rd phase of the 140th China Import and Export Fair (Canton Fair) in Guangzhou, numerous Chinese enterprises showcased innovative and reliable silver-economy products, driving overseas popularity. Shandong Zepu Medical Technology Co. , Ltd. presented a rehabilitation robot combining AI algorithms and bionic motion control for lower limb dysfunction recovery. Business manager Wang Junke stated that the product sells well in Russia, Brazil, and Singapore, with 2025 overseas revenue reaching about 3000万元人民币, up 210% year-on-year, and new intentional orders achieved at this fair. First-time Pakistani buyer Syed Ahmed Ali Bokhari expressed admiration for Chinese smart elderly-care products. According to the China Chamber of Commerce for Import and Export of Medicines and Health Products, China's medical device exports in the first three quarters of 2026 reached $423.18 billion, up 14.38% year-on-year. Sichuan Qianli Beiyikang Medical Technology Co. , Ltd. introduced a small oxygen concentrator allowing direct inhalation from cup rims without nasal oxygen tubes, with about 60% of orders coming from overseas markets across more than 70 countries and regions. Beijing Aeonmed Co. , Ltd. showcased a sleep ventilator equipped with AI smart breathing algorithms; International Market Director Li Jinliang noted that the company's 2026 first-three-quarters overseas sales grew by about 42% year-on-year, with products sold in over 160 countries and regions. German buyer Janusz Groth praised Chinese elderly-care products as advanced, comprehensive, and high-quality.",
+      "summary_zh": "正在广州举办的第140届中国进出口商品交易会（广交会）第三期展会上，众多中国企业集中亮相智能适老产品并走俏海外市场。 山东泽普医疗科技有限公司业务经理王珺可表示，其结合人工智能算法与仿生运动控制的康复机器人畅销俄罗斯、巴西、新加坡等国家，2025年公司海外营收约3000万元人民币，同比增长210%，本届展会上已达成意向订单。 首次参会的巴基斯坦采购商赛义德·艾哈迈德·阿里·博卡里对中国智能化适老产品表示赞赏。 中国医药保健品进出口商会统计数据显示，2026年前三季度中国医疗器械出口423.18亿美元，同比增长14.38%。 四川千里倍益康医疗科技股份有限公司营销中心副总经理王雪梅介绍了一款小型制氧机，公司约60%订单来自海外，产品远销70多个国家和地区。 北京谊安医疗系统股份有限公司国际市场部总监李金良介绍，公司带来搭载AI智能呼吸算法的睡眠呼吸机，2026年前三季度海外销售额同比增长约42%，产品畅销160多个国家和地区。 德国采购商雅努什·格罗特称中国适老产品技术先进、种类齐全、质量过硬。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T10:31:50+09:00",
+      "headline": "王兴兴：宇树未来将重点攻克机器人大脑技术，拟面向全球寻求合作",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8xkJAhcutWb",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "On the morning of November 3, Unitree Robotics founder Wang Xingxing attended the World Internet Conference Wuzhen Summit and revealed in an interview before the opening ceremony that Unitree's future focus will be on conquering robot brain technology, while seeking global cooperation alongside its own technological breakthroughs, showing optimism and dedication toward physical AI technology. In October, at the 2026 World Physical AI Conference and Unitree Partner Ecosystem Association Conference, Wang Xingxing outlined three future directions for Unitree: enhancing large-scale robot mass production capabilities to fit future markets of tens of millions or hundreds of millions; advancing self-developed and cooperative physical AI small models matching its hardware; and deploying ultra-large-scale computing power clusters to secure the foundation for technological iteration. Unitree also released its first financial report after going public, showing that in the first three quarters of this year, Unitree achieved operating revenue of 18.17亿元, a year-on-year increase of 55.71%, and a net profit attributable to shareholders of 3.87亿元, up 270.54% year-on-year.",
+      "summary_zh": "11月3日上午，宇树科技创始人王兴兴出席世界互联网大会乌镇峰会，在开幕会前受访时透露，宇树科技未来重点在攻克机器人大脑技术，除了自身技术突破外还将在全球范围寻求合作，看好并致力于突破物理 AI 技术。 就在今年10月，王兴兴在2026世界物理 AI 大会暨宇树合作伙伴生态大会上明确了宇树科技三大未来布局方向：一是提升机器人大规模量产能力，适配千万级乃至亿级市场需求；二是自研与合作并行，推进适配自身硬件的物理 AI 小模型落地；三是布局超大规模算力集群，筑牢技术迭代底座。 此外，宇树科技上市后的首份财报显示，今年前三季度实现营业收入18.17亿元，同比增长55.71%，归母净利润3.87亿元，同比大增270.54%。"
     },
     {
       "date": "2026.11.02",
-      "published_at": "2026-11-02T11:05:00+09:00",
-      "headline": "NVIDIA to Hold ‘AI Day’ in Seoul, Share Agentic and Physical AI Use Cases",
-      "source": "파이낸셜뉴스",
-      "url": "https://en.fnnews.com/news/202611021006534020",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "NVIDIA announced it will hold NVIDIA AI Day Seoul 2026 at COEX in Seoul from March 9 to 10. The event will showcase applications in agentic AI, physical AI, and AI infrastructure by Korean companies and researchers, drawing about 2,000 attendees. The first day features a plenary session and topic presentations, while the second day offers hands-on developer workshops. Participating firms including NAVER Cloud, SK hynix, Samsung Electronics, LG Electronics, Doosan Robotics, Superb AI, SKT, and Coupang Intelligent Cloud will demonstrate real-world uses in robotics, semiconductor simulation, and AI factories.",
-      "summary_zh": "英伟达于2日宣布，将于3月9日至10日在首尔COEX举办“2026英伟达首尔AI日”。 活动将聚焦智能体人工智能、具身智能及人工智能基础设施，展示韩国企业和研究人员的技术应用案例，预计吸引约2,000名开发者、企业及研究人员参加。 9日将举行全体会议和主题演讲，10日则为开发者举办付费实操工作坊。 NAVER云、SK海力士、三星电子、LG电子、斗山机器人、Superb AI、SK电讯和Coupang智能云等企业将在会上展示机器人和半导体仿真等领域的实际应用。"
-    },
-    {
-      "date": "2026.11.01",
-      "published_at": "2026-11-01T20:28:00+09:00",
-      "headline": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-u-humanoid-robot-stock-112800291.html",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Agility Robotics is set to debut its stock in November through a special purpose acquisition company called Churchill Capital XI, rather than a traditional IPO. The $620 million SPAC offering values Agility Robotics at $2.5 billion, after which its name and ticker will change to Agility Robotics and AGLT. The company's market entry follows high-profile SPAC debuts like Space Exploration Technologies and Lycia Therapeutics, where initial newness bullishness quickly faded and young stocks lost ground early on. Analysts suggest waiting for the post-listing volatility and de-SPAC dip to avoid predictable profit-taking.",
-      "summary_zh": "Agility Robotics计划于11月通过名为Churchill Capital XI的特殊目的收购公司上市，而非通过传统的首次公开募股。 这项价值$620 million的SPAC交易对Agility Robotics的估值为$2.5 billion，完成后其名称和代码将分别变更为Agility Robotics和AGLT。 此次上市类似于Space Exploration Technologies和Lycia Therapeutics等近期的高调SPAC案例，新股上市初期的牛市情绪往往会迅速消退并回落。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T20:52:59+09:00",
-      "headline": "North American robot orders increase 25 percent in third quarter of 2026",
-      "source": "Robotics & Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/11/02/north-american-robot-orders-increase-25-percent-in-third-quarter-of-2026/106606/",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "According to data from the Association for Advancing Automation, North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, marking a 24.8 percent increase in units and a 26.1 percent increase in value compared to the third quarter of 2025. Total orders for the first nine months of 2026 reached 28,984 robots valued at approximately $1.89 billion. Automotive OEM orders grew 7.5 percent, and Automotive Component orders climbed 90.4 percent. Substantial increases were also recorded in Semi & Electronics/Photonics, Plastics & Rubber, Life Sciences/Pharma/Biomed, and Metals. Collaborative robots saw 1,831 units ordered, up 56 percent from Q3 2025.",
-      "summary_zh": "根据自动化推进协会发布的数据，2026年第三季度北美企业订购了10989台机器人，价值$723.5 million，较2025年第三季度在数量上增长24.8%，价值上增长26.1%。 2026年前九个月的总订单达到28984台机器人，价值约$1.89 billion。 汽车整车厂订单同比增长7.5%，汽车零部件订单攀升90.4%。 半导体与电子/光子学、塑料与橡胶、生命科学/制药/生物医学以及金属等行业也录得大幅增长。 协作机器人订单量为1831台，比2025年第三季度增长约56%。"
+      "published_at": "2026-11-02T17:00:00+09:00",
+      "headline": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2450388",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "Unitree Robotics officially opened for subscription on August 10, with an issue price set at 150.80元/股, issuing 40,446,434 shares and corresponding to an initial market value of about 609.93亿元. After the clawback mechanism, the final online issuance quantity was 9,707,000 shares, accounting for about 30.00% of the final strategic placement deduction, with a final online issuance winning rate of 0.01809759%, and results announced on August 12. Unitree expects to raise about 60.99亿元 in total funds, mainly for smart robot model research and development, robot body research and development, new smart robot product development, and smart robot manufacturing base construction. In online roadshows, Chairman, General Manager, and CTO Wang Xingxing stated that Unitree achieved global leadership in humanoid robot shipments in 2025, but noted the industry is still in its early stages. Founder Wang Xingxing holds a total share ratio exceeding 33. %, translating to a personal net worth exceeding 203亿元. Investment listings include Meituan, Alibaba, Tencent, ByteDance, Shenzhen Capital Group, Beijing state-owned assets, and Shanghai state-owned assets. Among strategic placement participants are DeepSeek, Tencent, China National Petroleum Corporation, and China Southern Power Grid. Since the beginning of 2026, 13 enterprises have landed on the STAR Market with zero initial breaking of issue prices, recording an average first-day increase of 466.61%. Unitree is expected to officially list in late August.",
+      "summary_zh": "8月10日，宇树科技正式开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，约占扣除最终战略配售数量后发行数量的30.00%，网上发行最终中签率为0.01809759%，中签结果于8月12日揭晓。 宇树科技预计募集资金总额约60.99亿元，主要用于智能机器人模型研发、机器人本体研发、新型智能机器人产品开发以及智能机器人制造基地建设等项目。 在网上路演中，董事长、总经理兼首席技术官王兴兴表示公司2025年已实现人形机器人出货量全球第一，当下行业仍处发展早期。 发行前，王兴兴合计持股比例超33. %，个人身家超过203亿元。 投资名单聚集了美团、阿里、腾讯、字节跳动、深创投、北京国资及上海国资等，DeepSeek、腾讯、中石油、南方电网等则在战略配售行列。 2026年以来已有13家企业登陆科创板且首日全部收涨，年内科创板新股首日平均涨幅达466.61%。 宇树科技预计将于8月下旬正式挂牌上市。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T12:41:00+09:00",
-      "headline": "春晚同款宇树机器人翻车，“中暑”被担架抬下山",
-      "source": "热点科技",
-      "url": "https://www.itheat.com/view/64383.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "Unitree's G1 humanoid robot suffered a setback during the CMG World Robot Mount Tai Climbing Competition when it overheated and had to be carried down the mountain by staff on a stretcher. The competition required robots to race from Guomen to Doumugong, covering about 1.6 kilometers with over 600 steps while maintaining balance. Due to continuous high-torque output on uneven stairs and limited cooling space, the robot accumulated excessive heat. To prevent hardware damage, staff withdrew the G1 from the race, while Zhishen Lingyue Team won the humanoid robot racing championship, and Unitree won the quadruped robot racing competition.",
-      "summary_zh": "宇树的G1人形机器人在CMG世界机器人登泰山大赛中出现故障，因过热“中暑”而被工作人员用担架抬下山。 该比赛要求机器人从红门爬到斗母宫，全程约1.6千米，包含600多个台阶，需在攀爬时保持平衡。 由于在不平整的台阶上长时间进行大扭矩输出，且自身散热空间有限，机器人积聚了大量热量。 为防止硬件受损，工作人员不得不让G1退出比赛。 最终，智身凌岳队夺得人形机器人竞速赛冠军，而宇树机器人在足式机器人竞速比赛中夺得冠军。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T11:04:03+09:00",
-      "headline": "Meta回应与中国企业傅利叶合作开发人形机器人：美国供应链不给力，原型机暂无出售计划",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1096440868_114760?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "Meta recently collaborated with Chinese company Fourier to develop a humanoid robot prototype named Max, which stands nearly 5 feet tall, weighs about 106 pounds, and is powered by an NVIDIA Thor chip. CEO Mark Zuckerberg views it as a physical embodiment of the Muse AI model for household chores. The two companies started developing the Max 2 prototype in September, aiming to redesign the torso and make upgrades, but have no plans to sell the prototypes. A Meta spokesperson stated they face challenges sourcing domestic components that are hard to obtain in the U. S. , emphasizing that the partnership focuses on internal research and experiments. Fourier founder and CEO Gu Jie stated it was inconvenient to reply.",
-      "summary_zh": "Meta近期与中国企业傅利叶合作打造了一款名为Max的人形机器人原型，身高接近5英尺，体重约106磅，搭载英伟达Thor芯片。 CEO马克·扎克伯格将其视为Muse人工智能模型的物理化身，认为能承担日常家务。 两家公司已于9月启动Max 2原型产品研发，预计重新设计躯干并升级，暂无计划销售原型机。 Meta发言人称面临采购美国国内难以获得组件的现实，合作重点为内部研究和实验。 傅利叶创始人兼CEO顾捷表示暂不方便回复。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T10:36:29+09:00",
-      "headline": "优必选正式发布具身智能仿真平台Thinker-Sim 构建一站式技术体系",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261103/622188.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "Ubtech officially released its embodiment intelligent simulation platform, Thinker-Sim, centered on Real2Sim2Real, on November 3. Designed to address industry pain points such as high real data collection costs, complex simulation environment construction, and long algorithm verification cycles, the platform builds a one-stop technical system covering real scene digitization, scaled simulation data synthesis, and robot capability evaluation. Guosheng Securities noted in a research report that data collection serves as training material for VLA and other embodied large models, forming the foundation of the data flywheel and supporting commercial closed loops.",
-      "summary_zh": "11月3日，优必选正式发布以Real2Sim2Real为核心的具身智能仿真平台Thinker-Sim。 面对真实数据采集成本高、仿真环境构建复杂、算法验证周期长等行业痛点，该平台构建了覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。 国盛证券研报指出，数据采集是为VLA等具身大模型提供训练原料，是构建数据飞轮、支撑商业闭环的基础。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T10:32:10+09:00",
-      "headline": "全网24小时“监工”！机器人，商业化大考",
-      "source": "证券之星",
-      "url": "https://wap.stockstar.com/detail/IG2026110300015386",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "On November 2 at 10:00, six Unitree Spirit G2 robots at a convenience store in Xuhui District, Shanghai, began a 24-hour trial acceptance test under public online monitoring. Unitree Embodied Research Center Vice President Ren Guanghui stated that convenience stores test robots' adaptability better than industrial and sorting settings. The test aims to verify if robot systems can continue operating amidst changes, interruptions, and anomalies, and turn experiences into reusable knowledge. In the first half of 2026, Unitree's revenue approached 2 billion yuan, with cumulative shipments of general AI robots reaching 20,000 units. The six robots filled roles including reception, coffee making, cooked food service, restocking, and cleaning. Evaluation metrics include on-duty duration, task completion, customer feedback, task success, response time, and anomaly handling. Ren Guanghui noted that robots still trail skilled human workers in adaptation speed, fine operation tempo, and anomaly handling, showing that commercialization is still undergoing continuous verification.",
-      "summary_zh": "11月2日10时起，上海市徐汇区某便利店内6台智元精灵G2机器人开启为期24小时的转正大考并接受全网在线监工。 智元具身研究中心副总裁任广辉表示，便利店更考验机器人的应变能力，旨在验证系统在遭遇变化、中断、异常时能否推进作业并复用经验。 2026年上半年智元营收接近20亿元，通用AI机器人累计下线达2万台。 6台机器人负责迎宾、咖啡制作、熟食服务、取货补货、桌面清洁等岗位，考核依据包括在岗时长、完成业务量、顾客评价、任务成功率、响应及时性及异常处理等。 任广辉指出，机器人商业化尚处于持续验证阶段，其工作能力相比熟练店员仍有不小差距。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T12:28:03+09:00",
-      "headline": "宇树机器人登泰山被担架抬下山，保险到底管不管？机器人保险了解一下",
-      "source": "金融界",
-      "url": "https://insurance.jrj.com.cn/2026/11/03112858986986.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "On November 2, the first CMG World Robot Mountain Climbing Competition opened in Tai'an, Shandong, featuring a 3.9-kilometer track with over 3,100 steps and four official events plus a global mobility exploration challenge. Unitree's G1 development edition participated as a star contestant but was retired by its operator due to overheating, and was carried down the mountain on a stretcher. PICC Property and Casualty Tai'an Branch customized exclusive insurance for the event, providing 750 million yuan in risk protection for all participants and embodied intelligent robots, including Shandong's first third-party liability insurance for embodied AI robots. Meanwhile, CPIC Property Insurance Yunnan Branch recently underwrote Yunnan's first embodied robot application comprehensive insurance, providing 2.12 million yuan in total property protection for 31 robots belonging to a Kunming company. Previously in February, an embodied intelligent robot in Shanghai overturned, and PICC paid 5,976.87 yuan in claims, completing the first national claim settlement process for embodied robots.",
-      "summary_zh": "11月2日，首届CMG世界机器人登泰山大赛在山东泰安开赛，赛道长3.9公里共3100余级台阶，设4个正式赛项及1个全域机动探路挑战赛。 宇树G1开发版作为明星选手参赛，因过热由操作手安全退赛并被担架抬下山。 人保财险泰安市分公司为赛事定制专属保险，提供7.5亿元风险保障，其中具身智能机器人第三者责任险为山东省保险行业首单。 此外，中国太保产险云南分公司近期承保云南首单具身机器人应用综合保险，为昆明某公司31个机器人提供总保额212万元的综合财产保障。 今年2月，上海一台具身智能机器人在作业中倾覆损坏，人保财险核赔赔付5,976.87元，成为全国首例具身智能机器人理赔案例。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T18:28:43+09:00",
-      "headline": "日本発の水田抑草ロボット「アイガモロボ」、国連生物多様性COP17で発表。水田のメタン削減と生物多様性保全を両立する技術として各国政府に紹介 | 株式会社NEWGREENのプレスリリース",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000153517.html",
+      "published_at": "2026-11-03T04:20:09+09:00",
+      "headline": "未来機械、墨出しロボット「SUMIDAS」で日本ロボット学会「実用化技術賞」を受賞",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2010659?rct=prtimes_kagawa",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社NEWGREENは、アルメニア・エレバンで開催中の国連生物多様性条約第17回締約国会議（CBD-COP17）の農林水産省主催サイドイベントにおいて、水田抑草ロボット「アイガモロボ」による水田からのメタン排出削減効果と生物多様性保全効果について報告した。 日本の稲作は国内メタン排出源の約42％を占めており、アイガモロボは土壌を攪拌して酸素を供給することでメタン生成微生物を減少させる。 日本とベトナムの実証実験でメタン低減を確認し、西表島では導入水田の生物種数・個体数が約4割増加し、スクミリンゴガイによる食害も約4割減少した。 同社はインドネシアやマレーシアの機関・企業と現地実証に関する覚書を締結し、アジア各国への導入拡大を進めている。",
-      "summary_zh": "株式会社NEWGREENは、アルメニア・エレバンで開催中の国連生物多様性条約第17回締約国会議（CBD-COP17）の農林水産省主催サイドイベントにおいて、水田抑草ロボット「アイガモロボ」による水田からのメタン排出削減効果と生物多様性保全効果について報告した。 日本の稲作は国内メタン排出源の約42％を占めており、アイガモロボは土壌を攪拌して酸素を供給することでメタン生成微生物を減少させる。 日本とベトナムの実証実験でメタン低減を確認し、西表島では導入水田の生物種数・個体数が約4割増加し、スクミリンゴガイによる食害も約4割減少した。 同社はインドネシアやマレーシアの機関・企業と現地実証に関する覚書を締結し、アジア各国への導入拡大を進めている。"
+      "summary": "株式会社未来機械は、株式会社竹中工務店および株式会社レンタルのニッケンと共同開発した墨出しロボット「SUMIDAS」により、一般社団法人日本ロボット学会の2026年度第31回「実用化技術賞」を受賞した。 表彰式は2026年9月3日に第44回日本ロボット学会学術講演会の会期中に行われた。 SUMIDASは、建築施工における床面の墨出し作業を自動で行う自走式ロボットシステムであり、3次元レーザ測量機で位置を計測しながらCADデータに基づいて描画を行う。 竹中工務店が基本特許の発明と試作機開発・検証を担い、未来機械が商用機の開発・製造を行い、レンタルのニッケンが2023年11月からレンタル事業を行っている。 未来機械の受賞者は代表取締役社長の三宅徹氏ら3名であり、同社は今後も機体の製造供給を担うとともに、海外市場向けに「HOKUSAI」を展開している。",
+      "summary_zh": "株式会社未来機械は、株式会社竹中工務店、株式会社レンタルのニッケンと共同開発した墨出しロボット「SUMIDAS」により、一般社団法人日本ロボット学会の2026年度（第31回）「実用化技術賞」を受賞した。 表彰式は2026年9月3日に行われた。 SUMIDASは建築施工の墨出し作業を自動化する自走式ロボットシステムで、3次元レーザ測量機で位置を計測しCADデータに基づき床面に描画する。 竹中工務店が特許発明と試作機検証を、未来機械が商用機開発と製造を、レンタルのニッケンがレンタル事業を担当している。 未来機械の受賞者は三宅彻氏ら3名で、同社は今後も機体製造と供給を続け、海外市場向けに「HOKUSAI」を展開する。"
     },
     {
       "date": "2026.11.02",
@@ -145,8 +145,8 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000219.000001332.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社イプロスは、2026年12月9日から10日に東京国際フォーラムで開催する「イプロスAI-産業World 2026」の「イプロスPICKUP講演」にて、パナソニックアドバンストテクノロジー株式会社の川合隆泰氏による講演を実施すると発表した。 講演のタイトルは「自律搬送ロボットは『次世代フィジカルAI』へどう進化するのか 製造・物流現場における環境理解・判断・運用の高度化」。 現実世界を認識するだけでなく現場の状況や目的を理解して判断・行動するフィジカルAIをテーマに、自律搬送ロボットの環境理解、判断、計画、運用の高度化や、作業・経路計画、複数台運用、異常時の再計画などの可能性を解説する。",
-      "summary_zh": "株式会社イプロスは、2026年12月9日から10日に東京国際フォーラムで開催する「イプロスAI-産業World 2026」の「イプロスPICKUP講演」にて、パナソニックアドバンストテクノロジー株式会社の川合隆泰氏による講演を実施すると発表した。 講演のタイトルは「自律搬送ロボットは『次世代フィジカルAI』へどう進化するのか 製造・物流現場における環境理解・判断・運用の高度化」。 現実世界を認識するだけでなく現場の状況や目的を理解して判断・行動するフィジカルAIをテーマに、自律搬送ロボットの環境理解、判断、計画、運用の高度化や、作業・経路計画、複数台運用、異常時の再計画などの可能性を解説する。"
+      "summary": "株式会社イプロスは、2026年12月9日から10日まで東京国際フォーラムで開催する「イプロスAI-産業World 2026」の「イプロスPICKUP講演」において、パナソニックアドバンストテクノロジー株式会社の川合隆泰氏による講演を実施する。 講演タイトルは「自律搬送ロボットは『次世代フィジカルAI』へどう進化するのか 製造・物流現場における環境理解・判断・運用の高度化」。 自律搬送ロボットを題材に、フィジカルAIが環境理解、判断、計画、運用をどのように高度化するのかを解説し、作業・経路計画、複数台のロボット運用、異常発生時の再計画、現場データの活用などの可能性を紹介する。 同展示会は製造・建設業向けのAI/DX展および特設フィジカルAI/ロボットゾーンを同時開催する大型イベントである。",
+      "summary_zh": "株式会社イプロスは、2026年12月9日から10日までの日程で東京国際フォーラムで開催する「イプロスAI-産業World 2026」の「イプロスPICKUP講演」にて、パナソニックアドバンストテクノロジー株式会社戦略企画室研究開発課の川合隆泰氏による講演を実施する。 講演では、自律搬送ロボットを題材に、フィジカルAIが環境理解、判断、計画、運用をどのように高度化するのかを解説し、作業や経路計画、複数台のロボット運用、異常発生時の再計画、現場データの活用などの可能性を紹介する。 本イベントは、製造・建設業向けのAIやDXソリューションを一堂に集めた大型展示会である。"
     },
     {
       "date": "2026.11.02",
@@ -156,8 +156,19 @@
       "url": "https://ledge.ai/articles/docomo_kddi_physical_ai",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "Ledge. ai編集部が最新のAI関連技術やテクノロジー、ビジネス活用事例などの情報を日々発信している中、2026年11月2日付の記事において国内通信企業によるフィジカルAI実装の動きが取り上げられている。 ドコモは人に「配慮」するロボット連携基盤を進め、KDDIは大阪・堺をAI実装の発進基地に据えていることが示されている。 記事内では関連する詳細なニュースや関連記事の紹介が行われている。",
-      "summary_zh": "Ledge. ai編集部が最新のAI関連技術やテクノロジー、ビジネス活用事例などの情報を日々発信している中、2026年11月2日付の記事において国内通信企業によるフィジカルAI実装の動きが取り上げられている。 ドコモは人に「配慮」するロボット連携基盤を進め、KDDIは大阪・堺をAI実装の発進基地に据えていることが示されている。 記事内では関連する詳細なニュースや関連記事の紹介が行われている。"
+      "summary": "ビジネス向けに、国内通信企業がフィジカルAIの実装に向けた動きを見せている。 ドコモは人に「配慮」するロボット連携基盤を構築し、KDDIは大阪・堺をAI実装の発進基地としている。 Ledge. ai編集部が最新のAI関連技術やビジネス活用事例に関する情報を日々発信している。",
+      "summary_zh": "国内通信企业正推进フィジカルAI（物理AI）的实现，其中ドコモ（docomo）致力于构建对人进行“配虑”的机器人联动基盘，KDDI则将大阪・堺打造成AI实现的出发基地。 Ledge. ai编辑部每日发布最新AI相关技术、科技及AI商业应用案例等信息。"
+    },
+    {
+      "date": "2026.11.02",
+      "published_at": "2026-11-02T18:28:43+09:00",
+      "headline": "日本発の水田抑草ロボット「アイガモロボ」、国連生物多様性COP17で発表。水田のメタン削減と生物多様性保全を両立する技術として各国政府に紹介 | 株式会社NEWGREENのプレスリリース",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000153517.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "株式会社NEWGREENは、アルメニア・エレバンで開催中の国連生物多様性条約第17回締約国会議（CBD-COP17）の農林水産省主催サイドイベントにおいて、水田抑草ロボット「アイガモロボ」によるメタン排出削減および生物多様性保全の効果について報告した。 国内の稲作に由来するメタン排出量の削減や、ベトナムでの節水かんがいとの併用効果、西表島での生物種・個体数およびスクミリンゴガイ食害の約4割増加・減少といった実績が示された。 また、タイやインドネシアの政府関係者らとアジアにおける稲作の環境負荷低減について議論を行い、インドネシアやマレーシアの機関・企業との実証に関する覚書の締結、2028年までのベトナムでの商業化に向けた取り組みが発表された。",
+      "summary_zh": "株式会社NEWGREEN在亚美尼亚埃里温举办的《生物多样性公约》第十七次缔约国大会（CBD-COP17）农林水产省主办的边会上，报告了水田除草机器人“鸭子机器人”对水田甲烷减排及生物多样性保护的效果。 会上介绍了日本国内稻作来源的甲烷减排、在越南与节水灌溉并用带来的减排效果，以及西表岛上生物种群数和个体数约4%增加、福寿螺食害约4%减少等成果。 此外，该公司与泰国和印尼政府官员等讨论了亚洲稻作环境负荷的降低，并公布了与印尼及马来西亚机构和企业签署关于当地实测的备忘录，以及力争2028年前在越南实现商业化的举措。"
     },
     {
       "date": "2026.11.02",
@@ -167,74 +178,63 @@
       "url": "https://medicaltech-news.com/medical-support/sr/13520/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "日本ストライカーは11月2日、手術支援ロボット「Makoシステム」を使った人工肩関節置換術が11月1日付で保険適用になったと発表した。 ロボット支援による人工肩関節置換術の薬事承認と保険適用は国内初となる。 対象となる疾患には変形性肩関節症や腱板断裂性関節症などが含まれ、9月に薬事承認を取得した対応アプリケーション「Mako Shoulder」を使用する。 手術は本来の肩関節とは逆の構造で人工関節を設置する「リバース型人工肩関節置換術（RSA）」で実施され、国内では年間約7000例が実施されている。 Mako ShoulderではCT画像データを基に3Dの術前計画を作成し、術中は位置情報と同期しながらアーム先端の切削器具を使った医師の操作をロボットが補助する。 同社は肩関節の痛みの軽減や可動域の改善、術後のQOL向上が期待できるとしている。",
-      "summary_zh": "日本史托利加于11月2日宣布，使用手术支援机器人“Mako系统”实施的人工肩关节置换术已于11月1日获得医保适用。 这是日本国内首次对机器人支援的人工肩关节置换术进行药事批准与医保适用。 该手术针对变形性肩关节症及肩袖撕裂性关节症等疾病，使用于9月取得药事批准的配套应用程序“Mako Shoulder”。 手术采用在与原本肩关节相反结构下安装人工关节的“反式人工肩关节置换术（RSA）”来执行，该术式在日本国内每年实施约7000例。 Mako Shoulder根据CT图像数据创建3D术前计划，术中通过同步位置信息，由机器人辅助医生操作安装在机械臂前端的切削器具。 该公司表示，该手术有望减轻肩关节疼痛、改善活动范围并提升术后生活质量。"
+      "summary": "日本ストライカーは11月2日、手術支援ロボット「Makoシステム」を使用した人工肩関節置換術が11月1日付で保険適用になったと発表した。 ロボット支援による人工肩関節置換術の薬事承認と保険適用は国内初となる。 対象となる手術には、9月に薬事承認を取得した「Mako Shoulder」を使用し、変形性肩関節症や腱板断裂性関節症などの患者を対象とした「リバース型人工肩関節置換術（RSA）」で実施される。 同システムは、CT画像データを基にした3D術前計画を作成し、術中はカメラユニットの位置情報と同期させながら、医師の操作をロボットが補助して術前計画に沿った手術を支援する。",
+      "summary_zh": "日本史赛克于11月2日宣布，使用手术支援机器人“Mako系统”实施的人工肩关节置换术已于11月1日起获得医保适用。 这是国内首次获得药事批准并适用于医保的机器人辅助人工肩关节置换术。 该手术使用9月取得药事批准的对应应用程序“Mako Shoulder”，适用于因变形性肩关节症或肩袖撕裂性关节症等疾病而需实施的“反置式人工肩关节置换术（RSA）”。 该系统根据CT影像数据制作3D术前计划，在术中通过同步摄像单元的位置信息，由机器人辅助医生操作，支持按照术前计划进行手术。"
     },
     {
       "date": "2026.11.02",
-      "published_at": "2026-11-02T17:30:42+09:00",
-      "headline": "SNS総再生数10億回超のロボット格闘技「REK」が日本上陸！ 2027年に東京へアジア初の常設拠点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/e2cc60cc9f0d1a6cc0078bcd947f243e9436a1e4",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "米国発のロボット格闘技団体「REK」を運営するREK Inc. は2026年11月2日、東京にアジア初となる常設ロボット格闘技アリーナを開設する計画を発表した。 2027年第1四半期の開業を目指している。 ロボット格闘技は人間が操縦するヒューマノイドロボット同士がリングで戦う競技であり、REKは総合格闘技やeスポーツの要素を組み合わせてスポーツエンターテインメントとして展開することを目指している。 日本進出の背景には東京でのイベントのチケット完売や米国大会での日本人パイロットの勝利、関連コンテンツのSNS総再生回数10億回超という実績がある。 東京の常設アリーナにはリングや運営拠点を設け、観戦イベントやパイロットのトレーニング、企業向けデモを計画するほか、シミュレーター「REK SIM」も展開する。 現時点では大会形式やアリーナの具体的な所在地などは明らかになっておらず、数カ月以内に東京で次回イベントを開催する方針である。",
-      "summary_zh": "运营美国发起的机器人格斗技团体“REK”的REK Inc. 于2026年11月2日宣布了在东京开设亚洲首个常设机器人格斗技竞技场的计划，力争在2027年第一季度开业。 机器人格斗技是由人类操纵人形机器人进行擂台对决的竞技项目，REK旨在将综合格斗技与电子竞技元素相结合，作为体育娱乐进行推广。 开拓日本市场的背景包括东京活动的门票售罄、日本飞行员在美国赛事中获胜以及相关内容的社交媒体总播放量超过10亿次等成绩。 东京的常设竞技场将设置擂台与运营基地，计划举办观赛活动、飞行员培训及面向企业的演示，同时还将推广模拟器“REK SIM”。 目前大会形式及竞技场的具体所在地等尚未明朗，该公司计划在未来几个月内在东京举办下一次活动。"
-    },
-    {
-      "date": "2026.11.01",
-      "published_at": "2026-11-01T15:00:00+09:00",
-      "headline": "ヒューマノイドロボットシャーシの世界市場（2026年～2032年）、市場規模（車輪式シャーシ、脚部搭載型シャーシ、履帯式シャーシ、その他）・分析レポートを発表",
-      "source": "アットプレス",
-      "url": "https://www.atpress.ne.jp/news/6429173?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+      "published_at": "2026-11-02T02:46:00+09:00",
+      "headline": "中国、ヒューマノイドロボットの家庭導入に向けた取り組みを強化",
+      "source": "Mezha.net",
+      "url": "https://mezha.net/jp/news/mezha-39c6de5a6f2624334eb09384_china-steps-up-push-to-bring/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "株式会社マーケットリサーチセンターは、「ヒューマノイドロボットシャーシの世界市場（2026年～2032年）」調査資料を発表した。 世界の市場規模は2025年の1億7,800万米ドルから2032年に5億6,300万米ドルへ拡大し、年平均成長率17.9%で成長すると予測されている。 2025年の生産台数は約2,400台で、平均市場価格は1台あたり約75,000米ドルであった。 レポートでは、車輪式、脚部搭載型、履帯式などのタイプ別や、駆動システム、用途別、主要企業別の詳細な分析を提供している。",
-      "summary_zh": "株式会社マーケットリサーチセンター发布了“人形机器人底盘全球市场（2026年-2032年）”调查资料。 全球市场规模预计将从2025年的1.78亿美元扩大到2032年的5.63亿美元，2026年至2032年的年均复合增长率预计为17.9%。 2025年全球人形机器人底盘产量达到约2400台，平均市场价格约为每台75000美元。 报告提供了按车轮式、脚部搭载式、履带式等类型分类，以及按驱动系统、应用领域和主要企业划分的详细分析。"
+      "summary": "中国は工場や倉庫向けで先行したヒューマノイドロボット分野で主導権を握るため、家庭向けへの導入に向けた取り組みを強化している。 2026年8月に北京で開催された世界ヒューマノイドロボット競技大会では、疾走や走り高跳びのほか、ベッドメイキングや洗濯物干し、荷物の受け取りといった日常作業を競う種目が行われ、Dreame Technologyなどが家庭向け分野の先駆企業として知られている。",
+      "summary_zh": "中国在先前以工厂和仓库应用为主的人形机器人领域持续扩大优势，目前正加强力度以期在家庭应用领域取得主导地位。 在2026年8月于北京举行的世界人形机器人运动会上，除了奔跑和跳高项目外，还举行了比拼整理床铺、晾晒衣物、接收包裹等日常家务的安静项目。 其中，追觅科技（Dreame Technology）是该领域的先驱企业之一，以与戴森（Dyson）及iRobot Roomba竞争的扫地机器人而闻名。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T09:21:30+09:00",
-      "headline": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "published_at": "2026-11-03T23:46:42+09:00",
+      "headline": "AGIBOT Unveils Worken Productivity Framework and New Robot Platforms at Innovation Day 2026, Pushing Humanoid Robots Toward Commercial Scale",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/cn/insights/agibot-unveils-worken-productivity-framework-and-new-robot-platforms",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Agility Robotics is moving closer to an IPO as Churchill Capital Corp XI shareholders approved a SPAC business combination on Nov. 2, with more than 84% voting in favor. The transaction is expected to close on Nov. 4, and trading on Nasdaq under the ticker symbol AGLT is set for Nov. 5, while Churchill stock rose nearly 14% on Nov. 2. The deal provides approximately $465 million in gross capital before expenses, including $164 million from the trust account, $201 million from a PIPE financing led by Foxconn, and $100 million in prior equity funding. The original transaction valued Agility at a $2.5 billion pre-money equity value, and existing shareholders will roll their equity into the combined company. Digit robots are operating in 9 customer environments, with GXO Logistics expanding deployments to North Carolina and Tennessee in 2027 using Digit 4, and AGCO signing an agreement to pilot Digit in Hesston, Kansas, starting in 2027. Agility claims over $300 million in committed multi-year orders for Digit 5, with customer early access targeted for the first half of 2027.",
-      "summary_zh": "Agility Robotics的上市计划取得重大进展，Churchill Capital Corp XI的股东于11月2日投票批准了该特殊目的收购公司与该人形机器人开发商的业务合并，赞成率超过84%。 该交易预计于11月4日完成，合并后的公司预计于11月5日在纳斯达克开始交易，股票代码为AGLT，Churchill股票在11月2日上涨了近14%。 该交易预计在扣除费用前为Agility提供约4.65亿美元的总资本，其中包括来自信托账户的约1.64亿美元、由富士康领投的PIPE融资的约2.01亿美元以及先前获得的1亿美元股权资金。 该原始交易对Agility的估值为25亿美元的投前股权价值，现有股东将其股权转入合并后的公司。 Digit机器人已在9个客户环境中运行，GXO Logistics计划于2027年在北卡罗来纳州和田纳西州的设施使用Digit 4扩大部署，AGCO也签署了一项协议，从2027年起在其堪萨斯州赫斯顿的工厂试用Digit。 Agility称其下一代人形机器人Digit 5已拥有超过3.05亿美元的多年期承诺订单，预计客户将于2027年上半年开始早期接入。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T11:55:00+09:00",
-      "headline": "South Korea's Polaris AI to Debut UBTECH's Humanoid 'U1' Domestically at Robot World",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/63aed209-5585-4834-997b-b0c7c9f125d1",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "South Korea's Polaris AI is partnering with China's UBTECH Robotics to target the South Korean physical AI market by debuting UBTECH's humanoid lineup at the 2026 Robot World exhibition running from November 4-7 at KINTEX in Goyang, Gyeonggi Province. Polaris AI announced the exhibition plan on November 2, bringing UBTECH headquarters staff to support demonstrations and technical briefings. The centerpiece is the U1 series of emotional-companion humanoids developed by UWORLD, featuring biomimetic skin, facial expressions, emotion recognition, and long-term memory, with three models—Lite, Pro, and Ultra—displayed in a dedicated space. UBTECH stated that cumulative orders for the U1 series exceeded 13,361 units as of its overseas launch in June. In the industrial zone, the Walker S2 and Cruzr Y1 will demonstrate material-box handling, while the Walker C1 will showcase customer service in the commercial zone. Polaris AI intends to use the exhibition to consult with South Korean manufacturers and logistics companies on robot adoption, combining overseas manufacturing capabilities with a domestic customer network to explore commercialization and mid- to long-term growth.",
-      "summary_zh": "韩国Polaris AI正与中国人形机器人制造商优必选科技合作，计划在11月4日至7日于京畿道高阳市KINTEX举办的2026年机器人世界展会上首次在韩国亮相优必选的工业、商业和家庭人形机器人产品线。 Polaris AI于11月2日宣布了该参展计划，优必选总部员工也将前往韩国支持机器人演示和技术简报。 展会的中心是优必选消费品牌UWORLD开发的情感陪伴人形机器人U1系列，具备拟真皮肤、面部表情技术、基于AI的情感识别和长期记忆功能，Lite、Pro和Ultra三个型号将陈列在专用展区。 优必选表示，截至6月海外发布时，U1系列的累计订单已超过13361台。 在工业展区，Walker S2和Cruzr Y1将演示物料箱识别与搬运，而Walker C1将在商业展区展示客户服务能力。 Polaris AI拟通过此次展会将海外制造能力与韩国客户网络相结合，与韩国制造商和物流公司就机器人采用进行商讨，以探索商业化机会并构建中长期增长基础。"
+      "summary": "AGIBOTは2026年10月29日に上海世界博覧会中心で開催されたInnovation Day 2026において、ロボットの有効仕事量を数値化してRaaSの価格設定やROI評価を支援する生産性フレームワーク「Worken」を発表した。 さらに、移動・対話・タスク実行の知能を統合する「Three Intelligences in One」イニシアチブに基づき、新モデルの「GO-3 Preview」や「WITA-OMNI」、第3世代プラットフォームの「AHA3」や「OmniHand 3 Ultra」などのハードウェアも公開した。",
+      "summary_zh": "AGIBOT于2026年10月29日在上海世博中心举行了2026创新日活动，会上推出了旨在量化机器人有效工作产出、以支持投资回报率（ROI）评估及机器人即服务（RaaS）按产出计价的Worken生产力框架。 此外，AGIBOT推进了“三智合一”倡议，发布了包括GO-3 Preview和WITA-OMNI在内的新模型，用以增强机器人的移动、交互和自主任务执行能力，并推出了第三代AHA3平台和OmniHand 3 Ultra等新硬件，持续构建涵盖模型、数据采集与硬件的技术体系。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T04:56:27+09:00",
-      "headline": "Digit Humanoid Robot to Hit the Production Line in Kansas",
-      "source": "Tomorrow's World Today",
-      "url": "https://www.tomorrowsworldtoday.com/robotics/digit-humanoid-robot-to-hit-the-production-line-in-kansas/",
+      "published_at": "2026-11-03T21:44:37+09:00",
+      "headline": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent",
+      "source": "AI Magazine",
+      "url": "https://aimagazine.com/news/meta-chinas-fourier-a-humanoid-robot-for-muse-ai-agent",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Agricultural manufacturer AGCO has partnered with Agility Robotics to test bipedal humanoid machines on its assembly lines, starting with a pilot program in 2027 at AGCO's production plant in Hesston, Kansas. At the facility, Agility's Digit robot will perform repetitive tasks such as sorting parts, stacking materials, and moving storage totes to reduce physical strain on human workers. Thomas Enghof, AGCO's Director of Manufacturing Technology, stated that the relationship views humanoid robotics and AI as essential teammates in building flexible, intelligent factories. Digit uses artificial intelligence to adapt to workflow changes and operates on Agility Arc, a cloud platform for fleet management, without requiring major building renovations. Daniel Diez, Chief Business Officer of Agility Robotics, noted that the collaboration strengthens manufacturing processes and supports employees in demanding tasks. With this deployment, AGCO joins companies like Toyota, GXO, and Schaeffler in testing Agility's hardware, while Agility prepares to go public through a merger with Churchill Capital Corp XI under the Nasdaq ticker AGLT.",
-      "summary_zh": "农业制造商AGCO已与Agility Robotics合作，在其装配线上测试双足人形机器，并将于2027年在AGCO位于堪萨斯州赫斯顿的生产工厂启动试点项目。 在该设施中，Agility的Digit机器人将执行分流零件、堆叠材料和移动储物箱等重复性任务，以减少人类工人的体力劳损。 AGCO制造技术总监托马斯·恩格霍夫表示，该战略关系将人形机器人和人工智能视为构建灵活、智能工厂的重要“队友”。 Digit使用人工智能来适应工作流程的变化，并在用于车队管理的云平台Agility Arc上运行，且无需对建筑物进行大规模改造。 Agility Robotics首席商务官丹尼尔·迪兹指出，此次合作加强了制造过程并支持员工完成高强度任务。 通过此次部署，AGCO加入了丰田、GXO和舍弗勒等测试Agility硬件的公司行列，同时Agility正准备通过与Churchill Capital Corp XI合并在纳斯达克以股票代码AGLT上市。"
+      "summary": "Meta Platformsは中国のロボット企業Fourierと共同で、体重106ポンド、身長1.5メートルのプロトタイプヒューマノイドロボット「Max」を3カ月間で構築し、すでに第2バージョンの開発に取り組んでいる。 このロボットはNVIDIAのJetson Thorチップなどを搭載しており、Metaの個人用AIエージェント「Muse」の物理的な具現化と位置づけられている。 両社の協業は、米国の外国製ロボット規制という米中ハイテク摩擦のさなかで行われた。",
+      "summary_zh": "Meta Platforms已与中国机器人公司傅利叶（Fourier）合作制造了一款重达106磅的人形机器人原型Max，双方历时三个月完成，目前正致力于开发第二版本。 该机器人身高1.5米，目前由英伟达的Jetson Thor芯片及独立运动软件平台驱动，胸部内置两个扬声器，面部可模仿人类表情。 Meta首席技术官安德鲁·博斯沃思在内部将人形机器人描述为个人AI代理Muse的物理具现。 此次合作正值美中科技竞争紧张之际，此前华盛顿刚采取行动限制外国制造的机器人。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T00:09:00+09:00",
-      "headline": "Meta’s reported humanoid robot tie-up with Fourier spotlights China-US robotics complementarity: expert",
-      "source": "Global Times",
-      "url": "https://www.globaltimes.cn/page/202611/1373497.shtml",
+      "published_at": "2026-11-03T18:56:00+09:00",
+      "headline": "Watch: AGIBOT puts six humanoid robots through a 24-hour convenience store shift",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Meta reportedly partnered with Chinese robotics company Fourier to develop a humanoid robot prototype codenamed Max, though Fourier stated on Monday that updates would be shared through official channels. According to a report by The Information, Meta built the first Max prototype with Fourier in about three months and is working on a second version, with Max standing about 1.5 meters tall, running on Nvidia's Jetson Thor chip, and featuring a facial-expression screen, speakers, and five-fingered hands. Meta's vice president of product for robotics, Li-Chen Miller, spent nearly two months at Fourier's factory in Shanghai, and work on Max 2 began in September with plans for a new torso, better hands, a projector, and extra sensors. Public job postings showed Meta recruited robotics engineers in Shanghai in September and Shenzhen in October. Chen Jing, a vice president at the Technology and Strategy Research Institute, told the Global Times that the partnership highlights the complementary strengths of the Chinese and US robotics industries, combining US AI and large-language model advantages with China's manufacturing engineering expertise, complete industrial chain, and lower product costs. Fourier, founded in 2015 in Shanghai, transitioned from rehabilitation robots to humanoid robotics, unveiling its third-generation GR-3 in August 2025 and open-source N1 in April 2025, while other Chinese firms like Unitree have also partnered with US AI platforms such as Nvidia's Isaac GR00T.",
-      "summary_zh": "据报道，Meta与中国机器人公司傅利叶合作开发了一款代号为Max的人形机器人原型，不过傅利叶周一表示任何后续更新将通过官方渠道分享。 根据《The Information》的一篇报道，Meta与傅利叶在约三个月内构建了第一个Max原型，目前正在开发第二个版本，Max身高约1.5米，运行在英伟达Jetson Thor芯片上，并配备了模仿面部表情的屏幕、内置扬声器和五指手掌。 Meta机器人产品副总裁李晨·米勒在傅利叶位于上海的工厂度过了近两个月，Max 2的工作于9月开始，计划配备新躯干、更好的手部、投影仪和额外的传感器。 公开招聘信息显示，Meta于9月在上海、10月在深圳招聘了机器人工程师。 技术与战略研究所副总裁陈静对《环球时报》表示，该合作突出了中美机器人产业高度互补的优势，将美国在人工智能和大语言模型方面的优势与中国的制造工程专长、完整的产业链及更低的产品成本结合在了一起。 傅利叶于2015年在上海成立，从康复机器人扩展到人形机器人，于2025年8月发布了第三代人形机器人GR-3，并于2025年4月发布了开源人形机器人N1，同时其他中国公司如宇树科技也与英伟达Isaac GR00T等美国AI平台进行了合作。"
+      "summary": "中国のロボット企業AGIBOTは、6体のG2ヒューマノイドロボットが人間の顧客やスタッフと共に働く24時間のコンビニエンスストア挑戦企画のライブ配信を11月2日から11月3日にかけて実施した。 ロボットたちは棚の品出し、コーヒーや温かい食品の調理、顧客への挨拶、ゴミの片付けといった日常的な小売業務を担当し、ランチや夕方のラッシュ、深夜、朝の朝食準備という異なる時間帯や混雑状況の下での自律的な動作や対応力が検証された。",
+      "summary_zh": "中国机器人公司AGIBOT推出了时长24小时的便利店挑战活动，由6台G2人形机器人与人类顾客及店员共同工作。 这场名为“机器人永不打卡”的直播于11月2日至11月3日进行，让观众得以长时间观察机器人执行日常零售任务。 其指派的职责包括货架上货、准备咖啡与热食、迎接顾客以及清理垃圾。 该活动分为午高峰、晚高峰、深夜值班和早餐准备四个运营时段，旨在测试机器人在拥堵人流、夜间运营及早间早餐高峰等不同商店条件下的表现。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T18:24:05+09:00",
+      "headline": "Humanoid steals stage at MARS 2026",
+      "source": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/multimedia-news/humanoid-steals-stage-at-mars-2026/12953836",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "韓国・ソウルで開催された「MARS 2026」では、ステージ上でヒューマノイドロボットが注目を集めた。 同イベントの報道に関連して、伝統的な紙の壁掛け・卓上カレンダーの高齢層における需要、大邱市中心部の東城路における自律走行シャトルの試験運行、ハンファオーシャン巨済造船所で進められている韓国の張保皐-IIIバッチ-II計画の第2隻目となる潜水艦「徐嵉」の進水式控え、女性グループResceneによるショーケースでの楽曲披露などが伝えられている。",
+      "summary_zh": "在MARS 2026活动上，人形机器人成为了舞台焦点。 相关报道提及了多项内容，包括老年消费者对传统纸质挂历和台历的需求逐渐减少但仍有市场、大邱市中心东城路公共交通专用区内自动驾驶穿梭巴士的试运行、韩华海洋巨济造船厂内韩国张保皐-III批次-II计划的第二艘舰艇“徐嵉号”等待下水仪式，以及五人女子组合Rescene在首尔回归秀上表演主打曲《With》并接受记者提问。"
     }
   ]
 }
