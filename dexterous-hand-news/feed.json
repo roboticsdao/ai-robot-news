@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-03T12:53:41.767522+09:00",
+  "updated_at": "2026-11-04T11:58:26.023390+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-03T12:53:41.767522+09:00",
-    "latest_article_at": "2026-11-02T13:11:00+09:00",
+    "checked_at": "2026-11-04T11:58:26.023390+09:00",
+    "latest_article_at": "2026-11-03T14:50:01+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -14,6 +14,17 @@
   },
   "articles": [
     {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T14:50:01+09:00",
+      "headline": "人手示范，灵巧手复现 —— OmniGlove 正式发布",
+      "source": "具身之家",
+      "url": "https://www.jushenhome.com/news_d.php?id=2239",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "10月29日，临界点正式发布自研遥操数采手套OmniGlove，分为标准版和Pro版两款，将于11月开启交付。 针对现有真机遥操作、Ego数据和外骨骼方案的短板，OmniGlove旨在采集兼具真机数据质量、真实手感和Ego数据规模的高精度人手数据。 OmniGlove配备EMF和IMU实现精准位姿，Pro版单手搭载746个触觉点。 两路数据以125Hz同步输出，延迟小于10ms。 OmniGlove还解决了磁干扰、虚假触觉信号和长时间佩戴重量等问题，采集的数据可用于训练DUET 2.0双层架构。",
+      "summary_zh": "10月29日，临界点发布自研遥操数采手套OmniGlove，提供标准版和Pro版两款，11月交付。 OmniGlove旨在解决当前数据采集方案的短板，采集兼具高质量与规模的人手操作数据。 该手套通过配备EMF接收器和IMU确保位姿准确，Pro版单手集成746个触觉点，以125Hz同步输出位姿与触觉数据，延迟小于10ms。 OmniGlove克服了磁干扰、触觉零漂和佩戴重量等工程难题，其采集的高精度数据可直接用于训练DUET 2.0双层架构模型。"
+    },
+    {
       "date": "2026.11.02",
       "published_at": "2026-11-02T13:11:00+09:00",
       "headline": "从实验室到产线：灵巧手销量激增 行业“ChatGPT时刻”尚未到来",
@@ -21,8 +32,8 @@
       "url": "https://k.sina.com.cn/article_1650111241_625ab30902001hzaw.html?from=tech",
       "language": "Chinese",
       "section": "Global",
-      "summary": "灵巧手作为机器人进入现实生活的关键部件，在2025年和2026年市场销量大幅增长，应用场景从高校科研扩展到工业和生活领域。 根据高工产业研究院数据，2025年中国市场销量约1.92万只，2026年预计达7.02万只，到2030年有望突破43万只。 赛道融资规模显著上升，2026年上半年突破250亿元。 当前布局者包括第三方企业、人形机器人整机企业以及跨界汽车零部件供应商如均胜电子等。 尽管交付量和场景增多，但业内人士认为行业尚未迎来“ChatGPT时刻”，目前仍面临手工调试多、标准化量产不足、连续运行易故障以及触觉数据缺乏等技术和成本痛点。 头部企业正通过自研核心零部件、材料替换和规模化生产努力降低单价，推动商业化应用。",
-      "summary_zh": "灵巧手作为机器人进入现实生活的关键部件，在2025年和2026年市场销量大幅增长，应用场景从高校科研扩展到工业和生活领域。 根据高工产业研究院数据，2025年中国市场销量约1.92万只，2026年预计达7.02万只，到2030年有望突破43万只。 赛道融资规模显著上升，2026年上半年突破250亿元。 当前布局者包括第三方企业、人形机器人整机企业以及跨界汽车零部件供应商如均胜电子等。 尽管交付量和场景增多，但业内人士认为行业尚未迎来“ChatGPT时刻”，目前仍面临手工调试多、标准化量产不足、连续运行易故障以及触觉数据缺乏等技术和成本痛点。 头部企业正通过自研核心零部件、材料替换和规模化生产努力降低单价，推动商业化应用。"
+      "summary": "2026年灵巧手销量预计达7.02万只，应用场景从高校科研扩展至工业物流等领域。 据IT桔子统计，2026年上半年国内灵巧手赛道融资突破250亿元，资本和汽车零部件供应商等跨界玩家纷纷涌入。 尽管交付量攀升，但行业仍面临手工调试多、标准化量产未达成、产线连续运行易故障等挑战。 头部企业正通过自研核心部件、采用工程塑料和扩大规模来降低单价。 业内人士认为，灵巧手商业化尚在起步阶段，真正迈向大规模量产和进入生产工位仍需攻克硬件工程化、触觉感知、算法泛化及商业账平衡等门槛。",
+      "summary_zh": "GGII数据显示2026年中国灵巧手市场销量预计达7.02万只，行业迎来交付攀升与跨界玩家涌入，2026年上半年融资金额突破250亿元。 当前灵巧手面临手工调试多、标准化量产不足以及工业场景稳定性要求高等挑战。 头部企业正积极通过自研零部件与材料替代来降低产品单价。 业内人士指出，灵巧手尚未迎来ChatGPT时刻，商业化仍处于起步阶段，未来需要跨越硬件工程化、触觉感知、算法泛化、商业成本和标准评测等多重门槛。"
     },
     {
       "date": "2026.11.02",
@@ -32,8 +43,8 @@
       "url": "https://www.stdaily.com/web/gdxw/2026-11/02/content_606705.html",
       "language": "Chinese",
       "section": "Global",
-      "summary": "10月31日，大湾区科学论坛医工融合分论坛在广州南沙举行。 香港科技大学校董会主席、美国国家工程院外籍院士沈向洋在主旨报告中指出，以具身智能为核心的物理AI代表通用人工智能的第三次浪潮，将推动智能从数字大脑走向现实本体。 他表示，具身智能是涵盖感知、控制、硬件和软件的大型系统工程，当前面临的最大挑战是数据短缺。 行业正通过真机遥操作、人类第一视角采集和仿真合成等路径获取多模态交互数据。 此外，沈向洋认为肢体运动之外的灵巧手是具身智能技术复杂度的“珠峰”，人手拥有27个自由度和数万传感器，灵巧操作能力是让机器人从表演者转变为劳动者以及提升手术机器人水平的关键课题。",
-      "summary_zh": "10月31日，大湾区科学论坛医工融合分论坛在广州南沙举行。 香港科技大学校董会主席、美国国家工程院外籍院士沈向洋在主旨报告中指出，以具身智能为核心的物理AI代表通用人工智能的第三次浪潮，将推动智能从数字大脑走向现实本体。 他表示，具身智能是涵盖感知、控制、硬件和软件的大型系统工程，当前面临的最大挑战是数据短缺。 行业正通过真机遥操作、人类第一视角采集和仿真合成等路径获取多模态交互数据。 此外，沈向洋认为肢体运动之外的灵巧手是具身智能技术复杂度的“珠峰”，人手拥有27个自由度和数万传感器，灵巧操作能力是让机器人从表演者转变为劳动者以及提升手术机器人水平的关键课题。"
+      "summary": "10月31日，大湾区科学论坛医工融合分论坛在广州南沙举行，香港科技大学校董会主席沈向洋发表主旨报告。 他指出，人工智能正从数字AI和AI智能体向以具身智能为核心的物理AI发展，代表通用人工智能的第三次浪潮。 面对物理AI面临的数据瓶颈，行业通过真机遥操作、第一视角采集和仿真合成等路径获取多模态交互数据。 沈向洋表示，灵巧手是具身智能技术复杂度的珠峰，人手拥有27个自由度和数万传感器，攻克灵巧操作能力是让机器人从表演者转变为劳动者以及发展手术机器人的核心门槛。",
+      "summary_zh": "10月31日，大湾区科学论坛医工融合分论坛在广州南沙举行，香港科技大学校董会主席沈向洋在报告中指出具身智能代表通用人工智能的第三次浪潮，智能将从数字大脑走向现实本体。 针对物理AI面临的数据短缺挑战，行业正通过真机遥操作、第一视角采集和仿真合成等路径获取多模态交互数据。 沈向洋强调，灵巧手是具身智能技术复杂度的珠峰，灵巧操作能力是机器人从表演者转变为劳动者及发展高级手术机器人的核心门槛。"
     },
     {
       "date": "2026.11.02",
@@ -43,8 +54,8 @@
       "url": "https://response.jp/article/2026/11/02/418497.html",
       "language": "Japanese",
       "section": "Global",
-      "summary": "ミネベアミツミ株式会社は、2026年11月11日から13日まで幕張メッセで開催されるヒューマノイドEXPOに出展すると発表した。 同社はヒューマノイドロボット向けのロボットハンドを動展示し、関節、筋肉、神経にあたる部分を支える超精密部品群を紹介する。 ヒューマノイドロボットは研究段階から製造業、倉庫・物流、医療・介護などの現場における社会実装のフェーズへ移行しつつあり、滑らかさ、耐久性、指先の力覚検知、駆動システムの効率性などにおいて高い精度と信頼性が求められている。 今回の出展では、CES 2026で反響を呼んだロボットハンドが展示されるほか、超精密加工技術を核とした製品群を融合させる「相合」を強みとして、センシングからドライブまでをトータルで提案する。",
-      "summary_zh": "美蓓亚三美株式会社宣布将参加2026年11月11日至13日在幕张展览馆举办的Humanoid EXPO。 该公司将动态展示面向人形机器人的机器人手，并介绍支持机器人关节、肌肉和神经部分的超精密零部件群。 人形机器人正从研究阶段向制造、仓储物流、医疗护理等现场的社会实现阶段过渡，在平滑度、耐久性、指尖力觉检测以及驱动系统效率等方面被要求具备高精度与高可靠性。 此次展会将展出在CES 2026上引起反响的机器人手，并结合以超精密加工技术为核心的产品群融合即“相合”优势，综合提供从传感到驱动的整体方案。"
+      "summary": "ミネベアミツミ株式会社は、2026年11月11日から13日まで幕張メッセで開催されるヒューマノイドEXPOに出展すると発表した。 ヒューマノイドロボット向けのロボットハンドを動展示するほか、ロボットの関節、筋肉、神経を支える超精密部品群を紹介する。 ヒューマノイドロボットが研究段階から製造業や倉庫、医療などの社会実装フェーズへ移行する中、各部位の滑らかさ、耐久性、指先の力覚検知、駆動システムの効率性などにおいて高い精度と信頼性が求められている。 同社は超精密加工技術を核とした8本槍の製品群による相合を強みとし、センシングからドライブまでをトータルで提案する。",
+      "summary_zh": "美培亚美达株式会社宣布将参展2026年11月11日至13日在幕张展览馆举办的具身人形机器人博览会。 该公司将动态展示面向人形机器人的机器人手，并介绍支持机器人关节、肌肉和神经的超精密零部件群。 随着人形机器人从研究阶段向制造、仓储和医疗等社会应用阶段过渡，其对核心部件的精度和可靠性提出了更高要求。 美培亚美达以超精密加工技术为核心，通过产品群的融合实现从感知到驱动的全面方案提案。"
     },
     {
       "date": "2026.10.31",
@@ -54,19 +65,8 @@
       "url": "https://m.sohu.com/a/1095026980_489960?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "中国科学技术大学工程科学学院人形机器人研究院牵头，联合新南威尔士大学、苏州大学、伍伦贡大学、西北工业大学研究团队，在触觉传感器研究上取得了新突破。 针对人形机器人视觉能定位物体但无法感知软硬和分辨轻重的痛点，研究团队跳出了修改凝胶或电极等核心功能材料的传统思路，选择在电极与离子凝胶中间新增一层直写打印的梯度网格夹层。 该梯度网格夹层实现了渐进式接触调控，能够同时兼顾高灵敏度与宽线性量程，相关研究成果已发表于机器人权威期刊《Science Advances》。",
-      "summary_zh": "中国科学技术大学工程科学学院人形机器人研究院牵头，联合新南威尔士大学、苏州大学、伍伦贡大学、西北工业大学研究团队，在触觉传感器研究上取得了新突破。 针对人形机器人视觉能定位物体但无法感知软硬和分辨轻重的痛点，研究团队跳出了修改凝胶或电极等核心功能材料的传统思路，选择在电极与离子凝胶中间新增一层直写打印的梯度网格夹层。 该梯度网格夹层实现了渐进式接触调控，能够同时兼顾高灵敏度与宽线性量程，相关研究成果已发表于机器人权威期刊《Science Advances》。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T15:58:37+09:00",
-      "headline": "SynDexy dexterous manipulation humanoid robot, completes first small-batch delivery",
-      "source": "Gasgoo",
-      "url": "https://autonews.gasgoo.com/articles/news/syndexy-dexterous-manipulation-humanoid-robot-completes-first-small-batch-delivery-2116424707997593601",
-      "language": "English",
-      "section": "Global",
-      "summary": "SynDexy announced on October 30 that its in-house dual-arm wheeled humanoid robot, the SynDexy C1, has completed its first small-batch delivery to precision assembly lines at consumer electronics and component factories. In prior testing, the C1 achieved a success rate above 98% on critical tasks. The C1 is built for dexterous manipulation with vision-tactile fusion at its core, featuring in-house vision-tactile sensors with micron-level spatial resolution and running the SynDexy M1 vision-tactile-force tri-state fusion model. The robot includes 22 degrees of freedom and 1-millisecond real-time motion control. Development of the C1 began in April 2026, with a first-generation prototype ready by July and small-batch deliveries following in October. Founded in 2025 by Beijing University of Posts and Telecommunications Professor Fang Bin, SynDexy is a full-stack embodied AI company focused on high-precision industrial dexterity, with technology already deployed in tasks like flexible circuit assembly and cable insertion.",
-      "summary_zh": "SynDexy于10月30日宣布，其自主研发的双臂轮式人形机器人SynDexy C1已完成首批小批量交付，送往消费电子和零部件工厂的精密组装线。 在先前的测试中，C1在关键任务上的成功率超过98%。 C1是SynDexy首款专为灵巧操作而构建的人形机器人，核心采用视触觉融合技术，硬件上配备具有微米级空间分辨率的自研视触觉传感器，软件上运行被称为全球首个视触觉力三态融合模型的SynDexy M1。 该机器人拥有22个自由度和1毫秒实时运动控制能力。 C1从2026年4月开始研发，7月制成第一代原型机，10月实现小批量交付。 SynDexy成立于2025年，由北京邮电大学教授方斌领导，是一家专注于高精度工业灵巧性的全栈具身智能公司，其技术已部署于柔性电路板组装和线缆插接等任务中。"
+      "summary": "针对人形机器人视觉无法感知软硬和分辨轻重的痛点，中国科学技术大学工程科学学院人形机器人研究院牵头联合多所大学团队，跳出修改凝胶和电极等核心功能材料的传统思维，在电极与离子凝胶中间新增一层直写打印的梯度网格夹层。 该设计实现了渐进式接触调控，同步兼顾了触觉传感器的高灵敏度与宽线性量程。 相关研究成果已发表于机器人权威期刊《Science Advances》。",
+      "summary_zh": "针对人形机器人视觉无法感知软硬与分辨轻重的痛点，中国科学技术大学工程科学学院人形机器人研究院牵头联合多家研究团队，在电极与离子凝胶中间新增了一层直写打印的梯度网格夹层，而非修改核心功能材料。 该设计实现了渐进式接触调控，从而同步兼顾了触觉传感器的高灵敏度与宽线性量程。 相关研究成果已发表于机器人权威期刊《Science Advances》。"
     },
     {
       "date": "2026.10.31",
@@ -76,8 +76,8 @@
       "url": "http://k.sina.com.cn/article_5952915720_162d249080670536xi.html",
       "language": "Chinese",
       "section": "Global",
-      "summary": "定焦One报道了智元拆分独立9个月的临界点（AGILINK）在2026年灵巧操作论坛上的多项产品与生态发布，包括OmniGlove-PRO数采手套、Omni-Maestro工业部署框架及DUET 2.0架构。 临界点CEO乔天杰及高管介绍了长程拧螺丝作业测试、故障率降至0.5%以下等进展。 针对行业关注的可靠性、直驱与连杆等驱动路线选择、产业天花板、大模型对运控的替代性以及商业化订单情况，乔天杰与模型算法总监吴铭东、首席具身科学家黄碧丹分别作出了回应。",
-      "summary_zh": "定焦One报道了智元拆分独立9个月的临界点（AGILINK）在2026年灵巧操作论坛上的多项产品与生态发布，包括OmniGlove-PRO数采手套、Omni-Maestro工业部署框架及DUET 2.0架构。 临界点CEO乔天杰及高管介绍了长程拧螺丝作业测试、故障率降至0.5%以下等进展。 针对行业关注的可靠性、直驱与连杆等驱动路线选择、产业天花板、大模型对运控的替代性以及商业化订单情况，乔天杰与模型算法总监吴铭东、首席具身科学家黄碧丹分别作出了回应。"
+      "summary": "在10月29日的2026智元创新日上，从智元拆分独立9个月的临界点（AGILINK）发布了数采手套OmniGlove-PRO、工业部署框架Omni-Maestro和DUET 2.0架构升级等产品与生态计划。 临界点CEO乔天杰与高管介绍了面向工厂真实工序的72步长程作业直播，该作业由机械臂与灵巧手协同完成，任务成功率达98%，机器人最长连续作业12小时，单次作业耗时8.5分钟，比人工多约6.25%。 OmniGlove-PRO配备EMF磁场定位和IMU融合技术，定位精度达0.1mm，配置746个触觉感知点位，空间分辨率3mm。 Omni-Maestro能够结合视觉、力矩及设备反馈判断任务并处理异常。 DUET 2.0为双层智能架构，上层负责理解规划，底层负责多指协同与触觉闭环。 临界点已将灵巧手故障率降至0.5%以下，现阶段采用连杆方案以保证最佳可靠性。 乔天杰预测一到两年内灵巧手价格将下降一个数量级。 模型算法总监吴铭东、首席具身科学家黄碧丹及乔天杰出席了媒体群访。",
+      "summary_zh": "在10月29日的2026智元创新日上，从智元拆分独立9个月的临界点（AGILINK）发布了数采手套OmniGlove-PRO、工业部署框架Omni-Maestro和DUET 2.0架构升级等产品与生态计划。 临界点CEO乔天杰与高管介绍了面向工厂真实工序的72步长程作业直播，该作业由机械臂与灵巧手协同完成，任务成功率达98%，机器人最长连续作业12小时，单次作业耗时8.5分钟，比人工多约6.25%。 OmniGlove-PRO配备EMF磁场定位和IMU融合技术，定位精度达0.1mm，配置746个触觉感知点位，空间分辨率3mm。 Omni-Maestro能够结合视觉、力矩及设备反馈判断任务并处理异常。 DUET 2.0为双层智能架构，上层负责理解规划，底层负责多指协同与触觉闭环。 临界点已将灵巧手故障率降至0.5%以下，现阶段采用连杆方案以保证最佳可靠性。 乔天杰预测一到两年内灵巧手价格将下降一个数量级。 模型算法总监吴铭东、首席具身科学家黄碧丹及乔天杰出席了媒体群访。"
     },
     {
       "date": "2026.10.30",
@@ -87,19 +87,19 @@
       "url": "https://www.techbriefs.com/component/content/article/56172-color-changing-tactile-sensor-allows-robots-to-see-and-touch-in-real-time",
       "language": "English",
       "section": "Global",
-      "summary": "Engineers at Queen Mary University of London, led by postdoctoral researcher Giacomo Sasso and collaborating with professors including James Bustfield, Federico Carpi and researchers from Italian universities, have developed a color-changing tactile sensor. The device transforms invisible mechanical forces and pressure into dynamic color patterns that can be read immediately by a standard low-cost USB camera, eliminating the need for complex reconstruction algorithms. This technology allows robotic grippers to handle micro-scale components, aids external prosthetics in healthcare, and helps surgical systems distinguish healthy from abnormal tissue directly through color response.",
-      "summary_zh": "伦敦玛丽女王大学的工程师 Giacomo Sasso 与詹姆斯·巴斯特菲尔德教授、费德里科·卡尔皮教授及意大利多所大学的研究人员合作，开发了一种变色触觉传感器。 该装置将不可见的机械力和压力转化为动态色彩图案，可通过标准的低成本 USB 摄像头立即读取，从而无需复杂的重建算法。 这项技术使机器人抓手能够处理微型组件，帮助医疗领域的外部假肢获得更丰富的触觉，并协助外科系统直接通过颜色响应来区分健康组织与异常组织。"
+      "summary": "Engineers at Queen Mary University of London, including postdoctoral researcher Giacomo Sasso and Professor James Busfield alongside collaborators from Italian universities, have invented a new color-changing tactile sensor that allows robots to see and touch in real-time. The sensor works by transforming invisible forces into dynamic color patterns, enabling high-resolution maps of contact, strain, and pressure to emerge instantly without complex reconstruction algorithms. When pressure is applied to the soft sensing surface, the material produces spatially varying structural colors captured immediately by a standard low-cost USB camera. This enables robotic grippers to assemble micro-scale components with precision, helps external prosthetics gain a richer sense of touch, and allows surgical systems to distinguish healthy from abnormal tissue by reading fine pressure signatures. The technology integrates sensing directly into the material, addressing the traditional trade-off between high-resolution systems requiring heavy computation and faster systems sacrificing spatial detail.",
+      "summary_zh": "伦敦玛丽女王大学的工程师（包括博士后研究员Giacomo Sasso与詹姆斯·巴斯菲尔德教授，以及来自意大利多所大学的合作者）发明了一种新型变色触觉传感器，使机器人能够实时感知触觉与视觉。 该传感器通过将无形的作用力转化为动态的色彩图案，无需复杂的重建算法即可即时生成接触、应变和压力的的高分辨率图。 当压力施加于柔软的传感表面时，材料会产生空间变化的结构色，并通过标准低成本USB摄像头立即捕捉。 这使得机器人抓手能够以高精度装配微型组件，帮助外部假肢获得更丰富的触觉，并使手术系统能够通过读取材料色彩响应中的精细压力特征来区分健康组织与异常组织。 该技术将传感直接嵌入材料本身，解决了传统高分辨率系统需要繁重计算与快速系统牺牲空间细节之间的权衡问题。"
     },
     {
-      "date": "2026.10.29",
-      "published_at": "2026-10-29T17:00:03+09:00",
-      "headline": "Thinker、フィジカルAIの現在地を読み解く無料ウェビナーを11/12に開催 ロボットハンド技術などを解説",
-      "source": "ロボスタ",
-      "url": "https://robotstart.info/article/2026/10/29/382581.html",
-      "language": "Japanese",
+      "date": "2026.10.30",
+      "published_at": "2026-10-30T20:25:00+09:00",
+      "headline": "China's AGILINK dexterous hand runs 72-step production line at Wolong's Shaoxing plant, 8.5 minutes per cycle nears skilled-worker pace",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/a31701fd-e3ce-492c-a591-5fce6d0c3516",
+      "language": "English",
       "section": "Global",
-      "summary": "株式会社Thinkerは、2026年11月12日に無料オンラインセミナー「フィジカルAIの現在地と社会実装への課題」を開催することを発表した。 登壇者は同社Co-Founderで大阪大学大学院基礎工学研究科招聘准教授の小山佳祐氏。 セミナーでは、デモと実運用の間の「実装の壁」を背景に、自律性、シミュレーション、ハードウェアの3つの観点から課題を分析し、ロボットハンド技術とAIの融合による自動化の可能性について解説する。 また、ロボスタが主催する山田太郎参議院議員、竹中透氏、ugoの松井健CEOが登壇する関連オンラインセミナーの予定も紹介されている。",
-      "summary_zh": "株式会社 Thinker 宣布将于 2026 年 11 月 12 日举办免费在线研讨会“具身体AI的当前现状与社会实施课题”。 主讲人为该公司联合创始人、大阪大学研究生院基础工学研究科特聘副教授小山佳祐。 研讨会以演示和实际应用之间的“实施之壁”为背景，从自主性、模拟和硬件三个观点分析课题，并解说机器人手部技术与人工智能融合带来的自动化可能性。 此外，文中还介绍了由罗博斯塔（Robosta）主办的、邀请参议院议员山田太郎、竹中透以及 ugo 公司 CEO 松井健登台的其他相关在线研讨会安排。"
+      "summary": "On October 29 at the dexterous-manipulation forum of Zhiyuan Innovation Day, Chinese embodied-AI company AGILINK disclosed validation results for its OmniHand dexterous hand at a proof-of-concept workstation on Wolong Electric's Shaoxing production line. The hand completed 72 consecutive process steps autonomously, taking 8.5 minutes per cycle with a 98% task success rate and the ability to run continuously for 8 hours, which is 30 seconds slower than a skilled worker's roughly 8-minute pace. The process was handled by a single robotic arm and dexterous hand without real-time human intervention, including flexible assembly, barcode scanning, screw fastening using a screw gun, testing-equipment button pressing, and part unloading. Screw fastening presented a major challenge requiring sub-millimeter alignment precision to handle anti-loosening screw wobble and tool recoil. AGILINK chose a five-fingered dexterous hand over grippers to manage multiple operations consecutively. The setup used real-machine reinforcement learning and the Omni-Maestro industrial deployment agent framework for process verification and failure rollback. CEO Qiao Tianjie noted this marks a shift from development mode to deployment mode, while chief embodied scientist Huang Bidan highlighted the data shortfall in current models relying on pure-vision datasets.",
+      "summary_zh": "10月29日，在智元创新日灵巧操作论坛上，中国具身智能公司临界点（AGILINK）披露了其OmniHand灵巧手在卧龙电气绍兴生产线概念验证工位上的验证结果。 该灵巧手自主完成了72个连续工序步骤，单次循环耗时8.5分钟，任务成功率达98%，能够连续运行8小时，该循环周期仅比熟练工人的约8分钟慢30秒。 整个过程由单台机械臂搭配单只灵巧手在无实时人工干预下完成，涵盖柔性装配、条形码扫描、使用螺丝枪紧固螺丝、按压测试设备按钮及零件卸载。 拧螺丝面临重大挑战，需要亚毫米级的对齐精度以应对防松螺丝晃动与工具反作用力。 临界点最终选择五指灵巧手而非夹爪来连续执行多类操作。 该系统借助真机强化学习及Omni-Maestro工业部署智能体框架来进行工序验证和故障回滚。 CEO乔天杰指出这标志着从开发模式向部署模式的转变，首席具身科学家黄碧丹则指出了当前依赖纯视觉数据集的模型中存在的数据短缺问题。"
     }
   ]
 }
