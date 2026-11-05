@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-05T03:36:57.667360+09:00",
+  "updated_at": "2026-11-05T12:27:13.091054+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-05T03:36:57.667360+09:00",
-    "latest_article_at": "2026-11-05T02:30:00+09:00",
+    "checked_at": "2026-11-05T12:27:13.091054+09:00",
+    "latest_article_at": "2026-11-05T11:10:00+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -13,19 +13,30 @@
       "Humanoid Robotics": 5
     },
     "shortfalls": {},
-    "translations_missing": 3
+    "translations_missing": 10
   },
   "articles": [
     {
-      "date": "2026.11.04",
-      "published_at": "2026-11-04T06:20:00+09:00",
-      "headline": "Boston Dynamics' Stretch Gen 2 cuts robot repair time to just one hour",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/boston-dynamics-stretch-gen-2-robot",
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T07:00:37+09:00",
+      "headline": "UnternehmerTUM Accelerator, Microsoft, Infineon, and NVIDIA launch Physical AI growth lab for Europe's most promising startups",
+      "source": "DQ",
+      "url": "https://www.dqindia.com/semiconductors/unternehmertum-accelerator-microsoft-infineon-and-nvidia-launch-physical-ai-growth-lab-for-europes-most-promising-startups-12770865",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Boston Dynamics unveiled Stretch Gen 2, an autonomous robot designed to unload trailers and reduce maintenance downtime in high-volume logistics operations. The upgraded robot features 81 percent less internal cabling, a redesigned gripper, improved sensing, and modular components to prevent mechanical and electrical faults. According to Vice President Brian Donnelly, the Gen 2 platform is engineered for easier servicing, reducing a complete swerve drive replacement from an entire day to about one hour. Running on a redesigned computing platform that supports continuous software improvements, the robot can unload up to 1,000 cases per hour, features a battery lasting two work shifts, and is equipped with onboard lighting and a pre-trained vision system.",
-      "summary_zh": "Boston Dynamics推出了Stretch Gen 2，这是一款旨在卸载挂车并减少高吞吐量物流运营中维护停机时间的新一代自主机器人。 升级后的机器人内部电缆减少了81%，并改进了抓取器、传感和模块化组件，以防止机械和电气故障。 物流机器人副总裁Brian Donnelly表示，Gen 2平台旨在更易于维护，将完整的转向驱动更换时间从整整一天缩短至大约一小时。 该机器人运行在支持持续软件改进的重新设计计算平台上，每小时最多可卸载1,000箱货物，电池可持续使用两个工作班次，并配备了机载照明和预训练视觉系统。"
+      "summary": "UnternehmerTUM Accelerator, Microsoft, Infineon, and NVIDIA, have launched the Physical AI Growth Lab, an equity-free accelerator for Europe's most promising physical AI, robotics, and industrial AI startups. Running from January to April 2027, the program combines expertise, infrastructure, capital access, and enterprise networks to help founders scale.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T05:00:00+09:00",
+      "headline": "Building the 'World' Robots Will Learn From… Korean 3D Company Catches NVIDIA's Eye",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/en/future/2026/11/05/2026102016523357821",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "[For more diverse corporate information on the startup featured in this article, please visit the \"Data Lab\" section of the Unicorn Factory big data platform 'Data Lab'. ] Robots must go through millions of trial-and-error cycles before they can finally master a single movement. The problem is that these failures cannot be tolerated in the real world. If a humanoid robot worth hundreds of millions of won falls over, its hardware may break and an operator standing nearby could get injured.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.04",
@@ -35,19 +46,8 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/livex-unveils-ai-city-bringing-151400242.html",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "At the Smart City Expo World Congress in Barcelona, LiveX announced AI City, a platform integrating artificial intelligence into physical environments through life-size, human-like AI Hosts powered by NVIDIA technologies. Deployed in over 100 customer sites—including PUMA stores, San José Mineta International Airport, SAP Center, El Camino Hospital, and Marriott and Hilton hotels—the AI Hosts provide interactive navigation, personalized recommendations, and conversational assistance. Co-founder, President, and Chief AI Officer Jia Li noted that the system aims to meet people in person across retail, technology, hospitality, and entertainment industries. The AI City setup introduces interactive 3D maps, multilingual translation, and a Physical AI Host experience powered by Lyra.",
-      "summary_zh": "在巴塞罗那举行的全球智慧城市博览会上，LiveX宣布推出AI City，该平台通过由NVIDIA技术支持的真人大小的AI主持人，将人工智能直接引入现实物理环境中。 LiveX AI City主持人已部署在100多个客户站点，包括PUMA门店、圣何塞米内塔国际机场、SAP中心、埃尔卡米诺医院以及万豪和希尔顿酒店，提供交互式导航、个性化推荐和对话协助。 联合创始人、总裁兼首席副总裁Jia Li表示，该系统旨在零售、技术、酒店和娱乐行业中与人们面对面交流。 AI City引入了一套集成产品功能，包括用于位置感知导航的交互式3D地图、3D产品推荐以及由Lyra支持的Physical AI Host体验。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T22:28:00+09:00",
-      "headline": "Video: Figure’s new humanoid robot workforce takes first steps outside US factory",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "U. S. robotics firm Figure shared a video showing newly manufactured Figure 03 humanoid robots walking out of its BotQ manufacturing facility and moving across the company's campus. Founder Brett Adcock stated the machines were newly manufactured units but did not disclose production numbers, delivery figures, destination, or whether they walked autonomously or under remote supervision. The latest footage follows previous milestones, including completing a 348-mile treadmill test, producing over 350 units in March, and reaching its 1,000th humanoid in July. Introduced in October 2025, Figure 03 features upgraded cameras, embedded palm cameras, tactile fingertip sensors, wireless inductive charging, and the Helix vision-language-action AI system.",
-      "summary_zh": "美国机器人公司Figure分享了一段视频，展示了刚制造完成的Figure 03人形机器人走出其BotQ制造工厂并在公司园区内移动。 创始人布雷特·阿德考克表示这些是新制造的机器，但未披露产量、交付数据、目的地，也没有说明它们是自主行走还是在远程监控下移动。 这段最新画面发布前，该公司曾达成多项里程碑，包括完成348英里跑步机测试、3月产量超过350台以及7月达到第1000台人形机器人下线。 Figure 03于2025年10月推出，配备了升级版摄像头、嵌入式手掌摄像头、指尖触觉传感器、无线感应充电功能以及Helix视觉-语言-动作人工智能系统。"
+      "summary": "Powered by NVIDIA technologies, LiveX delivers an interactive navigation, personalized recommendations and conversational assistance to help people find their way and access information in airports, hospitals, retail stores and public venues. BARCELONA, Spain, November 03, 2026--(BUSINESS WIRE)--At Smart City Expo World Congress in Barcelona, LiveX announces AI City, which brings artificial intelligence directly into everyday physical environments through life-size, human-like AI Hosts.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.03",
@@ -57,30 +57,52 @@
       "url": "https://www.tradingview.com/news/seekingalpha:52490fbc2094b:0-the-only-u-s-pure-play-humanoid-robotics-stock-begins-trading-this-week/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Shareholders of Churchill Capital Corp XI approved a business combination with Agility Robotics, expected to provide approximately $465M in gross capital before expenses. The funding includes about $164M from the trust account, around $201M from a common stock PIPE at $10 per share led by Foxconn, and $100M in prior equity funding. Agility is expected to be the only U. S. publicly listed pure-play humanoid robotics company with active commercial deployments, with trading starting November 5. Founded in 2015 from Oregon State University, Agility transitioned from research robots like Cassie and Digit to material-handling jobs, led by CEO Peggy Johnson. The company has reported commercial deployments with GXO Logistics, Schaeffler, Toyota Motor Manufacturing Canada, and MercadoLibre, and competes with companies like Figure AI, Tesla's Optimus program, and Boston Dynamics.",
-      "summary_zh": "丘吉尔资本十一号（Churchill Capital Corp XI）的股东批准了与Agility Robotics的业务合并，预计在扣除费用前将获得约$465M的毛资本。 这笔资金包括来自信托账户的约$164M、由富士康领投的以每股$10发行的普通股PIPE的约$201M，以及已收到的$100M股权融资。 Agility预计将成为美国唯一一家拥有成熟、活跃商业部署的上市纯人形机器人公司，交易预计于11月5日开始。 Agility于2015年从俄勒冈州立大学动态机器人实验室创立，在CEO佩吉·约翰逊的带领下，从Cassie和Digit等研究机器人转向实际的物料搬运工作。 该公司已报告了与GXO Logistics、舍弗勒、加拿大丰田汽车制造公司和美客多的商业部署，并与Figure AI、特斯拉的Optimus计划以及波士顿动力等公司在人形机器人市场上展开竞争。"
+      "summary": "The only U. S. pure-play humanoid robotics stock begins trading this week Shareholders of Churchill Capital Corp XI CCXI approved the business combination with Agility Robotics, a leading humanoid robotics and physical AI company. Agility's gross capital raise in connection with the proposed business combination and related financings is expected to be approximately $465M, before transaction expenses.",
+      "summary_zh": ""
     },
     {
-      "date": "2026.11.04",
-      "published_at": "2026-11-04T08:59:06+09:00",
-      "headline": "Boston Dynamics Unveils Stretch Gen 2 Autonomous Trailer-Unloading Robot",
-      "source": "AI Insider",
-      "url": "https://theaiinsider.tech/2026/11/03/boston-dynamics-unveils-stretch-gen-2-autonomous-trailer-unloading-robot/",
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T09:21:30+09:00",
+      "headline": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Boston Dynamics unveiled Stretch Gen 2, an upgraded autonomous trailer-unloading robot designed to reduce downtime, simplify maintenance, and improve reliability in warehouses and distribution centers. Drawing on over 100,000 operating hours from its predecessor, the redesigned robot features modular components, heavy-duty automotive-grade connectors, an 81% reduction in internal cabling, continuous rotation joints, and an improved gripper with precise sensors. Stretch Gen 2 can unload up to 1,000 cases per hour, supports a multipick feature, operates for two shifts on a battery that fast-charges to 90% in about 75 minutes, and includes built-in lighting and onboard computing supporting regular software updates.",
-      "summary_zh": "波士顿动力推出了Stretch Gen 2，这是一款升级版的自主拖车卸货机器人，旨在减少停机时间、简化维护并提高仓库和分销中心的可靠性。 该重新设计的机器人借鉴了上一代产品超过100,000小时的运行时间，采用了模块化组件、重型汽车级连接器、减少了81%内部布线、连续旋转关节以及带有精密传感器的改进型夹持器。 Stretch Gen 2每小时可卸载多达1,000个箱子，支持多重抓取功能，电池可支持两班倒作业并通过快充在约75分钟内恢复至90%的电量，同时配备内置照明和支持常规软件更新的车载计算平台。"
+      "summary": "Agility Robotics has cleared a major hurdle in its planned initial public offering (IPO). Shareholders of Churchill Capital Corp XI approved the special purpose acquisition company’s (SPAC) proposed business combination with the humanoid developer, moving Agility closer to becoming a publicly-traded company. More than 84% of votes cast at a special shareholder meeting on Nov.",
+      "summary_zh": ""
     },
     {
-      "date": "2026.11.04",
-      "published_at": "2026-11-04T21:37:15+09:00",
-      "headline": "优必选焦继超乌镇重申人形机器人价值：唯一能复刻人类全场景劳动能力，更具通用性",
-      "source": "www.caiwennews.com",
-      "url": "https://www.caiwennews.com/article/1685469.shtml",
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T11:10:00+09:00",
+      "headline": "别等了，人形机器人拿不到「大结果」了？",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571378.shtml",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "优必选执行总裁兼具身智能与人形机器人研究院院长焦继超在2026年世界互联网大会乌镇峰会机器人与具身智能论坛上表示，人形机器人具备模型迭代能力，对外部环境改造要求极低，是实现未来工业制造人形化生产的重要解决方案。 他指出，传统自动化设备属于依赖预编程的专用设备，产线要求高且部署效率低，而人形机器人及轮式、双足具身机器人硬件结构具有通用性，通过更换灵巧手或二次压爪等执行器即可实现不同工位切换和手腿一体化作业。 优必选成立于2012年，总部位于深圳，于2023年12月在港交所主板上市，创始人、董事会主席兼CEO周剑坚持全栈自研路线，布局工业制造、商用服务和家庭陪伴三大场景。",
-      "summary_zh": "优必选执行总裁兼具身智能与人形机器人研究院院长焦继超在2026年世界互联网大会乌镇峰会机器人与具身智能论坛上表示，人形机器人具备模型迭代能力，对外部环境改造要求极低，是实现未来工业制造人形化生产的重要解决方案。 他指出，传统自动化设备属于依赖预编程的专用设备，产线要求高且部署效率低，而人形机器人及轮式、双足具身机器人硬件结构具有通用性，通过更换灵巧手或二次压爪等执行器即可实现不同工位切换和手腿一体化作业。 优必选成立于2012年，总部位于深圳，于2023年12月在港交所主板上市，创始人、董事会主席兼CEO周剑坚持全栈自研路线，布局工业制造、商用服务和家庭陪伴三大场景。"
+      "summary": "在人形机器人最热的时候，几乎所有人都觉得，一个新的生产力时代，仿佛近在咫尺。 舞台上的一次亮相，视频里的一段后空翻，都能让这个行业的想象力再往上走一点。 创业者想做出下一个科技巨头，投资人期待一个足以重塑经济格局的新产业，普通人则畅想，一个人机共生的世界，会是什么模样。 融资、估值、上市，围绕人形机器人的财富故事，一轮接着一轮。 对于其中一些参与者来说，甚至已经提前拿到了属于自己的“大结果”。 那时，人们几乎已经相信，人形机器人马上就要从科幻走进现实了。 一个崭新的时代，仿佛只差最后几步。 但从台前走进现实，事情并不顺利。 舞台从晚会搬进了现实，人形机器人也从屏幕里走到了人们面前，动作越来越复杂，表演越来越熟练，但人与机器的关系，却仍停留在观看、拍摄和短暂互动。 我们期待的，是生产力的跃迁、劳动方式的重塑，以及一个人与机器共同生活的新世界。",
+      "summary_zh": "在人形机器人最热的时候，几乎所有人都觉得，一个新的生产力时代，仿佛近在咫尺。 舞台上的一次亮相，视频里的一段后空翻，都能让这个行业的想象力再往上走一点。 创业者想做出下一个科技巨头，投资人期待一个足以重塑经济格局的新产业，普通人则畅想，一个人机共生的世界，会是什么模样。 融资、估值、上市，围绕人形机器人的财富故事，一轮接着一轮。 对于其中一些参与者来说，甚至已经提前拿到了属于自己的“大结果”。 那时，人们几乎已经相信，人形机器人马上就要从科幻走进现实了。 一个崭新的时代，仿佛只差最后几步。 但从台前走进现实，事情并不顺利。 舞台从晚会搬进了现实，人形机器人也从屏幕里走到了人们面前，动作越来越复杂，表演越来越熟练，但人与机器的关系，却仍停留在观看、拍摄和短暂互动。 我们期待的，是生产力的跃迁、劳动方式的重塑，以及一个人与机器共同生活的新世界。"
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T09:54:17+09:00",
+      "headline": "宇树王兴兴：明年大概率是机器人行业的临界点",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103425503.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月4日，宇树科技创始人王兴兴在2026年世界互联网大会乌镇峰会上表示，2027年大概率是机器人行业的临界点。 他指出，目前机器人数据利用率偏低，大量数据被浪费。 全球头部大模型公司已实现自进化循环，即AI自主采集数据、训练和迭代，人类主要价值在于“打分”和设置目标。 王兴兴认为具身智能的“GPT时刻”是机器人在约80%的陌生场景中通过语音指令完成约80%的任务，当前顶尖模型距离此目标已非常接近，但仍存在物理接触和触觉理解不足这一“最后几毫米”的技术障碍，预计未来一至三年可解决。 同期，宇树科技股价盘中一度上涨超过8%。",
+      "summary_zh": "11月4日，宇树科技创始人王兴兴在2026年世界互联网大会乌镇峰会上表示，2027年大概率是机器人行业的临界点。 他指出，目前机器人数据利用率偏低，大量数据被浪费。 全球头部大模型公司已实现自进化循环，即AI自主采集数据、训练和迭代，人类主要价值在于“打分”和设置目标。 王兴兴认为具身智能的“GPT时刻”是机器人在约80%的陌生场景中通过语音指令完成约80%的任务，当前顶尖模型距离此目标已非常接近，但仍存在物理接触和触觉理解不足这一“最后几毫米”的技术障碍，预计未来一至三年可解决。 同期，宇树科技股价盘中一度上涨超过8%。"
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T09:20:45+09:00",
+      "headline": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2450388",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "8月10日，宇树科技正式开启申购，发行价格为150.80元/股，发行股份数量为4044.6434万股，对应上市市值约为609.93亿元，预计募集资金总额约60.99亿元。 网上最终发行数量为970.7000万股，中签率为0.01809759%，中签结果将于8月12日揭晓，预计8月下旬挂牌上市。 王兴兴表示公司2025年已实现人形机器人出货量全球第一。 2023至2025年宇树累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%。 2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 发行前王兴兴持股超33%，美团、小米、腾讯、阿里、字节及多家国资和上市公司通过基金间接参股。",
+      "summary_zh": "8月10日，宇树科技正式开启申购，发行价格为150.80元/股，发行股份数量为4044.6434万股，对应上市市值约为609.93亿元，预计募集资金总额约60.99亿元。 网上最终发行数量为970.7000万股，中签率为0.01809759%，中签结果将于8月12日揭晓，预计8月下旬挂牌上市。 王兴兴表示公司2025年已实现人形机器人出货量全球第一。 2023至2025年宇树累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%。 2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 发行前王兴兴持股超33%，美团、小米、腾讯、阿里、字节及多家国资和上市公司通过基金间接参股。"
     },
     {
       "date": "2026.11.04",
@@ -90,41 +112,52 @@
       "url": "https://cn.chinadaily.com.cn/a/202611/04/WS6aeb0e1de4b0e14252fc9340.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "11月4日，2026年世界互联网大会乌镇峰会机器人与具身智能论坛在浙江乌镇举行，优必选执行总裁兼具身智能与人形机器人研究院院长焦继超发表主旨演讲。 焦继超表示，优必选坚持在真实场景中进行规模化落地，自2012年成立以来已实现8次产品迭代，今年推出了最新全尺寸商用人形机器人，最新一代工业具身机器人S3也将于本月发布。 优必选构建了软件和硬件全栈自研的整体解决方案，涵盖Thinker具身通用模型，在接入Thinker操作模型后系统操作效率提升10倍以上。 优必选已推出全球首款自主换电的长续航解决方案，并在柳州与英伟达、西门子联合打造了全球首个万台级产能的超级机器人工厂，实现每10分钟下线一台人形机器人，以支撑明年的规模化交付。",
-      "summary_zh": "11月4日，2026年世界互联网大会乌镇峰会机器人与具身智能论坛在浙江乌镇举行，优必选执行总裁兼具身智能与人形机器人研究院院长焦继超发表主旨演讲。 焦继超表示，优必选坚持在真实场景中进行规模化落地，自2012年成立以来已实现8次产品迭代，今年推出了最新全尺寸商用人形机器人，最新一代工业具身机器人S3也将于本月发布。 优必选构建了软件和硬件全栈自研的整体解决方案，涵盖Thinker具身通用模型，在接入Thinker操作模型后系统操作效率提升10倍以上。 优必选已推出全球首款自主换电的长续航解决方案，并在柳州与英伟达、西门子联合打造了全球首个万台级产能的超级机器人工厂，实现每10分钟下线一台人形机器人，以支撑明年的规模化交付。"
+      "summary": "11月4日，2026年世界互联网大会乌镇峰会机器人与具身智能论坛举行，优必选执行总裁兼具身智能与人形机器人研究院院长焦继超发表主旨演讲。 优必选坚持在真实场景中进行规模化落地，布局工厂、商业和家庭情感陪伴领域。 他指出人形机器人能解决工业自动化预编程、对产线要求高、部署效率低等柔性化难题。 优必选自2012年成立以来已实现8次产品迭代，构建了软件和硬件全栈自研的整体解决方案，涵盖Thinker具身模型等。 公司已实现千台级机器人的交付，并在柳州与英伟达、西门子打造了全球首个万台级产能的超级机器人工厂，每10分钟下线一台人形机器人，支撑明年可规模化交付。",
+      "summary_zh": "11月4日，2026年世界互联网大会乌镇峰会机器人与具身智能论坛举行，优必选执行总裁兼具身智能与人形机器人研究院院长焦继超发表主旨演讲。 优必选坚持在真实场景中进行规模化落地，布局工厂、商业和家庭情感陪伴领域。 他指出人形机器人能解决工业自动化预编程、对产线要求高、部署效率低等柔性化难题。 优必选自2012年成立以来已实现8次产品迭代，构建了软件和硬件全栈自研的整体解决方案，涵盖Thinker具身模型等。 公司已实现千台级机器人的交付，并在柳州与英伟达、西门子打造了全球首个万台级产能的超级机器人工厂，每10分钟下线一台人形机器人，支撑明年可规模化交付。"
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T10:59:44+09:00",
+      "headline": "植根产业 科教共生：兴元科技AI零售机器人亮相第88届中国教育装备展",
+      "source": "中华网",
+      "url": "https://tech.china.com/articles/20261105/202611051973675.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "10月30日至11月1日，第88届中国教育装备展示会在长沙国际会展中心举办。 兴元科技受邀携双臂具身智能机器人、AI综合实验箱、复合式移动机器人及院校定制级现磨咖啡机等多款核心产品参展，面向院校与职教机构展示机器人硬件、实训体系与无人零售场景一体化解决方案。 兴元科技与湘江实验室共建数智无人零售创新研究院，依托自研数智零售AI大模型建成行业首个数智零售AI机器人训练中心。 此外，由兴元科技联合湘潭大学共建的“服务消费机器人-消费零售场景”成功入选2026年湖南省智能机器人产业链典型应用场景拟认定名单。",
+      "summary_zh": "10月30日至11月1日，第88届中国教育装备展示会在长沙国际会展中心举办。 兴元科技受邀携双臂具身智能机器人、AI综合实验箱、复合式移动机器人及院校定制级现磨咖啡机等多款核心产品参展，面向院校与职教机构展示机器人硬件、实训体系与无人零售场景一体化解决方案。 兴元科技与湘江实验室共建数智无人零售创新研究院，依托自研数智零售AI大模型建成行业首个数智零售AI机器人训练中心。 此外，由兴元科技联合湘潭大学共建的“服务消费机器人-消费零售场景”成功入选2026年湖南省智能机器人产业链典型应用场景拟认定名单。"
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T10:00:03+09:00",
+      "headline": "コンビニ向けフィジカルAIロボットを披露 CP AI Roboticsが2027年商用化へ、日本進出戦略をCEOに聞く",
+      "source": "ロボスタ",
+      "url": "https://robotstart.info/article/2026/11/05/382596.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "CP AI Roboticsは、2026年10月8日～9日に東京国際フォーラムで開催された展示会「RETAIL EXPO Tokyo 2026」（第22回アジア太平洋小売業者大会「APRCE TOKYO 2026」に併催）で、小売業向けフィジカルAIソリューションと新型ロボットを発表した。 同社の最大の特徴の一つが、タイの大手複合企業CP Groupの小売事業基盤を持っていること。 CP Groupは、タイ国内のセブンイレブン（7-Eleven）約16,500店舗、Lotus's 2,300店舗以上、Makro 160店舗以上などを運営している。 CP AI Roboticsは、これらのCP Groupの店舗網を活用した実証や運用データの収集を視野に入れており、実店舗で得られるデータをAIモデルの改善に生かす考えだ。 CP AI Roboticsは日本法人の名称で、グローバルに展開するロボットブランドは「CP Robotics」となっている。",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T09:50:02+09:00",
+      "headline": "距離を越えて、授業にも、家族の時間にも参加できる。アサヒ電子、卓上型AIテレプレゼンスロボット「kubi 2.0」の試作から国内量産まで参画",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000187240.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "距離を越えて、授業にも、家族の時間にも参加できる。 アサヒ電子、卓上型AIテレプレゼンスロボット「kubi 2.0」の試作から国内量産まで参画 人と社会をつなぐAIテレプレゼンスロボットを国内製造。 NEW FACTORYが目指す「ものづくり」の新しいかたち。 開発・設計から量産まで、両社の強みを掛け合わせて社会課題の解決へ。 アサヒ電子株式会社（本社：福島県伊達市、代表取締役社長：菅野寿夫、以下「アサヒ電子」）は、iPresence株式会社（本社：兵庫県神戸市、代表取締役社長：クリストファーズ クリスフランシス、以下「iPresence」）が企画・開発し、2026年10月15日に発売した卓上型AIテレプレゼンスロボット「kubi 2.0」の開発に、試作段階から参画しました。 アサヒ電子は、iPresenceと試作・改良を重ねながら、量産に向けたハードウェアの設計と国内製造を担いました。",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.04",
-      "published_at": "2026-11-04T18:14:53+09:00",
-      "headline": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2450388",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "宇树科技于8月10日正式开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元，网上发行最终中签率为0.01809759%，预计募集资金总额约60.99亿元，用于智能机器人模型研发、本体研发、产品开发及制造基地建设等项目。 董事长、总经理兼首席技术官王兴兴表示，公司2025年已实现人形机器人出货量全球第一。 评级与评论人士指出，宇树科技上市标志着人形机器人产业从叙事驱动进入分层定价阶段。 公司2023至2025年累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%，2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 创始人王兴兴持股比例超33. %，美团、阿里、腾讯、字节跳动及多方国资与产业资本参与持股或战略配售。 宇树科技预计将于8月下旬正式挂牌上市。",
-      "summary_zh": "宇树科技于8月10日正式开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元，网上发行最终中签率为0.01809759%，预计募集资金总额约60.99亿元，用于智能机器人模型研发、本体研发、产品开发及制造基地建设等项目。 董事长、总经理兼首席技术官王兴兴表示，公司2025年已实现人形机器人出货量全球第一。 评级与评论人士指出，宇树科技上市标志着人形机器人产业从叙事驱动进入分层定价阶段。 公司2023至2025年累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%，2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 创始人王兴兴持股比例超33. %，美团、阿里、腾讯、字节跳动及多方国资与产业资本参与持股或战略配售。 宇树科技预计将于8月下旬正式挂牌上市。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T08:55:00+09:00",
-      "headline": "优必选发布具身智能仿真平台Thinker-Sim 物理AI及数据采集再迎催化",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2523187",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "优必选Thinker-Sim具身智能仿真平台正式发布，旨在应对真实数据采集成本高、仿真环境构建复杂及算法验证周期长等行业痛点，构建了覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。 国盛证券研报指出，物理AI进阶，数据采集先行，数据采集为VLA等具身大模型提供训练原料，是构建数据飞轮和支撑商业闭环的基础。 相关上市公司中，华依科技的IMU相关产品可输出连续无遮挡运动时序数据以弥补纯视觉方案短板，开普云则与天津南开启航数据运营管理有限公司签订合同，提供灵巧手多模态数据采集系统配套平台及相关技术服务。",
-      "summary_zh": "优必选Thinker-Sim具身智能仿真平台正式发布，旨在应对真实数据采集成本高、仿真环境构建复杂及算法验证周期长等行业痛点，构建了覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。 国盛证券研报指出，物理AI进阶，数据采集先行，数据采集为VLA等具身大模型提供训练原料，是构建数据飞轮和支撑商业闭环的基础。 相关上市公司中，华依科技的IMU相关产品可输出连续无遮挡运动时序数据以弥补纯视觉方案短板，开普云则与天津南开启航数据运营管理有限公司签订合同，提供灵巧手多模态数据采集系统配套平台及相关技术服务。"
-    },
-    {
-      "date": "2026.11.04",
-      "published_at": "2026-11-04T21:47:46+09:00",
-      "headline": "从Agent到机器人，乌镇探讨AI治理中国方案",
-      "source": "Jiemian.com",
-      "url": "https://www.jiemian.com/article/15294472.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "界面新闻记者 | 界面新闻编辑 | 文姝琪 过去，围绕大模型的安全讨论，更多集中在内容失实、算法偏见、隐私泄露等问题上。 如今，随着Agent（智能体）开始代替用户下单、支付、调用软件，机器人逐步进入工厂和公共场所，AI不仅能够生成信息，还开始参与决策、执行任务。 一旦发生错误，影响可能直接进入现实生活。 如何让AI在不断提升自主能力的同时，始终处于人的控制之下，正在成为全球科技企业与研究机构共同面对的问题，这也是2026年世界互联网大会乌镇峰会关注的重要议题之一。 界面新闻记者在乌镇峰会期间采访和交流发现，如今行业关注的不只是AI会不会生成错误答案，还包括Agent使用账户是否经过授权、执行任务时会不会越权，以及出现问题后由谁负责。 一些企业也开始探索“用AI治理AI”的技术路径。 “你让我为什么要把我的银行账号、把我的密码告诉这个Agent呢？",
-      "summary_zh": "界面新闻记者 | 界面新闻编辑 | 文姝琪 过去，围绕大模型的安全讨论，更多集中在内容失实、算法偏见、隐私泄露等问题上。 如今，随着Agent（智能体）开始代替用户下单、支付、调用软件，机器人逐步进入工厂和公共场所，AI不仅能够生成信息，还开始参与决策、执行任务。 一旦发生错误，影响可能直接进入现实生活。 如何让AI在不断提升自主能力的同时，始终处于人的控制之下，正在成为全球科技企业与研究机构共同面对的问题，这也是2026年世界互联网大会乌镇峰会关注的重要议题之一。 界面新闻记者在乌镇峰会期间采访和交流发现，如今行业关注的不只是AI会不会生成错误答案，还包括Agent使用账户是否经过授权、执行任务时会不会越权，以及出现问题后由谁负责。 一些企业也开始探索“用AI治理AI”的技术路径。 “你让我为什么要把我的银行账号、把我的密码告诉这个Agent呢？"
+      "published_at": "2026-11-04T15:01:08+09:00",
+      "headline": "ダルトン、スイスのストーブリと産業用ロボット事業で日本国内の総代理店契約を締結",
+      "source": "Dellows News",
+      "url": "https://news.dellows.jp/494022/",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "ダルトン、スイスのストーブリと産業用ロボット事業で日本国内の総代理店契約を締結 株式会社イトーキのグループ会社である株式会社ダルトンは、スイスの産業用ロボットメーカーSTÄUBLI（ストーブリ）と、同社グループの日本国内における産業用ロボット事業について総代理店契約を2026年9月28日に締結しました。 自社の無菌・封じ込め技術とストーブリのロボットを融合し、国内の製薬企業や半導体装置メーカー、食品加工機械メーカーなどに向けた自動化ソリューションの展開を加速させます。 無菌設備とロボットを融合した自動化ソリューションを展開 ストーブリは、製薬・ライフサイエンス、半導体、自動車産業、食品加工など高い品質管理が求められる分野に向けて産業用ロボットを世界展開しています。 人の腕に近い動きができる6軸ロボットは約35年の歴史を持ち、過酸化水素除染への耐性やFDA（アメリカ食品医薬品局）基準への適合が求められる製薬・ライフサイエンス分野向け製品に強みがあります。",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.03",
@@ -139,17 +172,6 @@
     },
     {
       "date": "2026.11.02",
-      "published_at": "2026-11-02T07:53:38+09:00",
-      "headline": "国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地に",
-      "source": "Ledge.ai",
-      "url": "https://ledge.ai/articles/docomo_kddi_physical_ai",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "ビジネス 2026/11/2 [MON] 国内通信企業がフィジカルAIの実装へ ドコモは人に「配慮」するロボット連携基盤、KDDIは大阪・堺をAI実装の発進基地に クリップ機能を活用しましょう！ サインインした状態で「いいね」を押すと、マイページの 「いいね履歴」に一覧として保存されていくので、 再度読みたくなった時や、あとでじっくり読みたいときに便利です。 「いいね履歴」に一覧として保存されていくので、 再度読みたくなった時や、あとでじっくり読みたいときに便利です。 クリップ機能を活用しましょう！ サインインした状態で「いいね」を押すと、マイページの 「いいね履歴」に一覧として保存されていくので、 再度読みたくなった時や、あとでじっくり読みたいときに便利です。 「いいね履歴」に一覧として保存されていくので、 再度読みたくなった時や、あとでじっくり読みたいときに便利です。 More From Ledge. ai Ledge. ai 編集部 Ledge. ai編集部です。 最新のAI関連技術、テクノロジー、AIのビジネス活用事例などの情報を毎日発信しています。 関連記事 関連する記事が見つかりませんでした",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.02",
       "published_at": "2026-11-02T18:28:43+09:00",
       "headline": "日本発の水田抑草ロボット「アイガモロボ」、国連生物多様性COP17で発表。水田のメタン削減と生物多様性保全を両立する技術として各国政府に紹介 | 株式会社NEWGREENのプレスリリース",
       "source": "PR TIMES",
@@ -160,28 +182,6 @@
       "summary_zh": ""
     },
     {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T17:33:58+09:00",
-      "headline": "日本ストライカー、手術支援ロボット「Mako」で人工肩関節置換術が保険適用 国内初",
-      "source": "医療テックニュース",
-      "url": "https://medicaltech-news.com/medical-support/sr/13520/",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "米医療機器メーカーのストライカーの日本法人である日本ストライカーは11月2日、手術支援ロボット「Makoシステム」を使った人工肩関節置換術が11月1日付で保険適用になったと発表した。 ロボット支援による人工肩関節置換術の薬事承認と保険適用は国内初となる。 対象となる術式はリバース型人工肩関節置換術（RSA）で、9月に薬事承認を取得した対応アプリケーション「Mako Shoulder」を使用する。 CT画像データを基に作成した3D術前計画と位置情報を同期させ、医師の操作をロボットが補助して切削や人工関節の設置を支援する。 同社は肩関節の痛みの軽減や可動域の改善、術後のQOL向上が期待できるとしている。",
-      "summary_zh": "美国医疗器械制造商史 Stryker 的日本分公司日本 Stryker 于 11 月 2 日宣布，使用手术支援机器人 Mako 系统实施的人工肩关节置换术已于 11 月 1 日起获得医保适用。 这是日本国内首次批准机器人辅助人工肩关节置换术的药事审批及医保适用。 该手术针对反式人工肩关节置换术（RSA），使用于 9 月取得药事批准的配套应用程序 Mako Shoulder。 系统根据 CT 图像数据生成 3D 术前计划，并与位置信息同步，在手术中辅助医生的操作，支持切除病变部位及安装人工关节。 该公司表示，该手术有望减轻肩关节疼痛、改善活动范围并提升术后生活质量。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T15:18:48+09:00",
-      "headline": "【動画】SNS総再生数10億回超のロボット版MMA「REK」が日本上陸！ 2027年に東京へアジア初の常設拠点",
-      "source": "Sporting News JP",
-      "url": "https://www.sportingnews.com/jp/tsn/news/what-robot-combat-rek-japan-tokyo-arena/c5c0886de9ffd528dbb68d83",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "米国発のロボット格闘技団体「REK」を運営するREK Inc. は11月2日、東京にアジア初となる常設ロボット格闘技アリーナを開設する計画を発表した。 2027年第1四半期の開業を目指している。 ヒューマノイドロボットを人間が操縦して戦わせる競技で、総合格闘技やeスポーツの要素を組み合わせたスポーツエンターテインメントとして展開する。 東京で開催された「REK TOKYO 2026」のチケット完売や、米国での日本人パイロットの勝利、関連コンテンツのSNS総再生回数10億回超といった実績を背景に進出する。 常設アリーナにはリングや運営拠点を設け、観戦イベントのほかトレーニングや企業向けデモを計画しており、今後はシミュレーター大会の開催や身体の動きを反映させる操縦方式も構想している。",
-      "summary_zh": "运营源自美国的机器人格斗赛事组织 REK 的 REK Inc. 于 2026 年 11 月 2 日宣布了在东京开设亚洲首个常设机器人格斗竞技场的计划，力争在 2027 年第一季度开业。 该项目是由人类操纵人形机器人进行对战的竞技，旨在作为融合了综合格斗与电子竞技元素的体育娱乐项目进行推广。 进军日本的背景包括在东京举办的 REK TOKYO 2026 门票售罄、日本选手在美国获胜以及相关内容 SNS 总播放量突破 10 亿次等实绩。 常设竞技场将设置擂台与运营基地，计划举办观赛活动、进行培训及面向企业的演示，未来还构想举办模拟器比赛以及将人体运动反映到机器人身上的操纵方式。"
-    },
-    {
       "date": "2026.11.04",
       "published_at": "2026-11-04T14:17:17+09:00",
       "headline": "ヒューマノイドロボティクスの到達点と産業実装の現実：日本のFA・ロボット産業が採るべき競争戦略",
@@ -189,41 +189,41 @@
       "url": "https://note.com/itlawyer/n/n0caafbb6ea13",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Global robotics has shifted toward Embodied AI and humanoid development, driven by VLA and world foundation models. While US companies focus on factory KPI validation and RaaS, Chinese firms scale production under government policy. However, hardware bottlenecks like contact mechanics, heat dissipation, short battery life, multi-finger hand durability, and the Sim-to-Real gap create physical challenges that hinder continuous industrial deployment.",
-      "summary_zh": "全球机器人产业正从生成式AI转向身体性AI，人形机器人在中美两国加速发展。 VLA模型与世界基盘模型提升了机器人的自适应能力。 美国企业侧重工厂实证数据与KPI指标，中国企业则在政策推动下推进量产。 然而，硬件层面的接触力学、热设计、电池续航、多指灵巧手耐久性以及Sim-to-Real差距等物理限制，导致实验室演示与严苛工业现场的24小时连续运行之间仍存在结构性断层。"
+      "summary": "Global robotics is shifting from generative AI to physical AI, with US and Chinese companies racing to develop humanoid robots. Technological progress is driven by VLA models and world foundation models, enabling robots to handle natural language instructions and adapt to external disturbances. US firms like Figure AI, Agility Robotics, Tesla, and Apptronik focus on rigorous KPI metrics, while Chinese firms like UBTECH, AgiBot, and Unitree benefit from state policy and mass production. However, severe physical bottlenecks remain, including contact dynamics, thermal design, battery limitations, tactile sensor durability, and the Sim-to-Real gap, which exponentially increase development workloads. Industrial deployments in factories are largely restricted to static, local tasks rather than 24-hour continuous production.",
+      "summary_zh": "全球机器人产业正从生成式AI向具身AI转型，中美企业在人形机器人领域展开激烈竞争。 VLA模型与世界基盘模型的发展赋予机器人自主应对复杂环境的能力。 美国企业注重实施工厂实测与关键绩效指标，中国企业则在国家政策支持下推进量产与低价格化。 然而，物理世界的接触力学、热设计、电池密度、触控传感器耐久性及Sim-to-Real差距等硬件瓶颈显著增加了开发工数。 目前在工厂现场的实际应用多局限于局部的静止任务，距离全天候连续作业仍有较大差距。"
     },
     {
       "date": "2026.11.05",
-      "published_at": "2026-11-05T02:30:00+09:00",
-      "headline": "The SPAC Sponsor Behind Lucid and Oklo Is Taking Agility Robotics Public on Nov. 5. Here's What Those 2 Stocks Did in Their First 90 Days.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spac-sponsor-behind-lucid-oklo-173000022.html",
+      "published_at": "2026-11-05T11:06:00+09:00",
+      "headline": "Agility Robotics Debuts on Nasdaq as First US Humanoid IPO, Valued at $2.5 Billion",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/2ce35340-42e0-4678-8ceb-5a86cfae5229",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Agility Robotics, a developer of bipedal humanoid robots for warehouses and factories backed by Nvidia and Amazon, will go public on November 5 through a merger with SPAC Churchill Capital Corp XI under the ticker 'AGLT'. Agility generated $1.8 million in revenue in 2025 and holds a backlog over $300 million. It plans to deploy its first Digit v5 units by the end of 2026 and scale up deployments in subsequent years, though past SPAC-backed firms like Lucid faced severe targets shortfalls.",
-      "summary_zh": "仓储和制造工厂双足人形机器人开发商Agility Robotics将通过与特殊目的收购公司Churchill Capital Corp XI合并，于11月4日完成合并并在11月5日以股票代码“AGLT”在纳斯达克开始交易。 该公司背后有英伟达和亚马逊支持。 Agility在2025年仅产生180万美元收入，但拥有超过3亿美元的订单积压。 该公司计划在2026年底前部署首批Digit v5单元，并在未来几年扩大规模，不过历史上的其他SPAC上市企业曾出现严重未达成目标的情况。"
+      "summary": "Agility Robotics became the first US humanoid-robot maker to list on the Nasdaq under ticker AGLT after merging with Churchill Capital Corp XI, a SPAC led by Michael Klein. The deal values Agility's equity at roughly $2.5 billion and delivers about $465 million in gross proceeds, including $100 million in hand. In 2025, Agility booked $1.8 million in revenue and a net loss of $138.1 million while burning $99.8 million in cash. Its Digit robot operates in nine customer facilities, and the company has over $300 million in orders for its redesigned Digit 5, with initial deliveries targeted for the first half of 2027.",
+      "summary_zh": "Agility Robotics与迈克尔·克莱因领导的特殊目的收购公司Churchill Capital Corp XI完成合并，在纳斯达克上市，股票代码为AGLT，成为美国首家上市的人形机器人制造商。 该交易对Agility现有股权的估值约为25亿美元，预计提供约4.65亿美元的总收益。 该公司在2025年实现收入180万美元，净亏损1.381亿美元，现金消耗为9980万美元。 其Digit机器人已在九家客户设施中投入使用，并且该公司已获得针对重新设计的Digit 5超过3亿美元的订单，计划于2027年上半年开始首次交付。"
     },
     {
       "date": "2026.11.05",
-      "published_at": "2026-11-05T01:23:00+09:00",
-      "headline": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+      "published_at": "2026-11-05T10:12:00+09:00",
+      "headline": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Xiaomi released footage showing its humanoid robots working an 8-hour shift at its EV factory, sorting center console side covers autonomously. The company previously tested humanoids in March and July with rising success rates. In the new video, a humanoid upper body on a wheeled base also appeared. Xiaomi did not disclose specific part counts, success rates for the full shift, or power methods, prompting cautious industry responses regarding true autonomy.",
-      "summary_zh": "小米发布了一段视频，显示其人形机器人在电动汽车工厂完成了满负荷的8小时工作班次，自主分拣中控台侧盖。 该公司此前在3月和7月进行了测试，成功率不断提高。 在最新的视频中，还出现了一个安装在轮式底盘上的机器人上半部。 小米未披露具体的零件数量、整个班次的成功率或供电方式，这引发了业界对其实际自主能力的谨慎反应。"
+      "summary": "Oregon startup Agility Robotics went public on Nasdaq under the ticker AGLT following a merger with Churchill Capital Corp XI, a SPAC led by Michael Klein, valuing Agility's equity at about $2.5 billion. Financial disclosures showed $1.8 million in revenue and a $138.1 million net loss last year, with $99.8 million in cash used to run the business. Agility has deployed its Digit robot across nine customer facilities, including Amazon, Toyota, and GXO, and secured over $300 million in orders for Digit 5, targeting deliveries in the first half of 2027.",
+      "summary_zh": "俄勒冈州初创公司Agility Robotics在与迈克尔·克莱因领导的SPAC公司Churchill Capital Corp XI完成合并后，在纳斯达克以股票代码AGLT开始交易，对其现有股权估值约为25亿美元。 财务披露显示，该公司去年营收为180万美元，净亏损1.381亿美元，运营消耗现金9980万美元。 Agility已将其Digit机器人部署在亚马逊、丰田和GXO等九家客户设施中，并获得了超过3.08亿美元的Digit 5订单，目标在2027年上半年进行交付。"
     },
     {
       "date": "2026.11.05",
-      "published_at": "2026-11-05T00:20:14+09:00",
-      "headline": "Made in America and Priced at $7,999: StarBot Launches Spark Humanoid Robot",
-      "source": "WBOC TV",
-      "url": "https://www.wboc.com/online_features/press_releases/made-in-america-and-priced-at-7-999-starbot-launches-spark-humanoid-robot/article_b8063a6e-1ce7-5121-b4f2-35acb7278dd5.html",
+      "published_at": "2026-11-05T09:28:35+09:00",
+      "headline": "Agility Robotics Completes SPAC Merger Ahead of Nasdaq Debut",
+      "source": "AI Insider",
+      "url": "https://theaiinsider.tech/2026/11/05/agility-robotics-completes-spac-merger-ahead-of-nasdaq-debut/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "StarBot Robotics has launched Spark, a 90-centimeter humanoid robot with 22 degrees of freedom priced at $7,999, manufactured in the United States and aimed at families, schools, and developers. Founder and CEO Yong Wang stated the goal is to make robots affordable. StarBot previously entered the restaurant market in early 2026 with its service robot Nova, priced at $4,999 with a $499 monthly subscription, which has served over 20,000 people and handles tasks from greeting to checkout.",
-      "summary_zh": "StarBot Robotics推出了身高90厘米、拥有22个自由度、定价7,999美元的人形机器人Spark，该产品在美国制造，面向家庭、学校和开发者。 创始人兼首席执行官Yong Wang表示，其目标是让人们买得起机器人。 StarBot此前于2026年初推出了服务机器人Nova，售价4,999美元并伴有499美元的月度订阅费，该机器人已在餐饮场所服务了超过20,000人，能够处理从迎宾到结账的各项任务。"
+      "summary": "Agility Robotics completed its merger with Churchill Capital Corp XI and is set to trade on Nasdaq under the ticker AGLT, becoming the only US publicly listed pure-play humanoid robotics company with active commercial deployments. Its Digit robot has logged over 65,000 operating hours with customers such as GXO, Schaeffler, and Toyota Motor Manufacturing Canada. Agility has secured over $300 million in multi-year orders for its Digit 5 robot and operates a US manufacturing facility, RoboFab, designed to produce up to 10,000 robots annually.",
+      "summary_zh": "Agility Robotics完成了与Churchill Capital Corp XI的合并，并以股票代码AGLT在纳斯达克开始交易，成为美国唯一一家拥有活跃商业部署且专注于人形机器人的公开上市公司。 其Digit机器人已在GXO、舍弗勒和丰田加拿大汽车制造公司等客户处累积了超过65,000小时的运行时间。 Agility已为其Digit 5机器人获得了超过3亿美元的多年度订单，并运营着一家美国制造工厂RoboFab，该工厂旨在每年生产多达10,000台机器人。"
     },
     {
       "date": "2026.11.05",
@@ -233,8 +233,8 @@
       "url": "https://www.globaltimes.cn/page/202611/1373659.shtml",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "A Unitree G1 humanoid robot overheated and was carried down Mount Taishan on a stretcher during the CMG World Robot Mount Taishan Competition on November 2, sparking online discussions about humanoid endurance. Unitree stated the robot may have entered the competition without tuning. The 3.9-kilometer course with over 3,100 steps and a 600-meter elevation gain tested robots on complex mountain terrain, highlighting the gap between controlled demonstrations and demanding real-world conditions.",
-      "summary_zh": "11月2日，在首届CMG世界机器人泰山巅峰赛中，宇树科技G1人形机器人因过热而被用担架抬下泰山，引发了网络上关于人形机器人续航能力的讨论。 宇树表示该机器人参赛时可能未进行调试。 这段全长约3.9公里、包含3100多级台阶和约600米爬升的赛道测试了机器人在复杂山地地形上的表现，凸显了控制演示与严苛现实世界条件之间的差距。"
+      "summary": "A Unitree G1 development version humanoid robot overheated during the CMG World Robot Mount Taishan Competition in Tai'an, Shandong Province, and was carried down the mountain on a stretcher, sparking online discussions about endurance and real-world performance. The race spanned about 3.9 kilometers from Hongmen to Zhongtianmen with over 3,100 steps and a 600-meter elevation gain. Unitree stated the robot may have entered the competition without tuning, while industry experts noted the event served as a stress test exposing challenges in thermal management and reliability under demanding real-world conditions.",
+      "summary_zh": "一台宇树科技G1开发版人形机器人在山东省泰安市举行的首届CMG世界机器人泰山赛事中因过热被用担架抬下山，引发了网络上关于耐力与现实性能的讨论。 比赛路线从红门到中天门全长约3.9公里，包含3100多级台阶和约600米的爬升。 宇树表示该机器人参赛时可能未经过调校，行业专家则指出此次赛事是一次压力测试，暴出了严苛现实环境中热管理和可靠性方面的挑战。"
     }
   ]
 }
