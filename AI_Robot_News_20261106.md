@@ -12,75 +12,82 @@
 ## 🇺🇸 美国 / United States
 
 
+- **[2026.11.06] The Daily Free Press — Boston Dynamics sells robot dogs to ICE, faces internal backlash**
+  English: On September 8, over 300 Boston Dynamics employees signed an open letter urging executives to cancel the sale of four Spot robot dogs to U. S. Immigration and Customs Enforcement, following a late August procurement notice for $1.3 million. Despite internal employee petitions, roundtables, and backlash tied to Hyundai's Georgia factory ICE raids in 2025 that detained over 300 workers, interim CEO Amanda McMaster stated in an email that the decision is final and will not be canceled. ICE plans to deploy the robots in tunnels to combat human trafficking and drug smuggling. Boston Dynamics defended the Spot robots as potentially life-saving tools, while immigration attorneys and professors criticized the sale for expanding surveillance and reducing accountability.
+  中文：总结：9月8日，波士顿动力公司（Boston Dynamics）的300多名员工联名向公司高管发送公开信，敦促其重新考虑向美国移民和海关执法局（ICE）出售4只Spot机器狗的交易。 此前在8月下旬，ICE发布了一份价值$130万美元的采购公告。 尽管员工们提出了抗议请愿，并对现代汽车位于佐治亚州的工厂2025年曾遭ICE突击搜查导致300多名工人被扣押一事表达担忧，但代理首席执行官阿曼达·麦克马斯特在给员工的邮件中表示，该决定为最终决定，不会取消。 ICE计划将这些机器人部署在隧道中以打击人口贩运和走私毒品。 波士顿动力公司称Spot机器人是潜在的救生工具，而移民律师和法学教授则批评此举扩大了监察范围并削弱了责任追究。
+  📰 [The Daily Free Press](https://dailyfreepress.com/11/05/18/222233/boston-dynamics-sells-robot-dogs-to-ice-faces-internal-backlash/)
+
 - **[2026.11.05] Design World — ABB Robotics and NVIDIA launch physical AI education program**
-  English: ABB Robotics has developed an education program with NVIDIA AI technologies focused on physical AI and related skills for industrial applications. In the white paper supporting the program launch, ABB Robotics and NVIDIA note that 53% of companies are building AI fluency while 84% have not redesigned jobs around AI capabilities.
+  English: ABB Robotics developed an education program using NVIDIA AI technologies focusing on physical AI and industrial applications. Supported by a white paper noting that 53% of companies build AI fluency while 84% have not redesigned jobs, the program includes hands-on learning with ABB RobotStudio and NVIDIA Omniverse, offering a certificate in robotics, simulation, and physical AI. Contributions came from Amazon Web Services, AsiaInfo, Deloitte, and SKAI Intelligence. The initiative will be presented at NVIDIA GTC in Berlin, alongside ABB Robotics' RobotStudio HyperReality, available to 60,000 RobotStudio users and developed with Enodo Robotics using the OpenUSD ecosystem.
+  中文：总结：ABB机器人与英伟达（NVIDIA）人工智能技术合作开发了一项专注于物理人工智能及工业应用的教育计划。 该计划配套的白皮书指出，53%的公司正在建立AI熟练度，而84%的公司尚未围绕AI能力重新设计岗位。 该项目包括使用ABB RobotStudio和NVIDIA Omniverse进行实操学习，并在完成后颁发机器人、仿真和物理AI证书。 该白皮书汇集了亚马逊云科技、亚信科技、德勤和SKAI Intelligence的贡献。 双方还将在柏林的NVIDIA GTC上展示结合仿真、AI开发和机器人的物理AI教育解决方案，同时ABB Robotics与Enodo Robotics基于OpenUSD生态系统开发的RobotStudio HyperReality已向全球6万名RobotStudio用户开放。
   📰 [Design World](https://www.designworldonline.com/abb-robotics-and-nvidia-launch-physical-ai-education-program/)
 
-- **[2026.11.05] Yahoo Finance — Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company, Begins Trading Today on Nasdaq as AGLT**
-  English: Agility Robotics Begins Trading on Nasdaq as AGLT Commercial Deployments with Leading Global Enterprises and More Than $300 Million in Multi-Year Digit 5 Orders Position Agility for Its Next Phase of Growth Business Combination and Related Financings Provide Approximately $465 Million in Gross Capital to Support Commercial Scale SALEM, Ore. , Nov. 05, 2026 (GLOBE NEWSWIRE) -- Agility® (Nasdaq: AGLT), a leading humanoid robotics and physical AI company, today became the first U.
-  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/agility-becomes-first-u-publicly-120000250.html)
-
-- **[2026.11.05] Engineering.com — Boston Dynamics unveils upgraded Stretch Gen 2 robot**
-  English: Boston Dynamics has unveiled Stretch Gen 2, an upgraded autonomous mobile trailer unloading robot designed for high-volume logistics environments. Building on data from over 100,000 operating hours and tens of millions of unloaded boxes, the new model features heavy-duty automotive-grade connectors, an improved gripper, continuous rotation joints, and an 81 percent reduction in internal cabling to minimize electrical faults. The modular robot unloads up to 1,000 cases per hour, features a battery lasting two shifts with a fast charger reaching 90 percent in about 75 minutes, and runs on a redesigned onboard computing platform that supports regular software updates.
-  中文：总结：波士顿动力公司推出了升级版的自动移动挂车卸货机器人Stretch Gen 2，旨在最大化高容量物流环境中的正常运行时间并简化维护。 基于超过100,000个运行小时和数千万个已卸载纸箱的数据分析，新一代机器人引入了重型汽车级连接器、改进的抓手、无硬限位的连续旋转关节，并减少了81%的内部布线。 Stretch Gen 2每小时可卸载多达1000个纸箱，其电池可持续运行两个班次，快速充电器在大约75分钟内可充至90%电量，并搭载了可通过常规软件发布不断改进的全新计算平台。
-  📰 [Engineering.com](https://www.engineering.com/boston-dynamics-unveils-upgraded-stretch-gen-2-robot/)
-
-- **[2026.11.05] 머니투데이 — Korean 3D company catches NVIDIA's eye with world-building technology to train robots**
-  English: Korean startup NdotLight is positioning itself as a data infrastructure company in the physical AI sector by developing virtual training grounds for robots using 3D CAD engine technology. Founded in 2020 with an initial focus on the home 3D printer market, the company shifted toward enterprise tools and physical AI data as the demand for SimReady assets grew. Its main solution, TRINIX, automatically generates SimReady assets by processing text, images, or 3D CAD data, incorporating essential physical properties such as mass, friction, material, and joint structure so robots can safely learn in virtual simulations before entering the real world.
-  中文：总结：韩国初创公司NdotLight通过利用3D CAD引擎技术开发机器人虚拟训练场，正在物理AI领域崭露头角。 该公司成立于2020年，最初专注于家用3D打印机市场，随着SimReady资产需求的增长，逐渐转向企业工具和物理AI数据。 其核心解决方案TRINIX通过处理文本、图像或现有3D CAD数据自动生成SimReady资产，并推断和结合质量、摩擦力、材质及关节结构等物理属性，使机器人能够在进入真实世界之前在虚拟仿真中进行安全学习。
-  📰 [머니투데이](https://www.mt.co.kr/en/future/2026/11/05/2026102016523357821)
-
 - **[2026.11.03] Interesting Engineering — Video: Figure’s new humanoid robot workforce takes first steps outside US factory**
-  English: U. S. robotics firm Figure shared a video showing newly manufactured Figure 03 humanoid robots walking out of its BotQ manufacturing facility and moving across the company's campus. Founder Brett Adcock released the clip on X, featuring white-and-black robots navigating a pedestrian crossing near a parking lot, though he did not disclose unit numbers or delivery figures. The facility achieved a production rate of one robot per hour and manufactured its 1,000th humanoid robot in July. The Figure 03 model features upgraded cameras, embedded palm cameras, custom fingertip tactile sensors, wireless inductive charging, and the Helix vision-language-action AI system.
-  中文：总结：美国机器人公司Figure分享了一段视频，展示了新制造的Figure 03人形机器人从公司的BotQ制造工厂走出并穿过公司园区的画面。 创始人布雷特·阿德考克在X平台上发布了这段短片，视频中黑白相间的人形机器人穿过停车场附近的行人过路处，但未透露具体数量或交付数据。 该制造厂此前实现了每小时生产一台机器人的速度，并在7月制造了第1000台人形机器人。 Figure 03型号采用了升级版相机、嵌入式手掌相机、定制指尖触觉传感器、无线感应充电线圈以及Helix视觉语言行动AI系统。
+  English: US robotics firm Figure released a video showing newly manufactured Figure 03 humanoid robots walking out of its BotQ manufacturing facility toward a campus pedestrian crossing. Founder Brett Adcock shared the roughly 19-second clip on X but did not disclose production volume, delivery figures, or whether the robots were autonomous or under remote supervision. The update follows previous milestones in 2026, including the production of over 350 units by April and the 1,000th unit completed in July. Introduced in October 2025, Figure 03 features redesigned hardware, upgraded cameras, palm-embedded cameras, proprietary tactile sensors, inductive charging coils, and the Helix vision-language-action AI system.
+  中文：总结：美国机器人公司Figure发布了一段视频，展示了刚制造完成的Figure 03人形机器人走其BotQ制造工厂并穿过公司园区的步行横道。 创始人布雷特·阿德考克在X平台上分享了这段约19秒的视频，但未透露产量、交付数据以及机器人是自主行走还是处于远程监控下。 此次更新紧随2026年的多项里程碑之后，包括4月时产量超过350台以及7月完成第1,000台人形机器人的制造。 Figure 03于2025年10月推出，配备了重新设计的硬件、升级后的相机、嵌入式手掌相机、专有触控传感器、感应充电线圈以及Helix视觉-语言-动作AI系统。
   📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk)
+
+- **[2026.11.05] The Manila Times — Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company, Begins Trading Today on Nasdaq as AGLT**
+  English: Agility Robotics began trading on the Nasdaq Stock Market on November 5, 2026, under the ticker symbols AGLT and AGLTW, becoming the first US publicly listed pure-play humanoid robotics company. The business combination and related financings provided approximately $465 million in gross capital. Agility enters the public markets with nearly three years of real-world deployment experience, over 65,000 hours of operation, and more than $300 million in committed multi-order agreements for its flagship next-generation humanoid, Digit 5. CEO Peggy Johnson noted that the public debut supports commercial scale, with Digit currently operating at companies such as GXO, Schaeffler, and Toyota Motor Manufacturing Canada.
+  中文：总结：Agility Robotics于2026年11月5日在纳斯达克股票市场开始交易，股票代码为AGLT和AGLTW，成为美国首家上市的纯人形机器人公司。 此次业务合并及相关融资筹集了约$465 million的总资本。 Agility进入公开市场时拥有近三年的实际部署经验、超过65,000小时的运行时间，以及针对其旗舰下一代人形机器人Digit 5的价值超过$300 million的承诺多年期订单。 首席执行官佩吉·约翰逊指出，此次公开上市支持了商业化规模的扩展，Digit目前已在GXO、舍弗勒和加拿大丰田汽车制造厂等公司投入运营。
+  📰 [The Manila Times](https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/agility-becomes-first-us-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt/2462782/amp)
+
+- **[2026.11.05] TechCrunch — Agility is the first pure humanoid robot company on the stock market. Are you buying?**
+  English: Agility Robotics has gone public through a special purpose acquisition company reverse merger, raising $465 million in new capital. Founded in 2015 after spinning out of Oregon State University, Agility focuses on deploying its Digit robots for repetitive industrial tasks, such as moving heavy totes at GXO facilities, alongside customers like Schaeffler, Toyota Motor Manufacturing Canada, and Mercado Libre. CEO Peggy Johnson stated that the company secured $300 million in planned contracts from 30 customers for its upcoming Digit 5 model, which is designed to operate safely around humans and will be demonstrated at CES 2027.
+  中文：总结：Agility Robotics通过一家特殊目的收购公司（SPAC）的反向合并上市，筹集了$465 million的新资本。 该公司于2015年从俄勒冈州立大学剥离后成立，专注于部署Digit机器人以执行重复性工业任务，例如在GXO设施中搬运重型周转箱，其客户还包括舍弗勒、加拿大丰田汽车制造厂和美客多。 首席执行官佩吉·约翰逊表示，公司已从30位客户处获得了针对其即将推出的Digit 5型号的$300 million计划合同，该型号旨在安全地在人类周围工作，并将在2027年国际消费电子展（CES 2027）上进行演示。
+  📰 [TechCrunch](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)
 
 
 ## 🇨🇳 中国 / China
 
 
+- **[2026.11.06] China Daily — 中国日报看山西｜一键擦窗：国产智能机器人扬帆海外**
+  中文：总结：山西嘉世达机器人技术有限公司携旗舰产品“洒拖”擦窗机器人T50亮相第九届中国国际进口博览会及第140届广交会。 该公司成立于2012年，专注于智能擦窗机器人研发制造，产品远销美国、德国、日本等56个国家和地区，欧洲为其主力市场。 其产品采用双盘结构和自主路径规划技术，并针对极寒或多沙尘等不同市场定制适配产品。 我国擦窗机器人领域首部行业标准《家用和类似用途擦窗机器人》将于12月1日起实施，对清洁性能、耐用性等指标设定统一门槛和测试规范。 据奥维云网数据显示，2020年至2025年，中国擦窗机器人市场规模从4.8亿元增长至17亿元。
+  📰 [China Daily](https://sx.chinadaily.com.cn/a/202611/06/WS6aed395ce4b0e14252fc97d0.html)
+
+- **[2026.11.06] 维度网 — 中国普渡机器人在荷兰发布“一脑多体”战略**
+  中文：总结：中国深圳商用机器人企业普渡机器人于11月4日在荷兰阿姆斯特丹举办2026欧洲合作伙伴大会，发布“一脑多形”技术战略，并首次在欧洲展示覆盖六大产品线的机器人产品组合。 创始人兼首席执行官张涛表示，该战略旨在建立共享智能技术基础，使不同机器人形态复用底层人工智能能力。 该架构由自研具身智能基座模型PuduFM和通用具身智能体平台PuduAgent OS支持。 展品涵盖BellaBot Pro、PUDU CC1 Pro、PUDU MP2000、D5/D7/D9机器人、GT系列商用割草机及家用PUDU TOMO S系列。 普渡于2026年10月30日在德国设立欧洲总部，目前其累计出货量已超过13万台，业务覆盖全球85个以上国家和地区。
+  📰 [维度网](https://www.wedoany.com/shortnews/506620.html)
+
+- **[2026.11.06] www.gasgoo.com — 光轮智能与宇树科技达成战略合作，打通机器人训练到部署全链路**
+  中文：总结：光轮智能与宇树科技近日达成战略合作，结合光轮智能在数据、仿真评测及部署反馈方面的基础设施能力，以及宇树科技在机器人本体、运动控制、感知系统等领域的技术积累，围绕模型训练、能力验证和真实场景应用展开合作。 双方将针对宇树机器人不同自由度、负载能力及传感器配置，结合人类视频数据和仿真合成数据，探索面向具体任务的数据生产与模型训练机制。 在能力验证环节，依托SimFoundry仿真底座及RoboFinals工业级评测平台进行测试，并通过RoboStack真实部署与反馈平台建立持续迭代机制。
+  📰 [www.gasgoo.com](https://www.gasgoo.com/robot/news/70477066-%E5%85%89%E8%BD%AE%E6%99%BA%E8%83%BD%E4%B8%8E%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C/)
+
 - **[2026.11.05] 中新经纬 — 宇树科技王兴兴：具身智能最大挑战是AI模型与物理世界输入输出没有很好对齐**
-  中文：总结：宇树科技创始人、董事长王兴兴在第九届进博会虹桥国际经济论坛分论坛上表示，具身智能面临的最大挑战是AI模型与物理世界输入输出没有很好对齐，最后几毫米存在较大偏差。 他指出，多模态模型抓取大物体成功率接近百分之百，但在精密操作和零部件装配等场景中仍有误差。 若对齐误差解决好，具身模型就没有技术问题，真正落地推广有工程问题，该技术问题有望在未来1至2年得到较好解决。 过去几年公司持续推动机器人AI模型自进化，流程虽相对较慢，但随着模型能力提升和测试数量增加，进化速度会越来越快。 此外，他认为数据和算力将成为未来重要核心资产，未来算力竞争会非常激烈。
+  中文：总结：宇树科技创始人、董事长王兴兴5日在第九届进博会虹桥国际经济论坛分论坛上表示，目前具身智能面临的最大挑战是与物理世界输入输出没有很好对齐，最后几毫米有比较大的偏差。 多模态模型抓取大物体的成功率接近百分之百，但在精密操作和零部件装配等场景中仍存在误差。 他认为对齐误差的技术问题有望在未来1至2年得到较好解决。 王兴兴还提及机器人AI模型正通过自主采集数据并标注实现自进化，随着部署测试增加，自进化循环会越来越好，并指出未来算力等方面的竞争将会非常激烈。
   📰 [中新经纬](https://www.jwview.com/jingwei/html/m/11-05/695839.shtml)
 
 - **[2026.11.05] 第一财经 — A股“人形机器人第一股”上市在即，宇树科技相关概念股涨超6%**
-  中文：总结：7月31日开盘后，A股机器人和人形机器人概念股走高，宇树科技相关概念股涨幅超6%。 宇树科技于7月30日晚公告称，首次公开发行股票并在科创板上市的申请已获证监会同意注册，本次拟发行4044.6434万股，占发行后总股本10%，总股本为40446.4340万股，初步询价日为8月5日，申购日为8月10日。 本次初始战略配售发行数量为808.93万股，占20.00%。 员工资管计划参与认购金额合计不超过27150万元，董事长、总经理、CTO王兴兴认购金额为1500万元。 公司预计2026年1-6月营业收入约为10.52亿元-11.28亿元，同比增幅约为35.62%-45.41%；扣非后净利润预计约为2.36亿元-2.83亿元，同比下降约21.97%至6.43%。 针对美国联邦通信委员会限制进口机器人的禁令，宇树科技表示现有主要产品在美国销售暂不受影响，但后续开发的新型号机器人产品面临因未能取得FCC认证而无法在美国销售的风险。 最近三年境外收入占比均超过40%，其中美国市场收入占比分别为18.39%、19.54%和13.30%。
+  中文：总结：宇树科技于7月30日晚发布公告称，公司首次公开发行股票并在科创板上市的申请已获证监会同意注册，本次拟发行4044.6434万股，占发行后总股本10%，初步询价日为8月5日，网上网下申购日为8月10日。 本次初始战略配售发行数量为808.93万股，董事长、总经理、CTO王兴兴认购金额为1500万元。 宇树科技预计2026年1-6月营业收入约为10.52亿元-11.28亿元，同比增幅约为35.62%-45.41%；扣非后净利润预计约为2.36亿元-2.83亿元，较上年同期下降约21.97%至6.43%。 针对美国联邦通信委员会限制进口机器人的禁令，宇树科技表示前述政策变更目前不影响现有主要产品在美国市场的继续销售，但后续开发的新型号产品除非获得特定豁免或有条件批准，否则将面临无法在美国市场销售的风险。
   📰 [第一财经](https://www.yicai.com/news/103300384.html)
-
-- **[2026.11.05] 联合早报 — 中国阻止软银收购ABB在华机器人业务 涉AI数据安全疑虑**
-  中文：总结：中国政府阻止日本软银集团收购瑞士工业巨头ABB在中国的机器人业务，使软银斥资54亿美元收购ABB全球机器人部门的计划受挫。 据英国《金融时报》报道，软银近日获中国当局告知收购计划不获批准，目前正评估能否重新提出申请。 ABB随后证实接获通知，中国外商投资安全审查工作机制办公室禁止软银收购ABB在华机器人业务，双方正保持密切沟通寻求解决方案。 知情人士指出，中国国家发展和改革委员会担忧相关机器人数据可能被转移至海外，用于训练包括OpenAI所开发模型在内的AI模型，且监管部门也关注制造能力能否保留在中国境内。 中国是ABB机器人业务最大市场，约占该业务的三成。 软银去年10月宣布该收购计划，旨在结合工业机器人技术与AI能力。 彭博社指出该决定为软银扩大布局实体AI增添变数，目前尚不清楚能否通过调整交易安排重新获得批准。
-  📰 [联合早报](https://www.zaobao.com.sg/news/china/story20261105-9951988)
-
-- **[2026.11.05] 维科号 — 宇树用利润换时间，具身智能离物理AI临界点还有多远？**
-  中文：总结：宇树科技在人形机器人领域快速迭代，推出过多款机器人产品。 11月4日，在2026世界互联网大会乌镇峰会上，王兴兴表示具身智能当前的核心卡点是物理世界最后几毫米的对齐问题。 财务数据显示，宇树在2026年第三季度实现营收6.65亿元，同比增长69.93%，扣非净利润1.05亿元，同比下降17.42%；前三季度营收18.17亿元，同比增长55.71%，扣非净利润3.49亿元，同比下降18.78%。 公司呈现增收不增利特征，主要是因研发投入快速增加且大部分选择费用化。 从收入结构看，前三季度人形机器人收入占比51.07%，四足机器人占比41.05%，四足机器人累计出货超过3.3万台，全球市占率长期在60%以上。 公司毛利率有所下降，且境外收入占比较高，美国市场占比在13.30%到19.54%之间。 王兴兴预判明年很大概率是整个机器人行业或机器人模型发展的临界点，为此公司将硬件利润投入模型、算力和数据闭环，并启动宇创计划等生态策略以应对数据和场景瓶颈。
-  📰 [维科号](https://mp.ofweek.com/ai/a956714648627)
-
-- **[2026.11.05] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
-  中文：总结：宇树科技开启申购，发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，网上发行最终中签率为0.01809759%，预计募集资金总额约60.99亿元，拟用于智能机器人模型研发、本体研发等项目。 王兴兴表示公司2025年已实现人形机器人出货量全球第一。 宇树发行价对应2025年扣非后摊薄市盈率达219.23倍。 2023至2025年宇树科技累计研发投入约2.6亿元，四足机器人累计出货3.3万台，全球市占率约60%，2025年实现营业收入16.99亿元、扣非净利润5.9亿元。 股权方面，王兴兴合计持股比例超33%，美团系、小米系、腾讯系、阿里系及字节系等均现身股东行列，深创投及北京、上海国资亦参与投资，腾讯、中石油等参与战略配售。 多家A股上市公司通过产业投资基金间接参股宇树科技。
-  📰 [财联社](https://www.cls.cn/detail/2450388)
 
 
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.11.06] Vietnam.vn — 高齢者介護ロボットが日本で人気を集めている。**
+  日本語：人口高齢化と介護者不足が深刻化する中、オランダ、カナダ、日本などの科学者チームが日本の高齢者を対象にロボット介護に関する意識調査を実施した。 調査の結果、回答者の3分の2が人間の介護者しかいない施設よりもロボットがいる施設を好むと答え、移動補助ロボットが最も歓迎され（70％）、監視ロボットが66％、コミュニケーション能力のあるロボットは最も低い59％となった。 研究者らは、高齢者はコミュニケーションよりも身体的な作業をロボットに任せることに対して抵抗感がない傾向があり、介護者不足を解消するための現実的な選択肢になり得ると指摘している。
+  中文：总结：随着人口老龄化加剧和照护人员短缺，荷兰、加拿大、日本等国的科学者团队对日本老年人进行了关于机器人照护意愿的调查。 结果显示，三分之二的受访者表示比起只有人类照护者的设施，更喜欢有机器人的照护设施。 其中移动辅助机器人最受欢迎（70%），监控机器人居中（66%），具备沟通能力的机器人最不受欢迎（59%）。 研究人员指出，老年人对于将身体性工作交由机器人完成的抵触情绪小于沟通工作，这表明利用机器人缓解照护者短缺是切实可行的选择。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/robot-cham-soc-nguoi-gia-duoc-ua-chuong-o-nhat)
+
 - **[2026.11.05] BigGo ファイナンス — トヨタ、ロボット事業を全社直轄に 「トヨタロボティクス」来年1月発足**
-  日本語：トヨタ、ロボット事業を全社直轄に 「トヨタロボティクス」来年1月発足 トヨタ自動車は11月5日、ロボット事業の推進体制を抜本的に組み替え、全社直轄組織「トヨタロボティクス」を2027年1月1日付で新設すると発表した。 社内に散在するロボティクス関連の人材や知見、機能を一つの組織に束ね、開発から現場導入、事業化までを一気通貫で進める狙いがある。 新組織の組織長には、志賀武文執行役員兼Chief Production Officer（CPO）が就く。 開発部門と連携しながら、製造現場が抱える課題やニーズを出発点に、ロボットの実用化と事業化を加速させる。 トヨタはロボットを「人の仕事を奪う存在ではなく、人に寄り添い、人の可能性を広げるパートナー」と位置付けており、まずは自社およびグループ、仕入先のサプライチェーン内での導入を起点とする。 その後は製造業の他社や他産業への外販、生活領域での事業化へと段階的に広げる計画だ。
+  日本語：トヨタ自動車は、2027年1月1日付でロボット事業の推進体制を組み替え、全社直轄組織「トヨタロボティクス」を新設すると発表した。 新組織の組織長には志賀武文執行役員兼CPOが就任し、開発から現場導入、事業化までを一気通貫で進める。 同日開かれた決算説明会で宮崎洋一副社長は、年間1兆円規模の自動化投資を行い、2028年から40年までにトヨタグループで15万台、仕入先で25万台の計40万台規模のロボット導入を見込んでいると述べた。 さらに、人材育成を担う教育本部の本部長には豊田章男会長が就くこともあわせて発表された。
+  中文：总结：丰田汽车宣布，将于2027年1月1日起彻底重组机器人业务推进体制，新设全社直属组织“丰田机器人学”。 新组织负责人由执行役员兼CPO志贺武文担任，旨在一体化推进从开发到现场导入及商业化的全过程。 副社长宫崎洋一在同日的财报说明会上表示，计划每年投入约1万亿日元规模的自动化投资，预计从2028年到2040年，丰田集团内部及供应商将合计导入40万台机器人（包括内购和采购）。 此外，丰田还宣布设立教育本部以培养新业务所需人才，并由会长丰田章男亲自担任本部长。
   📰 [BigGo ファイナンス](https://finance.biggo.jp/news/a5509fa4-efd8-487c-b593-6d7cffbf599e)
 
 - **[2026.11.05] 株式会社インプレス — パナソニックHDら、両手で作業するロボット操作AI「T-Rex」を開発 VLAモデルに指先の触覚情報を統合**
-  日本語：ニュース パナソニックHDら、両手で作業するロボット操作AI「T-Rex」を開発 VLAモデルに指先の触覚情報を統合 2026年11月5日 15:47 パナソニック ホールディングス（以下、パナソニックHD）とパナソニックR&Dカンパニーオブアメリカ（以下、PRDCA）は、カリフォルニア大学バークレー校、NVIDIA、スタンフォード大学、ローマ・ラ・サピエンツァ大学、ItalAIの研究者らと共同で、指先の触覚に即応しながら器用な両手作業を行なうロボット操作AI「Tactile-Reactive Dexterous Manipulation（T-Rex）」を開発した。 T-Rexは、視覚と言語の情報からロボットの動作を生成するVLA（Vision-Language-Action：視覚言語行動）モデルに指先の触覚情報を統合したもので、接触状態の変化に応じて動作をリアルタイムに補正する。
+  日本語：パナソニック ホールディングス、パナソニックR&Dカンパニーオブアメリカ、カリフォルニア大学バークレー校、NVIDIA、スタンフォード大学、ローマ・ラ・サピエンツァ大学、ItalAIの研究者らは、指先の触覚に即応しながら器用な両手作業を行うロボット操作AI「Tactile-Reactive Dexterous Manipulation（T-Rex）」を開発した。 T-Rexは、視覚と言語の情報からロボットの動作を生成するVLAモデルに指先の触覚情報を統合したもので、接触状態の変化に応じて動作をリアルタイムに補正する。 12種類の作業による評価では平均成功率65%を達成し既存手法を30ポイント上回った。 成果は11月9日から12日までアメリカ・オースティンで開催される「Conference on Robot Learning（CoRL）」で発表される。 低頻度で行う動作生成と指先の触覚に応じた高速な動作修正を一つのモデルに統合し、約200種類の日用品と22種類の基本動作を組み合わせた7,700件超、計100時間の両手ロボット操作データを学習に用いた。
+  中文：总结：松下控股、松下美国研发公司、加州大学伯克利分校、英伟达、斯坦福大学、罗马大学及ItalAI的研究人员共同开发了机器人操作AI“Tactile-Reactive Dexterous Manipulation（T-Rex）”，能够在迅速适应指尖触觉的同时执行灵巧的双手作业。 T-Rex将指尖触觉信息整合至根据视觉与语言信息生成机器人动作的VLA模型中，可根据接触状态的变化实时修正动作。 在12项作业评估中取得了65%的平均成功率，比现有方法高出30个百分点。 研究成果将於11月9日至12日在美国奥斯汀举办的机器人学习国际会议“CoRL”上发表。 该模型将低频动作生成与高频触觉动作修正整合为一体，并使用了涵盖200多种日用品与22种基本动作、超过7700件、总计100小时的双手机器人操作数据进行学习。
   📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2153977.html)
 
 - **[2026.11.05] IoTNEWS AI+ — イオンとMujin、AIロボットやWESなどでフィジカルAIを構築し仕分けから混載積み付けまでを自動化**
-  日本語：イオン株式会社、イオングローバルSCM株式会社、株式会社Mujinの3社は、イオンの「物流構造改革」を推進する次世代自動化モデルセンタとして「イオン川口東XD（クロスドック）」を、2026年10月29日に本稼働したと発表した。 都市型小型食品スーパーに向けた複雑な店舗別出荷に対し、フィジカルAIを搭載したロボットと共同開発の倉庫運用管理システム（WES）を導入することで、従来人手に依存していた仕分けから混載積み付けまでの一連工程をイオンとして初めて自動化した。 イオンは、物流業界において人手不足や脱炭素への対応が急務となる中、安定的で持続可能な物流体制の構築を目指し「物流構造改革」を進めている。 特に、都市型の小型食品スーパー向け出荷では、店舗ごとに異なる多品種の商品をカートラック等へ効率よく積み付ける必要がある。 しかし、商品のサイズや重量、形状の組み合わせが毎回変化する上、作業中に位置ずれや荷崩れが発生するため、混載積み付け工程の自動化は極めて困難とされ、現場作業者の身体的負担と人時コストが大きい領域となっていた。
+  日本語：イオン株式会社、イオングローバルSCM株式会社、株式会社Mujinの3社は、物流構造改革を推進する次世代自動化モデルセンタとして「イオン川口東XD（クロスドック）」を2026年10月29日に本稼働した。 都市型小型食品スーパー向けの高精度な店舗別出荷に対し、フィジカルAI搭載ロボットと共同開発の倉庫運用管理システム（WES）を導入し、仕分けから混載積み付けまでの一連工程をイオンとして初めて自動化した。 ケース順立てシャトルラックで商品を高速出庫し、3Dビジョンで状況を認識する混載パレタイズロボットがロボットアームで商品を積み付ける。 位置ずれや荷崩れが生じた場合でもAIがロボットの動作をリアルタイム制御して作業を継続する。 また、WESが一括管理することで、設備や人の作業指示を同期させ稼働状況を可視化する。 3社は2023年10月のパートナーシップ締結以降、自動化を推進している。
+  中文：总结：永旺株式会社、永旺全球SCM株式会社以及Mujin株式会社3家公司於2026年10月29日正式启用作为推进物流结构改革的新一代自动化样板中心“永旺川口东XD”。 针对面向都市型小型食品超市的高精度各店铺出库需求，引入了搭载具身智能的机器人与共同开发的仓库运营管理系统（WES），首次在永旺实现了从分拣到混载码垛的全流程自动化。 通过箱式顺序穿梭式货架高速出库商品，利用3D视觉实时识别状态的混载码垛机器人通过机械臂进行商品码垛。 即使在码垛过程中发生位置偏移或货损，AI也会实时控制机器人动作以继续作业。 此外，通过WES进行统一管理，实现了设备与人员作业指令的同步并可视化运行状况。 3家公司自2023年10月缔结合作伙伴关系以来持续推进自动化工作。
   📰 [IoTNEWS AI+](https://iotnews.jp/smart-logistics/276439/)
 
-- **[2026.11.05] PR TIMES — 距離を越えて、授業にも、家族の時間にも参加できる。アサヒ電子、卓上型AIテレプレゼンスロボット「kubi 2.0」の試作から国内量産まで参画**
-  日本語：距離を越えて、授業にも、家族の時間にも参加できる。 アサヒ電子、卓上型AIテレプレゼンスロボット「kubi 2.0」の試作から国内量産まで参画 人と社会をつなぐAIテレプレゼンスロボットを国内製造。 NEW FACTORYが目指す「ものづくり」の新しいかたち。 開発・設計から量産まで、両社の強みを掛け合わせて社会課題の解決へ。 アサヒ電子株式会社（本社：福島県伊達市、代表取締役社長：菅野寿夫、以下「アサヒ電子」）は、iPresence株式会社（本社：兵庫県神戸市、代表取締役社長：クリストファーズ クリスフランシス、以下「iPresence」）が企画・開発し、2026年10月15日に発売した卓上型AIテレプレゼンスロボット「kubi 2.0」の開発に、試作段階から参画しました。 アサヒ電子は、iPresenceと試作・改良を重ねながら、量産に向けたハードウェアの設計と国内製造を担いました。
-  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000014.000187240.html)
-
 - **[2026.11.04] Dellows News — ダルトン、スイスのストーブリと産業用ロボット事業で日本国内の総代理店契約を締結**
-  日本語：ダルトン、スイスのストーブリと産業用ロボット事業で日本国内の総代理店契約を締結 株式会社イトーキのグループ会社である株式会社ダルトンは、スイスの産業用ロボットメーカーSTÄUBLI（ストーブリ）と、同社グループの日本国内における産業用ロボット事業について総代理店契約を2026年9月28日に締結しました。 自社の無菌・封じ込め技術とストーブリのロボットを融合し、国内の製薬企業や半導体装置メーカー、食品加工機械メーカーなどに向けた自動化ソリューションの展開を加速させます。 無菌設備とロボットを融合した自動化ソリューションを展開 ストーブリは、製薬・ライフサイエンス、半導体、自動車産業、食品加工など高い品質管理が求められる分野に向けて産業用ロボットを世界展開しています。 人の腕に近い動きができる6軸ロボットは約35年の歴史を持ち、過酸化水素除染への耐性やFDA（アメリカ食品医薬品局）基準への適合が求められる製薬・ライフサイエンス分野向け製品に強みがあります。
+  日本語：株式会社イトーキのグループ会社である株式会社ダルトンは、スイスの産業用ロボットメーカーSTÄUBLI（ストーブリ）と、日本国内における産業用ロボット事業について総代理店契約を2026年9月28日に締結した。 ダルトンの無菌・封じ込め技術とストーブリのロボットを融合し、国内の製薬企業や半導体装置メーカー、食品加工機械メーカーなどに向けた自動化ソリューションの展開を加速させる。 ストーブリは製薬や半導体などの分野に向けて6軸ロボットなどを世界展開しており、ダルトンは1939年創業で製薬向け無菌アイソレータなどを展開している。 両社の技術を一体化させ、製造設備の自動化ソリューションとして提案する。 また、ダルトンは自動化ソリューションの提案および導入支援体制を強化するため、2026年10月に大阪市北区西天満6丁目7-4の大阪弁護士ビル1Fに「ダルトン ロボティクスセンターOSAKA」を開設する。
+  中文：总结：株式会社伊藤喜的集团公司株式会社达尔顿於2026年9月28日与瑞士工业机器人制造商史陶比尔（STÄUBLI）就日本国内的工业机器人业务缔结了总代理协议。 双方将达尔顿的无菌与密闭技术同史陶比尔的机器人相融合，加速向国内制药企业、半导体设备制造商、食品加工机械制造商等推广自动化解决方案。 史陶比尔面向制药、半导体等领域在全球开展6轴机器人等业务，而创立于1939年的达尔顿则拥有制药用无菌隔离器等产品线。 两家公司将整合各自技术，作为制造设备的自动化解决方案进行推广。 此外，为加强自动化解决方案的提案及引入支援体制，达尔顿於2026年10月在大阪市北区西天满6丁目7-4大阪律师大楼1F设立了“达尔顿机器人中心OSAKA”。
   📰 [Dellows News](https://news.dellows.jp/494022/)
 
 
@@ -88,24 +95,29 @@
 
 
 - **[2026.11.04] note — ヒューマノイドロボティクスの到達点と産業実装の現実：日本のFA・ロボット産業が採るべき競争戦略**
-  English: 1. グローバル・ヒューマノイドロボティクスの到達点と技術スタック 世界のロボティクス産業は、デジタル空間内でテキストや画像を処理する生成AIから、物理空間において状況を認識し自律的に行動する「身体性AI（Physical AI / Embodied AI）」への決定的な転換期を迎えている1。 この潮流の象徴として世界的な投資と開発が集中しているのがヒューマノイドロボットであり、米国および中国の有力スタートアップや巨大テック企業が主導権争いを繰り広げている1。 近年の急速な技術進展を支えている中核は、視覚・言語・行動をエンド・ツー・エンドで接続する「VLA（Vision-Language-Action）モデル」や、物理現象の推移を予測する「世界基盤モデル（World Foundation Models）」の実用化である3。 従来の産業用ロボットが「あらかじめ教示された固定座標を高精度に反復する」制御方式であったのに対し、基盤モデルを取り込んだヒューマノイドは、自然言語による曖昧な指示やカメラ映像に基づき、対象物の位置ズレや未知の外乱に対して自律的に動作軌道を生成・補正する能力を獲得し始めている1。
+  English: 世界のロボティクス産業は、テキスト処理の生成AIから物理空間で自律行動する身体性AIへの転換期にあり、米中の主要企業がヒューマノイドロボットの開発を主導しています。 VLAモデルや世界基盤モデルの実用化により、自然言語の指示やカメラ映像に基づき自律動作を生成する能力を獲得しつつあります。 しかし、接触力学や発熱対策、バッテリーのエネルギー密度といった物理的なハードウェア制約が存在し、AIの自律学習の理念とは裏腹に、現場ごとの泥臭いハードウェア・エンジニアリング工数が費やされています。 米国勢は実際の製造ラインでの実稼働データやKPIの検証を重んじる一方、中国勢は国家政策の後押しを受けて量産ラインを立ち上げ低価格化を推し進めていますが、実際の工場での適用業務は局所的タスクに限定されています。
+  中文：总结：全球机器人产业正迎来从生成式AI向具身智能的决定性转变，美中两国的初创企业与科技巨头正围绕人形机器人展开主导权争夺。 随着VLA模型和世界基础模型的实用化，人形机器人开始能够根据自然语言指示或相机影像自主生成动作。 然而，物理世界的接触力学、热设计、电池能量密度等硬件限制构成了重大瓶颈，导致开发工序异常繁琐。 美国企业注重在实际生产线中积累运行数据与KPI验证，而中国企业则在国家政策推动下推进量产与低价格化，但其实际应用仍局限于局部静态任务。
   📰 [note](https://note.com/itlawyer/n/n0caafbb6ea13)
 
-- **[2026.11.06] DC Velocity — Humanoid robot manufacturer Agility goes public on NASDAQ**
-  English: The Oregon-based humanoid robot manufacturer Agility today began trading its company shares on the Nasdaq stock market, saying the move would raise $465 million in gross capital before transaction expenses. Agility had first announced the plan in June, saying it would conduct the move by merging with a SPAC entity called Churchill Capital Corp XI.
-  📰 [DC Velocity](https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/humanoid-robot-manufacturer-agility-goes-public-on-nasdaq)
+- **[2026.11.06] GeekWire — Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work**
+  English: Salem, Ore. -based Agility Robotics made its Nasdaq debut Thursday under the ticker AGLT, becoming the first publicly traded U. S. company devoted solely to humanoid robots. The company went public through a merger with Churchill Capital Corp XI, a SPAC led by Michael Klein, valuing Agility at $2.5 billion before new investments and bringing in about $465 million in gross proceeds. Its shares closed Thursday at $11.51, up 2.2%. Agility's main product is Digit, a two-legged robot designed to move totes and containers in warehouses. The latest version, Digit 5, stands 5-foot-11, weighs 284 pounds, can lift 50 pounds, reach 7.2 feet high, and work more than 20 hours in a 24-hour day alongside people without barriers. Co-founder and chief robot officer Jonathan Hurst noted that earlier versions tested at Amazon required safety fencing. Agility has recorded a $300 million, three-year contract for 1,000 Digit 5 units with an unnamed customer to rent the robots. Agility reported revenue of $1.78 million last year and a loss of $362 million in the first half of this year.
+  中文：总结：总部位于俄勒冈州塞勒姆的Agility Robotics于周四在纳斯达克挂牌上市，股票代码为AGLT，成为美国首家专注于人形机器人的纯正上市公司。 该公司通过与Michael Klein领导的特殊目的收购公司Churchill Capital Corp XI合并实现上市，交易前估值为$2.5 billion，并获得约$465 million的总收益。 周四收盘价为$11.51，上涨2.2%。 该公司的主打产品是双足机器人Digit，最新版本Digit 5身高5英尺11英寸，重284磅，可举起50磅重物，伸展高度7.2英尺，在24小时内可工作超过20小时，且无需安全围栏即可与人类协同工作。 联合创始人Jonathan Hurst表示，早期版本曾在亚马逊进行测试。 Agility已获得一份价值$300 million、为期三年、提供1,000台Digit 5机器人的租赁合同。 该公司去年营收为$1.78 million，今年上半年亏损$362 million。
+  📰 [GeekWire](https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/)
+
+- **[2026.11.06] The Robot Report — How did Agility Robotics perform on its first day on the stock market?**
+  English: Agility Robotics began trading on the Nasdaq Stock Market under the ticker “AGLT” on Thursday, claiming to be the first pure-play legged humanoid company to go public. It started trading at $11.26 per share, above the initial $10 SPAC deal price, hit a low of $8.40 and a high of $12.15, and closed at $11.49, up 2% from its start. Other pure-play robotics providers declined, with Serve Robotics down 12.45%, Intuitive Surgical down 2.82%, Symbotic down 2.47%, and PROCEPT BioRobotics down 6.42%. Unitree trades on the Shanghai Stock Exchange’s STR Market, having debuted at 150.80 yuan ($22.55 U. S. ) and hitting a high of 1,100 yuan ($164.46) before dropping almost 53% from that high. Meanwhile, the broader Nasdaq fell 5.52% amid investor uncertainty around future data center buildouts following midterm elections. Agility plans to begin Digit 5 deliveries to early-access customers in 2027 and has more than $300 million in committed multiyear orders.
+  中文：总结：Agility Robotics于周四在纳斯达克股票市场开始交易，股票代码为“AGLT”，自称是首家上市的纯足式人形机器人公司。 其开盘价为每股$11.26，高于SPAC交易的初始$10价格，盘中低见$8.40，高见$12.15，最终收于$11.49，较开盘上涨2%。 其他纯机器人公司则有所下跌，其中Serve Robotics下跌12.45%，直觉外科下跌2.82%，Symbotic下跌2.47%，PROCEPT BioRobotics下跌6.42%。 宇树科技在上海证券交易所STR市场交易，首发价为150.80元（$22.55 U. S. ），曾触及1,100元（$164.46）的高点，随后自高点下跌近53%。 同时，受期中选举后投资者对未来数据中心建设的不确定性影响，纳斯达克指数整体下跌5.52%。 Agility计划于2027年开始向早期访问客户交付Digit 5，并拥有超过$300 million的承诺多年度订单。
+  📰 [The Robot Report](https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/)
 
 - **[2026.11.06] Investor's Business Daily — Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger**
-  English: The first pure play humanoid robotics company, Agility Robotics (AGLT), begins trading on Thursday morning on the Nasdaq. Agility's flagship product is a humanoid robot known as Digit that is similar to Tesla's (TSLA) Optimus. Agility Robotics completed its merger with Churchill Capital Corp XI as of Wednesday. Agility launched the merger with Churchill, a special purpose acquisition company, in… Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8
+  English: Agility Robotics, the first pure play humanoid robotics company, began trading on the Nasdaq on Thursday morning under the ticker symbol AGLT. The company's flagship product is a humanoid robot named Digit, which is similar to Tesla's Optimus. Agility Robotics completed its merger with the special purpose acquisition company Churchill Capital Corp XI as of Wednesday.
+  中文：总结：首家纯人形机器人公司Agility Robotics于周四上午在纳斯达克开始交易，股票代码为AGLT。 该公司的主打产品是一款名为Digit的人形机器人，类似于特斯拉的Optimus。 截至周三，Agility Robotics已完成与特殊目的收购公司Churchill Capital Corp XI的合并。
   📰 [Investor's Business Daily](https://www.investors.com/news/tesla-agility-robotics-nvidia-amazon-foxconn-optimus-spac-merger/)
 
-- **[2026.11.05] Ars Technica — Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market**
-  English: Humanoid robots remain unproven at scale and have not yet achieved widespread commercialization, compared with industrial robots that have decades of proven track records in warehouses and factories. That frank acknowledgment is among the risks outlined in a securities filing by Agility Robotics—the first dedicated developer of humanoid robots to become a publicly traded company in the United States.
-  📰 [Ars Technica](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)
-
-- **[2026.11.05] TechCrunch — Agility is the first pure humanoid robot company on the stock market. Are you buying?**
-  English: Almost a year ago to the day, Figure AI CEO Brett Adcock responded to some gentle social media taunting from rival robotics company Agility with a prediction: “You’ll be bankrupt in <12 months. ” Instead, Agility is going public through a reverse merger that will see it become a publicly traded company and raise $465 million in new capital from retail investors and a tranche of private funding.
-  📰 [TechCrunch](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)
+- **[2026.11.06] SiliconANGLE — Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger**
+  English: Agility Robotics Inc. debuted on the Nasdaq after completing a merger with special-purpose acquisition company Churchill Capital Corp XI on Wednesday. The deal and related financings pulled in $465 million excluding transaction fees, which Agility will use to bring its Digit 5 robot to market and expand manufacturing capacity. Digit 5 is a nearly six-foot-tall humanoid robot with a 20-hour battery life, custom cycloidal drive actuators allowing it to carry up to 50 pounds, and Nyobolt Ltd. batteries using niobium for a nine-minute recharge. It runs software on Nvidia’s IGX Thor system-on-chip series and uses Nvidia’s HALOS software toolkit for hazard avoidance and safety certifications. Agility has received more than $300 million in pre-orders for Digit 5 from customers including Toyota Motor Co. and GXO Logistics Inc. , alongside three other large manufacturing customers and over 30 prospects. CEO Peggy Johnson stated the company plans an early access program in the first half of 2027, with general availability later that year, manufactured at a 70,000-square-foot factory in Salem, Oregon with a capacity of up to 10,000 robots per year.
+  中文：总结：Agility Robotics Inc. 于周三完成与特殊目的收购公司Churchill Capital Corp XI的合并后，在纳斯达克挂牌上市。 该交易及相关融资筹集了$465 million（不含交易费用），Agility将利用这笔资金将Digit 5机器人推向市场并扩大产能。 Digit 5是一款身高近六英尺的人形机器人，拥有20小时的电池续航时间、基于摆线传动技术的定制执行器（可承载高达50磅重物），并采用英国初创公司Nyobolt Ltd. 使用铌材料的电池，可在9分钟内完成充电。 该机器人运行英伟达的IGX Thor系统级芯片系列软件，并使用英伟达的HALOS软件工具包来规避危险和获取安全认证。 Agility已收到来自丰田汽车和GXO物流等客户以及其他三家大型制造客户和30多家潜在客户的超过$300 million的Digit 5预订单。 首席执行官Peggy Johnson表示，公司计划在2027年上半年开展早期访问计划，同年晚些时候全面上市，并在俄勒冈州塞勒姆占地70,000平方英尺的工厂进行制造，计划年产能最高可达10,000台机器人。
+  📰 [SiliconANGLE](https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/)
 
 
 ---
