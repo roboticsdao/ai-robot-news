@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-08T01:50:08.347882+09:00",
+  "updated_at": "2026-11-08T11:22:22.855653+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-08T01:50:08.347882+09:00",
-    "latest_article_at": "2026-11-07T21:41:40+09:00",
+    "checked_at": "2026-11-08T11:22:22.855653+09:00",
+    "latest_article_at": "2026-11-08T04:17:11+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -24,8 +24,8 @@
       "url": "https://www.controldesign.com/industry-news/news/55417252/abb-robotics-abb-robotics-and-nvidia-partner-to-integrate-omniverse-and-robotstudio-and-advance-physical-ai-skills",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "ABB Robotics and Nvidia are collaborating on an official learning program to build skills in physical AI for the next generation of automation talent. The program incorporates hands-on learning with ABB RobotStudio and Nvidia Omniverse, offering a certificate in robotics, simulation, and physical AI upon completion. ABB Robotics also made its RobotStudio HyperReality available to 60,000 RobotStudio users worldwide following its launch earlier this year. Developed in collaboration with Enodo Robotics, RobotStudio HyperReality integrates ABB's robotics and simulation technology with Enodo's AI-driven robotics software and the OpenUSD ecosystem to support 3D data interoperability across design and simulation.",
-      "summary_zh": "ABB机器人与英伟达正在合作开发一项官方学习计划，旨在为下一代自动化人才培养具身智能领域的技能。 该计划包含使用ABB RobotStudio和英伟达Omniverse的实操学习，并在完成课程后颁发机器人、仿真和具身智能领域的证书。 在此前于今年早些时候发布之后，ABB机器人已向全球60,000名RobotStudio用户开放了其RobotStudio HyperReality。 该技术是由ABB机器人与Enodo Robotics合作开发的，将ABB的机器人与仿真技术同Enodo在人工智能驱动的机器人软件及OpenUSD生态系统方面的专业知识结合起来，以支持设计与仿真之间的3D数据互操作性。"
+      "summary": "ABB Robotics and NVIDIA are collaborating on an official learning program designed to build skills for physical AI, translating capability needs into learning opportunities for the next generation of robotics and automation talent. The program features hands-on learning with ABB RobotStudio and NVIDIA Omniverse, granting a certificate in robotics, simulation, and physical AI upon completion. ABB Robotics' RobotStudio HyperReality, developed in collaboration with Enodo Robotics by combining ABB's simulation technology with Enodo's AI-driven robotics software and the OpenUSD ecosystem, is now available to 60,000 RobotStudio users worldwide following its launch earlier this year.",
+      "summary_zh": "ABB机器人与英伟达正在合作推出一项官方学习计划，旨在培养具身智能所需的技术，将能力需求转化为下一代机器人和自动化人才的学习机会。 该项目包括使用ABB RobotStudio和英伟达Omniverse进行实操学习，并在完成后授予机器人、仿真和具身智能领域的证书。 ABB机器人与Enodo Robotics合作开发的ABB RobotStudio HyperReality将ABB的仿真技术与Enodo的人工智能驱动机器人软件及OpenUSD生态系统相结合，在今年早些时候发布后，现已向全球60,000名RobotStudio用户开放。"
     },
     {
       "date": "2026.11.07",
@@ -35,8 +35,8 @@
       "url": "https://www.automationworld.com/analytics/news/55417273/abb-robotics-launches-blueprint-for-physical-ai-education-at-nvidia-gtc-berlin",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "ABB Robotics has introduced an education program powered by Nvidia AI technologies, focusing on physical AI to prepare industrial talent for the future. Citing research conducted alongside Nvidia, ABB noted that while 53% of companies are building AI fluency, 84% have not redesigned jobs around AI capabilities. The newly developed program combines practical learning simulation, AI development, and robotics using ABB RobotStudio and Nvidia Omniverse, providing a certificate in robotics, simulation, and physical AI upon completion. Additionally, a white paper created for the launch with contributions from Amazon Web Services, AsiaInfo, Deloitte, and SKAI Intelligence emphasizes that industrial physical AI requires collaborative frameworks across academia, employers, and technology organizations to translate potential into improved production systems.",
-      "summary_zh": "ABB机器人推出了一个由英伟达人工智能技术支持的教育项目，重点关注具身智能，以帮助工业人才为未来做好准备。 根据ABB与英伟达共同进行的研究显示，虽然有53%的企业正在建立人工智能熟练度，但仍有84%的企业未围绕人工智能能力重新设计工作岗位。 这一新开发的教育项目利用ABB RobotStudio和英伟达Omniverse将实践学习仿真、人工智能开发和机器人技术结合起来，学员在完成学习后将获得机器人、仿真和具身智能证书。 此外，为配合此次发布而编写的白皮书（由亚马逊云科技、亚信科技、德勤和SKAI Intelligence共同参与贡献）强调，工业具身智能需要学术界、雇主和技术组织之间建立合作框架，才能将潜力转化为不断改进的生产系统。"
+      "summary": "ABB Robotics has developed an education program powered by NVIDIA AI technologies focusing on physical AI to promote talent readiness for industrial AI systems. Marc Segura, president of ABB Robotics, stated that physical AI is reshaping skills needed in industrial environments and that talent readiness is key to achieving the full potential of Autonomous Versatile Robotics. Research from ABB Robotics and NVIDIA highlighted that while 53 percent of companies are building AI fluency, 84 percent have not redesigned jobs around AI capabilities. The program provides hands-on learning with ABB RobotStudio and NVIDIA Omniverse and awards a certificate in robotics, simulation, and physical AI upon completion, with contributions to an accompanying white paper coming from Amazon Web Services, AsiaInfo, Deloitte, and SKAI Intelligence.",
+      "summary_zh": "ABB机器人开发了一项由英伟达人工智能技术支持的具身智能教育计划，旨在提升工业人工智能系统的人才准备度。 ABB机器人总裁Marc Segura表示，具身智能正在重塑工业环境所需的技能，人才准备度是充分发挥自主多功能机器人潜力的关键。 ABB机器人与英伟达的研究表明，虽然53%的公司正在建设人工智能流畅度，但84%的公司尚未围绕人工智能能力重新设计工作岗位。 该项目提供使用ABB RobotStudio和英伟达Omniverse的实操学习，并在完成后颁发机器人、仿真和具身智能证书，其配套白皮书获得了亚马逊云科技、亚信科技、德勤和SKAI Intelligence的贡献支持。"
     },
     {
       "date": "2026.11.06",
@@ -46,8 +46,8 @@
       "url": "https://technologymagazine.com/news/can-meta-fourier-make-embodied-ai-with-nvidia-processors",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Meta Platforms collaborated with Chinese robotics company Fourier to build a prototype humanoid robot named Max within three months as an experimental research platform, with no commercial release scheduled. Standing 1.5m tall and weighing 48kg, the prototype features chest-mounted speakers and a face designed to replicate human expressions. Max is powered by NVIDIA's Jetson Thor chip alongside a software platform for full-body locomotion. Meta personnel, including Vice President of Product for Robotics Li-Chen Miller, worked alongside Fourier engineers at the Shanghai factory. Alex Gu founded Fourier in Shanghai in 2015, manufacturing clinical therapy hardware, rehabilitation systems, and the GRx humanoid series, serving patients across more than 2,000 hospitals and institutions in over 30 countries and regions worldwide.",
-      "summary_zh": "Meta平台与中国机器人公司傅利特合作，在三个月内建造了一个名为Max的原型人形机器人，作为实验研究平台，目前尚无商业发布计划。 该原型身高1.5米，重48公斤，配有胸前扬声器和模仿人类表情的面部。 Max由英伟达的Jetson Thor芯片及全身体态控制软件驱动。 Meta机器人产品副总裁李晨·米勒等人员前往上海工厂与傅利特工程师共同工作。 顾捷于2015年在上海创立了傅利特，生产临床治疗硬件、康复系统及GRx人形系列，服务于全球30多个国家和地区的2000多家医院和机构。"
+      "summary": "Meta Platforms has collaborated with Chinese robotics company Fourier to build a prototype humanoid robot named Max, featuring expressive eyes, a mouth, and a height of 1.5m, powered by an NVIDIA Jetson Thor chip. The 48kg prototype was engineered within three months as an experimental research platform, with no commercial release scheduled. Meta personnel, including VP of Product Robotics Li-Chen Miller, traveled to Shanghai to work alongside Fourier engineers, culminating in a demonstration at an internal robotics summit in late August. Fourier, founded in 2015 by Alex Gu in Shanghai, brings clinical therapy hardware expertise from manufacturing the GRx humanoid series and rehabilitation systems, serving patients across more than 2,000 hospitals and care institutions in more than 30 countries and regions worldwide. The collaboration represents Fourier's first direct partnership with an American big-tech corporation.",
+      "summary_zh": "Meta Platforms与中国机器人公司傅利叶合作制造了一款名为Max的原型人形机器人，高1.5米，重48公斤，配备胸置扬声器和由NVIDIA Jetson Thor芯片驱动的控制系统。 两家公司在三个月内将该原型机开发为实验研究平台，目前暂无商业发布计划。 Meta产品机器人副总裁李辰·米勒前往上海与傅利叶工程师在工厂共事，于8月下旬在内部机器人峰会上进行了展示。 傅利叶由顾捷于2015年在上海创立，专注于临床治疗硬件，其GRx人形系列和康复系统产品服务于全球30多个国家和地区的2,000多家医院和护理机构。 此次合作是傅利叶首次直接与美国大型科技公司开展合作。"
     },
     {
       "date": "2026.11.06",
@@ -57,8 +57,8 @@
       "url": "https://drivesncontrols.com/boston-dynamics-unveils-second-generation-box-shifting-robot/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Boston Dynamics unveiled the second generation of its Stretch robot, designed to autonomously unload boxes from mobile trailers. Stretch Gen 2 features modular hardware upgrades, a swerve drive system, an upgraded gripper, and reduced internal cabling by 81% or about 800 metres to improve uptime and serviceability in logistics environments. The wheeled robot can unload up to 1,000 items per hour, and its battery lasts two shifts while charging to 90% capacity in about 75 minutes. The system uses a pre-trained vision system and a redesigned onboard computing platform with regular software releases for fleet-wide case detection and pick strategies. Brian Donnelly, vice-president and general manager of BD's Logistics Robotics operation, noted that the updates focus on real-world downtime factors.",
-      "summary_zh": "波士顿动力公司推出了第二代Stretch机器人，旨在从移动拖车中自动卸载纸箱。 Stretch Gen 2拥有模块化硬件升级、转向驱动系统、升级的抓取器，并将内部电缆减少了81%或约800米，以改善物流环境中的运行时间和可维护性。 这款轮式机器人每小时可卸载多达1000个物品，电池可持续使用两个班次，并在约75分钟内充至90%的容量。 该系统采用预训练视觉系统和重新设计的车载计算平台，通过定期的软件发布来实现全车队的箱体检测和拣选策略。 波士顿动力公司物流机器人业务副总裁兼总经理布莱恩·唐纳利指出，这些更新侧重于解决实际运行中的停机因素。"
+      "summary": "Boston Dynamics has unveiled the second generation of its Stretch robot, named Stretch Gen 2, designed to autonomously unload boxes from mobile trailers. Featuring major hardware and structural upgrades, the robot can unload up to 1,000 items per hour and includes a multi-pick function, a battery lasting two shifts, and a charging time to 90% capacity in about 75 minutes. The updated modular design allows parts to be swapped in a plug-and-play manner, and internal cabling has been reduced by 81% or around 800 metres to limit intermittent electrical faults. According to Brian Donnelly, vice-president and general manager of BD's Logistics Robotics operation, the redesign focused on real-world factors causing downtime, improving serviceability and toughness in high-volume logistics environments.",
+      "summary_zh": "波士顿动力公司推出了第二代Stretch机器人（Stretch Gen 2），旨在自主从移动挂车中卸载箱子。 该机器人进行了重大的硬件和结构升级，每小时可卸载多达1,000件物品，配备多重抓取功能，电池续航达两个班次，且充电至90%容量约需75分钟。 更新后的模块化设计允许以即插即用方式更换零件，内部电缆减少了81%或约800米，以限制间歇性电气故障。 波士顿动力物流机器人业务副总裁兼总经理布莱恩·唐纳利表示，此次重新设计专注于解决导致停机的实际因素，提升了高吞吐量物流环境中的可维护性和坚固性。"
     },
     {
       "date": "2026.11.07",
@@ -68,19 +68,8 @@
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-robotics-company-founder-says-relocating-office-in-americas-hottest-startup-city-san-francisco-which-he-calls-home-blames-street-dogs-drugs-and-/articleshow/135616386.cms",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Anto Patrex, founder of AI robotics startup Cosmic Brain, relocated his office from a tech incubator on Market Street to the Dogpatch neighbourhood in San Francisco following dog attacks and criminal incidents. Patrex stated that an aggressive bulldog bit him and that a friend suffered severe bite wounds requiring hospital treatment after another attack on Sixth Street. He also cited shattered car glass, drug activity, and an incident where an engineer friend fled after a man pulled down a road sign to strike bystanders. City data recorded 74 dog attacks in the Tenderloin neighbourhood between January and September, while property consultancy Kidder Matthews reported a mid-Market vacancy rate of 32% in the third quarter.",
-      "summary_zh": "人工智能机器人初创公司Cosmic Brain的创始人安托·帕特雷克斯在遭遇狗袭击和犯罪事件后，将其办公室从市场街的一个科技孵化器搬到了旧金山的多格帕奇街区。 帕特雷克斯表示，一只具有攻击性的斗牛犬咬伤了他，而在第六街发生的另一次袭击中，他的一位朋友受了重伤并需要入院治疗。 他还列举了破碎的车窗玻璃、毒品活动，以及一次工程师朋友因男子拉倒路标袭击旁观者而逃跑的事件。 城市数据显示，1月至9月期间藤条园区记录了74起狗袭击事件，而物业咨询公司基德·马修斯报告称第三季度年中市场空置率为32%。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T21:09:15+09:00",
-      "headline": "（第九届进博会）能格斗、会模仿！中国机器人进博秀绝技受外商点赞",
-      "source": "中新经纬",
-      "url": "https://www.jwview.com/jingwei/html/11-07/696081.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "在11月7日举行的第九届进博会现场，一家中国企业的人形机器人进行了精彩演示。 擂台上的机器人不仅能够完成格斗对抗，在受到冲击倒地后还可以自主起身恢复平衡。 同时，该机器人能够实时捕捉现场工作人员的肢体姿态，并同步复刻闪身步等动作，吸引了众多观众驻足观看，并获得了外国参展商的点赞认可。",
-      "summary_zh": "在11月7日举行的第九届进博会现场，一家中国企业的人形机器人进行了精彩演示。 擂台上的机器人不仅能够完成格斗对抗，在受到冲击倒地后还可以自主起身恢复平衡。 同时，该机器人能够实时捕捉现场工作人员的肢体姿态，并同步复刻闪身步等动作，吸引了众多观众驻足观看，并获得了外国参展商的点赞认可。"
+      "summary": "Anto Patrex, founder of AI robotics startup Cosmic Brain, relocated his company's office from Market Street to San Francisco's Dogpatch neighbourhood following dog attacks and other criminal incidents. Patrex stated that physical safety concerns, including a bulldog attack that left a friend needing urgent care for severe bite wounds, encounters with street dogs, shattered car glass on every block, and an incident where an engineer friend fled after a man tried to strike bystanders, prompted the move. Patrex noted that his downtown space, which once incubated over 100 startups, was down to fewer than 10 teams. City data recorded 74 dog attacks in the Tenderloin neighbourhood between January and September, while property consultancy Kidder Matthews put the mid-Market vacancy rate at 32% in the third quarter.",
+      "summary_zh": "人工智能机器人初创公司Cosmic Brain的创始人安托·帕特雷克斯表示，由于狗袭击和其他犯罪事件，他将公司的办公室从市场街搬到了旧金山的多特帕奇社区。 帕特雷克斯称，促使搬迁的原因包括安全隐患，如一次牛头犬袭击导致其朋友因严重咬伤需要紧急护理、多起流浪狗遭遇事件、每条街区都有破碎的车窗玻璃，以及一名男子试图袭击路人导致工程师朋友逃离的事件。 帕特雷克斯指出，他位于市中心的办公空间几年前曾孵化过100多家初创公司，如今只剩下不到10个团队。 城市数据显示，1月至9月期间田德隆社区发生了74起狗袭击事件，而地产咨询公司基德麦修斯指出第三季度中市场街的空置率为32%。"
     },
     {
       "date": "2026.11.07",
@@ -90,8 +79,8 @@
       "url": "https://m.jrj.com.cn/madapter/finance/2026/11/07175659061222.shtml",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "当地时间11月4日，苹果研究团队在arXiv提交论文，披露了人形机器人自主控制系统HALO，并将其部署在宇树科技G1人形机器人上进行验证。 HALO由三个层级协同控制：最上层是基于视觉语言模型（VLM）的任务编排模块，默认采用千问Qwen3.6-35B-A3B模型，在Mac mini上本地运行；中间的动作生成层采用千问Qwen3.5-2B与DiT解码器配合，规划约5秒的全身动作；底层动作跟踪器以每秒50次频率运行，转化为关节控制指令。 论文数据显示，6个未预先扫描的真实环境中，360次单项任务测试平均成功率为91%，3种组合任务各测10次平均成功率为70%。 团队使用250张英伟达H100 GPU耗时约48小时合成训练数据，动作生成器使用64张B200，动作跟踪器使用4张H100。",
-      "summary_zh": "当地时间11月4日，苹果研究团队在arXiv提交论文，披露了人形机器人自主控制系统HALO，并将其部署在宇树科技G1人形机器人上进行验证。 HALO由三个层级协同控制：最上层是基于视觉语言模型（VLM）的任务编排模块，默认采用千问Qwen3.6-35B-A3B模型，在Mac mini上本地运行；中间的动作生成层采用千问Qwen3.5-2B与DiT解码器配合，规划约5秒的全身动作；底层动作跟踪器以每秒50次频率运行，转化为关节控制指令。 论文数据显示，6个未预先扫描的真实环境中，360次单项任务测试平均成功率为91%，3种组合任务各测10次平均成功率为70%。 团队使用250张英伟达H100 GPU耗时约48小时合成训练数据，动作生成器使用64张B200，动作跟踪器使用4张H100。"
+      "summary": "Apple research team published a paper on arXiv detailing the HALO humanoid robot autonomous control system, deploying it on the Unitree G1 humanoid robot to transfer simulation-learned actions to a real-world room. HALO is controlled through three layers: a top-level vision-language model task orchestration module using Qwen3.6-35B-A3B running locally on a Mac mini, an intermediate action generation layer using Qwen3.5-2B paired with a DiT decoder to plan whole-body movements for about 5 seconds, and a bottom-level action tracker running at 50 Hz. In 360 single-task tests across six unmapped real-world environments, the average success rate was 91%, while composite tasks achieved a 70% average success rate across 10 tests. The research team noted that the robot currently relies heavily on visual perception, and adding tactile sensing is a future improvement direction.",
+      "summary_zh": "苹果研究团队在预印本平台arXiv上发表论文，披露了人形机器人自主控制系统HALO，并将其部署在宇树科技G1人形机器人上，以将仿真环境中学到的动作迁移到现实房间中执行。 HALO由三个层级协同控制：最上层是基于视觉语言模型的任务编排模块，默认采用在Mac mini上本地运行的千问Qwen3.6-35B-A3B模型；中间的动作生成层采用千问Qwen3.5-2B配合DiT解码器，规划约5秒的全身动作；底层动作跟踪器以每秒50次的频率运行。 在6个未预先扫描的真实环境中进行的360次单项任务测试中，平均成功率为91%；组合任务在10次测试中平均成功率为70%。 研究团队指出，机器人目前主要依赖视觉感知，加入触觉感知是后续改进方向之一。"
     },
     {
       "date": "2026.11.07",
@@ -101,8 +90,8 @@
       "url": "https://wallstreetcn.com/articles/3785445",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "苹果研究团队于当地时间11月4日在arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO，并将其部署在宇树科技G1人形机器人上进行验证。 研究团队同时公开了相关代码与数据。 HALO采用三层协同控制架构：最上层是基于视觉语言模型（VLM）的任务编排模块，默认采用千问Qwen3.6-35B-A3B，在Mac mini上本地运行；中间层为动作生成层，采用千问Qwen3.5-2B与DiT解码器配合，规划约5秒的全身动作；底层为动作跟踪器，经强化学习和策略蒸馏训练，以每秒50次频率运行。 据论文披露，在6个未预先扫描的真实环境中进行的360次单项任务测试中，平均成功率为91%；另一真实环境中的3种组合任务各测10次，平均成功率为70%。 训练数据方面，团队使用250张英伟达H100 GPU耗时约48小时合成主要训练数据，动作生成器使用64张B200，动作跟踪器使用4张H100。",
-      "summary_zh": "苹果研究团队于当地时间11月4日在arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO，并将其部署在宇树科技G1人形机器人上进行验证。 研究团队同时公开了相关代码与数据。 HALO采用三层协同控制架构：最上层是基于视觉语言模型（VLM）的任务编排模块，默认采用千问Qwen3.6-35B-A3B，在Mac mini上本地运行；中间层为动作生成层，采用千问Qwen3.5-2B与DiT解码器配合，规划约5秒的全身动作；底层为动作跟踪器，经强化学习和策略蒸馏训练，以每秒50次频率运行。 据论文披露，在6个未预先扫描的真实环境中进行的360次单项任务测试中，平均成功率为91%；另一真实环境中的3种组合任务各测10次，平均成功率为70%。 训练数据方面，团队使用250张英伟达H100 GPU耗时约48小时合成主要训练数据，动作生成器使用64张B200，动作跟踪器使用4张H100。"
+      "summary": "Apple's research team published the paper 'Perceptive Humanoid Motion from Simulation' on arXiv, detailing the HALO autonomous control system for humanoid robots. Deployed on Unitree's G1 humanoid robot, HALO enables robots to execute simulated motions in unfamiliar real-world rooms. The research team also open-sourced code and data covering motion generation, tracking, and task orchestration. HALO uses a three-tier collaborative control architecture: the top layer uses the Qwen3.6-35B-A3B visual language model for task orchestration running locally on a Mac mini; the middle layer employs Qwen3.5-2B as a frozen-parameter encoder with a DiT decoder to plan whole-body motions for about 5 seconds; and the bottom layer uses a reinforcement-learning-trained motion tracker operating at 50Hz to convert plans into joint control commands. Tested across 360 single tasks in 6 environments, HALO achieved a 91 percent average success rate, while 3 combination task tests yielded a 70 percent average success rate. To generate training data, the team synthesized approximately 300 hours of primary training data across 1000 procedurally generated virtual home environments using 250 Nvidia H100 GPUs, 64 B200 GPUs, and 4 H100 GPUs. The research team noted that simulation data still required manual prompts and keyframes, and that the robot currently relies heavily on visual perception rather than direct contact sensing.",
+      "summary_zh": "苹果研究团队在arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO，并部署在宇树科技G1机器人上进行验证。 HALO采用三层协同控制架构：最上层基于视觉语言模型千问Qwen3.6-35B-A3B负责任务编排；中间层采用千问Qwen3.5-2B与DiT解码器规划全身动作；底层采用经强化学习训练的动作跟踪器以每秒50次频率执行关节控制。 论文披露，研究团队在6个未预先建图的真实环境中开展360次单项任务测试，平均成功率为91%；对3种组合任务开展测试，平均成功率为70%。 研究团队使用250张英伟达H100 GPU耗时约48小时合成约300小时主要训练数据。 团队指出机器人目前主要依赖视觉感知，加入触觉感知是后续改进方向之一。"
     },
     {
       "date": "2026.11.07",
@@ -112,41 +101,63 @@
       "url": "https://www.jiemian.com/article/15305731.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "11月6日，在杭州举办的第八届浙商大会上，宇树科技董事长王兴兴首次分享了其创业心路历程，并介绍了宇树机器人的多款产品。 他指出，宇树机器人自2020年起便持续推进机器人工厂落地应用，与多家车企及零部件企业达成合作。 王兴兴坦言，当前全球人形机器人尚未进入大规模试验和普及阶段，家庭场景是最大瓶颈。 他看好安保机器人作为行业下一个爆发点，并认为明年或后年具身智能将迎来类似ChatGPT的关键时刻。 同时他指出，当前行业竞争已进入算力与数据比拼阶段，而全球芯片产能远远不够。",
-      "summary_zh": "11月6日，在杭州举办的第八届浙商大会上，宇树科技董事长王兴兴首次分享了其创业心路历程，并介绍了宇树机器人的多款产品。 他指出，宇树机器人自2020年起便持续推进机器人工厂落地应用，与多家车企及零部件企业达成合作。 王兴兴坦言，当前全球人形机器人尚未进入大规模试验和普及阶段，家庭场景是最大瓶颈。 他看好安保机器人作为行业下一个爆发点，并认为明年或后年具身智能将迎来类似ChatGPT的关键时刻。 同时他指出，当前行业竞争已进入算力与数据比拼阶段，而全球芯片产能远远不够。"
+      "summary": "At the 8th Zhejiang Merchants Conference in Hangzhou on November 6, Unitree Technology Chairman Wang Xingxing discussed his entrepreneurial journey and the company's product lineup, highlighting humanoids like the G1, WUDOOT robot, manned mecha, and voice-driven end-to-end models. Wang emphasized the robots' work capabilities, noting that Unitree has deployed robots in its own factory and partnered with automotive enterprises since 2020. However, he stated that humanoid robots have not yet entered large-scale testing and popularization, facing hurdles in home environments due to layout variations. Wang identified security as the industry's next explosion point, citing strong overseas demand for smart security robots capable of handling violent incidents, stopping vehicles, and emergency rescue. He compared current robots to computers of 20 years ago and predicted that within one or two years, robots in completely unfamiliar environments will achieve about 80 percent task completion via voice commands, reaching a tipping point for embodied intelligence. Wang analyzed that industry progress relies on a positive loop of AI data collection, smart scoring, model training, and iterative optimization, turning competition into a battle for computing power and chip production capacity.",
+      "summary_zh": "11月6日，在第八届浙商大会上，宇树科技董事长王兴兴谈及创业历程并介绍公司产品。 王兴兴强调机器人一直具备干活能力，自2020年起持续推进机器人工厂落地应用并与车企合作，但坦言全球人形机器人尚未进入大规模试验和普及阶段，家庭场景是最大瓶颈。 王兴兴看好安保机器人作为行业下一个爆发点，视频展示了现场制暴等实战动作。 他预测明后年机器人在陌生的环境里通过语音可实现80%左右任务，迎来具身智能临界点。 他指出当前行业竞争已进入算力比拼阶段，且全球芯片产能远远不够。"
     },
     {
       "date": "2026.11.06",
-      "published_at": "2026-11-06T17:02:24+09:00",
+      "published_at": "2026-11-06T17:00:00+09:00",
       "headline": "今年我国人形机器人产量或超10万台，行业标准落地护航具身智能规模化发展",
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2429801",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "工业和信息化部人形机器人与具身智能标准化技术委员会2026年度全体会议暨“标准周”活动日前在浙江绍兴上虞区举行。 工业和信息化部副部长柯吉欣在致辞中表示，去年我国人形机器人产量约为2万台，今年上半年已超过4万台，预计全年将超过10万台。 会议强调了标准在推动产业从技术探索迈向规范化、规模化发展中的关键作用。 会上，京东、荣耀等企业代表分别介绍了在人形及具身智能领域的标准制定、供应链建设及技术应用等方面的进展。 此外，上虞区正积极筹建具身智能未来产业先导区，已引进多个头部项目。 相关报告显示，全球具身智能市场规模预计到2030年将达到1.5万亿美元，2025年全球人形机器人出货量约1.8万台，中国企业合计占据全球约74%的出货量份额。 会上还正式授牌成立了数据标准工作组（WG7工作组）。",
-      "summary_zh": "工业和信息化部人形机器人与具身智能标准化技术委员会2026年度全体会议暨“标准周”活动日前在浙江绍兴上虞区举行。 工业和信息化部副部长柯吉欣在致辞中表示，去年我国人形机器人产量约为2万台，今年上半年已超过4万台，预计全年将超过10万台。 会议强调了标准在推动产业从技术探索迈向规范化、规模化发展中的关键作用。 会上，京东、荣耀等企业代表分别介绍了在人形及具身智能领域的标准制定、供应链建设及技术应用等方面的进展。 此外，上虞区正积极筹建具身智能未来产业先导区，已引进多个头部项目。 相关报告显示，全球具身智能市场规模预计到2030年将达到1.5万亿美元，2025年全球人形机器人出货量约1.8万台，中国企业合计占据全球约74%的出货量份额。 会上还正式授牌成立了数据标准工作组（WG7工作组）。"
+      "summary": "The 2026 plenary meeting and Standard Week of the Humanoid Robot and Embodied AI Standardization Technical Committee of the Ministry of Industry and Information Technology was held in Shangyu District, Shaoxing, Zhejiang. Ministry of Industry and Information Technology Vice Minister Ke Jixin stated that China's humanoid robot output was about 20,000 units last year, exceeded 40,000 units in the first half of this year, and is expected to exceed 100,000 units for the whole year. Industry representatives from companies such as Unitree, Leju Robotics, UBTECH, Taihu Robot, Jiuzhou Software, Litu Robot, iQiyi, and others discussed standardization, data governance, open-source ecosystems, and scenario applications. According to the '2026 China Embodied Intelligence Industry Development Report' released at the 1st China International Embodied Intelligence Industry Expo (CIEI 2026), the global embodied intelligence market size is projected to reach $1.5 trillion by 2030, with global humanoid robot shipments expected to reach about 18,000 units in 2025, a year-on-year increase of about 508 percent, with Chinese enterprises accounting for about 74 percent of the global shipment share. Additionally, the WG7 data standard working group was officially established with NavInfo CEO Cheng Peng serving as group leader.",
+      "summary_zh": "工业和信息化部人形机器人与具身智能标准化技术委员2026年度全体会议暨“标准周”活动在浙江绍兴上虞区举行。 工信部副部长柯吉欣在致辞中表示，去年我国人形机器人产量约为2万台，今年上半年已超过4万台，预计全年将超过10万台。 会上，多位产业界代表就具身智能标准落地、数据治理及开源生态发表观点。 首届上海国际具身智能产业博览会发布的《2026中国具身智能产业发展报告》显示，全球具身智能市场规模预计到2030年将达到1.5万亿美元，2025年全球人形机器人出货量约1.8万台，同比增长约508%，中国企业合计占据全球约74%的出货量份额。 此外，数据标准工作组在会上正式授牌成立，四维图新CEO程鹏担任组长单位负责人。"
     },
     {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T00:53:07+09:00",
+      "date": "2026.11.05",
+      "published_at": "2026-11-05T20:14:42+09:00",
+      "headline": "中国工业互联网研究院专家接受央视《新闻1+1》采访解读具身智能机器人工业应用落地",
+      "source": "中国工业互联网研究院",
+      "url": "https://www.china-aii.com/jgdt/7141901.jhtml",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "On November 3, CCTV News channel program 'News 1+1' broadcasted a special feature on the industrial application of embodied intelligence robots, featuring a telephone interview with Wang Xiao, a senior engineer at the Intelligent Research Institute of the China Academy of Information and Communications Technology (CAICT). Wang stated that the robot climbing Mount Tai was an extreme stress test of terrain perception, full-body balance, and energy consumption, but noted that competition does not equal a job qualification certificate, as scale deployment requires real-world operation and economic viability tests. Based on CAICT research into over 900 high-value industrial scenarios, sectors like mining, energy, and chemical engineering offer the most direct replacement benefits for high-risk operations. To promote practical application, CAICT established the CAII Embodied-AI Benchmark, evaluating operational capability, reliability, intelligence, and economic feasibility. Furthermore, CAICT built the 'Model-Data Resonance' evaluation system comprising model capability, agent application, and industrial dataset quality evaluations, having completed industrial evaluations for over 350 domestic and foreign large models and agents by October 2026.",
+      "summary_zh": "11月3日，央视新闻频道《新闻1+1》栏目播出具身智能机器人产业应用落地专题节目，连线中国工业互联网研究院智能化研究所高级工程师王骁进行解读。 王骁表示，机器人登泰山是一次复杂环境下的极限压力测试，但比赛不等于岗位合格证，实现规模化需经真实岗位和经济性考验。 从工业需求看，矿山、能源、化工的高温有毒等高空作业替代收益最直接。 为推动评测应用，工联院构建了CAII Embodied-AI Benchmark具身智能机器人应用能力评测基准，并建成发布“模型-Data Resonance”行动评测体系，截至2026年10月已完成350余个国内外大模型、智能体的工业评测。"
+    },
+    {
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T04:17:11+09:00",
       "headline": "未来機械、墨出しロボット「SUMIDAS」で日本ロボット学会「実用化技術賞」を受賞",
       "source": "山陽新聞",
-      "url": "https://www.sanyonews.jp/article/2010659?rct=prtimes_chushikoku",
+      "url": "https://www.sanyonews.jp/article/2010659",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社未来機械、竹中工務店、レンタルのニッケンが共同開発した墨出しロボット「SUMIDAS」が、一般社団法人日本ロボット学会の2026年度（第31回）「実用化技術賞」を受賞した。 表彰式は2026年9月3日に第44回日本ロボット学会学術講演会の会期中に行われた。 SUMIDASは、3次元レーザ測量機で位置を計測しながらCADデータに基づいて床面に部材の取り付け位置を自動で記す自走式ロボットシステムである。 竹中工務店が基本特許の発明と試作機開発・検証を行し、未来機械が商用機の開発と製造を担当し、レンタルのニッケンが2023年11月からレンタル事業を展開している。 実用化技術賞は産業分野の自動化推進や社会生活改善に直接役立つ優秀な技術の開発者に贈られるもので、未来機械からは代表取締役社長の三宅徹氏ら3名を含む計10名が受賞者となった。 未来機械は今後も機体の製造と供給を担うほか、海外市場向けに共通技術を用いた「HOKUSAI」も展開する。",
-      "summary_zh": "株式会社未来機械、竹中工務店、レンタルのニッケンが共同開発した墨出しロボット「SUMIDAS」が、一般社団法人日本ロボット学会の2026年度（第31回）「実用化技術賞」を受賞した。 表彰式は2026年9月3日に第44回日本ロボット学会学術講演会の会期中に行われた。 SUMIDASは、3次元レーザ測量機で位置を計測しながらCADデータに基づいて床面に部材の取り付け位置を自動で記す自走式ロボットシステムである。 竹中工務店が基本特許の発明と試作機開発・検証を行し、未来機械が商用機の開発と製造を担当し、レンタルのニッケンが2023年11月からレンタル事業を展開している。 実用化技術賞は産業分野の自動化推進や社会生活改善に直接役立つ優秀な技術の開発者に贈られるもので、未来機械からは代表取締役社長の三宅徹氏ら3名を含む計10名が受賞者となった。 未来機械は今後も機体の製造と供給を担うほか、海外市場向けに共通技術を用いた「HOKUSAI」も展開する。"
+      "summary": "株式会社未来機械は、竹中工務店およびレンタルのニッケンと共同開発した墨出しロボット「SUMIDAS」により、日本ロボット学会の2026年度「実用化技術賞」を受賞した。 表彰式は2026年9月3日に開催された。 SUMIDASは3次元レーザ測量機で位置を計測し、CADデータに基づいて床面に墨出し作業を自動で行う自走式ロボットシステムである。 竹中工務店が基本特許と試作機開発を行い、未来機械が商用機開発と製造を担当し、レンタルのニッケンが2023年11月からレンタル事業を行っている。",
+      "summary_zh": "株式会社未来机械与竹中工务店、株式会社日建租赁共同开发的划线机器人“SUMIDAS”获得了日本机器人学会2026年度“实用化技术奖”，表彰式于2026年9月3日举行。 SUMIDAS是利用三次元激光测量仪测量位置、根据CAD数据在地面上自动执行划线作业的自走式机器人系统。 竹中工务店负责基本专利发明与试制机开发验证，未来机械负责商用机开发与制造，日建租赁自2023年11月起开展该机器人的租赁业务。"
     },
     {
       "date": "2026.11.06",
       "published_at": "2026-11-06T13:45:00+09:00",
-      "headline": "【日本初 1棟まるごと！いちご専門店の道の駅 いちごBonBon】 開業8周年！感謝を込めた「いちごの8周年祭」を 11月14日(土)より10日間開催！ 伊豆の国市で製造されている家族型ロボット 「LOVOT[らぼっと]」と一緒に盛り上げます | 株式会社村の駅 道の駅伊豆のへそ、いち",
-      "source": "アットプレス",
-      "url": "https://www.atpress.ne.jp/news/647137",
+      "headline": "【日本初 1棟まるごと！いちご専門店の道の駅 いちごBonBon】 開業8周年！感謝を込めた「いちごの8周年祭」を 11月14日(土)より10日間開催！ 伊豆の国市で製造されている家族型ロボット 「LOVOT[らぼっと]」と一緒に盛り上げます",
+      "source": "Newscast.jp",
+      "url": "https://newscast.jp/smart/news/9752216",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社村の駅が運営するいちご専門店「道の駅伊豆のへそ いちごBonBon 伊豆の国factory」は、オープン8周年を記念し、2026年11月14日(土)から11月23日(月・祝)までの10日間、「いちごの8周年祭」を開催する。 期間中は“8”にちなみ、通常の約8倍に近いいちごを楽しめる「いちご8倍! ! ? BIGボンボンパフェ」（8,888円）や高さ8cmの「いちごのバウムクーヘン」（3,240円）などの限定メニューが数量限定で登場する。 また、伊豆の国市で製造されている家族型ロボット「LOVOT」とのコラボレーションも実施され、限定コスチュームを着た「Bonちゃん」が登場するほか、「いちごのBonちゃんクリーム大福」（900円）がカフェ限定で復活し、オリジナルステッカーがプレゼントされる。 さらに、いちご串づくり体験会や、静岡県産いちごの特売、大抽選会などの企画も用意されている。",
-      "summary_zh": "株式会社村の駅が運営するいちご専門店「道の駅伊豆のへそ いちごBonBon 伊豆の国factory」は、オープン8周年を記念し、2026年11月14日(土)から11月23日(月・祝)までの10日間、「いちごの8周年祭」を開催する。 期間中は“8”にちなみ、通常の約8倍に近いいちごを楽しめる「いちご8倍! ! ? BIGボンボンパフェ」（8,888円）や高さ8cmの「いちごのバウムクーヘン」（3,240円）などの限定メニューが数量限定で登場する。 また、伊豆の国市で製造されている家族型ロボット「LOVOT」とのコラボレーションも実施され、限定コスチュームを着た「Bonちゃん」が登場するほか、「いちごのBonちゃんクリーム大福」（900円）がカフェ限定で復活し、オリジナルステッカーがプレゼントされる。 さらに、いちご串づくり体験会や、静岡県産いちごの特売、大抽選会などの企画も用意されている。"
+      "summary": "イチゴ専門店「道の駅伊豆のへそ いちごBonBon 伊豆の国factory」は、オープン8周年を記念して2026年11月14日から11月23日までの10日間、「いちごの8周年祭」を開催する。 数量限定の「いちご8倍! ! ? BIGボンボンパフェ」（8,888円）や「8cmいちごのバウムクーヘン」（3,240円）など“8”にちなんだ限定メニューが登場する。 また、伊豆の国市で製造されている家族型ロボット「LOVOT」とのコラボレーション企画として、「いちごのBonちゃんクリーム大福」（900円）の販売なども実施される。",
+      "summary_zh": "草莓专卖店“道の駅伊豆のへそ いちごBonBon 伊豆の国factory”为庆祝开业8周年，将于2026年11月14日至11月23日举办为期10天的“草莓8周年祭”。 活动期间将推出数量限定的“草莓8倍! ! ? BIG BonBon圣代”（8,888日元）和“8cm草莓年轮蛋糕”（3,240日元）等与“8”相关的限定菜单。 此外，作为与伊豆之国市制造的家族型机器人“LOVOT”的合作企划，还将销售“草莓Bon酱奶油大福”（900日元）等合作商品。"
+    },
+    {
+      "date": "2026.11.06",
+      "published_at": "2026-11-06T15:30:00+09:00",
+      "headline": "生成AIをロボットや自動車で動かす――「2nm世代エッジAI半導体」の開発プロジェクトを11月11日、東京大学で紹介",
+      "source": "ドリームニュース",
+      "url": "https://www.dreamnews.jp/press/0000367619",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "一般社団法人RISC-V協会は、2026年11月11日に東京大学で開催する「RISC-V Day Tokyo 2026 Autumn」において、産業技術総合研究所の大内真一氏による講演「2nm世代半導体技術によるエッジAIアクセラレータの開発」を実施する。 本プロジェクトは、NEDOの委託事業としてLSTCが推進するもので、産総研、東京大学、Rapidus、Tenstorrentなどが連携し、2nm世代の半導体プロセスとRISC-V CPU、AIアクセラレータを組み合わせて、ロボットや自動車向けの高性能・低消費電力のエッジAI推論の実現を目指している。",
+      "summary_zh": "一般社团法人RISC-V协会将于2026年11月11日在东京大学举办的“RISC-V Day Tokyo 2026 Autumn”上，进行产业技术综合研究所大内真一关于“利用2nm世代半导体技术开发边缘AI加速器”的演讲。 该项目是由LSTC作为NEDO委托业务推进的研究，产总研、东京大学、Rapidus和Tenstorrent等机构展开合作，通过将2nm世代半导体工艺与RISC-V CPU及AI加速器相结合，旨在为机器人和汽车实现高性能、低功耗的边缘AI推理。"
     },
     {
       "date": "2026.11.06",
@@ -156,8 +167,8 @@
       "url": "https://prtimes.jp/main/html/rd/p/000002224.000026157.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "RX Japan合同会社は、2026年12月2日から4日まで有明GYM-EXにて、観光・宿泊・飲食業界向けの展示会「第1回 ホスピタリティテックEXPO」を開催する。 観光庁が推進する観光DXや人手不足・コスト上昇への対策を背景に、AI、ロボット、IoT、クラウドサービスなどの製品やサービスが一堂に集結する。 特別カンファレンスとして米国発祥のホテル業界向け技術展示会「HITEC TOKYO」が日本初開催されるほか、ヒューマノイドロボットによるドリンク提供やスマートモビリティ試乗体験、防災ソリューション特別展示、全国女将サミット2026などが実施される。 会期中には40以上のカンファレンスも併催され、業界の第一人者らが登壇して最新動向や課題解決策を解説する。",
-      "summary_zh": "RX Japan合同会社将于2026年12月2日至4日在有明GYM-EX举办面向观光、住宿和餐饮行业的展会“第1届 Hospitality Tech EXPO”。 在观光厅推进观光DX以及人手不足和成本上升的背景下，AI、机器人、IoT、云服务等产品与服务将汇聚一堂。 展会内将首次在日本举办美国起源的酒店行业技术展会“HITEC TOKYO”特别会议，并将实施人形机器人提供饮料、智能移动设备试乘体验、防灾解决方案特别展示以及全国老板娘峰会2026等活动。 会期中还将举办40多场会议，由行业第一人登台解说最新动向与课题解决方案。"
+      "summary": "RX Japan合同会社は、2026年12月2日から4日まで有明GYM-EXにて「第1回 ホスピタリティテックEXPO」を開催する。 観光・宿泊・飲食業界の人手不足やコスト上昇の課題を背景に、DX、AI、ロボットなどの最新製品・サービスが集結する。 会場内では、日本初開催となるホテル向けテクノロジーのカンファレンス「HITEC TOKYO」をはじめ、ヒューマノイドロボットによるドリンク提供、スマートモビリティ試乗体験、防災ソリューション特別展示、全国女将サミット2026などが実施され、40以上のカンファレンスも併催される予定である。",
+      "summary_zh": "RX Japan合同会社将于2026年12月2日至4日在有明GYM-EX举办第一届“Hospitality Tech EXPO”。 针对观光、住宿及餐饮行业面临的人手不足与成本上升问题，展会将集中展示DX、AI和机器人等最新产品与服务。 展会期间将首次在日本举办酒店业技术国际会议“HITEC TOKYO”特别分会，并设立人形机器人饮料柜台、智能移动设备试乘体验、防灾解决方案特展以及全国女将峰会2026等活动，同时举办40场以上的专业会议。"
     },
     {
       "date": "2026.11.06",
@@ -167,19 +178,30 @@
       "url": "https://www.vietnam.vn/ja/robot-cham-soc-nguoi-gia-duoc-ua-chuong-o-nhat",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "人口の高齢化に伴い、長期介護を必要とする人が増加する中、人材不足を補うため介護ロボットやモニタリング技術の導入が進んでいる。 日本政府は2015年から介護施設へのロボット購入補助を開始し、2022年までに国内の介護施設の70%以上が少なくとも1台を導入した。 フローニンゲン大学、カールトン大学、成蔡大学の科学者チームが日本の高齢者を対象に実施した調査では、回答者の3分の2が人間の介護者しかいない施設よりもロボットがいる施設を好むと答えた。 ロボットの種類別では移動補助ロボットが最も歓迎され（70%）、監視ロボット（66%）、コミュニケーションロボット（59%）と続いた。 参加者は移動ロボットが介護者の肉体的負担を軽減し、会話の時間を増やすと述べており、高齢者はコミュニケーションよりも身体的作業をロボットに任せることに抵抗を感じにくいことが示された。",
-      "summary_zh": "随着人口老龄化带来长期护理需求增加，为弥补人才不足，护理机器人与监测技术的引入正在推进。 日本政府自2015年起对护理设施购买机器人提供补贴，截至2022年国内70%以上的护理设施引入了至少1台护理机器人。 格罗宁根大学、卡尔顿大学和成蔡大学的科学团队针对日本老年人实施的调查显示，三分之二的受访者表示更喜欢有机器人的护理设施，而不是只有人类护理员的设施。 按机器人类型来看，移动辅助机器人最受欢迎（70%），其次是监控机器人（66%）和通信机器人（59%）。 参与者表示移动机器人能减轻护理员的体力负担并增加交流时间，这表明老年人对于将身体作业交由机器人比交由通信机器人承担更少抗拒感。"
+      "summary": "人口高齢化に伴う長期介護の需要増加や人材不足に対処するため、国内外の研究者チームが日本の高齢者を対象にロボット介護に関する意識調査を実施した。 調査の結果、回答者の3分の2が人間の介護者のみの施設よりもロボットがいる施設を好むと答え、移動補助ロボットが最も歓迎された一方で、コミュニケーションロボットに対する抵抗感が最も高いことが明らかになった。 研究者らは、負担になりたくないという日本文化や先進的な取り組みの経験が、介護者不足に悩む他の国々にとって有益な示唆になると指摘している。",
+      "summary_zh": "为应对人口老龄化带来的长期护理需求增长与人才短缺，来自荷兰、加拿大和日本的科学家团队针对日本老年人对机器人护理服务的意愿进行了调查。 结果显示，三分之二的受访者更倾向于选择有机器人存在的护理设施而非只有人类护理员的设施；其中移动辅助机器人最受欢迎，而通信机器人受到的抵触情绪最高。 研究人员指出，不愿给他人添麻烦的日本文化及相关经验，能为受困于护理人员短缺的其他国家提供有益参考。"
     },
     {
-      "date": "2026.11.05",
-      "published_at": "2026-11-05T19:26:00+09:00",
-      "headline": "トヨタ、ロボット事業を全社直轄に 「トヨタロボティクス」来年1月発足",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/a5509fa4-efd8-487c-b593-6d7cffbf599e",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "トヨタ自動車は、2027年1月1日付でロボット事業の推進体制を全社直轄組織「トヨタロボティクス」へと抜本的に組み替えると発表した。 組織長には志賀武文執行役員兼CPOが就任し、開発から現場導入、事業化までを一気通貫で進める。 製造現場の課題を起点に、自社グループや仕入先への導入を経て、他社への外販や生活領域へ段階的に拡大する計画である。 第2四半期決算説明会で宮崎洋一副社長は、売上高を2030年以降に伸ばす方針を示した。 ファクトリーオートメーション投資として年間1兆円規模を投じ、2028年から40年までにトヨタグループで15万台、仕入先で25万台の計40万台規模のロボット導入を見込む。 また、新事業の人材育成を担う教育本部の本部長には豊田章男会長が就く。",
-      "summary_zh": "丰田汽车宣布，将于2027年1月1日起对机器人业务推进体制进行根本性重组，设立公司直属组织“丰田机器人学”。 执行董事兼CPO志贺武文将担任组织负责人，一体化推进从开发到现场导入及商业化的全过程。 计划以制造现场的课题为起点，在导入自身集团及供应商后，分阶段向其他企业外销及生活领域拓展。 在第二季度财报说明会上，副社长宫崎洋一表示了在2030年以后扩大销售额的方针。 作为工厂自动化投资，计划每年投入1万亿日元规模，预计从2028年到2040年丰田集团内部及供应商将合计引入40万台规模的机器人。 此外，担任新业务人才培养职责的教育本部部长由会长丰田章男担任。"
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T04:03:33+09:00",
+      "headline": "Agility Robotics Ends Nasdaq Debut With Shares at $10.12",
+      "source": "TOKENPOST",
+      "url": "https://www.tokenpost.com/news/investing/51008",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "Agility Robotics shares closed at $10.12 on November 5 during their first Nasdaq session, trading between a low of $8.40 and a high of $11.49 after opening in the $11.26 to $11.38 range. The company manufactures humanoid robots like the Digit 5 for warehouse and factory tasks such as loading, sorting, and inspection, and has cited over $300 million in multi-year Digit 5 commitments. Trading followed a business combination with Churchill Capital Corp XI and related financings that raised about $465 million in gross capital before expenses, from a deal announced in June that valued Agility at $2.5 billion before the merger.",
+      "summary_zh": "Agility Robotics股票在11月5日首次登陆纳斯达克时以$10.12收盘，盘中交易区间为最低$8.40至最高$11.49，开盘价在$11.26至$11.38之间。 该公司制造用于仓库和工厂任务的人形机器人，例如其Digit 5型号，并已公布超过$300 million的多年度Digit 5承诺订单。 此次上市是在Agility与Churchill Capital Corp XI完成业务合并及相关融资之后进行的，该交易在扣除费用前筹集了大约$465 million的总资本，并在6月份宣布的交易中使Agility在合并前的估值为$2.5 billion。"
+    },
+    {
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T02:00:00+09:00",
+      "headline": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/07/every-humanoid-robot-needs-rare-earth-magnets-here/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "As humanoid robotics grow as a technology trend, increasing demand is set to drive higher requirements for rare-earth minerals and magnets, which are crucial for robot movement. Geopolitical dynamics and supply constraints present sourcing challenges, particularly for U. S. companies, as China accounts for roughly 60% of global rare-earth mining and 90% of processing. MP Materials CEO James Litinsky stated that each humanoid robot requires between 8 and 10 pounds of rare-earth-magnet content, which is double to triple the amount in electric vehicles. MP Materials' share price is down roughly 62% from its high amid questions about growth bets and pricing power, and the company is valued at approximately 15 times this year's expected sales.",
+      "summary_zh": "随着人形机器人成为一项重要的技术趋势，其对稀土矿物和磁铁的需求预计将进一步上升，这些元素和复合材料是机器人实现运动的关键基础。 地缘政治动态和供应限制带来了采购挑战，特别是对美国公司而言，因为中国承担了全球大约60%的稀土开采和90%的加工。 MP Materials首席执行官James Litinsky表示，每个人形机器人需要8至10磅的稀土磁铁成分，这相当于电动汽车使用量的两到三倍。 由于市场对增长押注和定价能力存疑，该公司股价较历史高点下跌了约62%，目前的估值约为今年预期销售额的15倍。"
     },
     {
       "date": "2026.11.07",
@@ -189,19 +211,8 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-jeff-brown-chip-play-124140081.html",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "ON Semiconductor ranks seventh on a list of stocks that could skyrocket by 2027, driven by strong hedge fund interest and a projected 36% upside potential. Jeff Brown of the Near Future Report highlights the company as a key play on Tesla's Optimus robot, arguing that its chips deliver power to robotic motors and sensors more efficiently than ordinary alternatives. Meanwhile, SpaceX reported record third-quarter revenue and profit with its AI business driving nearly half of its sales. Elon Musk stated that SpaceX and Tesla have formed independent committees to study a potential combination, with Gene Munster estimating a 95% chance of a deal within two years. SpaceX is also expanding its connectivity revenue and pursuing terrestrial network deals, supported by high capital spending plans and a $63 billion backlog.",
-      "summary_zh": "安森美半导体在可能在2027年飙升的股票名单中排名第七，拥有强烈的对冲基金兴趣和36%的平均上涨潜力。 《近未来报告》的杰夫·布朗将该公司称为押注特斯拉Optimus机器人的首选股，认为其芯片能比普通芯片更高效地向机器人的马达和传感器输送动力并控制电源。 与此同时公布的财报显示，SpaceX第三季度营收和利润超出华尔街预期，其AI业务贡献了近一半的销售额。 埃隆·马斯克在财报电话会议上表示，SpaceX和Tesla各自成立了独立董事委员会来研究合并的可能性，吉恩·芒斯特预计两年内达成交易的几率高达95%。 此外，SpaceX的连接业务收入显著增长，并计划扩大地面蜂窝网络布局，拥有630亿美元的订单 backlog 作为支撑。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T11:54:56+09:00",
-      "headline": "Agility Robotics co-founder on its Nasdaq debut, lessons from Amazon, and the future of work",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Agility Robotics debuted on the Nasdaq under the ticker AGLT as the first publicly traded U. S. company devoted solely to humanoid robots, following a merger with Churchill Capital Corp XI that valued the firm at $2.5 billion before new investment and brought in about $465 million in gross proceeds. Co-founder and chief robot officer Jonathan Hurst acknowledged that fully replacing human physical work is a grand challenge taking more than a few years. The company's primary product, the bipedal robot Digit 5, is designed to work alongside humans without physical barriers, featuring advanced sensors, AI navigation, and the capability to lift 50 pounds. Agility previously worked with Amazon, which tested earlier versions but could not deploy them due to strict safety certification hurdles. Agility recorded $1.78 million in revenue last year, lost $362 million in the first half of this year, and has secured a $300 million, three-year rental contract for 1,000 Digit 5 robots with an unnamed customer.",
-      "summary_zh": "Agility Robotics在纳斯达克挂牌上市，股票代码为AGLT，成为美国首家专注于人形机器人的上市公司。 该公司通过与特殊目的收购公司Churchill Capital Corp XI合并上市，在获得新投资前的估值为$2.5 billion，并筹集了约4.65亿美元的总收益。 联合创始人兼首席机器人官乔纳森·赫斯特表示，完全替代人类体力劳动是一项需要长期努力的宏大挑战。 其核心产品Digit 5是一款双足机器人，旨在无需物理隔离的情况下与人类并肩工作，配备了先进的传感器、AI导航并能搬运50磅重物。 Agility曾与亚马逊合作测试早期版本，但因安全认证门槛未能部署。 该公司去年营收为$1.78 million（原文1.78 million），今年上半年亏损3.62亿美元，并已与一名未具名客户签署了一项价值3亿美元、为期三年、租赁1000台Digit 5机器人的合同。"
+      "summary": "ON Semiconductor took the No. 7 spot on a list of stocks that could skyrocket in 2027, drawing one tease in recent newsletter promotions from Stock Gumshoe with an average upside potential of 36% and strong hedge fund interest with 86 holders as of Q2 2026. Jeff Brown of the Near Future Report pitches the company as a top stock for the AI revolution tied to Tesla's Optimus robot, arguing that ON Semiconductor makes chips that efficiently control and deliver power to tiny motors in robot arms, legs, and fingers, while also producing sensors that robots can use to see and feel their surroundings.",
+      "summary_zh": "ON Semiconductor在可能于2027年飙升的股票列表中占据第7位，在Stock Gumshoe最近三个月的简报推广中获得1次提及，平均上涨潜力为36%，截至2026年第二季度拥有86家对冲基金持仓。 Near Future Report的作者Jeff Brown将该公司推介为与特斯拉Optimus机器人相关的AI革命顶级股票，认为ON Semiconductor制造的芯片能够高效地向机器人手臂、腿部和手指中的微型马达控制和输送电力，同时该公司还生产供机器人感知周围环境的传感器。"
     },
     {
       "date": "2026.11.06",
@@ -211,30 +222,19 @@
       "url": "https://www.unite.ai/xinhua-unveils-bionic-humanoid-robot-news-anchors-with-ubtech/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Xinhua News Agency unveiled two bionic humanoid robot news anchors, Xinyu and Xinyan, developed in partnership with UBTECH on November 5, 2026, at an artificial intelligence forum in Beijing. Designed for broadcast presentation with film director Zhang Yimou serving as chief image designer, the robots connect to Xinhua Yudian to retrieve reviewed and authoritative current-affairs information in real time. UBTECH contributed bionic skin, embodied-intelligence hardware, an operating system, and an emotional large model to the project. Xinhua's New Media Center described the robots as editorial tools intended to support human journalists rather than replace them, with planned applications including research bases, city reception venues, overseas cultural exchanges, and deep-space exploration reporting. The unveiling occurred during the seventh World Media Summit, which brought together nearly 500 delegates across 112 countries and regions.",
-      "summary_zh": "新华通讯社于2026年11月5日在北京举行的论坛上，与优必选共同发布了两名仿生人形机器人新闻主播“新雨”和“新言”。 这两位主播采用真人比例定制，由电影导演张艺谋担任首席形象设计师，旨在平衡新闻播报的严肃严谨与自然仿生真实感。 机器人通过技术接口连接新华妙点，能够实时检索经过审校的权威时政信息，优必选则提供了仿生skin、具身智能硬件、操作系统及情感大模型等技术支持。 新华社新媒体中心表示，这些机器人是旨在辅助而非取代人类记者的编辑工具，其未来计划应用场景包括研究基地、城市接待场所、海外文化交流及深空探测报道。 此次发布会是第七届世界媒体峰会的一部分，峰会吸引了来自112个国家和地区的近500名代表参加。"
+      "summary": "Xinhua News Agency unveiled two bionic humanoid robot news anchors named Xinyu and Xinyan on November 5, 2026, at an AI forum in Beijing, developed jointly with UBTECH. Film director Zhang Yimou served as chief image designer, while UBTECH contributed bionic skin, embodied-intelligence hardware, an operating system, and an emotional large model. The robots connect to Xinhua Yudian, an AI current-affairs information agent and corpus, to ensure content is traceable, secure, and controllable. Xinhua's New Media Center described them as a new type of editorial job to support staff rather than act as autonomous authors, alongside plans for broader applications and an AI industry alliance.",
+      "summary_zh": "新华通讯社于2026年11月5日在北京举行的会议上，与优必选（UBTECH）共同推出了两名名为“鑫宇”和“鑫妍”的仿生人形机器人新闻主播。 电影导演张艺谋担任首席形象设计并领导具身视觉设计，优必选则提供了仿生皮肤、具身智能硬件、操作系统、情感大模型及整机制造。 这些机器人连接到新华社的人工智能时政信息代理和权威语料库“新华语点”，以确保内容可溯源、安全和可控。 新华社新媒体中心将其描述为协助编辑人员的新型编辑岗位，并非自主新闻创作者，并计划将其应用于更广泛的场景及建立AI产业联盟。"
     },
     {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T20:00:00+09:00",
-      "headline": "StarBot Spark is a three-foot humanoid robot built in the US for $7,999",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/07/starbot-spark-is-a-three-foot-humanoid-robot-built-in-the-us-for-7999/",
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T02:55:00+09:00",
+      "headline": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/six-agibot-humanoid-robots-complete",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "StarBot Robotics has introduced Spark, a three-foot-tall, 35-pound humanoid robot built in Santa Barbara, California, featuring 22 degrees of freedom and a standard price starting at $7,999, with an introductory price of $5,999 for the first 100 confirmed orders. Designed for classrooms, robotics education, and software developers as an open-development platform, Spark runs on a 24-volt battery providing up to three hours of runtime and supports over-the-air updates. The company was founded on work that began with a Unitree G1 purchased in early 2025, and StarBot claims Spark is North America's first US-made developer humanoid robot in its size and price category. Customers can reserve a unit with a $200 deposit, though StarBot has not published a guaranteed ship window or delivery date.",
-      "summary_zh": "StarBot Robotics推出了名为Spark的人形机器人，该机器人在加利福尼亚州圣巴巴拉制造，身高约3英尺，重35磅，拥有22个自由度。 其标准售价起步于7999美元，前100名确认订单可享受5999美元的早鸟价。 Spark旨在服务于课堂、机器人教育以及寻求开放式开发平台的软件开发者，配备可提供长达3小时续航的24伏电池并支持空中下载更新。 该公司在2025年初购入Unitree G1进行研究并以此为基础开展工作，StarBot宣称Spark是北美同尺寸和价格类别中首款美国制造的开发者人形机器人。 客户可通过支付200美元定金进行预订，但StarBot尚未公布确切的发货时间窗口或交货日期。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T19:00:00+09:00",
-      "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "A journalist chronicled an experience using a humanoid-robot cleaning service in San Francisco operated by startup Tau Robotics, which deploys robots piloted remotely by humans via cameras mounted in their heads and wrists. At the time of booking, the service cost $30 for an hourlong cleaning with a single robot, with current pricing set at $60 per weekly cleaning with two robots or $100 for a single visit. The robots feature a 3D-printed head with antennae, 3D-printed claw hands, and wear grippy socks to protect hardwood floors. While human operators guide the robots through complex tasks like laundry folding and bed making via kinematic guidance to gather valuable training data, co-founder Cornelia Weinzierl noted that the robots can already independently handle tasks like vacuuming and mopping. During the visit, the robot successfully navigated to the apartment but struggled with stairs due to signal transmission delays and overheating issues caused by unseasonably hot weather.",
-      "summary_zh": "一名记者记录了在旧金山体验由初创公司Tau Robotics运营的人形机器人清洁服务的经历，该服务使用由人类通过头部和手腕内置摄像头进行远程操控的机器人。 预订时单台机器人一小时清洁费用为30美元，目前定价为每周两次清洁60美元或单次访问100美元。 机器人配有带有天线的3D打印头部、3D打印爪形手，并穿着防滑袜以保护硬木地板。 联合创始人科妮莉亚·温齐尔表示，虽然人类操作员通过运动学引导远程操控折叠衣物和整理床铺等复杂任务以收集宝贵的训练数据，但机器人已经能够独立处理吸尘和拖地等任务。 在访问期间，机器人在抵达公寓时由于信号传输延迟以及反常炎热天气导致的过热问题，在爬楼梯时遇到了一些困难。"
+      "summary": "Six humanoid robots completed a 24-hour shift working in a Shanghai convenience store from 10 a. m. on November 2 to 10 a. m. on November 3 during an experiment organized by AGIBOT in the Xuhui district, livestreamed to over two million viewers. The six G2 wheeled humanoid robots performed tasks including customer service, product handling, coffee preparation, hot-food service, and cleaning, collectively completing 1,730 tasks across four operating shifts. While four machines passed the final performance assessments, two robots assigned to cleaning, shelf inspection, and restocking failed to meet criteria after encountering difficulties such as an overflowing trash bin and lagging behind store replenishment needs.",
+      "summary_zh": "在由智元机器人（AGIBOT）组织、于11月2日上午10点至11月3日上午10点在上海徐汇区一家营业中的便利店进行的实验中，6个人形机器人在便利店完成了24小时的轮班工作，吸引了超过两百万在线观众。 这6台G2轮式人形机器人承担了客户服务、商品搬运、咖啡制作、热食服务和清洁等职责，在四个运营班次中总共完成了1730项任务。 最终有4台机器通过了考核，但负责清洁、货架检查和补货的2台机器未能达到绩效标准，原因包括遇到了被垃圾桶堵住路线等突发状况以及未能跟上货架补货需求。"
     }
   ]
 }
