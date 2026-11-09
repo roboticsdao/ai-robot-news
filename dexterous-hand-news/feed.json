@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-08T11:15:03.361040+09:00",
+  "updated_at": "2026-11-09T11:32:03.268327+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-08T11:15:03.361040+09:00",
-    "latest_article_at": "2026-11-07T11:50:52+09:00",
+    "checked_at": "2026-11-09T11:32:03.268327+09:00",
+    "latest_article_at": "2026-11-09T11:07:02+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -14,6 +14,39 @@
   },
   "articles": [
     {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T11:07:02+09:00",
+      "headline": "因时机器人展示三款灵巧手新品_车市动态",
+      "source": "中金在线",
+      "url": "http://auto.cnfol.com/cheshidongtai/20261109/32418647.shtml",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在首钢园举办机器人产业链共创论坛及新品体验会。 因时机器人在此次活动中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料(迁安)股份有限公司、北京邮电大学举行联合实验室揭牌仪式，合作共建“软磁材料应用技术联合实验室”与“具身智能机器人仿人灵巧操作联合实验室”。 活动现场还展出了其他系列灵巧手、微型伺服电缸以及搭载灵巧手の“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强与产业链上下游及科研机构的合作。",
+      "summary_zh": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在首钢园举办机器人产业链共创论坛及新品体验会。 因时机器人在此次活动中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料(迁安)股份有限公司、北京邮电大学举行联合实验室揭牌仪式，合作共建“软磁材料应用技术联合实验室”与“具身智能机器人仿人灵巧操作联合实验室”。 活动现场还展出了其他系列灵巧手、微型伺服电缸以及搭载因时灵巧手の“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强与产业链上下游及科研机构的合作。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T10:00:02+09:00",
+      "headline": "【第1期予約完売】20自由度ロボットハンド「Wuji Hand 2」第2期予約受付を開始 ― 現場ですぐ使える双腕データ収集システムもあわせてご提案",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192177.html",
+      "language": "Japanese",
+      "section": "Global",
+      "summary": "フィジカルAI・ロボティクス事業を展開するHumansX株式会社は、日本唯一の正規代理店として販売する20自由度ロボットハンド「Wuji Hand 2」の第1期出荷分が予約で完売したことを受け、2027年2月以降に順次納品する第2期の予約受付を開始した。 あわせて、Wuji Hand 2と触覚データグローブ「Wuji Glove」を搭載した双腕データ収集システムの提案も開始する。 Wuji Hand 2は各指4自由度、計20自由度をすべて能動で動かす器用なロボットハンドで、ダイレクトドライブ関節や1000Hz×20軸の高速制御などに対応する。 Wuji Gloveは手のひら全面に526点の触覚センサを備え、手の動きと触覚を同時に計測できる。 同社は製品販売に加え、日本語サポートや現地セットアップなどの国内支援も提供する。",
+      "summary_zh": "开展物理AI与机器人业务的HumansX株式会社宣布，由于作为日本唯一正规代理商销售的20自由度机器人手“Wuji Hand 2”第一期出货量预约售罄，现已开始接受自2027年2月起依次交付的第二期预约。 同时，该公司开始推介搭载Wuji Hand 2与触觉数据手套“Wuji Glove”的双腕数据收集系统。 “Wuji Hand 2”是一款每指4自由度、总计20自由度全部主动运动的灵巧机器人手，支持直驱动关节及1000Hz×20轴的高速控制等。 “Wuji Glove”在手掌全面配备526个触觉传感器，可同时测量手部运动与触觉。 该公司除销售产品外，还提供日文支持及现场设置等日本国内支援。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T01:04:28+09:00",
+      "headline": "不是天才，是工程师：灵心巧手周永不追全栈热潮，专注做好一双灵巧手",
+      "source": "金融界",
+      "url": "https://m.jrj.com.cn/madapter/finance/2026/11/09000459063750.shtml",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了对人形机器人与具身智能产业的判断。 灵心巧手专注灵巧手及技能研发，不盲目铺全栈产品线。 周永提出未来要在真实世界部署100万双灵巧手，沉淀100万种可复用作业技能的长期目标。 他认为具身智能行业当前处在爆发前夕，预测3年后出货量有望达到当前10倍，6年后增长至100倍，10年后或将实现数千倍乃至数万倍增长。 周永强调工程精神的重要性，并表示团队在招人时优先选择发自内心热爱这件事、拥有内生动力的理工科人才。",
+      "summary_zh": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了对人形机器人与具身智能产业的判断。 灵心巧手专注灵巧手及技能研发，不盲目铺全栈产品线。 周永提出未来要在真实世界部署100万双灵巧手，沉淀100万种可复用作业技能的长期目标。 他认为具身智能行业当前处在爆发前夕，预测3年后出货量有望达到当前10倍，6年后增长至100倍，10年后或将实现数千倍乃至数万倍增长。 周永强调工程精神的重要性，并表示团队在招人时优先选择发自内心热爱这件事、拥有内生动力的理工科人才。"
+    },
+    {
       "date": "2026.11.07",
       "published_at": "2026-11-07T11:50:52+09:00",
       "headline": "基于统一热感知的多模态多维触觉传感器及其机器人精细操作应用",
@@ -21,30 +54,8 @@
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107082300977.htm",
       "language": "Chinese",
       "section": "Global",
-      "summary": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够同时感知接触状态、滑移、纹理、温度和多维力。 该传感器结构轻巧（0.33 g），接触与滑移检测时间约为5 ms，高度检测精度约为20 µm，具备低迟滞和低串扰特性。 研究团队将其应用于机器人精细操作，实现了触觉感知与控制的协同，以应对不平整表面、自动化装配和防碰撞等任务。",
-      "summary_zh": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够同时感知接触状态、滑移、纹理、温度和多维力。 该传感器结构轻巧（0.33 g），接触与滑移检测时间约为5 ms，高度检测精度约为20 µm，具备低迟滞和低串扰特性。 研究团队将其应用于机器人精细操作，实现了触觉感知与控制的协同，以应对不平整表面、自动化装配和防碰撞等任务。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T18:19:35+09:00",
-      "headline": "稳握蛋壳不碎！索拉智能为机器人装上国产“灵巧手”",
-      "source": "21财经",
-      "url": "https://www.21jingji.com/article/20261106/herald/8273af79c48daecebe5fd23dff9aa466.html",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "惠州市索拉智能科技有限公司专注于智能网联汽车和具身智能两大领域，业务涵盖车载大屏执行机构、机器人关节模组及灵巧手。 该公司凭借双步电机与双磁编耦合技术将屏幕控制精度提升至0.02毫米，并采用智能电动防夹方案。 在机器人领域，索拉智能推出了自研一体化关节模组，摆脱海外依赖；同时与哈工大（深圳）袁晗教授团队共建智能柔性机器人联合实验室，其研发的灵巧手在测试中协同闭合时间约为0.182秒，循环万次后运动保持率超98%，并在2025年深圳智能机器人灵巧手大赛创意赛中夺冠。",
-      "summary_zh": "惠州市索拉智能科技有限公司专注于智能网联汽车和具身智能两大领域，业务涵盖车载大屏执行机构、机器人关节模组及灵巧手。 该公司凭借双步电机与双磁编耦合技术将屏幕控制精度提升至0.02毫米，并采用智能电动防夹方案。 在机器人领域，索拉智能推出了自研一体化关节模组，摆脱海外依赖；同时与哈工大（深圳）袁晗教授团队共建智能柔性机器人联合实验室，其研发的灵巧手在测试中协同闭合时间约为0.182秒，循环万次后运动保持率超98%，并在2025年深圳智能机器人灵巧手大赛创意赛中夺冠。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T12:47:00+09:00",
-      "headline": "“杭州新八骏”曦诺未来展出两款灵巧手，称赛道竞争激烈，但技术尚未收敛",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c06704zcou.html?from=tech",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "在第五届全球数字贸易博览会上，杭州曦诺未来科技有限公司展示了全球首款混驱灵巧手Flex 2与科研级纯直驱灵巧手Prima 1两款产品。 Flex 2面向工业与消费级市场，具备23自由度，手掌重400克，可提拉20公斤负载；Prima 1面向算法与模型训练，具备22自由度，支持0.08秒极速开合。 该公司采取“科研训练+商业化落地”的双轮驱动战略，通过数据采集与算法迭代实现性能跃迁。 自2024年成立以来，该公司已完成四轮融资，累计金额约15亿元。",
-      "summary_zh": "在第五届全球数字贸易博览会上，杭州曦诺未来科技有限公司展示了全球首款混驱灵巧手Flex 2与科研级纯直驱灵巧手Prima 1两款产品。 Flex 2面向工业与消费级市场，具备23自由度，手掌重400克，可提拉20公斤负载；Prima 1面向算法与模型训练，具备22自由度，支持0.08秒极速开合。 该公司采取“科研训练+商业化落地”的双轮驱动战略，通过数据采集与算法迭代实现性能跃迁。 自2024年成立以来，该公司已完成四轮融资，累计金额约15亿元。"
+      "summary": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够支持机器人进行自然、精细的操作。 该传感器具有轻量化（0.33 g）和紧凑结构，能够实现接触、物质类型、滑移、纹理、温度和多维力的全局感知。 其响应时间快，接触与滑移检测约为5 ms，可瞬时准确完成数据采集和精确滑移检测，同时提供3-axis forces的解耦和高精度测量。 研究人员还构建了多模态多维触觉感知-控制协同功能，使机器人能够应对复杂环境中的不平衡、远程缺损/滑移检测、远程精密装配和远程碰撞等挑战。 在关键制造工艺上，研究人员利用光刻和剥离工艺在柔性基底上制备了金属层，并采用模具复制法表面封装聚二甲基硅氧烷（PDMS）。",
+      "summary_zh": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够支持机器人进行自然、精细的操作。 该传感器具有轻量化（0.33 g）和紧凑结构，能够实现接触、物质类型、滑移、纹理、温度和多维力的全局感知。 其响应时间快，接触与滑移检测约为5 ms，可瞬时准确完成数据采集和精确滑移检测，同时提供3-axis forces的解耦和高精度测量。 研究人员还构建了多模态多维触觉感知-控制协同功能，使机器人能够应对复杂环境中的不平衡、远程缺损/滑移检测、远程精密装配和远程碰撞等挑战。 在关键制造工艺上，研究人员利用光刻和剥离工艺在柔性基底上制备了金属层，并采用模具复制法表面封装聚二甲基硅氧烷（PDMS）。"
     },
     {
       "date": "2026.11.05",
@@ -54,8 +65,8 @@
       "url": "https://m.sohu.com/a/1097719063_115362?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "在11月4日举行的机器人产业链共创论坛及因时新品体验会上，北京航空航天大学具身智能研究院院长魏洪兴指出具身智能行业过去两年发展过快并积累了泡沫，但同时也迎来了人工智能与机器人深度融合的最好时代。 凌云光技术股份有限公司高级副总裁杨艺认为相关投入具有合理性。 行业专家指出，灵巧手作为人形机器人走向真实世界的关键支点，其规模化落地仍需跨过投资回报率与产业链统一标准两道现实关卡。",
-      "summary_zh": "在11月4日举行的机器人产业链共创论坛及因时新品体验会上，北京航空航天大学具身智能研究院院长魏洪兴指出具身智能行业过去两年发展过快并积累了泡沫，但同时也迎来了人工智能与机器人深度融合的最好时代。 凌云光技术股份有限公司高级副总裁杨艺认为相关投入具有合理性。 行业专家指出，灵巧手作为人形机器人走向真实世界的关键支点，其规模化落地仍需跨过投资回报率与产业链统一标准两道现实关卡。"
+      "summary": "11月4日，在北京首钢园举行的“机器人产业链共创论坛及因时新品体验会”上，北京航空航天大学具身智能研究院院长魏洪兴表示过去两年具身智能行业发展过快并积累了不少泡沫，但同时也强调当下是发展机器人最好的时代。 凌云光技术股份有限公司高级副总裁杨艺认为，具身智能是面向未来的赛道，即便存在泡沫也是最美丽的泡沫，向该方向多投入资本是合理的。 与此同时，灵巧手被视为人形机器人走向真实世界的关键支点，其实现规模化落地仍需跨过投资回报率（ROI）与产业链统一标准两道现实关卡。 魏洪兴还提到，人工智能和机器人深度融合开启了人形机器人时代，大模型问世带来行业冲击，未来大模型公司也可能下场布局具身智能。",
+      "summary_zh": "11月4日，在北京首钢园举行的“机器人产业链共创论坛及因时新品体验会”上，北京航空航天大学具身智能研究院院长魏洪兴表示过去两年具身智能行业发展过快并积累了不少泡沫，但同时也强调当下是发展机器人最好的时代。 凌云光技术股份有限公司高级副总裁杨艺认为，具身智能是面向未来的赛道，即便存在泡沫也是最美丽的泡沫，向该方向多投入资本是合理的。 与此同时，灵巧手被视为人形机器人走向真实世界的关键支点，其实现规模化落地仍需跨过投资回报率（ROI）与产业链统一标准两道现实关卡。 魏洪兴还提到，人工智能和机器人深度融合开启了人形机器人时代，大模型问世带来行业冲击，未来大模型公司也可能下场布局具身智能。"
     },
     {
       "date": "2026.11.03",
@@ -65,8 +76,8 @@
       "url": "https://www.jushenhome.com/news_d.php?id=2239",
       "language": "Chinese",
       "section": "Global",
-      "summary": "临界点于10月29日发布自研遥操数采手套OmniGlove，提供标准版和Pro版两款，旨在解决灵巧操作模型训练中缺乏高质量触觉和手感数据的痛点。 OmniGlove结合了EMF与IMU定位技术，位置精度小于等于1mm RMS，姿态精度小于等于1.5° RMS。 Pro版单手布置了746个触觉点，支持以125Hz输出数据，延迟小于10ms，能够同步还原手部姿态与接触状态，其采集的数据可直接重定向至灵巧手上执行并用于模型后训练。",
-      "summary_zh": "临界点于10月29日发布自研遥操数采手套OmniGlove，提供标准版和Pro版两款，旨在解决灵巧操作模型训练中缺乏高质量触觉和手感数据的痛点。 OmniGlove结合了EMF与IMU定位技术，位置精度小于等于1mm RMS，姿态精度小于等于1.5° RMS。 Pro版单手布置了746个触觉点，支持以125Hz输出数据，延迟小于10ms，能够同步还原手部姿态与接触状态，其采集的数据可直接重定向至灵巧手上执行并用于模型后训练。"
+      "summary": "10 月 29 日，临界点在智元创新日・灵巧操作分论坛上发布了自研遥操数采手套 OmniGlove，分为标准版和 Pro 版，将于 11 月开启交付。 该手套旨在解决灵巧操作数据采集的痛点，通过跨越位姿准、触觉全、同步快三道门槛，采集可用于回放检验的真机 Ready 数据。 OmniGlove 标准版和 Pro 版分别配备 EMF 与 IMU 组合以确保位姿精度，Pro 版更单手布置了 746 个触觉点。 手套融入了抗磁干扰、低零漂触觉设计以及轻量化、快速标定等特性，能够将人类物理经验转化为高质量数据，抬高灵巧操作模型的泛化起点，并用于训练 DUET 2.0 双层架构。",
+      "summary_zh": "10 月 29 日，临界点在智元创新日・灵巧操作分论坛上发布了自研遥操数采手套 OmniGlove，分为标准版和 Pro 版，将于 11 月开启交付。 该手套旨在解决灵巧操作数据采集的痛点，通过跨越位姿准、触觉全、同步快三道门槛，采集可用于回放检验的真机 Ready 数据。 OmniGlove 标准版和 Pro 版分别配备 EMF 与 IMU 组合以确保位姿精度，Pro 版更单手布置了 746 个触觉点。 手套融入了抗磁干扰、低零漂触觉设计以及轻量化、快速标定等特性，能够将人类物理经验转化为高质量数据，抬高灵巧操作模型的泛化起点，并用于训练 DUET 2.0 双层架构。"
     },
     {
       "date": "2026.11.02",
@@ -76,30 +87,19 @@
       "url": "https://s.response.jp/article/2026/11/02/418497.html",
       "language": "Japanese",
       "section": "Global",
-      "summary": "ミネベアミツミ株式会社は、2026年11月11日から13日まで幕張メッセで開催される「ヒューマノイドEXPO」に出展すると発表した。 会場では、ヒューマノイドロボット向けのロボットハンドの動展示に加え、関節や筋肉、神経を支える超精密部品群が紹介される。 出展品には、2026年1月に米国の「CES 2026」で反響を呼んだロボットハンドも含まれており、感知から駆動までをトータルで提案する「相合」の強みを発信する。 さらに、ロボスタが主催するオンラインセミナーでは、自民党ロボット議連の山田太郎事務局長、Hondaの「P2」や「ASIMO」の開発者である竹中透氏、ugo株式会社の松井健CEOがそれぞれ登壇し、フィジカルAIの開発戦略やヒューマノイドの原点について語る予定である。",
-      "summary_zh": "美蓓亚三美株式会社宣布将参加于2026年11月11日至13日在幕张国际展览中心举办的“人形机器人EXPO（NexTech Week 2026【秋】同期举办）”。 展会期间，该公司不仅将动态展示面向人形机器人的机械手，还将介绍支撑机器人关节、肌肉和神经的超精密零部件群。 参展内容包括曾在2026年1月美国科技展“CES 2026”上引发反响的机械手，并通过其融合核心技术的“相合”优势，提供从感知到驱动的全面解决方案。 此外，Robosta还将举办多场在线研讨会，邀请自民党机器人议连事务局长山田太郎、Honda“P2”与“ASIMO”开发者竹中透以及ugo株式会社CEO松井健分别就日本物理AI开发战略、人形机器人原点及最新社会应用动向发表演讲。"
+      "summary": "ミネベアミツミ株式会社は、2026年11月11日から13日まで幕張メッセで開催される「ヒューマノイドEXPO」に出展すると発表した。 ヒューマノイドロボット向けのロボットハンドの動展示を行うほか、関節や筋肉、神経にあたる超精密部品群を紹介する。 同社は超精密加工技術を核とした「8本槍」の製品群を融合させ、「感知」から「駆動」までをトータルで提案する「相合」という強みを持つ。 また、ロボスタが開催する、自民党ロボット議連・山田太郎事務局長、Hondaの開発者・竹中透氏、ugoの松井健CEOがそれぞれ登壇するオンラインセミナーの情報も紹介されている。",
+      "summary_zh": "MinebeaMitsumi宣布将参加于2026年11月11日至13日在幕张展览馆举办的“人形机器人EXPO”。 展会期间将动态展示面向人形机器人的机器人手部，并介绍支撑机器人关节、肌肉和神经的超精密零部件群。 该公司以超精密加工技术为核心，通过融合“八把枪”产品群来创造新价值，实现从“感知”到“驱动”的整体方案提案。 此外，文章还介绍了Robosta主办的在线研讨会信息，分别邀请了自民党机器人议连事务局长山田太郎、Honda开发者竹中透以及ugo CEO松井健登场。"
     },
     {
       "date": "2026.10.30",
-      "published_at": "2026-10-30T22:50:08+09:00",
+      "published_at": "2026-10-30T16:00:00+09:00",
       "headline": "Color-Changing Tactile Sensor Allows Robots to “See” and Touch in Real-Time",
       "source": "Tech Briefs",
       "url": "https://www.techbriefs.com/component/content/article/56172-color-changing-tactile-sensor-allows-robots-to-see-and-touch-in-real-time",
       "language": "English",
       "section": "Global",
-      "summary": "Engineers at Queen Mary University of London have developed a color-changing tactile sensor that allows robots to see and touch in real-time. Invented by postdoctoral researcher Giacomo Sasso, the device transforms invisible forces into dynamic color patterns using a soft sensing surface. This enables high-resolution contact, strain, and pressure maps to appear instantly and be captured by a standard USB camera without complex reconstruction algorithms. The technology can be applied in precision manufacturing for assembling micro-scale components, in healthcare for giving external prosthetic limbs a richer sense of touch, and in surgical systems for distinguishing healthy tissue from abnormal tissue. By embedding sensing directly into the material, the system avoids the traditional trade-off between high spatial resolution and low computational latency. Co-authors from Italian universities including Florence, Trieste, and Trento collaborated on the research, merging soft robotics and material science.",
-      "summary_zh": "伦敦玛丽女王大学的工程师开发了一种变色触觉传感器，可让机器人实时进行“看见”与触摸。 该项创新由该校工程与材料科学学院的博士后研究员Giacomo Sasso发明，其原理是通过柔软的感应表面将无形的作用力转化为动态的色彩图案。 这使得接触、应变和压力的的高分辨率图谱能够瞬间呈现，并可通过标准USBgetCamera直接读取，无需复杂的重建算法。 该技术可用于精密制造中组装微型组件、医疗领域中为外部假肢提供更丰富的触感，以及手术系统中通过材料的色彩反应区分健康与异常组织。 通过将传感功能直接嵌入材料本身，该系统克服了高空间分辨率与低计算延迟之间的传统权衡。 来自意大利佛罗伦萨大学、里雅斯特大学和特伦托大学的合著者共同参与了这项研究，融合了软体机器人与材料科学领域。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T00:54:04+09:00",
-      "headline": "Robots Need a \"Sense of Touch\" Too: PaXini on Tactile Sensing, Data, and Physical AI | Silicon Valley 101 Annual Offline Conference｜硅谷101",
-      "source": "finance.biggo.com",
-      "url": "https://finance.biggo.com/podcast/5e6b6989f368248f",
-      "language": "English",
-      "section": "Global",
-      "summary": "PaXini founder Michael Hsu presented the PIE framework during a 19-minute talk at the Silicon Valley 101 Alignment conference in October 2026, arguing that robots require tactile sensing and physical understanding to achieve physical AI. He emphasized that intelligence is incomplete without physical understanding, noting that tactile feedback fills the gap between knowing and reliably doing. The PIE framework encompasses perception, intelligence, and execution, and also stands for platform, integration, and ecosystem. Hsu detailed the company's full stack, including in-house tactile chips, the OmniSharing dataset containing over 1 million hours of high-precision human manipulation data, the OmniVTLA algorithm, Feelix World zero-shot learning, and the H13 dexterous hand. Furthermore, he noted that data factories are already operating in Sunshine (East China) and Tianjin (North China), with three additional plants under construction to support a physical intelligence flywheel.",
-      "summary_zh": "PaXini创始人徐浩在2026年10月的硅谷101对齐大会上发表了约19分钟的演讲，提出了围绕自研触控芯片、百万小时数据集OmniSharing以及OmniVTLA算法的PIE框架，并论证了机器人需要触觉感知与物理理解来实现物理AI。 他强调，缺乏物理理解的智能是不完整的，触觉能够弥合从“知道”到“可靠执行”的鸿沟。 PIE框架涵盖感知、智能、执行，也可解读为平台、集成、生态。 徐浩详细介绍了公司的全栈技术，包括自研芯片、包含超过100万小时高精度人类操作数据的OmniSharing数据集、OmniVTLA模型、Feelix World零样本学习及H13灵巧手。 此外，他指出数据工厂已在中国华东（日照）和华北（天津）投入运营，另有三座工厂正在建设中，旨在形成物理智能飞轮。"
+      "summary": "Engineers at Queen Mary University of London, including postdoctoral researcher Giacomo Sasso, have developed a color-changing tactile sensor that allows robots to see and touch in real-time. By transforming invisible forces into dynamic color patterns on a soft sensing surface, the material captures high-resolution maps of contact, strain, and pressure using a standard USB camera without needing complex reconstruction algorithms. This technology can enable robotic grippers to assemble micro-scale components, provide artificial limbs with a richer sense of touch, and help surgical systems distinguish healthy from abnormal tissue. The project combines the research fields of soft robotics and material science through collaboration with institutions such as the University of Florence, University of Trieste, and University of Trento.",
+      "summary_zh": "伦敦玛丽女王大学的工程师（包括博士后研究员 Giacomo Sasso）开发了一种变色触觉传感器，使机器人能够实时“看到”并触摸。 通过将无形力转化为软传感表面上的动态色彩图案，该材料无需复杂的重建算法，即可使用标准 USB 摄像头立即捕获接触、应变和压力的的高分辨率图。 这项技术能够使机器人抓手组装微型组件，为假肢提供更丰富的触感，并帮助手术系统通过材料的颜色反应直接读取精细压力特征来区分健康与异常组织。 该项目通过与佛罗伦萨大学、的里雅斯特大学和特伦托大学等机构的合作，将软体机器人与材料科学的研究领域结合在了一起。"
     }
   ]
 }
