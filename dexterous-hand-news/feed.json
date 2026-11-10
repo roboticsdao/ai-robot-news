@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-09T11:32:03.268327+09:00",
+  "updated_at": "2026-11-10T13:33:55.661100+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-09T11:32:03.268327+09:00",
-    "latest_article_at": "2026-11-09T11:07:02+09:00",
+    "checked_at": "2026-11-10T13:33:55.661100+09:00",
+    "latest_article_at": "2026-11-10T04:39:03+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -14,15 +14,70 @@
   },
   "articles": [
     {
+      "date": "2026.11.10",
+      "published_at": "2026-11-10T04:39:03+09:00",
+      "headline": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/09/nature-will-launches-50-billion-parameter-ai-model-for-dexterous-robot-hands/106855/",
+      "language": "English",
+      "section": "Global",
+      "summary": "Nature Will has announced the launch of Natura-1, a 50-billion-parameter physical general foundation model designed for dexterous hand control and zero-shot instruction following in advanced robotics. Pre-trained on over 1 million hours of egocentric human data, Natura-1 combines language, vision, and high-degree-of-freedom action into a 100-millisecond control loop. The model uses a mixture-of-experts architecture, trained jointly on language, images, video, and action, enabling it to execute continuous workflows and reason through spatial constraints and multi-object relationships. CEO Ning Ding stated that the model marks a first step toward scaling human experience into purposeful physical action using real hardware.",
+      "summary_zh": "物理AI实验室Nature Will宣布推出Natura-1，这是一个拥有500亿参数的物理通用基础模型，用于先进机器人应用中的灵巧手控制和零样本指令遵循。 该模型预训练于超过100万小时的人类第一视角数据，将语言、视觉和高自由度动作结合在一个100毫秒的控制循环中。 Natura-1采用混合专家模型架构，联合训练语言、图像、视频和动作，能够自主执行持续的工作流并推理空间约束与多物体关系。 Nature Will首席执行官宁丁表示，该模型是迈向利用真实硬件将人类体验规模化为有目的物理动作的第一步。"
+    },
+    {
       "date": "2026.11.09",
-      "published_at": "2026-11-09T11:07:02+09:00",
-      "headline": "因时机器人展示三款灵巧手新品_车市动态",
-      "source": "中金在线",
-      "url": "http://auto.cnfol.com/cheshidongtai/20261109/32418647.shtml",
+      "published_at": "2026-11-09T21:56:31+09:00",
+      "headline": "Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation",
+      "source": "Wowtale",
+      "url": "https://en.wowtale.net/2026/11/09/235942/",
+      "language": "English",
+      "section": "Global",
+      "summary": "Physical AI company RLWRLD released DexBench, a benchmark evaluating dexterous manipulation by humanoid robots, built on NVIDIA's Isaac Lab-Arena framework and the Newton physics engine. Presented at NVIDIA's AI Day Seoul 2026, DexBench implements 15 tasks across retail, logistics, assembly, and hotel food and beverage settings, requiring five-finger dexterity and testing generalization across object, physics, and spatial conditions. Development partners including NdotLight, SPACE AI, and PhysicsSimLab supplied 3D assets and environments. RLWRLD plans to release code, simulation assets, training data, and baseline models measured with its RLDX 1.1 foundation model, and confirmed an investment plan announced by NVIDIA.",
+      "summary_zh": "物理AI公司RLWRLD于11月9日表示，已推出基于NVIDIA的Isaac Lab-Arena框架和Newton物理引擎构建的人形机器人灵巧操作基准测试DexBench。 DexBench在首尔COEX举行的NVIDIA AI Day Seoul 2026上发布，涵盖零售、物流、装配和酒店餐饮四个工业环境中的15项任务，要求五指灵活性并测试物体、物理和空间条件下的泛化能力。 NdotLight、SPACE AI和PhysicsSimLab等开发伙伴提供了3D资产与仿真环境。 RLWRLD计划发布代码、仿真资产、训练数据及基准模型，其初始基准结果是通过其机器人基础模型的下一次更新RLDX 1.1测量的，并确认了NVIDIA宣布的投资计划。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T15:58:43+09:00",
+      "headline": "灵巧手的下一战怎么打？硬件只是入场券，“软硬协同”才是底牌",
+      "source": "IDC | Trusted Tech Intelligence",
+      "url": "https://www.idc.com/resource-center/blog/%E7%81%B5%E5%B7%A7%E6%89%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E6%88%98%E6%80%8E%E4%B9%88%E6%89%93%EF%BC%9F%E7%A1%AC%E4%BB%B6%E5%8F%AA%E6%98%AF%E5%85%A5%E5%9C%BA%E5%88%B8%EF%BC%8C%E8%BD%AF%E7%A1%AC/",
       "language": "Chinese",
       "section": "Global",
-      "summary": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在首钢园举办机器人产业链共创论坛及新品体验会。 因时机器人在此次活动中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料(迁安)股份有限公司、北京邮电大学举行联合实验室揭牌仪式，合作共建“软磁材料应用技术联合实验室”与“具身智能机器人仿人灵巧操作联合实验室”。 活动现场还展出了其他系列灵巧手、微型伺服电缸以及搭载灵巧手の“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强与产业链上下游及科研机构的合作。",
-      "summary_zh": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在首钢园举办机器人产业链共创论坛及新品体验会。 因时机器人在此次活动中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料(迁安)股份有限公司、北京邮电大学举行联合实验室揭牌仪式，合作共建“软磁材料应用技术联合实验室”与“具身智能机器人仿人灵巧操作联合实验室”。 活动现场还展出了其他系列灵巧手、微型伺服电缸以及搭载因时灵巧手の“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强与产业链上下游及科研机构的合作。"
+      "summary": "IDC reported that the global shipment of robot dexterous hands is projected to reach approximately 25,000 units in 2026, excluding internal matching by manufacturers, with Chinese manufacturers accounting for over 85% of the global market. Current demand concentrates on humanoid robot supporting, scientific research, and physical AI data collection, while industrial applications remain in exploration. Driven by various technical routes like tendon-driven and direct drive, future competition will extend from hardware parameters to structural design, tactile sensing, and coordination with models and data. Reliability, maintenance costs, and real-world execution will determine commercial success over the next three years.",
+      "summary_zh": "IDC报告称，2026年全球灵巧手出货量预计约为2.5万台（不含厂商内部配套），其中中国厂商出货量占全球市场的比例预计超过85%。 当前需求主要集中在人形机器人配套、科研教育和具身智能数据采集，而工业应用仍处于探索阶段。 灵巧手采用腱绳驱动、直驱、连杆驱动及混合驱动等多种技术路线，未来的竞争将从硬件参数延伸至结构设计、触觉感知以及与模型和数据的协同。 可靠性、维护成本和真实场景中的任务表现将在未来三年决定商业化进程。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T15:30:37+09:00",
+      "headline": "Aidin Robotics公司发布配备触觉传感器的类人机器人，可探测物体……并在RoboWorld机器人世界大会上演示双手操作。",
+      "source": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/zh/1126843/",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "Aidin Robotics showcased its dual-arm humanoid robot technology integrating self-developed tactile sensors and mechanical hands at RoboWorld 2026 in Goyang. The platform features the AIDIN HAND GEN2, a 16-degree-of-freedom mechanical hand with tactile sensors on fingertips and palms to detect contact positions and forces in real time. During the exhibition, the robot demonstrated picking up, aligning, and transporting multiple boxes using teleoperation and learning-from-demonstration techniques that captured video, force, and tactile data. CEO Lee Yoon-haeng emphasized that combining force and tactile handling technologies will support the physical AI industry.",
+      "summary_zh": "Aidin Robotics在高阳市KINTEX举办的RoboWorld 2026展会上，展示了集成自主研发触觉传感器与机械手的双臂类人机器人技术。 该平台配备了AIDIN HAND GEN2，这是一款16自由度机械手，其指尖和手掌上配有触觉传感器，可实时检测接触位置和力度。 在展会期间，机器人通过远程教学和工作学习技术演示了拾取、对齐和搬运多个箱子的过程，并采集了视频、力和触觉数据。 首席执行官李允行强调，结合力和触觉的操控技术将助力物理人工智能产业的发展。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T14:00:03+09:00",
+      "headline": "ロボットハンド「Wuji Hand 2」第2期予約をHumansXが受付開始、遠隔操作・VLAの学習データ収集を支援",
+      "source": "ロボスタ",
+      "url": "https://robotstart.info/article/2026/11/09/382608.html",
+      "language": "Japanese",
+      "section": "Global",
+      "summary": "HumansX has opened second-phase reservations for the Wuji Hand 2, a 20-degree-of-freedom direct-drive five-finger robot hand, with deliveries starting from February 2027 onwards after the first batch sold out. The company also introduced a dual-arm data collection system pairing the Wuji Hand 2 with the tactile data glove Wuji Glove and Marvin Pro arms to support teleoperation and VLA learning data collection. Wuji Glove features 526 tactile sensors across the palm and offers high precision tracking, low latency, and integration with SDKs and Apple Vision Pro. Additionally, HumansX highlighted upcoming online seminars covering Japanese physical AI development strategies and historical humanoid achievements.",
+      "summary_zh": "HumansX株式会社宣布，由于首期出荷分预定完售，现已开始接受20自由度直驱五指机器人手“Wuji Hand 2”的第二期预约，第二期分将于2027年2月起顺次交付。 该公司还推出了将Wuji Hand 2与触觉数据手套Wuji Glove及Marvin Pro机械臂搭配的双腕数据系统，以支持远操作和VLA学习数据收集。 Wuji Glove在手掌全面配备了526点触觉传感器，提供高精度追踪、低延迟及与SDK和Apple Vision Pro的联动。 此外，HumansX提及了即将举办的探讨日本フィジカルAI开发战略及人形机器人历史成就的在线研讨会。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T10:38:38+09:00",
+      "headline": "因时机器人展示三款灵巧手新品",
+      "source": "盖世汽车社区",
+      "url": "https://i.gasgoo.com/news/70477305.html",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在北京首钢园联合举办机器人产业链共创论坛及新品体验会。 活动期间，因时机器人集中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料（迁安）股份有限公司、北京邮电大学举行联合实验室揭牌仪式。 因时与首钢智新共建“软磁材料应用技术联合实验室”，双方结合首钢智新在电工钢及软磁材料领域的技术积累与因时在微型驱动系统研发中的工程经验，开展面向机器人精密驱动需求的材料应用研究。 因时与北京邮电大学共建“具身智能机器人仿人灵巧操作联合实验室”，围绕高质量数据采集、操作技能学习与任务评测等环节开展联合攻关。 在体验会现场，因时展出的三款新品各有特点：RH524J1采用24自由度腱绳混驱架构；RH5MK1采用22自由度全直驱设计，结合高速动态响应与指尖六维力触觉感知等技术特点；RH37D1采用7主动自由度三指全直驱构型。 现场还同步展出了其他系列灵巧手、微型伺服电缸及搭载因时灵巧手的“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强合作，推动技术研发与工程应用深度融合。",
+      "summary_zh": "11月4日，北京因时科技股份有限公司与北京首钢建设投资有限公司在北京首钢园联合举办机器人产业链共创论坛及新品体验会。 活动期间，因时机器人集中亮相了RH524J1、RH5MK1与RH37D1三款灵巧手新品，并分别与首钢智新电磁材料（迁安）股份有限公司、北京邮电大学举行联合实验室揭牌仪式。 因时与首钢智新共建“软磁材料应用技术联合实验室”，双方结合首钢智新在电工钢及软磁材料领域的技术积累与因时在微型驱动系统研发中的工程经验，开展面向机器人精密驱动需求的材料应用研究。 因时与北京邮电大学共建“具身智能机器人仿人灵巧操作联合实验室”，围绕高质量数据采集、操作技能学习与任务评测等环节开展联合攻关。 在体验会现场，因时展出的三款新品各有特点：RH524J1采用24自由度腱绳混驱架构；RH5MK1采用22自由度全直驱设计，结合高速动态响应与指尖六维力触觉感知等技术特点；RH37D1采用7主动自由度三指全直驱构型。 现场还同步展出了其他系列灵巧手、微型伺服电缸及搭载因时灵巧手的“天轶”机器人。 因时创始人兼CEO蔡颖鹏表示，灵巧操作是具身智能走向实际应用的重要支撑，未来将持续加强合作，推动技术研发与工程应用深度融合。"
     },
     {
       "date": "2026.11.09",
@@ -32,8 +87,8 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000002.000192177.html",
       "language": "Japanese",
       "section": "Global",
-      "summary": "フィジカルAI・ロボティクス事業を展開するHumansX株式会社は、日本唯一の正規代理店として販売する20自由度ロボットハンド「Wuji Hand 2」の第1期出荷分が予約で完売したことを受け、2027年2月以降に順次納品する第2期の予約受付を開始した。 あわせて、Wuji Hand 2と触覚データグローブ「Wuji Glove」を搭載した双腕データ収集システムの提案も開始する。 Wuji Hand 2は各指4自由度、計20自由度をすべて能動で動かす器用なロボットハンドで、ダイレクトドライブ関節や1000Hz×20軸の高速制御などに対応する。 Wuji Gloveは手のひら全面に526点の触覚センサを備え、手の動きと触覚を同時に計測できる。 同社は製品販売に加え、日本語サポートや現地セットアップなどの国内支援も提供する。",
-      "summary_zh": "开展物理AI与机器人业务的HumansX株式会社宣布，由于作为日本唯一正规代理商销售的20自由度机器人手“Wuji Hand 2”第一期出货量预约售罄，现已开始接受自2027年2月起依次交付的第二期预约。 同时，该公司开始推介搭载Wuji Hand 2与触觉数据手套“Wuji Glove”的双腕数据收集系统。 “Wuji Hand 2”是一款每指4自由度、总计20自由度全部主动运动的灵巧机器人手，支持直驱动关节及1000Hz×20轴的高速控制等。 “Wuji Glove”在手掌全面配备526个触觉传感器，可同时测量手部运动与触觉。 该公司除销售产品外，还提供日文支持及现场设置等日本国内支援。"
+      "summary": "フィジカルAI・ロボティクス事業を展開するHumansX株式会社は、日本唯一の正規代理店として販売する20自由度ロボットハンド「Wuji Hand 2」について、第1期出荷分が予約で完売したことを受け、第2期の予約受付を開始した。 第2期分は2027年2月以降、順次納品される。 あわせて、Wuji Hand 2と触覚データグローブ「Wuji Glove」を搭載した双腕データ収集システムの提案も開始する。 これにより研究室だけでなく実際の作業現場に設置し、導入コストを抑えながら遠隔操作とデータ収集をすぐに始められる環境を提供する。 Wuji Hand 2は各指4自由度、計20自由度をすべて能動で動かす器用なロボットハンドで、ダイレクトドライブ関節、1000Hz×20軸の高速制御、MIT力・位置ハイブリッド制御に対応し、指先ピーク力12N以上、開閉4回/秒以上などの仕様を持つ。 Wuji Gloveは手のひら全面に526点の触覚センサ、120FPS、電磁式6自由度トラッキングで指先位置2mm RMS以内、有線遅延10ms以下、本体67.5gの性能を備え、Apple Vision Proとの連携も可能である。 採用アームはMarvin Proで、構成や価格はお問い合わせとなる。 HumansXは製品販売に加え、導入から運用までを国内で支援し、日本語マニュアルやクイックスタートガイドをナレッジベースで公開している。",
+      "summary_zh": "从事フィジカルAI与机器人业务的HumansX株式会社宣布，由于作为日本唯一正规代理商销售的20自由度机器人手“Wuji Hand 2”第一期出货量预约售罄，现已开启第二期预约受理。 第二期产品将于2027年2月起依次交付。 同时，该公司开始推出搭载Wuji Hand 2与触觉数据手套“Wuji Glove”的双腕数据收集系统。 该系统不仅可在实验室，还能直接安装在实际作业现场，在压低导入成本的同时，能够立即开始远程操作与数据收集。 Wuji Hand 2是一款每指4自由度、共计20自由度全部主动运动的灵巧机器人手，采用直驱关节，支持1000Hz×20轴高速控制、MIT力与位置混合控制，指尖峰值力12N以上，开闭频率4次/秒以上。 Wuji Glove手掌全面搭载526点触觉传感器、120FPS，通过电磁式6自由度追踪实现指尖位置2毫米RMS以内，有线延迟10毫秒以下，本体重67.5克，并可与Apple Vision Pro联动。 采用的机械臂为Marvin Pro，配置与价格需另行垂询。 HumansX除销售产品外，还提供日本国内从导入到运营的支持，并在知识库中公开日文手册及快速入门指南。"
     },
     {
       "date": "2026.11.09",
@@ -43,63 +98,8 @@
       "url": "https://m.jrj.com.cn/madapter/finance/2026/11/09000459063750.shtml",
       "language": "Chinese",
       "section": "Global",
-      "summary": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了对人形机器人与具身智能产业的判断。 灵心巧手专注灵巧手及技能研发，不盲目铺全栈产品线。 周永提出未来要在真实世界部署100万双灵巧手，沉淀100万种可复用作业技能的长期目标。 他认为具身智能行业当前处在爆发前夕，预测3年后出货量有望达到当前10倍，6年后增长至100倍，10年后或将实现数千倍乃至数万倍增长。 周永强调工程精神的重要性，并表示团队在招人时优先选择发自内心热爱这件事、拥有内生动力的理工科人才。",
-      "summary_zh": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了对人形机器人与具身智能产业的判断。 灵心巧手专注灵巧手及技能研发，不盲目铺全栈产品线。 周永提出未来要在真实世界部署100万双灵巧手，沉淀100万种可复用作业技能的长期目标。 他认为具身智能行业当前处在爆发前夕，预测3年后出货量有望达到当前10倍，6年后增长至100倍，10年后或将实现数千倍乃至数万倍增长。 周永强调工程精神的重要性，并表示团队在招人时优先选择发自内心热爱这件事、拥有内生动力的理工科人才。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T11:50:52+09:00",
-      "headline": "基于统一热感知的多模态多维触觉传感器及其机器人精细操作应用",
-      "source": "生物通",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107082300977.htm",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够支持机器人进行自然、精细的操作。 该传感器具有轻量化（0.33 g）和紧凑结构，能够实现接触、物质类型、滑移、纹理、温度和多维力的全局感知。 其响应时间快，接触与滑移检测约为5 ms，可瞬时准确完成数据采集和精确滑移检测，同时提供3-axis forces的解耦和高精度测量。 研究人员还构建了多模态多维触觉感知-控制协同功能，使机器人能够应对复杂环境中的不平衡、远程缺损/滑移检测、远程精密装配和远程碰撞等挑战。 在关键制造工艺上，研究人员利用光刻和剥离工艺在柔性基底上制备了金属层，并采用模具复制法表面封装聚二甲基硅氧烷（PDMS）。",
-      "summary_zh": "研究人员开发了一种基于统一热感知的多模态多维触觉传感器，能够支持机器人进行自然、精细的操作。 该传感器具有轻量化（0.33 g）和紧凑结构，能够实现接触、物质类型、滑移、纹理、温度和多维力的全局感知。 其响应时间快，接触与滑移检测约为5 ms，可瞬时准确完成数据采集和精确滑移检测，同时提供3-axis forces的解耦和高精度测量。 研究人员还构建了多模态多维触觉感知-控制协同功能，使机器人能够应对复杂环境中的不平衡、远程缺损/滑移检测、远程精密装配和远程碰撞等挑战。 在关键制造工艺上，研究人员利用光刻和剥离工艺在柔性基底上制备了金属层，并采用模具复制法表面封装聚二甲基硅氧烷（PDMS）。"
-    },
-    {
-      "date": "2026.11.05",
-      "published_at": "2026-11-05T23:08:11+09:00",
-      "headline": "直面“最美的泡沫”与“最好的时代”：具身智能资本降温，灵巧手规模化要过投资回报率与标准两道关",
-      "source": "搜狐网",
-      "url": "https://m.sohu.com/a/1097719063_115362?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "11月4日，在北京首钢园举行的“机器人产业链共创论坛及因时新品体验会”上，北京航空航天大学具身智能研究院院长魏洪兴表示过去两年具身智能行业发展过快并积累了不少泡沫，但同时也强调当下是发展机器人最好的时代。 凌云光技术股份有限公司高级副总裁杨艺认为，具身智能是面向未来的赛道，即便存在泡沫也是最美丽的泡沫，向该方向多投入资本是合理的。 与此同时，灵巧手被视为人形机器人走向真实世界的关键支点，其实现规模化落地仍需跨过投资回报率（ROI）与产业链统一标准两道现实关卡。 魏洪兴还提到，人工智能和机器人深度融合开启了人形机器人时代，大模型问世带来行业冲击，未来大模型公司也可能下场布局具身智能。",
-      "summary_zh": "11月4日，在北京首钢园举行的“机器人产业链共创论坛及因时新品体验会”上，北京航空航天大学具身智能研究院院长魏洪兴表示过去两年具身智能行业发展过快并积累了不少泡沫，但同时也强调当下是发展机器人最好的时代。 凌云光技术股份有限公司高级副总裁杨艺认为，具身智能是面向未来的赛道，即便存在泡沫也是最美丽的泡沫，向该方向多投入资本是合理的。 与此同时，灵巧手被视为人形机器人走向真实世界的关键支点，其实现规模化落地仍需跨过投资回报率（ROI）与产业链统一标准两道现实关卡。 魏洪兴还提到，人工智能和机器人深度融合开启了人形机器人时代，大模型问世带来行业冲击，未来大模型公司也可能下场布局具身智能。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T14:50:01+09:00",
-      "headline": "人手示范，灵巧手复现 —— OmniGlove 正式发布",
-      "source": "具身之家",
-      "url": "https://www.jushenhome.com/news_d.php?id=2239",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "10 月 29 日，临界点在智元创新日・灵巧操作分论坛上发布了自研遥操数采手套 OmniGlove，分为标准版和 Pro 版，将于 11 月开启交付。 该手套旨在解决灵巧操作数据采集的痛点，通过跨越位姿准、触觉全、同步快三道门槛，采集可用于回放检验的真机 Ready 数据。 OmniGlove 标准版和 Pro 版分别配备 EMF 与 IMU 组合以确保位姿精度，Pro 版更单手布置了 746 个触觉点。 手套融入了抗磁干扰、低零漂触觉设计以及轻量化、快速标定等特性，能够将人类物理经验转化为高质量数据，抬高灵巧操作模型的泛化起点，并用于训练 DUET 2.0 双层架构。",
-      "summary_zh": "10 月 29 日，临界点在智元创新日・灵巧操作分论坛上发布了自研遥操数采手套 OmniGlove，分为标准版和 Pro 版，将于 11 月开启交付。 该手套旨在解决灵巧操作数据采集的痛点，通过跨越位姿准、触觉全、同步快三道门槛，采集可用于回放检验的真机 Ready 数据。 OmniGlove 标准版和 Pro 版分别配备 EMF 与 IMU 组合以确保位姿精度，Pro 版更单手布置了 746 个触觉点。 手套融入了抗磁干扰、低零漂触觉设计以及轻量化、快速标定等特性，能够将人类物理经验转化为高质量数据，抬高灵巧操作模型的泛化起点，并用于训练 DUET 2.0 双层架构。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T11:00:03+09:00",
-      "headline": "ミネベアミツミがロボットハンドを展示予定…ヒューマノイドEXPO 2026",
-      "source": "レスポンス（Response.jp）",
-      "url": "https://s.response.jp/article/2026/11/02/418497.html",
-      "language": "Japanese",
-      "section": "Global",
-      "summary": "ミネベアミツミ株式会社は、2026年11月11日から13日まで幕張メッセで開催される「ヒューマノイドEXPO」に出展すると発表した。 ヒューマノイドロボット向けのロボットハンドの動展示を行うほか、関節や筋肉、神経にあたる超精密部品群を紹介する。 同社は超精密加工技術を核とした「8本槍」の製品群を融合させ、「感知」から「駆動」までをトータルで提案する「相合」という強みを持つ。 また、ロボスタが開催する、自民党ロボット議連・山田太郎事務局長、Hondaの開発者・竹中透氏、ugoの松井健CEOがそれぞれ登壇するオンラインセミナーの情報も紹介されている。",
-      "summary_zh": "MinebeaMitsumi宣布将参加于2026年11月11日至13日在幕张展览馆举办的“人形机器人EXPO”。 展会期间将动态展示面向人形机器人的机器人手部，并介绍支撑机器人关节、肌肉和神经的超精密零部件群。 该公司以超精密加工技术为核心，通过融合“八把枪”产品群来创造新价值，实现从“感知”到“驱动”的整体方案提案。 此外，文章还介绍了Robosta主办的在线研讨会信息，分别邀请了自民党机器人议连事务局长山田太郎、Honda开发者竹中透以及ugo CEO松井健登场。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T16:00:00+09:00",
-      "headline": "Color-Changing Tactile Sensor Allows Robots to “See” and Touch in Real-Time",
-      "source": "Tech Briefs",
-      "url": "https://www.techbriefs.com/component/content/article/56172-color-changing-tactile-sensor-allows-robots-to-see-and-touch-in-real-time",
-      "language": "English",
-      "section": "Global",
-      "summary": "Engineers at Queen Mary University of London, including postdoctoral researcher Giacomo Sasso, have developed a color-changing tactile sensor that allows robots to see and touch in real-time. By transforming invisible forces into dynamic color patterns on a soft sensing surface, the material captures high-resolution maps of contact, strain, and pressure using a standard USB camera without needing complex reconstruction algorithms. This technology can enable robotic grippers to assemble micro-scale components, provide artificial limbs with a richer sense of touch, and help surgical systems distinguish healthy from abnormal tissue. The project combines the research fields of soft robotics and material science through collaboration with institutions such as the University of Florence, University of Trieste, and University of Trento.",
-      "summary_zh": "伦敦玛丽女王大学的工程师（包括博士后研究员 Giacomo Sasso）开发了一种变色触觉传感器，使机器人能够实时“看到”并触摸。 通过将无形力转化为软传感表面上的动态色彩图案，该材料无需复杂的重建算法，即可使用标准 USB 摄像头立即捕获接触、应变和压力的的高分辨率图。 这项技术能够使机器人抓手组装微型组件，为假肢提供更丰富的触感，并帮助手术系统通过材料的颜色反应直接读取精细压力特征来区分健康与异常组织。 该项目通过与佛罗伦萨大学、的里雅斯特大学和特伦托大学等机构的合作，将软体机器人与材料科学的研究领域结合在了一起。"
+      "summary": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了关于人形机器人与具身智能产业的发展逻辑、技术路径与商业化前景的判断。 周永此前从事3D仿真及智能无人车，转向灵巧手细分赛道源于对还原中医正骨等“手艺”的冲动，为了实现这一目标需要高度灵活的手，因而转向研发手这一核心零部件。 在讨论“脑重要还是手重要”时，他回应脑和手一样重要，并指出机器人产业发展路径将遵循人类进化规律，即只有足够多的灵巧手在物理世界持续作业产生海量交互数据，才能支撑具身大脑成型。 他预判行业3年后出货量有望达当前10倍，6年后增长至100倍，10年后或实现数千倍至数万倍增长。 灵心巧手的策略是专注手和手的技能，不盲目铺全栈产品线，其核心目标是未来在真实世界部署100万双灵巧手，沉淀100万种可复用的作业技能。 周永强调“工程精神”，即把想法落地并量产、解决真实问题，其团队汇聚了多校技术人才。 他在招人时优先选择发自内心热爱这件事、具有内生动力的理工科人才，并寄语学弟学妹通过创造未来预测未来，在长久热爱中扛住创业的艰难。",
+      "summary_zh": "11月7日，在华中科技大学第十八届校友企业家（武汉）大会上，灵心巧手创始人周永分享了关于人形机器人与具身智能产业的发展逻辑、技术路径与商业化前景的判断。 周永此前从事3D仿真及智能无人车，转向灵巧手细分赛道源于对还原中医正骨等“手艺”的冲动，为了实现这一目标需要高度灵活的手，因而转向研发手这一核心零部件。 在讨论“脑重要还是手重要”时，他回应脑和手一样重要，并指出机器人产业发展路径将遵循人类进化规律，即只有足够多的灵巧手在物理世界持续作业产生海量交互数据，才能支撑具身大脑成型。 他预判行业3年后出货量有望达当前10倍，6年后增长至100倍，10年后或实现数千倍至数万倍增长。 灵心巧手的策略是专注手和手的技能，不盲目铺全栈产品线，其核心目标是未来在真实世界部署100万双灵巧手，沉淀100万种可复用的作业技能。 周永强调“工程精神”，即把想法落地并量产、解决真实问题，其团队汇聚了多校技术人才。 他在招人时优先选择发自内心热爱这件事、具有内生动力的理工科人才，并寄语学弟学妹通过创造未来预测未来，在长久热爱中扛住创业的艰难。"
     }
   ]
 }
