@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.11.11（水曜日 / Wednesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.11.11] Gadget Review — Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment**
+  English: Boston Dynamics replaced its Atlas humanoid robot's feet with scooter wheels using a custom adapter mounted directly to each ankle actuator to stress-test actuators and learned control systems under demanding conditions. The company treated each wheel as a continuously rotating ankle joint without writing a separate control architecture, using the same whole-body control framework with adjustments to reward composition, command ranges, and posture control. The wheeled robot successfully performed a side-dash maneuver and a 360-degree jump derived from human motion trajectories. Boston Dynamics stated the wheeled configuration is a research testbed rather than a product, intended to study actuator performance near their limits and gather engineering value that could improve the standard walking configuration.
+  中文：总结：보스턴 다이내믹스는 각 발목 액추에이터에 직접 장착된 맞춤형 어댑터를 사용하여 아틀라스 휴머노이드 로봇의 발을 스쿠터 바퀴로 교체함으로써, 까다로운 조건에서 액추에이터와 학습된 제어 시스템을 스트레스 테스트했습니다. 회사는 별도의 제어 아키텍처를 작성하는 대신 각 바퀴를 연속 회전하는 발목 관절로 취급하고, 보상 구성, 명령 범위, 자세 제어를 조정한 동일한 전신 제어 프레임워크를 사용했습니다. 바퀴형 로봇은 인간의 동작 궤적에서 파생된 측면 대시 기동과 360도 점프를 성공적으로 수행했습니다. 보스턴 다이내믹스는 바퀴형 구성이 제품이 아닌 연구용 테스트베드이며, 한계에 가까운 액추에이터 성능을 연구하고 표준 보행 구성의 성능을 향상시킬 엔지니어링 가치를 수집하기 위한 것이라고 밝혔습니다.
+  📰 [Gadget Review](https://www.gadgetreview.com/boston-dynamics-swaps-atlas-humanoid-feet-for-scooter-wheels-in-high-stress-actuator-experiment)
+
+- **[2026.11.10] A3 Association for Advancing Automation — Industry Insights: Hasbro AI Studio Partners with Boston Dynamics Spinout For Licensed Robots**
+  English: Hasbro's Sixth Wall Studio and Boston Dynamics spinout Dynamic Creatures announced a joint venture combining Sixth Wall's character authoring and behavioral licensing with Dynamic Creatures' mobile, expressive robots. The collaboration aims to develop free-roaming, semi-autonomous character systems for theme parks, resorts, and hospitality venues to engage guests in continuing, two-way conversations. Dynamic Creatures CEO Marc Theermann stated that fictional characters can now share the physical world and respond to individuals. Sixth Wall partners with ElevenLabs to provide voice experiences and offers services for third-party IP owners, with references on its site including Mr. Potato Head, GI Joe, and Transformers, alongside voice talent such as Don Rickles, Peter Cullen, and Frank Welker.
+  中文：总结：해스브로의 식스 월 스튜디오와 보스턴 다이내믹스 스핀아웃인 다이내믹 크리에처스는 식스 월의 캐릭터 저작 및 행동 라이선싱과 다이내믹 크리에처스의 이동형 표현력 있는 로봇을 결합한 합작법인을 발표했습니다. 이번 협력은 테마파크, 리조트, 호스피탈리티 장소에서 손님들과 지속적인 양방향 대화를 나눌 수 있는 자유 이동식 반자율 캐릭터 시스템을 개발하는 것을 목표로 합니다. 다이내믹 크리에처스의 최고경영자 마크 티어만은 가공의 캐릭터들이 이제 물리적 세계를 공유하고 개인에게 반응할 수 있다고 밝혔습니다. 식스 월은 일레븐랩스와 파트너십을 맺고 음성 경험을 제공하며, 사이트에는 미스터 포테이토 헤드, 지아이조, 트랜스포머 등이 언급되어 있습니다.
+  📰 [A3 Association for Advancing Automation](https://www.automate.org/ai/industry-insights/dynamic-creatures-teams-with-hasbro-ai-studio-for-character-ip-embodiment-in-theme-parks-and-resorts)
+
+- **[2026.11.10] Business Insider — Robotics company Figure AI is hiring a human to babysit humanoid robots overnight**
+  English: Figure AI is seeking a night-shift coordinator in Santa Clara, California, to oversee humanoid robots and human operators from 10:30 p. m. to 7 a. m. , paying $40 to $45 an hour. The physical role involves troubleshooting, scheduling, and lifting equipment up to 50 pounds. This hiring push occurs as global investments in robotics and physical AI reached $33.4 billion in the first half of the year, surpassing the $28.7 billion raised in all of 2025. Founded in 2022, Figure was valued at $39 billion after securing $1 billion in Series C funding. The company targets acute labor shortages in manufacturing, logistics, and retail, aiming to deploy robots that eventually operate independently.
+  中文：总结：机器人初创公司Figure AI正在加利福尼亚州圣克拉拉招聘一名夜班协调员，负责在晚上10点半到早上7点之间监督人形机器人及操作人员，时薪为40至45美元。 该职位要求搬运重达50磅的设备并处理故障。 此次招聘正值全球机器人和实体AI投资在今年上半年达到$33.4 billion之际，超过了2025年全年的$28.7 billion。 Figure AI成立于2022年，在获得由Parkway Venture Capital领投的10亿美元C轮融资后，估值达到$39 billion。 该公司旨在解决制造业、物流和零售业的劳动力短缺问题。
+  📰 [Business Insider](https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11)
+
+- **[2026.11.10] Seoul Economic Daily — Nvidia Surprises With Direct Investments in Four Korean AI, Robotics Startups**
+  English: Nvidia announced direct investments in four South Korean startups—Point2 Technology, Upstage, Motif Technologies, and Realworld—during its AI Day Seoul event. Meanwhile, Samsung Electronics and Hyundai Motor Group formalized a strategic partnership at a Seocheon Training Center event attended by 177 executives to cooperate on automotive semiconductors, all-solid-state batteries, and physical AI. Additionally, Nvidia, SK Telecom, and Rebellions signed a memorandum of understanding to combine Rebellions' R200 NPU with Nvidia's NVLink Fusion, with SK Telecom building the system and Rebellions targeting supply by 2028.
+  中文：总结：英伟达在首尔AI日活动上宣布直接投资四家韩国初创公司，包括Point2 Technology、Upstage、Motif Technologies和Realworld。 同时，三星电子与现代汽车集团在西川培训中心举行的高管活动上正式建立战略合作伙伴关系，在汽车半导体、全固态电池和实体AI等领域展开合作。 此外，英伟达、SK电信和Rebellions签署了谅解备忘录，将Rebellions的R200神经处理单元与英伟达的NVLink Fusion技术相结合，计划由SK电信构建系统，Rebellions力争在2028年开始供货。
+  📰 [Seoul Economic Daily](https://en.sedaily.com/economy/2026/11/10/nvidia-surprises-with-direct-investments-in-four-korean-ai)
+
+- **[2026.11.09] The Tech Buzz — Nvidia Pushes Physical AI Into Korea's Manufacturing Core**
+  English: Nvidia is expanding its physical AI deployment in South Korea by partnering with manufacturing, semiconductor, and automotive leaders to bridge digital simulation and factory production. Samsung is utilizing Nvidia's Omniverse and accelerated computing tools to optimize semiconductor design and fabrication engineering. In robotics, automation companies are integrating Nvidia's Isaac framework and Jetson modules into warehouse robots and industrial manipulators, while Korean automakers use the Drive platform for autonomous vehicle perception models. The initiative integrates Nvidia compute platforms across cloud training and factory edge inference, though financial terms and timelines were not disclosed.
+  中文：总结：英伟达正通过与韩国制造、半导体和汽车行业领导者合作，在韩国扩展其实体AI业务，以连接数字模拟和工厂生产。 三星正在利用英伟达的Omniverse和加速计算工具来优化半导体设计与制造工程。 在机器人领域，自动化公司正将英伟达的Isaac框架和Jetson模块整合到仓库机器人及工业机械臂中，同时韩国汽车制造商使用Drive平台开发自动驾驶感知模型。 该计划将英伟达的计算平台整合到云端训练和工厂边缘推理中，但未披露财务条款或部署时间表。
+  📰 [The Tech Buzz](https://www.techbuzz.ai/articles/nvidia-pushes-physical-ai-into-korea-s-manufacturing-core)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.11.10] 联合早报 — 中国科技企业亮相全球网络峰会 展示AI及人形机器人**
+  中文：总结：中国科技企业在葡萄牙举行的全球网络峰会（Web Summit）上大举展示人工智能（AI）及机器人技术，从能跳舞、打太极的人形机器人，到低成本AI模型，凸显中国在全球科技领域日益增强的影响力。 综合法新社和新浪科技报道，峰会星期一（11月9日）在里斯本开幕，将持续至星期四（12日），预计吸引来自164个国家的至少7万名与会者，包括初创企业及投资者。 峰会创办人科斯格雷夫（Paddy Cosgrave）在开幕式上说：“未来的科技明星越来越多不再来自加利福尼亚，而是来自中国。 ” 他指出，今年有超过50名来自中国领先AI实验室、机器人初创企业、汽车制造商，以及量子计算和能源领域的代表受邀演讲。 中国机器人企业成为峰会焦点之一。 智元机器人的人形机器人星期一登台表演舞蹈和太极，银河通用及优必选也将展示各自的人形机器人。 出席峰会的中国科技企业高管包括宇树科技联合创始人陈立、智元机器人欧洲区总裁William Shi，以及AI企业Manus联合创始人张涛。
+  📰 [联合早报](https://www.zaobao.com.sg/news/china/story20261110-9977220)
+
+- **[2026.11.10] 中华网 — 宇树科技不到一个月股价翻倍 人形机器人板块走强**
+  中文：总结：11月9日，A股三大指数涨跌不一。 上证指数上涨0.32%，深证成指和创业板指均下跌0.27%，科创综指上涨0.44%。 市场成交额为14946亿元，较前一交易日减少1770亿元。 全市场超过2200只个股上涨，超过3100只个股下跌。 板块题材方面，卫星通信、燃气、煤炭开采加工表现较好；能源金属、动漫游戏、光伏设备则出现下跌。 人形机器人板块表现活跃，祥明智能、上纬新材、华培动力等涨停，阿尔特、力星股份、宇树科技涨幅居前。 上纬新材股价收盘报216.02元/股，总市值达到871.34亿元。 自10月15日以来，上纬新材股价累计涨幅达100.67%。 公司于9月20日发布了消费级具身智能机器人产品“启元Q1”和“启元T1”，截至公告披露日，已下线1万台。 不过，该业务尚处于初期阶段，存在产能爬坡、良率波动、市场推广不及预期等风险，目前营收占比低，尚不能预测对2026年度业绩的影响。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20261110/49858709.html)
+
+- **[2026.11.10] 华尔街见闻 — 创业板涨近1.5%，AI硬件活跃，机器人爆发、宇树市值重回3000亿，恒科指涨超1%，AI大模型股双雄大涨10%**
+  中文：总结：隔夜美股科技股大涨，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。 亚太股市周二跟随上涨，韩国和日本股市收涨，韩国股市盘初一度涨至熔断，A股和港股的AI硬件全天活跃。 11月10日，A股全天震荡上涨，三大股指集体上涨，盘中震荡回落，午后基本维持涨势，创业板涨超1%，盘初一度涨超2%，AI短剧、机器人再度爆发，宇树科技涨超6%，市值重回3000亿上方。 AI硬件拉升，电路板、光模块、光芯片、光电路交换机等概念股齐涨，“易中天”、沪电股份等涨幅居前，海运、油气、煤炭等板块陷入调整。 港股亦震荡走高，恒指、恒科指盘初走高，恒科指盘中涨1%，盘中震荡回落，午后有所回升，权重科网股多数反弹，阿里逆势跌近3%，光模块、芯片等科技股反弹，中际旭创盘中大涨超10%。 AI大模型股MINIMAX、智谱涨幅超过10%。 债市方面，国债期货集体下跌，商品方面，国内商品期货多数下跌。
+  📰 [华尔街见闻](https://wallstreetcn.com/articles/3785617)
+
+- **[2026.11.10] 天津日报 — 我市具身智能产业链加速成势**
+  中文：总结：加速前沿技术从实验室走向生产线，昨天，记者从天津经开区了解到，日前，宇树科技具身智能创新中心在天津经开区启用，以此为支点，宇树科技“宇创计划”在北方区域迈出实质性落地步伐，其全资子公司天津宇天科技有限公司（以下简称宇天科技）同步开业运营，成为承载宇树科技北方生态布局的核心载体，并进一步助推我市具身智能产业链加速成势。 宇树科技具身智能创新中心启用后，将打造集研发创新、成果转化、场景适配、人才培育、维修维保于一体的综合性产业创新平台，紧密对接产业转型升级需求。 作为宇树科技布局北方市场的核心主体，宇天科技今年8月完成注册。 启用后，这里将率先开展电力巡检机器人与物流分拣机器人的样机研发调试，并与国家管网、天津港等央国企携手，在集装箱查验、智能巡查、安全监测等领域推进联合研发与成果转化，让具身智能技术真正走出实验室、走进产业现场。 科技创新不止于研发，更需要产业生态与协同策源的共同发力。
+  📰 [天津日报](https://epaper.tianjinwe.com/tjrb/html/2026-11/10/content_143078_3999567.htm)
+
+- **[2026.11.09] 手机新浪网 — 进博会观察｜人形机器人从演示到部署引热议：量产须整机厂、AI大模型、硬件、场景、数据等全链路提升**
+  中文：总结：在第九届进博会期间的人形机器人产品创新研讨会上，与会嘉宾探讨了人形机器人从研发演示转向真实部署的趋势。 智元机器人卢贤刚预测未来人形机器人市场规模将等同于手机规模乘以汽车价值。 小鹏汽车副总裁顾捷表示，明年将把IRON机器人带入导览、导购、导巡场景，并强调安全与伦理比算力更重要。 启元机器人联席总裁刘东方提到关节占整机成本50%至60%，公司自研鸡蛋关节并探索运动控制和环境理解模型。 业内普遍认为，量产落地的第一道门槛在零部件，量产是涵盖AI大模型、硬件、场景和数据的全链路闭环，当前产业链正处于共创时代。
+  📰 [手机新浪网](https://k.sina.com.cn/article_5953190046_162d6789e06703wt3w.html?from=tech)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.11.10] DXマガジン — 「ロボットが工場で働く時代」へ！ 三菱電機、AIが人型ロボットと工作機械を連携させる新技術を開発**
+  日本語：三菱電機株式会社は2026年10月21日、ヒューマノイドとCNC工作機械をフィジカルAIを介して連携させる加工システムを開発したと発表した。 同社によると、ヒューマノイド連携を前提としたNCシステムとして業界初である。 このシステムは作業者の自然言語による指示を受け取り、AI加工タスクプランナーが作業を計画してロボットと工作機械に振り分ける。 加工準備や清掃、完成品の取り出しなどをロボットに任せることで省人化を目指す。 中核技術にはAI技術ブランドMaisartを活用したフィジカルAIが搭載されており、2026年10月26日から東京ビッグサイトで開催されるJIMTOF2026第33回日本国際工作機械見本市でデモンストレーション展示される予定である。
+  中文：总结：三菱电机株式会社于2026年10月21日宣布开发出通过物理AI使人形机器人与CNC工作机械进行联动的新加工系统。 该公司表示，这是业内首个以与人形机器人联动为前提的NC系统。 该系统接收作业者的自然语言指示，由AI加工任务规划器规划工作并分配给机器人与工作机械。 通过让机器人负责加工准备、清扫以及成品取出等工作来推进省人化。 核心技术搭载了运用AI技术品牌Maisart开发的物理AI，计划于2026年10月26日起在东京国际展览中心举办的JIMTOF2026第33届日本国际机床展上进行示范展示。
+  📰 [DXマガジン](https://dxmagazine.jp/news/ytoda2649-8/)
+
+- **[2026.11.10] FNJPNews — 【フォートナイト】ソニーのロボット犬「aibo」がバディに登場！1,500V-BUCKS、残り6日**
+  日本語：ソニーのロボット犬「aibo」がフォートナイトのアイテムショップにバディとして登場した。 価格は1,500V-BUCKSで、販売期間は残り6日である。 フォートナイト内では、白い体に茶色の耳と尻尾を持つ初代から現行までの特徴を再現した姿となっており、海外のリーク情報によれば体の色は6種類、目の色は4種類から選ぶことができるとされている。
+  中文：总结：索尼的机器狗“aibo”作为搭档登上了《堡垒之夜》的道具商城。 售价为1,500 V-BUCKS，销售期限还剩6天。 在《堡垒之夜》中，它呈现出白色身体、棕色耳朵和尾巴的熟悉形象，根据海外泄露信息显示，购买后可以从6种身体颜色和4种眼睛颜色中进行选择。
+  📰 [FNJPNews](https://fnjpnews.com/News/66478)
+
+- **[2026.11.10] Vietnam.vn — ベトナムと日本は、ロボット工学と半導体チップの分野における科学者ネットワークを構築する必要がある。**
+  日本語：11月9日午後、ベトナムのトー・ラム事務総長兼国家主席と日本の高市早苗首相が会談を行った。 両首脳は包括的戦略パートナーシップの発展に満足の意を表明し、経済安全保障、技術移転、AI、半導体、エネルギーなどの分野における協力を強化することで合意した。 また、2030年までに貿易額800億米ドルを達成することを目指し、ロボット工学、半導体チップ、エネルギー技術、バイオテクノロジー、高速鉄道、量子コンピューティングの6分野における科学者ネットワークの構築を提案した。
+  中文：总结：11月9日下午，越南越共中央总书记兼国家主席苏林与日本首相高市早苗举行了会谈。 双方领导人对全面战略伙伴关系的发展表示满意，并同意加强在经济安全、技术转移、人工智能、半导体、能源等领域的合作。 双方还一致同意为实现2030年双边贸易额达到800亿美元的目标而紧密合作，并提议在机器人技术、半导体芯片、能源技术、生物技术、高速铁路和量子计算等六个领域建立科学家网络。
+  📰 [Vietnam.vn](https://www.vietnam.vn/ja/viet-nam-va-nhat-ban-can-xay-dung-mang-luoi-cac-nha-khoa-hoc-trong-linh-vuc-robot-chip-ban-dan)
+
+- **[2026.11.09] 環境ビジネスオンライン — トヨタ、Google系ウェイモとロボットタクシー実証 EVを自動運転化**
+  日本語：トヨタ自動車は2026年10月30日、アメリカのグーグル系ウェイモが開発する自動運転システムをトヨタのEV「bZ4X」に搭載し、日本で2027年からロボットタクシーに関する試験と検証を含む初期運行を始めると発表した。 ウェイモはアルファベット傘下の自動運転開発企業であり、すでにアメリカ国内各地でロボットタクシーを社会実装している。
+  中文：总结：丰田汽车于2026年10月30日宣布，将采用美国谷歌系Waymo开发的自动驾驶系统并搭载于丰田的电动汽车“bZ4X”上，于2027年起在日本开始包括试验和验证在内的初期运营。 Waymo是谷歌母公司Alphabet旗下的自动驾驶开发企业，已在美国各地将机器人出租车投入社会实际应用。
+  📰 [環境ビジネスオンライン](https://www.kankyo-business.jp/column/f0479786-e75d-485e-a01e-273dd11c4708)
+
+- **[2026.11.09] ロボスタ — 川崎重工、産業用ロボット向け「Fシリーズコントローラ S-type」を発売 サイバーセキュリティ対策機能を強化**
+  日本語：川崎重工株式会社は2026年11月5日、サイバーセキュリティ対策機能を強化した産業用ロボット向けコントローラ「Fシリーズコントローラ S-type」の発売を開始したと発表した。 2026年11月よりハンドリング適用から順次展開する。 ユーザー認証、アクセス権限管理、通信保護などのセキュリティ機能を強化し、不正アクセスやシステム改ざんのリスク低減を図っており、国際規格「IEC 62443-4-1」に基づいた開発プロセスを適用している。
+  中文：总结：川崎重工株式会社于2026年11月5日宣布推出强化了网络安全对策功能的产业用机器人控制器“F Series Controller S-type”。 该产品从2026年11月起在搬运应用中依次推广。 它通过强化用户认证、访问权限管理、通信保护等安全功能来降低非法访问和系统篡改的风险，并且在开发过程中适用了国际标准“IEC 62443-4-1”。
+  📰 [ロボスタ](https://robotstart.info/article/2026/11/09/382606.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.11.10] ロボスタ — ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結**
+  English: Japanese drone show company Redcliff has signed a basic agreement (MOU) with Chinese humanoid and quadruped robot developer Unitree to launch a new "robot show business". Redcliff plans to offer synchronized dances and acrobatic performances using Unitree's "Unitree G1 Dance Unit" for sports events, music concerts, and exhibitions starting within 2026. The company intends to combine its planning and operational expertise with Unitree's robotics technology, potentially integrating drone and ground robot performances for indoor and outdoor events.
+  中文：总结：从事无人机表演策划与运营的日本Redcliff公司，与开发人形及四足机器人的中国宇树科技（Unitree）签署了开展机器人娱乐领域合作的基本意向书。 Redcliff将为此启动“机器人演出业务”，计划在2026年内开始提供服务，在体育赛事、音乐会和展会等场合利用宇树的“Unitree G1 Dance Unit”人形机器人开展同步舞蹈和杂技表演。 该公司计划将自身的创作运营经验与宇树的机器人技术相结合，并考虑将空中无人机表演与地面机器人演出进行一体化联动。
+  📰 [ロボスタ](https://robotstart.info/article/2026/11/10/382612.html)
+
+- **[2026.11.11] Make Tech Easier — Xiaomi says its full-size humanoid robot took on an eight-hour sorting task at its car factory and can detect and correct anomalies on its own while coordinating with the production line system.**
+  English: Xiaomi posted on X on 3 November 2026 that its full-size humanoid robot completed an eight-hour sorting task at the Center Console Side-Cover Sorting Workstation within the Xiaomi Auto Factory. According to Xiaomi, the robot can autonomously detect and correct anomalies while coordinating with the production line system. The post included a video of nearly six minutes duration and was tagged with #XiaomiRobotics and #EmbodiedAI, though the accompanying article noted that the published image used a stock photo of industrial welding arms from 2009.
+  中文：总结：小米公司于2026年11月3日在社交平台X的Xiaomi Tech账号上发文称，其全尺寸人形机器人在小米汽车工厂的中控台侧护板分拣工位上承担了一项为期八小时的分拣任务。 小米表示，除了持续作业外，该机器人还能在与生产线系统协同的同时，自主检测并纠正异常情况。 该贴文附带了一段时长近六分钟的视频，并带有#XiaomiRobotics和#EmbodiedAI标签，不过相关报道指出该文章配图使用的是2009年工业焊接臂的存档照片。
+  📰 [Make Tech Easier](https://maketecheasier.com/xiaomi-humanoid-robots-eight-hour-factory-task/)
+
+- **[2026.11.11] Robotics & Automation News — Oversonic Robotics takes RoBee R20 humanoid robot to Munich and Lisbon**
+  English: Italian cognitive and collaborative humanoid robot manufacturer Oversonic Robotics is accelerating its international expansion by showcasing its industrial model RoBee R20 at the electronica event in Munich and the Web Summit in Lisbon. Founded in 2020, Oversonic developed the BeeOS cognitive platform and introduced cognitive humanoid robots into industrial production in 2023. RoBee R20 is designed to assist workers with repetitive or hazardous tasks and is capable of operating in ISO Class 6 controlled environments, making it suitable for semiconductor manufacturing. Company CEO Paolo Denti and chairman Fabio Puglia noted that these European events are milestones ahead of a return to CES in Las Vegas as they scale their Italian-designed technology globally.
+  中文：总结：专注于设计和制造认知及协作型人形机器人的意大利公司Oversonic Robotics正在加速其国际扩张，携其工业型号RoBee R20亮相慕尼黑电子展（electronica）和里斯本网络峰会（Web Summit）。 该公司成立于2020年，开发了BeeOS认知平台，并于2023年将认知人形机器人引入工业生产。 RoBee R20旨在协助工人完成重复性或具危险性的任务，并能够在符合ISO 14644-1标准的ISO Class 6受控环境中运行，适用于半导体制造等领域。 公司首席执行官保罗·丹蒂（Paolo Denti）和董事长法比奥·普格利亚（Fabio Puglia）表示，这两个欧洲展会是其重返拉斯维加斯CES之前的重要里程碑，旨在将意大利设计的技术推向全球规模。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/10/oversonic-robotics-takes-robee-r20-humanoid-robot-to-munich-and-lisbon/106938/)
+
+- **[2026.11.11] Yahoo Finance — Agility Robotics exec talks plans to double Pittsburgh workforce after Nasdaq debut**
+  English: Following its Nasdaq debut, Agility Robotics is doubling its workforce in Pittsburgh by leasing a new 50,000-square-foot facility in Lawrenceville. According to Chief Business Officer Daniel Diez, the current facility is too small for the data collection and AI training required for their humanoid robot, Digit. The new location will serve as a base for AI training teams, a remote operations center to monitor robots deployed in the field, and a service center to eliminate the need to ship robots back to West Coast facilities.
+  中文：总结：在完成纳斯达克上市后，Agility Robotics正准备将其在匹兹堡的劳动力规模扩大一倍，在劳伦斯维尔租用了一处面积达50,000平方英尺的新设施。 该公司首席商务官丹尼尔·迪兹（Daniel Diez）在接受采访时表示，现有设施对于其人形机器人Digit所需的AI训练和数据收集空间而言过于狭小。 新地点将作为AI训练团队的运营基地、用于监控实地部署机器人的远程运营中心，以及一个服务中心，从而省去将机器人运回西海岸设施的需要。
+  📰 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/agility-robotics-exec-talks-plans-153258934.html)
+
+- **[2026.11.10] BigGo Finance — Morgan Stanley Survey: Humanoid Robot Commercialization Timeline Pushed Back a Year, Only 18% of Companies Testing Them Satisfied**
+  English: A Morgan Stanley AlphaWise China Humanoid Robot Survey report indicates that the commercialization inflection point for humanoid robots has been pushed back by about a year. While 64% of surveyed companies might adopt humanoid robots within three years, potential adopter satisfaction fell to 18%, and 72% of respondents view robots priced below 100,000 yuan (approximately $15,000) as financially viable. Despite slower delivery timelines, Chinese humanoid concept stocks have rebounded strongly since October 15, led by Unitree Robotics rising over 60%, driven by lightweight positioning, frontier large language model breakthroughs, and optimistic remarks from Unitree founder Wang Xingxing regarding a 2027-2028 tech inflection point.
+  中文：总结：摩根士丹利最新的AlphaWise中国人形机器人调查报告显示，人形机器人的商业化拐点比之前预期推迟了大约一年。 虽然64%的受访企业表示可能在三年内采用人形机器人，但潜在采用者的满意度下降至18%，且72%的受访者认为价格在100,000元人民币（约合$15,000）以下的人形机器人在财务上才可行。 尽管交付时间表拉长，但自10月15日以来中国人形机器人概念股强劲反弹，其中宇树科技累计涨幅超过60%，该反弹归因于较轻的仓位、前沿大语言模型的突破，以及宇树科技创始人、董事长兼首席技术官王兴兴对2027至2028年技术拐点更乐观的预期。
+  📰 [BigGo Finance](https://finance.biggo.com/news/b4813596-c965-4136-b616-2af11e16d780)
+
+
+---
+※AI Robot News Digest | 2026.11.11 | full-text items: 20
