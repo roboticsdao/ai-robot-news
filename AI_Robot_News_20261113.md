@@ -12,98 +12,112 @@
 ## 🇺🇸 美国 / United States
 
 
+- **[2026.11.13] FOX 2 Detroit — US humanoid robot production could hit 400,000 units by 2030, JPMorgan says**
+  English: A report by JPMorgan states that U. S. humanoid robot production is expected to reach between 300,000 and 400,000 units by 2030 and could grow to 1.5 million by 2035. The investment bank attributes this adoption in manufacturing, logistics, and warehousing to labor shortages, improving economics, and rising production capacity as the industry transitions from demonstrations to broader commercial deployment. JPMorgan also noted that Trump administration determinations regarding national security risks from imported robotics could lead to tariffs or other policy measures to boost domestic production. Deployment could be constrained by hardware availability, AI training data, computing capacity, and manufacturing output, with most U. S. developers targeting annual volumes of 10,000 to 30,000 units, excluding Tesla. Key leading U. S. platforms identified include Tesla's Optimus, Agility Robotics' Digit, Boston Dynamics' Atlas, Figure AI's humanoid robots, and Apptronik's Apollo.
+  中文：总结：根据摩根大通发布的一份报告，预计到2030年，美国人形机器人产量将达到300,000至400,000台，并可能在2035年增长至150万台。 该投资银行表示，随着行业从展示阶段转向更广泛的商业部署，劳动力短缺、经济效益的改善以及产能的提升正在推动其在制造、物流和仓储领域的应用。 摩根大通还指出，特朗普政府认定进口机器人和工业机械构成国家安全风险，这可能会引发关税或其他旨在促进本土生产的政策措施。 该报告称，部署可能会受到硬件可用性、AI训练数据、计算能力和制造产出的限制，除特斯拉外，大多数美国人形机器人开发商的目标年产量在10,000至30,000台之间。 报告指出的美国领先人形机器人平台包括特斯拉的Optimus、Agility Robotics的Digit、波士顿动力的Atlas、Figure AI的人形机器人以及Apptronik的Apollo。
+  📰 [FOX 2 Detroit](https://www.fox2detroit.com/news/us-humanoid-robot-production-could-hit-400000-units-2030-jpmorgan-says)
+
 - **[2026.11.12] Fierce Sensors — Physical AI depends on sensor redundancy. Does it need Nvidia redundancy too?**
-  English: Physical AI is built on redundancy. Robots combine cameras, lidar, force sensing, tactile sensing and other inputs because trusting a single source of information is risky. Nvidia, the company hoping to provide the computing backbone for many of those machines, may now be discovering the corporate version of the same problem: what happens when too much depends on one sensor named Jensen Huang?
+  English: Physical AI relies on sensor redundancy and computing infrastructure to process data from cameras, lidar, IMUs, and tactile sensors. Nvidia provides computing backbones, simulation environments, and software frameworks like Isaac Lab, Isaac Sim, and Omniverse, extending to Boston Dynamics' electric Atlas humanoid, which uses the Jetson Thor computing platform. Boston Dynamics and Nvidia collaborate on functional safety, security architectures, learning, and computer-vision pipelines, though Boston Dynamics retains its own whole-body and manipulation controllers. Other semiconductor companies such as Qualcomm, Intel, and NXP are also maneuvering for the physical-AI market across humanoids, autonomous mobile robots, and industrial automation.
+  中文：总结：物理AI依赖于传感器冗余以及用于处理来自激光雷达、摄像头、IMU和触觉传感器数据的计算基础设施。 Nvidia为许多此类机器提供计算骨干、仿真环境以及软件框架（如Isaac Lab、Isaac Sim和Omniverse），其技术已延伸至波士顿动力的电驱动Atlas人形机器人，该机器人采用了Jetson Thor计算平台。 波士顿动力与Nvidia在功能安全、安全架构、学习和计算机视觉管道方面展开合作，不过波士顿动力仍保留其自身的全身和抓取控制器。 与此同时，高通、英特尔和恩智浦等其他半导体公司也在争夺涵盖人形机器人、自主移动机器人和工业自动化等领域的物理AI市场。
   📰 [Fierce Sensors](https://www.fiercesensors.com/sensors-fusion/physical-ai-depends-sensor-redundancy-does-it-need-nvidia-redundancy-too)
 
 - **[2026.11.11] Supply Chain Digital Magazine — Hyundai's Boston Dynamics Launches Stretch Gen 2 robot**
-  English: Inbound logistics remains one of the most labour-intensive and physically demanding nodes within global supply chain networks. Mobile robotics pioneer Boston Dynamics - a wholly-owned subsidiary of Hyundai Motor Group - has unveiled Stretch Gen 2, a next-generation autonomous mobile robot (AMR) specifically designed for warehouse activities, including trailer unloading.
+  English: Boston Dynamics, a wholly-owned subsidiary of Hyundai Motor Group, unveiled Stretch Gen 2, an autonomous mobile robot designed for warehouse activities such as trailer unloading. Built from data across more than 100,000 industrial operating hours and tens of millions of handled cases, the platform features hardware upgrades including heavy-duty automotive-grade connectors, modular maintenance design, real-time diagnostics, and an upgraded vacuum-based gripper head. Key specifications include 1,000 cases per hour throughput, an 81% internal cabling reduction, 1-hour swerve drive replacement, dual-shift battery endurance with a 75-minute fast-charging cycle, and zero-programming vision deployment. Hyundai acquired full ownership of Boston Dynamics in August 2026, and has advanced other robotics initiatives including the Atlas humanoid robot production at its Boston hub and plans for a Robotics Innovation Hub in Georgia.
+  中文：总结：现代汽车集团的全资子公司波士顿动力公司推出了Stretch Gen 2，这是一款专为仓库活动（包括拖车卸货）设计的下一代自动移动机器人。 该平台基于超过10万小时的工业运行时间和数千万件处理货物的运营数据构建，引入了硬件、电气和结构升级，以最大化设备可用性并提高卸货门吞吐量。 其核心特性包括每小时1,000箱的吞吐量、内部布线减少81%、一小时内完成转向驱动装置更换、支持双班次续航及75分钟快充至90%容量，以及零编程视觉部署。 现代汽车于2026年8月收购了波士顿动力的全部所有权，并推进了波士顿制造枢纽的Atlas人形机器人生产以及佐治亚州机器人创新枢纽的建设计划。
   📰 [Supply Chain Digital Magazine](https://supplychaindigital.com/news/hyundais-boston-dynamics-launches-stretch-gen-2-robot)
 
-- **[2026.11.11] Yahoo Tech — Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment**
-  English: Boston Dynamics swapped its humanoid robot's feet for scooter wheels, not to build a wheeled product, but to stress-test its actuators and learned control system under demands that walking simply cannot replicate. The wheeled Atlas is a research testbed, the company says, built to reveal how faithfully a learned whole-body controller transfers to real hardware when motors are pushed near their limits.
-  📰 [Yahoo Tech](https://tech.yahoo.com/science/articles/boston-dynamics-swaps-atlas-humanoid-160547921.html)
-
-- **[2026.11.10] Seoul Economic Daily — Nvidia Surprises With Direct Investments in Four Korean AI, Robotics Startups**
-  English: ▲ AI PRISM* Personalized Economic Briefing * Editor's note: AI PRISM (Personalized Report & Insight Summarizing Media) is an AI-based personalized news recommendation and summary service developed with support from the Korea Press Foundation. It selects and delivers six tailored news items for each reader type.
-  📰 [Seoul Economic Daily](https://en.sedaily.com/economy/2026/11/10/nvidia-surprises-with-direct-investments-in-four-korean-ai)
+- **[2026.11.10] A3 Association for Advancing Automation — Industry Insights: Hasbro AI Studio Partners with Boston Dynamics Spinout For Licensed Robots**
+  English: Hasbro launched Sixth Wall Studio in June to capitalize on Behavioral Licensing for authorized AI characters that act and react in real-time scenarios. Sixth Wall announced a joint venture with Dynamic Creatures, a startup utilizing free-roaming, semi-autonomous systems built atop Boston Dynamics robots, to combine character authoring and mobile, expressive robots for theme parks and resorts. The partnership aims to develop characters that can greet guests, share adventures, and remember them upon return to foster brand loyalty. This represents the first major brand deal for Dynamics Creatures, which emerged from stealth in September. Sixth Wall currently partners with ElevenLabs to offer characters via its Iconic Voices market and works with voice actors including Frank Welker and the late Don Rickles and Peter Cullen.
+  中文：总结：孩之宝于6月推出了Sixth Wall Studio，以利用“行为许可”来打造能够在实时场景中行动和反应的授权AI角色。 Sixth Wall宣布与Dynamic Creatures建立合资企业，后者是一家在波士顿动力机器人基础上构建自由移动、半自主系统的初创公司，双方旨在将角色创作与移动、具表现力的机器人结合起来，应用於主题公园和度假村。 该合作旨在开发能够迎接客人、分享冒险经历并在客人重返时认出他们的角色，从而培养品牌忠诚度。 这是9月脱离隐秘状态的Dynamic Creatures签署的首个重大品牌协议。 Sixth Wall目前与ElevenLabs合作，通过其Iconic Voices市场提供角色，并与配音演员弗兰克·维尔克以及已故的唐·里奇斯和彼得·库伦合作。
+  📰 [A3 Association for Advancing Automation](https://www.automate.org/ai/industry-insights/dynamic-creatures-teams-with-hasbro-ai-studio-for-character-ip-embodiment-in-theme-parks-and-resorts)
 
 - **[2026.11.12] Assembly Magazine — ABB, NVIDIA Develop Physical AI Training Program as 84% of Companies Lag in Job Redesign**
-  English: ABB, NVIDIA Develop Physical AI Training Program as 84% of Companies Lag in Job Redesign BERLIN — ABB Robotics and NVIDIA are developing an education program to prepare engineers and manufacturing workers for physical artificial intelligence, as new research highlights a gap between AI adoption and workforce readiness. A white paper released in conjunction with the announcement found that 84% of companies have not redesigned jobs around AI capabilities, although 53% are working to improve AI fluency.
+  English: ABB Robotics and NVIDIA are developing an education program to train engineers and manufacturing workers for physical artificial intelligence, combining theoretical instruction with hands-on training using ABB RobotStudio and NVIDIA Omniverse. A white paper released with the announcement revealed that 84% of companies have not redesigned jobs around AI capabilities, while 53% are working to improve AI fluency. Participants can earn a certificate in robotics, simulation, and physical AI. Additionally, ABB announced that RobotStudio HyperReality is now available to 60,000 RobotStudio users worldwide, achieving 99% accuracy in closing the gap between simulated and real-world robotic operations through a collaboration with Enodo Robotics using OpenUSD technology.
+  中文：总结：ABB机器人与英伟达正在开发一项教育计划，为工程师和制造工人提供实体人工智能培训，将理论教学与使用ABB RobotStudio和英伟达Omniverse的实操训练相结合。 与该公告一同发布的一份白皮书显示，84%的公司尚未围绕AI能力重新设计工作岗位，而53%的公司正致力于提高AI熟练度。 参与者可以获得机器人、仿真和实体AI方面的证书。 此外，ABB宣布RobotStudio HyperReality现已向全球60,000名RobotStudio用户开放，通过与Enodo Robotics合作并使用OpenUSD技术，该仿真技术在缩小仿真与真实世界机器人操作差距方面达到了99%的准确率。
   📰 [Assembly Magazine](https://www.assemblymag.com/articles/100570-abb-nvidia-develop-physical-ai-training-program-as-84-of-companies-lag-in-job-redesign)
 
 
 ## 🇨🇳 中国 / China
 
 
+- **[2026.11.13] 深潮TechFlow — Pantera 合伙人中国具身智能考察见闻：硬件供应链占优，“数据农场”堆量难解模型短板**
+  中文：总结：作者：Cosmo Jiang， Erik Hopyan （Pantera Capital） 编译：深潮 TechFlow 深潮导读：在加密一级市场流动性收紧的当下，头部加密 VC 的触角已经明显伸向了 AI 与机器人赛道。 Pantera Capital 是美国最早、最知名的机构级加密/区块链投资机构之一。 2003 年创立，2013 年推出美国首个机构比特币基金，长期以来以数字资产、区块链为核心，后来逐步扩展到 AI、机器人等更广的科技前沿领域。 最近这家基金的合伙人 Cosmo Jiang 和投资人 Cody Poh 就专门飞了一趟深圳，实地调研了中国机器人产业链，观察了从人形机器人整机厂、模型团队到灵巧手与数据采集设备商等各个环节，并发布了一篇长文总结。 他们的核心发现总结下来非常直接：硬件中国领先，软件美国领先，而在中间的数据环节，质量远比数量重要。
+  📰 [深潮TechFlow](https://www.techflowpost.com/article/35347)
+
+- **[2026.11.13] 观点网 — 中国石油集团昆仑制造拟联合宇树科技新设机器人合营企业**
+  中文：总结：中国石油集团昆仑制造及昆仑资本联合宇树科技、泛界智能拟新设合营企业，主攻工业具身智能机器人，交易后合计持股60%。 观点网讯：11月4日，北京市市场监督管理局公示的一则经营者集中简易案件显示，中国石油集团昆仑制造有限公司及其一致行动人昆仑资本，联合宇树科技股份有限公司、北京泛界智能科技有限公司拟新设合营企业，主攻工业具身智能机器人解决方案。 交易完成后，昆仑制造及其一致行动人合计持股60%，宇树科技、泛界智能各持股20%。 这起合营之前，双方已有资本纽带。 今年8月宇树科技科创板IPO时，昆仑资本已作为战略投资者获配903,290股，占当次公开发行股份数量的2.23%，获配金额约1.36亿元。 从战略配售到实体合营，双方绑定在不到一个季度内从资本纽带延伸至经营实体。 宇树科技IPO时双方签署的《战略合作备忘录》已明确围绕油气场景机器人应用展开合作。
+  📰 [观点网](https://www.guandian.cn/article/20261113/627244.html)
+
+- **[2026.11.13] 新浪财经 — 手术机器人迎“生态战”：跨国器械如何在中国市场打差异化牌？**
+  中文：总结：“我母亲走路都是侧着走，用代偿的方式走。 我加入史赛克以后催促了她很久，她才去做髋关节置换。 ”史赛克中国总经理张绍斌在接受21世纪经济报道记者采访时，讲了一个私人的细节。 这个细节背后，是一个更大的产业命题：当集采把关节假体价格打到地板价，当国产骨科机器人 过去五年，史赛克参与了关节集采的全过程，假体价格大幅下降，市场金额和利润空间被压缩。 但与此同时，史赛克把Mako关节机器人带到了中国，用机器人辅助手术拉动了一个新的增量市场。 用张绍斌的话说，“不是在存量里打价格战，而是用差异化能力把市场做大”。 这并非史赛克一家的选择。 强生、美敦力、西门子医疗等跨国器械巨头都在中国市场经历类似的战略调整：集采覆盖的成熟产品线负责“进院”和“可及性”，创新设备和高值耗材负责“差异化”和“品牌势能”。 手术机器人，恰恰是这场转型中最具代表性的赛道。
+  📰 [新浪财经](https://finance.sina.com.cn/roll/2026-11-13/doc-iniypvhf1035957.shtml)
+
+- **[2026.11.13] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
+  中文：总结：①这是A股具身智能赛道第一次出现可验证的估值锚点，标志着人形机器人产业从"叙事驱动"进入"分层定价"阶段。 ②宇树科技预计将于8月下旬正式挂牌上市。 作为人形机器人赛道的标志性企业，其上市表现也将成为观测科创板新股情绪与硬科技估值的重要风向标。 《科创板日报》8月10日讯（记者 黄心怡 陈俊清），宇树科技正式开启申购，本次发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，约占扣除最终战略配售数量后发行数量的30.00%，网上发行最终中签率为0.01809759%，中签结果将于8月12日揭晓。 宇树科技预计募集资金总额约60.99亿元，主要用于智能机器人模型研发、机器人本体研发、新型智能机器人产品开发以及智能机器人制造基地建设等项目。
+  📰 [财联社](https://www.cls.cn/detail/2450388)
+
 - **[2026.11.12] 新浪财经_金融信息服务商 — 永达汽车采购400台超仿生人形机器人，优必选首次披露大单，交付成考验**
-  中文：总结：红星资本局11月12日消息，11月11日，优必选（09880. HK）宣布与永达汽车（03669. HK）签署战略合作协议。 根据协议，永达汽车将采购400台优必选超仿生人形机器人U1 Pro，优必选计划于今年内交付。 关于U1 Pro最新的市场交付情况，优必选回复红星资本局称，交付正在稳步推进中。 这也是自今年6月发布后，优必选披露的首个超仿生人形机器人大额订单。 按U1 Pro在京东平台16.98万元/台的价格计算，该笔订单金额超6700万元。 根据协议，永达首批采购的人形机器人将用于产品体验、销售推广和客户服务合作等，双方还计划在上海共建优必选全系列机器人体验展示中心。 这不是U1在B端的第一次尝试。 今年9月，优必选官宣U1在MedTech World Awards 2026亚太医疗科技颁奖典礼上荣获“人工智能驱动医疗创新奖”。 早在U1发布前，优必选便瞄准医疗康养赛道，与麦迪科技（603990.
+  中文：总结：11月11日，优必选与永达汽车签署战略合作协议，永达汽车将采购400台优必选超仿生人形机器人U1 Pro，优必选计划于今年内交付。 按U1 Pro在京东平台16.98万元/台的价格计算，该笔订单金额超6700万元。 永达首批采购的人形机器人将用于产品体验、销售推广和客户服务合作等，双方还计划在上海共建优必选全系列机器人体验展示中心。 受此协议提振，11月12日优必选早盘高开逾3%，报79.2港元，盘中最高触及80.3港元，收盘报74.5港元，全日下跌2.74%。 截至11月12日收盘，永达汽车报0.650港元，总市值约12.36亿港元。
   📰 [新浪财经_金融信息服务商](https://cj.sina.cn/articles/view/7399555658/1b90c424a02001s7de)
-
-- **[2026.11.12] 新浪财经 — 优必选发力仿生机器人，三天两签渠道大单**
-  中文：总结：21世纪经济报道记者 石恩泽 与中国电信达成十万台销售合作仅隔两天，优必选又为消费级机器人拿下一个渠道伙伴。 11月11日，优必选（09880. HK）与港股上市的豪华汽车经销服务集团永达汽车（03669. HK）签署战略合作协议。 根据协议，永达汽车首批采购400台优必选超仿生人形机器人U1 Pro，优必选计划于今年内完成交付。 值得一提的是，永达汽车拥有覆盖全国多城市、多豪车品牌的线下门店网络，积累了大规模高净值终端客户资源，并建立了成熟的体验转化、交付服务体系。 这是优必选本周内达成的第二份渠道合作。 11月9日，优必选刚与中国电信全资子公司天翼电信终端达成战略合作，未来三年共同推动超仿生人形机器人、轮式人形机器人等终端规模突破十万台。 从牵手运营商到联姻汽车经销商，优必选的消费级机器人正在从发布会走向经销渠道。 订单放量是优必选营收增长的核心驱动力。
-  📰 [新浪财经](https://cj.sina.cn/articles/view/1651428902/626ece2602001lmbm)
-
-- **[2026.11.12] 人工智能 — 永达汽车与优必选签署全面战略合作协议，共同推进具身智能商业化应用**
-  中文：总结：永达汽车与优必选签署全面战略合作协议，共同推进具身智能商业化应用 2026/11/12 16:24AI云资讯18244 2026年11月11日，永达汽车与优必选签署全面战略合作协议。 双方将围绕机器人销售和商业应用二次开发开展合作，并探索数据采集、训练评测及生态合作。 永达将采购400台优必选超仿生人形机器人U1 Pro，优必选计划于2026年内交付。 双方将围绕优世界U1系列开展产品体验、销售推广和客户服务，并合作拓展工业及商用机器人的销售。 双方将在上海共建优必选全系列机器人体验展示中心，探索店中店、联合展示等模式。 在应用二次开发方面，双方将从客户的业务流程和现场需求入手，确定适合机器人的应用场景，共同开展方案设计、应用开发和系统集成，并提供部署交付和后续运维服务。 此次合作将进一步拓展永达具身智能的商业化服务空间。 依托已有的应用开发、交付和运维能力，永达具身智能将为更多客户提供机器人应用服务，推动成熟方案在同类场景中推广。
-  📰 [人工智能](https://www.icloudnews.net/a/124931.html)
-
-- **[2026.11.12] 中国新闻网 — 两种形态自由切换 国际投资者近距离感受中国机器人**
-  中文：总结：发布时间：2026年11月12日 15:44 来源：中国新闻网 11月12日，上海证券交易所国际投资者大会在上海举行。 多款前沿科技产品亮相现场，其中一款可在人形、机器狗形态之间自主切换的机器人，凭借独特的跨形态变形能力与自然的人机交互体验，吸引众多与会者驻足观看。 工作人员介绍，启元T1昵称“远仔”，是全球首款可变形个人机器人。 依托自研跨形态一体架构，它可以在轮足人形、四足两种形态间自主切换，兼顾室内、户外多场景使用。 机器人搭载智能感知系统，具备柔顺力控、负载交互能力，支持轻柔触碰、牵手慢握，能和用户完成自然友好的近距离互动。 (高志苗 康玉湛 制作 周昂煜) 责任编辑：【于晓】
-  📰 [中国新闻网](https://www.chinanews.com.cn/cj/shipin/cns-d/2026/11-12/news1074684.shtml)
-
-- **[2026.11.12] Sohu — 中国移动江苏公司：智能配送机器人上岗金陵酒店 数智赋能宾客服务新体验**
-  中文：总结：中国移动江苏公司连云港分公司近日在金陵酒店落地智能配送服务，由智能配送机器人承担外卖和客需物品的无接触高效配送。 该机器人拥有55cm的窄距通过性、上舱40升与下舱30升的大容量，并配备视觉与多传感器融合系统以及向上倾斜7度的屏幕。 这一举措在提升宾客入住体验的同时，也让酒店前台工作人员得以从繁琐的送物中抽身，专注于接待工作。
-  📰 [Sohu](https://m.sohu.com/a/1100593907_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
 
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.11.12] Infoseek — 国内最大級のビルメンテナンス、建物・施設管理の専門展示会人手不足に挑む「ロボット」「DX」「スマートビル」の最前線が集結「ビルメンヒューマンフェア＆クリーンEXPO 2026」開催**
-  日本語：公益社団法人全国ビルメンテナンス協会と一般社団法人日本能率協会は、2026年11月18日から20日までの3日間、東京ビッグサイト南展示棟・西展示棟で「ビルメンヒューマンフェア＆クリーンEXPO 2026」を開催する。 今回は150社・379ブースの規模で展開し、清掃ロボットやDX・スマートビルなどの最新商材が集結する。 会場では人手不足対策や業務効率化をテーマにした60以上の講演や交流会も実施される予定である。
-  中文：总结：公益社団法人全国ビルメンテナンス協会与一般社団法人日本能率协会将于2026年11月18日至20日在东京国际展览中心南展示栋和西展示栋举办“Building Maintenance Human Fair & Clean EXPO 2026”。 本届展会规模达150家企业379个展位，汇聚了清扫机器人、数字化转型及智能建筑等最新产品。 展会期间还将举办60多场演讲及交流会，聚焦人手不足应对与业务效率提升等行业课题。
-  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000314_000016501/)
+- **[2026.11.12] MICE TIMES ONLINE — 「第1回 ホスピタリティテックEXPO」12月2日～4日、東京・有明GYM-EXで開催。日本初の「HITEC TOKYO」やAI・ロボット体験、40以上のカンファレンスを実施**
+  日本語：観光・宿泊・飲食業界向けの展示会「第1回 ホスピタリティテックEXPO」が、2026年12月2日から4日まで、東京・有明GYM-EXで開催されます。 主催はRX Japan合同会社で、AI、ロボット、IoT、クラウドサービスなどの製品・サービスが集まります。 会場には観光DXフェア、宿泊DXフェア、飲食DXフェア、ホスピタリティマネジメントゾーン、人手不足・インバウンド対策ゾーンの5つのエリアが設けられます。 また、ホテル業界向けテクノロジーカンファレンス「HITEC TOKYO」が日本初開催されるほか、脳科学者の茂木健一郎氏らの講演を含む40以上のカンファレンスが実施されます。 入場には事前来場登録が必要で、一般来場登録料は11,000円（税込）です。
+  中文：总结：旅游、住宿和餐饮行业展会“第一届Hospitality Tech EXPO”将于2026年12月2日至4日在东京有明GYM-EX举行。 主办方为RX Japan合同会社，展会汇集了AI、机器人、物联网、云服务等产品与服务。 会场设面向观光DX、住宿DX、餐饮DX、酒店管理、人手不足及入境游对策的五个展区。 此外，还将举办美国发源的酒店业技术会议“HITEC TOKYO”的日本首展，以及包含脑科学者茂木健一郎等演讲在内的40多场会议。 入场采用事前登记制，一般来场注册费为11,000日元（含税）。
+  📰 [MICE TIMES ONLINE](https://micetimes.jp/hospitality-tech-expo-01/)
 
 - **[2026.11.12] Mantan Web — プラウ、「レジャー＆アウトドアジャパン2026」に出展。国内未発売の新モデルを含むSunseeker Eliteロボット芝刈機を展示**
-  日本語：プラウ株式会社 スポーツ施設やテーマパーク、公園など、幅広い芝生管理の省力化に向け、業務用途向け「X9」や新モデル「X4」などを紹介 プラウ株式会社（本社：新潟県上越市、代表取締役社長：石塚祥平）は、2026年11月25日（水）から27日（金）まで、東京ビッグサイトで開催される「レジャー＆アウトドアジャパン2026」に出展します。 Sunseeker Elite（サンシーカー エリート）Xシリーズの日本国内における独占販売契約を結ぶプラウが今回展示するのは、国内販売中の「X7 Plus」「X5」「X3」と、国内未発売の新モデル「X9」「X4」の計5機種。 今回、プラウが目を向けるのは、施設を訪れる人々の「足元」。 スポーツ施設やテーマパーク、公園などの芝生を美しく保ちながら、管理にかかる手間を減らす。 その両立を目指し、ロボット芝刈機の活用を提案します。
+  日本語：プラウ株式会社は、2026年11月25日から27日まで東京ビッグサイトで開催される「レジャー＆アウトドアジャパン2026」に出展し、Sunseeker Eliteロボット芝刈機を展示する。 同社は日本国内における独占販売契約を結んでおり、今回は国内販売中の「X7 Plus」「X5」「X3」に加え、国内未発売の新モデル「X9」と「X4」の計5機種を紹介する。 スポーツ施設やテーマパーク、公園などの芝生管理の省力化や効率化に向けた活用を提案するもので、設置環境の確認からアフターフォローまで導入をサポートしている。
+  中文：总结：普劳株式会社将于2026年11月25日至27日参加在东京国际展览中心举办的“休闲与户外日本2026”展会，并展出Sunseeker Elite割草机器人。 作为该系列在日本国内的独家销售代理，普劳本次将展出国内在售的“X7 Plus”、“X5”、“X3”以及尚未在日本国内发售的新型号“X9”和“X4”共计5款机型。 此次参展旨在为体育设施、主题公园和公园等场所的草坪管理省力化与高效化提供应用方案，并提供从安装环境确认到售后跟进的各项导入支持。
   📰 [Mantan Web](https://mantan-web.jp/prtimes/article/20261112prt00m200000835a.html)
 
 - **[2026.11.12] Yahoo!ニュース — AIロボットを2040年までに国内1000万台 経産省、量産と現場導入を一体支援へ（電波タイムズ）**
-  日本語：経済産業省は、2040年までに国内へ1000万台規模のAIロボットを導入し、世界市場で3割超のシェア獲得を目指す。 11月11日に幕張メッセ（千葉市）で開幕した「NexTech Week 2026【秋】」で、同省商務情報政策局AI産業戦略課長の渡辺琢也氏が「日本のフィジカルAI産業活性化に向けたGENIACの取組」と題して講演。 AIの開発やロボットの量産に加え、産業現場への導入、データ収集、モデルの改善までを一体的に支援する政策の方向性を説明した。 AIロボティクスは、人工知能（AI）とロボット技術を組み合わせ、現実世界の状況を認識・判断しながら動作する技術。 従来の産業用ロボットは、決められた作業を繰り返す用途が中心だったが、AI技術の進歩により、多品種少量生産や複雑な環境での自律作業への応用が期待されている。 渡辺氏は、日本が産業用ロボットやモーター、減速機、センサーなどの部品技術に強みを持つ一方、サービスロボット市場では米欧中に後れを取っている現状を説明。
+  日本語：経済産業省は、2040年までに国内へ1000万台規模のAIロボットを導入し、世界市場で3割超のシェア獲得を目指す方針を示した。 11月11日に幕張メッセで開幕した「NexTech Week 2026【秋】」において、同省の渡辺琢也氏が講演し、AIの開発やロボットの量産、産業現場への導入、データ収集、モデルの改善までを一体的に支援する政策の方向性を説明した。 ヒューマノイドなど多用途ロボットの世界市場は2040年に60兆円規模へ拡大すると見込まれ、日本はこのうち20兆円規模の市場獲得を目指す。 政府は製造や物流、建設、医療、介護、農業など18分野を対象に実装ロードマップに基づき導入を促進する。
+  中文：总结：日本经济产业省提出目标，计划到2040年在国内引入规模达1000万台的AI机器人，并在全球市场上获得超过3成的份额。 在11月11于幕张展览馆开幕的“NexTech Week 2026【秋】”上，该省商务信息政策局AI产业战略课长渡边琢也发表了演讲，阐述了对AI开发、机器人量产、产业现场导入、数据收集及模型改善进行一体化支援的政策方向。 预计多用途机器人全球市场将在2040年扩大至60万亿日元规模，日本力争获取其中20万亿日元的市场。 政府将依据实施路线图，在制造、物流、建设、医疗、护理、农业等18个领域推进机器人应用。
   📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/9eb3744395421fe4a98872eb229d66f3fdd64b88)
 
-- **[2026.11.12] MICE TIMES ONLINE — 「第1回 ホスピタリティテックEXPO」12月2日～4日、東京・有明GYM-EXで開催。日本初の「HITEC TOKYO」やAI・ロボット体験、40以上のカンファレンスを実施**
-  日本語：観光・宿泊・飲食業界向けの展示会「第1回 ホスピタリティテックEXPO」が、2026年12月2日（水）から4日（金）まで、東京・有明GYM-EX（ジメックス）で開催されます。 主催はRX Japan合同会社。 人手不足や業務効率化、インバウンド対応などの課題に向けて、AI、ロボット、IoT、クラウドサービスなどの製品・サービスが集まります。 米国発のホテル業界向けテクノロジーカンファレンス「HITEC TOKYO」の日本初開催に加え、40以上のカンファレンスや体験型企画も予定されています。 「ホスピタリティテックEXPO」は、ホテル・旅館、飲食店、観光施設、自治体、観光協会、DMOなどを対象に、業界の課題解決につながるテクノロジーを紹介する展示会です。 観光需要が拡大する一方、宿泊・飲食業界では人手不足やコスト上昇への対応が求められています。
-  📰 [MICE TIMES ONLINE](https://micetimes.jp/hospitality-tech-expo-01/)
+- **[2026.11.12] PR TIMES — 国内最大級のビルメンテナンス、建物・施設管理の専門展示会人手不足に挑む「ロボット」「DX」「スマートビル」の最前線が集結「ビルメンヒューマンフェア＆クリーンEXPO 2026」開催**
+  日本語：公益社団法人全国ビルメンテナンス協会と一般社団法人日本能率協会は、2026年11月18日から20日まで東京ビッグサイト南・西展示棟で「ビルメンヒューマンフェア＆クリーンEXPO 2026」を開催する。 ビルメンテナンス業界の人手不足に対応するため、清掃ロボットやDX、スマートビルに関する商材が集まり、150社・379ブースの規模で実施される。 会場では生成AIやIoTを活用した業務効率化に関する60以上の講演セッションが行われるほか、日本空港ビルデングの新津春子氏やYouTubeで情報を発信する「おそうじ職人 きよきよ」氏がゲストとして参加する交流会や講演も実施される。 アマノのAI業務用ロボット掃除機「RAPiiTT」や蔵王産業のロボットスイーパーなど、各種最新の出展製品も紹介される。
+  中文：总结：公益社团法人全国建筑物维护协会与一般社团法人日本能率协会将于2026年11月18日至20日在东京国际展览中心南、西展厅举办“建筑物维护人权展与清洁EXPO 2026”。 为应对建筑物维护行业的人手短缺问题，展会汇集了清洁机器人、DX及智能大楼相关展品，规模达到150家企业与379个展位。 会场将举办60多场关于利用生成AI与物联网实现业务效率化的演讲，并举行由日本机场大厦的新津春子及在YouTube发布信息的“清洁工匠Kiyokiyo”作为嘉宾参与的交流会与演讲。 展会还将介绍天野公司的AI商用机器人吸尘器“RAPiiTT”以及藏王产业的机器人清扫机等各种最新出展产品。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000314.000016501.html)
 
 - **[2026.11.11] ダイヤモンド・オンライン — なぜ日本でロボットが増えないのか？→東芝幹部の指摘がキレッキレで、ぐうの音も出ない**
-  日本語：NEC：熟練の技をAIに継承し、新人を指導 NECの宮川伸也氏が紹介したのは、熟練者の技をAIに継承する取り組みだ。 熟練者の作業を映像で記録し、AIが扱えるように整理する。 点検中の作業者には「そのボタンは押さないでください」と注意を促し、組み立て作業では「左手でネジを押さえて締めてください」と指導する。 長年の経験で培われた勘や手順は、本人も無意識に行っていることが多く、人に伝えるのが難しい。 それをAIが肩代わりし、経験の浅い作業者を熟練者のレベルに引き上げるのが狙いだ。 安川電機：ロボット自身が判断する時代へ 安川電機の久保田由美恵氏が紹介したのは、2023年に投入した自律型AIロボット「MOTOMAN NEXT」だ。 業界で初めてNVIDIA製GPUを標準搭載し、ロボット自身が状況を見て判断できるようになったことで、任せられる仕事は格段に増えたという。
-  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/402113?page=4)
+  日本語：日本のロボット産業における勝ち筋として、標準化と熟練の融合、安全と安心の両立、そして技術流出を防ぎながらの企業連携の3点が挙げられている。 日立製作所によれば、海外の工場は標準化が進んでいる一方、日本の工場には熟練者の頭の中にノウハウが蓄積されており、両者を掛け合わせることが強みになるという。 また、日立やNECは、人が不安を感じずにロボットが動く制御技術の開発を進めている。 さらに、熟練者のノウハウがAIを通じてデータとして持ち出されるリスクへの警戒を示しつつも、安川電機の久保田氏のように政府主導のプロジェクトに自社データを提供し、日本全体での技術開発に参加する動きも見られている。
+  中文：总结：日本机器人产业的取胜之道被归纳为三点：标准化与熟练技术的融合、安全与安心的兼顾、以及在防止技术外流的同时进行企业间合作。 日立制作所指出，海外工厂推进了标准化，而日本工厂则在熟练工人的头脑中积累了专业知识，将二者结合将成为日本的优势。 此外，日立与NEC正在推进控制技术的开发，使机器人在运转时不会让人感到不安。 同时，在警惕熟练工人的专业知识可能通过AI作为数据被带走风险的同时，也出现了像安川电机的久保田那样向政府主导的项目提供自家数据、参与日本整体技术开发的动向。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/402113?page=5)
 
 
 ## 🤖 Humanoid Robotics
 
 
-- **[2026.11.13] LiveNOW from FOX — US humanoid robot production could hit 400,000 units by 2030, JPMorgan says**
-  English: Humanoid robot production in the United States is expected to reach between 300,000 and 400,000 units by 2030 and could grow to 1.5 million by 2035, according to a report released by JPMorgan. Big picture view: The investment bank said labor shortages, improving economics and rising production capacity are driving adoption in manufacturing, logistics and warehousing as the industry shifts from demonstrations to broader commercial deployment.
-  📰 [LiveNOW from FOX](https://www.livenowfox.com/news/us-humanoid-robot-production-could-hit-400000-units-2030-jpmorgan-says)
+- **[2026.11.13] Yahoo!ファイナンス — ＮＩＴＴＯＫＵ－買い気配 ヒューマノイドロボット向けモータ生産設備の追加受注獲得 約102億円(トレーダーズ・ウェブ)**
+  English: NITTOKU announced on the 13th at 9:30 AM that it secured an additional order for humanoid robot motor production equipment worth approximately 102 billion yen, following a previous order of approximately 82 billion yen announced on November 12. This brings the cumulative order amount for the project to approximately 184 billion yen. All sales related to this project are scheduled to be booked in the fiscal year ending March 2028 or later, so the company does not expect any impact on performance for the fiscal year ending March 2027 at this time. Additionally, the company stated it will appropriately review its medium-term management plan.
+  中文：总结：NITTOKU于13日9时30分宣布，获得关于11月12日公布的人形机器人电机生产设备的追加订单，金额约为102亿日元。 此前该项目已于11月12日公布获得约82亿日元的订单，随着此次约102亿日元追加订单的确定，该项目的累计订单金额已达到约184亿日元。 该项目相关销售额预计全额计入28年3期及以后，因此目前预计对27年3期业绩没有影响。 此外，公司表示将适时对中期经营计划进行重新评估。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/eb69fa75edd5b199720c41086009e2ac09c8af5f)
 
-- **[2026.11.12] IEEE — What Robotics Experts Think of Tesla’s Optimus Robot**
-  English: UPDATE 6 April 2024: Since Elon Musk’s Oct. 2022 unveiling of its Optimus prototypes, both Tesla and the field of humanoid robotics generally has been moving and evolving at an impressive clip. As Spectrum chronicled, the following month, Carnegie Mellon University’s Henny Admoni, associate professor at CMU’s Robotics Institute, spelled out her best suppositions for the future of the Optimus program—as part of a larger Q&A on a range of robotics topics.
-  📰 [IEEE](https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus/particle-16?itm_source=summaries&itm_medium=ieee-spectrum&itm_campaign=summary-particle-16&itm_content=summary-future-progress)
+- **[2026.11.13] SmartAsset.com — Figure AI IPO: Timeline, Valuation, Investment Options**
+  English: Figure AI remains a private company based in Sunnyvale, California, developing general-purpose humanoid robots for warehouses, factories, and homes, with no announced IPO date or public S-1 registration statement as of November 3, 2026. CEO Brett Adcock has not announced an IPO timeline, while the company continues raising private capital, including a September 2025 Series C funding round that brought in more than $1 billion in committed capital with backing from NVIDIA, Intel Capital, and Qualcomm Ventures, valuing the company at $39 billion post-money. This valuation represents a significant increase from its February 2024 Series B round, which raised $675 million at a $2.6 billion valuation. The company also announced a $70 million Series A in May 2023 without disclosing a valuation. Private-market data providers estimated secondary pricing below the Series C valuation during 2026, including an implied valuation of $38 billion as of October 12, 2026. Additionally, Figure cautioned in July 2026 regarding unauthorized attempts to sell its stock.
+  中文：总结：总部位于加利福尼亚州森尼韦尔的Figure AI是一家开发用于仓库、工厂及未来家庭的通用人形机器人的私营公司，截至2026年11月3日，该公司未宣布IPO日期，也没有公开S-1注册声明。 首席执行官Brett Adcock未公布IPO时间表，公司继续筹集私人资本，其2025年9月的C轮融资筹集了超过10亿美元的承诺资金，投资方包括NVIDIA、Intel Capital和Qualcomm Ventures，投后估值为$39 billion。 这一估值较2024年2月以26亿美元估值筹集6.75亿美元的B轮融资大幅上升。 该公司还在2023年5月宣布了7000万美元的A轮融资，但未披露估值。 私募市场数据提供商在2026年期间估计二级市场定价低于C轮估值，其中一份报告显示截至2026年10月12日的隐含估值为$38 billion。 此外，Figure在2026年7月曾对未经授权出售其股票的企图发出警告。
+  📰 [SmartAsset.com](https://smartasset.com/investing/figure-ai-ipo-timeline-valuation-investment-options)
+
+- **[2026.11.13] TechTarget — Agility Robotics goes public as first U.S. specialist humanoid maker**
+  English: Agility Robotics became the first publicly listed U. S. humanoid robotics company after completing its business combination with Churchill Capital Corp XI, with its common stock beginning to trade on the Nasdaq exchange under the ticker AGLT. The offering generated about $465 million in capital before expenses, which Agility plans to use to accelerate the commercialization of its Digit humanoid robot. Gartner analyst Bill Ray noted that the IPO is politically significant for the U. S. in the robotics market given Chinese manufacturing leadership. ABI Research analyst George Chowdhury stated that the offering reflects confidence in the commercial potential of robotics and helps differentiate humanoids from the broader tech AI-data center market. Ray highlighted Agility's industrial manufacturing and logistics focus as more commercially practical than developers targeting domestic applications, noting that Tesla's Optimus cannot currently be bought. Chowdhury described Agility as the most commercially mature humanoid company targeting enterprise markets, supported by distribution networks, progressive pricing strategies, safety and regulatory cooperation, and about 100 Digit robots at work today. However, Ray pointed out challenges in integrating humanoids into existing automated warehouse workflows without costly infrastructure changes, while Chowdhury noted that Agility's valuation remains below rivals because investors often prefer companies promising a fully automated future over those commercializing technology today.
+  中文：总结：Agility Robotics在与前Churchill Capital Corp XI完成业务合并后，成为美国首家上市的人形机器人公司，其普通股开始在纳斯达克交易所交易，股票代码为AGLT. 该公司表示，此次发行在扣除费用前筹集了约46500万美元资金，Agility计划将其用于加速其Digit人形机器人的商业化。 Gartner分析师Bill Ray指出，鉴于中国在机器人制造领域的领先地位，此次IPO对美国在机器人市场的地位具有重要的政治意义。 ABI Research分析师George Chowdhury同样表示，此次公开募股反映出对机器人技术商业潜力的日益信心，并有助于将人形机器人与面临市场动荡的整体科技AI数据中心市场区分开来。 Ray强调，Agility专注于制造和物流，比针对家庭应用的开发商更具商业实用性，并指出目前无法买到特斯拉的Optimus等机器人。 Chowdhury称Agility是进军企业市场的商业化程度最高的人形机器人公司，拥有分销网络、渐进式定价策略、安全与监管机构合作，且目前约有100台Digit机器人在工作中。 不过，Ray指出将人形机器人融入现有自动化仓库工作流而不改变基础设施面临挑战，而Chowdhury指出Agility的估值仍低于一些知名竞争对手，因为投资者更青睐承诺全自动未来的公司，而不是今天就在进行技术商业化的公司。
+  📰 [TechTarget](https://www.techtarget.com/news/agility-robotics-goes-public-as-first-us-specialist-humanoid-maker/874567/)
+
+- **[2026.11.12] BigGo Finance — UBTECH Wins 400-Unit U1 Pro Order from Yongda; Shanghai Plans Robot Showcase Center**
+  English: UBTECH signed a strategic cooperation agreement with luxury car dealership group Yongda Auto under which Yongda will purchase 400 UBTECH U1 Pro hyper-realistic humanoid robots for delivery within the year, marking an initial step for humanoid robots entering automotive retail channels. The units will be deployed for product experience, sales promotion, and customer service to establish a replicable consumer sales and service model. The companies also plan to jointly build a full-series robot experience and showcase center in Shanghai, explore shop-in-shop formats, and improve delivery and after-sales capabilities. Following the news, UBTECH shares opened over 3% higher, hitting an intraday high of HK$79.2 with turnover of about HK$14.1451 million, before closing down 0.72% at HK$76.05 on a volume of 5.4447 million shares and turnover of HK$420 million. Yongda Auto shares fell 3.05% to HK$0.635.
+  中文：总结：优必选与豪华车经销商集团永达汽车签署战略合作协议，永达将采购400台优必选超真实人形机器人U1 Pro，优必选计划于年内完成交付，这标志着人形机器人首次以大宗采购形式进入汽车零售渠道。 双方将把这些机器人部署于产品体验、销售推广和客户服务，以建立可复制的消费端销售和服务模式。 双方还计划在上海共同建设优必选全系列机器人体验及展示中心，探索店中店形式，并完善交付及售后能力。 消息公布后，优必选股价一度高开逾3%，盘中最高触及79.2港元（约合330新台币），成交额约1414.51万港元（约合5900万新台币）；随后涨幅收窄，收盘报76.05港元，跌幅0.72%，成交量544.47万股，成交额4.2亿港元（约合1.8亿新台币）。 永达汽车股价报0.635港元，跌幅3.05%。
+  📰 [BigGo Finance](https://finance.biggo.com/news/1659a04b-bf23-43f5-a0df-7d9266c4d702)
 
 - **[2026.11.10] Seoul Economic Daily — Gumi Officials Tour China's Robot Hubs to Expand Manufacturing Into Humanoids**
-  English: GUMI — The city of Gumi in North Gyeongsang Province said on the 10th that it is visiting robot industry sites in China to extend the manufacturing capabilities of what it calls an industrial city into the humanoid robot sector.
+  English: The city of Gumi in North Gyeongsang Province announced on the 10th that a delegation led by Mayor Kim Jang-ho, along with officials from the Gumi Electronics & Information Technology Research Institute and two local robot companies, is visiting robot industry sites in Beijing and Shanghai from the 10th through the 12th to extend local manufacturing capabilities into the humanoid robot sector. In Beijing, the delegation will visit the X-Humanoid center and UBTech's R&D center to explore applying local electronic and precision manufacturing technologies and joining parts supply chains. In Shanghai, the delegation will visit an outsourced robot production plant for Agibot to examine mass production methods and parts supply systems, as well as the Shanghai Robot Industry Technology Research Institute to review safety and reliability testing and certification systems. Additionally, the delegation will attend the K-Food World Expo in Shanghai to support export market development for six local food companies, including Dadam, Gusuhan, EN Creative, Nangman Research Institute, Handulya Food, and Tokkimil.
+  中文：总结：庆尚北道龟尾市于10日表示，由龟尾市长金长浩、龟尾电子信息技术研究院官员及两家当地机器人公司代表组成的代表团于10日至12日对北京和上海的机器人产业基地进行为期四天的访问，旨在将该市的制造能力扩展至人形机器人领域。 在北京，代表团计划访问X-Humanoid中心和优必选人形机器人研发中心，考察当地企业的电子和精密机械技术如何应用于机器人产业，并寻找加入核心零部件供应链的任务。 在上海，代表团将访问智元机器人的代工生产厂，以检查人形机器人的大批量生产方法和零件供应系统，还将访问上海机器人产业技术研究院，审查机器人产品的安全与可靠性测试及认证系统。 此外，代表团还将出席在上海新国际博览中心举办的上海K-Food世界博览会，支持六家当地食品公司的出口市场开发，参与企业包括Dadam、Gusuhan、EN Creative、Nangman Research Institute、Handulya Food和Tokkimil。
   📰 [Seoul Economic Daily](https://en.sedaily.com/society/2026/11/10/gumi-officials-tour-chinas-robot-hubs-to-expand)
-
-- **[2026.11.12] NBC News — Humanoid robot attempts Antarctic ultramarathon**
-  English: UP NEXT Humanoid robot attempts Antarctic ultramarathon 01:08 UP NEXT Officers seen on D. C. rooftops following gym shooting 00:49 Mamdani details casualties from Brooklyn building collapse 01:23 Witness says he had to step over body to escape gym shooting scene 00:51 Man reunites with pregnant wife caught in building collapse 00:36 Gunman dead in D. C. gym shooting 00:23 Witness describes hearing gunfire at D.
-  📰 [NBC News](https://www.nbcnews.com/video/shorts/humanoid-robot-attempts-antarctic-ultramarathon-273256517907)
-
-- **[2026.11.12] TradingView — JP Morgan initiates coverage of Agility Robotics at Neutral, sets price target at $11**
-  English: JP Morgan initiates coverage of Agility Robotics at Neutral, sets price target at $11 JP Morgan initiated coverage of Agility Robotics at Neutral and set a price target of $11. The price target implies an upside of 20.5% from the Nov 11 close of $9.13. Explore more price target data and ratings for Agility Robotics on the Forecasts tab, and track all previous and future analyst recommendations in the dedicated News Flow.
-  📰 [TradingView](https://www.tradingview.com/news/tradingview:f18edb1e9a624:0-jp-morgan-initiates-coverage-of-agility-robotics-at-neutral-sets-price-target-at-11/)
 
 
 ---
