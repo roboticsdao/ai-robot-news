@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-13T12:20:48.266674+09:00",
+  "updated_at": "2026-11-14T12:00:06.704326+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-13T12:20:48.266674+09:00",
-    "latest_article_at": "2026-11-13T06:43:06+09:00",
+    "checked_at": "2026-11-14T12:00:06.704326+09:00",
+    "latest_article_at": "2026-11-14T09:49:50+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -14,48 +14,37 @@
   },
   "articles": [
     {
-      "date": "2026.11.13",
-      "published_at": "2026-11-13T06:43:06+09:00",
-      "headline": "GENTO unveils 21‑DoF dexterous robot hand at CoRL 2026",
-      "source": "TechTimes Vietnam",
-      "url": "https://www.techtimes.vn/en/21-dof-dexterous-hand-gento-unveils-21-dof-dexterous-robot-hand-at-corl-2026/",
-      "language": "English",
-      "section": "Global",
-      "summary": "GENTO showcased its proprietary 21-DoF dexterous hand at the CoRL 2026 conference in Austin, Texas, alongside TIANJI force-controlled arms, the Marvin Pro platform, and the Luna mobile robot. The hand uses a single linkage-driven transmission to reduce backlash, allow backdrivability, and boost fingertip force within a compact size. TIANJI Intelligence equips the system with in-house MEMS joint torque sensors resolving torques down to 0.02 N·m with a 160 Hz torque-loop bandwidth. Additionally, NVIDIA introduced GR00T 2 at the event, demonstrating a banana-yogurt preparation task using a TIANJI Marvin Pro platform equipped with two GENTO dexterous hands.",
-      "summary_zh": "GENTO在德克萨斯州奥斯汀举行的CoRL 2026会议上首次展示了其专有的21自由度灵巧手，并同台展出了TIANJI力控机械臂、Marvin Pro平台和Luna移动机器人。 该灵巧手采用单连杆驱动传动系统，可减少背隙、增强抗冲击能力并提高指尖力。 TIANJI Intelligence为该系统配备了内部MEMS关节扭矩传感器，扭矩分辨率达0.02 N·m，扭矩环带宽为160 Hz。 此外，英伟达在会上推出了GR00T 2，并使用配备两只GENTO灵巧手的TIANJI Marvin Pro平台演示了香蕉酸奶制备任务。"
-    },
-    {
-      "date": "2026.11.12",
-      "published_at": "2026-11-12T14:57:55+09:00",
-      "headline": "ATFCD52 Tactile Sensor for Advanced Robotic Touch Sensing",
-      "source": "Electronics Media",
-      "url": "https://www.electronicsmedia.info/2026/11/12/atfcd52-tactile-sensor/",
-      "language": "English",
-      "section": "Global",
-      "summary": "Microchip Technology introduced the ATFCD52 high-speed capacitance digitizer to convert signals from fine-grid, two-dimensional capacitive sensor arrays into high-sensitivity digital data for robotic touch sensing. Supporting up to 52 channels with up to 32 TX by 20 RX lines, the device enables dense sensor arrays with frame rates of up to 800 Hz to detect slip and adjust grip. The ATFCD52 can resolve capacitance changes below 1 femtofarad and includes frequency hopping and oversampling to mitigate interference from servo motors and power electronics in noisy environments. It is supported by the EV-ATFCD52 development board and ATFCD52 Configurator software.",
-      "summary_zh": "Microchip Technology推出了ATFCD52高速电容数字化仪，用于将细网格二维电容传感器阵列的信号转换为高灵敏度数字数据，以支持机器人触觉传感。 该器件支持多达52个通道以及最高32个发射线和20个接收线，使密集的传感器阵列能够实现高达800 Hz的帧率，从而检测滑移并调整抓握。 ATFCD52能够分辨低于1飞法拉的电容变化，并采用跳频和过采样技术来减轻嘈杂环境中伺服电机和电力电子设备的干扰。 该产品由EV-ATFCD52开发板和ATFCD52 Configurator软件提供支持。"
-    },
-    {
-      "date": "2026.11.11",
-      "published_at": "2026-11-11T18:19:07+09:00",
-      "headline": "英伟达最新DexUMI数采设备硬件清单曝光：触觉传感器标配国产“他山”",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1100202829_100016644?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "date": "2026.11.14",
+      "published_at": "2026-11-14T09:49:50+09:00",
+      "headline": "灵巧手与触觉数据：北京专用算力集群绕不开的最后一厘米",
+      "source": "同花顺财经",
+      "url": "http://news.10jqka.com.cn/20261114/c681823542.shtml",
       "language": "Chinese",
       "section": "Global",
-      "summary": "At the CoRL 2026 conference on November 9 in the US, NVIDIA scientist Jim Fan delivered a keynote introducing the new GR00T 2 world-action model and related open-source plans. The wearable data-collection equipment DexUMI, used for dexterous hand data collection, uses Taishan Technology tactile sensors for all tactile sensing solutions from fingertips to palms, providing high-precision touch sensing for capturing fine manipulation data.",
-      "summary_zh": "美国时间11月9日，在机器人学习国际会议CoRL 2026上，英伟达科学家Jim Fan发表主题演讲，介绍了新一代机器人基础模型GR00T 2及相关开源计划。 用于灵巧手数据采集的可穿戴数采设备DexUMI，从指尖到手掌的所有触觉感知方案皆采用他山科技触觉传感器，为采集精细操作数据提供了高精度触觉感知能力。"
+      "summary": "北京计划建设总规模超过50000PFlops的具身智能专用算力集群，并配套不少于100个真实场景、超过100万小时的高质量数据采集。 京东集团技术委员会主席曹鹏在乌镇峰会指出，物理AI竞争已转向算力、数据、场景与供应链体系能力，京东将提供产业底座服务优必选、逐际动力等企业。 算力集群主要服务于整机企业和模型公司的训练、仿真与数据处理。 视觉数据可采用与本体弱相关的路线，而触觉数据高度依赖传感器、灵巧手构型与材质，跨本体复用率低。 深圳戴盟机器人的Touch-R1模型被NeurIPS 2026接收，配套数据集含14700条触觉序列和132.3万个同步数据对，视触觉传感器出货量已达数万片。 产业落地面临触觉数据标准不统一、硬件迭代快于复用周期、场景开放慢于采集规划等挑战。",
+      "summary_zh": "北京计划建设总规模超过50000PFlops的具身智能专用算力集群，并配套不少于100个真实场景、超过100万小时的高质量数据采集。 京东集团技术委员会主席曹鹏在乌镇峰会指出，物理AI竞争已转向算力、数据、场景与供应链体系能力，京东将提供产业底座服务优必选、逐际动力等企业。 算力集群主要服务于整机企业和模型公司的训练、仿真与数据处理。 视觉数据可采用与本体弱相关的路线，而触觉数据高度依赖传感器、灵巧手构型与材质，跨本体复用率低。 深圳戴盟机器人的Touch-R1模型被NeurIPS 2026接收，配套数据集含14700条触觉序列和132.3万个同步数据对，视触觉传感器出货量已达数万片。 产业落地面临触觉数据标准不统一、硬件迭代快于复用周期、场景开放慢于采集规划等挑战。"
     },
     {
-      "date": "2026.11.11",
-      "published_at": "2026-11-11T05:58:54+09:00",
-      "headline": "Tianji Intelligence Debuts 21-DoF Dexterous Hand at CoRL 2026 as NVIDIA Demos GR00T 2 on Custom Marvin Pro",
-      "source": "The Manila Times",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tianji-intelligence-debuts-21-dof-dexterous-hand-at-corl-2026-as-nvidia-demos-gr00t-2-on-custom-marvin-pro/2466953/amp",
+      "date": "2026.11.14",
+      "published_at": "2026-11-14T08:00:00+09:00",
+      "headline": "广东灵巧手突破“最后一厘米” 竞速具身智能落地闭环",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261114/20f421292ba70f649d598e7b5be52a42.html",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "机器人抓取物体时的力度控制难题需依靠触觉解决。 深圳戴盟机器人主导研发的Touch-R1模型被NeurIPS 2026接收，该模型首次将强化学习引入触觉推理模型，配套TouchReason-1M数据集含14700条触觉序列、132.3万个同步数据对。 戴盟触觉传感器全球出货量已达数万片，开源触觉数据集下载量突破1000万次，服务超过200家客户，并完成亿元级A轮及数亿元战略融资。 同时，星际光年的Pantheon绳驱灵巧手已进入奔图科技打印机总装线，完成识别部件、对位插接等二十余项精细操作。 广东正通过真实产线、密集场景与耐心资本，筹建1+1+N具身智能训练场体系，开放超50个应用场景并投入超亿元资金，推动灵巧手从硬件向感知、模型与产线验证的完整生态链发展。",
+      "summary_zh": "机器人抓取物体时的力度控制难题需依靠触觉解决。 深圳戴盟机器人主导研发的Touch-R1模型被NeurIPS 2026接收，该模型首次将强化学习引入触觉推理模型，配套TouchReason-1M数据集含14700条触觉序列、132.3万个同步数据对。 戴盟触觉传感器全球出货量已达数万片，开源触觉数据集下载量突破1000万次，服务超过200家客户，并完成亿元级A轮及数亿元战略融资。 同时，星际光年的Pantheon绳驱灵巧手已进入奔图科技打印机总装线，完成识别部件、对位插接等二十余项精细操作。 广东正通过真实产线、密集场景与耐心资本，筹建1+1+N具身智能训练场体系，开放超50个应用场景并投入超亿元资金，推动灵巧手从硬件向感知、模型与产线验证的完整生态链发展。"
+    },
+    {
+      "date": "2026.11.13",
+      "published_at": "2026-11-13T16:19:53+09:00",
+      "headline": "When robots dive underwater, HeymanDex sees new possibilities for dexterous hands",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/11/13/when-robots-dive-underwater-heymandex-sees-new-possibilities-for-dexterous-hands/",
       "language": "English",
       "section": "Global",
-      "summary": "GENTO, the embodied robotics brand of Tianji Intelligence, publicly unveiled its 21-degree-of-freedom dexterous hand at Booth 602 at CoRL 2026 in Austin, Texas. The hand features a linkage-driven design, weighs 750 g excluding cables, measures 200 × 96 × 45 mm, has a rated fingertip force of 10 N, and achieves a repeat positioning accuracy of ±0.05 mm. At the same event, NVIDIA introduced its GR00T 2 world action model and demonstrated two-handed manipulation using a custom Marvin Pro dual-arm platform built by Tianji Intelligence.",
-      "summary_zh": "天机智能旗下的具身机器人品牌GENTO在德克萨斯州奥斯汀CoRL 2026的602号展位上首次公开展示其21自由度灵巧手。 该灵巧手采用连杆驱动设计，不含电缆重750克，尺寸为200×96×45毫米，额定指尖力为10 N，重复定位精度为±0.05毫米。 在同一活动中，英伟达推出了GR00T 2世界动作模型，并使用由天机智能为其定制的Marvin Pro双臂平台演示了双手操作。"
+      "summary": "As robotic dexterous hands face growing competition in degrees of freedom, gripping force, and response speed, HeymanDex has adopted a differentiated approach by focusing on underwater and harsh environment protection capabilities. Drawing on the core team's experience with 8,000-meter-class deep-sea landers and the Jiaolong manned submersible, the company aims to make protection a fundamental feature to support tasks ranging from household chores to deep-sea engineering. To maintain finger flexibility and dynamic sealing underwater without compromising transmission efficiency, HeymanDex has developed an independent underwater integrated dynamic sealing technology system. For depths from 0 to 1,000 meters, its solutions include high-linear-speed axial dynamic sealing, high-reliability radial static sealing, and magnetic-coupling dynamic sealing. For ultra-deep-sea environments from 1,000 to 10,000 meters, it utilizes hydraulic dynamic pressure compensation, oil-filled magnetic-coupling dynamic pressure balancing, and dual-stage static sealing. The company has launched its first commercial product, the WA100 underwater dexterous hand, featuring a standard configuration supporting depths up to 300 meters, a five-finger structure with six active degrees of freedom and 11 linked joints, a weight of no more than 1,250 grams, a minimum output force of 10N per finger, and a total pulling load of at least 5 kilograms.",
+      "summary_zh": "随着机器人灵巧手在自由度、抓取力和响应速度方面的竞争日益加剧，HeymanDex采取了差异化路线，重点关注水下及严苛环境的防护能力。 凭借核心团队参与8000米级深海着岸器及蛟龙号载人潜水器项目的经验，该公司旨在将防护能力打造为基础特性，以支持从日常家务到深海工程的任务。 为了在水下保持手指的灵活性和动态密封而不损耗传动效率，HeymanDex开发了独立的水下集成动态密封技术系统。 针对0至1000米水深，其方案涵盖高速线性轴向动态密封、高可靠径向静态密封以及磁力耦合动态密封；针对1000至10000米的超深海环境，则采用液压动压补偿、充油磁力耦合动压平衡及双级静态密封。 该公司推出了首款商业产品WA100水深灵巧手，标准配置支持高达300米水深操作，采用五指结构、6个主动自由度和11个联动关节，重量不超过1250克，每指最小输出力为10N，总拉力负载至少为5公斤。"
     },
     {
       "date": "2026.11.10",
@@ -65,8 +54,8 @@
       "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/xynovas-prima-1-robotic-hand-named-a-ces-2027-innovation-awards-honoree/2466675",
       "language": "English",
       "section": "Global",
-      "summary": "Xynova announced that its Prima 1 fully direct-drive dexterous robotic hand with 22 degrees of freedom has been named a CES 2027 Innovation Awards Honoree in the Artificial Intelligence category. Built for embodied AI research, Prima 1 features a direct-drive architecture delivering millisecond-level response and precise force control, alongside five-finger visuo-tactile sensing. Xynova is exhibiting at CoRL from November 9-11 at Booth 604 and will showcase Prima 1 alongside the Flex 2 hybrid-drive dexterous hand at CES 2027 in Las Vegas from January 6-9.",
-      "summary_zh": "Xynova宣布其拥有22个自由度的完全直驱灵巧机械手Prima 1被评为CES 2027人工智能类别创新奖荣誉得主。 Prima 1专为具身AI研究而构建，具有提供毫秒级响应和精确力控制的直驱架构，并配备五指视触觉传感。 Xynova于11月9日至11日在CoRL的604号展位参展，并将于1月6日至9日在拉斯维加斯举行的CES 2027上展示Prima 1以及Flex 2混合驱动灵巧手。"
+      "summary": "Xynova's Prima 1 fully direct-drive dexterous robotic hand with 22 degrees of freedom has been named a CES 2027 Innovation Awards Honoree in the Artificial Intelligence category by the Consumer Technology Association. Designed for embodied AI research and scalable deployment, Prima 1 integrates responsive actuation, high force transparency, and five-finger visuo-tactile sensing to support robot imitation learning, teleoperation, and Sim-to-Real policy transfer. Its fully direct-drive architecture delivers millisecond-level response and precise force control with low backdrive force. Additionally, advanced thermal management and engineering-grade durability sustain continuous, long-duration operation, while SDK access allows researchers to develop and evaluate manipulation models. Founder and CEO Alex Xia noted that dexterous manipulation enables humanoid robots to interact meaningfully with the physical world. Headquartered in Hangzhou, China, with a 5,400-square-meter manufacturing facility, Xynova is expanding its relationships with customers and university research teams across the United States and Europe. The company is exhibiting at CoRL and Web Summit, and will showcase Prima 1 alongside its hybrid-drive Flex 2 hand at CES 2027 from January 6-9 in Las Vegas.",
+      "summary_zh": "由Consumer Technology Association评选，Xynova旗下拥有22个自由度的全直驱灵巧机械手Prima 1被评为CES 2027创新奖人工智能类别荣誉奖得主。 Prima 1专为具身AI研究和可扩展部署而设计，集成了响应式驱动、高力透明度以及五指视触觉传感，支持机器人模仿学习、远程操作和仿真到真实策略迁移。 其全直驱架构可实现毫秒级响应和低反驱动力的精确力控。 此外，先进的热管理和工程级耐用性支持持续长时间运行，而SDK访问权限则允许研究人员开发和评估操作模型。 创始人兼首席执行官Alex Xia表示，灵巧操作使人形机器人能够与物理世界进行有意义的交互。 Xynova总部位于中国杭州，拥有5400平方米的制造设施，正积极拓展美国和欧洲的客户及高校研究团队合作。 该公司正在参加CoRL和Web Summit，并将于1月6日至9日在拉斯维加斯举行的CES 2027上展示Prima 1及其混合驱动的Flex 2灵巧手。"
     },
     {
       "date": "2026.11.10",
@@ -76,8 +65,8 @@
       "url": "https://autonews.gasgoo.com/articles/news/inspire-robots-showcases-three-new-dexterous-hand-models-2120049456371896321",
       "language": "English",
       "section": "Global",
-      "summary": "On November 4, Beijing Inspire Robots Technology Co. , Ltd. and Beijing Shougang Construction Investment Co. , Ltd. co-hosted a robotics supply chain forum and new product showcase at Shougang Park in Beijing. During the event, Inspire Robots unveiled three new dexterous hands: the RH524J1, featuring a 24-degree-of-freedom tendon-cable hybrid drive architecture; the RH5MK1, utilizing a 22-degree-of-freedom full direct-drive design with fingertip six-dimensional force tactile sensing; and the RH37D1, adopting a three-finger, full direct-drive configuration with 7 active degrees of freedom. Inspire also launched joint laboratories with Shougang Zhixin Electromagnetic Materials (Qian'an) Co. , Ltd. and the Beijing University of Posts and Telecommunications. Founder and CEO Cai Yingpeng stated that dexterous manipulation is crucial for embodied intelligence to achieve practical application, and the company plans to strengthen upstream and downstream cooperation.",
-      "summary_zh": "11月4日，北京因时机器人科技有限公司与北京首钢建设投资有限公司在北京首钢园共同举办机器人产业链共创论坛及新品体验会。 活动期间，因时机器人发布了三款全新灵巧手：采用24自由度肌腱绳驱混合驱动架构的RH524J1、采用22自由度全直驱设计并具备指尖六维力触觉感知的RH5MK1，以及采用三指全直驱配置且拥有7个主动自由度的RH37D1。 因时机器人还在会上分别与首钢智新电磁材料（迁安）股份有限公司、北京邮电大学举行了联合实验室的揭牌仪式。 创始人兼CEO蔡颖鹏指出，灵巧手是具身智能迈向实际应用的關鍵支撑，未来公司计划深化与上下游合作伙伴及科研机构的合作。"
+      "summary": "Beijing Inspire Robots Technology Co. , Ltd. and Beijing Shougang Construction Investment Co. , Ltd. co-hosted a robotics supply chain forum and new product showcase at Shougang Park in Beijing on November 4. During the event, Inspire unveiled three new dexterous hands: the RH524J1, RH5MK1, and RH37D1. The RH524J1 features a 24-degree-of-freedom tendon-cable hybrid drive architecture for anthropomorphic hand flexibility and fine manipulation. The RH5MK1 utilizes a 22-degree-of-freedom full direct-drive design with high-speed dynamic response and fingertip six-dimensional force tactile sensing. The RH37D1 adopts a three-finger, full direct-drive configuration with 7 active degrees of freedom, balancing gripping force, compliant control, and operational flexibility. Inspire also established joint laboratories with Shougang Zhixin Electromagnetic Materials (Qian'an) Co. , Ltd. for soft magnetic material application technology, and with the Beijing University of Posts and Telecommunications for embodied intelligence robot anthropomorphic dexterous manipulation. Founder and CEO Cai Yingpeng stated that dexterous manipulation is crucial for embodied intelligence to advance toward practical application following a decade of R&D.",
+      "summary_zh": "北京灵巧智能科技有限公司与北京首钢建设投资有限公司于11月4日在北京首钢园共同举办了机器人供应链论坛暨新品发布会。 活动期间， Inspire发布了三款全新灵巧手：RH524J1、RH5MK1和RH37D1。 RH524J1采用24自由度肌腱混合驱动架构，主打拟人手运动灵活性与精细操作能力；RH5MK1采用22自由度全直驱设计，具备高速动态响应和指尖六维力触觉传感；RH37D1采用三指全直驱配置及7个主动自由度，兼具强力抓取、柔顺控制与操作灵活性。 Inspire还分别与首钢智新电磁材料（迁安）有限公司成立了“软磁材料应用技术联合实验室”，以及与北京邮电大学成立了“具身智能机器人人机协同灵巧操作联合实验室”。 创始人兼首席执行官蔡颖鹏表示，经过十年的研发积累，灵巧操作是具身智能走向实际应用的关键支撑。"
     },
     {
       "date": "2026.11.10",
@@ -87,19 +76,30 @@
       "url": "https://m.sohu.com/a/1099534018_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "Zhaowei Electromechanical is a micro-drive system manufacturer and an enterprise in the humanoid robot dexterous hand industrial chain. The company provides core robot drive modules and dexterous hands, having spent over 20 years in the micro-drive field. It masters four major processes: injection molding, iron powder sintering, metal injection molding, and metal machining, enabling the mass production of small, precise metal parts with complex shapes. According to its 2026 second-quarter financial report, the company's main business revenue reached 4.59 billion, increasing by 9.53% year-over-year, while net profit was 3369.4万, representing a year-over-year decrease of 42.46%, with a gross profit margin of 30.34%.",
-      "summary_zh": "兆威机电是一家微型传动系统制造商，也是人形机器人灵巧手产业链相关的核心企业之一。 公司主营业务涵盖人形机器人核心驱动模组与灵巧手，深耕微型驱动领域20余年。 公司核心掌握注塑工艺、铁粉烧结、金属注射成型以及机加工金属四大工艺，具备大批量生产小型、精密且具有复杂三维几何形状金属零部件的能力。 根据2026年第二季度季报显示，公司主营业务收入为4.59亿，较去年同期增长9.53%；实现净利润3369.4万，较上年同期下降42.46%；毛利率为30.34%。"
+      "summary": "南方财富网梳理了人形机器人灵巧手产业链的8家核心头部企业，重点介绍了兆威机电的定位、业务及财务表现。 兆威机电定位为微型传动系统制造商，产品涵盖人形机器人核心驱动模组与灵巧手，深耕微型驱动领域20余年。 在2026年第二季度季报中，兆威机电主营业务收入为4.59亿，较去年同期增长9.53%，实现净利润3369.4万，同比上年增长率为-42.46%，毛利率为30.34%。",
+      "summary_zh": "南方财富网梳理了人形机器人灵巧手产业链的8家核心头部企业，重点介绍了兆威机电的定位、业务及财务表现。 兆威机电定位为微型传动系统制造商，产品涵盖人形机器人核心驱动模组与灵巧手，深耕微型驱动领域20余年。 在2026年第二季度季报中，兆威机电主营业务收入为4.59亿，较去年同期增长9.53%，实现净利润3369.4万，同比上年增长率为-42.46%，毛利率为30.34%。"
     },
     {
       "date": "2026.11.10",
-      "published_at": "2026-11-10T00:16:11+09:00",
+      "published_at": "2026-11-10T08:25:33+09:00",
       "headline": "直面“最美的泡沫”与“最好的时代”：灵巧手规模化要过投资回报率与标准两道关",
-      "source": "凤凰网",
-      "url": "https://i.ifeng.com/c/8xvCeqOcKH3",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202611093926596892.html",
       "language": "Chinese",
       "section": "Global",
-      "summary": "At a robotics supply chain forum held in Beijing's Shougang Park, industry experts and executives discussed the development and scaling of humanoid robot dexterous hands. Beihang University's Wei Hongxing noted that the industry experienced rapid development and accumulated bubbles, while Lingyun Light's Yang Yi called it a beautiful bubble. Experts emphasized that scaling requires overcoming investment return rate and standard limitations. Li Haiyuan from Beijing University of Posts and Telecommunications discussed industrial, spatial organization, and medical applications. Inward Technology's Fang Hainan stated that the company's dexterous hand price dropped from 50,000 in 2023 to 25,000 in 2024, expecting 20,000 in 2026, and mentioned that Inward led the drafting of the national standard 'General Technical Specifications for Bionic Multi-Finger Dexterous Hands' for public comment this month. Other figures like Xiong Youjun from the Beijing Humanoid Robot Innovation Center and Ma Yang from Otherworld Technology also shared insights on industrial integration and standardized collaboration.",
-      "summary_zh": "在北京首钢园举行的机器人产业链共创论坛上，多位专家与企业高管探讨了人形机器人灵巧手的产业化发展与规模化面临的关卡。 北京航空航天大学魏洪兴指出行业发展过快并积累了泡沫，凌云光技术股份有限公司杨艺则认为是美丽的泡沫。 与会嘉宾认为灵巧手实现规模化落地需要跨过投资回报率和产业链统一标准两道关卡。 北京邮电大学李海源探讨了灵巧手在工业、空间整理及医疗场景的应用。 因时科技房海南表示，公司灵巧手单价已从2023年的5万元降至2024年的2.5万元，预计2026年降至2万元，且公司牵头起草的国家标准《仿生多指灵巧手通用技术规范》于本月公开征求意见。 北京人形机器人创新中心熊友军与他山科技马扬等嘉宾亦就产业标准统一与协同合作发表了看法。"
+      "summary": "在北京首钢园举行的机器人论坛上，产业界专家和企业代表探讨了人形机器人灵巧手的发展现状、规模化痛点与落地场景。 凌云光人工智能数字孪生主办相关活动。 北京理工大学魏洪兴指出机器人本体远未成熟，强调应兼顾跑跳与实操。 北京邮电大学李海源提及工业场景最有希望率先实现规模化落地，并联合因时科技共建了具身智能机器人仿人灵巧操作联合实验室。 因时科技房海南表示灵巧手单价从2023年的5万元降至2024年的2.5万元，预计2026年降至2万元，且公司牵头起草的国家标准《仿生多指灵巧手通用技术规范》于本月公开征求意见预计明年发布。 北京人形机器人创新中心熊友军和因时科技蔡颖鹏等嘉宾亦就标准统一、产业链协同及三年内机器人在特定场景的应用前景发表了看法。",
+      "summary_zh": "在北京首钢园举行的机器人论坛上，产业界专家和企业代表探讨了人形机器人灵巧手的发展现状、规模化痛点与落地场景。 凌云光人工智能数字孪生主办相关活动。 北京理工大学魏洪兴指出机器人本体远未成熟，强调应兼顾跑跳与实操。 北京邮电大学李海源提及工业场景最有希望率先实现规模化落地，并联合因时科技共建了具身智能机器人仿人灵巧操作联合实验室。 因时科技房海南表示灵巧手单价从2023年的5万元降至2024年的2.5万元，预计2026年降至2万元，且公司牵头起草的国家标准《仿生多指灵巧手通用技术规范》于本月公开征求意见预计明年发布。 北京人形机器人创新中心熊友军和因时科技蔡颖鹏等嘉宾亦就标准统一、产业链协同及三年内机器人在3D场景的应用前景发表了看法。"
+    },
+    {
+      "date": "2026.11.09",
+      "published_at": "2026-11-09T21:56:31+09:00",
+      "headline": "Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation",
+      "source": "Wowtale",
+      "url": "https://en.wowtale.net/2026/11/09/235942/",
+      "language": "English",
+      "section": "Global",
+      "summary": "Physical AI company RLWRLD announced on Nov. 9 that it has released DexBench, a benchmark for evaluating humanoid robot dexterous manipulation, built on NVIDIA's Isaac Lab-Arena framework and the Newton physics engine. DexBench implements 15 tasks across retail, logistics, assembly, and hotel food and beverage settings, measuring task success and generalization across object, physics, and spatial conditions. Development partners NdotLight, SPACE AI, and PhysicsSimLab supplied 3D assets and environments. RLWRLD plans to release code, evaluation environments, simulation assets, training data, baseline models, and a leaderboard, with initial baseline results measured using its robotics foundation model update, RLDX 1.1. The company confirmed NVIDIA's investment plan announced at AI Day Seoul 2026 to refine its robotics foundation model and expand on-site deployment.",
+      "summary_zh": "具身智能公司RLWRLD于11月9日宣布推出DexBench，这是一个评估人形机器人灵巧操作的基准，构建于NVIDIA的Isaac Lab-Arena框架与Newton物理引擎之上。 DexBench在零售、物流、组装和酒店餐饮四种工业环境中实现了15项任务，测试任务成功率及物体、物理和空间条件下的泛化能力。 开发伙伴NdotLight、SPACE AI和PhysicsSimLab提供了3D资产与环境。 RLWRLD计划发布代码、评估环境、仿真资产、训练数据、基准模型及排行榜，初始基准结果通过其机器人基础模型更新版本RLDX 1.1进行测量。 该公司确认了NVIDIA在首尔AI日宣布的投资计划，并将利用资金完善机器人基础模型并扩大现场部署。"
     }
   ]
 }

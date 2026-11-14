@@ -1,0 +1,53 @@
+# 🖐 Dexterous Hand News | 2026.11.14（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.14] 同花顺财经 — 灵巧手与触觉数据：北京专用算力集群绕不开的最后一厘米**
+  中文：总结：北京计划建设总规模超过50000PFlops的具身智能专用算力集群，并配套不少于100个真实场景、超过100万小时的高质量数据采集。 京东集团技术委员会主席曹鹏在乌镇峰会指出，物理AI竞争已转向算力、数据、场景与供应链体系能力，京东将提供产业底座服务优必选、逐际动力等企业。 算力集群主要服务于整机企业和模型公司的训练、仿真与数据处理。 视觉数据可采用与本体弱相关的路线，而触觉数据高度依赖传感器、灵巧手构型与材质，跨本体复用率低。 深圳戴盟机器人的Touch-R1模型被NeurIPS 2026接收，配套数据集含14700条触觉序列和132.3万个同步数据对，视触觉传感器出货量已达数万片。 产业落地面临触觉数据标准不统一、硬件迭代快于复用周期、场景开放慢于采集规划等挑战。
+  📰 [同花顺财经](http://news.10jqka.com.cn/20261114/c681823542.shtml)
+
+- **[2026.11.14] 21财经 — 广东灵巧手突破“最后一厘米” 竞速具身智能落地闭环**
+  中文：总结：机器人抓取物体时的力度控制难题需依靠触觉解决。 深圳戴盟机器人主导研发的Touch-R1模型被NeurIPS 2026接收，该模型首次将强化学习引入触觉推理模型，配套TouchReason-1M数据集含14700条触觉序列、132.3万个同步数据对。 戴盟触觉传感器全球出货量已达数万片，开源触觉数据集下载量突破1000万次，服务超过200家客户，并完成亿元级A轮及数亿元战略融资。 同时，星际光年的Pantheon绳驱灵巧手已进入奔图科技打印机总装线，完成识别部件、对位插接等二十余项精细操作。 广东正通过真实产线、密集场景与耐心资本，筹建1+1+N具身智能训练场体系，开放超50个应用场景并投入超亿元资金，推动灵巧手从硬件向感知、模型与产线验证的完整生态链发展。
+  📰 [21财经](https://www.21jingji.com/article/20261114/20f421292ba70f649d598e7b5be52a42.html)
+
+- **[2026.11.13] TechNode — When robots dive underwater, HeymanDex sees new possibilities for dexterous hands**
+  English: As robotic dexterous hands face growing competition in degrees of freedom, gripping force, and response speed, HeymanDex has adopted a differentiated approach by focusing on underwater and harsh environment protection capabilities. Drawing on the core team's experience with 8,000-meter-class deep-sea landers and the Jiaolong manned submersible, the company aims to make protection a fundamental feature to support tasks ranging from household chores to deep-sea engineering. To maintain finger flexibility and dynamic sealing underwater without compromising transmission efficiency, HeymanDex has developed an independent underwater integrated dynamic sealing technology system. For depths from 0 to 1,000 meters, its solutions include high-linear-speed axial dynamic sealing, high-reliability radial static sealing, and magnetic-coupling dynamic sealing. For ultra-deep-sea environments from 1,000 to 10,000 meters, it utilizes hydraulic dynamic pressure compensation, oil-filled magnetic-coupling dynamic pressure balancing, and dual-stage static sealing. The company has launched its first commercial product, the WA100 underwater dexterous hand, featuring a standard configuration supporting depths up to 300 meters, a five-finger structure with six active degrees of freedom and 11 linked joints, a weight of no more than 1,250 grams, a minimum output force of 10N per finger, and a total pulling load of at least 5 kilograms.
+  中文：总结：随着机器人灵巧手在自由度、抓取力和响应速度方面的竞争日益加剧，HeymanDex采取了差异化路线，重点关注水下及严苛环境的防护能力。 凭借核心团队参与8000米级深海着岸器及蛟龙号载人潜水器项目的经验，该公司旨在将防护能力打造为基础特性，以支持从日常家务到深海工程的任务。 为了在水下保持手指的灵活性和动态密封而不损耗传动效率，HeymanDex开发了独立的水下集成动态密封技术系统。 针对0至1000米水深，其方案涵盖高速线性轴向动态密封、高可靠径向静态密封以及磁力耦合动态密封；针对1000至10000米的超深海环境，则采用液压动压补偿、充油磁力耦合动压平衡及双级静态密封。 该公司推出了首款商业产品WA100水深灵巧手，标准配置支持高达300米水深操作，采用五指结构、6个主动自由度和11个联动关节，重量不超过1250克，每指最小输出力为10N，总拉力负载至少为5公斤。
+  📰 [TechNode](https://technode.com/2026/11/13/when-robots-dive-underwater-heymandex-sees-new-possibilities-for-dexterous-hands/)
+
+- **[2026.11.10] The Manila Times — Xynova's Prima 1 Robotic Hand Named a CES 2027 Innovation Awards® Honoree**
+  English: Xynova's Prima 1 fully direct-drive dexterous robotic hand with 22 degrees of freedom has been named a CES 2027 Innovation Awards Honoree in the Artificial Intelligence category by the Consumer Technology Association. Designed for embodied AI research and scalable deployment, Prima 1 integrates responsive actuation, high force transparency, and five-finger visuo-tactile sensing to support robot imitation learning, teleoperation, and Sim-to-Real policy transfer. Its fully direct-drive architecture delivers millisecond-level response and precise force control with low backdrive force. Additionally, advanced thermal management and engineering-grade durability sustain continuous, long-duration operation, while SDK access allows researchers to develop and evaluate manipulation models. Founder and CEO Alex Xia noted that dexterous manipulation enables humanoid robots to interact meaningfully with the physical world. Headquartered in Hangzhou, China, with a 5,400-square-meter manufacturing facility, Xynova is expanding its relationships with customers and university research teams across the United States and Europe. The company is exhibiting at CoRL and Web Summit, and will showcase Prima 1 alongside its hybrid-drive Flex 2 hand at CES 2027 from January 6-9 in Las Vegas.
+  中文：总结：由Consumer Technology Association评选，Xynova旗下拥有22个自由度的全直驱灵巧机械手Prima 1被评为CES 2027创新奖人工智能类别荣誉奖得主。 Prima 1专为具身AI研究和可扩展部署而设计，集成了响应式驱动、高力透明度以及五指视触觉传感，支持机器人模仿学习、远程操作和仿真到真实策略迁移。 其全直驱架构可实现毫秒级响应和低反驱动力的精确力控。 此外，先进的热管理和工程级耐用性支持持续长时间运行，而SDK访问权限则允许研究人员开发和评估操作模型。 创始人兼首席执行官Alex Xia表示，灵巧操作使人形机器人能够与物理世界进行有意义的交互。 Xynova总部位于中国杭州，拥有5400平方米的制造设施，正积极拓展美国和欧洲的客户及高校研究团队合作。 该公司正在参加CoRL和Web Summit，并将于1月6日至9日在拉斯维加斯举行的CES 2027上展示Prima 1及其混合驱动的Flex 2灵巧手。
+  📰 [The Manila Times](https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/xynovas-prima-1-robotic-hand-named-a-ces-2027-innovation-awards-honoree/2466675)
+
+- **[2026.11.10] Gasgoo — Inspire Robots Showcases Three New Dexterous Hand Models**
+  English: Beijing Inspire Robots Technology Co. , Ltd. and Beijing Shougang Construction Investment Co. , Ltd. co-hosted a robotics supply chain forum and new product showcase at Shougang Park in Beijing on November 4. During the event, Inspire unveiled three new dexterous hands: the RH524J1, RH5MK1, and RH37D1. The RH524J1 features a 24-degree-of-freedom tendon-cable hybrid drive architecture for anthropomorphic hand flexibility and fine manipulation. The RH5MK1 utilizes a 22-degree-of-freedom full direct-drive design with high-speed dynamic response and fingertip six-dimensional force tactile sensing. The RH37D1 adopts a three-finger, full direct-drive configuration with 7 active degrees of freedom, balancing gripping force, compliant control, and operational flexibility. Inspire also established joint laboratories with Shougang Zhixin Electromagnetic Materials (Qian'an) Co. , Ltd. for soft magnetic material application technology, and with the Beijing University of Posts and Telecommunications for embodied intelligence robot anthropomorphic dexterous manipulation. Founder and CEO Cai Yingpeng stated that dexterous manipulation is crucial for embodied intelligence to advance toward practical application following a decade of R&D.
+  中文：总结：北京灵巧智能科技有限公司与北京首钢建设投资有限公司于11月4日在北京首钢园共同举办了机器人供应链论坛暨新品发布会。 活动期间， Inspire发布了三款全新灵巧手：RH524J1、RH5MK1和RH37D1。 RH524J1采用24自由度肌腱混合驱动架构，主打拟人手运动灵活性与精细操作能力；RH5MK1采用22自由度全直驱设计，具备高速动态响应和指尖六维力触觉传感；RH37D1采用三指全直驱配置及7个主动自由度，兼具强力抓取、柔顺控制与操作灵活性。 Inspire还分别与首钢智新电磁材料（迁安）有限公司成立了“软磁材料应用技术联合实验室”，以及与北京邮电大学成立了“具身智能机器人人机协同灵巧操作联合实验室”。 创始人兼首席执行官蔡颖鹏表示，经过十年的研发积累，灵巧操作是具身智能走向实际应用的关键支撑。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/inspire-robots-showcases-three-new-dexterous-hand-models-2120049456371896321)
+
+- **[2026.11.10] Sohu — 人形机器人灵巧手，产业链相关8家核心头部企业梳理**
+  中文：总结：南方财富网梳理了人形机器人灵巧手产业链的8家核心头部企业，重点介绍了兆威机电的定位、业务及财务表现。 兆威机电定位为微型传动系统制造商，产品涵盖人形机器人核心驱动模组与灵巧手，深耕微型驱动领域20余年。 在2026年第二季度季报中，兆威机电主营业务收入为4.59亿，较去年同期增长9.53%，实现净利润3369.4万，同比上年增长率为-42.46%，毛利率为30.34%。
+  📰 [Sohu](https://m.sohu.com/a/1099534018_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.11.10] 东方财富 — 直面“最美的泡沫”与“最好的时代”：灵巧手规模化要过投资回报率与标准两道关**
+  中文：总结：在北京首钢园举行的机器人论坛上，产业界专家和企业代表探讨了人形机器人灵巧手的发展现状、规模化痛点与落地场景。 凌云光人工智能数字孪生主办相关活动。 北京理工大学魏洪兴指出机器人本体远未成熟，强调应兼顾跑跳与实操。 北京邮电大学李海源提及工业场景最有希望率先实现规模化落地，并联合因时科技共建了具身智能机器人仿人灵巧操作联合实验室。 因时科技房海南表示灵巧手单价从2023年的5万元降至2024年的2.5万元，预计2026年降至2万元，且公司牵头起草的国家标准《仿生多指灵巧手通用技术规范》于本月公开征求意见预计明年发布。 北京人形机器人创新中心熊友军和因时科技蔡颖鹏等嘉宾亦就标准统一、产业链协同及三年内机器人在3D场景的应用前景发表了看法。
+  📰 [东方财富](https://finance.eastmoney.com/a/202611093926596892.html)
+
+- **[2026.11.09] Wowtale — Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation**
+  English: Physical AI company RLWRLD announced on Nov. 9 that it has released DexBench, a benchmark for evaluating humanoid robot dexterous manipulation, built on NVIDIA's Isaac Lab-Arena framework and the Newton physics engine. DexBench implements 15 tasks across retail, logistics, assembly, and hotel food and beverage settings, measuring task success and generalization across object, physics, and spatial conditions. Development partners NdotLight, SPACE AI, and PhysicsSimLab supplied 3D assets and environments. RLWRLD plans to release code, evaluation environments, simulation assets, training data, baseline models, and a leaderboard, with initial baseline results measured using its robotics foundation model update, RLDX 1.1. The company confirmed NVIDIA's investment plan announced at AI Day Seoul 2026 to refine its robotics foundation model and expand on-site deployment.
+  中文：总结：具身智能公司RLWRLD于11月9日宣布推出DexBench，这是一个评估人形机器人灵巧操作的基准，构建于NVIDIA的Isaac Lab-Arena框架与Newton物理引擎之上。 DexBench在零售、物流、组装和酒店餐饮四种工业环境中实现了15项任务，测试任务成功率及物体、物理和空间条件下的泛化能力。 开发伙伴NdotLight、SPACE AI和PhysicsSimLab提供了3D资产与环境。 RLWRLD计划发布代码、评估环境、仿真资产、训练数据、基准模型及排行榜，初始基准结果通过其机器人基础模型更新版本RLDX 1.1进行测量。 该公司确认了NVIDIA在首尔AI日宣布的投资计划，并将利用资金完善机器人基础模型并扩大现场部署。
+  📰 [Wowtale](https://en.wowtale.net/2026/11/09/235942/)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.14 | full-text items: 8
