@@ -1,14 +1,19 @@
 {
-  "state": "ok",
-  "checked_at": "2026-11-15T02:01:46.940705+09:00",
-  "latest_article_at": "2026-11-15T01:02:52+09:00",
-  "articles": 20,
+  "state": "partial",
+  "checked_at": "2026-11-15T11:35:19.562270+09:00",
+  "latest_article_at": "2026-11-15T08:26:00+09:00",
+  "articles": 19,
   "sections": {
     "美国 / United States": 5,
     "中国 / China": 5,
-    "日本 / Japan": 5,
+    "日本 / Japan": 4,
     "Humanoid Robotics": 5
   },
-  "shortfalls": {},
+  "shortfalls": {
+    "日本 / Japan": {
+      "target": 5,
+      "actual": 4
+    }
+  },
   "translations_missing": 0
 }
