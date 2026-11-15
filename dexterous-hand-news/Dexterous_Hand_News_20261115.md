@@ -1,0 +1,54 @@
+# 🖐 Dexterous Hand News | 2026.11.15（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.15] BigGo Finance — Robot Skin Detecting 0.0005N, 20-Degree-of-Freedom Robot Hands: Physical AI Competition Ignites in Zurich**
+  English: Swiss Robotics Day 2026 in Zurich highlighted robot hand dexterity, tactile sensing, and data-driven reinforcement learning as key factors for industrial deployment. Startups and firms such as Inveel, Unitree, Hexagon Robotics, Agile Robots, and Flexion demonstrated advancements including 500-micrometer-thick robot skin detecting objects up to 15 centimeters away and forces down to 0.0005N, 20-degree-of-freedom hands, and simulation-based post-training. Industry representatives discussed real-world manufacturing challenges like handling featureless metal parts without public datasets and meeting rigorous standards such as a BMW project requiring AEON to transfer battery cells in about 30 seconds per cycle without drops.
+  中文：总结：2026年瑞士机器人日在苏黎世举行，重点关注机器人手部灵巧度、触觉传感以及数据驱动的强化学习。 Inveel、宇树科技、海克斯康机器人、Agile Robots和Flexion等企业展示了厚度500微米、可识别15厘米内物体并感应0.0005N微小力的机器人皮肤，以及拥有20个以上自由度的机器人手。 行业代表讨论了工厂实际部署中的挑战，包括缺乏公共数据集的光滑金属零件处理，以及宝马项目中AEON以约30秒每循环稳定搬运电池单元的要求。
+  📰 [BigGo Finance](https://finance.biggo.com/news/8e51681e-e3cc-44f4-9f4c-225c8ed55265)
+
+- **[2026.11.15] Chosunbiz — Swiss Robotics Day spotlights dexterous manipulation, tactile sensors, and Korea-Switzerland partnership talks**
+  English: Swiss Robotics Day 2026 in Zurich brought together about 170 robots and emphasized manipulation dexterity and tactile sensors. EPFL professor Aude Billard noted that understanding how humans acquire fine motor skills is vital. Inveel showcased a 500-μm robot skin detecting objects up to 15 cm away and 0.0005 N forces, while Unitree CEO Wang Xingxing presented a hand with over 20 degrees of freedom and impact-absorbing drive structures. Hexagon Robotics director Enno de Lange highlighted the lack of public training data in factories and cited a BMW benchmark requiring AEON to insert battery cells within 30 seconds per cycle all day. Agile Robots director Lori Sexton stressed that dexterity is a data and experience issue, noting that humans accumulate about 24,000 hours of experience over a lifetime.
+  中文：总结：2026年瑞士机器人日在苏黎世举行，汇聚了约170台机器人，重点关注操纵灵巧度与触觉传感器。 洛桑联邦理工学院教授Aude Billard指出理解人类如何获得精细动作技能至关重要。 Inveel展示了500微米厚的机器人皮肤，可识别15厘米内的物体并感应0.0005牛顿的力；宇树科技创始人王兴兴介绍了拥有20多个自由度且能吸收重大冲击的机器人手。 海克斯康机器人总监Enno de Lange强调了工厂缺乏公共训练数据的现状，并以宝马项目为例说明AEON需要在每个周期约30秒内稳定完成电池单元装配。 Agile Robots总监Lori Sexton强调灵巧性是数据与经验的问题，指出人类一生中积累了约24000小时的经验。
+  📰 [Chosunbiz](https://biz.chosun.com/en/en-science/2026/11/15/VFLKF7G2WVFJPAV4EUAEHEEVYU/?outputType=amp)
+
+- **[2026.11.15] 同花顺财经 — 量产节点已至，人形机器人闯关灵巧手**
+  中文：总结：浙江人形机器人创新中心副总裁留云表示量产节点已至，NAVIAI WA2机器人已批量出货并扩产。 量产由可复制、一致性、可交付、可核算四个维度界定。 多位行业高管及工信部数据显示，优必选、众擎、智元等企业的产能与产量正在扩大。 供应链国产化与零部件需求增长，雷赛智能和鸣志电器等公司报告了订单和营收增长。 北京市的行动方案提出到2028年形成20万台/年的整机生产能力并建设超过50000PFlops的算力集群。 专家指出，过完量产关后，灵巧手与可靠触觉感知仍是真实作业面临的关键挑战。
+  📰 [同花顺财经](http://news.10jqka.com.cn/20261115/c681827573.shtml)
+
+- **[2026.11.14] 同花顺财经 — 灵巧手与触觉数据：北京专用算力集群绕不开的最后一厘米**
+  中文：总结：北京计划建设总规模超过50000PFlops的具身智能专用算力集群，并配套不少于100个真实场景与超过100万小时的高质量数据采集。 京东集团技术委员会主席曹鹏强调物理AI竞争已转向算力、数据、场景与供应链组成的体系能力。 算力降低了模型训练成本，但触觉数据高度绑定特定硬件，其跨本体复用率低于第一人称视觉数据。 深圳戴盟机器人的Touch-R1模型和TouchReason-1M数据集将强化学习引入触觉推理以解决力度控制问题。 行业应用仍需解决触觉传感器良率、标准化、硬件迭代速度及场景开放谈判等挑战。
+  📰 [同花顺财经](http://news.10jqka.com.cn/20261114/c681823542.shtml)
+
+- **[2026.11.14] 21财经 — 广东灵巧手突破“最后一厘米” 竞速具身智能落地闭环**
+  中文：总结：广东正推进灵巧手技术以攻克具身智能应用中的力度控制难题。 深圳戴盟机器人研发了Touch-R1触觉锚定模型和TouchReason-1M数据集，首次将强化学习系统性引入触觉推理，提升抓取与装配精度，并已获得多轮融资且服务全球超200家客户。 同时，星际光年将其Pantheon绳驱灵巧手部署至奔图科技的打印机总装线，完成了二十余项精细操作。 在本地制造集群、供应链和耐心资本的支持下，广东正构建连接触觉感知、模型训练与产线验证的完整生态链。
+  📰 [21财经](https://www.21jingji.com/article/20261114/e594d7d8ce2594d12c9af9d72b29a1cb.html)
+
+- **[2026.11.13] TechNode — When robots dive underwater, HeymanDex sees new possibilities for dexterous hands**
+  English: Robotics company HeymanDex is entering the dexterous hand market by focusing on underwater applications and prioritizing protection capabilities. Drawing on the team's background in deep-sea equipment like 8,000-meter-class deep-sea landers and the Jiaolong manned submersible, HeymanDex aims to make protection against water pressure, corrosion, and sealing challenges fundamental to dexterous hands. The company developed an underwater integrated dynamic sealing technology system with solutions for depths from 0 to 1,000 meters and ultra-deep-sea environments from 1,000 to 10,000 meters. Its first commercial product, the WA100 underwater dexterous hand, supports operations up to 300 meters in standard configuration and features a five-finger structure with six active degrees of freedom, 11 linked joints, a weight under 1,250 grams, a minimum output force of 10N per finger, and a total pulling load of at least 5 kilograms.
+  中文：总结：机器人公司HeymanDex通过专注于水下应用并将防护能力放在首位，正在进入灵巧手市场。 凭借团队在8,000米级深海着眼器和蛟龙号载人潜水器等深海设备方面的背景，HeymanDex致力于将防水压、防腐蚀和密封挑战的防护能力作为灵巧手的基础。 该公司开发了一个水下集成动态密封技术系统，针对0至1,000米深度以及1,000至10,000米的超深海环境提供了解决方案。 其首款商业产品WA100水下灵巧手在标准配置下支持深达300米的操作，采用五指结构，具有6个主动自由度、11个联动关节，重量不超过1,250克，每根手指的最小输出力为10N，总拉力负载至少为5公斤。
+  📰 [TechNode](https://technode.com/2026/11/13/when-robots-dive-underwater-heymandex-sees-new-possibilities-for-dexterous-hands/)
+
+- **[2026.11.13] TechTimes Vietnam — GENTO unveils 21‑DoF dexterous robot hand at CoRL 2026**
+  English: GENTO showcased its proprietary 21-DoF dexterous hand at the CoRL 2026 conference in Austin, Texas, alongside TIANJI force-controlled arms, the Marvin Pro platform, and the Luna mobile robot. GENTO's hand uses a single linkage-driven transmission to reduce backlash, allow joint backdrivability, and boost fingertip force. TIANJI Intelligence equips the hand and its M6-Lite, M6, and M20 arm families with in-house MEMS joint torque sensors resolving torques down to 0.02 N·m with a 160 Hz torque-loop bandwidth and ±0.03 mm repeat positioning accuracy. NVIDIA introduced GR00T 2 at the same event, using a TIANJI Marvin Pro with two GENTO hands for a banana-yogurt preparation task. TIANJI delivered more than 2,000 force-controlled dual-arm systems in the four months of mid-2025, securing top market share for force-controlled arms.
+  中文：总结：GENTO在德克萨斯州奥斯汀举行的CoRL 2026会议上展示了其专有的21自由度灵巧手，并一同展出了TIANJI力控手臂、Marvin Pro平台和Luna移动机器人。 GENTO的灵巧手采用单连杆驱动传动装置，以减少反冲、实现关节反驱动并提高指尖力量。 天机智能为其灵巧手以及M6-Lite、M6和M20手臂系列配备了自研MEMS关节扭矩传感器，可解析低至0.02 N·m的扭矩，具有160 Hz扭矩环带宽和±0.03毫米的重复定位精度。 NVIDIA在同一活动中推出了GR00T 2，使用配备两个GENTO灵巧手的天机Marvin Pro执行香蕉酸奶准备任务。 天机在2025年中期的四个月内交付了2,000多套力控双臂系统，获得了力控手臂的最高市场份额。
+  📰 [TechTimes Vietnam](https://www.techtimes.vn/en/21-dof-dexterous-hand-gento-unveils-21-dof-dexterous-robot-hand-at-corl-2026/)
+
+- **[2026.11.10] Plataforma Media — Xynova’s Prima 1 Robotic Hand Named a CES 2027 Innovation Awards® Honoree**
+  English: Xynova announced that its Prima 1 robotic hand has been named a CES 2027 Innovation Awards Honoree in the Artificial Intelligence category. Based in Hangzhou, China, Xynova designed Prima 1 as a fully direct-drive dexterous robotic hand with 22 degrees of freedom for embodied AI research and scalable deployment. The hand features responsive actuation, high force transparency, visuo-tactile sensing, millisecond-level response, and five-finger visuo-tactile sensing for detailed contact feedback. Founder and CEO Alex Xia noted that dexterous manipulation allows humanoid robots to interact meaningfully with the physical world. Xynova is exhibiting at the Conference on Robot Learning and Web Summit, and plans to showcase Prima 1 alongside the Flex 2 hybrid-drive dexterous hand at CES 2027.
+  中文：总结：Xynova宣布其Prima 1机器人灵巧手被评为CES 2027创新奖人工智能类别荣誉奖获得者。 Xynova总部位于中国杭州，将Prima 1设计为一款具有22个自由度的全直驱灵巧机器人手，用于具身智能研究和可扩展部署。 该灵巧手具有响应式驱动、高力透明度、视触觉传感、毫秒级响应以及用于详细接触反馈的五指视触觉传感。 创始人兼首席执行官Alex Xia指出，灵巧操作使人形机器人能够与物理世界进行有意义的交互。 Xynova正在机器人学习会议和Web Summit上参展，并计划在CES 2027上展示Prima 1以及Flex 2混合驱动灵巧手。
+  📰 [Plataforma Media](https://www.plataformamedia.com/en/2026/11/10/xynovas-prima-1-robotic-hand-named-a-ces-2027-innovation-awards-honoree/)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.15 | full-text items: 8
