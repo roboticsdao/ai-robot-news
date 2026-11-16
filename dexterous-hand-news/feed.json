@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-15T11:30:15.089218+09:00",
+  "updated_at": "2026-11-16T11:39:59.888482+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-15T11:30:15.089218+09:00",
-    "latest_article_at": "2026-11-15T07:35:00+09:00",
+    "checked_at": "2026-11-16T11:39:59.888482+09:00",
+    "latest_article_at": "2026-11-16T10:42:13+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -14,6 +14,39 @@
   },
   "articles": [
     {
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T10:42:13+09:00",
+      "headline": "且看这双“灵巧手”",
+      "source": "光明网",
+      "url": "https://economy.gmw.cn/2026-11/16/content_39102418.htm",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "在中国北京举行的第二届世界人形机器人运动会和2026世界机器人大会上，机器人“灵巧手”成为热门赛道。 高工产业研究院数据显示，2025年中国“灵巧手”市场销量约1.92万只，同比增长236.84%，预计2026年达到7.02万只，2030年有望突破43万只。 业内人士指出，“灵巧手”是机器人走向物理世界的“最后一厘米”，能让机器人无缝衔接工具并完成精细操作。 造一只“灵巧手”面临空间狭小、电机发热散热等工程难题。 在感知与协调方面，北京大学与北京通用人工智能研究院联合研制的F-TAC Hand采用高分辨率触觉传感器，空间分辨率达0.1毫米。 在价格方面，通过核心零部件自研、供应链整合与规模化量产，国产“灵巧手”价格已从进口动辄百万元下降至万元以下。 目前，搭载“灵巧手”的机器人已在快递物流分拣、电力带电作业等场景实现落地应用。 北京市也通过相关行动方案支持攻关高可靠、高自由度“灵巧手”。",
+      "summary_zh": "在中国北京举行的第二届世界人形机器人运动会和2026世界机器人大会上，机器人“灵巧手”成为独立热门赛道。 高工产业研究院数据显示，2025年中国“灵巧手”市场销量约1.92万只，同比增长236.84%，预计2026年达到7.02万只，2030年突破43万只。 “灵巧手”被视为机器人走向物理世界的“最后一厘米”，能使机器人具备通用操作能力。 造一只“灵巧手”需克服空间狭小、无汗腺散热等技术难题。 在感知创新方面，北京大学与北京通用人工智能研究院研制的F-TAC Hand手掌70%面积铺设触觉传感器，分辨率达0.1毫米。 通过核心零部件国产化与供应链整合，国产“灵巧手”单价从百万级进口降至万元级别。 目前，相关产品已在星动纪元、月泉仿生的机器人上应用，进入快递物流分拣和电力带电作业等场景。 北京等地正通过政策方案支持攻关高可靠、高自由度、单只成本万元以内的新一代“灵巧手”。"
+    },
+    {
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T09:41:22+09:00",
+      "headline": "万元级灵巧手如何撑起整机量产：北京方案里的零部件突围与场景竞速",
+      "source": "同花顺财经",
+      "url": "http://news.10jqka.com.cn/20261116/c681834967.shtml",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "在北京举行的第二届世界人形机器人运动会与世界机器人大会上，机器人“灵巧手”展现出多样技能并成为独立热门赛道。 高工产业研究院数据显示，2025年中国“灵巧手”市场销量约1.92万只，同比增长236.84%，预计2026年达7.02万只，2030年有望突破43万只。 专家指出，“灵巧手”是机器人与物理世界交互的“最后一厘米”。 造手面临工程量大、散热困难等挑战。 在感知与协调方面，北京大学与北京通用人工智能研究院研制的F-TAC Hand采用空间分辨率达0.1毫米的高分辨率触觉传感器，而AI原生触觉传感器和自主探索发力模式则进一步提升了精细操作与协调能力。 在价格与供应链方面，随着触觉传感器和微型电机等核心零部件实现国产化，单只“灵巧手”价格从进口的百万元级下降至1万元到5万元不等。 在场景应用上，星动纪元和月泉仿生的机器人已分别在物流分拣和电力带电作业场景落地。 北京市印发的具身智能机器人产业政策支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度“灵巧手”。",
+      "summary_zh": "在北京举行的第二届世界人形机器人运动会及世界机器人大会上，“灵巧手”成为热门赛道。 高工产业研究院数据显示，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%，2026年预计达7.02万只，2030年有望突破43万只。 “灵巧手”被视为机器人实现通用操作的末端核心形态。 造一只手面临空间狭小与高负载电机散热等难题。 在感知与协调方面，北京大学与北京通用人工智能研究院研制的F-TAC Hand手掌70%面积铺设了触觉传感器，空间分辨率达0.1毫米，团队还在研发AI原生触觉传感器以实现整手曲面覆盖。 价格方面，因时科技等企业通过核心零部件国产化与供应链整合，将价格从百万元级进口降至1万元到5万元不等，触觉传感器与微型电机实现自研降本。 在场景落地方面，星动纪元机器人已在物流公司分拣快递，月泉仿生机器人在供电公司开展带电作业。 北京市相关行动方案明确支持攻关寿命100万次、指尖分控分辨率0.1牛、成本万元以内的灵巧手。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T12:39:49+09:00",
+      "headline": "Z Research｜灵巧手行业图谱：百亿资本，技术分歧，一场尚无定论的千手大战",
+      "source": "Sohu",
+      "url": "https://m.sohu.com/a/1101781882_122063396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "2026年，灵巧手成为具身智能产业链中最炙手可热的细分赛道，吸引了初创企业、整机厂商、互联网巨头、汽车巨头及地方国资的广泛蜂拥而入与百亿级资本注入。 过去受制于驱动、触觉感知、控制算法与高昂成本的灵巧手，在特斯拉Optimus等标杆推动以及VLA大模型、世界模型和强化学习等技术演进下，正经历定义重塑：它不再仅是执行抓取的机械构件，而是升级为物理交互、触觉感知、数据采集与模型验证的综合入口。 融资市场上，资本加速向头部企业集聚，互联网巨头通过全栈式布局锁定模型、数据与执行硬件，产业资本和地方国资则推进产业链协同与区域智能制造基础设施建设。 在技术路线与评价体系上，行业正经历从追求单纯硬件性能到结合Human-Centric Data第一视角人类数据训练、高频触觉反馈控制（如T-Rex研究引入触觉模块）的全面升级。 灵巧手正从传统零部件向连接数据、模型与物理世界的基础设施演进。",
+      "summary_zh": "2026年，灵巧手跃升为具身智能产业链中最热的细分赛道，吸引大量资本涌入。 特斯拉Optimus的发展与具身智能技术范式的迭代，彻底颠覆了灵巧手的定义，使其从单纯的机械构件升级为物理交互、触觉感知、数据采集与模型验证的综合入口。 在融资结构上，互联网巨头、汽车龙头及地方国资密集入局，推动头部卡位战进入深水区。 在技术驱动变量方面，第一视角人类数据路线迅速崛起，NVIDIA等机构的研究显示利用带标注的第一视角视频训练VLA模型能显著提升任务成功率；同时，UC Berkeley、NVIDIA和Stanford等机构发布的T-Rex尝试将高频触觉反馈引入VLA模型操作控制中。 灵巧手的评价体系正从单纯的自由度数量，转向力控响应速度与精度、触觉分辨率、传感覆盖密度及软硬件闭环能力，成为连接数据、模型与物理世界的基础设施。"
+    },
+    {
       "date": "2026.11.15",
       "published_at": "2026-11-15T07:35:00+09:00",
       "headline": "Robot Skin Detecting 0.0005N, 20-Degree-of-Freedom Robot Hands: Physical AI Competition Ignites in Zurich",
@@ -21,8 +54,8 @@
       "url": "https://finance.biggo.com/news/8e51681e-e3cc-44f4-9f4c-225c8ed55265",
       "language": "English",
       "section": "Global",
-      "summary": "Swiss Robotics Day 2026 in Zurich highlighted robot hand dexterity, tactile sensing, and data-driven reinforcement learning as key factors for industrial deployment. Startups and firms such as Inveel, Unitree, Hexagon Robotics, Agile Robots, and Flexion demonstrated advancements including 500-micrometer-thick robot skin detecting objects up to 15 centimeters away and forces down to 0.0005N, 20-degree-of-freedom hands, and simulation-based post-training. Industry representatives discussed real-world manufacturing challenges like handling featureless metal parts without public datasets and meeting rigorous standards such as a BMW project requiring AEON to transfer battery cells in about 30 seconds per cycle without drops.",
-      "summary_zh": "2026年瑞士机器人日在苏黎世举行，重点关注机器人手部灵巧度、触觉传感以及数据驱动的强化学习。 Inveel、宇树科技、海克斯康机器人、Agile Robots和Flexion等企业展示了厚度500微米、可识别15厘米内物体并感应0.0005N微小力的机器人皮肤，以及拥有20个以上自由度的机器人手。 行业代表讨论了工厂实际部署中的挑战，包括缺乏公共数据集的光滑金属零件处理，以及宝马项目中AEON以约30秒每循环稳定搬运电池单元的要求。"
+      "summary": "At Swiss Robotics Day 2026 in Zurich, Switzerland, participating companies focused heavily on robotic manipulation rather than walking. Swiss startup Inveel introduced a 500-micrometer-thick robot skin capable of detecting pressure, contact, and object approach from up to 15 centimeters away, distinguishing forces down to 0.0005N. Unitree founder and CEO Wang Xingxing presented a robot hand with over 20 degrees of freedom designed with a shock-absorbing drive structure between the fingers and hand. EPFL Robot Center head Professor Aude Billard emphasized that understanding how humans acquire fine manual skills is critical for actual deployment. Hexagon Robotics Director Enno de Lange noted the gap between demonstrations and reliable industrial execution, citing a BMW project where humanoid AEON handles metal and small industrial parts without public training data over 30-second cycles. Agile Robots director Rory Sexton stated that manipulation relies on accumulated experience and data, describing the company's human-teacher robot school combining teleoperation, simulations, and internet materials. Flexion CTO and co-founder David Höller highlighted post-training using simulation and reinforcement learning across a three-layer software architecture.",
+      "summary_zh": "在瑞士苏黎世举行的2026年瑞士机器人日上，参展企业的焦点转向了机器人的操控能力。 瑞士初创公司Inveel展示了一种厚度为500微米的机器人皮肤，能够检测压力、接触及物体接近，并能识别小至0.0005牛顿的力。 中国宇树科技创始人兼首席执行官王兴兴介绍了一款尺寸与人手相仿、拥有20多个自由度并具备吸震结构的机器人手。 洛桑联邦理工学院机器人中心负责人Aude Billard教授指出，理解人类获取精细手部技能的过程比单纯收集动作数据更为重要。 Hexagon Robotics的物理AI与机器人总监Enno de Lange指出，工业现场缺乏公开训练数据，并以宝马项目为例说明AEON人形机器人在组装线上面临的长周期稳定重复操作挑战。 Agile Robots董事Rory Sexton认为操控问题本质上是经验和数据的问题，公司通过机器人学校结合遥操作、仿真和互联网材料进行训练。 Flexion首席技术官兼联合创始人David Höller则表示公司侧重于利用仿真和强化学习进行后训练。"
     },
     {
       "date": "2026.11.15",
@@ -32,41 +65,19 @@
       "url": "https://biz.chosun.com/en/en-science/2026/11/15/VFLKF7G2WVFJPAV4EUAEHEEVYU/?outputType=amp",
       "language": "English",
       "section": "Global",
-      "summary": "Swiss Robotics Day 2026 in Zurich brought together about 170 robots and emphasized manipulation dexterity and tactile sensors. EPFL professor Aude Billard noted that understanding how humans acquire fine motor skills is vital. Inveel showcased a 500-μm robot skin detecting objects up to 15 cm away and 0.0005 N forces, while Unitree CEO Wang Xingxing presented a hand with over 20 degrees of freedom and impact-absorbing drive structures. Hexagon Robotics director Enno de Lange highlighted the lack of public training data in factories and cited a BMW benchmark requiring AEON to insert battery cells within 30 seconds per cycle all day. Agile Robots director Lori Sexton stressed that dexterity is a data and experience issue, noting that humans accumulate about 24,000 hours of experience over a lifetime.",
-      "summary_zh": "2026年瑞士机器人日在苏黎世举行，汇聚了约170台机器人，重点关注操纵灵巧度与触觉传感器。 洛桑联邦理工学院教授Aude Billard指出理解人类如何获得精细动作技能至关重要。 Inveel展示了500微米厚的机器人皮肤，可识别15厘米内的物体并感应0.0005牛顿的力；宇树科技创始人王兴兴介绍了拥有20多个自由度且能吸收重大冲击的机器人手。 海克斯康机器人总监Enno de Lange强调了工厂缺乏公共训练数据的现状，并以宝马项目为例说明AEON需要在每个周期约30秒内稳定完成电池单元装配。 Agile Robots总监Lori Sexton强调灵巧性是数据与经验的问题，指出人类一生中积累了约24000小时的经验。"
+      "summary": "At Swiss Robotics Day 2026 in Zurich, Switzerland, about 170 machines demonstrated various manipulation capabilities, highlighting dexterity as a key hurdle for real-world deployment. EPFL Robotics Center head Aude Billard noted that her team has studied human precision work like watchmaking for five years to implement human fine hand skills into robots. Swiss startup Inveel unveiled a 500-micrometer-thick robot skin that detects pressure, contact, and approach up to 15 centimeters away while sensing forces of 0.0005 N. Unitree CEO Wang Xingsing introduced a human-sized robot hand with over 20 degrees of freedom and a shock-absorbing actuation structure. Hexagon Robotics director Enno de Lange explained that industrial sites lack public training data for shiny metal and small parts, citing a BMW project where the AEON humanoid repeats battery cell loading cycles every 30 seconds. Agile Robots director Lori Sexton estimated that humans accumulate about 24,000 hours of spatial and body control experience over a lifetime, framing manipulation as a data problem. Agile Robots operates a robot school combining force and video teleoperation data, human task videos, simulations, and internet materials to train robots.",
+      "summary_zh": "在瑞士苏黎世举行的2026年瑞士机器人日上，大约170台机器展示了抓取和力控等操控能力，凸显出灵巧性是机器人进入实际应用的主要障碍之一。 洛桑联邦理工学院机器人中心负责人Aude Billard表示，其团队花五年时间研究人类从事手表制造等精密工作时的手部位置与施压情况，认为理解人类习得精细手部技能并将其实现于机器人身上，比单纯收集大量运动数据更重要。 瑞士初创公司Inveel推出了厚度为500微米的机器人皮肤，能检测压力、接触及物体接近，并能感应0.0005牛顿的微小力。 宇树科技首席执行官王兴兴介绍了拥有20多个自由度且配有吸震驱动结构的新型机器人手。 Hexagon Robotics总监Enno de Lange指出，工业现场缺乏公开训练数据，并以宝马项目为例说明机器人需要稳定重复电池单元抓取任务。 Agile Robots董事Lori Sexton估计人一生积累约24,000小时的经验，认为操控问题实质上是数据问题，公司通过“机器人学校”结合遥操作、视频、仿真和互联网材料来训练机器人。"
     },
     {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T01:50:15+09:00",
-      "headline": "量产节点已至，人形机器人闯关灵巧手",
-      "source": "同花顺财经",
-      "url": "http://news.10jqka.com.cn/20261115/c681827573.shtml",
-      "language": "Chinese",
+      "date": "2026.11.13",
+      "published_at": "2026-11-13T21:27:46+09:00",
+      "headline": "Microchip introduces tactile sensing digitizer for robotics",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/microchip-introduces-tactile-sensing-digitizer-for-robotics/",
+      "language": "English",
       "section": "Global",
-      "summary": "Zhejiang Humanoid Robot Innovation Center vice president Liu Yun stated that the mass production milestone has arrived, with NAVIAI WA2 robots shipping in batches and annual capacity expanding. Four dimensions define mass production: replicability, consistency, deliverability, and accounting. Industry executives and data from the Ministry of Industry and Information Technology highlighted expanding production scales across companies like Unitree, UBTECH, and Agibot. Supply chain localization and component demand have grown, with companies like Roborise and Moting Electric reporting strong orders and revenue growth. Beijing's action plan aims for 200,000 units/year of production capacity by 2028 and a 50,000PFlops computing cluster. Experts note that after mass production, dexterous hands and reliable tactile sensing remain crucial challenges for real-world tasks.",
-      "summary_zh": "浙江人形机器人创新中心副总裁留云表示量产节点已至，NAVIAI WA2机器人已批量出货并扩产。 量产由可复制、一致性、可交付、可核算四个维度界定。 多位行业高管及工信部数据显示，优必选、众擎、智元等企业的产能与产量正在扩大。 供应链国产化与零部件需求增长，雷赛智能和鸣志电器等公司报告了订单和营收增长。 北京市的行动方案提出到2028年形成20万台/年的整机生产能力并建设超过50000PFlops的算力集群。 专家指出，过完量产关后，灵巧手与可靠触觉感知仍是真实作业面临的关键挑战。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T09:49:50+09:00",
-      "headline": "灵巧手与触觉数据：北京专用算力集群绕不开的最后一厘米",
-      "source": "同花顺财经",
-      "url": "http://news.10jqka.com.cn/20261114/c681823542.shtml",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "Beijing plans a 50,000PFlops embodied AI computing cluster alongside data collection across 100 scenarios for over 1 million hours. JD. com technology committee chairman Cao Peng emphasized a system-level competition in physical AI spanning compute, data, scenarios, and supply chains. While compute reduces model training costs, tactile data collection faces high binding to specific hardware configurations, making cross-本体 reuse difficult compared to first-person vision data. Shenzhen Daming Robotics' Touch-R1 model and TouchReason-1M dataset introduce reinforcement learning to tactile reasoning, addressing force control. Industry adoption depends on resolving tactile sensor yields, standardization, hardware iteration speeds, and scene opening negotiations.",
-      "summary_zh": "北京计划建设总规模超过50000PFlops的具身智能专用算力集群，并配套不少于100个真实场景与超过100万小时的高质量数据采集。 京东集团技术委员会主席曹鹏强调物理AI竞争已转向算力、数据、场景与供应链组成的体系能力。 算力降低了模型训练成本，但触觉数据高度绑定特定硬件，其跨本体复用率低于第一人称视觉数据。 深圳戴盟机器人的Touch-R1模型和TouchReason-1M数据集将强化学习引入触觉推理以解决力度控制问题。 行业应用仍需解决触觉传感器良率、标准化、硬件迭代速度及场景开放谈判等挑战。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T08:00:00+09:00",
-      "headline": "广东灵巧手突破“最后一厘米” 竞速具身智能落地闭环",
-      "source": "21财经",
-      "url": "https://www.21jingji.com/article/20261114/e594d7d8ce2594d12c9af9d72b29a1cb.html",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "Guangdong is advancing dexterous hand technologies to tackle the force control challenge in embodied AI applications. Shenzhen Daming Robotics developed the Touch-R1 tactile anchoring model and TouchReason-1M dataset, which systematically introduce reinforcement learning into tactile reasoning to improve precision in grasping and assembly. Daming Robotics completed multiple financing rounds and serves over 200 global clients. Meanwhile, Starry Light Space deployed its Pantheon tendon-driven dexterous hand on Pantum's printer assembly line, executing over twenty precision operations. Supported by local manufacturing clusters, supply chains, and patient capital, Guangdong is fostering an integrated ecosystem connecting touch perception, model training, and production validation.",
-      "summary_zh": "广东正推进灵巧手技术以攻克具身智能应用中的力度控制难题。 深圳戴盟机器人研发了Touch-R1触觉锚定模型和TouchReason-1M数据集，首次将强化学习系统性引入触觉推理，提升抓取与装配精度，并已获得多轮融资且服务全球超200家客户。 同时，星际光年将其Pantheon绳驱灵巧手部署至奔图科技的打印机总装线，完成了二十余项精细操作。 在本地制造集群、供应链和耐心资本的支持下，广东正构建连接触觉感知、模型训练与产线验证的完整生态链。"
+      "summary": "Microchip Technology has introduced the ATFCD52 high-speed capacitance digitizer to convert signals from fine-grid, two-dimensional capacitive sensor arrays into high-sensitivity digital data for robotic tactile sensing. The device supports frame rates up to 800 Hz across up to 52 channels, using 32 transmit and 20 receive lines with 20 parallel on-chip analog front ends. It resolves capacitance changes below 1 femtofarad to detect fine contact and slip events in electrically noisy environments with the help of frequency hopping and oversampling. The digitizer pairs with Microchip MCUs, MPUs, or FPGAs, and is supported by the EV-ATFCD52 development board and ATFCD52 Configurator software.",
+      "summary_zh": "Microchip Technology 推出了 ATFCD52 高速电容数字转换器，用于将精细网格二维电容传感器阵列的信号转换为高灵敏度数字数据，以用于机器人触觉感知。 该设备支持高达 800 Hz 的帧率，涵盖多达 52 个通道，采用 32 个发送线和 20 个接收线以及 20 个并行的片上模拟前端。 它能够分辨低于 1 飞法（fF）的电容变化，在频率跳变和过采样技术的帮助下，在电气噪声环境中检测微小的接触和滑移事件。 该数字转换器可与 Microchip 的 MCU、MPU 或 FPGA 配合使用，并由 EV-ATFCD52 开发板和 ATFCD52 Configurator 软件提供支持。"
     },
     {
       "date": "2026.11.13",
@@ -76,8 +87,8 @@
       "url": "https://technode.com/2026/11/13/when-robots-dive-underwater-heymandex-sees-new-possibilities-for-dexterous-hands/",
       "language": "English",
       "section": "Global",
-      "summary": "Robotics company HeymanDex is entering the dexterous hand market by focusing on underwater applications and prioritizing protection capabilities. Drawing on the team's background in deep-sea equipment like 8,000-meter-class deep-sea landers and the Jiaolong manned submersible, HeymanDex aims to make protection against water pressure, corrosion, and sealing challenges fundamental to dexterous hands. The company developed an underwater integrated dynamic sealing technology system with solutions for depths from 0 to 1,000 meters and ultra-deep-sea environments from 1,000 to 10,000 meters. Its first commercial product, the WA100 underwater dexterous hand, supports operations up to 300 meters in standard configuration and features a five-finger structure with six active degrees of freedom, 11 linked joints, a weight under 1,250 grams, a minimum output force of 10N per finger, and a total pulling load of at least 5 kilograms.",
-      "summary_zh": "机器人公司HeymanDex通过专注于水下应用并将防护能力放在首位，正在进入灵巧手市场。 凭借团队在8,000米级深海着眼器和蛟龙号载人潜水器等深海设备方面的背景，HeymanDex致力于将防水压、防腐蚀和密封挑战的防护能力作为灵巧手的基础。 该公司开发了一个水下集成动态密封技术系统，针对0至1,000米深度以及1,000至10,000米的超深海环境提供了解决方案。 其首款商业产品WA100水下灵巧手在标准配置下支持深达300米的操作，采用五指结构，具有6个主动自由度、11个联动关节，重量不超过1,250克，每根手指的最小输出力为10N，总拉力负载至少为5公斤。"
+      "summary": "HeymanDex is entering the dexterous hand market by focusing on protection capabilities for underwater applications. The company's core team previously worked on 8,000-meter-class deep-sea landers and sampling equipment for the Jiaolong manned submersible. To address challenges such as water pressure, corrosion, and sealing while maintaining finger flexibility, HeymanDex developed an underwater integrated dynamic sealing technology system. For depths from 0 to 1,000 meters, this includes high-linear-speed axial dynamic sealing, high-reliability radial static sealing, and magnetic-coupling dynamic sealing. For 1,000 to 10,000 meters, it features hydraulic dynamic pressure compensation, oil-filled magnetic-coupling dynamic pressure balancing, and dual-stage static sealing. The company has launched its first commercial product, the WA100 underwater dexterous hand, which features a standard engineering configuration supporting depths up to 300 meters, a five-finger structure with six active degrees of freedom, 11 linked joints, a weight of no more than 1,250 grams, a minimum output force of 10N per finger, and a total pulling load of at least 5 kilograms.",
+      "summary_zh": "HeymanDex 通过专注于水下应用防护能力来切入灵巧手市场。 该公司核心团队曾参与 8000 米级深海着陆器以及“蛟龙”号载人潜水器的采样设备项目。 为了应对水压、腐蚀和密封等挑战同时保持手指灵活性，HeymanDex 开发了水下集成动态密封技术系统。 对于 0 至 1000 米的深度，该技术包括高线速度轴向动态密封、高可靠性径向静态密封和磁力耦合动态密封；对于 1000 至 10000 米的深度，则配备了液压动压补偿、充油磁力耦合动压平衡以及双级静态密封。 该公司推出了首款商业化产品 WA100 水下灵巧手，其标准工程配置支持深达 300 米的作业，采用五指结构、6 个主动自由度、11 个联动关节，重量不超过 1250 克，每指最小输出力为 10N，总拉力负载至少为 5 公斤。"
     },
     {
       "date": "2026.11.13",
@@ -87,19 +98,8 @@
       "url": "https://www.techtimes.vn/en/21-dof-dexterous-hand-gento-unveils-21-dof-dexterous-robot-hand-at-corl-2026/",
       "language": "English",
       "section": "Global",
-      "summary": "GENTO showcased its proprietary 21-DoF dexterous hand at the CoRL 2026 conference in Austin, Texas, alongside TIANJI force-controlled arms, the Marvin Pro platform, and the Luna mobile robot. GENTO's hand uses a single linkage-driven transmission to reduce backlash, allow joint backdrivability, and boost fingertip force. TIANJI Intelligence equips the hand and its M6-Lite, M6, and M20 arm families with in-house MEMS joint torque sensors resolving torques down to 0.02 N·m with a 160 Hz torque-loop bandwidth and ±0.03 mm repeat positioning accuracy. NVIDIA introduced GR00T 2 at the same event, using a TIANJI Marvin Pro with two GENTO hands for a banana-yogurt preparation task. TIANJI delivered more than 2,000 force-controlled dual-arm systems in the four months of mid-2025, securing top market share for force-controlled arms.",
-      "summary_zh": "GENTO在德克萨斯州奥斯汀举行的CoRL 2026会议上展示了其专有的21自由度灵巧手，并一同展出了TIANJI力控手臂、Marvin Pro平台和Luna移动机器人。 GENTO的灵巧手采用单连杆驱动传动装置，以减少反冲、实现关节反驱动并提高指尖力量。 天机智能为其灵巧手以及M6-Lite、M6和M20手臂系列配备了自研MEMS关节扭矩传感器，可解析低至0.02 N·m的扭矩，具有160 Hz扭矩环带宽和±0.03毫米的重复定位精度。 NVIDIA在同一活动中推出了GR00T 2，使用配备两个GENTO灵巧手的天机Marvin Pro执行香蕉酸奶准备任务。 天机在2025年中期的四个月内交付了2,000多套力控双臂系统，获得了力控手臂的最高市场份额。"
-    },
-    {
-      "date": "2026.11.10",
-      "published_at": "2026-11-10T23:19:00+09:00",
-      "headline": "Xynova’s Prima 1 Robotic Hand Named a CES 2027 Innovation Awards® Honoree",
-      "source": "Plataforma Media",
-      "url": "https://www.plataformamedia.com/en/2026/11/10/xynovas-prima-1-robotic-hand-named-a-ces-2027-innovation-awards-honoree/",
-      "language": "English",
-      "section": "Global",
-      "summary": "Xynova announced that its Prima 1 robotic hand has been named a CES 2027 Innovation Awards Honoree in the Artificial Intelligence category. Based in Hangzhou, China, Xynova designed Prima 1 as a fully direct-drive dexterous robotic hand with 22 degrees of freedom for embodied AI research and scalable deployment. The hand features responsive actuation, high force transparency, visuo-tactile sensing, millisecond-level response, and five-finger visuo-tactile sensing for detailed contact feedback. Founder and CEO Alex Xia noted that dexterous manipulation allows humanoid robots to interact meaningfully with the physical world. Xynova is exhibiting at the Conference on Robot Learning and Web Summit, and plans to showcase Prima 1 alongside the Flex 2 hybrid-drive dexterous hand at CES 2027.",
-      "summary_zh": "Xynova宣布其Prima 1机器人灵巧手被评为CES 2027创新奖人工智能类别荣誉奖获得者。 Xynova总部位于中国杭州，将Prima 1设计为一款具有22个自由度的全直驱灵巧机器人手，用于具身智能研究和可扩展部署。 该灵巧手具有响应式驱动、高力透明度、视触觉传感、毫秒级响应以及用于详细接触反馈的五指视触觉传感。 创始人兼首席执行官Alex Xia指出，灵巧操作使人形机器人能够与物理世界进行有意义的交互。 Xynova正在机器人学习会议和Web Summit上参展，并计划在CES 2027上展示Prima 1以及Flex 2混合驱动灵巧手。"
+      "summary": "GENTO showcased its proprietary 21-DoF dexterous hand at the CoRL 2026 conference in Austin, Texas, alongside TIANJI force-controlled arms, the Marvin Pro platform, and the Luna mobile robot. GENTO's hand uses a single linkage-driven transmission that reduces backlash, provides backdrivable joints, and increases fingertip force. TIANJI supplies in-house MEMS joint torque sensors that resolve torques down to 0.02 N·m with a 160 Hz torque-loop bandwidth and repeat positioning accuracy of plus or minus 0.03 mm. At the event, NVIDIA introduced GR00T 2, an open-world action model demonstrated on a TIANJI Marvin Pro equipped with two GENTO hands performing a preparation task. TIANJI's end-to-end data workflow links VR headsets, data gloves, and dual-arm teleoperation to log synchronized data, with the company estimating 100 Marvin Pro units could generate over 600,000 real-robot demonstration datasets per year.",
+      "summary_zh": "GENTO 在德克萨斯州奥斯汀举行的 CoRL 2026 会议上展示了其专有的 21 自由度灵巧手，并与 TIANJI 力控机械臂、Marvin Pro 平台和 Luna 移动机器人一同亮相。 GENTO 的灵巧手采用单连杆驱动传动系统，可减少背隙、提供可反向驱动的关节并提高指尖力量。 TIANJI 提供自研的 MEMS 关节扭矩传感器，可解析低至 0.02 N·m 的扭矩，具有 160 Hz 的扭矩环带宽以及正负 0.03 毫米的重复定位精度。 在活动期间，NVIDIA 推出了 GR00T 2 开源世界动作模型，并在配备两个 GENTO 灵巧手的 TIANJI Marvin Pro 上演示了准备任务。 TIANJI 的端到端数据工作流将 VR 头显、数据手套和双臂遥操作连接起来以记录同步数据，该公司估计 100 台 Marvin Pro 单元每年可生成超过 60 万个真实机器人演示数据集。"
     }
   ]
 }
