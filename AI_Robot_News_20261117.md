@@ -1,0 +1,124 @@
+# 🤖 AI Robot News | 2026.11.17（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+- **[2026.11.16] Cyprus Mail — Cyprus robotics startup Autonomics prepares for US debut in Las Vegas**
+  English: Cyprus-based robotics startup Autonomics is preparing for its US market debut in Las Vegas on November 17, showcasing its autonomous cleaning technology at the ISSA Show North America. Backed by venture capital firm Kinisis Ventures and strategic investor ASBIS Group, Autonomics will demonstrate its COMBO cleaning robot in the event's Robotics and Autonomous Cleaning Experience area. The COMBO robot is designed for round-the-clock operation in industrial and warehousing environments and is managed through an AI-based fleet orchestration software platform. The company's US expansion follows growing demand for automation to address labor shortages, with preparations led by US operations director Dominic Panayi after securing a €1 million bridge financing round in October.
+  中文：总结：总部位于塞浦路斯的机器人初创公司Autonomics正准备于11月17日在拉斯维加斯进行其美国市场首秀，在北美国际清洁保洁展（ISSA Show North America）上展示其自动清洁技术。 在风险投资公司Kinisis Ventures和战略投资者ASBIS Group的支持下，Autonomics将在该展会的机器人与自主清洁体验区演示其COMBO清洁机器人。 COMBO机器人专为工业和仓储环境的全天候运行而设计，并通过基于人工智能的车队编排软件平台进行管理。 在10月份获得€1 million的桥梁融资轮后，在US运营总监Dominic Panayi的领导下，该公司为应对劳动力短缺对自动化的需求不断增长而展开了美国业务扩张。
+  📰 [Cyprus Mail](https://cyprus-mail.com/2026/11/16/cyprus-robotics-startup-autonomics-prepares-for-us-debut-in-las-vegas)
+
+- **[2026.11.16] BigGo Finance — Taisei Corporation Teams With US Firm Pegasus on ¥24 Billion Fund Targeting AI, Robotics Startups With 10-Year Horizon**
+  English: Taisei Corporation announced on the 16th that it will establish a 10-year corporate venture capital fund of approximately ¥24 billion (approximately $150.5 million) with US-based Pegasus Tech Ventures, operating from November 2026 through November 2036. The fund will target global startups possessing advanced technologies such as artificial intelligence, robotics, and digital twins, as well as new business models. Taisei aims to leverage Pegasus Tech Ventures' overseas network and investment expertise to strengthen existing businesses and create new opportunities. Pegasus Tech Ventures, based in Silicon Valley with approximately ¥300 billion in assets under management, will serve as the general partner, while Taisei invests as a limited partner.
+  中文：总结：大成建设（Taisei Corporation）于16日宣布，将与美国风险投资公司Pegasus Tech Ventures合作设立一只规模约为¥24 billion（约$150.5 million）、运营期为10年的企业风险投资（CVC）基金，运营时间为2026年11月至2036年11月。 该基金将投资于全球拥有人工智能、机器人技术和数字孪生等先进技术以及新商业模式的初创公司。 大成建设旨在利用Pegasus Tech Ventures的海外网络和投资专长，加强现有业务并创造新机遇。 总部位于美国硅谷、管理资产规模约达¥300 billion的Pegasus Tech Ventures将担任普通合伙人，大成建设则作为有限合伙人进行投资。
+  📰 [BigGo Finance](https://finance.biggo.com/news/4e53b381-1921-4f0d-9093-107611bed9b7)
+
+- **[2026.11.15] Inshorts — US founder builds $1-bn robotics startup after being rejected by 70 investors | Beard's company had only 3 customers in 2024 | Inshorts**
+  English: American entrepreneur Evan Beard built his robotics startup, Standard Bots, into a $1 billion company after facing rejection from over 70 investors. Co-founded and led by Beard as CEO, the company manufactures robots for customers including Amazon, NASA, and Lockheed Martin. The breakthrough arrived when former Physical Intelligence co-founder Lachy Groom agreed to invest in the venture.
+  中文：总结：美国创业者埃文·贝尔德（Evan Beard）在遭到70多位投资者拒绝后，将自己的机器人初创公司发展成为一家估值10亿美元的企业。 贝尔德作为联合创始人兼首席执行官领导的Standard Bots公司，目前为亚马逊、美国国家航空航天局和洛克希德·马丁等客户制造机器人。 随着Physical Intelligence前联合创始人拉奇·格鲁姆（Lachy Groom）同意投资该风险企业，业务迎来了突破。
+  📰 [Inshorts](https://inshorts.com/en/amp_news/us-founder-builds--1-bn-robotics-startup-after-being-rejected-by-70-investors-1794743922877)
+
+- **[2026.11.15] TVC News — NVIDIA Robotics Engineer Resigns After Founder’s Departure, Cites Lack of Transparency**
+  English: NVIDIA robotics research engineer Darrell Dai resigned from the company following the departure of its founder, Jensen Huang. Dai stated in a post on X that the lack of explanation surrounding Huang's exit left him uncertain about the organization's future direction and culture. He praised Huang's long-term vision, early commitment to CUDA, and investments in physical AI and robotics, while expressing disappointment that employees' perspectives were not considered in the leadership change.
+  中文：总结：英伟达机器人研究工程师达雷尔·戴（Darrell Dai）在公司创始人黄仁勋离职后宣布辞职。 戴在X平台的一篇帖子中表示，黄仁勋离职的 okoliczności缺乏解释，这让他对组织的未来方向和文化感到不确定。 他赞扬了黄仁勋的长期愿景、对CUDA的早期承诺以及在物理AI和机器人领域的投资，同时对在领导层变动中未考虑员工观点表示失望。
+  📰 [TVC News](https://www.tvcnews.tv/nvidia-robotics-engineer-resigns-after-founders-departure-cites-lack-of-transparency/)
+
+- **[2026.11.15] 재경일보 — Tesla highlights its identity as an AI and robotics company over EVs in China : Business/Industry : JKN**
+  English: At the 9th China International Import Expo in Shanghai, Tesla emphasized its identity as an AI and robotics company by prioritizing its robotaxi, humanoid robot, proprietary semiconductors, and energy storage systems over its electric vehicles. Amid declining EV sales and intensifying competition in China, Tesla positioned its booth in the intelligent industry and information technology sector rather than the automotive pavilion. The most prominent exhibits included the steering-wheel-free Cybercab and the Optimus humanoid robot alongside its components.
+  中文：总结：在上海举办的第九届中国国际进口博览会上，特斯拉优先展示了其无人驾驶出租车、人形机器人、专有半导体和储能系统，而非电动汽车，以此强调其作为人工智能和机器人公司的身份。 面对中国电动汽车销量下降和竞争加剧的局面，特斯拉将其展位设在智能产业和信息技术展区，而非汽车馆。 最引人注目的展品包括没有方向盘或踏板的Cybercab以及Optimus人形机器人及其零部件。
+  📰 [재경일보](https://news.jkn.co.kr/editions/english/post/1095026)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.11.16] 手机新浪网 — 华为昇腾云在具身智能行业市场格局中国第一**
+  中文：总结：11月16日，华为云在CloudRobo具身世界模型发布会现场透露：华为昇腾云在具身智能市场格局中国第一，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现全覆盖。 这意味着在具身智能从实验室走向产业化的关键窗口期，昇腾云已成为国产云阵营中事实上的算力底座与生态入口。 目前华为云正在具身智能赛道构建生态纵深。 其CloudRobo具身智能平台已汇聚超16500个专业具身开发者、230多家企业和高校，沉淀1500+行业资产，覆盖工业、电力、环卫、医疗康养等多个落地场景。 据悉，其生态伙伴名单中既有亿嘉和、拓斯达、福龙马等A股上市公司，也包括节卡、千寻、星海图、优艾智合、斯坦德、睿尔曼机器人等头部未上市本体企业。 华为云还推出具身亲和的原生昇腾云基础设施，包括算力基础设施、算网数存、AI框架三层架构，为中国具身企业提供了国产化算力底座。
+  📰 [手机新浪网](https://k.sina.com.cn/article_5099546123_12ff4e60b00102eb4s.html?from=tech&subch=internet)
+
+- **[2026.11.16] 中国科大新闻网 — 工程科学学院举办力学与机器人交叉前沿研讨会**
+  中文：总结：11月13日，工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会。 来自多所高校的专家学者齐聚我校，围绕力学与机器人交叉前沿及学科专业发展开展交流。 本次研讨会获中国科学技术大学学科建设及特色发展专项支持。 开幕式由近代力学系执行主任王柳主持。 中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授先后致辞。 曲绍兴在致辞中表示，机器人研究与力学、控制、感知及人工智能等领域密切相关，期待通过学术交流促进学科交叉融合。 吴恒安介绍了学院相关学科布局与人形机器人研究院建设情况，强调加强动力学与控制方向建设，推动力学研究与机器人应用相互促进。 学术报告环节，浙江大学曲绍兴教授、华中科技大学王琳教授、北京航空航天大学陈玉丽教授、南京航空航天大学黄锐教授、湖南大学周加喜教授、复旦大学方虹斌教授、西北工业大学孟亮教授、西安交通大学原超副教授、苏州大学陆波教授和密歇根大学童德中博士后先后作专题报告。
+  📰 [中国科大新闻网](http://news.ustc.edu.cn/info/1055/96921.htm)
+
+- **[2026.11.16] 凤凰网 — 华为公布最新数据：80%中国具身智能企业选择昇腾云**
+  中文：总结：凤凰网科技讯 （编辑/宋淑美） 11月16日，在华为云CloudRobo具身世界模型发布会上，华为云披露，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现覆盖。 华为云称，昇腾云目前在中国具身智能云市场中排名第一。 华为云于2025年6月发布CloudRobo具身智能平台，主要面向机器人企业及科研机构提供算力、开发工具和模型服务。 按照华为云公布的数据，该平台目前已汇聚超过1.65万名具身智能开发者，以及230多家企业和高校，累计沉淀超过1500项行业资产，应用范围覆盖工业、电力、环卫、医疗康养等场景。 在业务定位上，华为云此前表示，公司不直接参与机器人本体制造，而是将硬件开发交给合作伙伴，重点建设面向不同机器人本体的云端基础设施和开发平台。 为满足具身智能模型的训练与推理需求，华为云构建了面向该领域的昇腾云基础设施，涵盖算力基础设施、算网数存及AI框架三层架构，为机器人企业提供模型训练、数据处理和应用开发能力。
+  📰 [凤凰网](https://original.ifeng.com/c/8y6FkWSZiSF)
+
+- **[2026.11.16] 维度网 — 中国TARSBOT与美国安波福签署工业机器人深化合作协议**
+  中文：总结：中国TARSBOT与美国安波福签署工业机器人深化合作协议 11月16日，中国机器人企业TARSBOT与美国汽车技术供应商安波福(Aptiv)在第九届中国国际进口博览会期间签署深化战略合作协议，计划在安波福智能工厂部署100台TARSBOT A系列工业具身智能机器人，覆盖8类制造工艺和33个应用场景。 首批设备已进入实际生产线运行，双方计划在2026年底前完成本轮部署，并推进机器人产品量产。 此次合作主要面向工业制造现场的自动化作业需求，应用场景包括柔性装配、协同巡检和生产管理。 与固定程序控制的传统自动化设备相比，具身智能机器人需要结合现场环境感知、任务判断和运动控制完成作业。 双方将利用安波福真实生产线开展应用验证，并根据实际运行情况调整机器人系统和作业流程。 安波福将向TARSBOT机器人引入高性能计算平台及智能配电解决方案。 其中，计算平台承担机器人环境感知、任务决策和运动控制等核心功能，智能配电系统为设备运行提供电力管理支持。
+  📰 [维度网](https://www.wedoany.com/shortnews/515235.html)
+
+- **[2026.11.16] 维度网 — 中国禾赛科技联合Ropedia开发具身智能数据产品**
+  中文：总结：11月16日，中国禾赛科技旗下三维世界数据引擎Kosmo与物理AI基础设施公司Ropedia达成战略合作，双方联合开展高质量真实世界数据的规模化生产，覆盖空间数据采集、结构化处理、标准化交付及模型验证。 双方共同支持的Ropedia Xperience 2研究项目已于11月12日发布，包含1589个三维扫描场景、74项操作任务及4230条第一视角记录，总记录时长131小时。 Kosmo负责真实环境空间数据采集和三维重建，Ropedia通过HOMIE Gen2及Experience Engine完成动作记录、四维重建和语义标注。 双方计划面向全球大模型、具身移动操作模型及世界模型研发团队提供多模态空间数据产品。
+  📰 [维度网](https://www.wedoany.com/shortnews/515220.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.11.16] 株式会社インプレス — NTT西日本とアイリスオーヤマ、フィジカルAIでカメラや異種ロボットを連携実証**
+  日本語：NTT西日本とアイリスオーヤマは2026年11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結し、AIでセキュリティカメラ、エレベーター、フラッパーゲート、各種ロボットなどの情報をクラウド上で一元管理・制御する実証を進めている。 第2弾となる今回の実証では、VLA、VLM、LLMなどのフィジカルAI技術を活用し、セキュリティカメラの映像をVLMが解析してLLMがアイリスオーヤマのDX清掃ロボット「JILBY」へ作業指示を出す仕組みや、「JILBY」とugo製のヒューマノイドロボット「ugo Nova」という異種ロボット間の協調、ロボットの自律動作の技術的成立性を確認した。 両社は今後、商用化・事業化の可能性を検討する予定である。
+  中文：总结：NTT西日本与爱丽思欧雅玛于2026年11月16日公布了利用综合管理系统“多机器人平台”开展物理AI共同验证的成果。 两家公司于2025年10月签署了业务合作基本意向书，推进利用AI在云端统一管理和控制安防摄像头、电梯、闸机及各类机器人信息的实证。 在作为第二弹的本次实证中，双方利用VLA、VLM和LLM等物理AI技术，验证了安防摄像头影像由VLM解析并由LLM向爱丽思欧雅玛DX清洁机器人“JILBY”下达作业指令的机制，以及爱丽思欧雅玛“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”等异构机器人之间的协作，并确认了机器人自主动作的技术可行性。 双方今后将探讨未来商业化和业务化的可能性。
+  📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2156818.html)
+
+- **[2026.11.16] テクノエッジ TechnoEdge — SHIFT AIが支援する中高生の日本代表チーム、国際ロボット大会で銀メダルを獲得**
+  日本語：「日本をAI先進国に」を掲げる株式会社SHIFT AIは、パートナーシップを結ぶGlobal Innovator ACADEMYの日本代表チームが、韓国・仁川で開催された国際ロボット大会「FIRST Global Challenge 2026」にて銀メダルを獲得したと発表した。 185の国と地域が参加した同大会で、予選を14位で通過し初のプレーオフに進出、決勝で銀メダルを獲得したほか、ロボット設計を評価する「張衡賞」でも銅メダルを獲得した。 SHIFT AIはGIAへの資金支援や生成AI学習コンテンツの無償提供を通じて若者たちの活動を支援している。
+  中文：总结：以“使日本成为AI先进国”为使命的SHIFT AI公司宣布，其合作伙伴Global Innovator ACADEMY的日本代表队在韩国仁川举办的国际机器人赛事“FIRST Global Challenge 2026”中荣获银牌。 在有185个国家和地区参加的该赛事中，日本代表队以预选赛第14名晋级季后赛，并在决赛中获得银牌，同时还在评估机器人设计的“张衡奖”中获得铜牌。 SHIFT AI通过向GIA提供资金支持及免费提供生成式AI学习内容，持续支持年轻一代的挑战活动。
+  📰 [テクノエッジ TechnoEdge](https://www.techno-edge.net/release/prtimes2/20261116/25386.html)
+
+- **[2026.11.16] マイナビニュース — アイリスオーヤマとNTT西日本、カメラと異種ロボットを連携するフィジカルAIを実証 | TECH+（テックプラス）**
+  日本語：アイリスオーヤマとNTT西日本は11月16日、AIで設備やロボットを統合管理する「マルチロボティクスプラットフォーム」を用いた共同実証の成果を発表した。 セキュリティカメラと清掃ロボットの連携に加え、メーカーや種類の異なるロボット間の情報共有とタスク分担、ロボットの自律動作について技術的成立性を実証した。 実証ではVLM、LLM、VLAを活用し、VLMが施設全体の状況を把握・分析、LLMが指示を出し、VLAを用いてロボットが自律的に判断・行動する可能性を確認した。 アイリスオーヤマの清掃ロボット「JILBY」とNTT西日本が取り扱うugoのヒューマノイドロボット「ugo Nova」が情報を共有してタスクを分担する仕組みなどを検証し、今後は商用化・事業化の可能性を検討するとしている。
+  中文：总结：爱丽思欧雅玛与NTT西日本于11月16日公布了利用AI集成管理设备与机器人的“多机器人平台”共同验证成果。 双方验证了安全摄像头与清洁机器人联动，以及不同制造商和种类的机器人之间的信息共享、任务分工和机器人自主动作的技术可行性。 验证中运用了VLM、VLS、LLM及VLA技术，由VLM把握并分析整个设施的状况，LLM发出指令，并利用VLA确认了机器人自主判断和行动的可能性。 爱丽思欧雅玛的清洁机器人“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”进行了信息共享与任务分工等机制的验证，未来将探讨商业化及产业化的可能性。
+  📰 [マイナビニュース](https://news.mynavi.jp/techplus/article/20261116-5338388/)
+
+- **[2026.11.16] ロボスタ — アイリスオーヤマとNTT西日本がフィジカルAIの共同実証成果を発表、清掃ロボット「JILBY」とヒューマノイド「ugo Nova」を連携**
+  日本語：アイリスオーヤマとNTT西日本は2026年11月16日、AIでセキュリティカメラや各種ロボットなどを統合管理する「マルチロボティクスプラットフォーム」の共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結しており、今回の取り組みはその一環となる。 実証ではVLA、VLM、LLMを活用し、カメラとロボットを連携させて状況認識から作業指示を行う仕組みや、アイリスオーヤマの清掃ロボット「JILBY」とugoのヒューマノイドロボット「ugo Nova」による異種ロボット間の情報連携と役割分担、ロボットの自律動作の技術的成立性を確認した。 今後は知見を整理し、将来的な商用化・事業化の可能性を検討する方針である。
+  中文：总结：爱丽思欧雅玛株式会社与NTT西日本株式会社于2026年11月16日公布了利用AI集成管理安全摄像头及各种机器人的“多机器人平台”共同验证成果。 两家公司于2025年10月签署了业务合作基本意向书，本次举措为此项合作的一部分。 验证中运用了VLA、VLM和LLM，确认了摄像头与机器人联动完成从情况识别到作业指示的机制，以及爱丽思欧雅玛清洁机器人“JILBY”和ugo人形机器人“ugo Nova”之间进行异种机器人信息联动与角色分工、机器人自主动作的技术可行性。 今后双方将整理相关经验，探讨未来的商业化与产业化可能性。
+  📰 [ロボスタ](https://robotstart.info/article/2026/11/16/382636.html)
+
+- **[2026.11.16] NTT西日本 — 【NTT西日本】アイリスオーヤマとNTT西日本「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表 ロボット・設備連携の技術的成立性を検証し、施設管理業務の効率化をめざす｜ニュースリリース - 通信・ICTサービス・ソリューション**
+  日本語：アイリスオーヤマとNTT西日本は2026年11月16日、AIでセキュリティカメラや各種ロボットなどを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証成果を発表した。 両社は2025年10月にフィジカルAIやロボットを含むIoT領域のDX推進に向けた業務提携の基本合意覚書を締結している。 今回は第二弾の取り組みとして、VLA、VLM、LLMを活用し、セキュリティカメラの画像解析に基づくアイリスオーヤマの清掃ロボット「JILBY」への作業指示や、「JILBY」とNTT西日本が取り扱うヒューマノイドロボット「ugo Nova」の間での情報共有・タスク分担、ロボットの自律動作の技術的成立性を実証した。 両社は今後、商用化・事業化の可能性を検討していくとしている。
+  中文：总结：爱丽思欧雅玛与NTT西日本于2026年11月16日公布了利用AI集成管理安全摄像头及各种机器人的“多机器人平台”共同验证成果。 两家公司已于2025年10月签署了关于推进包括物理AI及机器人在内的IoT领域DX的业务合作基本意向书。 作为第二弹举措，双方运用了VLA、VLM和LLM，验证了基于安全摄像头图像解析向爱丽思欧雅玛清洁机器人“JILBY”下达作业指示，以及“JILBY”与NTT西日本代理的人形机器人“ugo Nova”之间进行信息共享和任务分工、机器人自主动作的技术可行性。 两家公司表示未来将探讨商业化与产业化的可能性。
+  📰 [NTT西日本](https://www.ntt-west.co.jp/news/2611/261116a.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.11.15] アットプレス — ヒューマノイドロボット用PEEK材料の世界市場（2026年～2032年）、市場規模（PEEK顆粒、PEEK粉末）・分析レポートを発表**
+  English: 株式会社マーケットリサーチセンターは、ヒューマノイドロボット用PEEK材料の世界市場に関する調査資料を発表した。 本資料によると、同市場規模は2025年の5,281万米ドルから2032年には1億5,700万米ドルに拡大し、2026年から2032年にかけて年平均成長率（CAGR）17.1%で成長すると予測されている。 PEEKは耐熱性や耐摩耗性、軽量性に優れた熱可塑性有機高分子材料であり、関節や四肢、胴体、骨格などに広く使用されている。 主要企業としてVictrex、Solvay、Evonik、吉林中研高機能プラスチック、浙江普氟オン科技などが挙げられている。
+  中文：总结：株式会社マーケットリサーチセンター发布了关于人形机器人用PEEK材料全球市场的调查资料。 根据该资料，人形机器人用PEEK材料全球市场规模预计将从2025年的5,281万米ドル增长到2032年的1亿5,700万米ドル，在2026年至2032年期间的年均复合增长率（CAGR）预计为17.1%。 PEEK是一种具有良好耐热性、耐磨损性和轻量化的高性能热可塑性有机高分子材料，广泛应用于人形机器人的关节、四肢、躯干和骨骼。 报告列举的主要企业包括Victrex、Solvay、Evonik、吉林中研高功能塑料以及浙江普氟オン科技等。
+  📰 [アットプレス](https://www.atpress.ne.jp/news/9668394)
+
+- **[2026.11.17] TechTarget — Silicon Valley startup showcases humanoid robot with human neurons**
+  English: ロボティクスベンダーのOpenMindは、意思決定を補助するために実験室で培養されたヒト神経細胞を使用するヒューマノイドロボット「Iris」を発表した。 このロボットは、幹細胞由来の神経細胞を用いて周囲や社会的合図を解釈し、適切な応答を選択する。 神経細胞はデータ融合や知覚、言語モデルなどの従来のコンピューティングと併用される。 スタンフォード大学の生物工学者でありOpenMindの創設者であるJan Liphardtによると、神経細胞は基本的な記憶を与え、ロボットの気分を設定するという。 11月13日に公開された実証実験では、Irisを2つの商業用神経プラットフォームに遠隔接続し、電極アレイを介して電気パルスを送受信した。 OmdiaのロボティクスアナリストであるLian Jye Suは、この取り組みを生きた細胞と人工制御システムの結合を示す重要な概念実証であると評した。
+  中文：总结：机器人供应商OpenMind发布了一款名为Iris的人形机器人，该机器人利用在实验室培养的人类神经细胞来帮助形成决策。 该机器人使用源自干细胞的神经细胞来帮助其解释周围环境和社交线索并选择适当的反应。 神经细胞与传统计算（包括数据融合、感知和语言模型）协同工作，而不是取代它们。 根据斯坦福大学生物工程师兼OpenMind创始人Jan Liphardt的说法，神经细胞还赋予Iris基本的记忆并设定机器人的情绪。 在11月13日公开的演示中，Iris被远程连接到两个商业神经平台，这些平台由数十万个的人类大脑皮层神经细胞组成，并通过电极阵列发送和接收电脉冲。 Omdia的机器人分析师Lian Jye Su表示，这项工作是有意义但有限的，它是展示活体人类细胞与人工控制系统结合的重要概念验证。
+  📰 [TechTarget](https://www.techtarget.com/news/silicon-valley-startup-showcases-humanoid-robot-with-human-neurons/874770/)
+
+- **[2026.11.16] AI Insider — LG Electronics Partners With Korean Robotics Group to Develop Humanoid Safety Standards**
+  English: LGエレクトロニクスは、韓国ロボット産業協会とヒューマノイドロボットの安全性および品質評価基準を共同開発するための協定を締結した。 11月13日にソウルで署名されたこの覚書は、テスト手順や認証要件の策定、安全性と信頼性の評価を目的としている。 LGは、2027年第1四半期に予定している新しい二足歩行ロボットの公開に向け、Nvidiaのリファレンス技術を活用した開発を進めており、品質管理センターやLGデータファクトリーを通じて基盤を拡充している。 韓国ロボット産業協会のCho Young-hoon会長は、安全性の信頼確保が日常生活や産業現場への普及に不可欠であると述べている。
+  中文：总结：LG电子与韩国机器人产业协会签署了一项协议，旨在为人形机器人开发安全和质量评估标准，以备在2027年推出新型双足机器人。 根据LG的说法，这份于11月13日在首尔签署的谅解备忘录要求双方致力于测试程序、认证要求和标准，以评估人形机器人的安全性、可靠性和可用性。 LG正利用Nvidia参考技术开发双足机器人，目标是在2027年第一季度亮相，并通过其机器人硬件、执行器开发和AI训练基础设施提供支持。 韩国机器人产业协会会长Cho Young-hoon表示，确保安全和质量的信任对于人形机器人扩散到日常生活和工业现场至关重要。
+  📰 [AI Insider](https://theaiinsider.tech/2026/11/16/lg-electronics-partners-with-korean-robotics-group-to-develop-humanoid-safety-standards/)
+
+- **[2026.11.16] The Gadgeteer — GXO plans up to 1,000 Apptronik Apollo humanoids if its 2027 warehouse trials pass**
+  English: GXOはApptronikとの間で、倉庫におけるアポロ・ヒューマノイドロボットの試用規模を拡大する意向書に署名した。 実際の現場における生産性、安全性、運用の目標をクリアした場合、最大1,000体のロボットを導入する計画となっている。 2027年に実際の運用環境での試用が開始され、商品ピッキングやケース・トートの移動、梱包、仕分けなどの作業がテストされる。 結果が良好であれば、北米での2027年末の初期展開を皮切りに、4年間で最大1,000体のアポロロボットをグローバルに展開する計画である。 両社は2024年から概念実証プログラムを開始し、2026年には米国でのパイロット展開を完了している。
+  中文：总结：GXO已与Apptronik签署了一份意向书，以扩大Apollo人形机器人在仓库中的试验，如果试验达到目标，计划部署多达1,000台机器人。 该协议是一项意向而非订单，双方表示只有在Apollo在实际建筑中达到共同商定的生产力、安全和运营目标后才会进行部署。 试验将于2027年在实际运营中开始，测试工作包括货物到人及人到货拣选、箱子和手提箱移动、打包和分拣。 根据这些结果，计划在四年内在全全球推出多达1,000台Apollo机器人，并于2027年底在北美进行初始部署。 两家公司自2024年起便开始了概念验证项目，并于2026年初在美国完成了Apollo的试点部署。
+  📰 [The Gadgeteer](https://the-gadgeteer.com/2026/11/16/gxo-apptronik-apollo-1000-humanoids-2027-trials/)
+
+- **[2026.11.16] TradingView — Technical Analysis of Agility Robotics, Inc. (NASDAQ:AGLT)**
+  English: Agility Robotics, Inc. （NASDAQ:AGLT）のテクニカル分析に関する概要では、移動平均線、オシレーター、ピボットなどの主要データがまとめられている。 サマリーゲージにより、インセンティブが買い、売り、中立のいずれを示しているかを瞬時に確認することが可能となっている。 テクニカルレーティングは、26のインジケーター（移動平均線、RSI、オシレーターなど）に基づき、過去および現在の市場状況を反映するものであり、将来の価格方向を予測するものではない。 ピボットは、強い買いと売りの活動により市場がトレンドを反転または継続する可能性のある価格水準である。
+  中文：总结：Agility Robotics, Inc. （NASDAQ:AGLT）的技术分析摘要包括来自移动平均线、振荡指标和枢轴点的关键数据，所有这些数据都汇总在摘要指标中，可以即时查看指标是暗示买入、卖出还是中性信号。 技术评级基于26种指标（包括移动平均线、RSI和振荡指标），提供整体评级和单独指标读数。 技术评级反映过去和当前的市场状况，而不是未来的价格方向，也不是预测工具。 枢轴点是由于强劲的买卖活动，市场可能逆转或继续其趋势的关键价格水平。
+  📰 [TradingView](https://www.tradingview.com/symbols/NASDAQ-AGLT/technicals/)
+
+
+---
+※AI Robot News Digest | 2026.11.17 | full-text items: 20

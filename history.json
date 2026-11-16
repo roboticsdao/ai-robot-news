@@ -1,5 +1,12 @@
 [
   {
+    "id": "20261117_0558",
+    "date": "2026.11.17",
+    "time": "05:58 JST",
+    "file": "AI_Robot_News_20261117.html",
+    "count": 20
+  },
+  {
     "id": "20261116_1141",
     "date": "2026.11.16",
     "time": "11:41 JST",
@@ -621,12 +628,5 @@
     "time": "09:54 JST",
     "file": "AI_Robot_News_20260818.html",
     "count": 18
-  },
-  {
-    "id": "20260815_0955",
-    "date": "2026.08.15",
-    "time": "09:55 JST",
-    "file": "AI_Robot_News_20260815.html",
-    "count": 20
   }
 ]
