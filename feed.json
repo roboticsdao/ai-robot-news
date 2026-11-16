@@ -1,26 +1,37 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-16T02:41:18.757848+09:00",
+  "updated_at": "2026-11-16T11:41:39.784696+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-16T02:41:18.757848+09:00",
-    "latest_article_at": "2026-11-15T20:58:42+09:00",
-    "articles": 18,
+    "checked_at": "2026-11-16T11:41:39.784696+09:00",
+    "latest_article_at": "2026-11-16T10:00:00+09:00",
+    "articles": 17,
     "sections": {
       "美国 / United States": 5,
       "中国 / China": 5,
-      "日本 / Japan": 3,
+      "日本 / Japan": 2,
       "Humanoid Robotics": 5
     },
     "shortfalls": {
       "日本 / Japan": {
         "target": 5,
-        "actual": 3
+        "actual": 2
       }
     },
     "translations_missing": 0
   },
   "articles": [
+    {
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T05:37:47+09:00",
+      "headline": "Nvidia robotics engineer Darrel Dai leaves company after Jensen Huang's exit",
+      "source": "news.lavx.hu",
+      "url": "https://news.lavx.hu/article/nvidia-robotics-engineer-darrel-dai-leaves-company-after-jensen-huang-s-exit",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Nvidia robotics engineer Darrel Dai announced on November 15, 2026, that he is leaving the company following Jensen Huang's sudden resignation, citing a lack of an explanation. Over 150,000 people signed a petition titled 'Bring Jensen Back' asking Nvidia's board to reinstate Huang. Dai praised Huang's historical bets on CUDA, artificial intelligence, robotics, and open-source tools, noting that Huang engaged directly with employees. Dai stated that the departure left him without clarity on the company's direction or culture, leading to his decision to exit the firm with sadness and gratitude.",
+      "summary_zh": "英伟达机器人工程师达雷尔·戴（Darrel Dai）于2026年11月15日表示，在黄仁勋突然辞职且缺乏解释后，他将离开公司。 超过15万人在名为“把黄仁勋带回来”（Bring Jensen Back）的请愿书上签名，要求英伟达董事会恢复黄仁勋的职务。 戴赞扬了黄仁勋对CUDA、人工智能、机器人技术和开源工具的早期押注，并指出黄仁勋直接与员工进行交流。 戴表示，黄仁勋的离职让他在公司方向和文化上面临不确定性，这促使他带着遗憾与感激之情决定离开公司。"
+    },
     {
       "date": "2026.11.15",
       "published_at": "2026-11-15T20:58:42+09:00",
@@ -29,8 +40,8 @@
       "url": "https://inshorts.com/en/amp_news/us-founder-builds--1-bn-robotics-startup-after-being-rejected-by-70-investors-1794743922877",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "American entrepreneur Evan Beard built his robotics startup, Standard Bots, into a $1 billion company after facing rejection from over 70 investors. As co-founder and CEO, Beard leads the company in manufacturing robots for clients including Amazon, NASA, and Lockheed Martin. The venture achieved its breakthrough when former Physical Intelligence co-founder Lachy Groom agreed to invest.",
-      "summary_zh": "美国企业家埃文·别尔德（Evan Beard）在遭到70多名投资者拒绝后，将他的机器人初创公司Standard Bots打造成了一家估值10亿美元的公司。 作为联合创始人兼首席执行官，别尔德领导该公司为包括亚马逊、美国宇航局和洛克希德·马丁公司在内的客户制造机器人。 随着前Physical Intelligence联合创始人拉奇·格鲁姆（Lachy Groom）同意投资，该企业迎来了突破。"
+      "summary": "American entrepreneur Evan Beard built Standard Bots into a $1 billion robotics startup despite facing rejection from over 70 investors. Beard co-founded the company and serves as CEO, manufacturing robots for customers including Amazon, NASA, and Lockheed Martin. The venture achieved a major breakthrough when former Physical Intelligence co-founder Lachy Groom agreed to invest in the company. In 2024, Beard's company had only 3 customers before scaling its business and reaching its current valuation.",
+      "summary_zh": "美国企业家埃文·别尔德（Evan Beard）克服了遭到70多位投资者拒绝的困境，将他的机器人初创公司Standard Bots打造成了一家估值$1 billion的公司。 别尔德是该公司的联合创始人兼首席执行官，其为亚马逊、美国国家航空航天局（NASA）和洛克希德·马丁等客户制造机器人。 当Physical Intelligence前联合创始人拉奇·格鲁姆（Lachy Groom）同意对该企业进行投资时，公司迎来了重大突破。 在2024年扩展业务并达到当前估值之前，别尔德的公司只有3名客户。"
     },
     {
       "date": "2026.11.15",
@@ -40,8 +51,8 @@
       "url": "https://www.tvcnews.tv/nvidia-robotics-engineer-resigns-after-founders-departure-cites-lack-of-transparency/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "NVIDIA robotics research engineer Darrell Dai announced his resignation from the company following the departure of founder Jensen Huang, citing a lack of transparency and explanation surrounding the exit. In a post on X, Dai praised Huang's long-term vision, leadership, and commitment to technologies like CUDA, physical AI, and open-source tools that shaped modern artificial intelligence. Dai expressed disappointment that employees' perspectives were excluded from a decision affecting the organization, stating that the uncertainty regarding the company's future direction, culture, and employee trust prompted his departure.",
-      "summary_zh": "英伟达机器人研究工程师达雷尔·戴（Darrell Dai）在创始人黄仁勋离职后宣布辞职，并指出围绕此次离职缺乏透明度和解释。 戴在X平台的一篇贴文中赞扬了黄仁勋的长期愿景、领导力以及对CUDA、物理AI和开源工具等塑造现代人工智能技术的承诺。 戴对员工观点被排除在影响组织的决策之外表示失望，并表示对公司未来方向、文化和员工信任的不确定性促使他离职。"
+      "summary": "NVIDIA robotics research engineer Darrell Dai announced his resignation following the departure of founder Jensen Huang, citing a lack of transparency and explanation surrounding the exit. Dai praised Huang’s vision, early commitment to CUDA, and investments in physical AI and open-source tools. However, he stated that the circumstances of the departure raised concerns, left him uncertain about the company's future direction, and made him feel that engineers' perspectives were ignored.",
+      "summary_zh": "NVIDIA的机器人研究工程师达雷尔·戴在创始人黄仁勋离职后宣布辞职，并将其归咎于对此次离职缺乏透明度与解释。 戴赞赏了黄仁勋的远见、对CUDA的早期承诺以及在实体人工智能和开源工具方面的投资。 然而，他表示离职事件的种种情况引发了担忧，让他对公司的未来方向感到不确定，并使他感到工程师的观点被忽视了。"
     },
     {
       "date": "2026.11.15",
@@ -51,41 +62,30 @@
       "url": "https://www.hindustantimes.com/trending/us-founder-rejected-by-over-70-investors-builds-1-billion-robotics-startup-101794666355605.html",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Evan Beard, co-founder and CEO of Standard Bots, has built a $1 billion robotics startup after facing rejection from more than 70 investors. According to a Business Insider report from November 12, the company had just three customers in 2024 and faced severe funding shortages. A breakthrough occurred when Lachy Groom agreed to back the venture after a five-minute conversation. In 2026, Standard Bots raised $200 million in a Series C funding round at a $1 billion valuation, with backers including RoboStrategy, General Catalyst, and Amazon. Beard's background includes Duke University graduation in 2009, creating Girlfriend Keeper, working with Y Combinator, selling startups to Salesforce and Spirent, and co-founding A Plus with Ashton Kutcher. Standard Bots currently manufactures robotic arms for industrial tasks like welding, battery assembly, and food handling, with Beard aiming to reach an annual production rate of 4,000 robots by the end of 2027.",
-      "summary_zh": "Standard Bots共同创始人兼首席执行官埃文·贝尔德在遭到70多位投资人拒绝后，成功建立了一家估值达$10 billion的机器人初创公司。 根据《商业内幕》11月12日的报道，该公司在2024年时仅有3名客户，且资金极度短缺。 当物理智能公司的Lachy Groom在与贝尔德交谈5分钟后同意投资时，局面迎来了转机。 2026年，Standard Bots在一轮C轮融资中筹集了$200 million，估值达到$1 billion，投资者包括RoboStrategy、General Catalyst和Amazon。 贝尔德的创业经历包括2009年毕业于杜克大学、开发女友信使应用、加入Y Combinator、将初创公司出售给Salesforce和Spirent，以及与阿什顿·库彻共同创立A Plus。 如今，Standard Bots制造用于焊接、电池组装和食品处理等工业任务的机械臂，贝尔德预计到2027年底机器人的年产量将达到4,000台。"
+      "summary": "American entrepreneur Evan Beard, co-founder and CEO of Standard Bots, built a $1 billion robotics startup after facing rejection from over 70 investors. The company, which had just three customers in 2024 and faced low funds, secured backing after Lachy Groom agreed to invest. Standard Bots subsequently raised $200 million in a Series C funding round in 2026 at a valuation of $1 billion, with investors including RoboStrategy, General Catalyst, and Amazon. The firm currently manufactures robotic arms and expects to reach an annual production rate of 4,000 robots by the end of 2027.",
+      "summary_zh": "美国创业者、Standard Bots联合创始人兼首席执行官埃文·比尔德在遭到70多位投资者拒绝后，建立了一家估值为$1 billion的机器人初创公司。 该公司在2024年时仅拥有三家客户且资金严重短缺，但在拉奇·格鲁姆同意投资后获得了资金支持。 随后，Standard Bots在2026年的C轮融资中筹集了$200 million，估值达到$1 billion，投资者包括RoboStrategy、General Catalyst和亚马逊。 该公司目前生产机械臂，并预计到2027年底年产量将达到4,000台机器人。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T00:16:46+09:00",
-      "headline": "Huang’s exit gives physical AI firms reason to break the Nvidia habit",
-      "source": "Fierce Sensors",
-      "url": "https://www.fiercesensors.com/sensors-fusion/huangs-exit-gives-physical-ai-firms-reason-break-nvidia-habit",
+      "published_at": "2026-11-14T22:39:00+09:00",
+      "headline": "Inside Tesla’s 2027 plan to put its humanoid robot Optimus to work",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Robotics makers and autonomous vehicle and humanoid manufacturers have grown uncomfortable with the cost, power requirements, and single-vendor dependence on Nvidia. Jensen Huang's departure on Thursday introduced leadership and strategic continuity risk. Principal analyst Jack Gold noted that while companies may not immediately abandon Nvidia, they may avoid full-stack dependence long-term. Meanwhile, AMD, Qualcomm, and Intel stock prices rose following Huang's resignation. Waymo utilizes a custom 5nm ASIC for its sixth-gen robotaxi system while listing Nvidia alongside other suppliers like AMD, Socionext, Micron, and Samsung in a heterogeneous architecture. Mobileye relies on EyeQ processors, proprietary perception, mapping, and driving software without accepting the Nvidia full stack. An autonomous warehouse project by SAP and Intel relies on open physical AI, utilizing SAP Extended Warehouse Management and Intel edge-AI hardware rather than Nvidia Isaac. Additionally, Kuka Robotics and industrial robotics partners are adopting the Qualcomm Dragonwing robotics architecture, which features heterogeneous CPU, GPU, NPU, and DSP compute, low power consumption, and less dependence on CUDA.",
-      "summary_zh": "机器人制造商、自动驾驶汽车和人形机器人制造商一直对英伟达的成本、功耗需求以及单一供应商依赖感到不安。 黄仁勋于周四离职后，带来了领导层和战略连续性风险。 首席分析师杰克·戈德指出，尽管各公司可能不会立即抛弃英伟达，但从长远来看，它们可能不愿过度依赖英伟达的全栈技术。 同时，在黄仁勋辞职后，AMD、高盛和英特尔的股价均有所上涨。 Waymo在其第六代Robotaxi系统中采用了定制的5nm ASIC，同时在异构架构中将英伟达与AMD、Socionext、美光、三星等其他供应商并列。 Mobileye依靠EyeQ处理器以及专有的感知、高精地图和驾驶软件，从未接受过英伟达的全栈技术。 SAP与英特尔的一个自动化仓库项目依赖于开放的物理AI，使用SAP扩展仓储管理和英特尔边缘AI硬件，而未使用英伟达Isaac。 此外，库卡机器人及工业机器人合作伙伴正在采用高通Dragonwing机器人架构，该架构具备异构CPU、GPU、NPU和DSP计算能力、低功耗，且对CUDA的依赖较少。"
+      "summary": "Tesla demonstrated its Optimus humanoid robot handing out snack packets under remote control at a robotics conference in Austin, Texas, in November. Tesla had begun early production of Optimus in Fremont, California, with CEO Elon Musk stating that deliveries to outside companies could begin around the end of 2027 for industrial jobs. Musk previously noted that units are performing simple tasks in Tesla factories. Autonomous operation requires the robot to locate grips, adjust reaches, and know when to release items, while Tesla continues working to improve hand dexterity, software adaptability, and durability.",
+      "summary_zh": "特斯拉在11月于得克萨斯州奥斯汀举行的机器人会议上，演示了在其人形机器人Optimus在远程控制下分发零食包装袋。 特斯拉已在加利福尼亚州弗里蒙特开始生产Optimus的早期版本，首席执行官埃隆·马斯克表示，针对工业工作的外部公司交付预计可能在2027年底左右开始。 马斯克此前曾指出，部分机器人在特斯拉工厂内执行简单任务。 自主运行需要机器人定位抓握点、调整伸手距离并在何时释放物品做出判断，同时特斯拉正持续改进其手部灵巧度、软件适应性及耐用性。"
     },
     {
-      "date": "2026.11.13",
-      "published_at": "2026-11-13T20:39:00+09:00",
-      "headline": "JPMorgan sees U.S. humanoid robot output reaching 400,000 by 2030",
-      "source": "Audacy",
-      "url": "https://www.audacy.com/krld/news/local/jpmorgan-sees-u-s-humanoid-robot-output-reaching-400000-by-2030",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "J. P. Morgan estimates that U. S. production of humanoid robots could reach 300,000 to 400,000 units by 2030 and about 1.5 million units by 2035 as the sector shifts toward commercial use. Labor shortages, improving costs, and rising production capacity are driving adoption in manufacturing, logistics, and warehousing. Robot costs are nearing parity with labor costs, and running humanoids across multiple shifts could save roughly $100,000 annually per customer. Growth is currently constrained by supply bottlenecks in hands, actuators, artificial intelligence systems, and production capacity. Most U. S. makers excluding Tesla target annual production of 10,000 to 30,000 units, with notable players including Tesla's Optimus, Agility Robotics' Digit, Boston Dynamics' Atlas, Figure AI, and Apptronik's Apollo. Component suppliers are expected to approach a $30 billion market by 2035. Furthermore, the Trump administration’s finding that imported robotics and industrial machinery pose national security risks could lead to tariffs or domestic production incentives.",
-      "summary_zh": "摩根大通估计，随着行业从演示转向商业应用，到2030年美国人形机器人产量可能达到300,000至400,000台，到2035年左右将达到1.5 million台。 劳动力短缺、成本改善以及产能上升正在推动其在制造、物流和仓储领域的广泛应用。 机器人的成本正接近与劳动力成本持平，跨多个班次运行人形机器人每年可为每个客户节省大约$100,000的成本。 目前，增长受到手部、执行器、人工智能系统以及整体产能方面的供应瓶颈限制。 除特斯拉外，大多数美国制造商的目标是年产10,000至30,000台，重点企业包括特斯拉的Optimus、Agility Robotics的Digit、波士顿动力公司的Atlas、Figure AI以及Apptronik的Apollo。 零部件供应商市场预计到2035年将接近$30 billion。 此外，特朗普政府认定进口机器人和工业机械构成国家安全风险，这可能会导致关税出台或采取旨在促进国内生产的其他措施。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T19:48:38+09:00",
-      "headline": "专访王建安院士：中国远程机器人介入手术实现引领",
-      "source": "风闻",
-      "url": "https://user.guancha.cn/main/content?id=1772228&s=fwzlwzbt",
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T08:45:00+09:00",
+      "headline": "居家机器人，何时进家门？（融观中国）--经济·科技",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/1116/c1004-40834257.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "中国科学院院士、浙大二院院长王建安接受“医学界”专访，谈及中国远程机器人介入手术的最新进展及技术边界。 11月10日，王建安在杭州通过远程控制系统，操控4213公里外新疆克拉玛依一家医院的血管介入手术机器人，为一名53岁冠心病患者成功植入一枚3.0mm×24mm的药物支架，手术耗时不到半小时。 王建安指出，当前机器人手术平移精度可达0.5毫米，旋转精度可达0.1度，远程系统信号丢包率低于0.01%，平均延时低于200毫秒。 他认为，中国远程技术已处于第一梯队并在部分领域实现引领，但对于极其复杂的病例，仍需主刀医生在场。 浙大二院已开展过多例远程机器人诊疗，并与多家国内机器人企业合作推动产业化。 王建安判断，机器人终将达到人手难以企及的精度。",
-      "summary_zh": "中国科学院院士、浙大二院院长王建安接受“医学界”专访，谈及中国远程机器人介入手术的最新进展及技术边界。 11月10日，王建安在杭州通过远程控制系统，操控4213公里外新疆克拉玛依一家医院的血管介入手术机器人，为一名53岁冠心病患者成功植入一枚3.0mm×24mm的药物支架，手术耗时不到半小时。 王建安指出，当前机器人手术平移精度可达0.5毫米，旋转精度可达0.1度，远程系统信号丢包率低于0.01%，平均延时低于200毫秒。 他认为，中国远程技术已处于第一梯队并在部分领域实现引领，但对于极其复杂的病例，仍需主刀医生在场。 浙大二院已开展过多例远程机器人诊疗，并与多家国内机器人企业合作推动产业化。 王建安判断，机器人终将达到人手难以企及的精度。"
+      "summary": "At the Wuzhen Summit of the 2026 World Internet Conference, various home-use robots were exhibited, including a consumer-grade quadruped robotic dog by China Mobile, wheeled humanoid robots named \"Malo\" by Zeno Robot that make beds using the ZENO-1 group collaboration model, AI massage robots, and exoskeleton robots. Experts like Liu Shaoshan from AIRS categorize the challenges of bringing home robots into everyday households into four main areas: intelligence capabilities, reliable safety, cost control, and social trust. While current developments show progress in multi-task operations and generalization, developers note that real-world deployment requires overcoming variable household environments, ensuring privacy safety, and lowering production costs, with simple service robots most likely to enter homes within 3 to 5 years.",
+      "summary_zh": "在2026年世界互联网大会乌镇峰会上，多款居家服务机器人集中亮相，包括中国移动研发的消费级四足机器狗、芝诺机器人搭载ZENO-1群体协作基础模型的“Malo”轮式仿人形机器人、AI按摩机器人以及外骨骼机器人。 深圳市人工智能与机器人研究院具身智能中心主任刘少山将居家机器人入户的主要难题归为智能能力、可靠安全、成本控制和社会信任四项。 尽管机器人在多任务操作和泛化能力上不断取得进展，但研发人员指出，实际落地仍需克服复杂的家庭环境变数、隐私安全及高昂成本，预计能在未来3年至5年率先走进普通家庭的是巡护、取送物品或提供非医疗生活辅助的机器人。"
     },
     {
       "date": "2026.11.15",
@@ -95,19 +95,8 @@
       "url": "https://www.zaobao.com.sg/news/china/story20261115-10001877",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "随着具身智能投资降温，中国创投资金重新回流至半导体领域。 根据第三方统计数据，《科创板日报》报道10月具身智能领域发生33起融资，涉及金额101.05亿元，较9月的60起和110.28亿元有所下降，融资次数环比减少45%，金额下降约8.4%。 财新网指出，机器人一级市场投资环境在9月已变冷，多家企业上市进程放缓，迄今宇树科技之后无新人形机器人企业上市。 与此同时，半导体迎来新一轮上行周期，投中研究院数据显示今年第三季半导体领域发生631起投资交易，融资规模1092.43亿元，数量和金额分别同比增长52.42%和91.20%。 仅10月31日至11月6日一周，集成电路融资金额达111亿元，10月至少有10家AI晶片企业完成新一轮融资。",
-      "summary_zh": "随着具身智能投资降温，中国创投资金重新回流至半导体领域。 根据第三方统计数据，《科创板日报》报道10月具身智能领域发生33起融资，涉及金额101.05亿元，较9月的60起和110.28亿元有所下降，融资次数环比减少45%，金额下降约8.4%。 财新网指出，机器人一级市场投资环境在9月已变冷，多家企业上市进程放缓，迄今宇树科技之后无新人形机器人企业上市。 与此同时，半导体迎来新一轮上行周期，投中研究院数据显示今年第三季半导体领域发生631起投资交易，融资规模1092.43亿元，数量和金额分别同比增长52.42%和91.20%。 仅10月31日至11月6日一周，集成电路融资金额达111亿元，10月至少有10家AI晶片企业完成新一轮融资。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T17:51:51+09:00",
-      "headline": "永达汽车首批采购400台优必选超仿生人形机器人U1 Pro",
-      "source": "观点网",
-      "url": "https://www.guandian.cn/article/20261115/627818.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "优必选（09880. HK）与永达汽车（03669. HK）签署战略合作协议，永达汽车将首批采购400台优必选超仿生人形机器人U1 Pro，优必选计划今年内交付。 双方将围绕消费产品销售、行业应用开发、体验与交付服务、数据及生态合作展开互补合作。 面向消费市场，双方以优必选U1系列为切入点开展合作，形成可复制的仿生人形机器人消费端销售服务模式。 面向行业客户，双方在汽车零售服务场景开展需求调研、方案设计、产品销售与租赁等合作，推进具身智能应用技术二次开发、方案优化和项目落地。 此外，双方计划在上海共建优必选全系列机器人体验展示中心，打造运营窗口。",
-      "summary_zh": "优必选（09880. HK）与永达汽车（03669. HK）签署战略合作协议，永达汽车将首批采购400台优必选超仿生人形机器人U1 Pro，优必选计划今年内交付。 双方将围绕消费产品销售、行业应用开发、体验与交付服务、数据及生态合作展开互补合作。 面向消费市场，双方以优必选U1系列为切入点开展合作，形成可复制的仿生人形机器人消费端销售服务模式。 面向行业客户，双方将在汽车零售服务场景开展需求调研、方案设计、产品销售与租赁等合作，推进具身智能应用技术二次开发、方案优化和项目落地。 此外，双方计划在上海共建优必选全系列机器人体验展示中心，打造运营窗口。"
+      "summary": "Investment in the embodied AI sector has experienced a cooling phase in China, with primary market funding shifting back toward the semiconductor industry. According to third-party statistics cited by The 科创板日报, October saw 33 financing rounds in the embodied AI sector totaling 10.105 billion RMB (approximately 1.952 billion SGD), representing a 45 percent decrease in financing count and an 8.4 percent drop in total amount compared to September's 60 rounds and 110.28 billion RMB. Following negative industry news, slowing IPO processes for humanoid robot companies, and a broader global tech stock correction, primary market investors have redirected focus to semiconductors, which have entered a new upward cycle with third-quarter investments reaching 1092.43 billion RMB across 631 deals, and multiple AI chip enterprises securing large-scale funding rounds in October.",
+      "summary_zh": "随着具身智能投资降温，中国创投资金重新转向半导体领域。 根据《科创板日报》引用的第三方统计数据，10月具身智能领域发生33起融资，涉及金额101.05亿元（约19.52亿新元），融资次数环比减少45%，金额下降约8.4%，相比9月的60起和110.28亿元收缩明显。 伴随行业负面消息、具身智能企业上市进程放缓以及全球科技股回调，一级市场资金重新寻找投资主线，半导体迎来新一轮上行周期；投中研究院数据显示今年第三季半导体领域发生631起投资交易，融资规模达1092.43亿元，且10月有至少10家AI晶片企业完成新一轮10亿元级融资。"
     },
     {
       "date": "2026.11.15",
@@ -117,41 +106,41 @@
       "url": "https://www.gasgoo.com/robot/news/70477997-%E5%B0%8F%E6%99%BA%E4%B8%80%E5%91%A8%E8%A6%81%E9%97%BB-%E5%9D%87%E8%83%9C%E7%94%B5%E5%AD%90%E5%90%91%E5%AE%87%E6%A0%91%E4%BA%A4%E4%BB%98%E5%A4%A7%E8%84%91%E8%83%8C%E5%8C%85/",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "具身智能领域近期发生多项大事。 均胜电子旗下宁波超平面机器人科技公司向宇树科技交付了首台机器人高算力大脑背包，双方正加速推进机器人关键部件及工业场景应用共研。 禾赛科技（NASDAQ:HSAI；HKEX:2525）公布第三季度财报，实现营收10.7亿元，GAAP净利润8,079万元，其机器人动力模组交付量为23,405套，累计出货35,295套。 优必选与永达汽车签署战略合作协议，永达首批采购400台超仿生人形机器人U1 Pro并计划年内交付。 中鼎股份发行19.2亿元可转债“中鼎转03”并在深交所上市，募资加码机器人核心关节、热管理等项目。 上纬新材旗下启元机器人第10000台个人机器人正式下线。 拓斯达发布工业双足人形机器人Star。 英伟达发布GR00T 2与Isaac Lab 3.0。 谷歌DeepMind发布Gemini Robotics 2.5，并在奔驰工厂测试成功率达96%。 韩国政府公布物理AI核心零部件扶持计划，预算安排523亿韩元。",
-      "summary_zh": "具身智能领域近期发生多项大事。 均胜电子旗下宁波超平面机器人科技公司向宇树科技交付了首台机器人高算力大脑背包，双方正加速推进机器人关键部件及工业场景应用共研。 禾赛科技（NASDAQ:HSAI；HKEX:2525）公布第三季度财报，实现营收10.7亿元，GAAP净利润8,079万元，其机器人动力模组交付量为23,405套，累计出货35,295套。 优必选与永达汽车签署战略合作协议，永达首批采购400台超仿生人形机器人U1 Pro并计划年内交付。 中鼎股份发行19.2亿元可转债“中鼎转03”并在深交所上市，募资加码机器人核心关节、热管理等项目。 上纬新材旗下启元机器人第10000台个人机器人正式下线。 拓斯达发布工业双足人形机器人Star。 英伟达发布GR00T 2与Isaac Lab 3.0。 谷歌DeepMind发布Gemini Robotics 2.5，并在奔驰工厂测试成功率达96%。 韩国政府公布物理AI核心零部件扶持计划，预算安排523亿韩元。"
+      "summary": "In the embodied AI sector, several developments occurred: Joyson Electronic's subsidiary delivered its first high-computing-power brain backpack to Unitree; Hesai Technology reported cumulative robot power module shipments exceeding 35,295 units, with Q3 revenue reaching 10.7 billion RMB and GAAP net profit at 80.79 million RMB; Yueda Auto agreed to procure 400 Youibot U1 Pro humanoid robots; Zhongding Group listed 1.92 billion RMB in convertible bonds to fund robot parts and thermal management; Qizhi Robot rolled out its 10,000th personal robot; Tostada released its industrial bipedal humanoid robot Star; NVIDIA released GR00T 2 and Isaac Lab 3.0; Google DeepMind upgraded its Gemini Robotics 2.5 model, achieving a 96 percent success rate in Mercedes-Benz factory tests; and the South Korean government announced a 52.3 billion KRW core component support plan for sensors, actuators, and humanoid robot batteries.",
+      "summary_zh": "具身智能领域近期发生多项重要进展：均胜电子旗下公司向宇树科技交付了首台机器人高算力大脑背包；禾赛科技公布2026年第三季度实现营收10.7亿元、GAAP净利润8,079万元，机器人动力模组累计出货超3.5万套；永达汽车采购400台优必选U1 Pro超仿生人形机器人；中鼎股份19.2亿元可转债在深交所挂牌上市以加码机器人零部件和热管理；启元机器人第10000台个人机器人正式下线；拓斯达发布工业双足人形机器人Star；英伟达发布GR00T 2与Isaac Lab 3.0；谷歌DeepMind推出Gemini Robotics 2.5模型并在奔驰工厂测试中取得96%成功率；韩国政府则公布了涵盖传感器、执行器和人形机器人电池共计523亿韩元的物理AI核心零部件扶持计划。"
     },
     {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T14:20:58+09:00",
-      "headline": "观察丨OpenAI撤销独立机器人团队，通用模型“打穿”具身智能？",
-      "source": "ThePaper.cn",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34476767",
+      "date": "2026.11.13",
+      "published_at": "2026-11-13T12:23:00+09:00",
+      "headline": "优必选联手沐曦，机器人芯片2028年量产",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261113/herald/52fdd685f52c0ae8b6e9eb9b149a1425.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "通用大模型在机器人领域的进展促使行业重新思考研发路径。 外媒报道OpenAI已确认撤销独立机器人团队，研究人员并入核心研究团队，应用机器人及硬件团队转入应用部门。 同时，多款通用模型在仿真测试和真机实践中开始接手机器人任务。 英伟达Astranomy研究显示基于GPT-6 Astra的智能体方案在RoboLab-120仿真操作基准中取得74.8%的成功率。 Anthropic发布Claude Fable 5.2与Mythos 5.2，在RoboDojo Sim双臂机器人仿真测试中Fable 5.2得分为64.9%。 国内企业如宇树科技使用GPT-6开展绘画、规划导航等测试，优必选则测试了通用模型直接控制和与具身模型协同的路径。 谷歌DeepMind发布Gemini Robotics 2.5，并在奔驰工厂测试中实现96%的任务成功率。 不过，通用模型在实际应用中仍需解决延迟和成本问题。",
-      "summary_zh": "通用大模型在机器人领域的进展促使行业重新思考研发路径。 外媒报道OpenAI已确认撤销独立机器人团队，研究人员并入核心研究团队，应用机器人及硬件团队转入应用部门。 同时，多款通用模型在仿真测试和真机实践中开始接手机器人任务。 英伟达Astranomy研究显示基于GPT-6 Astra的智能体方案在RoboLab-120仿真操作基准中取得74.8%的成功率。 Anthropic发布Claude Fable 5.2与Mythos 5.2，在RoboDojo Sim双臂机器人仿真测试中Fable 5.2得分为64.9%。 国内企业如宇树科技使用GPT-6开展绘画、规划导航等测试，优必选则测试了通用模型直接控制和与具身模型协同的路径。 谷歌DeepMind发布Gemini Robotics 2.5，并在奔驰工厂测试中实现96%的任务成功率。 不过，通用模型在实际应用中仍需解决延迟和成本问题。"
+      "summary": "Xixuan Chuangzhi, an embodied AI chip company co-founded by MetaX and UBTECH, completed an angel round of financing totaling 500 million RMB with a post-investment valuation of 4.0 billion RMB, co-led by GGV Capital and Matrix Partners China alongside several other institutional investors. The company plans to use the funds for mainstream SoC R&D, software toolchains, team building, and engineering phases from sample testing to mass production delivery, targeting tape-out in the second half of 2027 and mass production in 2028 with a product aiming to surpass NVIDIA's Jetson AGX Thor. MetaX and UBTECH each hold approximately 35.01 percent equity. Meanwhile, MetaX reported first-three-quarter revenue of 2.824 billion RMB with a net profit of 639 million RMB, and UBTECH reported first-half revenue of 1.269 billion RMB with a net loss of 339 million RMB while selling 921 full-size embodied robots.",
+      "summary_zh": "沐曦股份与优分子（优必选）联手创办的具身智能芯片公司曦选创智完成5亿元人民币天使轮融资，投后估值40亿元，由纪源资本、经纬创投联合领投及多家机构跟投。 该轮融资将用于主控SoC研发、软件工具链、团队建设及量产交付工程化环节，首款机器人主控SoC计划2027年下半年流片、2028年量产，目标全面超过英伟达NVIDIA Jetson AGX Thor，沐曦与优必选各持股35.01%并列第一大股东。 财务方面，沐曦股份前三季度营业收入28.24亿元、归母净利润6.39亿元，优必选上半年营业收入12.69亿元、期内亏损3.39亿元并卖出921台全尺寸具身机器人。"
     },
     {
       "date": "2026.11.13",
-      "published_at": "2026-11-13T17:00:00+09:00",
-      "headline": "未来機械、墨出しロボット「SUMIDAS」で日本ロボット学会「実用化技術賞」を受賞",
-      "source": "山陽新聞",
-      "url": "https://www.sanyonews.jp/article/2010659",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "株式会社未来機械、竹中工務店、レンタルのニッケンが共同開発した墨出しロボット「SUMIDAS」が、一般社団法人日本ロボット学会の2026年度第31回「実用化技術賞」を受賞した。 表彰式は2026年9月3日に行われた。 SUMIDASは、建築施工における墨出し作業を自動で行う自走式ロボットシステムで、3次元レーザ測量機で位置を計測しながらCADデータに基づいて床面に描画する。 竹中工務店が基本特許の発明と試作機開発を、未来機械が商用機の開発と製造を、レンタルのニッケンがレンタル事業をそれぞれ担当している。 未来機械は今後も機体の製造と供給を担い、海外市場向けには共通技術を用いたロボット「HOKUSAI」も展開する。",
-      "summary_zh": "株式会社未来機械、竹中工務店、レンタルのニッケンが共同開発した墨出しロボット「SUMIDAS」が、一般社団法人日本ロボット学会の2026年度第31回「実用化技術賞」を受賞した。 表彰式は2026年9月3日に行われた。 SUMIDASは、建築施工における墨出し作業を自動で行う自走式ロボットシステムで、3次元レーザ測量機で位置を計測しながらCADデータに基づいて床面に描画する。 竹中工務店が基本特許の発明と試作機開発を、未来機械が商用機の開発と製造を、レンタルのニッケンがレンタル事業をそれぞれ担当している。 未来機械は今後も機体の製造と供給を担い、海外市場向けには共通技術を用いたロボット「HOKUSAI」も展開する。"
+      "published_at": "2026-11-13T12:19:00+09:00",
+      "headline": "优必选把400台“情感陪伴”人形机器人卖给了豪车销售集团",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261113/herald/434564008ddce2c6e62e2b8a32b200e9.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月11日，优必选与港股上市汽车销售服务集团永达汽车签署战略合作协议，永达首批采购400台优必选超仿生人形机器人U1 Pro，计划年内交付。 双方将在产品销售、行业应用、交付服务及汽车零售场景展开合作，并计划在上海共建机器人体验展示中心。 U1 Pro售价16.98万元，具备88个高自由度关节和情感大模型，主打家庭情感陪伴。 优必选2026年上半年总销量16123台，营收12.7亿元，全尺寸具身智能人形机器人业务成主要收入来源。 受利好刺激，优必选11月12日早盘高开后走低，午间收盘报75.65港元。",
+      "summary_zh": "11月11日，优必选与港股上市汽车销售服务集团永达汽车签署战略合作协议，永达首批采购400台优必选超仿生人形机器人U1 Pro，计划年内交付。 双方将在产品销售、行业应用、交付服务及汽车零售场景展开合作，并计划在上海共建机器人体验展示中心。 U1 Pro售价16.98万元，具备88个高自由度关节和情感大模型，主打家庭情感陪伴。 优必选2026年上半年总销量16123台，营收12.7亿元，全尺寸具身智能人形机器人业务成主要收入来源。 受利好刺激，优必选11月12日早盘高开后走低，午间收盘报75.65港元。"
     },
     {
       "date": "2026.11.13",
-      "published_at": "2026-11-13T13:30:00+09:00",
-      "headline": "【12/18東京】「ニーズ・シーズマッチング交流会2026」産総研・産総研・柴田崇徳氏が語る『障害福祉分野におけるメンタルヘルスロボット・パロの活用事例』特別講演決定！",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000050_000144328/",
+      "published_at": "2026-11-13T13:00:00+09:00",
+      "headline": "Ring「Drone Cam」は家の中を自律飛行する249.99ドルの防犯ドローン 業務用ロボット「Rover Cam」も発表、日本で買える？",
+      "source": "インターネットコム",
+      "url": "https://internetcom.jp/211357",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "12月18日、東京都立産業貿易センター台東館で開催される「ニーズ・シーズマッチング交流会2026」にて、アザラシ型ロボット「パロ」の生みの親である産業技術総合研究所上級主任研究員・柴田崇徳氏による特別講演「障害福祉分野におけるメンタルヘルスマシン・パロの活用事例」の実施が決定した。 パロは最先端の身体性人工知能を搭載したメンタルヘルスロボットで、国内では福祉用具の選定機器第1号、海外では医療機器として臨床試験が行われ、気分の向上やストレス低減などの効果が実証されている。 講演では高齢者ケアに加え、障害福祉分野でのリハビリ支援やコミュニケーションの可能性についての事例が紹介される。 本交流会は、福祉現場のニーズと企業の技術シーズを結びつけるイベントで、過去最高となる131の企業・団体などが出展する。",
-      "summary_zh": "12月18日、東京都立産業貿易センター台東館で開催される「ニーズ・シーズマッチング交流会2026」にて、アザラシ型ロボット「パロ」の生みの親である産業技術総合研究所上級主任研究員・柴田崇徳氏による特別講演「障害福祉分野におけるメンタルヘルスマシン・パロの活用事例」の実施が決定した。 パロは最先端の身体性人工知能を搭載したメンタルヘルスロボットで、国内では福祉用具の選定機器第1号、海外では医療機器として臨床試験が行われ、気分の向上やストレス低減などの効果が実証されている。 講演では高齢者ケアに加え、障害福祉分野でのリハビリ支援やコミュニケーションの可能性についての事例が紹介される。 本交流会は、福祉現場のニーズと企業の技術シーズを結びつけるイベントで、過去最高となる131の企業・団体などが出展する。"
+      "summary": "Amazon傘下のRingが、室内を自律飛行して2K映像を撮影する防犯カメラ「Ring Drone Cam」を発表した。 価格は249.99ドルで、米国で2027年1月27日に出荷予定である。 充電ドックで待機制し、予定ルートや他のRing機器の反応に合わせて飛行する仕様で、録画中はLEDで通知し映像は暗号化される。 定期飛行や定期巡回には有料の「Ring Protect」プランが必要となる。 また、業務用巡回ロボット「Ring Rover Cam」も999.99ドルで12月16日に米国出荷予定と発表された。 発表時点では両製品とも米国向けであり、日本での発売は未定となっている。",
+      "summary_zh": "亚马逊旗下的Ring发布了室内自律飞行防犯摄像机Ring Drone Cam，售价249.99美元，计划于2027年1月27在美国出货。 该设备平时在充电底座待机，按设定路线或响应其他Ring设备时飞行拍摄，录画时有LED提示且视频经过加密，部分定期飞行和巡回功能需要付费的Ring Protect计划。 此外还发布了业务用巡回机器人Ring Rover Cam，售价999.99美元，计划于12月16日在美国出货。 发布时两款产品均为美国市场打造，日本发售时间未定。"
     },
     {
       "date": "2026.11.13",
@@ -161,8 +150,8 @@
       "url": "https://dxmagazine.jp/news/ytoda2649-32/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "株式会社CoLabは2026年11月10日、独自開発したAIロボット技術および設備が、2026年5月からトヨタ自動車株式会社の量産ラインに導入され、発表時点まで安定して稼働していると発表した。 CoLabは2015年の設立で、画像認識による視覚情報、触覚センサー、ロボット制御、AI技術を組み合わせたシステムの研究開発を進めており、組立工場の自動化を目指している。 2024年からは自動車や電気機器メーカーなどの工場でシステムが本格稼働している。 今回のトヨタの量産ラインにおける具体的な設備の構成や対象工程、生産性の改善率は明らかにされていないが、AIが現実世界の情報を認識しロボットの動作につなげる「フィジカルAI」の領域として注目されている。",
-      "summary_zh": "株式会社CoLab于2026年11月10日宣布，其独自开发的AI机器人技术与设备已于2026年5月起导入丰田汽车公司的量产线，并在发布时保持稳定运行。 CoLab成立于2015年，致力于研发结合图像识别视觉信息、触觉传感器、机器人控制及AI技术的系统，旨在实现组装工厂自动化，自2024年起在汽车和电气设备制造商等工厂开始正式运行。 此次在丰田量产线中运行的具体设备配置、对象工序以及生产效率改善率尚未公开，但该技术作为AI识别现实世界信息并连接机器人动作的“物理AI”领域备受关注。"
+      "summary": "2026年11月10日、株式会社CoLabは、同社が独自開発したAIロボット技術および設備が、2026年5月からトヨタ自動車株式会社の量産ラインに導入され、安定稼働していると発表した。 製造現場の負担軽減などを目的に進められている取り組みの一環であり、CoLabは画像認識、触覚センサー、ロボット制御、AIを組み合わせたシステムの研究開発を行っている。 2015年設立の同社は2024年から自動車や電気機器メーカーの工場でシステム稼働を開始しており、今回の発表では具体的な設備の構成や対象工程、生産性改善率は明らかにされていない。",
+      "summary_zh": "2026年11月10日，株式会社CoLab宣布，其独立开发的AI机器人技术与设备已于2026年5月起引入丰田汽车株式会社的量产路线并实现稳定运转。 此举旨在减轻制造现场的负担，CoLab致力于研发结合图像认识、触觉传感器、机器人控制与AI的系统。 该公司成立于2015年，自2024年起在汽车和电气设备制造商的工厂正式运行开发系统，此次发布未透露设备的具体构成、对象工序及生产效率改善率。"
     },
     {
       "date": "2026.11.14",
@@ -172,8 +161,30 @@
       "url": "https://www.value-press.com/pressrelease/384442",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Maniformer made its official Japan debut at NexTech Week 2026 Autumn held at Makuhari Messe on November 11, 2026. The company showcased its physical AI data platform for robotics and embodied intelligence, presenting devices such as the MEgo Gripper, MEgo View, and MEgo Glove, which record human actions with sub-millimeter precision. These tools collect multi-modal data—including visual, spatial, and tactile inputs—without requiring actual robots, feeding the information into the MEgo Engine for preprocessing, spatial recognition, and annotation. By the end of August 2026, Maniformer accumulated over 1 million hours of data collected in open real-world environments without using robots, building a dataset designed to help robots understand physical interactions and collaborate naturally with humans across factories, logistics, retail, and households.",
-      "summary_zh": "Maniformer于2026年11月11日在幕张メッセ举办的NexTech Week 2026秋季展上首次在日本正式亮相。 该公司展示了面向机器人与具身智能领域的物理AI数据平台，展出了无需使用机器人本体即可采集人类作业数据的MEgo系列设备，包括MEgo Gripper、MEgo View和MEgo Glove，能够以1毫米不到的精度同步记录视觉、动作和触觉等信息。 收集到的数据会进入MEgo Engine进行前处理、空间认识和标注等分析。 截至2026年8月末，在开放的实际环境中未使用机器人本体收集并创建的数据已累计超过100万小时，旨在帮助机器人在工厂、物流、零售和家庭等实际场景中更好地理解物理环境并完成任务。"
+      "summary": "2026年11月11日、幕張メッセで開催されたNexTech Week 2026 秋のAI・人工知能EXPOにて、Maniformerは日本市場で正式初披露となりました。 同社はフィジカルAIのデータプラットフォームとして、ロボット本体を使わずにデータを収集できる「MEgo」シリーズ（MEgo Gripper、MEgo View、MEgo Glove）やデータプラットフォーム「MEgo Engine」を展示しました。 これにより、視覚・動作・触覚などの情報を1ミリ未満の精度で同期して記録し、製造、物流、小売、家庭、飲食、オフィスなどでのロボット実用化を後押しすることを目指しています。 2026年8月末時点で、実世界のオープンな環境において収集・作成したデータは累計100万時間を超えています。",
+      "summary_zh": "2026年11月11日，觅蜂科技（Maniformer）在日本幕张国际展览中心举办的2026秋季NexTech Week人工智能展上首次亮相日本市场。 作为具身智能领域的物理AI数据平台，该公司展示了无需实体机器人即可收集数据的MEgo系列设备（包括MEgo Gripper、MEgo View和MEgo Glove）以及MEgo Engine数据平台。 这些工具能够以小于1毫米的精度同步记录视觉、运动和触觉等信息，旨在推动机器人在工厂、物流、零售、家庭、餐饮和办公室等真实环境中的实用化。 截至2026年8月底，其在真实开放环境中收集和创建的数据已累计超过100万小时。"
+    },
+    {
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T10:00:00+09:00",
+      "headline": "LG, KIRIA sign MOU to bolster humanoid robot safety and quality",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-it/2026/11/16/4UYYKH4WHNEBFOZ7KADB2SOKBM/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "LGエレクトロニクスは韓国ロボット産業振興院（KIRIA）と、ヒューマノイドロボットの安全性と品質競争力を強化するための業務提携（MOU）を12月13日にソウルのLGツインタワーで締結しました。 KIRIAのチョ・ヨンフン院長とLGエレクトロニクスのキム・チャンミン品質経営センター長が出席し、安全性と使いやすさを評価するシステムの共同構築に合意しました。 LGエレクトロニクスはKIRIAのヒューマノイドロボット安全認証センターの評価システム構築や国際・国内標準の開発に参加し、自社の「LG CLOiD」で国内のパイロット安全認証の取得を目指します。 NVIDIAのロボティクス技術を活用した二足歩行ロボットを来年第1四半期に公開する予定です。",
+      "summary_zh": "LG电子于12月13日在首尔汝矣岛LG双子塔与韩国机器人产业振兴院（KIRIA）签署了一份谅解备忘录，旨在加强其人形机器人的安全性和质量竞争力。 KIRIA院长赵永勋和LG电子品质管理中心负责人金昌民出席了签约仪式。 双方同意共同建立评估人形机器人安全性和可用性的系统。 LG电子将参与KIRIA人形机器人安全认证中心的评估系统建设以及国际和国内标准的制定，并计划为其内部的LG CLOiD人形机器人争取国内试点安全认证。 该公司正利用英伟达的机器人技术开发双足机器人，计划在明年第一季度将其揭晓。"
+    },
+    {
+      "date": "2026.11.16",
+      "published_at": "2026-11-16T03:38:11+09:00",
+      "headline": "Humanoid robotics startup Foundation Future Industries misses payroll amid cash crisis",
+      "source": "The American Bazaar",
+      "url": "https://americanbazaaronline.com/2026/11/15/foundation-future-industries-misses-payroll-sankaet-pathak-loan-492327/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "サンフランシスコを拠点とするエリック・トランプ氏支援の人型ロボット新興企業Foundation Future Industriesは、共同創業者兼CEOのサンカエト・パタク氏が会社から460万ドルを借り入れてカリフォルニア州サウサルートの高級住宅を購入した資金繰りの問題を受け、10月30日の給与支払いを履行できませんでした。 同社は8月にも給与不足に直面していました。 パタク氏は唯一の取締役であり過半数の株式を保有する構造をとっており、これが投資家からの懸念を招いています。 同社は1月以降、30億ドルの企業価値での資金調達を模索しており、パタク氏の前回のベンチャー企業Synapseの破綻を巡る問題も重なり、厳しく審査されています。",
+      "summary_zh": "据CNBC报道，获得埃里克·特朗普支持的旧金山人形机器人初创公司Foundation Future Industries因联合创始人兼CEO桑卡埃特·帕塔克从公司借款460万美元在加利福尼亚州索萨利托购买豪宅，导致现金流出现问题，未能发放10月30日的员工薪资。 知情人士称，该公司在8月也曾面临薪资短缺。 帕塔克是Foundation唯一的董事会成员并拥有多数股份，这种公司结构引发了投资者的治理担忧。 自1月以来，该公司一直寻求以30亿美元的估值筹集数亿美元资金。 此次薪资危机也让人重新审视帕塔克此前作为金融科技公司Synapse倒闭所引发的争议。"
     },
     {
       "date": "2026.11.15",
@@ -183,19 +194,8 @@
       "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/107133/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Swiss robotics company Embodied AI unveiled its AIR humanoid robot at Humanoid Europe 2026, designed to work alongside people on factory floors. Featuring a tendon-driven architecture with motors and electronics housed in the torso, AIR operates on wheels for stability and complies with ISO/TS 15066:2016, with CE marking planned for 2027. To learn tasks, AIR operates under a human operator's control from its first shift while recording every run, allowing Embodied AI's software stack to learn the task typically within a month. Co-founder and CEO Francesco Stella, alongside CTO Kai Junge and COO Max Polzin, leads the company, which is backed by investors including Faber, TechShop, Look AI Ventures, Plug and Play, and Vento.",
-      "summary_zh": "瑞士机器人公司Embodied AI在Humanoid Europe 2026上推出了旨在与人类共同在工厂车间工作的AIR人形机器人。 AIR采用线缆驱动架构，电机、齿轮箱和电子元件均置于躯干内，为了稳定性和适应平坦的工厂地面而采用轮式设计，并按照ISO/TS 15066:2016标准设计，计划于2027年获得CE标志。 为了学习并保证工厂正常运行时间，AIR在第一班起便在人类操作员的控制下开始工作，每次运行都会被记录下来，Embodied AI的软件栈通过这些示范进行学习，通常在一个月内就能让AIR独立完成任务。 该公司由联合创始人兼CEO弗朗切斯科·斯特拉（Francesco Stella）、CTO凯·容格（Kai Junge）和COO马克斯·波尔津（Max Polzin）共同创立，并获得了Faber、TechShop、Look AI Ventures、Plug and Play以及Vento等投资机构的支持。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T17:42:38+09:00",
-      "headline": "Agility Robotics (AGLT) Stock Price, Chart & Analysis",
-      "source": "www.debelegger.nl",
-      "url": "https://www.debelegger.nl/en/stock/AGLT.US",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Agility Robotics, traded on the Nasdaq under the ticker AGLT, reported key figures as of mid-November 2026. The company has a market capitalization of $1.67 billion, with its last traded price recorded at $7.36 as of November 13, 2026. Over the past 52 weeks, the stock reached a high of $19.69 and a low of $6.59. Agility Robotics made no profit over the preceding twelve months, resulting in no price-to-earnings ratio, and paid no dividend. Revenue growth was flat at 0% in the last quarter compared to the same period a year earlier, and earnings per share also saw 0% growth.",
-      "summary_zh": "在纳斯达克交易的Agility Robotics（股票代码为AGLT）公布了截至2026年11月中旬的关键财务数据。 该公司的市值为1.67亿美元，截至2026年11月13日22:21的最新收盘价为$7.36。 在过去的52周中，其最高股价为$19.69，最低股价为$6.59。 Agility Robotics在过去十二个月中没有实现利润，因此没有市盈率指标，并且不支付股息。 与去年同期相比，该公司上一季度的营收增长率为0%，每股收益增长率同样为0%。"
+      "summary": "スイスのロボット企業Embodied AIは、Humanoid Europe 2026において、工場で人と共に働くために設計された人型ロボット「AIR」を発表しました。 製造業での人手不足に対応するため、AIRは従来のロボットでは対応が難しい反復的な手作業を行います。 AIRは車輪で移動し、腱駆動構造の軽い腕を備えており、ISO/TS 15066:2016に基づいて設計され、2027年のCEマーキング取得を目指しています。 稼働開始時は人間のオペレーターが作業を制御し、同社のAIスタックがデモンストレーションから学習することで、通常1ヶ月以内に自律的にタスクを遂行できるようになります。 共同創業者兼CEOのフランチェスコ・ステラ氏は、物理AIの実用化における安全性と信頼性の重要性を強調しています。",
+      "summary_zh": "瑞士机器人公司Embodied AI在Humanoid Europe 2026上推出了AIR人形机器人，这是一种旨在与人类共享工厂车间的机器人。 为了应对制造业劳动力短缺，AIR承担了传统机器人难以应对的重复性手工任务。 AIR采用轮式移动，其肌腱驱动的手臂较轻且触碰时会顺应，按照ISO/TS 15066:2016标准设计，计划于2027年获得CE标志。 在开始工作时，AIR由人类操作员控制，Embodied AI的AI技术栈会从这些演示中学习，通常在一个月内就能让机器人自行完成任务。 联合创始人兼CEO弗朗切斯科·斯特拉强调了安全性和可靠性是物理AI大规模进入现实世界的非谈判要求。"
     },
     {
       "date": "2026.11.15",
@@ -205,19 +205,8 @@
       "url": "https://shattered.io/tesla-optimus-early-production-fremont-1-million-robots-year/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Tesla has initiated early production of its Optimus humanoid robot at its facility in Fremont, California, according to shareholder materials and reports from Interesting Engineering on its 2027 plan. The planned production line in Fremont is sized for a capacity of approximately 1 million robots per year. Elon Musk stated that reaching that output rate could take a year or longer as the company continues to refine production-design configurations, and he indicated that external deliveries to outside companies are anticipated around the end of 2027.",
-      "summary_zh": "根据股东材料以及Interesting Engineering对其2027年计划的报道，特斯拉已在其加利福尼亚州弗里蒙特工厂开始对其Optimus人形机器人进行“早期生产”。 计划中的弗里蒙特生产线规模约为每年100万台机器人。 埃隆·马斯克表示，由于公司仍在调整不同的生产设计配置，达到这一生产速度可能需要一年甚至更长的时间，并指出向外部公司交付预计将在2027年底左右开始。"
-    },
-    {
-      "date": "2026.11.13",
-      "published_at": "2026-11-13T20:34:26+09:00",
-      "headline": "Apple HALO Humanoid Robot: 91% on Unitree G1",
-      "source": "shattered.io",
-      "url": "https://shattered.io/apple-halo-humanoid-robot-unitree-g1-91-percent-360-trials/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Apple researchers published a paper on arXiv on November 4, 2026, detailing a humanoid-robot control system named HALO, which was tested on a commercially available Unitree Robotics G1 humanoid. During evaluations across six unseen real-world environments over 360 single-task trials, HALO achieved an average success rate of 91%. The robot operated locally using an onboard Mac mini equipped with an M4 Pro chip and 64GB of unified memory, running a task-planning model developed by Alibaba named Qwen3.6-35B-A3B. Training utilized approximately 300 hours of simulated human-like motion data generated across about 1,000 virtual rooms.",
-      "summary_zh": "苹果研究人员于2026年11月4日在arXiv上发表了一篇论文，详细介绍了一个名为HALO的人形机器人控制系统，该系统在市面上销售的宇树科技G1人形机器人上进行了测试。 在跨越六个未曾见过的真实环境、共计360次单任务试验的评估中，HALO取得了91%的平均成功率。 机器人通过板载搭载M4 Pro芯片和64GB统一内存的Mac mini进行本地运行，并使用了阿里巴巴开发的任务规划模型Qwen3.6-35B-A3B。 训练过程利用了在约1,000个虚拟房间内生成的约300小时模拟人类运动数据。"
+      "summary": "テスラはカリフォルニア州フリーモントの施設で人型ロボット「オプティマス」の「初期生産」を開始しました。 同社の株主向け資料によると、最初のユニットは「製造した初の生産品質のボット」とされています。 計画されているフリーモントの生産ラインの規模は年間約100万台で、イーロン・マスク氏は、生産設計の構成を調整しているため、その生産レートに達するには「1年、あるいはそれ以上」かかる可能性があると述べています。 外部企業へのオプティマスの納入は2027年末頃に予定されています。 テスラはこれまでに完成したオプティマスの正確な台数を公表しておらず、外部顧客向けの単価やレンタル価格、契約条件も明らかにしていません。",
+      "summary_zh": "根据Interesting Engineering对特斯拉2027年计划的报道，特斯拉已在其加利福尼亚州弗里蒙特工厂开始对其Optimus人形机器人进行“早期生产”。 该公司的股东材料将首批产品描述为“我们制造的首批具备生产质量的机器人”。 计划中的弗里蒙特生产线规模为每年约100万个机器人。 埃隆·马斯克表示，由于特斯拉仍在改进不同的生产设计配置，达到这一速率可能需要“一年，甚至更长时间”。 他还指出，向特斯拉外部公司的交付预计在2027年底左右。 特斯拉尚未透露迄今为止下线的Optimus具体数量，也未公布外部客户的单价、租赁价格或合同条款。"
     }
   ]
 }
