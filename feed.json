@@ -1,10 +1,10 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-17T05:58:35.769971+09:00",
+  "updated_at": "2026-11-17T14:03:43.401008+09:00",
   "status": {
-    "state": "ok",
-    "checked_at": "2026-11-17T05:58:35.769971+09:00",
-    "latest_article_at": "2026-11-17T03:17:51+09:00",
+    "state": "partial",
+    "checked_at": "2026-11-17T14:03:43.401008+09:00",
+    "latest_article_at": "2026-11-17T13:36:06+09:00",
     "articles": 20,
     "sections": {
       "美国 / United States": 5,
@@ -13,9 +13,20 @@
       "Humanoid Robotics": 5
     },
     "shortfalls": {},
-    "translations_missing": 0
+    "translations_missing": 2
   },
   "articles": [
+    {
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T08:05:38+09:00",
+      "headline": "Hyundai Motor Group Secures 100% Stake in Boston Dynamics... Speeds Up Robot Mass Production",
+      "source": "파이낸셜뉴스",
+      "url": "https://en.fnnews.com/news/202611170803502912",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Boston Dynamics’ Atlas is learning automotive manufacturing tasks at the Robotics Metaplant Application Center (RMAC). Courtesy of Boston Dynamics [Financial News] Hyundai Motor Group is expected to accelerate the commercialization of humanoid robots after securing a 100% stake in U. S. robotics company Boston Dynamics.",
+      "summary_zh": ""
+    },
     {
       "date": "2026.11.16",
       "published_at": "2026-11-16T18:45:41+09:00",
@@ -24,19 +35,19 @@
       "url": "https://cyprus-mail.com/2026/11/16/cyprus-robotics-startup-autonomics-prepares-for-us-debut-in-las-vegas",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Cyprus-based robotics startup Autonomics is preparing for its US market debut in Las Vegas on November 17, showcasing its autonomous cleaning technology at the ISSA Show North America. Backed by venture capital firm Kinisis Ventures and strategic investor ASBIS Group, Autonomics will demonstrate its COMBO cleaning robot in the event's Robotics and Autonomous Cleaning Experience area. The COMBO robot is designed for round-the-clock operation in industrial and warehousing environments and is managed through an AI-based fleet orchestration software platform. The company's US expansion follows growing demand for automation to address labor shortages, with preparations led by US operations director Dominic Panayi after securing a €1 million bridge financing round in October.",
-      "summary_zh": "总部位于塞浦路斯的机器人初创公司Autonomics正准备于11月17日在拉斯维加斯进行其美国市场首秀，在北美国际清洁保洁展（ISSA Show North America）上展示其自动清洁技术。 在风险投资公司Kinisis Ventures和战略投资者ASBIS Group的支持下，Autonomics将在该展会的机器人与自主清洁体验区演示其COMBO清洁机器人。 COMBO机器人专为工业和仓储环境的全天候运行而设计，并通过基于人工智能的车队编排软件平台进行管理。 在10月份获得€1 million的桥梁融资轮后，在US运营总监Dominic Panayi的领导下，该公司为应对劳动力短缺对自动化的需求不断增长而展开了美国业务扩张。"
+      "summary": "ASBIS and Kinisis back Autonomics’ expansion into US market Cyprus-based robotics startup Autonomics will make its US market debut in Las Vegas on November 17, showcasing its autonomous cleaning technology at one of the world’s largest events for the cleaning and facilities management industry.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.16",
-      "published_at": "2026-11-16T15:25:00+09:00",
-      "headline": "Taisei Corporation Teams With US Firm Pegasus on ¥24 Billion Fund Targeting AI, Robotics Startups With 10-Year Horizon",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/4e53b381-1921-4f0d-9093-107611bed9b7",
+      "published_at": "2026-11-16T19:26:20+09:00",
+      "headline": "From kitchen shelves to robots: Meet the ‘mini-Jensen’, Nvidia founder’s daughter",
+      "source": "Kursiv Media Узбекистан",
+      "url": "https://uz.kursiv.media/en/2026-11-16/madison-huang-nvidia-robotics/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "Taisei Corporation announced on the 16th that it will establish a 10-year corporate venture capital fund of approximately ¥24 billion (approximately $150.5 million) with US-based Pegasus Tech Ventures, operating from November 2026 through November 2036. The fund will target global startups possessing advanced technologies such as artificial intelligence, robotics, and digital twins, as well as new business models. Taisei aims to leverage Pegasus Tech Ventures' overseas network and investment expertise to strengthen existing businesses and create new opportunities. Pegasus Tech Ventures, based in Silicon Valley with approximately ¥300 billion in assets under management, will serve as the general partner, while Taisei invests as a limited partner.",
-      "summary_zh": "大成建设（Taisei Corporation）于16日宣布，将与美国风险投资公司Pegasus Tech Ventures合作设立一只规模约为¥24 billion（约$150.5 million）、运营期为10年的企业风险投资（CVC）基金，运营时间为2026年11月至2036年11月。 该基金将投资于全球拥有人工智能、机器人技术和数字孪生等先进技术以及新商业模式的初创公司。 大成建设旨在利用Pegasus Tech Ventures的海外网络和投资专长，加强现有业务并创造新机遇。 总部位于美国硅谷、管理资产规模约达¥300 billion的Pegasus Tech Ventures将担任普通合伙人，大成建设则作为有限合伙人进行投资。"
+      "summary": "Madison Huang, daughter of Nvidia founder Jensen Huang, joined Nvidia as an intern in 2020 after working as a chef, sommelier, and luxury marketer at LVMH while completing an MBA at London Business School. Nvidia confirmed on 12 November that Jensen Huang had resigned, naming finance chief Colette Kress interim CEO. Madison currently serves as senior director of product and technical marketing for physical AI, leading efforts to help companies like Samsung, LG, SK Hynix, and Hyundai Motor use Nvidia tools to train robots and test virtual factory operations.",
+      "summary_zh": "英伟达创始人黄仁勋的女儿麦迪逊·黄在伦敦商学院攻读MBA期间于2020年加入英伟达实习，此前她曾担任厨师、侍酒师并在LVMH从事奢侈品营销。 英伟达于11月12日证实黄仁勋已辞职，并任命财务主管科莱特·克雷斯为临时首席执行官。 麦迪逊目前担任物理人工智能产品与技术营销高级总监，负责推动三星、LG、SK海力士和现代汽车等企业使用英伟达的工具来训练机器人并在虚拟工厂环境中进行测试。"
     },
     {
       "date": "2026.11.15",
@@ -46,8 +57,8 @@
       "url": "https://inshorts.com/en/amp_news/us-founder-builds--1-bn-robotics-startup-after-being-rejected-by-70-investors-1794743922877",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "American entrepreneur Evan Beard built his robotics startup, Standard Bots, into a $1 billion company after facing rejection from over 70 investors. Co-founded and led by Beard as CEO, the company manufactures robots for customers including Amazon, NASA, and Lockheed Martin. The breakthrough arrived when former Physical Intelligence co-founder Lachy Groom agreed to invest in the venture.",
-      "summary_zh": "美国创业者埃文·贝尔德（Evan Beard）在遭到70多位投资者拒绝后，将自己的机器人初创公司发展成为一家估值10亿美元的企业。 贝尔德作为联合创始人兼首席执行官领导的Standard Bots公司，目前为亚马逊、美国国家航空航天局和洛克希德·马丁等客户制造机器人。 随着Physical Intelligence前联合创始人拉奇·格鲁姆（Lachy Groom）同意投资该风险企业，业务迎来了突破。"
+      "summary": "American entrepreneur Evan Beard built his robotics startup, Standard Bots, into a $1 billion company despite facing rejection from over 70 investors. Standard Bots, where Beard serves as co-founder and CEO, manufactures robots for clients such as Amazon, NASA, and Lockheed Martin. The company's major breakthrough occurred when former Physical Intelligence co-founder Lachy Groom agreed to invest in the venture.",
+      "summary_zh": "美国企业家埃文·别尔德在遭到70多位投资者拒绝后，将他的机器人初创公司发展成为一家估值达10亿美元的企业。 别尔德担任联合创始人兼首席执行官的Standard Bots为亚马逊、美国宇航局和洛克希德·马丁等客户制造机器人。 随着前Physical Intelligence联合创始人拉奇·格鲁姆同意对该企业进行投资，该公司迎来了重大突破。"
     },
     {
       "date": "2026.11.15",
@@ -57,30 +68,41 @@
       "url": "https://www.tvcnews.tv/nvidia-robotics-engineer-resigns-after-founders-departure-cites-lack-of-transparency/",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "NVIDIA robotics research engineer Darrell Dai resigned from the company following the departure of its founder, Jensen Huang. Dai stated in a post on X that the lack of explanation surrounding Huang's exit left him uncertain about the organization's future direction and culture. He praised Huang's long-term vision, early commitment to CUDA, and investments in physical AI and robotics, while expressing disappointment that employees' perspectives were not considered in the leadership change.",
-      "summary_zh": "英伟达机器人研究工程师达雷尔·戴（Darrell Dai）在公司创始人黄仁勋离职后宣布辞职。 戴在X平台的一篇帖子中表示，黄仁勋离职的 okoliczności缺乏解释，这让他对组织的未来方向和文化感到不确定。 他赞扬了黄仁勋的长期愿景、对CUDA的早期承诺以及在物理AI和机器人领域的投资，同时对在领导层变动中未考虑员工观点表示失望。"
+      "summary": "Darrell Dai, a robotics research engineer at Nvidia, announced his resignation following the departure of founder Jensen Huang, citing a lack of transparency and explanation surrounding the decision. Dai praised Huang's long-term vision, early commitment to CUDA, and the engineering culture he fostered. He stated that the lack of information and the failure to consider employee perspectives in such a major organizational change left him feeling unheard and uncertain about the company's future direction.",
+      "summary_zh": "英伟达机器人研究工程师达雷尔·戴在创始人黄仁勋离职后宣布辞职，并指出这一决定缺乏透明度和解释。 戴赞赏黄仁勋的长期愿景、对CUDA的早期投入以及他所培育的工程文化。 他表示，在如此重大的组织变动中缺乏信息且未考虑员工的视角，让他感到自己的声音未被听取，并对公司未来的方向感到不确定。"
     },
     {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T10:05:03+09:00",
-      "headline": "Tesla highlights its identity as an AI and robotics company over EVs in China : Business/Industry : JKN",
-      "source": "재경일보",
-      "url": "https://news.jkn.co.kr/editions/english/post/1095026",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "At the 9th China International Import Expo in Shanghai, Tesla emphasized its identity as an AI and robotics company by prioritizing its robotaxi, humanoid robot, proprietary semiconductors, and energy storage systems over its electric vehicles. Amid declining EV sales and intensifying competition in China, Tesla positioned its booth in the intelligent industry and information technology sector rather than the automotive pavilion. The most prominent exhibits included the steering-wheel-free Cybercab and the Optimus humanoid robot alongside its components.",
-      "summary_zh": "在上海举办的第九届中国国际进口博览会上，特斯拉优先展示了其无人驾驶出租车、人形机器人、专有半导体和储能系统，而非电动汽车，以此强调其作为人工智能和机器人公司的身份。 面对中国电动汽车销量下降和竞争加剧的局面，特斯拉将其展位设在智能产业和信息技术展区，而非汽车馆。 最引人注目的展品包括没有方向盘或踏板的Cybercab以及Optimus人形机器人及其零部件。"
-    },
-    {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T19:32:58+09:00",
-      "headline": "华为昇腾云在具身智能行业市场格局中国第一",
-      "source": "手机新浪网",
-      "url": "https://k.sina.com.cn/article_5099546123_12ff4e60b00102eb4s.html?from=tech&subch=internet",
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T13:36:06+09:00",
+      "headline": "中国深海机器人首获欧美批量采购！“奇点” 签挪威 2.5 亿整机订单",
+      "source": "具身之家",
+      "url": "https://www.jushenhome.com/news_d.php?id=2443",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "11月16日，华为云在CloudRobo具身世界模型发布会现场透露：华为昇腾云在具身智能市场格局中国第一，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现全覆盖。 这意味着在具身智能从实验室走向产业化的关键窗口期，昇腾云已成为国产云阵营中事实上的算力底座与生态入口。 目前华为云正在具身智能赛道构建生态纵深。 其CloudRobo具身智能平台已汇聚超16500个专业具身开发者、230多家企业和高校，沉淀1500+行业资产，覆盖工业、电力、环卫、医疗康养等多个落地场景。 据悉，其生态伙伴名单中既有亿嘉和、拓斯达、福龙马等A股上市公司，也包括节卡、千寻、星海图、优艾智合、斯坦德、睿尔曼机器人等头部未上市本体企业。 华为云还推出具身亲和的原生昇腾云基础设施，包括算力基础设施、算网数存、AI框架三层架构，为中国具身企业提供了国产化算力底座。",
-      "summary_zh": "11月16日，华为云在CloudRobo具身世界模型发布会现场透露：华为昇腾云在具身智能市场格局中国第一，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现全覆盖。 这意味着在具身智能从实验室走向产业化的关键窗口期，昇腾云已成为国产云阵营中事实上的算力底座与生态入口。 目前华为云正在具身智能赛道构建生态纵深。 其CloudRobo具身智能平台已汇聚超16500个专业具身开发者、230多家企业和高校，沉淀1500+行业资产，覆盖工业、电力、环卫、医疗康养等多个落地场景。 据悉，其生态伙伴名单中既有亿嘉和、拓斯达、福龙马等A股上市公司，也包括节卡、千寻、星海图、优艾智合、斯坦德、睿尔曼机器人等头部未上市本体企业。 华为云还推出具身亲和的原生昇腾云基础设施，包括算力基础设施、算网数存、AI框架三层架构，为中国具身企业提供了国产化算力底座。"
+      "summary": "近日，深海智人海外市场再传捷报，挪威知名油气服务商与深海智人达成 6 台 250HP 电液混动工作级 ROV 采购合作，总金额达 2.5 亿。 订单分三个批次推进，首批两台在今年年底交付，剩余 4 台在 2027 年陆续交付。 此次签约的奇点 250 是深海智人 2026 年新推出的一款 250HP 工作级 ROV 系统，额定作业水深达 6000 米。 截至目前，深海智人年度订单总额已近突破 10 亿元，超额完成未来两年的订单储备。",
+      "summary_zh": "近日，深海智人海外市场再传捷报，挪威知名油气服务商与深海智人达成 6 台 250HP 电液混动工作级 ROV 采购合作，总金额达 2.5 亿。 订单分三个批次推进，首批两台在今年年底交付，剩余 4 台在 2027 年陆续交付。 此次签约的奇点 250 是深海智人 2026 年新推出的一款 250HP 工作级 ROV 系统，额定作业水深达 6000 米。 截至目前，深海智人年度订单总额已近突破 10 亿元，超额完成未来两年的订单储备。"
+    },
+    {
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T13:34:49+09:00",
+      "headline": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战",
+      "source": "证券之星",
+      "url": "http://stock.stockstar.com/IG2026111700020323.shtml",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月17日，2026年APEC工商领导人峰会在深圳举办。 在研讨环节，宇树科技董事长兼首席执行官王兴兴表示，水下底层技术迭代速度迅猛，行业发展前景值得期待。 王兴兴还表示，行业仍面临多重现实难题，首要痛点是模型泛化能力不足，机器人更换应用场景往往需要重新训练。 他同时提醒，即便机器人AI模型实现技术突破，产业链仍要面对生产制造、产品可靠性、售后服务体系、算力需求暴增以及使用安全等系列考验。",
+      "summary_zh": "11月17日，2026年APEC工商领导人峰会在深圳举办。 在研讨环节，宇树科技董事长兼首席执行官王兴兴表示，水下底层技术迭代速度迅猛，行业发展前景值得期待。 王兴兴还表示，行业仍面临多重现实难题，首要痛点是模型泛化能力不足，机器人更换应用场景往往需要重新训练。 他同时提醒，即便机器人AI模型实现技术突破，产业链仍要面对生产制造、产品可靠性、售后服务体系、算力需求暴增以及使用安全等系列考验。"
+    },
+    {
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T11:20:06+09:00",
+      "headline": "人形机器人概念震荡下挫 宇树科技跌超10%",
+      "source": "手机网易网",
+      "url": "https://www.163.com/dy/article/LBU988ID0512B07B.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月17日，人形机器人概念盘中震荡下挫，宇树科技跌超10%，此前大业股份跌停，福莱新材、上纬新材、征和工业、日盈电子、华依科技等多股跌超6%。",
+      "summary_zh": "11月17日，人形机器人概念盘中震荡下挫，宇树科技跌超10%，此前大业股份跌停，福莱新材、上纬新材、征和工业、日盈电子、华依科技等多股跌超6%。"
     },
     {
       "date": "2026.11.16",
@@ -90,41 +112,30 @@
       "url": "http://news.ustc.edu.cn/info/1055/96921.htm",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "11月13日，工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会。 来自多所高校的专家学者齐聚我校，围绕力学与机器人交叉前沿及学科专业发展开展交流。 本次研讨会获中国科学技术大学学科建设及特色发展专项支持。 开幕式由近代力学系执行主任王柳主持。 中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授先后致辞。 曲绍兴在致辞中表示，机器人研究与力学、控制、感知及人工智能等领域密切相关，期待通过学术交流促进学科交叉融合。 吴恒安介绍了学院相关学科布局与人形机器人研究院建设情况，强调加强动力学与控制方向建设，推动力学研究与机器人应用相互促进。 学术报告环节，浙江大学曲绍兴教授、华中科技大学王琳教授、北京航空航天大学陈玉丽教授、南京航空航天大学黄锐教授、湖南大学周加喜教授、复旦大学方虹斌教授、西北工业大学孟亮教授、西安交通大学原超副教授、苏州大学陆波教授和密歇根大学童德中博士后先后作专题报告。",
-      "summary_zh": "11月13日，工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会。 来自多所高校的专家学者齐聚我校，围绕力学与机器人交叉前沿及学科专业发展开展交流。 本次研讨会获中国科学技术大学学科建设及特色发展专项支持。 开幕式由近代力学系执行主任王柳主持。 中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授先后致辞。 曲绍兴在致辞中表示，机器人研究与力学、控制、感知及人工智能等领域密切相关，期待通过学术交流促进学科交叉融合。 吴恒安介绍了学院相关学科布局与人形机器人研究院建设情况，强调加强动力学与控制方向建设，推动力学研究与机器人应用相互促进。 学术报告环节，浙江大学曲绍兴教授、华中科技大学王琳教授、北京航空航天大学陈玉丽教授、南京航空航天大学黄锐教授、湖南大学周加喜教授、复旦大学方虹斌教授、西北工业大学孟亮教授、西安交通大学原超副教授、苏州大学陆波教授和密歇根大学童德中博士后先后作专题报告。"
+      "summary": "11月13日，工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会。 开幕式由近代力学系执行主任王柳主持，中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授先后致辞。 学术报告环节，多位学者作专题报告，涵盖微型仿生机器人、流固耦合动力学、智能材料与结构、机器人建模与控制、减振技术、4D打印及具身智能医疗机器人等方向。 会议期间，与会专家参观了中国科学技术大学人形机器人研究院展厅。",
+      "summary_zh": "11月13日，工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会。 开幕式由近代力学系执行主任王柳主持，中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授先后致辞。 学术报告环节，多位学者作专题报告，涵盖微型仿生机器人、流固耦合动力学、智能材料与结构、机器人建模与控制、减振技术、4D打印及具身智能医疗机器人等方向。 会议期间，与会专家参观了中国科学技术大学人形机器人研究院展厅。"
     },
     {
       "date": "2026.11.16",
-      "published_at": "2026-11-16T16:04:14+09:00",
-      "headline": "华为公布最新数据：80%中国具身智能企业选择昇腾云",
-      "source": "凤凰网",
-      "url": "https://original.ifeng.com/c/8y6FkWSZiSF",
+      "published_at": "2026-11-16T15:38:00+09:00",
+      "headline": "华为昇腾云成中国具身智能首选算力底座：覆盖80%企业及重点高校，CloudRobo生态加速产业化落地",
+      "source": "SmartHey",
+      "url": "https://www.smarthey.com/detail/589104803763.html",
       "language": "Chinese",
       "section": "中国 / China",
-      "summary": "凤凰网科技讯 （编辑/宋淑美） 11月16日，在华为云CloudRobo具身世界模型发布会上，华为云披露，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现覆盖。 华为云称，昇腾云目前在中国具身智能云市场中排名第一。 华为云于2025年6月发布CloudRobo具身智能平台，主要面向机器人企业及科研机构提供算力、开发工具和模型服务。 按照华为云公布的数据，该平台目前已汇聚超过1.65万名具身智能开发者，以及230多家企业和高校，累计沉淀超过1500项行业资产，应用范围覆盖工业、电力、环卫、医疗康养等场景。 在业务定位上，华为云此前表示，公司不直接参与机器人本体制造，而是将硬件开发交给合作伙伴，重点建设面向不同机器人本体的云端基础设施和开发平台。 为满足具身智能模型的训练与推理需求，华为云构建了面向该领域的昇腾云基础设施，涵盖算力基础设施、算网数存及AI框架三层架构，为机器人企业提供模型训练、数据处理和应用开发能力。",
-      "summary_zh": "凤凰网科技讯 （编辑/宋淑美） 11月16日，在华为云CloudRobo具身世界模型发布会上，华为云披露，已有80%的中国具身智能企业选择昇腾云，重点高校基本实现覆盖。 华为云称，昇腾云目前在中国具身智能云市场中排名第一。 华为云于2025年6月发布CloudRobo具身智能平台，主要面向机器人企业及科研机构提供算力、开发工具和模型服务。 按照华为云公布的数据，该平台目前已汇聚超过1.65万名具身智能开发者，以及230多家企业和高校，累计沉淀超过1500项行业资产，应用范围覆盖工业、电力、环卫、医疗康养等场景。 在业务定位上，华为云此前表示，公司不直接参与机器人本体制造，而是将硬件开发交给合作伙伴，重点建设面向不同机器人本体的云端基础设施和开发平台。 为满足具身智能模型的训练与推理需求，华为云构建了面向该领域的昇腾云基础设施，涵盖算力基础设施、算网数存及AI框架三层架构，为机器人企业提供模型训练、数据处理和应用开发能力。"
+      "summary": "11月16日，华为云在CloudRobo具身世界模型发布会现场宣布：华为昇腾云已占据中国具身智能市场首位，全国80%的具身智能企业选择昇腾云作为核心算力支撑，重点高校实现全面覆盖。 其CloudRobo具身智能平台已吸引超16500名专业具身开发者、230余家领先企业与高校参与，沉淀行业资产逾1500项。 华为云推出面向具身智能原生优化的昇腾云基础设施，正式发布昇腾原生具身世界模型CloudRobo-WM1.2。",
+      "summary_zh": "11月16日，华为云在CloudRobo具身世界模型发布会现场宣布：华为昇腾云已占据中国具身智能市场首位，全国80%的具身智能企业选择昇腾云作为核心算力支撑，重点高校实现全面覆盖。 其CloudRobo具身智能平台已吸引超16500名专业具身开发者、230余家领先企业与高校参与，沉淀行业资产逾1500项。 华为云推出面向具身智能原生优化的昇腾云基础设施，正式发布昇腾原生具身世界模型CloudRobo-WM1.2。"
     },
     {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T16:03:00+09:00",
-      "headline": "中国TARSBOT与美国安波福签署工业机器人深化合作协议",
-      "source": "维度网",
-      "url": "https://www.wedoany.com/shortnews/515235.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "中国TARSBOT与美国安波福签署工业机器人深化合作协议 11月16日，中国机器人企业TARSBOT与美国汽车技术供应商安波福(Aptiv)在第九届中国国际进口博览会期间签署深化战略合作协议，计划在安波福智能工厂部署100台TARSBOT A系列工业具身智能机器人，覆盖8类制造工艺和33个应用场景。 首批设备已进入实际生产线运行，双方计划在2026年底前完成本轮部署，并推进机器人产品量产。 此次合作主要面向工业制造现场的自动化作业需求，应用场景包括柔性装配、协同巡检和生产管理。 与固定程序控制的传统自动化设备相比，具身智能机器人需要结合现场环境感知、任务判断和运动控制完成作业。 双方将利用安波福真实生产线开展应用验证，并根据实际运行情况调整机器人系统和作业流程。 安波福将向TARSBOT机器人引入高性能计算平台及智能配电解决方案。 其中，计算平台承担机器人环境感知、任务决策和运动控制等核心功能，智能配电系统为设备运行提供电力管理支持。",
-      "summary_zh": "中国TARSBOT与美国安波福签署工业机器人深化合作协议 11月16日，中国机器人企业TARSBOT与美国汽车技术供应商安波福(Aptiv)在第九届中国国际进口博览会期间签署深化战略合作协议，计划在安波福智能工厂部署100台TARSBOT A系列工业具身智能机器人，覆盖8类制造工艺和33个应用场景。 首批设备已进入实际生产线运行，双方计划在2026年底前完成本轮部署，并推进机器人产品量产。 此次合作主要面向工业制造现场的自动化作业需求，应用场景包括柔性装配、协同巡检和生产管理。 与固定程序控制的传统自动化设备相比，具身智能机器人需要结合现场环境感知、任务判断和运动控制完成作业。 双方将利用安波福真实生产线开展应用验证，并根据实际运行情况调整机器人系统和作业流程。 安波福将向TARSBOT机器人引入高性能计算平台及智能配电解决方案。 其中，计算平台承担机器人环境感知、任务决策和运动控制等核心功能，智能配电系统为设备运行提供电力管理支持。"
-    },
-    {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T15:59:00+09:00",
-      "headline": "中国禾赛科技联合Ropedia开发具身智能数据产品",
-      "source": "维度网",
-      "url": "https://www.wedoany.com/shortnews/515220.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "11月16日，中国禾赛科技旗下三维世界数据引擎Kosmo与物理AI基础设施公司Ropedia达成战略合作，双方联合开展高质量真实世界数据的规模化生产，覆盖空间数据采集、结构化处理、标准化交付及模型验证。 双方共同支持的Ropedia Xperience 2研究项目已于11月12日发布，包含1589个三维扫描场景、74项操作任务及4230条第一视角记录，总记录时长131小时。 Kosmo负责真实环境空间数据采集和三维重建，Ropedia通过HOMIE Gen2及Experience Engine完成动作记录、四维重建和语义标注。 双方计划面向全球大模型、具身移动操作模型及世界模型研发团队提供多模态空间数据产品。",
-      "summary_zh": "11月16日，中国禾赛科技旗下三维世界数据引擎Kosmo与物理AI基础设施公司Ropedia达成战略合作，双方联合开展高质量真实世界数据的规模化生产，覆盖空间数据采集、结构化处理、标准化交付及模型验证。 双方共同支持的Ropedia Xperience 2研究项目已于11月12日发布，包含1589个三维扫描场景、74项操作任务及4230条第一视角记录，总记录时长131小时。 Kosmo负责真实环境空间数据采集和三维重建，Ropedia通过HOMIE Gen2及Experience Engine完成动作记录、四维重建和语义标注。 双方计划面向全球大模型、具身移动操作模型及世界模型研发团队提供多模态空间数据产品。"
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T10:00:02+09:00",
+      "headline": "フィジカルAIとロボット社会の未来を体感 ～ 西日本最大規模※のロボット専門展『RoboNext2026』まもなく開催！",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000329.000033323.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日まで、インテックス大阪でロボット専門展示会「RoboNext2026」を開催する。 本展は「ロボットをもっと身近に、そして未来へ。 」をテーマに掲げ、人手不足などの社会課題に対しロボットとAIがどのような解決策を提示できるかを考える場を創出する。 会場では、企画展示のほか、フィジカルAIやヒューマノイドをテーマにした多数のメインステージプログラムやセミナーが連日開催される。 また、うどんの調理や食器の自動仕分けを行う実演展示なども実施され、出展規模は318社・団体、1026小間となっている。",
+      "summary_zh": "一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日在大阪国际展览中心举办机器人专业展会“RoboNext2026”。 本展以“让机器人更贴近生活，迈向未来”为主题，旨在为应对人手不足等社会课题探讨机器人与AI提供的解决方案创造交流场所。 展会期间将举行专题展览，以及以物理AI和人形机器人为主题的多场主舞台节目与研讨会。 此外，还将进行制作乌冬面及餐具自动分类等实演展示，展出规模为318家企业及团体、1026个展位。"
     },
     {
       "date": "2026.11.16",
@@ -134,19 +145,8 @@
       "url": "https://ai.watch.impress.co.jp/docs/news/2156818.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "NTT西日本とアイリスオーヤマは2026年11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結し、AIでセキュリティカメラ、エレベーター、フラッパーゲート、各種ロボットなどの情報をクラウド上で一元管理・制御する実証を進めている。 第2弾となる今回の実証では、VLA、VLM、LLMなどのフィジカルAI技術を活用し、セキュリティカメラの映像をVLMが解析してLLMがアイリスオーヤマのDX清掃ロボット「JILBY」へ作業指示を出す仕組みや、「JILBY」とugo製のヒューマノイドロボット「ugo Nova」という異種ロボット間の協調、ロボットの自律動作の技術的成立性を確認した。 両社は今後、商用化・事業化の可能性を検討する予定である。",
-      "summary_zh": "NTT西日本与爱丽思欧雅玛于2026年11月16日公布了利用综合管理系统“多机器人平台”开展物理AI共同验证的成果。 两家公司于2025年10月签署了业务合作基本意向书，推进利用AI在云端统一管理和控制安防摄像头、电梯、闸机及各类机器人信息的实证。 在作为第二弹的本次实证中，双方利用VLA、VLM和LLM等物理AI技术，验证了安防摄像头影像由VLM解析并由LLM向爱丽思欧雅玛DX清洁机器人“JILBY”下达作业指令的机制，以及爱丽思欧雅玛“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”等异构机器人之间的协作，并确认了机器人自主动作的技术可行性。 双方今后将探讨未来商业化和业务化的可能性。"
-    },
-    {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T14:00:00+09:00",
-      "headline": "SHIFT AIが支援する中高生の日本代表チーム、国際ロボット大会で銀メダルを獲得",
-      "source": "テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/release/prtimes2/20261116/25386.html",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "「日本をAI先進国に」を掲げる株式会社SHIFT AIは、パートナーシップを結ぶGlobal Innovator ACADEMYの日本代表チームが、韓国・仁川で開催された国際ロボット大会「FIRST Global Challenge 2026」にて銀メダルを獲得したと発表した。 185の国と地域が参加した同大会で、予選を14位で通過し初のプレーオフに進出、決勝で銀メダルを獲得したほか、ロボット設計を評価する「張衡賞」でも銅メダルを獲得した。 SHIFT AIはGIAへの資金支援や生成AI学習コンテンツの無償提供を通じて若者たちの活動を支援している。",
-      "summary_zh": "以“使日本成为AI先进国”为使命的SHIFT AI公司宣布，其合作伙伴Global Innovator ACADEMY的日本代表队在韩国仁川举办的国际机器人赛事“FIRST Global Challenge 2026”中荣获银牌。 在有185个国家和地区参加的该赛事中，日本代表队以预选赛第14名晋级季后赛，并在决赛中获得银牌，同时还在评估机器人设计的“张衡奖”中获得铜牌。 SHIFT AI通过向GIA提供资金支持及免费提供生成式AI学习内容，持续支持年轻一代的挑战活动。"
+      "summary": "NTT西日本とアイリスオーヤマは11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結し、クラウド上での一元管理・制御を進めている。 今回の実証では、VLA、VLM、LLMなどのフィジカルAI技術を活用し、セキュリティカメラの映像をVLMが解析してLLMがアイリスオーヤマ製清掃ロボット「JILBY」へ作業指示を行う設備とロボットの連携、アイリスオーヤマ製「JILBY」とNTT西日本が取り扱うugo製「ugo Nova」という異種ロボット間の協調、および自律動作の技術的成立性を確認した。 両社は今後、商用化・事業化の可能性を検討する予定である。",
+      "summary_zh": "NTT西日本与爱丽思欧雅玛于11月16日公布了利用综合管理系统“多机器人平台”开展物理AI共同验证的成果。 双方于2025年10月签署业务合作基本意向书，推进云端统一管理与控制。 本次验证运用VLA、VLM、LLM等物理AI技术，证实了由VLM解析安防摄像头画面并由LLM向爱丽思欧雅玛清洁机器人“JILBY”下达作业指示的设备与机器人联动机制、爱丽思欧雅玛“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”等异构机器人间的协作、以及自律动作的技术可行性。 双方今后将探讨商用化与产业化的可能性。"
     },
     {
       "date": "2026.11.16",
@@ -156,8 +156,8 @@
       "url": "https://news.mynavi.jp/techplus/article/20261116-5338388/",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "アイリスオーヤマとNTT西日本は11月16日、AIで設備やロボットを統合管理する「マルチロボティクスプラットフォーム」を用いた共同実証の成果を発表した。 セキュリティカメラと清掃ロボットの連携に加え、メーカーや種類の異なるロボット間の情報共有とタスク分担、ロボットの自律動作について技術的成立性を実証した。 実証ではVLM、LLM、VLAを活用し、VLMが施設全体の状況を把握・分析、LLMが指示を出し、VLAを用いてロボットが自律的に判断・行動する可能性を確認した。 アイリスオーヤマの清掃ロボット「JILBY」とNTT西日本が取り扱うugoのヒューマノイドロボット「ugo Nova」が情報を共有してタスクを分担する仕組みなどを検証し、今後は商用化・事業化の可能性を検討するとしている。",
-      "summary_zh": "爱丽思欧雅玛与NTT西日本于11月16日公布了利用AI集成管理设备与机器人的“多机器人平台”共同验证成果。 双方验证了安全摄像头与清洁机器人联动，以及不同制造商和种类的机器人之间的信息共享、任务分工和机器人自主动作的技术可行性。 验证中运用了VLM、VLS、LLM及VLA技术，由VLM把握并分析整个设施的状况，LLM发出指令，并利用VLA确认了机器人自主判断和行动的可能性。 爱丽思欧雅玛的清洁机器人“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”进行了信息共享与任务分工等机制的验证，未来将探讨商业化及产业化的可能性。"
+      "summary": "アイリスオーヤマとNTT西日本は11月16日、AIで設備やロボットを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証の成果を発表した。 セキュリティカメラの画像解析に基づく清掃ロボットへの作業指示や、アイリスオーヤマのDX清掃ロボット「JILBY」とNTT西日本が取り扱うugoのヒューマノイドロボット「ugo Nova」による情報共有やタスク分担などの技術的成立性を実証した。 VLM、LLM、VLAを活用し、施設全体の状況把握から各設備やロボットへの指示、自律動作の可能性を確認した。 両社は今回の知見を基に、将来的な商用化・事業化の可能性を検討するとしている。",
+      "summary_zh": "アイリスオーヤマ与NTT西日本于11月16日公布了利用AI综合管理设备与机器人的“多机器人平台”联合验证成果。 双方验证了基于安全摄像头图像分析向清洁机器人下达工作指令、アイリスオーヤマ的DX清洁机器人“JILBY”与NTT西日本代理的ugo人形机器人“ugo Nova”共享信息及分工等技术的成立性。 通过运用VLM、LLM和VLA，确认了从把握设施整体状况到对各设备和机器人发出指令以及自主动作的可能性。 两家公司表示将根据此次验证获得的技术经验，探讨未来商业化与事业化的可能性。"
     },
     {
       "date": "2026.11.16",
@@ -167,30 +167,30 @@
       "url": "https://robotstart.info/article/2026/11/16/382636.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "アイリスオーヤマとNTT西日本は2026年11月16日、AIでセキュリティカメラや各種ロボットなどを統合管理する「マルチロボティクスプラットフォーム」の共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結しており、今回の取り組みはその一環となる。 実証ではVLA、VLM、LLMを活用し、カメラとロボットを連携させて状況認識から作業指示を行う仕組みや、アイリスオーヤマの清掃ロボット「JILBY」とugoのヒューマノイドロボット「ugo Nova」による異種ロボット間の情報連携と役割分担、ロボットの自律動作の技術的成立性を確認した。 今後は知見を整理し、将来的な商用化・事業化の可能性を検討する方針である。",
-      "summary_zh": "爱丽思欧雅玛株式会社与NTT西日本株式会社于2026年11月16日公布了利用AI集成管理安全摄像头及各种机器人的“多机器人平台”共同验证成果。 两家公司于2025年10月签署了业务合作基本意向书，本次举措为此项合作的一部分。 验证中运用了VLA、VLM和LLM，确认了摄像头与机器人联动完成从情况识别到作业指示的机制，以及爱丽思欧雅玛清洁机器人“JILBY”和ugo人形机器人“ugo Nova”之间进行异种机器人信息联动与角色分工、机器人自主动作的技术可行性。 今后双方将整理相关经验，探讨未来的商业化与产业化可能性。"
+      "summary": "アイリスオーヤマ株式会社とNTT西日本株式会社は2026年11月16日、「マルチロボティクスプラットフォーム」の共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結しており、今回は第一弾の清掃ロボット「JILBY」へのAIエージェント実装に続く第二弾として、VLM・LLM・VLAを活用した基礎技術を構築した。 セキュリティカメラとロボットの連携による状況認識から作業指示、異種ロボット間の情報連携と役割分担、ロボットの自律動作の技術的成立性を実証した。 具体的な検証として、カメラ画像に基づくJILBYへの指示や、JILBYとヒューマノイドロボット「ugo Nova」のタスク分担を確認した。 両社は得られた知見をもとに商用化・事業化の可能性を検討するとしている。",
+      "summary_zh": "アイリスオーヤマ株式会社与NTT西日本株式会社于2026年11月16日公布了“多机器人平台”的联合验证成果。 两家公司于2025年10月签署了业务合作基本意向书，本次作为继第一阶段在清洁机器人“JILBY”上实装AI代理之后的第二阶段，构建了利用VLM、LLM和VLA的基础技术。 验证了通过安全摄像头与机器人联动从状况识别到工作指示、不同种类机器人间的信息联动与角色分工以及机器人自主动作的技术成立性。 作为具体验证，确认了基于摄像头图像对JILBY的指示以及JILBY与人形机器人“ugo Nova”的任务分工。 两家公司表示将根据所获见解探讨商业化与事业化的可能性。"
     },
     {
       "date": "2026.11.16",
-      "published_at": "2026-11-16T11:21:49+09:00",
-      "headline": "【NTT西日本】アイリスオーヤマとNTT西日本「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表 ロボット・設備連携の技術的成立性を検証し、施設管理業務の効率化をめざす｜ニュースリリース - 通信・ICTサービス・ソリューション",
-      "source": "NTT西日本",
-      "url": "https://www.ntt-west.co.jp/news/2611/261116a.html",
+      "published_at": "2026-11-16T14:00:02+09:00",
+      "headline": "SHIFT AIが支援する中高生の日本代表チーム、国際ロボット大会で銀メダルを獲得",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000309.000116644.html",
       "language": "Japanese",
       "section": "日本 / Japan",
-      "summary": "アイリスオーヤマとNTT西日本は2026年11月16日、AIでセキュリティカメラや各種ロボットなどを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証成果を発表した。 両社は2025年10月にフィジカルAIやロボットを含むIoT領域のDX推進に向けた業務提携の基本合意覚書を締結している。 今回は第二弾の取り組みとして、VLA、VLM、LLMを活用し、セキュリティカメラの画像解析に基づくアイリスオーヤマの清掃ロボット「JILBY」への作業指示や、「JILBY」とNTT西日本が取り扱うヒューマノイドロボット「ugo Nova」の間での情報共有・タスク分担、ロボットの自律動作の技術的成立性を実証した。 両社は今後、商用化・事業化の可能性を検討していくとしている。",
-      "summary_zh": "爱丽思欧雅玛与NTT西日本于2026年11月16日公布了利用AI集成管理安全摄像头及各种机器人的“多机器人平台”共同验证成果。 两家公司已于2025年10月签署了关于推进包括物理AI及机器人在内的IoT领域DX的业务合作基本意向书。 作为第二弹举措，双方运用了VLA、VLM和LLM，验证了基于安全摄像头图像解析向爱丽思欧雅玛清洁机器人“JILBY”下达作业指示，以及“JILBY”与NTT西日本代理的人形机器人“ugo Nova”之间进行信息共享和任务分工、机器人自主动作的技术可行性。 两家公司表示未来将探讨商业化与产业化的可能性。"
+      "summary": "株式会社SHIFT AIは、パートナーシップ契約を締結しているGlobal Innovator ACADEMYの日本代表チームが、国際ロボット大会「FIRST Global Challenge 2026」で銀メダルを獲得したと発表した。 2026年10月7日から10日に韓国・仁川で開催された同大会には185の国と地域が参加し、日本代表チームは予選を14位で通過して初のプレーオフに進出。 アラブ首長国連邦、香港、ルクセンブルクとの同盟で決勝に臨み銀メダルを獲得したほか、ロボット設計を評価する「張衡賞」で銅メダルも獲得した。 SHIFT AIは資金支援や生成AI学習コンテンツの無償提供を通じて次世代人材の育成を支援している。",
+      "summary_zh": "株式会社SHIFT AI宣布，与其缔结伙伴关系的Global Innovator ACADEMY日本代表队在国际机器人大赛“FIRST Global Challenge 2026”中荣获银牌。 该大赛于2026年10月7日至10日在韩国仁川举行，吸引了185个国家和地区参加，日本代表队以预选赛第14名的成绩首次晋级季后赛。 日本代表队与阿拉伯联合酋长国、中国香港和卢森堡组成联盟进入决赛并夺得银牌，同时还在评选机器人设计的“张衡奖”中获得铜牌。 SHIFT AI通过资金支援及免费提供生成式AI学习内容，支持次世代人才的培养。"
     },
     {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T11:00:00+09:00",
-      "headline": "ヒューマノイドロボット用PEEK材料の世界市場（2026年～2032年）、市場規模（PEEK顆粒、PEEK粉末）・分析レポートを発表",
-      "source": "アットプレス",
-      "url": "https://www.atpress.ne.jp/news/9668394",
+      "date": "2026.11.17",
+      "published_at": "2026-11-17T11:11:14+09:00",
+      "headline": "Humanoid Robot Makes Runway Debut at Tokyo Fashion Show",
+      "source": "News On Japan",
+      "url": "https://newsonjapan.com/article/151409.php",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "株式会社マーケットリサーチセンターは、ヒューマノイドロボット用PEEK材料の世界市場に関する調査資料を発表した。 本資料によると、同市場規模は2025年の5,281万米ドルから2032年には1億5,700万米ドルに拡大し、2026年から2032年にかけて年平均成長率（CAGR）17.1%で成長すると予測されている。 PEEKは耐熱性や耐摩耗性、軽量性に優れた熱可塑性有機高分子材料であり、関節や四肢、胴体、骨格などに広く使用されている。 主要企業としてVictrex、Solvay、Evonik、吉林中研高機能プラスチック、浙江普氟オン科技などが挙げられている。",
-      "summary_zh": "株式会社マーケットリサーチセンター发布了关于人形机器人用PEEK材料全球市场的调查资料。 根据该资料，人形机器人用PEEK材料全球市场规模预计将从2025年的5,281万米ドル增长到2032年的1亿5,700万米ドル，在2026年至2032年期间的年均复合增长率（CAGR）预计为17.1%。 PEEK是一种具有良好耐热性、耐磨损性和轻量化的高性能热可塑性有机高分子材料，广泛应用于人形机器人的关节、四肢、躯干和骨骼。 报告列举的主要企业包括Victrex、Solvay、Evonik、吉林中研高功能塑料以及浙江普氟オン科技等。"
+      "summary": "A humanoid robot named Kurara, signed to the Japanese subsidiary of Elite World, made its runway debut at a fashion show in Tokyo on November 16th. Walking alongside human models, the robot appeared on a stage themed around the coexistence of diversity in a presentation exploring how robotics can become part of the fashion industry and entertainment. An event representative stated that the aim was to explore the distinctive strengths and unique characteristics of both robots and living human beings rather than replacing one with the other.",
+      "summary_zh": "签约于全球知名模特机构Elite World日本分部的名为Kurara的人形机器人，于11月16日在东京的一场时装秀上进行了其T台首秀，与人类模特一同走秀，共同展示了一场探索人类与机器人共存的发布会。 Kurara亮相于以“多样性共存”为主题的舞台上，在专业模特身旁向观众展示了机器人融入时尚产业的潜力。 活动代表表示，此次活动的目的是探索机器人与人类各自独特优势，而非单纯用机器人取代人类，并希望通过结合两者特质来探索下一代的发展可能。"
     },
     {
       "date": "2026.11.17",
@@ -200,19 +200,8 @@
       "url": "https://www.techtarget.com/news/silicon-valley-startup-showcases-humanoid-robot-with-human-neurons/874770/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "ロボティクスベンダーのOpenMindは、意思決定を補助するために実験室で培養されたヒト神経細胞を使用するヒューマノイドロボット「Iris」を発表した。 このロボットは、幹細胞由来の神経細胞を用いて周囲や社会的合図を解釈し、適切な応答を選択する。 神経細胞はデータ融合や知覚、言語モデルなどの従来のコンピューティングと併用される。 スタンフォード大学の生物工学者でありOpenMindの創設者であるJan Liphardtによると、神経細胞は基本的な記憶を与え、ロボットの気分を設定するという。 11月13日に公開された実証実験では、Irisを2つの商業用神経プラットフォームに遠隔接続し、電極アレイを介して電気パルスを送受信した。 OmdiaのロボティクスアナリストであるLian Jye Suは、この取り組みを生きた細胞と人工制御システムの結合を示す重要な概念実証であると評した。",
-      "summary_zh": "机器人供应商OpenMind发布了一款名为Iris的人形机器人，该机器人利用在实验室培养的人类神经细胞来帮助形成决策。 该机器人使用源自干细胞的神经细胞来帮助其解释周围环境和社交线索并选择适当的反应。 神经细胞与传统计算（包括数据融合、感知和语言模型）协同工作，而不是取代它们。 根据斯坦福大学生物工程师兼OpenMind创始人Jan Liphardt的说法，神经细胞还赋予Iris基本的记忆并设定机器人的情绪。 在11月13日公开的演示中，Iris被远程连接到两个商业神经平台，这些平台由数十万个的人类大脑皮层神经细胞组成，并通过电极阵列发送和接收电脉冲。 Omdia的机器人分析师Lian Jye Su表示，这项工作是有意义但有限的，它是展示活体人类细胞与人工控制系统结合的重要概念验证。"
-    },
-    {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T18:48:14+09:00",
-      "headline": "LG Electronics Partners With Korean Robotics Group to Develop Humanoid Safety Standards",
-      "source": "AI Insider",
-      "url": "https://theaiinsider.tech/2026/11/16/lg-electronics-partners-with-korean-robotics-group-to-develop-humanoid-safety-standards/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "LGエレクトロニクスは、韓国ロボット産業協会とヒューマノイドロボットの安全性および品質評価基準を共同開発するための協定を締結した。 11月13日にソウルで署名されたこの覚書は、テスト手順や認証要件の策定、安全性と信頼性の評価を目的としている。 LGは、2027年第1四半期に予定している新しい二足歩行ロボットの公開に向け、Nvidiaのリファレンス技術を活用した開発を進めており、品質管理センターやLGデータファクトリーを通じて基盤を拡充している。 韓国ロボット産業協会のCho Young-hoon会長は、安全性の信頼確保が日常生活や産業現場への普及に不可欠であると述べている。",
-      "summary_zh": "LG电子与韩国机器人产业协会签署了一项协议，旨在为人形机器人开发安全和质量评估标准，以备在2027年推出新型双足机器人。 根据LG的说法，这份于11月13日在首尔签署的谅解备忘录要求双方致力于测试程序、认证要求和标准，以评估人形机器人的安全性、可靠性和可用性。 LG正利用Nvidia参考技术开发双足机器人，目标是在2027年第一季度亮相，并通过其机器人硬件、执行器开发和AI训练基础设施提供支持。 韩国机器人产业协会会长Cho Young-hoon表示，确保安全和质量的信任对于人形机器人扩散到日常生活和工业现场至关重要。"
+      "summary": "Robotics vendor OpenMind unveiled Iris, a humanoid robot that incorporates lab-grown human neurons derived from stem cells to assist with decision-making and interpreting social cues. Demonstrated on Nov. 13 and connected remotely to commercial neural platforms containing hundreds of thousands of human cerebral cortex neurons, Iris uses neurons working alongside conventional computing architectures like data fusion and perception models. Bioengineer Jan Liphardt stated the project was driven by curiosity and alternative compute architectures, while Omdia analyst Lian Jye Su described the work as a meaningful but limited proof of concept.",
+      "summary_zh": "机器人供应商OpenMind推出了名为Iris的人形机器人，该机器人使用源自干细胞的实验室培养人类神经元来帮助塑造其决策能力并解释社交线索。 在11月13日展示的演示中，Iris被远程连接到包含数十万个人类大脑皮层神经元的商业神经平台上，其神经元与数据融合和感知模型等传统计算技术协同工作。 斯坦福大学生物工程师兼OpenMind创始人扬·利普哈特表示，该项目源于对探索替代计算架构的好奇心；Omdia机器人分析师连杰苏则认为，这项工作是有意义但具有局限性的概念验证。"
     },
     {
       "date": "2026.11.16",
@@ -222,8 +211,8 @@
       "url": "https://the-gadgeteer.com/2026/11/16/gxo-apptronik-apollo-1000-humanoids-2027-trials/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "GXOはApptronikとの間で、倉庫におけるアポロ・ヒューマノイドロボットの試用規模を拡大する意向書に署名した。 実際の現場における生産性、安全性、運用の目標をクリアした場合、最大1,000体のロボットを導入する計画となっている。 2027年に実際の運用環境での試用が開始され、商品ピッキングやケース・トートの移動、梱包、仕分けなどの作業がテストされる。 結果が良好であれば、北米での2027年末の初期展開を皮切りに、4年間で最大1,000体のアポロロボットをグローバルに展開する計画である。 両社は2024年から概念実証プログラムを開始し、2026年には米国でのパイロット展開を完了している。",
-      "summary_zh": "GXO已与Apptronik签署了一份意向书，以扩大Apollo人形机器人在仓库中的试验，如果试验达到目标，计划部署多达1,000台机器人。 该协议是一项意向而非订单，双方表示只有在Apollo在实际建筑中达到共同商定的生产力、安全和运营目标后才会进行部署。 试验将于2027年在实际运营中开始，测试工作包括货物到人及人到货拣选、箱子和手提箱移动、打包和分拣。 根据这些结果，计划在四年内在全全球推出多达1,000台Apollo机器人，并于2027年底在北美进行初始部署。 两家公司自2024年起便开始了概念验证项目，并于2026年初在美国完成了Apollo的试点部署。"
+      "summary": "GXO has signed a letter of intent with Apptronik to expand warehouse trials of the Apollo humanoid robot starting in 2027, with a stated path toward deploying as many as 1,000 robots if productivity, safety, and operational targets are met. The commercial phase is planned under a Robotics as a Service framework across live operations in North America, testing tasks such as picking, case and tote movement, packing, and sortation. Following proof of concept work and a 2026 pilot deployment, GXO executives Patrick Kelleher and Apptronik CEO Jeff Cardenas framed the initiative as an effort to integrate humanoids into warehouse environments alongside existing automation.",
+      "summary_zh": "GXO与Apptronik签署了一份意向书，计划从2027年起扩大Apollo人形机器人在仓库中的试验，如果达成生产力、安全和运营目标，则明确了部署多达1000台机器人的路径。 商业化阶段计划在北美实际运营中采用“机器人即服务”框架进行，测试诸如货到人拣选、箱包移动、打包和分拣等任务。 在经历概念验证工作以及2026年的试点部署后，GXO的帕特里克·凯勒赫与Apptronik首席执行官杰夫·卡德纳斯将这一举措定位为将人形机器人与现有自动化系统一同引入仓库环境的努力。"
     },
     {
       "date": "2026.11.16",
@@ -233,8 +222,19 @@
       "url": "https://www.tradingview.com/symbols/NASDAQ-AGLT/technicals/",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "Agility Robotics, Inc. （NASDAQ:AGLT）のテクニカル分析に関する概要では、移動平均線、オシレーター、ピボットなどの主要データがまとめられている。 サマリーゲージにより、インセンティブが買い、売り、中立のいずれを示しているかを瞬時に確認することが可能となっている。 テクニカルレーティングは、26のインジケーター（移動平均線、RSI、オシレーターなど）に基づき、過去および現在の市場状況を反映するものであり、将来の価格方向を予測するものではない。 ピボットは、強い買いと売りの活動により市場がトレンドを反転または継続する可能性のある価格水準である。",
-      "summary_zh": "Agility Robotics, Inc. （NASDAQ:AGLT）的技术分析摘要包括来自移动平均线、振荡指标和枢轴点的关键数据，所有这些数据都汇总在摘要指标中，可以即时查看指标是暗示买入、卖出还是中性信号。 技术评级基于26种指标（包括移动平均线、RSI和振荡指标），提供整体评级和单独指标读数。 技术评级反映过去和当前的市场状况，而不是未来的价格方向，也不是预测工具。 枢轴点是由于强劲的买卖活动，市场可能逆转或继续其趋势的关键价格水平。"
+      "summary": "The technical analysis for Agility Robotics, Inc. aggregates signals from 26 indicators including moving averages, oscillators, and pivots to provide a Summary gauge indicating buy, sell, or neutral conditions. Technical Ratings combine trend indicators like moving averages and momentum indicators like RSI across selected timeframes to reflect past and current market conditions rather than acting as future price prediction tools. The platform notes that these indicators should be combined with other data such as price action, volume, macro events, and market news before purchasing shares based on short-term trading or long-term investing goals.",
+      "summary_zh": "Agility Robotics, Inc. 的技术分析汇总了包括移动平均线、震荡指标和枢轴点在内的26个指标的信号，以提供显示买入、卖出或中性状况的综合指标。 技术评级将移动平均线等趋势指标以及RSI等动量指标结合在所选时间范围内，以反映过去和当前的市场状况，而不是作为未来价格预测工具。 该平台指出，在根据短期交易或长期投资目标购买股票之前，应将这些指标与价格走势、成交量、宏观事件和市场新闻等其他数据结合起来参考。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T16:45:46+09:00",
+      "headline": "PICS: Chinese firm sells hyper-real, 'always loyal' humanoid robots for R2.3m",
+      "source": "weekendargus.co.za",
+      "url": "https://weekendargus.co.za/news/world/5317331449282560/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "Chinese firm UBTech unveiled U1, described as the world's first full-sized, ultra-realistic humanoid robot designed for mass production and companionship, priced at 119,800 yuan ($17,600) for the basic model and 990,000 yuan (R2 393 676) for the Ultra version. Aimed at single people and individuals over 60, the bionic robot offers AI-generated conversation, customized appearance options, and health tracking, though it does not perform housework or intimate relations. UBTech reported over 13,300 pre-orders with deliveries starting in September, while analysts noted potential value in niche markets like elderly care despite uncanny valley and data privacy concerns.",
+      "summary_zh": "中国公司优必选推出了被称为全球首款面向量产和陪伴的全尺寸超写实人形机器人U1，基础款售价为119,800 yuan ($17,600)，带有更高级功能的Ultra版本售价为990,000 yuan (R2 393 676)。 该仿生机器人主要面向单身人士和60岁以上人群，提供人工智能生成的对话、定制外观选项和健康监测功能，但无法进行家务或提供亲密关系。 优必选报告称已获得超过13,300份预订单，并计划于9月开始交付，分析师则指出尽管存在恐怖谷效应和数据隐私担忧，但在老年护理等利基市场中仍具有潜在价值。"
     }
   ]
 }
