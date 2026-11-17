@@ -1,0 +1,52 @@
+# 🖐 Dexterous Hand News | 2026.11.17（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.17] EE Times Japan — ロボットの「滑り」を早期検出 高速触覚センサー向けIC：最大800Hzで滑りの兆候を検出**
+  日本語：Microchip Technology has announced the 'ATFCD52' high-speed capacitive digitizer, designed to enhance tactile sensing for robot hands by detecting normal and shear forces up to 800Hz. Supporting up to 52 channels via 32 transmit and 20 receive lines, the IC detects capacitance changes under 1 femtofarad. Alongside robotics, target applications include AR, gaming data-collection gloves, and wearable sensing. The article also highlights several other industry developments, including a solid-state battery mechanochemical synthesis system by AIST and partners, an AI SoC featuring STT-MRAM developed by Tohoku University and Aisin, a slime-like aqueous electrolyte collaboration between Maxell and Tokyo Tech, TDK's latest sensing solutions at CEATEC 2026, Murata Manufacturing and Melt Interface Technologies' ContactGlove3 Pro for physical AI, and NEDO's humanoid skateboard demonstration using imitation learning.
+  中文：总结：Microchip Technology推出了高速静电容量デジタイザー「ATFCD52」，旨在通过检测法线力和せん断力，在最高800Hz的帧速率下捕捉滑动迹象，支持最大52个通道及1飞法以下的静电容量变化检测，主要应用于机器人及AR、可穿戴设备。 同期报道还提及：产业技术综合研究所等开发的全固体电池メカノケミカル合成自动化系统；东北大学与アイシン开发的搭载STT-MRAM的16nm AI SoC；マクセル与东京科学大开展的水系复合准个体电解质合作；TDK在CEATEC 2026上展示的最新传感器；村田制作所与Melt Interface Technologies展示的ContactGlove3 Proグローブ型デバイス；以及NEDO展示的人型机器人滑板见まね学習技术。
+  📰 [EE Times Japan](https://eetimes.itmedia.co.jp/ee/articles/2611/17/news028.html)
+
+- **[2026.11.16] Unite.AI — ROBOTERA Opens Orders for XHAND 1 Pro-U Dexterous Robot Hand**
+  English: ROBOTERA announced the commercial launch and open orders for its XHAND 1 Pro-U five-finger dexterous robot hand on November 16, 2026, releasing an initial 40 units of the 16-degree-of-freedom hand. The design mirrors NVIDIA's DexUMI exoskeleton, mapped directly to robot joints to allow human demonstrations to train GR00T 2 without additional teleoperation. Evaluated across three bimanual tasks—banana-yogurt preparation, granola scooping, and fire chemistry—GR00T 2 achieved success rates of 60%, 80%, and 75% respectively, whereas GR00T 1.7 and pi0.5 completed none of the tasks. NVIDIA and ROBOTERA's open licensing of capture designs and supply of execution hardware provide research teams a direct method to collect force-aware data.
+  中文：总结：ROBOTERA于2026年11月16日宣布推出XHAND 1 Pro-U五指灵巧手并开放首批40只的手部订单。 该16自由度灵巧手采用NVIDIA的DexUMI外骨骼设计，实现一对一关节映射，使人类示范动作可直接用于训练GR00T 2。 在香蕉酸奶制作、格兰诺拉麦片舀取和消防化学三项双手任务评估中，GR00T 2的成功率分别为60%、80%和75%，而GR00T 1.7和pi0.5未完成任何任务。 开源的采集硬件设计与商业灵巧手相结合，为研究团队提供了收集力觉感知数据的途径。
+  📰 [Unite.AI](https://www.unite.ai/robotera-opens-orders-for-xhand-1-pro-u-dexterous-robot-hand/)
+
+- **[2026.11.16] 同花顺 — 万元级灵巧手如何撑起整机量产：北京方案里的零部件突围与场景竞速**
+  中文：总结：中国灵巧手市场销量预计2026年达到7.02万只，2030年突破43万只。 灵巧手作为机器人走向物理世界的关键末端，面临空间狭小与电机散热等工程难题。 北京大学与北京通用人工智能研究院等机构研制的F-TAC Hand实现了0.1毫米的空间分辨率，而核心零部件的国产化将单只价格从百万元降至1万元到5万元不等。 星动纪元与月泉仿生等企业的灵巧手已分别在物流分拣和带电作业场景中落地。 北京市的相关行动方案支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。
+  📰 [同花顺](http://news.10jqka.com.cn/20261116/c681834967.shtml)
+
+- **[2026.11.16] 新湖南 — 核心零部件100%国产化，精度达0.1毫米级，“灵巧手”不只会“比耶”**
+  中文：总结：中国机器人“灵巧手”市场销量预计2026年达到7.02万只，2030年突破43万只。 面对散热、感知与协调等工程难题，北京通用人工智能研究院与因时科技等企业通过核心零部件国产化，将触觉传感器价格降至最低199元，单指驱动成本降至120元，使产品售价下探至1万元到5万元。 目前，搭载灵巧手的机器人已在星动纪元的物流分拣和月泉仿生的带电作业等场景中落地。 北京市的具身智能行动方案支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。
+  📰 [新湖南](https://m.voc.com.cn/xhn/news/202611/34264323.html)
+
+- **[2026.11.16] 人民网 — 且看这双“灵巧手”（深度观察） --经济·科技**
+  中文：总结：核心零部件实现100%国产化、精度达到0.1毫米级、使用寿命突破100万次的机器人灵巧手正成为热门赛道，高工产业研究院预计2026年中国市场销量将达7.02万只，2030年有望突破43万只。 北京通用人工智能研究院与因时科技等专家指出，灵巧手是机器人交互的关键，需克服散热与感知协调等难题。 通过触觉传感器和微型电机的国产化突破，国内灵巧手价格已下探至1万元到5万元区间。 目前，相关产品已在星动纪元物流分拣和月泉仿生带电作业等场景实现落地，北京市并出台相关行动方案支持高可靠、高自由度灵巧手的攻关。
+  📰 [人民网](http://finance.people.com.cn/n1/2026/1116/c1004-40834224.html)
+
+- **[2026.11.15] 同花顺财经 — 量产节点到来之后：人形机器人卡在灵巧手上**
+  中文：总结：浙江人形机器人创新中心的藕池工厂内，轮臂式通用柔性作业机器人正推进量产，副总裁留云预计今年进入标准可复制状态。 北京11月11日印发的《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》设定目标，到2028年培育不少于5家国际一流、10家国内领先的人形机器人整机企业，京津冀区域整机产能占全国25%、关键零部件配套率超60%，并在京形成20万台/年的整机生产能力。 优必选柳州超级智慧工厂、众擎深圳基地及智元等多基地相继投产或具备万台级交付能力。 市场订单较去年翻倍，上游宁波本地供应商及国产电机替代取得进展。 灵巧手仍面临感知、驱动、控制及约占整机成本两成的硬约束，同时高质量训练数据稀缺、模型能力及场景落地节奏也是现实难题。 北京方案还提出建立上市“一对一”服务机制，为第一梯队企业缩短制度距离。
+  📰 [同花顺财经](http://news.10jqka.com.cn/20261115/c681829669.shtml)
+
+- **[2026.11.15] Sohu — Z Research｜灵巧手行业图谱：百亿资本，技术分歧，一场尚无定论的千手大战**
+  中文：总结：2026年，灵巧手赛道迎来大量资本涌入与初创企业批量融资，IT桔子数据显示前8个月相关赛道已发生74起融资，披露总额达285.1亿元。 美团, 阿里, 京东, 小米等互联网巨头，以及宁德时代, 理想汽车等制造业龙头与多地国资深入布局。 特斯拉Optimus等产品推动高自由度灵巧手向规模化制造演进，而Human-Centric Data, VLA模型、世界模型与强化学习的演进使灵巧手升级为物理交互、数据采集与模型验证的综合入口。 行业面临从硬件到数据、算法与软硬件生态的综合比拼，同时在驱动、触觉感知、控制算法与高昂成本上持续突破。
+  📰 [Sohu](https://m.sohu.com/a/1101781882_122063396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.11.15] BigGo Finance — Robot Skin Detecting 0.0005N, 20-Degree-of-Freedom Robot Hands: Physical AI Competition Ignites in Zurich**
+  English: At Swiss Robotics Day 2026 in Zurich, participating companies highlighted robot manipulation and tactile feedback. Swiss startup Inveel unveiled a 500-micrometer-thick robot skin capable of detecting objects up to 15 centimeters away and sensing forces down to 0.0005N. Unitree CEO Wang Xingxing presented a robot hand with more than 20 degrees of freedom designed to absorb large impacts. EPFL Robot Center head Aude Billard emphasized that fine manual skill and dexterity remain key hurdles for real-world deployment. Hexagon Robotics Director Enno de Lange noted that industrial sites demand reliable repetition for confidential parts without public training data. Agile Robots director Rory Sexton and Flexion CTO David Höller discussed alternative training approaches combining teleoperation data, simulation, and reinforcement learning.
+  中文：总结：在瑞士苏黎世举行的2026年瑞士机器人日上，参会企业重点展示了机器人操作与触觉反馈能力。 瑞士初创企业Inveel推出了厚度为500微米的机器人皮肤，可识别最远15厘米处的物体并感知低至0.0005N的微小力。 宇树科技创始人兼首席执行官王兴兴展示了一款拥有20多个自由度且旨在吸收巨大冲击的机器人手。 洛桑联邦理工学院机器人中心主任Aude Billard强调，精细的手部技能和灵活性仍然是实际部署的关键障碍。 海克斯康机器人物理人工智能与机器人总监Enno de Lange指出，工业现场需要在没有公开训练数据的情况下对机密零件进行可靠的重复操作。 Agile Robots董事Rory Sexton和Flexion首席技术官David Höller则讨论了结合遥操作数据、仿真与强化学习的不同训练方法。
+  📰 [BigGo Finance](https://finance.biggo.com/news/8e51681e-e3cc-44f4-9f4c-225c8ed55265)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.17 | full-text items: 8
