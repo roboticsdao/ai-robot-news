@@ -1,10 +1,10 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-17T14:00:28.215019+09:00",
+  "updated_at": "2026-11-18T13:06:52.092135+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-17T14:00:28.215019+09:00",
-    "latest_article_at": "2026-11-17T13:30:00+09:00",
+    "checked_at": "2026-11-18T13:06:52.092135+09:00",
+    "latest_article_at": "2026-11-17T22:35:48+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
@@ -15,14 +15,25 @@
   "articles": [
     {
       "date": "2026.11.17",
+      "published_at": "2026-11-17T22:35:48+09:00",
+      "headline": "工信部发布5项人形机器人标准，涉及智能化能力分级、灵巧手及训练数据等",
+      "source": "ThePaper.cn",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492647",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "11月17日，澎湃科技从工业和信息化部人形机器人与具身智能标准化技术委员会秘书处获悉，工信部于11月16日发布2026年第30号公告，正式发布5项人形机器人领域标准，自发布之日起实施。 此次发布的5项标准包括《人形机器人智能化能力分级》、《人形机器人电驱动一体化关节技术规范》、《人形机器人与具身智能灵巧手技术规范》、《人形机器人训练场构建技术规范》和《人形机器人训练数据管理要求》，覆盖智能化能力评价、关键零部件和机器人训练三大方向。 智能化能力分级标准建立从L0到L5的智能化能力分级框架；电驱动一体化关节技术规范聚焦核心关节的接口、性能指标和测试方法；灵巧手技术规范覆盖设计、测试、评价和交付等环节；训练场构建技术规范明确功能分区、空间布局、设备设施等要求；训练数据管理要求则覆盖数据采集、预处理、标注、质量评价、存储、流通、使用及销毁等全生命周期环节。",
+      "summary_zh": "11月17日，澎湃科技从工业和信息化部人形机器人与具身智能标准化技术委员会秘书处获悉，工信部于11月16日发布2026年第30号公告，正式发布5项人形机器人领域标准，自发布之日起实施。 此次发布的5项标准包括《人形机器人智能化能力分级》、《人形机器人电驱动一体化关节技术规范》、《人形机器人与具身智能灵巧手技术规范》、《人形机器人训练场构建技术规范》和《人形机器人训练数据管理要求》，覆盖智能化能力评价、关键零部件和机器人训练三大方向。 智能化能力分级标准建立从L0到L5的智能化能力分级框架；电驱动一体化关节技术规范聚焦核心关节的接口、性能指标和测试方法；灵巧手技术规范覆盖设计、测试、评价和交付等环节；训练场构建技术规范明确功能分区、空间布局、设备设施等要求；训练数据管理要求则覆盖数据采集、预处理、标注、质量评价、存储、流通、使用及销毁等全生命周期环节。"
+    },
+    {
+      "date": "2026.11.17",
       "published_at": "2026-11-17T13:30:00+09:00",
       "headline": "ロボットの「滑り」を早期検出 高速触覚センサー向けIC：最大800Hzで滑りの兆候を検出",
       "source": "EE Times Japan",
       "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/17/news028.html",
       "language": "Japanese",
       "section": "Global",
-      "summary": "Microchip Technology has announced the 'ATFCD52' high-speed capacitive digitizer, designed to enhance tactile sensing for robot hands by detecting normal and shear forces up to 800Hz. Supporting up to 52 channels via 32 transmit and 20 receive lines, the IC detects capacitance changes under 1 femtofarad. Alongside robotics, target applications include AR, gaming data-collection gloves, and wearable sensing. The article also highlights several other industry developments, including a solid-state battery mechanochemical synthesis system by AIST and partners, an AI SoC featuring STT-MRAM developed by Tohoku University and Aisin, a slime-like aqueous electrolyte collaboration between Maxell and Tokyo Tech, TDK's latest sensing solutions at CEATEC 2026, Murata Manufacturing and Melt Interface Technologies' ContactGlove3 Pro for physical AI, and NEDO's humanoid skateboard demonstration using imitation learning.",
-      "summary_zh": "Microchip Technology推出了高速静电容量デジタイザー「ATFCD52」，旨在通过检测法线力和せん断力，在最高800Hz的帧速率下捕捉滑动迹象，支持最大52个通道及1飞法以下的静电容量变化检测，主要应用于机器人及AR、可穿戴设备。 同期报道还提及：产业技术综合研究所等开发的全固体电池メカノケミカル合成自动化系统；东北大学与アイシン开发的搭载STT-MRAM的16nm AI SoC；マクセル与东京科学大开展的水系复合准个体电解质合作；TDK在CEATEC 2026上展示的最新传感器；村田制作所与Melt Interface Technologies展示的ContactGlove3 Proグローブ型デバイス；以及NEDO展示的人型机器人滑板见まね学習技术。"
+      "summary": "Microchip Technology announced the ATFCD52, a high-speed capacitive digitizer designed to enhance tactile sensing for robot hands. The IC supports up to 52 channels with 32 transmit and 20 receive lines, enabling 2D capacitive sensor arrays across contact surfaces. Featuring 20 parallel analog front-ends, it collects data from all receive lines simultaneously and achieves up to 800Hz frame rates depending on the sensor array size. The device can resolve capacitance changes under 1 femtofarad, providing high sensitivity to detect slight tactile sensor deformations. Targeted primarily at robotics, it is also proposed for AR, gaming accessories, data collection gloves, and wearable sensing. Additionally, Microchip offers the EV-ATFCD52 development board and ATFCD52 configurator software for evaluating sensor design and logging data.",
+      "summary_zh": "Microchip Technology宣布推出高速静电容量デジタイザー“ATFCD52”，旨在增强机器人手部把持物体的触觉传感。 该集成电路支持最大32条发送线和20条接收线，共计最多52个通道，可实现覆盖整个接触面的二维静电容量式传感器阵列。 它内置20个并行动作的模拟前端，能够同时收集所有接收线的数据，根据传感器阵列的大小实现最大800Hz的帧速率。 该器件具备高灵敏度，能够检测触觉传感器的微小变形，分解小于1飞法拉的静电容量变化。 ATFCD52的主要用途包括机器人技术，同时也被提议用于AR、游戏配件数据收集手套或脚垫以及可穿戴传感等应用。 此外，Microchip还准备了搭载ATFCD52的开发板“EV-ATFCD52”以及用于参数设置和实时数据记录的配置软件。"
     },
     {
       "date": "2026.11.16",
@@ -32,30 +43,19 @@
       "url": "https://www.unite.ai/robotera-opens-orders-for-xhand-1-pro-u-dexterous-robot-hand/",
       "language": "English",
       "section": "Global",
-      "summary": "ROBOTERA announced the commercial launch and open orders for its XHAND 1 Pro-U five-finger dexterous robot hand on November 16, 2026, releasing an initial 40 units of the 16-degree-of-freedom hand. The design mirrors NVIDIA's DexUMI exoskeleton, mapped directly to robot joints to allow human demonstrations to train GR00T 2 without additional teleoperation. Evaluated across three bimanual tasks—banana-yogurt preparation, granola scooping, and fire chemistry—GR00T 2 achieved success rates of 60%, 80%, and 75% respectively, whereas GR00T 1.7 and pi0.5 completed none of the tasks. NVIDIA and ROBOTERA's open licensing of capture designs and supply of execution hardware provide research teams a direct method to collect force-aware data.",
-      "summary_zh": "ROBOTERA于2026年11月16日宣布推出XHAND 1 Pro-U五指灵巧手并开放首批40只的手部订单。 该16自由度灵巧手采用NVIDIA的DexUMI外骨骼设计，实现一对一关节映射，使人类示范动作可直接用于训练GR00T 2。 在香蕉酸奶制作、格兰诺拉麦片舀取和消防化学三项双手任务评估中，GR00T 2的成功率分别为60%、80%和75%，而GR00T 1.7和pi0.5未完成任何任务。 开源的采集硬件设计与商业灵巧手相结合，为研究团队提供了收集力觉感知数据的途径。"
+      "summary": "ROBOTERA commercially launched the XHAND 1 Pro-U on November 16, 2026, opening orders for an initial 40-unit release of its five-finger dexterous robot hand. The hand features 16 degrees of freedom and is designed around NVIDIA GEAR Lab's DexUMI exoskeleton, a wearable device that records human demonstrations without requiring a robot, using direct joint mapping. Each DexUMI unit combines 15 magnetic encoders for finger joints, an OAK wrist camera, and fingertip sensors for normal and shear force. During collection, a wearer manipulates objects while DexUMI records movements, video, and forces, which are used to post-train GR00T 2 for execution on a dual-arm Tianji robot fitted with two XHAND1 Pro-U hands. In NVIDIA evaluations across three bimanual sequences—banana-yogurt preparation, granola scooping, and fire chemistry—GR00T 2 achieved overall success rates of 60%, 80%, and 75% respectively, while GR00T 1.7 and π0.5 completed none of the tasks.",
+      "summary_zh": "ROBOTERA于2026年11月16日宣布商业化推出XHAND 1 Pro-U，并为首批40只五指灵巧手发布开启订购。 这款拥有16个自由度的灵巧手围绕NVIDIA GEAR Lab的DexUMI外骨骼进行了设计，该可穿戴设备无需机器人即可记录人类示范，并实现关节之间的直接动作映射。 每个DexUMI单元结合了15个用于手指关节追踪的磁性编码器、OAK腕部相机以及用于测量法线力和せん断力的指尖传感器。 在采集过程中，佩戴者直接操作真实物体，DexUMI记录手部动作、腕部相机视频和指尖力，这些示范随后用于对GR00T 2进行后训练，并将习得的技能运行在配有两只XHAND1 Pro-U双臂的天机机器人上。 在NVIDIA对香蕉酸奶准备、麦片舀取和消防化学三项双手任务的评估中，GR00T 2的总体成功率分别达到60%、80%和75%，而GR00T 1.7和π0.5未能完成其中任何任务。"
     },
     {
       "date": "2026.11.16",
-      "published_at": "2026-11-16T09:55:43+09:00",
-      "headline": "万元级灵巧手如何撑起整机量产：北京方案里的零部件突围与场景竞速",
-      "source": "同花顺",
-      "url": "http://news.10jqka.com.cn/20261116/c681834967.shtml",
+      "published_at": "2026-11-16T13:07:40+09:00",
+      "headline": "[人民日报]且看这双“灵巧手”",
+      "source": "人大新闻网",
+      "url": "https://news.ruc.edu.cn/2122132117479682050.html",
       "language": "Chinese",
       "section": "Global",
-      "summary": "The market for robot dexterous hands in China is experiencing rapid growth, with sales projected to reach 7.02万只 in 2026 and over 43万只 by 2030, driven by the need for general-purpose robotic interaction in open environments. Researchers emphasize that dexterous hands are essential for physical interaction, solving challenges such as high-density mechanical constraints and thermal dissipation. Innovations include Peking University and BIGAI's F-TAC Hand featuring high-resolution tactile sensors with 0.1毫米 precision, and advancements in domestic supply chains lowering unit costs from millions to between 1万元 and 5万元 through localized tactile sensors and micro-motors. Applications span logistics sorting with Xingdong Xhand hands and live-wire electrical work with Yuequan Biansheng's W-Bot2.0. Beijing's municipal policies further support the development of high-reliability dexterous hands with 1 million cycle lifespans and 0.1牛 fingertip resolution.",
-      "summary_zh": "中国灵巧手市场销量预计2026年达到7.02万只，2030年突破43万只。 灵巧手作为机器人走向物理世界的关键末端，面临空间狭小与电机散热等工程难题。 北京大学与北京通用人工智能研究院等机构研制的F-TAC Hand实现了0.1毫米的空间分辨率，而核心零部件的国产化将单只价格从百万元降至1万元到5万元不等。 星动纪元与月泉仿生等企业的灵巧手已分别在物流分拣和带电作业场景中落地。 北京市的相关行动方案支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。"
-    },
-    {
-      "date": "2026.11.16",
-      "published_at": "2026-11-16T08:54:13+09:00",
-      "headline": "核心零部件100%国产化，精度达0.1毫米级，“灵巧手”不只会“比耶”",
-      "source": "新湖南",
-      "url": "https://m.voc.com.cn/xhn/news/202611/34264323.html",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "China's robot dexterous hand sector is transitioning from an accessory to an independent track, with market sales forecasted to reach 7.02万只 in 2026 and 43万只 by 2030. Researchers from the Beijing Institute for General Artificial Intelligence and companies like Inmo(因时科技) are addressing key engineering challenges, including thermal dissipation, high-resolution tactile sensing like the F-TAC Hand with 0.1毫米 resolution, and algorithmic coordination. Localization of core components—such as tactile sensors reduced to 199元 and micro-motors reducing single-finger driving costs—has brought commercial prices down to 1万元 to 5万元. Practical deployments include sorting packages via Xingdong Xhand and performing live-wire electrical maintenance using Yuequan Biansheng's W-Bot2.0, supported by Beijing municipal policies targeting 1 million life cycles and 0.1牛 resolution.",
-      "summary_zh": "中国机器人“灵巧手”市场销量预计2026年达到7.02万只，2030年突破43万只。 面对散热、感知与协调等工程难题，北京通用人工智能研究院与因时科技等企业通过核心零部件国产化，将触觉传感器价格降至最低199元，单指驱动成本降至120元，使产品售价下探至1万元到5万元。 目前，搭载灵巧手的机器人已在星动纪元的物流分拣和月泉仿生的带电作业等场景中落地。 北京市的具身智能行动方案支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。"
+      "summary": "根据高工产业研究院数据，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%，预计2026年销量达7.02万只，2030年有望突破43万只，正成为独立热门赛道。 作为机器人走向物理世界的“最后一厘米”，灵巧手是实现通用性和泛化性的关键末端。 造一只灵巧手面临工程量大、散热困难、感知与协调要求高等挑战。 国内企业在核心零部件自研、供应链整合和规模化量产上取得突破，曾经单片售价超10万元的触觉传感器实现国产化且最低售价降至199元，微型电机线径精度达0.02毫米，单指驱动成本降至120元，整体价格从百万元进口水平下探至1万元到5万元不等。 目前，搭载灵巧手的机器人已在中国邮政、顺丰等物流公司分拣包裹，或在国网合肥供电公司参与带电作业。 北京市已印发2026至2028年具身智能机器人产业高质量发展行动方案，支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。",
+      "summary_zh": "根据高工产业研究院数据，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%，预计2026年销量达7.02万只，2030年有望突破43万只，正成为独立热门赛道。 作为机器人走向物理世界的“最后一厘米”，灵巧手是实现通用性和泛化性的关键末端。 造一只灵巧手面临工程量大、散热困难、感知与协调要求高等挑战。 国内企业在核心零部件自研、供应链整合和规模化量产上取得突破，曾经单片售价超10万元的触觉传感器实现国产化且最低售价降至199元，微型电机线径精度达0.02毫米，单指驱动成本降至120元，整体价格从百万元进口水平下探至1万元到5万元不等。 目前，搭载灵巧手的机器人已在中国邮政、顺丰等物流公司分拣包裹，或在国网合肥供电公司参与带电作业。 北京市已印发2026至2028年具身智能机器人产业高质量发展行动方案，支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。"
     },
     {
       "date": "2026.11.16",
@@ -65,8 +65,8 @@
       "url": "http://finance.people.com.cn/n1/2026/1116/c1004-40834224.html",
       "language": "Chinese",
       "section": "Global",
-      "summary": "With core components 100% localized, 0.1毫米-level precision, and a lifespan exceeding 1 million cycles, robot dexterous hands are emerging as a major sector. According to GGII, China's market sales will hit 7.02万只 in 2026 and over 43万只 by 2030. Experts from BIGAI and Inmo note that dexterous hands serve as the crucial terminal for physical interaction, requiring solutions for extreme space constraints and motor thermal dissipation. Innovations like the F-TAC Hand provide 0.1毫米 tactile sensing resolution. Supply chain localization has reduced costs from over 100万元 for imports to 1万元 to 5万元 for domestic models. Applications have expanded to package sorting by Xingdong Xhand and live-wire maintenance by Yuequan Biansheng, while Beijing's policy framework supports the development of advanced high-reliability dexterous hands.",
-      "summary_zh": "核心零部件实现100%国产化、精度达到0.1毫米级、使用寿命突破100万次的机器人灵巧手正成为热门赛道，高工产业研究院预计2026年中国市场销量将达7.02万只，2030年有望突破43万只。 北京通用人工智能研究院与因时科技等专家指出，灵巧手是机器人交互的关键，需克服散热与感知协调等难题。 通过触觉传感器和微型电机的国产化突破，国内灵巧手价格已下探至1万元到5万元区间。 目前，相关产品已在星动纪元物流分拣和月泉仿生带电作业等场景实现落地，北京市并出台相关行动方案支持高可靠、高自由度灵巧手的攻关。"
+      "summary": "高工产业研究院数据显示，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%，2026年预计销量7.02万只，到2030年有望突破43万只，灵巧手正成为独立热门赛道。 作为机器人交互物理世界的关键末端，灵巧手在工业和家庭场景中具有不可替代的通用性。 制造灵巧手面临空间狭小、电机高负载散热难以及触觉感知和自主协调能力要求高等复杂挑战。 国内企业在核心零部件自研、全链条供应链整合与规模化量产上实现突破，曾经单片售价超10万元的触觉传感器实现国产化且售价降至最低199元，微型电机线径精度达0.02毫米，单指驱动成本降至120元，产品价格从过去动辄百万元的海外进口下探至1万元到5万元不等。 目前，搭载灵巧手的机器人已在中国邮政、顺丰等物流公司分拣包裹，并在国网合肥供电公司实现带电作业应用。 北京市印发了2026至2028年具身智能机器人产业高质量发展行动方案，支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。",
+      "summary_zh": "高工产业研究院数据显示，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%，2026年预计销量7.02万只，到2030年有望突破43万只，灵巧手正成为独立热门赛道。 作为机器人交互物理世界的关键末端，灵巧手在工业和家庭场景中具有不可替代的通用性。 制造灵巧手面临空间狭小、电机高负载散热难以及触觉感知和自主协调能力要求高等复杂挑战。 国内企业在核心零部件自研、全链条供应链整合与规模化量产上实现突破，曾经单片售价超10万元的触觉传感器实现国产化且售价降至最低199元，微型电机线径精度达0.02毫米，单指驱动成本降至120元，产品价格从过去动辄百万元的海外进口下探至1万元到5万元不等。 目前，搭载灵巧手的机器人已在中国邮政、顺丰等物流公司分拣包裹，并在国网合肥供电公司实现带电作业应用。 北京市印发了2026至2028年具身智能机器人产业高质量发展行动方案，支持攻关额定负载寿命100万次、指尖分控分辨率0.1牛、单只成本万元以内的高可靠、高自由度灵巧手。"
     },
     {
       "date": "2026.11.15",
@@ -76,8 +76,8 @@
       "url": "http://news.10jqka.com.cn/20261115/c681829669.shtml",
       "language": "Chinese",
       "section": "Global",
-      "summary": "浙江人形机器人创新中心的藕池工厂内，轮臂式通用柔性作业机器人正推进量产，副总裁留云预计今年进入标准可复制状态。 北京11月11日印发的《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》设定目标，到2028年培育不少于5家国际一流、10家国内领先的人形机器人整机企业，京津冀区域整机产能占全国25%、关键零部件配套率超60%，并在京形成20万台/年的整机生产能力。 优必选柳州超级智慧工厂、众擎深圳基地及智元等多基地相继投产或具备万台级交付能力。 市场订单较去年翻倍，上游宁波本地供应商及国产电机替代取得进展。 灵巧手仍面临感知、驱动、控制及约占整机成本两成的硬约束，同时高质量训练数据稀缺、模型能力及场景落地节奏也是现实难题。 北京方案还提出建立上市“一对一”服务机制，为第一梯队企业缩短制度距离。",
-      "summary_zh": "浙江人形机器人创新中心的藕池工厂内，轮臂式通用柔性作业机器人正推进量产，副总裁留云预计今年进入标准可复制状态。 北京11月11日印发的《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》设定目标，到2028年培育不少于5家国际一流、10家国内领先的人形机器人整机企业，京津冀区域整机产能占全国25%、关键零部件配套率超60%，并在京形成20万台/年的整机生产能力。 优必选柳州超级智慧工厂、众擎深圳基地及智元等多基地相继投产或具备万台级交付能力。 市场订单较去年翻倍，上游宁波本地供应商及国产电机替代取得进展。 灵巧手仍面临感知、驱动、控制及约占整机成本两成的硬约束，同时高质量训练数据稀缺、模型能力及场景落地节奏也是现实难题。 北京方案还提出建立上市“一对一”服务机制，为第一梯队企业缩短制度距离。"
+      "summary": "浙江人形机器人创新中心的藕池工厂内，轮臂式通用柔性作业机器人正推进量产，副总裁留云预计今年进入标准、可复制状态。 北京印发的行动方案提出到2028年培育多家整机企业并形成20万台/年产能。 多地工厂产能扩张，订单较去年翻倍，且供应商主动接单。 国产电机成功替代进口，部分供应链机会显现。 智元合伙人王闯指出灵巧手等作业关面临挑战，雷雄提到灵巧手成本占比约两成且技术路线未收敛。 京东曹鹏指出高质量训练数据稀缺等难题。 产品已进入汽车制造等领域，需在1到3年回本以实现商业化。 政策还提出上市一对一服务机制以缩短制度距离。",
+      "summary_zh": "浙江人形机器人创新中心的藕池工厂内，轮臂式通用柔性作业机器人正推进量产，副总裁留云预计今年进入标准、可复制状态。 北京印发的行动方案提出到2028年培育多家整机企业并形成20万台/年产能。 多地工厂产能扩张，订单较去年翻倍，且供应商主动接单。 国产电机成功替代进口，部分供应链机会显现。 智元合伙人王闯指出灵巧手等作业关面临挑战，雷雄提到灵巧手成本占比约两成且技术路线未收敛。 京东曹鹏指出高质量训练数据稀缺等难题。 产品已进入汽车制造等领域，需在1到3年回本以实现商业化。 政策还提出上市一对一服务机制以缩短制度距离。"
     },
     {
       "date": "2026.11.15",
@@ -87,8 +87,8 @@
       "url": "https://m.sohu.com/a/1101781882_122063396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "2026年，灵巧手赛道迎来大量资本涌入与初创企业批量融资，IT桔子数据显示前8个月相关赛道已发生74起融资，披露总额达285.1亿元。 美团、阿里、京东、小米等互联网巨头，以及宁德时代、理想汽车等制造业龙头与多地国资深入布局。 特斯拉Optimus等产品推动高自由度灵巧手向规模化制造演进，而Human-Centric Data、VLA模型、世界模型与强化学习的演进使灵巧手升级为物理交互、数据采集与模型验证的综合入口。 行业面临从硬件到数据、算法与软硬件生态的综合比拼，同时在驱动、触觉感知、控制算法与高昂成本上持续突破。",
-      "summary_zh": "2026年，灵巧手赛道迎来大量资本涌入与初创企业批量融资，IT桔子数据显示前8个月相关赛道已发生74起融资，披露总额达285.1亿元。 美团, 阿里, 京东, 小米等互联网巨头，以及宁德时代, 理想汽车等制造业龙头与多地国资深入布局。 特斯拉Optimus等产品推动高自由度灵巧手向规模化制造演进，而Human-Centric Data, VLA模型、世界模型与强化学习的演进使灵巧手升级为物理交互、数据采集与模型验证的综合入口。 行业面临从硬件到数据、算法与软硬件生态的综合比拼，同时在驱动、触觉感知、控制算法与高昂成本上持续突破。"
+      "summary": "2026年灵巧手赛道融资金额大幅增长，互联网巨头、汽车龙头与地方国资纷纷入局，推动行业从单一硬件性能比拼转向数据、算法与生态的综合竞争。 特斯拉Optimus等标杆推动高自由度灵巧手的发展，同时Human-Centric Data等第一视角人类数据路线快速崛起，多款触觉反馈手套与机器人产品相继发布。 VLA、世界模型与强化学习的演进促使灵巧手不仅作为末端执行器，更成为获取物理交互数据与验证策略的重要接口，促使软硬件结合持续深化。",
+      "summary_zh": "2026年灵巧手赛道融资金额大幅增长，互联网巨头、汽车龙头与地方国资纷纷入局，推动行业从单一硬件性能比拼转向数据、算法与生态的综合竞争。 特斯拉Optimus等标杆推动高自由度灵巧手的发展，同时Human-Centric Data等第一视角人类数据路线快速崛起，多款触觉反馈手套与机器人产品相继发布。 VLA、世界模型与强化学习的演进促使灵巧手不仅作为末端执行器，更成为获取物理交互数据与验证策略的重要接口，促使软硬件结合持续深化。"
     },
     {
       "date": "2026.11.15",
@@ -98,8 +98,8 @@
       "url": "https://finance.biggo.com/news/8e51681e-e3cc-44f4-9f4c-225c8ed55265",
       "language": "English",
       "section": "Global",
-      "summary": "At Swiss Robotics Day 2026 in Zurich, participating companies highlighted robot manipulation and tactile feedback. Swiss startup Inveel unveiled a 500-micrometer-thick robot skin capable of detecting objects up to 15 centimeters away and sensing forces down to 0.0005N. Unitree CEO Wang Xingxing presented a robot hand with more than 20 degrees of freedom designed to absorb large impacts. EPFL Robot Center head Aude Billard emphasized that fine manual skill and dexterity remain key hurdles for real-world deployment. Hexagon Robotics Director Enno de Lange noted that industrial sites demand reliable repetition for confidential parts without public training data. Agile Robots director Rory Sexton and Flexion CTO David Höller discussed alternative training approaches combining teleoperation data, simulation, and reinforcement learning.",
-      "summary_zh": "在瑞士苏黎世举行的2026年瑞士机器人日上，参会企业重点展示了机器人操作与触觉反馈能力。 瑞士初创企业Inveel推出了厚度为500微米的机器人皮肤，可识别最远15厘米处的物体并感知低至0.0005N的微小力。 宇树科技创始人兼首席执行官王兴兴展示了一款拥有20多个自由度且旨在吸收巨大冲击的机器人手。 洛桑联邦理工学院机器人中心主任Aude Billard强调，精细的手部技能和灵活性仍然是实际部署的关键障碍。 海克斯康机器人物理人工智能与机器人总监Enno de Lange指出，工业现场需要在没有公开训练数据的情况下对机密零件进行可靠的重复操作。 Agile Robots董事Rory Sexton和Flexion首席技术官David Höller则讨论了结合遥操作数据、仿真与强化学习的不同训练方法。"
+      "summary": "At Swiss Robotics Day 2026 in Zurich, participating companies highlighted robotic manipulation and dexterity. Inveel unveiled a 500-micrometer-thick robot skin detecting 0.0005N forces and objects up to 15 centimeters away. Unitree CEO Wang Xingxing presented a robot hand with over 20 degrees of freedom and an impact-absorbing drive structure. EPFL Robot Center head Aude Billard emphasized transferring human fine manual skills to robots. Hexagon Robotics Director Enno de Lange noted the gap between demonstrations and reliable industrial deployment without public training data. Agile Robots Director Rory Sexton highlighted experience and data as key, while Flexion CTO David Höller emphasized post-training using simulation and reinforcement learning.",
+      "summary_zh": "在瑞士苏黎世举行的2026年瑞士机器人日上，参会企业重点展示了机器人操作与灵巧性。 Inveel发布了厚度为500微米的机器人皮肤，可检测0.0005N的力和最远15厘米的物体。 宇树科技创始人兼首席执行官王兴兴展示了拥有20多个自由度且具备抗冲击驱动结构的机器人手。 洛桑联邦理工学院机器人中心负责人Aude Billard强调了将人类精细手部技能转移给机器人的重要性。 海克斯康机器人物理AI与机器人总监Enno de Lange指出了演示与在无公开训练数据情况下实现可靠工业部署之间的差距。 Agile Robots总监Rory Sexton强调经验和数据是关键，而Flexion首席技术官David Höller则强调利用仿真和强化学习进行后训练。"
     }
   ]
 }
