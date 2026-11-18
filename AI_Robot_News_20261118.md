@@ -12,105 +12,112 @@
 ## 🇺🇸 美国 / United States
 
 
-- **[2026.11.18] Business Insider Africa — Nvidia tells robotics startups they have its support as questions swirl about its investment strategy**
-  English: Nvidia and its venture capital arm, NVentures, contacted at least three backed robotics startups to reassure them of continued support following Jensen Huang's exit. The outreach comes amid uncertainty regarding Nvidia's broader investment strategy under interim CEO Colette Kress, who is expected to pursue deals more slowly than Huang. Nvidia has backed more than 35 robotics and physical AI companies, with 29 disclosing funding rounds totaling nearly $11 billion. The portfolio includes Figure AI, Neura Robotics, Skild AI, Wayve, and Waabi. Nvidia held $48 billion in stakes across 229 private companies at the end of July. Deepu Talla stated that Nvidia intends to continue cultivating the ecosystem and reported that robotics products brought in $11 billion in the first half of this year, which is 30% more than in all of 2025.
-  中文：总结：在 Jensen Huang 离职后，Nvidia 及其风险投资部门 NVentures 联系了至少三家其支持的机器人初创公司，向它们保证将继续获得支持。 此次联系是在临时首席执行官 Colette Kress 领导下的 Nvidia 更广泛投资策略存在不确定性的背景下进行的，预计 Kress 推进交易的速度会比 Huang 更慢。 Nvidia 已支持超过 35 家机器人和具身智能公司，其中 29 家披露的融资总额接近 $11 billion。 其投资组合包括 Figure AI、Neura Robotics、Skild AI、Wayve 和 Waabi。 截至 7 月底，Nvidia 在 229 家私营公司中持有 $48 billion 的股份。 Deepu Talla 表示，Nvidia 打算继续培育该生态系统，并报告称今年上半年机器人产品收入达到 $11 billion，比 2025 年全年的收入高出 30%。
-  📰 [Business Insider Africa](https://africa.businessinsider.com/news/nvidia-tells-robotics-startups-they-have-its-support-as-questions-swirl-about-its/cfe3n53)
+- **[2026.11.18] Korea JoongAng Daily — Boston Dynamics to deploy robots at GlobalFoundries' chip plants**
+  English: Boston Dynamics will deploy its four-legged robot Spot at GlobalFoundries facilities worldwide, including locations in the U. S. states of New York and Vermont, as well as Germany and Singapore. In addition, the two companies will begin testing Boston Dynamics' humanoid robot Atlas at GlobalFoundries' semiconductor manufacturing facilities in early 2027. This marks the first trial of the Atlas humanoid robot outside the automotive industry, making GlobalFoundries the first non-auto company to join the Atlas testing program to explore potential uses in chip manufacturing.
+  中文：总结：波士顿动力公司将在全球格芯（GlobalFoundries）的工厂部署其四足机器人Spot，部署地点包括美国纽约州和佛蒙特州以及德国和新加坡的设施。 此外，两家公司将于2027年初在格芯的半导体制造设施中开始测试波士顿动力公司的人形机器人Atlas。 这是Atlas人形机器人首次在汽车行业之外进行测试，格芯也成为了首家加入波士顿动力Atlas测试计划的非汽车行业公司，以探索人形机器人在芯片制造中的应用可能。
+  📰 [Korea JoongAng Daily](https://www.koreajoongangdaily.com/business/boston-dynamics-to-deploy-robots-at-globalfoundries-chip-plants/12978649)
 
-- **[2026.11.18] marketscreener.com — Boston Dynamics and GlobalFoundries Expand Robotics Collaboration**
-  English: Boston Dynamics and GlobalFoundries announced an expanded collaboration to deploy Spot for autonomous enterprise asset management across GlobalFoundries' manufacturing sites in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. In addition, GlobalFoundries will become the first customer outside the automotive industry to test Boston Dynamics' Atlas humanoid in an early adopter program and skills development workshop. Beginning in early 2027, the companies will test Atlas onsite to evaluate potential humanoid use cases, assess customer readiness and integration needs, and conduct early testing and training for specific task execution. The two companies have collaborated on GlobalFoundries' robotics program for over four years.
-  中文：总结：波士顿动力（Boston Dynamics）与格芯（GlobalFoundries）宣布扩大合作，在格芯位于纽约马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的制造基地部署 Spot，用于自动企业资产管理。 此外，格芯将成为汽车行业之外第一家通过早期采用者计划和技能发展研讨会测试波士顿动力 Atlas 人形机器人的客户。 从 2027 年初开始，两家公司将在格芯的设施现场测试 Atlas，以评估潜在的人形机器人用例、评估客户准备情况和集成需求，并针对特定任务执行开展早期测试和培训。 两家公司在格芯的机器人项目上已经合作了四年多。
-  📰 [marketscreener.com](https://www.marketscreener.com/news/boston-dynamics-and-globalfoundries-expand-robotics-collaboration-ce785edcdd8efe27)
+- **[2026.11.18] 디지털투데이 — Nvidia contacts robotics startups after Jensen Huang resignation to keep support**
+  English: Nvidia and its venture investment unit NVentures directly contacted at least three robotics startups they have invested in to promise continued support following Jensen Huang's resignation. The outreach started last Thursday to reassure portfolio companies amid uncertainty over future investment strategy under interim CEO Colette Kress. Under Jensen Huang, Nvidia invested in more than 35 robotics and physical AI companies, with 29 disclosing fundraising totaling nearly $11 billion, as part of a strategy involving simulation tools, software, and semiconductors. Nvidia vice president of robotics Deepu Talla stated the company will continue to actively foster the related ecosystem, and reported that robotics product revenue in the first half of this year reached $11 billion, representing a 30 percent increase over full-year 2025 revenue. It remains uncertain whether the pace of new investments will be maintained.
+  中文：总结：英伟达及其风险投资部门NVentures在首席执行官黄仁勋辞职后，直接联系了其投资的至少三家机器人初创公司，并承诺将继续给予支持。 此举旨在黄仁勋辞职后由于临时首席执行官科雷特·克레스（Colette Kress）接任而引发投资战略不确定性的背景下，向现有投资组合公司提供安抚并确保现有运营照常进行。 在黄仁勋的领导下，英伟达投资了35家以上的机器人和具身智能公司，其中29家披露的总融资额接近$11 billion。 英伟达机器人业务副总裁Deepu Talla表示，公司将继续积极培育相关生态系统，并透露今年上半年的机器人产品营收达到$11 billion，比2025年全年营收高出30 percent。 目前尚不确定新投资的步伐是否能维持以往的水平。
+  📰 [디지털투데이](https://www.digitaltoday.co.kr/en/view/127216/nvidia-contacts-robotics-startups-after-jensen-huang-resignation-to-keep-support)
+
+- **[2026.11.18] Business Insider — Nvidia tells robotics startups they have its support as questions swirl about its investment strategy**
+  English: Following Jensen Huang's sudden departure, Nvidia and its venture capital arm, NVentures, have contacted at least three backed robotics startups to reassure them of continued support and business as usual. The outreach started last Thursday amidst uncertainty surrounding the broader investment strategy of interim CEO Colette Kress, who is expected to pursue deals less rapidly than Huang. Under Huang, Nvidia invested in over 35 robotics and physical AI companies, with 29 disclosing funding rounds totaling nearly $11 billion, including humanoid makers Figure AI and Neura Robotics, foundation model developer Skild AI, self-driving software firm Wayve, and autonomous trucking startup Waabi. By the end of July, Nvidia held $48 billion in stakes across 229 private companies. Deepu Talla, an Nvidia robotics vice president, stated that the company intends to continue aggressively cultivating the ecosystem, noting that Nvidia's robotics products generated $11 billion in the first half of this year, representing a 30% increase compared to all of 2025.
+  中文：总结：在黄仁勋突然离职后，英伟达及其风险投资部门NVentures已联系至少三家其支持的机器人初创公司，重申对它们的支持并保证业务照常进行。 这些联系始于上周四，正值临时首席执行官科莱特·克雷斯接任之际，外界对英伟达更广泛的投资策略存在不确定性，预计克雷斯的交易推进速度将不如黄仁勋。 在黄仁勋的领导下，英伟达投资了35家以上的机器人和具身智能公司，其中29家披露的融资总额接近$11 billion，投资组合包括人形机器人制造商Figure AI和Neura Robotics、机器人基础模型开发商Skild AI、自动驾驶软件公司Wayve以及自动驾驶卡车初创公司Waabi。 截至7月底，英伟达在229家私营公司中持有$48 billion的股份。 英伟达机器人副总裁Deepu Talla表示，公司旨在继续积极培育生态系统，并指出英伟达今年上半年的机器人产品收入达到$11 billion，比2025年全年的收入高出30%。
+  📰 [Business Insider](https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11)
+
+- **[2026.11.18] GlobalFoundries — Boston Dynamics and GlobalFoundries Expand Robotics Collaboration**
+  English: Boston Dynamics and GlobalFoundries (GF) have expanded their collaboration to deploy Spot robots for autonomous enterprise asset management across GF manufacturing sites in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. Additionally, GF will become the first non-automotive customer to test Boston Dynamics' Atlas humanoid robot as part of an early adopter program and skills development workshop starting in early 2027. GF has utilized Spot at its Burlington facility for over four years and recently expanded deployment to Singapore, where two Spot robots completed over 90,000 inspections with a 99% mission success rate. According to Pradip Singh, GF's chief manufacturing officer, Spot has helped transition operations to predictive maintenance. Zack Jackowski, Chief Product & Technology Officer at Boston Dynamics, stated that innovative companies like GF are realizing operational value while collecting data useful for future manufacturing innovation.
+  中文：总结：波士顿动力公司与格芯（GF）扩大了合作，将在格芯位于纽约马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的制造基地部署Spot机器人，用于自主企业资产管理。 此外，格芯将成为汽车行业之外第一家测试波士顿动力Atlas人形机器人的客户，参与2027年初开始的早期采用者计划和技能开发研讨会。 格芯在佛蒙特州伯灵顿的制造厂使用Spot已超过四年，近期还将该计划扩展到新加坡，两台Spot机器人在当地完成了90,000多次检查，任务成功率达到99%。 格芯首席制造官Pradip Singh表示，Spot帮助公司实现了从反应性维护向预测性维护的转变。 波士顿动力首席产品与技术官Zack Jackowski表示，像格芯这样的创新公司正在实现实际运营价值，同时收集对未来几年制造创新极其有用的数据。
+  📰 [GlobalFoundries](https://gf.com/news-and-events/news/boston-dynamics-and-globalfoundries-expand-robotics-collaboration/)
 
 - **[2026.11.17] KED Global — Naver invests in US autonomous welding startup Path Robotics to expand into physical AI**
-  English: Naver Corp. stated on Thursday that it expects its artificial intelligence factory project with Nvidia Corp. and Brookfield Asset Management Ltd. to boost earnings with a $1.5 billion deal, following disappointing earnings that hit its shares. The announcement took place in Seongnam, Gyeonggi Province, South Korea.
-  中文：总结：韩国最大的在线平台运营商 Naver Corp. 于周四表示，在令股价受挫的令人失望的财报发布后，该公司预计其与 Nvidia Corp. 以及 Brookfield Asset Management Ltd. 合作的人工智能工厂项目将通过一项 $1.5 billion 的交易提振收益。 该公告发布于韩国京畿道城南市。
+  English: South Korea’s top online platform operator Naver Corp. announced on Thursday that it expects its artificial intelligence factory project with Nvidia Corp. and Brookfield Asset Management Ltd. to boost earnings through a $1.5 billion deal, although disappointing earnings have recently impacted its shares.
+  中文：总结：韩国顶级在线平台运营商Naver Corp. 于周四表示，预计其与英伟达公司和布鲁塞尔资产管理有限公司合作的人工智能工厂项目将通过一项$1.5 billion的交易来提振收益，尽管令人失望的收益近期对其股价造成了冲击。
   📰 [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202611170013)
-
-- **[2026.11.17] finance.biggo.com — The Company Outcompeting China and Tesla in Robotics | Robotic Deep-Dive w/ Brett Adcock (Figure AI)**
-  English: Key Takeaways Figure CEO Brett Adcock says neural-network-driven humanoids, backed by a 100,000-GPU Nscale deal and billion-dollar training runs, will reach $300–500 monthly home leases and lights-out robot-building factories within five years, with China the closest rival.
-  📰 [finance.biggo.com](https://finance.biggo.com/podcast/529cef7b6b5c6050)
-
-- **[2026.11.16] Cyprus Mail — Cyprus robotics startup Autonomics prepares for US debut in Las Vegas**
-  English: ASBIS and Kinisis back Autonomics’ expansion into US market Cyprus-based robotics startup Autonomics will make its US market debut in Las Vegas on November 17, showcasing its autonomous cleaning technology at one of the world’s largest events for the cleaning and facilities management industry.
-  📰 [Cyprus Mail](https://cyprus-mail.com/2026/11/16/cyprus-robotics-startup-autonomics-prepares-for-us-debut-in-las-vegas)
 
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.11.18] 新浪财经 — 优必选周剑：通用人形机器人具备强泛化能力尚需时日**
-  中文：总结：优必选创始人、董事会主席兼首席执行官周剑在2026年APEC工商领导人峰会上表示，通用人形机器人具备强泛化能力以目前的硬件和大模型水平尚需时日发展。 在此空档期，场景数据和端侧对场景的理解最为关键。 亚太各国的人形机器人解决方案各不相同，人形机器人只是解决方案中的一环。 优必选正与泰国国王科技大学、本田贸易、日立电器等合作，在日本、韩国、泰国、新加坡、越南发展生态伙伴，基于机器人开展二次开发，将硬件平台与本地场景及科研力量结合。 他展望，未来机器人进入家庭后，各国在文化理解、客户偏好和语言层面会形成差异并最终融合。
-  📰 [新浪财经](https://finance.sina.cn/hy/2026-11-17/detail-iniyzxec2120030.d.html?vt=4)
+- **[2026.11.18] 新华网 — 亚太目光下的深圳：从机器人企业看见创新的中国答案**
+  中文：总结：深圳在2026年11月展现出强劲的科技创新与具身智能产业活力。 南山区十余公里的大道两侧聚集了超200家机器人产业链企业，形成了成熟的“机器人谷”。 深圳海关2026年10月下旬发布的统计显示，2026年前三季度深圳机器人合计出口134.49亿元，同比增长12.9倍。 在具体应用场景中，瑞为技术创始人、董事长詹东晖指出，科技创新不仅要提升效率，更要承担起繁重体力劳动。 瑞为技术的智慧民航通行方案已将人证核验覆盖范围拓展至0.8米至2.2米，服务超15亿人次，落地全国约三分之二的千万级客流机场。 同时，其研发的“晓蚁”具身智能行李转运机器人已在华东区某千万级客流机场开启POC试点，旨在解决地勤工人的高强度弯腰提举痛点。 在产业化路径上，詹东晖认为应聚焦重体力劳动、高危或空间受限环境、高重复性劳动等三类刚需场景，坚持技术成熟度与客户投入产出比。 目前，瑞为的智慧通行方案已在乌兹别克斯坦塔什干国际机场启动试点，具身智能行李转运机器人正瞄准新加坡、泰国、日本等亚太一线枢纽机场推进，助力亚太区域实现技术、规则与标准的软联通。
+  📰 [新华网](https://www.news.cn/fortune/20261118/b00b8db82c1f47e882ce4d89a9bda07b/c.html)
 
-- **[2026.11.18] 新浪财经 — 【长三角日报】宇树科技王兴兴：机器人去家里真正干活或许很快能实现**
-  中文：总结：宇树科技董事长王兴兴在深圳参加APEC工商领导人峰会时表示，大众希望借助AI让机器人进入千家万户真正干活，泛化能力是目前最棘手的挑战，但今年全球技术突破已让其看到临界点，或许很快能实现。 王兴兴提醒，产业链仍将面临生产制造、产品可靠性、售后服务、算力需求暴增以及使用安全等系列考验，需要行业共同应对。 此外，浙江省政府近期批复同意设立浙江工商职业技术学院霍姆斯格兰数智技术学院、浙江金融职业学院阿尔卡拉数字技术应用学院这2个中外合作办学机构。
-  📰 [新浪财经](https://finance.sina.cn/2026-11-17/detail-iniyzxcz5373015.d.html?vt=4&cid=76729&node_id=76729)
+- **[2026.11.18] 信息化观察网 — 宇树腰斩之后，具身智能开始为“数据泡沫”买单**
+  中文：总结：宇树科技上市首日市值最高冲到4449亿后大幅回落，引发资本市场对具身智能行业“数据泡沫”的反思。 行业面临严重的有效数据缺口，截至2026年初，全球合规可用的真机有效数据仅约50万小时，而需求量至少高达5亿小时。 博登智能、本原智数、标贝科技、灵心巧手等产业链企业指出，行业缺的不仅是数据总量，更是多元、场景化、高价值的有效供给。 具身数据面临采集难度大、标注成本高、泛化能力弱等三道窄门。 目前真机遥采成本高昂，单人每日有效正向训练数据仅200至400条。 为此，企业正探索多源融合与虚实协同，博登智能提出构筑十亿条专家轨迹数据与十亿小时具身操作数据底座。 同时，由于厂商技术路线和数据标准不统一，导致数据“一机一采”且难以跨本体复用。 在资本与市场压力下，2026年中国涌现出至少90座具身智能数据采集中心，但也伴随着通过关联交易制造虚假收入等行业乱象。 业内专家指出，数据供给需从粗放规模竞赛转向精细化量质双升，确保数据真正驱动机器能力演进并转化为商业回报。
+  📰 [信息化观察网](https://www.infoobs.com/article/20261118/72186.html)
+
+- **[2026.11.18] 朝鮮日報中文版 — 美国以安全为由禁止进口中国的人形机器人**
+  中文：总结：当地时间28日，美国联邦通信委员会（FCC）宣布限制外国产人形机器人和四足行走机器人的新机型在美国销售，理由是机器人收集的敏感数据可能被用于监视美国人及工业设施，且系统遭黑客攻击可能导致关键设施瘫痪。 此外，美国政府还将连接太阳能和电池数据中心的外国产电力逆变器纳入监管范围，以防止华为、阳光电源等中国企业通过远程控制关闭美国电网。 此前，美国已对华为和中兴的通信设备、字节跳动旗下的TikTok应用以及DJI等中国制造的无人机实施了精准监管。 《金融时报》分析指出，美国对华政策已从过去的大规模加征关税转向针对安全直接相关的特定产业实施精准打击。
+  📰 [朝鮮日報中文版](https://cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate=M1003&nNewsNumb=20260765146&nidx=65147)
 
 - **[2026.11.16] 中国科大新闻网 — 工程科学学院举办力学与机器人交叉前沿研讨会**
-  中文：总结：中国科学技术大学工程科学学院近代力学系于11月13日举办力学与机器人交叉前沿研讨会。 开幕式由近代力学系执行主任王柳主持，中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授致辞。 在学术报告环节，多位高校专家学者围绕微型仿生机器人、流固耦合动力学、智能材料与结构、机器人建模与控制、减振技术、4D打印及具身智能医疗机器人等方向作专题报告。 与会专家还参观了中国科学技术大学人形机器人研究院展厅，并围绕力学与机器人工程专业发展、课程体系建设及跨学科人才培养等深入交流，认为力学与机器人交叉融合前景广阔。
+  中文：总结：11月13日，中国科学技术大学工程科学学院近代力学系在高新园区三号学科楼举办力学与机器人交叉前沿研讨会，会议获中国科学技术大学学科建设及特色发展专项支持。 开幕式由近代力学系执行主任王柳主持，中国力学学会副理事长、浙江大学曲绍兴教授和工程科学学院执行院长吴恒安教授分别致辞。 学术报告环节中，来自浙江大学、华中科技大学、北京航空航天大学、南京航空航天大学、湖南大学、复旦大学、西北工业大学、西安交通大学、苏州大学和密歇根大学的专家学者围绕微型仿生机器人、流固耦合动力学、智能材料与结构、机器人建模与控制、减振技术、4D打印及具身智能医疗机器人等方向作了专题报告。 会议期间，与会专家参观了中国科学技术大学人形机器人研究院展厅，并在随后的讨论环节中，围绕力学与机器人工程专业发展方向、课程体系建设及跨学科人才培养等方面深入交流，一致认为应进一步加强跨学科协同与人才培养体系建设。
   📰 [中国科大新闻网](http://news.ustc.edu.cn/info/1055/96921.htm)
 
-- **[2026.11.17] 每日经济新闻 — 权志龙母公司押注具身智能！专访CEO崔龙湖：机器人K-pop演唱会12月澳门地区首唱，“中国造骨架、韩国配节目”能否规模化盈利**
-  中文：总结：韩国娱乐科技公司Galaxy Corporation创始人兼CEO崔龙湖接受专访，披露了投资规模约2000万美元的Galaxy Robot Park运营半年的成绩单，吸引约3.3万人次付费入园。 该公司计划2027年1月推出机器人女团，并于今年12月在中国澳门首唱机器人K-pop演唱会。 崔龙湖表示高度认可中国企业在机器人硬件上的优势，已与宇树科技、巨星传奇等中国上市公司合作，探索中国造硬件、韩国出内容与软件的商业化路径。 权志龙担任韩国科学技术院机械工程系特聘教授，其概念粉色宇航员形象曾通过英伟达Omniverse等AI工具完成广告演绎。 乐园未来计划持续开发新节目，推出机器人动物园与常态化魔术秀，并筹备海外巡演与全球市场布局。
-  📰 [每日经济新闻](https://www.nbd.com.cn/articles/2026-11-17/4650563.html)
-
-- **[2026.11.17] 21财经 — 优必选CEO周剑：人形机器人进入亚太的路径将是“一域一策”**
-  中文：总结：优必选创始人、首席执行官周剑在2026年APEC工商领导人峰会粤港澳大湾区与亚太发展机遇论坛上表示，人形机器人要真正融入亚太各经济体，必须与具体场景和场景数据深度结合，采用一域一策的落地路径。 他指出，大湾区成熟的供应链为硬件提供了坚实底座，叠加中国香港的资本市场与国际科研力量，正形成完整支撑。 通用人形机器人具备强泛化能力还需要发展时间，空档期内场景数据和端侧对场景的理解最关键。 目前优必选的生态合作伙伴已覆盖日本、韩国、泰国、新加坡、越南等经济体，围绕橡胶切割等本地特色场景开展二次开发。 周剑还指出技术普惠需跨越场景本地化与伦理治理两类障碍，未来机器人进入家庭后各经济体将实现文化融合。
-  📰 [21财经](https://www.21jingji.com/article/20261117/herald/f357d50e0437ad01778f036b9d611b7b.html)
+- **[2026.11.18] 21财经 — 华为昇腾云已覆盖80%的中国具身智能企业，创业板算力ETF广发（158049）标的指数盘中最高涨超1.7%，成交额快速突破2亿元**
+  中文：总结：11月18日，三大指数集体走低，华为算力概念再度走强。 创业板算力基础设施指数（970083. SZ）逆市走强，盘中一度涨超1.7%，成份股先进数通、四会富仕涨幅领先。 华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2，在两个评测基准中均排名第一，华为昇腾云在具身智能市场格局中国第一，已有80%的中国具身智能企业选择昇腾云。 广东省人民政府印发《数字广东建设“十五五”规划》，建强高质量算力供给体系。 TrendForce预计2026年中国高端AI芯片出货量将达到500万片，同比增长83%。 中信建投证券指出当前国内智算中心建设加速，国产AI芯片渗透率持续提升。 截至发稿，创业板算力ETF广发（158049）成交额超2亿元，换手率超18%。
+  📰 [21财经](https://www.21jingji.com/article/20261118/herald/8f9c8e15cb0209c23c567887c4868053.html)
 
 
 ## 🇯🇵 日本 / Japan
 
 
 - **[2026.11.17] 電波タイムズ — アイリスオーヤマとNTT西日本、フィジカルAIで異種ロボット連携 「JILBY」と「ugo Nova」で実証**
-  日本語：アイリスオーヤマとNTT西日本は、AIでセキュリティカメラやロボットなどを統合管理するマルチロボティクスプラットフォームを活用した共同実証の成果を発表した。 今回の検証では、VLA、VLM、LLMなどのフィジカルAIを活用し、セキュリティカメラの解析結果をもとにアイリスオーヤマのDX清掃ロボット「JILBY」へ指示する連携や、ugo製のヒューマノイドロボット「ugo Nova」と「JILBY」の異種ロボット間での情報共有・役割分担、自律動作の技術的成立性を確認した。 両社は今後、商用化・事業化の可能性を検討し、施設管理業務の効率化を目指す。
-  中文：总结：アイリスオーヤマ和NTT西日本发表了利用AI综合管理安全摄像头和机器人等的“多机器人平台”共同验证成果。 在本次验证中，运用了VLA、VLM、LLM等物理AI，确认了根据安全摄像头解析结果向アイリスオーヤマ的DX清扫机器人“JILBY”发送指示的联动，以及ugo制人形机器人“ugo Nova”与“JILBY”等不同种类机器人间的信息共享、角色分担和自主动作的技术可行性。 两家公司今后将探讨商业化、事业化可能性，旨在提高设施管理业务的效率。
+  日本語：アイリスオーヤマとNTT西日本は、AIでセキュリティカメラや各種ロボットなどを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証の成果を発表した。 実証ではVLA、VLM、LLMを活用し、セキュリティカメラの画像をVLMで解析してアイリスオーヤマのDX清掃ロボット「JILBY」へ指示する連携や、JILBYとugo製ヒューマノイドロボット「ugo Nova」の異種ロボット間連携を確認した。 両社は2025年10月に業務提携に関する基本合意覚書を締結しており、第一弾としてJILBYとプラットフォームの連携などを検証してきた。 第二弾では対象を施設設備や異種ロボットへ広げ、今後商用化・事業化の可能性を検討し、施設管理業務の効率化を目指す。
+  中文：总结：アイリスオーヤマ和NTT西日本公布了利用“多机器人平台”进行联合实证的成果，该平台通过AI综合管理安全摄像头和各种机器人。 在本次实证中，双方利用了VLA、VLM和LLM，确认了通过VLM解析安全摄像头图像并向アイリスオーヤマ的DX清扫机器人“JILBY”下达指示的联动，以及JILBY与ugo制人形机器人“ugo Nova”等异种机器人之间的联动。 两家公司于2025年10月签署了关于IoT领域DX推进的业务合作基本意向书，第一弹验证了JILBY与平台的联动等内容。 第二弹将对象扩大至设施设备和异种机器人，今后将探讨商用化和业务化的可能性，旨在提高设施管理业务的效率。
   📰 [電波タイムズ](https://www.dempa-times.co.jp/press-release/61764/)
 
 - **[2026.11.17] PR TIMES — フィジカルAIとロボット社会の未来を体感 ～ 西日本最大規模※のロボット専門展『RoboNext2026』まもなく開催！**
-  日本語：一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日までインテックス大阪でロボット専門展示会「RoboNext2026」を開催する。 本展では、ロボットの社会実装を加速させるため、企画展示や、「フィジカルAI」などをテーマにしたメインステージプログラム、うどんの調理や下膳を行う実演展示などを実施する。 318社・団体が出展し、労働力不足や地域課題に対するロボットとAIの解決策を提示することを目指している。
-  中文：总结：一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日在Intex大阪举办机器人专业展会“RoboNext2026”。 本展会为加速机器人的社会应用，实施了企划展示、以“物理AI”等为主题的主舞台节目、以及进行乌冬面烹饪和收拾餐具的实演展示。 共有318家企业和团体参展，旨在针对劳动力短缺和地区课题展示机器人与AI的解决方案。
+  日本語：一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日まで、インテックス大阪で西日本最大規模のロボット専門展「RoboNext2026」を開催する。 テーマは「ロボットをもっと身近に、そして未来へ。 」で、人手不足や地域課題の解決策を提示することを目指している。 出展規模は318社・団体、1026小間。 フィジカルAIやヒューマノイドをテーマにした講演や、外食産業の人手不足を支援するうどん提供ロボットなどの実演展示が行われる。 入場料は1000円だが、事前登録者などは無料となる。
+  中文：总结：一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日在大阪国际展览中心举办西日本最大规模的机器人专业展会“RoboNext2026”。 本展以“让机器人更贴近生活，迈向未来”为主题，旨在为劳动力短缺等日本社会面临的课题提供解决方案。 展会规模为318家企业及团体、1026个展位。 期间将举办以物理AI和人形机器人为主题的演讲，并进行餐饮行业服务机器人的实演展示。 门票为1000日元，完成事前注册者等可免费入场。
   📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000329.000033323.html)
 
 - **[2026.11.17] 電波タイムズ — ugo、NTT西日本にAIロボット「ugo Nova」を導入**
-  日本語：ugoは11月16日、NTT西日本に国産AIロボット「ugo Nova」を導入したと発表した。 車輪移動型の双腕セミヒューマノイドロボットであり、製造現場や倉庫などにおける作業の自動化を目指している。 11月18日からの「NTT R&D FORUM 2026」や12月2日からの「スマートビルディングEXPO」のNTT西日本ブースで公開され、製造業での活用を想定したデモンストレーションを実施する。 NVIDIA Jetson Thorを搭載し、エッジ推論に対応している。
-  中文：总结：ugo于11月16日宣布向NTT西日本引入国产AI机器人“ugo Nova”。 该产品是一款采用车轮移动的双臂半人形机器人，旨在实现制造现场和仓库等场所作业的自动化。 该机器人将在11月18日开幕的“NTT R&D FORUM 2026”以及12月2日开幕的“智能建筑EXPO”的NTT西日本展位上公开，并进行假定应用于制造业的演示。 其搭载了NVIDIA Jetson Thor人工智能计算机，支持边缘推理。
+  日本語：ugoは11月16日、NTT西日本に国産AIロボット「ugo Nova」を導入したと発表した。 ugo NovaはフィジカルAIの社会実装を見据えて開発された車輪移動型の双腕セミヒューマノイドロボットで、双腕による物品の取り扱いや自律移動に対応する。 AIコンピューター「NVIDIA Jetson Thor」を搭載し、エッジ推論にも対応している。 NTT西日本は11月18日からの「NTT R&D FORUM 2026」や12月2日からの「スマートビルディングEXPO」のブースで公開し、製造業での活用を想定したデモンストレーションを実施する。
+  中文：总结：ugo于11月16日宣布，已向西日本电信电话株式会社（NTT西日本）引入国产AI机器人“ugo Nova”。 ugo Nova是着眼于物理AI社会应用而开发的轮式双臂半人形机器人，支持双臂处理物品及自主移动。 该机器人搭载了“NVIDIA Jetson Thor”AI计算机，支持边缘推理。 NTT西日本将在11月18日开幕的“NTT R&D FORUM 2026”及12月2日开幕的“智能建筑EXPO”展位上进行公开，并实施设想应用于制造业的演示。
   📰 [電波タイムズ](https://www.dempa-times.co.jp/telecommunications/61751/)
 
 - **[2026.11.16] 株式会社インプレス — NTT西日本とアイリスオーヤマ、フィジカルAIでカメラや異種ロボットを連携実証**
-  日本語：NTT西日本とアイリスオーヤマは11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結している。 今回はVLA・VLM・LLMを活用し、セキュリティカメラや設備とロボットの連携、アイリスオーヤマの「JILBY」とugoの「ugo Nova」といった異なる種類のロボット間協調、自律動作の技術的成立性を実証した。
-  中文：总结：NTT西日本与爱丽思欧ヤマ于11月16日公布了利用综合管理系统“多机器人平台”开展的物理AI联合验证成果。 双方已于2025年10月签署业务合作基本意向书。 本次利用VLA、VLM和LLM，验证了安全摄像头及设施与机器人的联动、爱丽思欧ヤマ的“JILBY”与ugo的“ugo Nova”等不同种类机器人之间的协作，以及自主动作的技术可行性。
+  日本語：NTT西日本とアイリスオーヤマは11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社はセキュリティカメラ、エレベーター、フラッパーゲート、各種ロボットなどをクラウド上で一元管理する実証を進めており、今回はVLA、VLM、LLMを活用して設備とロボットの連携や異種ロボット間の協調、自律動作の技術的成立性を実証した。 アイリスオーヤマの清掃ロボット「JILBY」とugoの「ugo Nova」が情報を共有しタスクを分担する仕組みなどを検証し、今後は商用化・事業化の可能性を検討する。
+  中文：总结：NTT西日本与爱丽思欧雅玛于11月16日公布了利用综合管理系统“多机器人平台”开展物理AI共同验证的成果。 双方推进了在云端统一管理安全摄像头、电梯、闸机及各类机器人的验证，本次利用VLA、VLM及LLM，验证了设备与机器人联动、异种机器人间协同以及自主动作的技术可行性。 双方验证了爱丽思欧雅玛的清洁机器人“JILBY”与ugo的“ugo Nova”共享信息并分担任务的机制，今后将探讨商业化及业务化的可能性。
   📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2156818.html)
 
 - **[2026.11.16] マイナビニュース — アイリスオーヤマとNTT西日本、カメラと異種ロボットを連携するフィジカルAIを実証 | TECH+（テックプラス）**
-  日本語：アイリスオーヤマとNTT西日本は11月16日、AIで設備やロボットを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証の成果を発表した。 VLMが施設全体の状況を把握し、LLMが指示を出し、VLAを用いてロボットが自律的に判断・行動する動作可能性を確認した。 具体的にはセキュリティカメラと清掃ロボット「JILBY」の連携や、「JILBY」と「ugo Nova」が情報を共有してタスクを分担する仕組みを検証した。
-  中文：总结：爱丽思欧ヤマ与NTT西日本于11月16日公布了利用通过AI综合管理设备与机器人的“多机器人平台”进行的联合验证成果。 双方确认了由VLM把握设施整体状况、LLM发出指示、并通过VLA使机器人自主判断与行动的操作可行性。 具体验证了安全摄像头与清洁机器人“JILBY”的联动，以及“JILBY”与“ugo Nova”共享信息并分担任务的机制。
+  日本語：アイリスオーヤマとNTT西日本は11月16日、AIで設備やロボットを統合管理する「マルチロボティクスプラットフォーム」を活用した共同実証の成果を発表した。 セキュリティカメラと清掃ロボットの連携に加え、異なるメーカーのロボット間での情報共有とタスク分担、ロボットの自律動作の技術的成立性を実証した。 VLMが施設全体の状況を把握・分析し、LLMがその情報に基づき設備やロボットへ指示を出す仕組みや、VLAを用いてロボットが自律的に判断・行動する動作可能性を確認した。 両社は今後、商用化・事業化の可能性を検討する。
+  中文：总结：爱丽思欧雅玛与NTT西日本于11月16日公布了利用AI综合管理设备与机器人的“多机器人平台”共同验证成果。 双方验证了安全摄像头与清洁机器人联动，以及不同制造商机器人间的信息共享、任务分担和机器人自主动作的技术可行性。 验证确认了由VLM把握并分析整个设施状况、LLM根据该信息对设备及机器人发出指示的机制，以及利用VLA使机器人自主判断并行动的操作可能性。 双方今后将探讨商业化与业务化可能。
   📰 [マイナビニュース](https://news.mynavi.jp/techplus/article/20261116-5338388/)
 
 
 ## 🤖 Humanoid Robotics
 
 
-- **[2026.11.17] ドリームニュース — TechShare、Unitree H2 Plusの国内販売を開始 日本初号機を実機公開へ**
-  English: TechShare株式会社（本社：東京都江東区、代表取締役：重光 貴明、以下 TechShare）は、Unitree Robotics社製の最新ヒューマノイドロボット「Unitree H2 Plus」の国内販売を2026年11月16日付で開始したことをお知らせします。 今回TechShareが販売を開始するUnitree H2 Plusは、NVIDIA Isaac GR00T Reference Humanoid Robotに採用された、本格的なヒューマノイド開発プラットフォームです。 標準構成の全身31自由度に加え、世界最先端の22自由度の5指ハンド「Sharpa Wave」を装着すると合計75自由度となり、人間の手作業の模擬に挑戦できます。 NVIDIAのPhysical AI Stackを活用した開発にも対応しており、ヒューマノイドによる手作業の開発機として期待されています。
-  📰 [ドリームニュース](https://www.dreamnews.jp/press/0000368761)
+- **[2026.11.18] アットプレス — ヒューマノイドロボット向け炭素繊維強化PEEK複合材料（CF/PEEK）の世界市場（2026年～2032年）、市場規模（高含有量CF/PEEK、中・低含有量CF/PEEK）・分析レポートを発表**
+  English: 株式会社マーケットリサーチセンターは、ヒューマノイドロボット向け炭素繊維強化PEEK複合材料（CF/PEEK）の世界市場に関する調査資料を発表した。 同市場規模は2025年の989万米ドルから2032年には3,835万米ドルへと拡大し、2026年から2032年にかけて年平均成長率21.8%で成長すると予測されている。 炭素繊維を補強材、PEEK樹脂をマトリックスとして用いたこの複合材料市場について、高含有量および中・低含有量のセグメント別予測、米国、中国、欧州などの地域別分析、東レ、ヴィクトレックス、エボニック、ソルベイといった主要企業情報が含まれている。
+  中文：总结：株式会社マーケットリサーチセンター发布了关于人形机器人用碳纤维增强PEEK复合材料（CF/PEEK）全球市场的调查资料。 该市场规模预计将从2025年的989万米ドル增长到2032年的3,835万米ドル，2026年至2032年的年均复合增长率预计为21.8%。 该报告涵盖高含量和中低含量等细分领域预测、美国、中国及欧洲等地区分析，以及东丽、威格斯、赢创和索尔维等主要企业信息。
+  📰 [アットプレス](https://www.atpress.ne.jp/news/6466528)
 
-- **[2026.11.18] Products Finishing — What Humanoid Robotics Means for Surface Finishing**
-  English: What Humanoid Robotics Means for Surface Finishing The emerging humanoid robotics market is already impacting multiple industries and for surface finishing in particular, there are opportunities abound. Share Read Next Q: Humanoid robotics is attracting significant attention. Why should the surface finishing industry be paying attention to it? A: Humanoid robotics is still an emerging market, but from a surface finishing perspective, there is something very familiar about it.
-  📰 [Products Finishing](https://www.pfonline.com/articles/what-humanoid-robotics-means-for-surface-finishing)
+- **[2026.11.18] Interesting Engineering — Atlas moves beyond automotive industry with chipmaking trials**
+  English: Boston Dynamics’ Atlas humanoid robot is scheduled to enter semiconductor manufacturing for the first time, as GlobalFoundries prepares to test the machine at its facilities starting in early 2027. GlobalFoundries will join Boston Dynamics’ early adopter program, expanding a robotics partnership that already includes four-legged Spot robots. The agreement scales Spot deployments across manufacturing facilities in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore for autonomous inspections and asset management. Spot has completed more than 90,000 inspections in Singapore with a 99 percent mission success rate, helping the company shift from reactive to predictive maintenance according to Pradip Singh, chief manufacturing officer at GlobalFoundries. The Atlas evaluation will assess integration requirements and specific tasks, though it remains an early-stage assessment rather than a confirmed rollout for routine factory work.
+  中文：总结：波士顿动力公司的Atlas人形机器人将首次进入半导体制造领域，GlobalFoundries计划自2027年初起在其工厂测试该机器。 GlobalFoundries将成为首家加入波士顿动力早期采用者计划的半导体制造商，双方扩大了已将四足机器人Spot引入工厂运营的机器人合作关系。 该协议将Spot的部署扩展至纽约马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的制造工厂，用于自主巡检和资产管理。 GlobalFoundries首席制造官Pradip Singh表示，Spot在新加坡完成了超过90,000次巡检，任务成功率达99%，帮助公司从反应性维护转向预测性维护。 Atlas的评估将考察集成要求和具体任务，但这仍是一项早期评估，并非确定用于日常工厂工作的全面推广。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/atlas-humanoid-semiconductor-manufacturing)
 
-- **[2026.11.18] The Robot Report — Boston Dynamics’ Atlas humanoid lands first non-automotive trial**
-  English: GlobalFoundries, a leading semiconductor manufacturer, will become the first customer outside of the automotive industry to test Boston Dynamics’ Atlas humanoid. Atlas testing will begin in early 2027, marking a key step in Boston Dynamics’ efforts to commercialize its humanoid. GlobalFoundries is already a customer of Boston Dynamics, having deployed its Spot quadruped for industrial inspections for several years.
-  📰 [The Robot Report](https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/)
+- **[2026.11.18] 36Kr — First Batch of Humanoid Robots Entering the Workforce: Some Have Already Lost Their Jobs**
+  English: Not long ago, Agibot hosted a 24-hour live stream deploying 6 of its G2 Elf robots to work at a convenience store to test daily store operations, during which 2 robots were eliminated. Among them, the robot named 'Juanwang' failed its patrol and restocking probation for lacking initiative without explicit instructions. The cleaning robot 'Lengjie' made three mistakes in one day, including repeatedly wiping wood grain, leaving the store to find another trash can, and almost throwing away customer food. Other robots also experienced minor issues, such as breaking a bun skin, dropping corn, or failing to write back order status during peak hours, while the greeter and pick-and-pack robots performed better. Embodied intelligence manufacturers like Galaxy Universal and Unitree Robotics are also sending products to convenience stores to replace human clerks, as the scenario offers moderate technical difficulty, data collection conditions, and traffic effects.
+  中文：总结：不久前，智元机器人举办了24小时直播，部署了6台G2 Elf机器人到便利店工作以测试日常运营，期间有2台机器人遭到淘汰。 其中，名为“卷王”的机器人在巡视和补货考核中因缺乏主动性、不接受明确指令便不干活而未通过试用期。 清洁机器人“Lengjie”则在一天内犯了三次错误，包括重复擦拭木纹、离店寻找垃圾差点扔掉顾客食物等。 其他机器人也遇到了小问题，如捏破包皮、掉落玉米或高峰期未能正确回写订单状态，而迎宾和分拣机器人表现较好。 银河通用和宇树科技等具身智能制造商也将产品送入便利店替代人类店员，因为该场景具有适度的技术难度、数据收集条件以及流量效果。
+  📰 [36Kr](https://eu.36kr.com/en/p/4074655957030791)
+
+- **[2026.11.18] The Korea Daily — Boston Dynamics Atlas — Hyundai’s Humanoid Robot Deployed to Semiconductor Factory**
+  English: Boston Dynamics, the robotics affiliate of Hyundai Motor Group, is expanding the application of its humanoid robot Atlas into semiconductor manufacturing facilities through a collaboration with GlobalFoundries. Announced on the 17th, this marks the first instance of testing Atlas outside the automotive industry. On-site testing will begin early next year at GlobalFoundries' major operational sites to identify tasks, verify conditions, and conduct initial learning. Additionally, deployment of the quadrupedal robot Spot is expanding to facilities in New York, Vermont, Dresden, and Singapore. Spot has performed over 90,000 inspections with a 99% success rate in Singapore's subfab. GlobalFoundries CMO Pradip Singh stated Spot helped shift toward predictive maintenance, while Boston Dynamics CPTO Jack Jakowski noted the collaboration creates operational value and future manufacturing data. Boston Dynamics is also conducting task learning for Atlas in automotive manufacturing at Hyundai's HMGMA facility.
+  中文：总结：现代汽车集团旗下机器人子公司波士顿动力正通过与格芯（GlobalFoundries）的合作，将人形机器人Atlas的应用扩展至半导体制造设施。 17日宣布的这一合作标志着Atlas首次在汽车行业之外进行测试。 现场测试将于明年初在格芯主要运营场所开始，以识别任务、验证条件并进行初步学习。 此外，四足机器人Spot的部署正扩展至纽约、佛蒙特州、德累斯顿和新加坡的工厂。 Spot已在新加坡的底层服务空间执行了超过90,000次巡检，成功率达99%。 格芯首席制造官Pradip Singh表示Spot助力转向预测性维护，波士顿动力首席产品与技术官Jack Jakowski指出合作创造了运营价值与未来制造数据。 波士顿动力同时在现代汽车HMGMA设施内为汽车制造开展Atlas的任务学习与验证。
+  📰 [The Korea Daily](https://en.koreadaily.com/boston-dynamics-atlas-semiconductor-factory/)
 
 - **[2026.11.17] AI Insider — China Physical AI Roundup: UniX AI Raises $75M Pre-A, Plus TensorWorld, UBTech Order and Huawei CloudRobo**
-  English: Insider Brief - Chinese robotics companies attracted new funding and commercial orders across humanoids, robot components and physical AI, led by UniX AI’s 500 million yuan (about $75 million) Pre-A round. - TensorWorld raised more than $100 million across two early funding rounds, while robot-chip developer XiXuan Chuangzhi secured 500 million yuan (about $75 million) at a 4 billion yuan post-money valuation.
+  English: Chinese robotics companies attracted new funding and commercial orders across humanoids, components and physical AI, led by UniX AI’s 500 million yuan (about $75 million) Pre-A round with backers including Greenland Group and Keli Sensing. TensorWorld raised over $100 million across two rounds backed by Cathay Capital, IDG Capital and Ant Group, while robot-chip developer XiXuan Chuangzhi secured 500 million yuan (about $75 million) at a 4 billion yuan post-money valuation. UBTech secured an order for 400 U1 Pro ultra-bionic humanoids from Yongda Auto and set a multi-year market target with Tianyi Telecom Terminal. Hesai reported third-quarter revenue of 1.07 billion yuan ($159.3 million) and net income of 80.8 million yuan ($12.1 million) alongside shipment growth. Huawei Cloud released its open-source CloudRobo-WM1.2 robot world model trained on Ascend chips, and is collaborating with partners like Fulongma on street-sweeping robots.
+  中文：总结：中国机器人企业在人形机器人、零部件和具身智能领域吸引了新的资金与商业订单，其中由UniX AI获得500 million yuan（约$75 million）Pre-A轮融资领跑，投资方包括绿地集团和柯力传感。 TensorWorld在君联资本、IDG资本和蚂蚁集团等支持的两轮融资中筹集了超过$100 million，而机器人芯片开发商西轩创智以4 billion yuan的投后估值获得了500 million yuan（约$75 million）融资。 优必选获得永达汽车400台U1 Pro超仿生人形机器人订单，并与天翼电信终端设定了多年市场目标。 禾赛科技公布第三季度营收1.07 billion yuan（$159.3 million）及净利润80.8 million yuan（$12.1 million），出货量实现增长。 华为云发布了基于昇腾芯片训练的开源机器人世界模型CloudRobo-WM1.2，并正与福龙马等合作伙伴在扫地机器人领域进行合作。
   📰 [AI Insider](https://theaiinsider.tech/2026/11/17/china-physical-ai-roundup-unix-ai-raises-75m-pre-a-plus-tensorworld-ubtech-order-and-huawei-cloudrobo/)
-
-- **[2026.11.18] Gadget Review — NC State’s Four-Foot Humanoid Robot Built to Collect Floor Eggs**
-  English: On a 100,000-bird cage-free farm, up to 15,000 eggs could end up on the floor every single day. NC State University’s Artificial Intelligence and Robotics Lab is developing a humanoid robot named Howl to find and collect them, addressing a labor-intensive problem that existing automated systems have not fully resolved. Why Floor Eggs Are a Cage-Free Headache The shift toward cage-free housing has made manual egg collection a persistent labor and quality challenge for producers.
-  📰 [Gadget Review](https://www.gadgetreview.com/nc-states-four-foot-humanoid-robot-built-to-collect-floor-eggs)
 
 
 ---
