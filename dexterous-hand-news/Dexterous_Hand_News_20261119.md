@@ -1,0 +1,52 @@
+# 🖐 Dexterous Hand News | 2026.11.19（木曜日 / Thursday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.19] 21财经 — 工信部发布5项人形机器人标准 涉及灵巧手、训练数据等**
+  中文：总结：工业和信息化部发布2026年第30号公告，正式发布实施由工业和信息化部人形机器人与具身智能标准化技术委员会（MIIT/TC8）归口管理的5项人形机器人领域标准。 这5项标准包括《人形机器人电驱动一体化关节技术规范》（SJ/T 12356—2026）、《人形机器人与具身智能灵巧手技术规范》（SJ/T 12357—2026）、《人形机器人训练场构建技术规范》（SJ/T 12353—2026）、《人形机器人训练数据管理要求》（SJ/T 12354—2026）和《人形机器人智能化能力分级》（SJ/T 12355—2026），覆盖智能化能力评价、关键零部件和人形机器人训练三大方向。 其中，《人形机器人智能化能力分级》建立从L0到L5的智能化能力分级框架，《人形机器人电驱动一体化关节技术规范》聚焦核心关节统一接口与性能指标，《人形机器人与具身智能灵巧手技术规范》面向灵巧手建立技术规范体系，《人形机器人训练场构建技术规范》明确训练场规划建设要求，《人形机器人训练数据管理要求》覆盖训练数据全生命周期管理环节。 这标志着我国人形机器人标准化工作迈向系统布局，有助于提升产业链协同效率并推动产业健康发展。
+  📰 [21财经](https://www.21jingji.com/article/20261118/herald/5d65431e31c7712a6e022dd4a9e18125.html)
+
+- **[2026.11.18] 36Kr — Top 30 Enterprises Powering Half of the Global Dexterous Hand Industry: Key Players & Market Impact**
+  English: On November 16, Star Era announced the launch of the XHAND 1 Pro-U five-finger dexterous hand, which adjusts its structure around NVIDIA GEAR Lab's DexUMI exoskeleton to map human movements directly. South Korea's Wonik Robotics expanded the Allegro Hand to a 20-degree-of-freedom five-finger design, and Singapore's Sharpa launched the W02 with 21 active degrees of freedom and tactile perception coverage in September. Robot hand competition now spans mechanical structure, tactile perception, data collection, and model training. Core Intelligent Headlines selected 18 domestic and 12 overseas representative enterprises to examine their technical paths. InTimes Robotics, founded in 2016 in Beijing, produces micro servo electric cylinders and complete five-finger hands such as the RH56 series, disclosing 2025 sales exceeding 10,000 units and C1 and C2 financing in February 2026 totaling hundreds of millions of yuan. LinkHand built a product line covering connecting rod, tendon rope, and direct drive, completing nearly 1.5 billion yuan in Series B financing in February 2026 and Series B+ financing in April. BrainCo, founded by Han Bicheng in 2015, extended its bionic prosthetic accumulation into robot hands, launching the Revo 3 in 2026 with 21 active degrees of freedom. OYMotion, founded in 2015 in Zhangjiang, Shanghai, develops neural signal perception and robotics components.
+  中文：总结：11月16日，星动纪元宣布推出XHAND 1 Pro-U五指灵巧手，该产品围绕英伟达GEAR实验室的DexUMI外骨骼调整结构以直接映射人类动作。 韩国Wonik Robotics将Allegro Hand扩展为20自由度五指设计，新加坡Sharpa于9月推出具有21个主动自由度及全手触觉感知的W02。 机器人手竞争已延伸至机械结构、触觉感知、数据采集和模型训练。 《芯智能头条》选取国内18家与国外12家代表企业梳理技术路径。 因时机器人成立于2016年北京，生产微型伺服电缸与RH56系列五指手，披露2025年灵巧手销量超1万台，并于2026年2月完成合计数亿元的C1、C2轮融资。 灵心巧手构建覆盖连杆、腱绳与直驱的产品线，于2026年2月完成近15亿元B轮融资，4月完成B+轮融资。 强脑科技由韩璧丞于2015年创立，将仿生手积累延伸至机器人手，于2026年推出21个主动自由度的Revo 3。 傲意科技成立于2015年上海张江，从事神经信号感知与仿生机器人部件研发。
+  📰 [36Kr](https://eu.36kr.com/en/p/4075019280406408)
+
+- **[2026.11.18] eu.36kr.com — 2024年灵巧手行业领军企业盘点：30家核心厂商撑起产业半边天**
+  中文：总结：11月16日，星动纪元推出基于英伟达GEAR实验室DexUMI外骨骼的五指灵巧手XHAND 1 Pro-U。 此前韩国Wonik Robotics推出20自由度五指Allegro Hand，新加坡Sharpa推出21主动自由度的W02。 机器人手竞争已扩展至机械结构、触觉、数据与模型训练。 《芯智能头条》盘点了国内18家和国外12家代表性企业及其技术路径。 因时机器人代表产品RH56系列提供6个主动自由度，2025年销量超1万台，2026年2月完成数亿元C1、C2轮融资。 灵心巧手建立多路线产品线，2026年2月完成近15亿元B轮融资，4月完成B+轮融资。 强脑科技推出21主动自由度的Revo 3。 傲意科技ROHand具11运动关节和6内置电机，2026年3月完成1.5亿元C1轮融资。 帕西尼DexH13 GEN2采用四指结构，2026年3月和8月分别完成超10亿元B轮和10亿元战略融资。 戴盟机器人DM-Hand1装有视触觉传感器，2026年8月完成数亿元融资。 灵巧智能DexHand021量产版采用19自由度绳驱设计，2026年完成数亿元A轮融资并设立合资公司。 中科硅纪展示了多款CasiaHand系列灵巧手及工博会抓取方案。 曦诺未来于2026年7月完成5亿元A+轮融资。 临界点AGILINK估值超10亿美元，OmniHand系列累计交付超1.5万台。 舞肌科技推出Wuji Hand 2。 大寰机器人展示了UDH-3-7三指灵巧手。 雷赛智能推出DH116。 兆威机电展示了21自由度仿生结构B21。 灵掌机器人完成数千万元天使轮融资。 钧舵机器人展示了贝多芬系列灵巧手。 宇树科技推出Dex5-S。 星动纪元持续研发XHAND灵巧手。
+  📰 [eu.36kr.com](https://eu.36kr.com/zh/p/4075019280406408)
+
+- **[2026.11.17] EE Times Japan — ロボットの「滑り」を早期検出 高速触覚センサー向けIC：最大800Hzで滑りの兆候を検出**
+  日本語：Microchip Technologyは、ロボットハンドの触覚センシングを強化する高速静電容量デジタイザー「ATFCD52」を発表した。 収集データから法線力やせん断力を計算し、把持力や滑りの兆候を判断できる。 ATFCD52は最大32本の送信ラインと20本の受信ラインで最大52チャネルをサポートし、20個の並列アナログフロントエンドによりセンサーアレイのサイズに応じて最大800Hzフレームレートを実現する。 1フェムトファラッド未満の静電容量変化を分解できる感度を持つ。 主な用途としてロボティクスのほかARやゲーム用アクセサリー、ウェアラブルセンシングを視野に入れ、開発ボード「EV-ATFCD52」も用意される。 また、産業技術総合研究所などは全固体電池材料のメカノケミカル合成を行える人協働型自動実験システムを開発した。 東北大とAIシンはAI SoCを開発し、マクセルと東京科学大は水系複合準個体電解質（3D-SLISE）を用いた次世代電池の共同研究を始めた。 TDKは「CEATEC 2026」でセンサー技術などを紹介し、村田製作所とMelt Interface Technologiesはグローブ型デバイス「ContactGlove3 Pro」を展示、NEDOはヒューマノイドロボットがスケートボードに乗る見まね学習のデモを披露した。
+  中文：总结：Microchip Technology发布了高速静电容量数字转换器“ATFCD52”，旨在增强机器人手的触觉传感。 通过计算收集到的法线力和剪切力，该产品能够判断抓握状态和滑动征兆并在物体掉落前控制抓握力。 ATFCD52支持最多32条发送线和20条接收线共计52个通道，内置20个并行模拟前端，可根据传感器阵列尺寸实现最高800Hz的帧率。 其具备可分辨1毫微微法拉以下电容变化的灵敏度，主要应用场景包括机器人学、AR、游戏配件及可穿戴传感，并提供评估板“EV-ATFCD52”。 此外，产业技术综合研究所等机构开发了全固体电池材料人协同自动实验系统；东北大学与爱信开发了AI SoC；麦克赛尔与东京科学大学开始了关于水系复合准固体电解质（3D-SLISE）次世代电池的共同研究；TDK在“CEATEC 2026”上介绍了传感解决方案；村田制作所与Melt Interface Technologies展出了手套型设备“ContactGlove3 Pro”；NEDO展示了人形机器人挑战滑板的“见习学习”演示。
+  📰 [EE Times Japan](https://eetimes.itmedia.co.jp/ee/articles/2611/17/news028.html)
+
+- **[2026.11.16] Sohu — 英伟达DexUMI的12颗触觉传感器，为何清单上只写了他山？**
+  中文：总结：美国时间11月9日，机器人学习顶会CoRL 2026在奥斯汀召开，英伟达GEAR团队联合负责人Jim Fan在主题演讲中发布了参数量达20亿的机器人大模型GR00T 2，并公布了覆盖模型、仿真、数据集和硬件设计的完整开放计划。 按照规划，DexUMI硬件设计已经开源，Human1M首批10万小时示范数据现已上线，模型权重与完整代码预计12月对外开源。 回查英伟达公开的DexUMI硬件物料清单，整套外骨骼12个触觉点位的制造商与型号一栏写的都是他山科技，此前他山已是英伟达Isaac Sim触觉仿真合作伙伴。 Jim Fan在演讲中指出，为完成高层次语义理解，视觉编码器会主动丢弃大量低级细节，而这些细节对灵巧操作不可或缺，DexUMI的定位即是补齐视觉丢失的接触信息。 接触信号独立单路采集并在多个标杆项目里落地验证，DexUMI开源BOM明确列明12个触觉传感器型号，Isaac Sim同步收录对应仿真模型，Reward AI的OM-1同样将触觉置于链路核心。
+  📰 [Sohu](https://m.sohu.com/a/1102372752_489960?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.11.16] Unite.AI — ROBOTERA Opens Orders for XHAND 1 Pro-U Dexterous Robot Hand**
+  English: ROBOTERA commercially launched the XHAND 1 Pro-U on November 16, 2026, opening orders for an initial 40-unit release of the five-finger dexterous robot hand. The hand is designed around NVIDIA GEAR Lab’s DexUMI exoskeleton, which records human demonstrations without requiring a robot and maps corresponding joints directly to robot joints. NVIDIA uses the collected demonstrations to post-train GR00T 2, which runs on a dual-arm Tianji robot fitted with two XHAND1 Pro-U hands. In NVIDIA's evaluation across three bimanual tasks, GR00T 2 achieved success rates of 60% for banana yogurt, 80% for granola scooping, and 75% for fire chemistry, whereas GR00T 1.7 and π0.5 completed none.
+  中文：总结：ROBOTERA于2026年11月16日宣布商业化推出XHAND 1 Pro-U，为首批40台五指灵巧手开放订购。 该灵巧手围绕NVIDIA GEAR Lab的DexUMI外骨骼设计，无需机器人即可记录人类示范，并将对应关节直接映射至机器人关节。 NVIDIA利用收集到的示范数据对GR00T 2进行后训练，训练后的技能运行在配备两个XHAND1 Pro-U双臂天机机器人上。 在NVIDIA对香蕉酸奶、格兰诺拉麦片舀取和火化学三项双手任务的评估中，GR00T 2的整体成功率分别达到60%、80%和75%，而GR00T 1.7和π0.5均未完成。
+  📰 [Unite.AI](https://www.unite.ai/robotera-opens-orders-for-xhand-1-pro-u-dexterous-robot-hand/)
+
+- **[2026.11.16] 同花顺 — 万元级灵巧手如何撑起整机量产：北京方案里的零部件突围与场景竞速**
+  中文：总结：灵巧手正从人形机器人的附属配件变成独立赛道，2025年中国市场销量约1.92万只，同比增长236.84%，预计2026年达到7.02万只，2030年有望突破43万只。 北京通用人工智能研究院研究员指出灵巧手对于机器人通用性和与物理世界交互的重要性。 因时科技联合创始人房海南表示，人形机器人手部自由度占一半，空间狭小且面临散热难题。 北京大学与北京通用人工智能研究院联合研制的F-TAC Hand采用高分辨率触觉传感器，空间分辨率达0.1毫米。 价格方面，因时科技灵巧手售价已降至1万元到5万元不等，核心零部件实现国产化。 同时，多地政策及相关企业正积极推动灵巧手在物流、带电作业等真实场景中的落地应用与产业链配套。
+  📰 [同花顺](http://news.10jqka.com.cn/20261116/c681834967.shtml)
+
+- **[2026.11.15] Sohu — Z Research｜灵巧手行业图谱：百亿资本，技术分歧，一场尚无定论的千手大战**
+  中文：总结：2026年灵巧手成为具身智能产业链中炙手可热的细分赛道，资本大量涌入，初创企业与互联网及制造业巨头纷纷布局。 特斯拉Optimus等产品不断提高对手部灵活性与集成度的要求，推动灵巧手向高自由度、高集成度和规模制造演进。 同时，以第一视角人类操作数据为核心的Human-Centric Data路线及NVIDIA的EgoScale研究，为机器人学习复杂操作技能提供了新的数据来源，使灵巧手成为数据采集与动作重定向的承载实体。 此外，VLA模型、触觉感知与强化学习的融合，如T-Rex将高频触觉反馈直接引入VLA模型操作控制，进一步提高了模型对真实执行硬件的要求，推动灵巧手从传统零部件向连接数据、模型与物理世界的基础设施演进。
+  📰 [Sohu](https://m.sohu.com/a/1101781882_122063396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.19 | full-text items: 8
