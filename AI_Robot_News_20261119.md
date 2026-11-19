@@ -12,108 +12,112 @@
 ## 🇺🇸 美国 / United States
 
 
-- **[2026.11.18] Engineering.com — Boston Dynamics expands robotics partnership with GlobalFoundries**
-  English: Boston Dynamics and GlobalFoundries (GF) have expanded their robotics partnership, with GF deploying Spot robots for autonomous enterprise asset management across global semiconductor fabs in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. In addition, GF will become the first customer outside the automotive industry to test Boston Dynamics' Atlas humanoid robot as part of its early adopter program and skills development workshop beginning in early 2027. GF has utilized Spot at its Burlington site for more than four years and recently expanded the program to Singapore, where two Spot robots have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, achieving a 99% mission success rate.
-  中文：总结：波士顿动力（Boston Dynamics）与格芯（GlobalFoundries, GF）扩大了机器人合作关系，GF将在其位于纽约马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的全球半导体晶圆厂中部署Spot机器人进行自主企业资产管理。 此外，GF将成为汽车行业之外第一家测试波士顿动力Atlas人形机器人的客户，作为其早期采用者计划和技能发展研讨会的一部分，测试将于2027年初开始。 GF在佛蒙特州伯灵顿的工厂使用Spot已超过四年，并于近期将该计划扩展到新加坡，自4月以来，两台Spot机器人已在晶圆厂底层区域行进了近900公里，完成了90,000多次巡检，任务成功率达到99%。
-  📰 [Engineering.com](https://www.engineering.com/boston-dynamics-expands-robotics-partnership-with-globalfoundries/)
+- **[2026.11.19] digitimes — Boston Dynamics to test Atlas humanoid in GlobalFoundries chip plants from early 2027**
+  English: Boston Dynamics will begin testing its Atlas humanoid robot at GlobalFoundries semiconductor facilities in early 2027. The companies announced on November 17 that this partnership makes the chipmaker the first customer outside the automotive industry to trial the robot.
+  中文：总结：波士顿动力公司将于2027年初在格芯的半导体工厂开始测试其Atlas人形机器人。 两家公司于11月17日宣布，这使得这家芯片制造商成为汽车行业以外首个试用该机器人的客户。
+  📰 [digitimes](https://www.digitimes.com/news/a20261118VL219/boston-dynamics-globalfoundries-atlas-robot-testing-2027.html)
+
+- **[2026.11.18] Chosunbiz — Korean team wins innovation award, places 2nd in Nvidia robotics AI contest**
+  English: A Korean pre-startup physical AI team named DDD, supported by venture studio Carbon Black, won an industrial innovation award and placed second overall in Nvidia's first Video to Data (V2D) Challenge. Announced on November 13 at a Conference on Robot Learning (CoRL 2026) session, the competition evaluated the accuracy of converting working videos into robot-training data over a month and a half. DDD developed technology that reconstructs object shapes and movements in 3D with an error of about 1 cm or less and connects them to robot training simulations. Team technology leader Choi Jae-gu noted that obtaining training data from ordinary videos without expensive dedicated equipment helps reduce cost and time.
+  中文：总结：由风险工作室Carbon Black支持的韩国物理AI初创前团队DDD在英伟达举办的首届视频转数据（V2D）挑战赛中获得工业创新奖并取得总成绩第二名。 该比赛结果于11月13日在机器人学习会议（CoRL 2026）的英伟达专场上宣布，比赛历时约一个半月，评估了参与者将工作视频准确转换为机器人训练数据的能力。 DDD开发了能够以约1厘米或更小误差对视频中物体形状和运动进行3D重建并连接至机器人训练模拟的技术。 团队技术负责人崔宰求表示，无需昂贵专用设备即可从普通视频中获取机器人训练数据的技术有助于降低成本和时间。
+  📰 [Chosunbiz](https://biz.chosun.com/en/en-it/2026/11/18/CJK2IHUMAZHBTAIHHYLLYVJLFA/)
+
+- **[2026.11.18] 사이언스모니터 — Nvidia Isaac and GR00T: The Race for Robot AI Platform Dominance - Science Monitor**
+  English: Nvidia is pursuing a full-stack infrastructure strategy for robotics, spanning training data centers, virtual simulation tools like Isaac Sim, Isaac Lab 3.0 and the Newton physics engine, and hardware such as the Jetson Thor chip. The company's Isaac GR00T N1.7 humanoid vision-language-action model was trained on 20,854 hours of first-person human video, which Nvidia reported more than doubled the average task completion rate compared to previous versions using 1,000 hours of data. Meanwhile, Newton, an open-source physics engine developed jointly by Nvidia, Disney Research and Google DeepMind, was contributed to the Linux Foundation in September 2025.
+  中文：总结：英伟达正在推进面向机器人的全栈基础设施战略，涵盖训练数据中心、Isaac Sim、Isaac Lab 3.0及牛顿物理引擎等虚拟仿真工具，以及Jetson Thor芯片等硬件。 其Isaac GR00T N1.7人形视觉语言动作模型接受了20,854小时的第一人称人类视频训练，英伟达表示，相较于使用1,000小时数据的早期版本，这使机器人的平均任务完成率提高了一倍以上。 同时，由英伟达、迪士尼研究院和Google DeepMind联合开发的开源物理引擎牛顿已于2025年9月捐赠给Linux基金会。
+  📰 [사이언스모니터](https://scimonitors.com/en/nvidia-isaac-groot-robotics-platform-race/)
 
 - **[2026.11.18] BigGo Finance — French Robotics Startup Genesis Raises $500 Million in Series A, Valuation Soars to $3.5 Billion with Nvidia Participating**
-  English: French artificial intelligence robotics startup Genesis AI announced a $500 million Series A funding round at a post-money valuation of $3.5 billion, co-led by Khosla Ventures, Premji Invest, and Eclipse, with participation from Nvidia, Bpifrance, Eric Schmidt, and Xavier Niel. The new funding will be invested in expanding production capacity for the flagship general-purpose robot "Eno," scaling data collection and AI model training, and strengthening precise object manipulation. Eno features a non-humanoid, three-segment folding structure with a rotatable wheeled base. Genesis has produced 30 to 40 Eno units for small-scale customer trials, with large-scale U. S. production planned for next year and expanded customer deployments expected in 2027. The company uses a special sensor glove to record human worker movements for training its robot model GENE through the Genesis World simulation system.
-  中文：总结：法国人工智能机器人初创公司Genesis AI宣布完成5亿美元的A轮融资，投后估值为35亿美元，该轮融资由Khosla Ventures、Premji Invest和Eclipse共同领投，英伟达、法国国家投资银行Bpifrance、前谷歌CEO埃里克·施密特和法国电信大亨泽维尔·尼尔参与投资。 新资金将用于扩大旗舰通用机器人“Eno”的产能、扩大数据收集和AI模型训练规模，并增强精确物体操纵能力。 Eno采用非人形的三段式折叠结构，底部带有可旋转的轮式底盘。 Genesis已生产30到40台Eno用于少量客户试用，计划明年在美国进行大规模生产，并预计在2027年全面扩大客户部署。 该公司使用特殊的传感手套来记录人类工人的动作，通过Genesis World模拟系统训练其机器人模型GENE。
+  English: French AI robotics startup Genesis AI announced on Tuesday the 17th that it raised $500 million in a Series A funding round, bringing its post-money valuation to $3.5 billion. The round was co-led by Khosla Ventures, Premji Invest and Eclipse, with participation from Nvidia, Bpifrance, Eric Schmidt and Xavier Niel. Co-founded by Théophile Gervet, Genesis develops algorithms, hardware and training systems in-house. CEO Zhou Xian stated the funds will expand production capacity for its general-purpose robot Eno, scale data collection and AI training, and improve dexterous hands. Genesis plans to prioritize the U. S. market, collaborate with South Korea's LG CNS, and expand customer deployments in 2027.
+  中文：总结：法国人工智能机器人初创公司Genesis AI在17日（星期二）宣布完成$500 million的A轮融资，投后估值达到$3.5 billion。 该轮融资由Khosla Ventures、Premji Invest和Eclipse共同领投，英伟达、法国国家投资银行Bpifrance、前Google首席执行官埃里克·施密特和法国电信大亨泽维尔·尼尔参与了投资。 Genesis由Théophile Gervet联合创立，自主研发算法、硬件和训练系统。 首席执行官周显表示，资金将用于扩大通用机器人“Eno”的产能、拓展数据采集与AI训练，并提升灵巧手性能。 Genesis计划优先开拓美国市场，与韩国LG CNS合作，并在2027年全面扩大客户部署。
   📰 [BigGo Finance](https://finance.biggo.com/news/f7f81ddd-5716-46b0-b1f1-77932eb1b7a6)
 
-- **[2026.11.18] 디지털투데이 — Nvidia contacts robotics startups after Jensen Huang resignation to keep support**
-  English: Nvidia has directly contacted robotics startups it has invested in after a change of chief executive, and promised continued support, a report said. The move is meant to reassure existing portfolio companies as uncertainty grows over future investment strategy following Jensen Huang's resignation. Business Insider reported on Monday that Nvidia and venture investment unit NVentures contacted at least three robotics startups they have invested in and said they would continue support.
-  📰 [디지털투데이](https://www.digitaltoday.co.kr/en/view/127216/nvidia-contacts-robotics-startups-after-jensen-huang-resignation-to-keep-support)
-
-- **[2026.11.16] Cyprus Mail — Cyprus robotics startup Autonomics prepares for US debut in Las Vegas**
-  English: ASBIS and Kinisis back Autonomics’ expansion into US market Cyprus-based robotics startup Autonomics will make its US market debut in Las Vegas on November 17, showcasing its autonomous cleaning technology at one of the world’s largest events for the cleaning and facilities management industry.
-  📰 [Cyprus Mail](https://cyprus-mail.com/2026/11/16/cyprus-robotics-startup-autonomics-prepares-for-us-debut-in-las-vegas)
-
-- **[2026.11.18] Business Insider — Nvidia tells robotics startups they have its support as questions swirl about its investment strategy**
-  English: Nvidia is reaching out to robotics startups with a message after Jensen Huang's sudden departure: The chipmaker still has their backs. Since Huang's resignation, the company and its venture capital arm, NVentures, have contacted at least three robotics startups they back to reassure them of its support, Business Insider has learned. The calls began last Thursday, shortly after Huang's resignation, with startups assured that business would continue as usual.
-  📰 [Business Insider](https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11)
+- **[2026.11.17] KED Global — Naver invests in US autonomous welding startup Path Robotics to expand into physical AI**
+  English: Naver Corp. stated on Thursday that it expects its artificial intelligence factory project with Nvidia Corp. and Brookfield Asset Management Ltd. to boost earnings.
+  中文：总结：韩国在线平台运营商Naver于周四表示，预计其与英伟达公司和Brookfield Asset Management Ltd. 合作的人工智能工厂项目将提振收益。
+  📰 [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202611170013)
 
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.11.18] 中国日报网 — 中国机器人现身伦敦金融城市长巡游**
-  中文：总结：当地时间11月14日，拥有800多年历史的伦敦金融城市长巡游举行。 作为迎接新任市长就职的传统庆典，伦敦金融城第698任市长布罗内克·马索贾达（Bronek Masojada）乘坐金色市长马车亮相，随后随巡游队伍前往威斯敏斯特，向英国王室宣誓效忠。 巡游融合传统仪式与现代创意，既有骑兵、军乐队，也有民间表演和特色花车。 今年约有6500名参与者、70辆花车和20支军乐及民间乐队参加。 中国元素也亮相其中，宇树、智元机器人和“你好！ 中国”主题纯电动双层巴士等展现了中国科技与文化魅力。 （记者 陈月华 实习生 廖恩荔）
-  📰 [中国日报网](https://cn.chinadaily.com.cn/a/202611/18/WS6afd7d25e4b0e14252fcbffc.html)
+- **[2026.11.19] 观点网 — 梁建章：旅游不可能被AI或机器人替代 中国入境游潜力非常大**
+  中文：总结：携程集团联合创始人兼董事局主席梁建章在11月19日的全球合作伙伴峰会上表示，旅游业作为重资产精神体验行业，不可能被AI或机器人替代，且随着智能化时代的发展，其占比将会不断上升。 同时，他指出中国在全球目的地中排第九位，但出境游排名靠前，因此入境游具有非常大的增长潜力。
+  📰 [观点网](https://www.guandian.cn/article/20261119/629906.html)
+
+- **[2026.11.19] 凤凰网 — 中东主权基金参投，中国机器人公司镁伽科技完成近2亿美元融资**
+  中文：总结：中国实验室自动化公司镁伽科技（MegaRobo）完成近2亿美元新一轮融资，由阿曼投资局参投，招银国际为新进投资方，老股东Asia Investment Capital、Granite Asia和创新工场继续跟投。 本轮资金将用于研发和全球扩张。 创始人黄瑜清表示，公司约80%收入来自中国，海外市场潜力巨大，尤其是“一带一路”沿线国家。 大模型的兴起也为镁伽带来了新客户，AI开发商正购买其自动化实验室系统以获取训练数据。 公司收入保持每年约30%的增长，利润率在改善，三分之二的销售额来自AI原生产品，并计划于2025年年中向港交所递交上市申请。
+  📰 [凤凰网](https://original.ifeng.com/c/8yAw5s92N6Q)
+
+- **[2026.11.19] 凤凰网 — 中国机器人占据人形机器人全球出货量97%以上，成全球最大制造国**
+  中文：总结：中国在AI硬件与机器人领域占据重要地位，国际机器人联合会报告显示中国是全球最大的机器人制造国和买家，其中宇树、智元、优必选等中国公司占据了人形机器人全球出货量的97%以上。 中国企业如梅卡曼德通过结合3D相机与AI的机械臂深入实体经济各部门，实现快速迭代和供应链优势。 尽管面临算力和先进芯片短缺以及投资人对部署数量的急迫需求，中美两国在机器人产业链上仍展现出共生合作关系。
+  📰 [凤凰网](https://original.ifeng.com/c/8yA18GFfa8v)
 
 - **[2026.11.18] Sohu — 优必选周剑：湾区联手，让更多机器人“进厂打工”**
-  中文：总结：优必选周剑：湾区联手，让更多机器人“进厂打工” 深圳商报·读创客户端首席记者 袁静娴 11月18日上午，国家主席习近平出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。 谈到聆听主旨演讲的感受，优必选创始人、董事会主席兼首席执行官周剑表示，他尤其关注全球各大湾区能否深化协作，推动人形机器人更快走进工厂、实现稳定作业。 周剑谈到，机器人从一条产线的试点走向更多工厂，需要在实际作业中反复验证，也离不开供应链配合、数据积累和标准衔接。 在他看来，世界湾区经济合作联盟有望为不同湾区的科研团队、制造企业和应用方搭建常态化合作平台，让各方共享已经验证过的做法。 周剑。 （受访者供图） 他举了两个例子：在泰国，优必选与当地高校共建人形机器人联合研发中心，向当地科研团队开放Walker S2、Cruzr Y1的开发接口，供团队在现有机器人平台上开发新应用；在韩国，优必选正与当地伙伴验证工业人形机器人能否适应实际产线作业。
+  中文：总结：优必选创始人、董事会主席兼首席执行官周剑在聆听国家主席习近平在2026年亚太经合组织工商领导人峰会上的主旨演讲后表示，他尤其关注全球各大湾区能否深化协作，推动人形机器人更快走进工厂、实现稳定作业。 他提到，机器人走向工厂需要在实际作业中反复验证，离不开供应链配合、数据积累和标准衔接。 优必选已在泰国、韩国、新加坡和越南等市场开展联合研发与应用验证，依托粤港澳大湾区的产业配套，其多款人形机器人已进入航空、汽车制造、3C电子、物流和半导体等场景，未来希望与全球湾区合作伙伴共享应用经验和行业标准。
   📰 [Sohu](https://m.sohu.com/a/1103267522_121010226?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
 
-- **[2026.11.18] 金融界 — 机器人大家说｜宇树科技王兴兴：泛化能力临近临界点，机器人规模化商用仍要跨过量产、算力与安全关**
-  中文：总结：机器人大家说｜宇树科技王兴兴：泛化能力临近临界点，机器人规模化商用仍要跨过量产、算力与安全关 2026-11-18 16:06:13 立足硬科技产业前沿，记录时代变革。 金融界特别策划“机器人大家说”栏目，聚焦机器人产业，链接上下游产业生态，围绕技术瓶颈、商业化落地、估值逻辑等核心议题展开探讨，拆解产业真实冷暖，梳理赛道发展脉络，为市场传递客观鲜活的产业一线声音。 11月17日，在 2026 年APEC工商领导人峰会 “共建开放普惠的人工智能创新生态” 专题研讨上，宇树科技创始人、董事长兼首席执行官王兴兴分享了对机器人产业当前瓶颈、商业化节奏以及亚太产业协作的判断，直面行业喧嚣之下的真问题。 王兴兴认为，本轮机器人产业热度抬升，核心源于大语言模型已经在办公、消费场景验证价值，市场自然期待AI走向物理世界，让机器人承接实际工作任务。 在他看来，公众看到的机器人演示成果只是冰山一角，底层技术迭代速度更快，水面之下的研发进展值得期待，但产业距离大规模落地仍有核心卡点待解，首当其冲是模型泛化能力。
-  📰 [金融界](https://m.jrj.com.cn/madapter/finance/2026/11/18160659193369.shtml)
-
-- **[2026.11.18] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
-  中文：总结：①这是A股具身智能赛道第一次出现可验证的估值锚点，标志着人形机器人产业从"叙事驱动"进入"分层定价"阶段。 ②宇树科技预计将于8月下旬正式挂牌上市。 作为人形机器人赛道的标志性企业，其上市表现也将成为观测科创板新股情绪与硬科技估值的重要风向标。 《科创板日报》8月10日讯（记者 黄心怡 陈俊清），宇树科技正式开启申购，本次发行价格定为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 回拨机制启动后，网上最终发行数量为970.7000万股，约占扣除最终战略配售数量后发行数量的30.00%，网上发行最终中签率为0.01809759%，中签结果将于8月12日揭晓。 宇树科技预计募集资金总额约60.99亿元，主要用于智能机器人模型研发、机器人本体研发、新型智能机器人产品开发以及智能机器人制造基地建设等项目。
+- **[2026.11.17] 财联社 — 中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点**
+  中文：总结：宇树科技在A股开启申购，发行价格为150.80元/股，发行股份数量为4044.6434万股，对应上市时市值约为609.93亿元。 本次网上发行最终中签率为0.01809759%，预计募集资金总额约60.99亿元，预计于8月下旬正式挂牌上市。 公司创始人王兴兴持股超33%，投资方涵盖美团、阿里、腾讯、字节跳动及多家国资与产业资本。 多名业内人士指出，宇树科技上市标志着人形机器人产业从叙事驱动进入分层定价阶段。
   📰 [财联社](https://www.cls.cn/detail/2450388)
-
-- **[2026.11.18] 信息化观察网 — 宇树腰斩之后，具身智能开始为“数据泡沫”买单**
-  中文：总结：本文来自微信公众号“数据猿”，【作者】俊驰。 最近，宇树科技终于在万众期待中完成了敲钟，但没想到的是也为行业敲响了警钟。 宇树科技上市第一天最高市值冲到了4449亿，但随一路下跌、直接腰斩，跌宕的走势令资本市场与产业界大跌眼镜。 作为“人形机器人第一股”，宇树就是行业的试金石。 投资者会拿着宇树当尺子，去量后面排队的智元、银河通用、众擎们。 果然，市场反馈的负面连锁效应快速落地。 有报道称，监管部门将提高人形机器人IPO审核门槛。 很多人对此表示忧虑，但这恰恰是行业走向成熟的开始。 具身智能的长期价值并未被否定，被否定的是只靠叙事撑起的估值。 当资本不再为故事买单，数据、模型能力、商业闭环就会成为新的硬指标。 其中，首当其冲的就是数据问题。 “缺数据”缺的到底是什么？ 真正要让一台机器人在多场景下灵活作业，需要至少10亿条数据支撑，而目前单机遥采一天的产量也就1000条左右。
-  📰 [信息化观察网](https://www.infoobs.com/article/20261118/72186.html)
 
 
 ## 🇯🇵 日本 / Japan
 
 
+- **[2026.11.19] PR TIMES — 【Telexistence】AIロボット「TX GHOST」を全国のファミリーマート店舗へ2027年1月から本格導入開始**
+  日本語：Telexistence株式会社宣布，将于2027年1月起向日本全国的ファミリーマート（FamilyMart）店舗依次正式导入其自主开发的AI机器人“TX GHOST”以及“スマートシェルフ”（智能库存货架）。 双方自2020年起持续进行联合实证与改良，先行导入店铺的验证结果显示，单店单日可减少约7成业务。 其中“TX GHOST”负责在饮料冷藏库内24小时自动陈列饮料，每日最多可陈列约1,800瓶，并通过远端操作与AI基盘模型不断积累现实世界的动作数据；“智能库存货架”则通过扫描计算各商品所需补充本数，将依赖经验的补充工作转变为基于数据的业务。
+  中文：总结：Telexistence株式会社宣布，将于2027年1月起向日本全国的全家便利店店铺依次正式导入其自主开发的AI机器人“TX GHOST”以及“智能库存货架”。 双方自2020年起持续进行联合实证与改良，先行导入店铺的验证结果显示，单店单日可减少约7成业务。 其中“TX GHOST”负责在饮料冷藏库内24小时自动陈列饮料，每日最多可陈列约1,800瓶，并通过远端操作与AI基盘模型不断积累现实世界的动作数据；“智能库存货架”则通过扫描计算各商品所需补充本数，将依赖经验的补充工作转变为基于数据的业务。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000045.000027631.html)
+
+- **[2026.11.19] PR TIMES — 【日本初登場】ひとりの練習に、リアルタイムのAIコーチを。AIテニスロボット「Pongbot Aura S」がMakuakeに登場！**
+  日本語：PongBot Limitedは、AIプレー分析や多彩な配球機能を備えたAIテニスロボット「Pongbot Aura S」の日本先行予約販売を、Makuakeにて2026年11月19日11:00に開始した。 プロジェクトは2027年1月21日22時まで実施予定である。 テニスに加えピックルボールやパデルにも対応し、1万通り以上の練習メニューで実戦的な反復練習が可能。 専用AIカメラ「Spotter」により動きを分析しリアルタイムで音声アドバイスも行う。 本体重量は約8.9kgで、日本マーケティングパートナーは株式会社MadSpaceイノベーションが務める。
+  中文：总结：PongBot Limited于2026年11月19日11:00在应援购买服务Makuake上开启了AI网球机器人“Pongbot Aura S”的日本先行预约销售，项目计划实施至2027年1月21日22时。 该产品具备AI击球分析与丰富配球功能，除网球外还支持匹克球与板网球，提供超过1万种练习菜单以支持单人实战反复练习。 通过专用AI相机“Spotter”分析动作并提供实时语音建议，本体重量约为8.9kg。 日本市场营销伙伴为MadSpace Innovation株式会社。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000001.000193248.html)
+
+- **[2026.11.19] さっつーのAIエージェント — Walmart 60億ドルの物流ロボット契約、Agility Robotics 4億6,500万ドル調達・NASDAQ上場：海外/日本のフィジカルAI重要ニュース 11月10日までの2週間：東証プライム経営者用サマリー**
+  日本語：2026年10月28日から11月10日の期間、フィジカルAI分野では物流自動化や資本調達、実生産ラインへの導入が大きく進展した。 WalmartはSymboticと米国25カ所の地域配送センターの自動化拡大に向け約60億ドルの追加支出を伴う契約を締結した。 Agility RoboticsはNASDAQ上場等により約4億6,500万ドルを調達し、ヒューマノイドDigitの次世代機Digit 5で3億ドル超の複数年受注を確保した。 Path RoboticsはシリーズEで3億ドルを調達し企業価値が24億5,000万ドルとなった。 DHLは累計9,000台超のロボットを導入しStretchによる荷降ろしが1,000万箱に達した。 安川電機とトヨタ自動車はAI搭載産業用ロボット「MOTOMAN NEXT」を蒲郡GR KART工房の実生産に導入した。
+  中文：总结：在2026年10月28日至11月10日期间，物理AI领域的物流自动化、资本筹集及向实际生产线的引入取得了显著进展。 沃尔玛与Symbotic签署了包含约60亿美元追加支出的合同，以扩大美国25处区域配送中心的自动化。 Agility Robotics通过纳斯达克上市等筹集了约4.65亿美元，并为其人形机器人Digit的次世代机型Digit 5获得了价值超过3亿美元的多年生订单。 Path Robotics在E轮融资中筹集了3亿美元，估值达到24.5亿美元。 DHL累计引入超过9000台机器人，使用Stretch的卸货量达到1000万箱。 安川电机与丰田汽车将搭载AI的产业用机器人“MOTOMAN NEXT”引入了蒲郡GR KART工场的实际生产中。
+  📰 [さっつーのAIエージェント](https://sattu-ai-agent.com/2026/11/19/nov14-2wks-physicalai/)
+
 - **[2026.11.18] Yahoo!ニュース — 現代自動車グループのヒューマノイド「アトラス」、来年から半導体工場に初投入（中央日報日本語版）**
-  日本語：現代自動車グループ傘下のボストン・ダイナミクス（Boston Dynamics）のヒューマノイドロボット「アトラス（Atlas）」が来年から半導体工場で実地テストを開始する。 アトラスが自動車以外の産業の生産施設に投入されるのは初めてだ。 ボストン・ダイナミクスは17日（現地時間）、米国に本社を置く半導体製造企業「グローバルファウンドリーズ（GlobalFoundries）」の主要事業所でアトラスの実地テストを行うことで合意したと明らかにした。 グローバルファウンドリーズは自動車以外の分野でアトラスを検証する初の顧客であり、ヒューマノイドロボットのテストに乗り出す初の半導体製造企業となる。 現在、アトラスは米ジョージア州にある「現代自動車グループ・メタプラント・アメリカ（HMGMA）」内の「ロボティクス・メタプラント応用センター（RMAC）」でも実地テストを行っている。
+  日本語：現代自動車グループ傘下のボストン・ダイナミクスは17日、半導体製造企業のグローバルファウンドリーズの主要事業所でヒューマノイドロボット「アトラス」の実地テストを行うことで合意したと発表した。 自動車以外の産業生産施設にアトラスが投入されるのは初となる。 両社は実地テストで作業を洗い出し要件を確認するほか初期テストや学習を行う。 また4足歩行ロボット「スポット」の配置も拡大し、グローバルファウンドリーズは米ニューヨーク州やドイツのドレスデンに範囲を広げる予定である。 スポットはすでに米バーモント州で4年以上運用され、シンガポールでは約900キロメートルを移動し9万件以上の検査を実施し成功率は99％に達した。
+  中文：总结：现代汽车集团旗下的波士顿动力于17日宣布，已达成协议将在半导体制造企业格芯的主要业务场所对人形机器人“阿特拉斯”进行实地测试。 这是阿特拉斯首次被投入到汽车以外的产业生产设施中。 双方将通过实地测试梳理作业流程并确认需求，同时进行初期测试与学习。 此外，双方还将扩大四足机器人“Spot”的部署，格芯计划将应用范围扩展至美国纽约州及德国德累斯顿。 Spot此前已在美国佛蒙特州运行4年以上，在新加坡移动了约900公里并执行了超过9万次检查，任务成功率达到99%。
   📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/d420cb584d2ed6a2088e157a801be68a7c523a86)
 
 - **[2026.11.17] 電波タイムズ — アイリスオーヤマとNTT西日本、フィジカルAIで異種ロボット連携 「JILBY」と「ugo Nova」で実証**
-  日本語：アイリスオーヤマとNTT西日本は、AIでセキュリティカメラや各種ロボットを統合管理する「マルチロボティクスプラットフォーム」を用いた共同実証の成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結しており、今回は第二弾としてVLAやVLM、LLMを活用した。 実証では、カメラ画像をAIが解析してアイリスオーヤマのDX清掃ロボット「JILBY」へ指示する仕組みや、JILBYとugoのヒューマノイドロボット「ugo Nova」が情報を共有してタスクを分担する異種ロボット間連携の技術的成立性を確認した。 今後は商用化・事業化の可能性を検討し、実証成果は各種展示会でデモ展示する予定である。
-  中文：总结：アイリスオーヤマ与NTT西日本公布了利用“多机器人平台”进行共同验证的成果，该平台通过AI综合管理安全摄像头和各种机器人。 两家公司于2025年10月签署了业务合作基本协议备忘录，本次作为第二弹运用了VLA、VLM和LLM。 验证确认了技术成立性，包括通过AI解析摄像头图像并向アイリスオーヤマ的DX清洁机器人“JILBY”发出指示的机制，以及JILBY与ugo的人形机器人“ugo Nova”共享信息并分担任务的不同种类机器人间协作。 今后将探讨商业化和业务化可能性，验证成果计划在各种展会上进行演示。
+  日本語：アイリスオーヤマとNTT西日本は、AIでセキュリティカメラや各種ロボットなどを統合管理するマルチロボティクスプラットフォームを活用した共同実証の成果を発表した。 今回の実証ではVLA、VLM、LLMを活用し、セキュリティカメラの画像をVLMで解析してDX清掃ロボット「JILBY」へ指示する連携や、「JILBY」とugo製ヒューマノイドロボット「ugo Nova」間で情報共有と役割分担を行う異種ロボット連携の技術的成立性を確認した。 両社は清掃や警備、搬送業務を横断的につなぎ施設管理業務の効率化を目指しており、実証成果は各種展示会でデモ展示する予定である。
+  中文：总结：爱丽思欧雅玛与NTT西日本公布了利用多机器人平台开展的联合实证成果，该平台通过AI综合管理安防摄像头及各类机器人。 在本次实证中，双方利用VLA、VLM和LLM，验证了通过VLM解析安防摄像头图像并向DX清洁机器人“JILBY”下达指示的联动机制，以及“JILBY”与ugo人形机器人“ugo Nova”之间共享信息并分工合作的异构机器人联动技术的成立性。 双方旨在将清洁、安保、搬运等业务跨领域连接，以提升设施管理业务效率，其实证成果计划在各大展会上进行演示。
   📰 [電波タイムズ](https://www.dempa-times.co.jp/press-release/61764/)
-
-- **[2026.11.17] 電波タイムズ — ugo、NTT西日本にAIロボット「ugo Nova」を導入**
-  日本語：ugoは11月16日、NTT西日本に国産AIロボット「ugo Nova」を導入したと発表した。 ugo NovaはフィジカルAIの社会実装を見据えた車輪移動型の双腕セミヒューマノイドロボットであり、双腕による物品取り扱いや自律移動に対応する。 頭部とハンド部にカメラを搭載し、遠隔操作による作業実演を学習データとして活用できるほか、AIコンピューター「NVIDIA Jetson Thor」を搭載してエッジ推論にも対応する。 11月18日からの「NTT R&D FORUM 2026」および12月2日からの「スマートビルディングEXPO」のNTT西日本ブースで公開し、製造業での活用を想定したデモンストレーションを実施する。
-  中文：总结：ugo于11月16日宣布向NTT西日本引入国产AI机器人“ugo Nova”。 ugo Nova是着眼于具身AI社会实现而开发的轮式移动型双臂半人形机器人，支持通过双臂处理物品及自主移动。 其头部和手部搭载了摄像头，除将远程操作的作业演示用作学习数据外，还搭载了AI计算机“NVIDIA Jetson Thor”以支持边缘推理。 该机器人将在11月18日开始的“NTT R&D FORUM 2026”以及12月2日开始的“Smart Building EXPO”的NTT西日本展位上公开，并将实施假定在制造业中应用的演示。
-  📰 [電波タイムズ](https://www.dempa-times.co.jp/telecommunications/61751/)
-
-- **[2026.11.17] PR TIMES — フィジカルAIとロボット社会の未来を体感 ～ 西日本最大規模※のロボット専門展『RoboNext2026』まもなく開催！**
-  日本語：一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日までインテックス大阪でロボット専門展示会「RoboNext2026」を開催する。 テーマは「ロボットをもっと身近に、そして未来へ。 」であり、人手不足や地域課題に対するロボットとAIの解決策を提示する。 西日本最大規模のロボット専門展として318社・団体、1026小間が出展予定。 会場では、未来の可能性を紹介する企画展示や、フィジカルAI、ヒューマノイド、技能伝承などをテーマにしたメインステージプログラム、セミナーのほか、うどんの調理や下膳を行うロボットの実演展示、NEDOによるセミナーと展示などが実施される。
-  中文：总结：一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日在Intex大阪举办机器人专业展会“RoboNext2026”。 展会主题为“让机器人更贴近生活，迈向未来”，旨在展示机器人和AI针对人手不足及地区课题的解决方案。 作为西日本最大规模的机器人专业展，预定有318家公司和团体、1026个展位参展。 会场除了举办介绍未来可能性的企划展、以具身AI、人形机器人、技能传承等为主题的主舞台节目及研讨会外，还将实施制作乌冬面及收拾餐具的机器人实演展示、NEDO的研讨会与展示等。
-  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000329.000033323.html)
-
-- **[2026.11.16] 株式会社インプレス — NTT西日本とアイリスオーヤマ、フィジカルAIでカメラや異種ロボットを連携実証**
-  日本語：NTT西日本とアイリスオーヤマは11月16日、統合管理システム「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表した。 両社は2025年10月に業務提携の基本合意覚書を締結し実証を進めており、今回は第2弾としてVLA、VLM、LLMを活用した。 実証では、セキュリティカメラの映像をVLMが解析して施設状況を把握し、LLMがアイリスオーヤマの清掃ロボット「JILBY」へ指示する仕組みや、JILBYとugoのヒューマノイドロボット「ugo Nova」が同プラットフォームを介して情報を共有しタスクを分担・連携する仕組みの技術的成立性を実証した。 今後商用化・事業化の可能性を検討し、各種展示会でデモを実施予定である。
-  中文：总结：NTT西日本与アイリスオーヤマ于11月16日公布了利用综合管理系统“多机器人平台”开展的具身AI共同验证成果。 两家公司于2025年10月签署业务合作基本协议备忘录并推进验证，本次作为第二弹运用了VLA、VLM和LLM。 验证证实了以下机制的技术成立性：由VLM解析安全摄像头影像以掌握设施状况，并通过LLM向アイリスオーヤマ的清洁机器人“JILBY”发出指示；以及JILBY与ugo的人形机器人“ugo Nova”通过该平台共享信息并分担任务、进行协作。 今后将探讨商业化和业务化可能性，并计划在各种展会上实施演示。
-  📰 [株式会社インプレス](https://ai.watch.impress.co.jp/docs/news/2156818.html)
 
 
 ## 🤖 Humanoid Robotics
 
 
-- **[2026.11.19] Rutland Herald — Humanoids Summit Returns to Silicon Valley, Bringing Together Tesla Optimus and Global Leaders in Physical AI**
-  English: Humanoids Summit returns to Silicon Valley on December 1–2, 2026, moving to the San Mateo County Event Center for its sixth global edition. The event partners with Tesla to bring Optimus and Full Self-Driving demo drives, reflecting a projected 50% attendance increase over 2025. Founder Modar Alaoui noted the shift toward making robots reliable, affordable, and ready for scale. The program features keynotes, startup pitches, and speakers from Apptronik, Google DeepMind, Honda R&D, NASA Johnson Space Center, and NIST, exploring foundation models, spatial intelligence, and industrial deployment.
-  中文：总结：Humanoids Summit将于2026年12月1日至2日在硅谷圣马特奥县活动中心举办第六届全球峰会。 本次峰会与特斯拉合作展示Optimus和FSD演示驾驶，预计出席人数较2025年增长50%。 创始人Modar Alaoui表示，行业挑战在于实现机器人的可靠性、经济性及规模化部署。 活动汇聚了Apptronik、Google DeepMind、本田研发、NASA约翰逊航天中心及NIST等机构的专家，议题涵盖基础模型、空间智能与工业部署。
-  📰 [Rutland Herald](https://www.rutlandherald.com/news/business/humanoids-summit-returns-to-silicon-valley-bringing-together-tesla-optimus-and-global-leaders-in-physical/article_ddf521ac-50d3-526e-9d25-5ee3ef4bfbd5.html)
+- **[2026.11.19] Tesla Accessories — Tesla Optimus Demo Coming in 1-2 Months: What Musk Said - BASENOR**
+  English: Elon Musk confirmed in a recent interview that Tesla plans to release a new Optimus humanoid robot demo in one to two months, aiming to showcase authentic day-to-day behavior without curated highlights or teleoperation. The target timeframe aligns with the Humanoids Summit scheduled for December 1-2, 2026, in San Mateo, California, where the Optimus Gen 3 is planned to be demonstrated live. Early production of the Gen 3 model, which features 37 joints and a dexterous hand, has been running on high-volume lines at Tesla's Fremont factory since Q3 2026, producing several hundred units per week for internal training and factory data collection. Additionally, Tesla is constructing a dedicated Optimus factory at Giga Texas spanning over 7 million square feet, with the structure approximately 65% assembled as of November 18 and initial production targeted for late 2026 before aiming for high-volume output in Summer 2027.
+  中文：总结：埃隆·马斯克在近期的一次采访中确认，特斯拉计划在未来一到两个月内发布全新的人形机器人擎天柱（Optimus）演示，旨在展示真实的日常交互行为，而非精心剪辑的亮点集锦或远程操控。 这一目标时间窗口与定于2026年12月1日至2日在加利福尼亚州圣马特奥举行的Humanoids峰会相吻合，该峰会计划现场演示Optimus Gen 3。 拥有37个关节和灵巧手设计的Gen 3型号的早期生产自2026年第三季度起一直在特斯拉弗里蒙特工厂的高产量生产线上运行，每周产出数百台，用于内部培训和工厂数据收集。 此外，特斯拉正在得克萨斯州超级工厂建设一座占地超过700万平方英尺的专用擎天柱工厂，截至11月18日，该结构已完成约65%的组装，初始生产定于2026年晚些时候，并计划在2027年夏季实现高产量产出。
+  📰 [Tesla Accessories](https://www.basenor.com/blogs/news/tesla-optimus-demo-coming-in-1-2-months-what-musk-said)
 
-- **[2026.11.19] CBS News — Inside China's relentless race to develop humanoid robot helpers and get them into our homes**
-  English: At the Hubei Humanoid Robotics Innovation Center in Wuhan, China, engineering graduates meticulously record data by wearing motion and tactile sensors while training humanoid robots through hundreds of repetitions. China's universities produce nearly 1 million engineering graduates annually compared to 140,000 in the U. S. While Elon Musk projected over 1 billion humanoid robots within 10 years, Prof. Jiyin Cao stated that their main goal is serving humans in household and industrial settings. Cao noted that China faces an aging population and possesses a strong manufacturing supply chain, though bringing robots into unstructured home environments may take 3 to 10 years.
-  中文：总结：在中国武汉的湖北人形机器人创新中心，工程毕业生身穿动作和触觉传感器工作站录制数据，通过数百次重复来训练人形机器人。 中国高校每年培养约100万名工程毕业生，而美国约为14万名。 尽管埃隆·马斯克预测10年内将有超过10亿台人形机器人，但曹继印教授表示其主要目标是服务家庭和工业场景。 曹指出中国面临老龄化人口并拥有强大制造供应链，但将机器人引入非结构化家庭环境可能需要3到10年时间。
-  📰 [CBS News](https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/)
+- **[2026.11.19] The Motley Fool — Agility Robotics Opened at $11.26 and Dropped to $6. Here’s the Price Where I’d Buy the First Humanoid Robot Stock.**
+  English: Agility Robotics, a developer of warehouse and manufacturing humanoid robots, went public via a SPAC merger on November 5, opening at $11.26 before trading around $6.60. The company produces the Digit v5 bipedal robot and has multi-year contracts and a backlog exceeding $300 million in committed orders with customers like Toyota, GXO Logistics, MercadoLibre, and Schaeffler, backed by investors Nvidia and Amazon. Despite its growing backlog, Agility reported $1.78 million in revenue for 2025 and $360,861 in the first nine months of 2026, alongside net losses of $138.1 million in 2025 and $458.7 million in the first nine months of 2026. For the full year, analysts expect $846,200 in revenue and a net loss of $583.7 million. Agility plans to deploy its first Digit v5 robots by the end of 2026 and scale annual deployments to 800 units in 2027, 7,000 units in 2030, and 25,000 units in 2035 using a recurring robot-as-a-service model. The company faces competition from Tesla, which plans to produce one million Optimus robots in 2027, sell them to external customers by the end of that year, and price them at $20,000-$30,000 compared to the initial $150,000 price of the Digit v5.
+  中文：总结：仓库和制造人形机器人开发商Agility Robotics于11月5日通过SPAC合并上市，开盘价为11.26美元，随后交易价格跌至约6.60美元。 该公司生产Digit v5双足机器人，并与丰田、GXO Logistics、MercadoLibre和舍弗勒等客户签订了多年期合同，拥有超过3亿美元的已承诺订单积压，其投资方包括英伟达和亚马逊。 尽管订单积压不断增加，Agility在2025年仅实现178万美元的收入，在2026年前九个月实现收入360,861美元，同时2025年的净亏损为1.381亿美元，2026年前九个月的净亏损为4.587亿美元。 分析师预计其全年的收入为846,200美元，净亏损为5.837亿美元。 Agility计划在2026年底前部署首批Digit v5机器人，并利用经常性“机器人即服务”模式，将年度部署规模在2027年扩大至800台，2030年达到7,000台，2035年达到25,000台。 该公司面临来自特斯拉的竞争，特斯拉计划在2027年生产100万台Optimus机器人，并在当年底前将其出售给外部客户，售价定为20,000至30,000美元，而Digit v5最初的价格为150,000美元。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/11/18/agility-robotics-opened-at-1126-and-dropped-10-heres-the-price-where-id-buy-the-first-humanoid-robot-stock/)
 
 - **[2026.11.19] The Korea Daily — Boston Dynamics Atlas — Humanoid Robot Deployed to Semiconductor Factory**
-  English: Hyundai Motor Group affiliate Boston Dynamics announced on the 17th that its humanoid robot Atlas will begin field tests at GlobalFoundries semiconductor manufacturing plants next year, marking its first deployment outside the automotive sector. Atlas is currently also tested at Hyundai Motor Group Metaplant America in Georgia. GlobalFoundries has operated Boston Dynamics' quadrupedal robot Spot for over four years in Vermont and recently expanded its use to Singapore, where two Spot units performed over 90,000 inspections with a 99% success rate, and plans further expansions to New York and Dresden.
-  中文：总结：现代汽车集团旗下波士顿动力公司于17日宣布，其人形机器人Atlas将于明年在格罗方德半导体制造厂开始现场测试，标志着其首次部署在汽车行业之外。 目前Atlas也在美国佐治亚州的现代汽车美国工厂进行测试。 格罗方德在美国佛蒙特州运营波士顿动力四足机器人Spot已超过四年，近期将其扩展至新加坡，两台Spot在该地执行了9,000多次检查且成功率达99%，并计划进一步扩展至纽约州和德累斯顿。
+  English: Boston Dynamics, an affiliate of Hyundai Motor Group, announced on the 17th that its humanoid robot Atlas will begin field tests at GlobalFoundries semiconductor manufacturing sites starting next year, marking the first deployment of Atlas in a non-automotive industrial production facility. GlobalFoundries becomes the first semiconductor manufacturer to test humanoid robots, joining ongoing Atlas field tests at the Hyundai Motor Group Metaplant America in Georgia, USA. Additionally, GlobalFoundries has operated Boston Dynamics' quadrupedal robot Spot for over four years at its Vermont facility and recently expanded its use to Singapore, where two Spot units traveled approximately 900 km within the auxiliary subfab space and completed over 90,000 inspections with a 99% mission success rate. GlobalFoundries plans to further expand Spot deployments to New York state and Dresden, Germany. GlobalFoundries Chief Manufacturing Officer Pradeep Singh stated that these initiatives represent steps toward AI-driven manufacturing, while Boston Dynamics Chief Product and Technology Officer Jack Jakowski noted that companies like GlobalFoundries are generating tangible operational value through robotics.
+  中文：总结：现代汽车集团旗下公司波士顿动力于17日宣布，其人形机器人Atlas将于明年开始在格罗方德（GlobalFoundries）半导体制造厂进行现场测试，这标志着Atlas首次部署在汽车行业以外的工业生产设施中。 格罗方德成为第一家测试人形机器人的半导体制造商，并加入了目前在位于美国佐治亚州的现代汽车集团美国工厂（HMGMA）进行的Atlas现场测试。 此外，格罗方德在其位于美国佛蒙特州的生产设施中运营波士顿动力四足机器人Spot已超过四年，并于近期将其使用范围扩大到新加坡，其中两台Spot机器人在半导体设施的辅助空间（subfab）内行进了约900公里，完成了90,000多次检查，任务成功率达到99%。 格罗方德计划将Spot的部署进一步扩展到美国纽约州和德国德累斯顿。 格罗方德首席制造官普拉迪普·辛格表示，这些举措代表着迈向人工智能驱动制造的步骤，而波士顿动力首席产品和技术官杰克·雅科夫斯基则指出，像格罗方德这样的公司正在通过机器人技术产生切实的操作价值。
   📰 [The Korea Daily](https://en.koreadaily.com/boston-dynamics-atlas-semiconductor-factory-2/)
 
 - **[2026.11.18] The Korea Herald — Humanoid dominance: China’s tight ecosystem model takes on Hyundai’s tech alliances**
-  English: China and Hyundai Motor Group are pursuing divergent strategies in humanoid robotics. Chinese leaders like AgiBot and Unitree are building vertically integrated supply chains by investing in local semiconductor, sensor, and AI startups, with AgiBot expanding its venture incubation plan to over 50 ventures and Unitree launching the Shanyuchuang plan with Sequoia China to fund early-stage developers. Conversely, Hyundai's Boston Dynamics outsources its robot brains and training systems to Google DeepMind and Nvidia, leveraging automotive manufacturing testbeds while facing potential constraints from third-party software reliance.
-  中文：总结：中国与现代汽车集团在人形机器人领域采取了不同的战略。 智元机器人和宇树科技等中国领军企业通过投资本地半导体、传感器和AI初创企业来构建垂直整合的供应链，其中智元将其创业孵化计划扩大至50多家风险企业，宇树则与红杉中国推出“山裕创计划”资助早期开发者。 相反，现代汽车的波士顿动力将其机器人大脑和训练系统外包给Google DeepMind和Nvidia，利用汽车制造测试床，同时也面临依赖第三方软件带来的潜在制约。
+  English: The global humanoid robotics industry has divided into two contrasting strategic models: China's localized, tightly integrated supply chain ecosystems and Hyundai Motor Group's partnership-driven approach relying on Big Tech outsourcing. Chinese robotics leaders are aggressively pouring venture capital into early-stage startups across AI semiconductors, precision sensors, and physical-AI models to secure self-sufficiency amid U. S. chip curbs and domestic price wars. Notable examples include AgiBot scaling up its startup incubation plan to nurture over 50 ventures globally over three years, and Unitree partnering with Sequoia China on the Shanyuchuang plan to fund developers of core components and physical-AI solutions with collaboration commitments projected to reach several billion yuan over five years. Conversely, Hyundai's Boston Dynamics outsources foundational AI models to Google DeepMind and digital-twin simulation to Nvidia while utilizing its automotive manufacturing testbeds. Industry experts note that while Hyundai's horizontal strategy provides immediate access to world-class AI, Chinese companies gain cost advantages and control over supply bottlenecks through vertical integration and keiretsu-style networks of minority venture stakes.
+  中文：总结：全球人形机器人行业已经分化为两种截然不同的战略模式：中国本土化、高度集成的供应链生态系统，以及现代汽车集团依赖大型科技外包的合作驱动方法。 中国机器人行业领头羊正积极将风险投资注入人工智能半导体、精密传感器和具身智能模型等早期初创企业，以在美芯片限制和国内价格战中确保自给自足。 典型例子包括智元机器人（AgiBot）扩大其初创企业孵化计划，旨在三年内在全球范围内培育50多家初创企业；以及宇树科技与红杉中国合作推出“山屿创计划”，资助核心零部件和具身智能解决方案的开发商，未来五年的合作承诺预计将达到数十亿元。 相反，现代旗下的波士顿动力将基础人工智能模型外包给谷歌DeepMind，将数字孪生模拟外包给英伟达，同时利用其汽车制造测试台。 行业专家指出，尽管现代的水平战略提供了获得世界级人工智能的捷径，但中国公司通过垂直整合和少数股权投资的财阀式网络，获得了成本优势和对供应链瓶颈的控制权。
   📰 [The Korea Herald](https://www.koreaherald.com/article/10941473)
 
-- **[2026.11.18] Robotics Tomorrow — Making the Case for Programmable Infrastructure in Humanoid Robotics**
-  English: Modern humanoid robots are complex multi-processor systems balancing performance, reliability, adaptability, security, and operational longevity. Morgan Stanley research suggests over 1 billion humanoids may operate by 2050, with 90% in industrial and commercial roles. Lattice Semiconductor's Eric Sivertson notes that managing architectural complexity requires a layered approach combining AI decision-making with deterministic control, safety, and security. As developers integrate diverse sensors, actuators, and processors from multiple vendors, achieving real-time orchestration, microsecond-level timing, and safety enforcement becomes critical.
-  中文：总结：现代人形机器人是复杂的多处理器系统，需平衡性能、可靠性、适应性、安全性和运行寿命。 摩根士丹利研究表明，到2050年运营的人形机器人可能超过10亿台，其中90%用于工业和商业用途。 莱迪思半导体安全业务副总裁Eric Sivertson指出，管理架构复杂性需要采用将AI决策与确定性控制、安全性及防护相结合的分层方法。 随着开发者集成来自多个供应商的各种传感器、执行器和处理器，实现实时协调、微秒级定时和安全强制执行变得至关重要。
-  📰 [Robotics Tomorrow](https://www.roboticstomorrow.com/article/2026/10/making-the-case-for-programmable-infrastructure-in-humanoid-robotics/27309)
+- **[2026.11.17] AI Insider — China Physical AI Roundup: UniX AI Raises $75M Pre-A, Plus TensorWorld, UBTech Order and Huawei CloudRobo**
+  English: Chinese robotics companies secured fresh funding and commercial orders across humanoids, chips, and physical AI. UniX AI, a wheeled humanoid robot maker for security, hotels, and retail, raised 500 million yuan, or about $75 million, in a Pre-A round backed by Xienuo, Yonghua, Greenland Group, Keli Sensing, and HUST Ventures, reporting shipments of over 100 robots a month with peak output above 300. TensorWorld raised over $100 million across two early funding rounds to build physics-based foundation models, with backing from Cathay Capital, HSG, IDG Capital, Ant Group, and others. Robot-chip developer XiXuan Chuangzhi, established by UBTech, MetaX, and Fenglong, secured a 500 million yuan, or about $75 million, angel round at a 4 billion yuan post-money valuation, co-led by GGV Capital and Matrix Partners China. UBTech secured a commercial order from Yongda Auto for 400 U1 Pro ultra-bionic humanoids for product demonstrations, sales, and customer service, and signed a non-binding market target agreement with Tianyi Telecom Terminal targeting over 1 million home-companion robots and 100,000 humanoid terminals over three years. Hesai reported third-quarter revenue of 1.07 billion yuan, or $159.3 million, up 34.3% year-over-year, alongside net income of 80.8 million yuan, or $12.1 million. Huawei Cloud released its open-source CloudRobo-WM1.2 robot world model trained on Ascend chips, noting that 80% of Chinese embodied-AI companies use Ascend Cloud and its platform serves over 16,500 developers.
+  中文：总结：中国机器人企业在人形机器人、芯片和具身智能领域获得了新的融资和商业订单。 为安防、酒店和零售业制造轮式人形机器人的由西AI（UniX AI）完成了5亿元人民币（约7500万美元）的Pre-A轮融资，投资方包括协诺、永华、绿地集团、柯力传感和华中科大资本等，该公司报告其每月出货量超过100台，峰值产量超过300台。 TensorWorld在两轮早期融资中筹集了超过1億美元，用于构建基于物理的基础模型，获得了愉悦资本、红杉中国、IDG资本、蚂蚁集团等机构的支持。 由优必选、壁仞科技（MetaX）和丰隆创立的机器人芯片开发商西轩创智完成了5亿元人民币（约7500万美元）的天使轮融资，投后估值为40亿元人民币，由GGV纪源资本和高榕资本共同领投。 优必选获得了永达汽车采购400台U1 Pro超仿生人形机器人的商业订单，用于产品演示、销售和客户服务，并与天翼电信终端签署了一项非约束性市场目标协议，设定了三年内超过100万台家庭陪伴机器人和10万台人形终端的目标。 禾赛科技公布第三季度营收为10.7亿元人民币（合1.593亿美元），同比增长34.3%，净利润为8080万元人民币（合1210万美元）。 华为云发布了基于昇腾芯片训练的开源机器人世界模型CloudRobo-WM1.2，并指出80%的中国具身智能企业使用昇腾云，其平台服务于超过16,500名开发者。
+  📰 [AI Insider](https://theaiinsider.tech/2026/11/17/china-physical-ai-roundup-unix-ai-raises-75m-pre-a-plus-tensorworld-ubtech-order-and-huawei-cloudrobo/)
 
 
 ---
