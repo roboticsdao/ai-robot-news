@@ -1,0 +1,121 @@
+# 🤖 AI Robot News | 2026.11.22（日曜日 / Sunday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+> 本轮核实 4 条新闻，未达到目标数量；不重复收录或编造补数。
+
+- **[2026.11.20] Digg — NVIDIA’s GTC D.C. pitch: open models, robot brains and factory floors**
+  English: NVIDIA announced that GTC D. C. runs from November 30 to December 3, 2026, featuring sessions on robotics, manufacturing, and open models. The agenda includes Cosmos 3 training, factory simulation workshops, a December 1 talk on open models and agents by Kari Briski and Bryan Catanzaro, and a December 2 safety discussion on simulation, real-world testing, and industry standards with ANSI's Laurie E. Locascio.
+  中文：总结：英伟达宣布GTC D. C. 于2026年11月30日至12月3日举行，设有机器人、制造和开放模型等会议。 议程包括Cosmos 3培训、工厂模拟研讨会、Kari Briski和Bryan Catanzaro于12月1日关于开放模型与代理的演讲，以及12月2日由ANSI的Laurie E. Locascio主持的关于仿真、真实世界测试和行业标准的安全性讨论。
+  📰 [Digg](https://digg.com/ai/9tqow2qy)
+
+- **[2026.11.20] Robotics & Automation News — Boston Dynamics launches next-generation Stretch robot with major reliability upgrades**
+  English: Boston Dynamics has unveiled Stretch Gen 2, the next generation of its autonomous mobile trailer unloading robot, featuring major hardware and structural upgrades designed to maximize uptime and streamline maintenance based on insights from over 100,000 operating hours. Upgrades include automotive-grade connectors, an improved gripper with precise sensing, continuous rotation joints, and an 81 percent reduction in internal cabling. The robot unloads up to 1000 cases per hour, runs for two shifts on a battery, and incorporates onboard diagnostics to simplify serviceability.
+  中文：总结：波士顿动力公司推出了新一代自主移动挂车卸货机器人Stretch Gen 2。 基于超过10万小时运行时间的洞察，该机器人进行了重大的硬件和结构升级，旨在最大化正常运行时间并简化维护。 升级包括汽车级连接器、带有精确传感改进的夹具、连续旋转关节，并将内部电缆减少了81%。 该机器人的卸货速度最高可达每小时1000箱，电池可支持两班倒，并内置诊断功能以简化可维修性。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/19/boston-dynamics-launches-next-generation-stretch-robot-with-major-reliability-upgrades/107354/)
+
+- **[2026.11.19] TOKENPOST — NVIDIA Details Two-Prompt Cosmos Workflow for Physical AI Data**
+  English: NVIDIA added performance and cost estimates to its two-prompt walkthrough for Cosmos Data Factory, a training data preparation toolkit. The workflow requires infrastructure like Kubernetes and object storage and runs on users' local or cloud GPUs. Using a cloud server with eight NVIDIA RTX PRO 6000 Blackwell Series GPUs, NVIDIA estimated server costs at about $40 per server-hour or $960 per day, generating about 130 autonomous-driving edge-case clips daily. NVIDIA also priced road collection at $125 per road-collected scenario, and showed an example reducing defect-image dataset assembly from two months to one day, a 60-fold speedup. The Nov. 18 walkthrough adds instructions for launching workflows with a coding agent and NVIDIA's cost and assembly-time estimates.
+  中文：总结：NVIDIA为Cosmos Data Factory工具包的两提示词演练添加了性能与成本评估。 该工作流需要Kubernetes和对象存储等基础设施，可在用户的本地或云端GPU上运行。 NVIDIA使用配备八张NVIDIA RTX PRO 6000 Blackwell系列GPU的云服务器进行基准测试，估计服务器成本约为每小时40美元或每天960美元，每天生成约130个自动驾驶边缘案例剪辑。 NVIDIA还对道路采集标价为每条采集场景125美元，并在示例中将缺陷图像数据集组装时间从两个月缩短到一天，实现了60倍的加速。 11月18日的演练添加了使用编码代理启动工作流的说明以及NVIDIA的成本和组装时间评估。
+  📰 [TOKENPOST](https://www.tokenpost.com/news/technology/61053)
+
+- **[2026.11.19] The Motley Fool — Agility Robotics Opened at $11.26 and Dropped to $6. Here’s the Price Where I’d Buy the First Humanoid Robot Stock.**
+  English: Agility Robotics, a humanoid robot developer, went public via a SPAC merger on Nov. 5, opening at $11.26 before trading at about $6.60. Its main product is Digit, a bipedal humanoid robot. Its investors include Nvidia and Amazon, and it has multi-year contracts with Toyota, GXO Logistics, MercadoLibre, and Schaeffler, with a backlog exceeding $300 million in committed orders for the Digit v5. Agility reported $1.78 million in 2025 revenue and $360,861 in the first nine months of 2026, alongside a net loss of $138.1 million in 2025 and $458.7 million in the first nine months of 2026. Agility claims it can deploy its first Digit v5 robots by the end of 2026 and scale annual deployments to 800 units in 2027, 7,000 units in 2030, and 25,000 units in 2035, while facing competition from Tesla's Optimus.
+  中文：总结：人形机器人开发商Agility Robotics于11月5日通过与特殊目的收购公司合并上市，开盘价为11.26美元，随后交易价约为6.60美元。 其主要产品是双足人形机器人Digit。 其投资者包括Nvidia和Amazon，并与Toyota、GXO Logistics、MercadoLibre和Schaeffler签有多年期合同，针对最新Digit v5机器人的承诺订单积压超过$300 million。 Agility报告2025年营收为178万美元，2026年前九个月营收为360861美元，同时2025年净亏损1.381亿美元，2026年前九个月净亏损4.587亿美元。 Agility声称其能在2026年底前部署首批Digit v5机器人，并在2027年将年度部署量扩大到800台，2030年达到7000台，2035年达到25000台，同时面临来自Tesla的Optimus的竞争。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/11/18/agility-robotics-opened-at-1126-and-dropped-10-heres-the-price-where-id-buy-the-first-humanoid-robot-stock/)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.11.20] 凤凰网财经 — 谁在连接模型、本体与市场？中国具身智能资本布局全景**
+  中文：总结：今年8月，宇树科技登陆科创板。 两个月后，自变量机器人出现在关节模组和触觉传感器企业的融资名单中。 星海图则与凯辉基金发起“星途计划”，提出未来五年投资10亿元、覆盖100家早期企业的目标。 未来不远在2026年完成三轮、累计超10亿元融资，并发布Self-Evolving WAM。 自变量机器人围绕WALL系列模型建设真实数据采集、机器人本体和开发平台，投资方包括字节跳动、阿里云、美团、小米等。 星海图以具身基础模型和机器人平台为核心，向开发者提供本体、模型与工具。 银河通用宣布新一轮25亿元融资，智元机器人建设具身模型、灵巧手、多形态本体和操作系统。 在上市公司方面，宇树科技前三季度营业收入约18.17亿元、研发投入约2.63亿元；优必选2026年上半年人形机器人产品及解决方案收入约5.90亿元；越疆科技具身智能机器人业务收入为4520万元；拓斯达的人形机器人“小拓”正在制造场景开展小批量验证。
+  📰 [凤凰网财经](https://finance.ifeng.com/c/8yDL2qApNsK)
+
+- **[2026.11.19] 凤凰网 — 中国机器人占据人形机器人全球出货量97%以上，成全球最大制造国**
+  中文：总结：中国在全球人形机器人市场占据主导地位，国际机器人联合会报告显示中国是全球最大的机器人制造国和买家，每年新上岗的机器人数量超过世界其他国家总和。 在人形机器人市场中，宇树、智元、优必选等中国公司占据了全球出货量的97%以上。 梅卡曼德创始人邵天兰回忆创业初期并介绍公司产品，其3D相机做眼、AI做脑的机械臂正搬运货箱、分拣零件等，年销约1万台机器人。 梅卡曼德9月上市，市值约13亿美元；8月上市的宇树，11月16日市值约430亿美元。 卡内基国际和平基金会中国项目的Scott Singer和布鲁金斯学会研究员Kyle Chan指出中国专注于将AI整合进实体经济，且美中两国在技术、芯片和供应链上具有共生合作关系。
+  📰 [凤凰网](https://original.ifeng.com/c/8yA18GFfa8v)
+
+- **[2026.11.21] 新浪财经_金融信息服务商 — 具身智能赛道“出海潮涌”**
+  中文：总结：具身智能赛道迎来出海潮，产品出口与筹划建厂两翼齐飞。 国家统计局数据显示，今年1至10月我国工业机器人出口额增长17.8%。 2025年中国工业机器人出口规模首次超过进口。 云深处、宇树、优必选、智元和墨甲机器人等企业持续拓展海外市场，墨甲机器人全球交付超3000台。 今年上半年工业机器人出口额达62.9亿元，同比增长18.6%。 罗兰贝格预测到2035年中国和北美与欧洲地区预计分别占全球机器人市场的约25%、23%和19%。 企业出海形式多样，如杰克科技旗下艾图科技推出具身智能缝制机器人，云深处机器狗进驻日本地下隧道项目。 同时海外建厂动作频频，灵猴机器人越南生产基地投产，塞尔维亚与智元、敏实集团合作建设人形机器人工厂，乌兹别克斯坦和哈萨克斯坦等项目也在推进。 企业出海面临合规、语言、渠道及海外售后运维等多重挑战。
+  📰 [新浪财经_金融信息服务商](https://finance.sina.cn/2026-11-21/detail-inizmmnu3784624.d.html?vt=4)
+
+- **[2026.11.21] 每日经济新闻 — 英国对中国割草机器人启动反倾销调查 ，国内割草机龙头大叶股份将如何应对？**
+  中文：总结：11月20日晚间，大叶股份发布公告称，英国贸易救济局于2026年11月18日应Husqvarna UK Limited申请，对原产于中国的割草机器人发起反倾销调查。 调查期为2025年10月1日至2026年9月30日，企业需在2026年12月3日前提交抽样问卷答卷。 大叶股份2026年上半年割草机实现营业收入19.24亿元。 为应对此次调查，大叶股份将调整境外生产基地生产结构，依托2025年2月收购的德国子公司AL-KO Geräte GmbH及其奥地利生产基地承接欧洲当地研发与制造，并利用本地化销售网络对接欧洲大型商超和专业零售商。 此外，大叶股份此前曾应对过美国对中国手扶式割草机的反倾销和反补贴调查，该案已于2026年7月13日起正式撤销征税。 目前大叶股份已构建了全球多基地战略。
+  📰 [每日经济新闻](https://www.nbd.com.cn/articles/2026-11-20/4654548.html)
+
+- **[2026.11.20] 中青在线 — 亚太目光下的深圳：从机器人企业看见创新的中国答案**
+  中文：总结：金秋11月，深圳汇聚全球科技创新目光。 南山“机器人谷”聚集超200家产业链企业，半小时内可配齐算法、本体与零部件。 深圳海关统计资料显示，2026年前三季度深圳机器人合计出口134.49亿元，同比增长12.9倍。 瑞为技术创始人、董事长詹东晖表示，极速迭代与高度聚集的产业链是深圳最难被复制的硬实力。 在应用层面，瑞为智慧通行方案将人证核验覆盖范围拓展至0.8米到2.2米，服务逾15亿人次，落地全国约三分之二的千万级客流机场；其研发的“晓蚁”具身智能行李转运机器人已在华东区某千万级客流机场开启POC试点。 詹东晖指出，未来三到五年具身智能最先跑通商业闭环的将集中在重体力劳动、高危或空间受限环境、高重复性劳动三类刚需场景。 目前瑞为智慧通行方案已在乌兹别克斯坦塔什干国际机场启动试点，行李转运机器人正瞄准新加坡、泰国、日本等亚太一线枢纽机场做重点突破。
+  📰 [中青在线](http://news.cyol.com/gb/xiaofei/articles/2026-11/20/content_zxNozYIe6M.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.11.20] Newscast.jp — 日本の警備ロボット市場規模は2034年までに30億980万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）13.04%で推移する見通しである。**
+  日本語：日本の警備ロボット市場規模は2025年の9億9860万米ドルから、2034年までに30億980万米ドルへ達し、2026年から2034年にかけて年平均成長率13.04%で推移する見通しである。 深刻な人手不足や高齢化に伴い、自律型巡回ロボットや四足歩行ロボット、ヒューマノイドシステムの導入が進んでいる。 セコムや丸紅などが最新のAIロボットを用いた実証実験やサービス展開を開始している。
+  中文：总结：日本保安机器人市场规模预计将从2025年的9亿9860万米亿美元增长到2034年的30亿980万米美元，2026年至2034年的年均复合增长率为13.04%。 由于严重的人手短缺和老龄化，各方正加速引入自主巡逻机器人、四足机器人和人形系统。 西科姆和丸红等企业已开始利用最新AI机器人开展实证实验与服务部署。
+  📰 [Newscast.jp](https://newscast.jp/smart/news/5910306)
+
+- **[2026.11.19] ニュースメディアVOIX — Telexistence社のAIロボット「TX GHOST」、2027年1月よりファミリーマートで本格導入開始**
+  日本語：Telexistence株式会社は、株式会社ファミリーマートの全国店舗にAIロボット「TX GHOST」と「スマートシェルフ」を2027年1月から順次導入すると発表した。 先行導入店舗では1日約7割の業務削減効果が確認されている。 TX GHOSTは飲料冷蔵庫内で自動的に補充作業を行い、店舗従業員の負担軽減を図る。
+  中文：总结：Telexistence株式会社宣布，将于2027年1月起在株式会社全家便利店的全国店铺中依次引入自主研发的AI机器人“TX GHOST”与“智能货架”。 在先行引入的店铺中，已确认单店每天可实现约7成的业务削减效果。 TX GHOST可在饮料冷藏柜内自动进行补充作业，旨在减轻店面员工的负担。
+  📰 [ニュースメディアVOIX](https://voix.jp/credit-cards/tx-ghost-launch-familymart/)
+
+- **[2026.11.19] さっつーのAIエージェント — Walmart 60億ドルの物流ロボット契約、Agility Robotics 4億6,500万ドル調達・NASDAQ上場：海外/日本のフィジカルAI重要ニュース 11月10日までの2週間：東証プライム経営者用サマリー**
+  日本語：WalmartはSymboticと約60億ドルの追加支出を伴う自動化契約を締結し、米国内25カ所の地域配送センターで自動化を拡大する。 Agility RoboticsはNASDAQ上場と関連資金調達により約4億6500万ドルを確保し、Digit 5の受注を獲得した。 Path RoboticsはシリーズEで3億ドルを調達した。 DHLはロボット累計9000台超を導入し、安川電機とトヨタ自動車はAIロボット「MOTOMAN NEXT」を実生産に導入した。
+  中文：总结：沃尔玛与Symbotic签署了包含约60亿美元追加支出的自动化合同，扩大美国境内25个区域配送中心的自动化规模。 Agility Robotics通过纳斯达克上市及相关融资筹集了约4亿6500万美元，并获得了Digit 5的订单。 Path Robotics在E轮融资中筹集了3亿美元。 DHL已累计引入超过9000台机器人，安川电机与丰田汽车则将AI机器人“MOTOMAN NEXT”引入了实际生产中。
+  📰 [さっつーのAIエージェント](https://sattu-ai-agent.com/2026/11/19/nov14-2wks-physicalai/)
+
+- **[2026.11.21] Infoseek — フィジカルAIとロボット社会の未来を体感 ～ 西日本最大規模※のロボット専門展『RoboNext2026』まもなく開催！**
+  日本語：一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日までインテックス大阪でロボット専門展示会「RoboNext2026」を開催する。 西日本最大規模となる本展では、300社を超える企業・団体が出展し、ロボットの社会実装やフィジカルAI、技能伝承などをテーマにした講演や実演展示が行われる。
+  中文：总结：一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日在大阪国际展览中心举办机器人专业展会“RoboNext2026”。 作为西日本最大规模的展会，本次展会将有超过300家企业与团体参展，并围绕机器人的社会应用、具身智能与技能传承等主题举办演讲及实演展示。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000329_000033323/)
+
+- **[2026.11.21] PR TIMES — 装着体験！エクソスケルトン型ロボットスーツ「Keeogoメディカル」―第15回日本支援工学理学療法学会学術大会に出展―**
+  日本語：パシフィックサプライ株式会社は、2026年12月19日から20日まで岡山県倉敷市で開催される第15回日本支援工学理学療法学会学術大会に出展する。 下肢の動作をアシストするエクソスケルトン型ロボットスーツ「Keeogoメディカル」などを紹介し、実際に装着して動作を体験できる機会を設ける。
+  中文：总结：太平洋供应株式会社将参加于2026年12月19日至20日在冈山县仓敷市举办的第15届日本支援工学理学疗法学会学术大会。 会上将展出用于辅助下肢动作的外骨骼型机器人套装“Keeogo Medical”等产品，并设立实际穿戴并体验动作的环节。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000060.000132758.html)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.11.21] The Rundown AI — GlobalFoundries to test Boston Dynamics’ Atlas in chip fabs**
+  English: GlobalFoundries plans to start testing Boston Dynamics’ Atlas humanoid inside its chip fabs in early 2027, becoming the first manufacturing customer outside the automotive sector to join the early adopter program. The agreement also expands GF's fleet of Spot inspection robots, building on years of work with the quadruped. Spot’s expansion covers Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. GF and Boston Dynamics plan workshops to assess possible jobs, site readiness, and integration into plant operations. Boston Dynamics previously stated that all 2026 Atlas deployments were committed to Hyundai Motor Group and Google DeepMind, with plans for 25,000 units at Hyundai and Kia plants. GF's operations involve high cleanliness demands, chemical safety, and flammable substances like silane and hydrogen, making contamination control central to evaluating any Atlas job.
+  中文：总结：GlobalFoundries计划于2027年初期在其芯片晶圆厂内开始测试波士顿动力的Atlas人形机器人，成为汽车行业之外首个加入该机器人早期采用者计划的制造客户。 该协议还扩大了GlobalFoundries的Spot巡检机器人机队，扩展地点涵盖纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿以及新加坡。 两家公司计划举行研讨会，以评估可能的岗位、场地准备情况以及机器人如何融入工厂运营。 波士顿动力此前曾表示，2026年的所有Atlas部署都已承诺交付给现代汽车集团和Google DeepMind。 GlobalFoundries的运营涉及极高的洁净度要求、化学品安全以及诸如硅烷和氢气等易燃物质，这使得污染控制成为评估任何Atlas工作任务的核心。
+  📰 [The Rundown AI](https://www.therundown.ai/news/globalfoundries-boston-dynamics-atlas-chip-fab-trials)
+
+- **[2026.11.20] Interesting Engineering — US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build**
+  English: San Francisco-based robotics startup Foundation Future Industries unveiled its second-generation humanoid robot, the Phantom MKII, along with an upgraded artificial intelligence control system named Cortex II. Designed for heavy industrial work and military support roles, the bipedal platform can haul up to 200 pounds while walking through rain, snow, and dust. Founded in 2024 by CEO Sankaet Pathak and former U. S. Marine Corps officer Mike LeBlanc, Foundation has focused on dual-use defense and rugged field applications, with early production of the MKII aimed at the San Francisco Bay Area in early 2027. The Phantom MKII addresses hardware bottlenecks from the MK-1, featuring environmental sealing, higher-load actuators, and a simplified assembly that cuts bill-of-materials costs in half. Its Cortex II software learns physical tasks from human observations using as few as 60 examples. The company previously sent two Phantom MK-1 units to Ukraine in 2026 for non-combat logistics and reconnaissance evaluations. Despite technical upgrades, Foundation faced cash-flow pressures, including a missed staff payroll in late October 2026.
+  中文：总结：总部位于旧金山的机器人初创公司Foundation Future Industries发布了其第二代人形机器人Phantom MKII，以及名为Cortex II的升级版人工智能控制系统。 这款双足平台专为重工业工作和军事支持角色而设计，能够在雨、雪和尘土中行走的同时搬运重达200磅的物品。 该公司由首席执行官Sankaet Pathak和前美国海军陆战队军官Mike LeBlanc于2024年创立，专注于两用国防和严苛野外应用，计划于2027年初期在旧金山湾区开始对MKII进行早期生产。 Phantom MKII解决了MK-1的硬件瓶颈，具备环境密封、更高负载的致动器以及将物料清单成本减半的简化装配。 其Cortex II软件通过观察人类示范来学习物理任务，某些操作仅需60个示例。 该公司此前曾在2026年向乌克兰派遣了两台Phantom MK-1用于非战斗物流和侦察评估。 尽管进行了技术升级，Foundation仍面临现金流压力，包括在2026年10月下旬错过了一次员工薪酬发放。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)
+
+- **[2026.11.20] 3D Printing Industry — Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt**
+  English: Siemens is building an end-to-end Digital Thread for additive manufacturing running on Industrial AI, connecting agentic prompt-based engineering with an adaptive production environment. Siemens and AGIBOT demonstrated an engineering workflow using a gripper for a humanoid robot, where a user describes the object and task, and an AI agent picks a suitable gripper type, adapts its geometry in Siemens’ Designcenter, simulates it, and validates the robot interface and handling before preparing data for additive manufacturing. Siemens is exhibiting this workflow at Formnext 2026 in Frankfurt. Additionally, Siemens is working with EOS and AM Solutions on an adaptive production cell at its Electronics Factory in Erlangen to combine additive manufacturing, automation, and software into an integrated process chain. Siemens added Industrial AI to its AM I Navigator to help companies identify and prioritize uses for Industrial AI in additive manufacturing design, engineering, and production.
+  中文：总结：西门子正在构建一个由工业人工智能驱动的增材制造端到端数字主线，将基于提示词的智能体工程与自适应生产环境连接起来。 西门子和智元机器人展示了一个针对人形机器人夹爪的工程工作流，用户描述物体和任务后，人工智能Agent会选择合适的夹爪类型，在西门子的Designcenter中调整其几何形状，进行模拟，并在为增材制造准备数据之前验证机器人接口和操作。 西门子正在法兰克福举行的2026年Formnext展会上展示这一工作流。 此外，西门子正与EOS和AM Solutions在埃尔兰根的电子工厂合作开发自适应生产单元，将增材制造、自动化和软件结合到集成的工艺链中。 西门子还在其AM I Navigator中加入了工业人工智能，以帮助企业识别并优先考虑工业人工智能在增材制造设计、工程和生产中的应用。
+  📰 [3D Printing Industry](https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/)
+
+- **[2026.11.20] 36Kr — UBTECH Team, Please Extend Your Brief Wait Before Entering Your Residences**
+  English: At the 2026 APEC thematic seminar, UBTech founder, chairman, and CEO Zhou Jian stated that the large-scale industrialization of humanoid robots still requires opening up the full chain connecting R&D, mass production, and practical application. On November 11, UBTech announced that Yongda Auto will purchase 400 units of the U1 Pro ultra-realistic humanoid robot for shopping guide services, with all units to be delivered within the year. This marks the first large-scale bulk commercial order for the U1 series since its June release. UBTech previously placed U1 robots as exhibits in Mercedes-Benz 4S stores through Boshi Group and signed a three-year sales agreement for 100,000 units with China Telecom E-surfing Terminal on November 9. When launched in June, UBTech positioned the U1 series as a family emotional companion robot and claimed all-channel orders exceeded 13,361 units with 10,000 guaranteed deliveries this year. However, during the August earnings call, CFO Zhang Ju forecast actual deliverable volume at around 1,500 to 2,000 units due to production capacity issues, complex micro-expression components, and delayed commissioning of the Guangxi factory.
+  中文：总结：在2026年APEC专题研讨会上，优必选创始人、董事会主席兼首席执行官周剑表示，人形机器人的大规模产业化仍然需要打通研发、量产和实际应用的全链条。 11月11日，优必选宣布永达汽车将采购400台U1 Pro超仿真人形机器人用于导购服务，并计划年内交付全部机器，这标志着U1系列自6月发布以来的首笔大规模B端商业批量订单。 优必选此前曾通过博世集团将U1机器人放置在梅赛德斯-奔驰4S店作为展品，并于11月9日与中国电信天翼终端签署了为期三年的10万台销售合作协议。 在6月份发布时，优必选将U1系列定位为家庭情感陪伴机器人，并宣布全渠道订单超过13,361台，承诺今年保障交付10,000台。 然而在8月底的财报电话会议上，优必选首席财务官张巨预测，由于产能问题、复杂的微表情组件以及广西工厂投产延误，今年实际可交付量将在1,500至2,000台左右。
+  📰 [36Kr](https://eu.36kr.com/en/p/4076727621457793)
+
+- **[2026.11.19] Metrology and Quality News — Humanoid Robotics Sector Gains Momentum as Agile Robots Raises $500M and Agility Goes Public**
+  English: Germany-based Agile Robots has raised $500 million in a Series F funding round at an $8.5 billion valuation, led by SoftBank Group with participation from Nvidia, Hitachi Ventures, and T. Capital, bringing its total capital raised to approximately $2 billion. Agile Robots intends to use the funds to increase production capacity, expand internationally, and accelerate Physical AI technologies. The company opened a new production facility in Fürstenfeldbruck, near Munich, in early 2026, with a capacity of up to 10,000 legged and wheeled humanoid robots annually. Meanwhile, US-based Agility Robotics completed its business combination with Churchill Capital Corp XI and began trading on the Nasdaq Stock Market, generating approximately $465 million in gross capital before expenses. Agility enters the public markets with nearly three years of real-world deployment experience, more than 65,000 hours of robot operation, and over $300 million in committed multi-year orders for its Digit 5 humanoid robot. Agility's commercial deployments include operations with GXO Logistics, Schaeffler, and Toyota Motor Manufacturing Canada, with expanded GXO partnerships and upcoming pilots with AGCO and enterprise customers.
+  中文：总结：总部位于德国的Agile Robots在F轮融资中筹集了$500 million，估值为$8.5 billion，本轮融资由软银集团领投，英伟达、日立风投和T. Capital参与，使其筹集的总资金达到约20亿美元。 Agile Robots计划利用这笔投资来提高产能、拓展关键国际市场并加速实体人工智能技术的发展。 该公司于2026年初期在慕尼黑附近的菲斯滕费尔德布鲁克开设了一家新的生产设施，每年可生产多达10,000台腿式和轮式人形机器人。 与此同时，美国Agility Robotics完成了与丘吉尔资本公司XI的业务合并，并在纳斯达克股票市场开始交易，在扣除费用前筹集了约4.65亿美元的总资本。 Agility以近三年的真实部署经验、超过65,000小时的机器人运行时间以及为其Digit 5人形机器人获得超过3亿美元的多年度承诺订单进入公开市场。 Agility的商业部署包括与GXO物流、舍夫勒和加拿大丰田汽车制造公司的合作，并计划扩大与GXO的合作以及与AGCO及企业客户即将开展的试点项目。
+  📰 [Metrology and Quality News](https://metrology.news/humanoid-robotics-sector-gains-momentum-as-agile-robots-raises-500m-and-agility-goes-public/)
+
+
+---
+※AI Robot News Digest | 2026.11.22 | full-text items: 19
