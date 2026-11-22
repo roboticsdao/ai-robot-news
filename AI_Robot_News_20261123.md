@@ -1,0 +1,116 @@
+# 🤖 AI Robot News | 2026.11.23（月曜日 / Monday）
+
+
+
+> ⚠️ 本日报收录近3天 AI 机器人新闻；摘要仅压缩媒体原文中明确出现的事实，不添加商业判断或后续预测。
+
+
+
+---
+
+
+## 🇺🇸 美国 / United States
+
+
+> 本轮核实 3 条新闻，未达到目标数量；不重复收录或编造补数。
+
+- **[2026.11.22] Interesting Engineering — US team builds 23-inch flexible robot that links up for bigger tasks**
+  English: Colorado State University Adaptive Robotics Lab researchers developed the TeCoBot, a flexible, lightweight 23-inch (59 cm) robot that can bend, grip, and connect with other units for tasks. Operating individually or as part of larger constructions, the robot uses task-adaptive morphology based on tensegrity principles. Carbon-fiber rods and three motor-driven cables allow continuous shape change without conventional joints. While demonstrating crawling, rolling, climbing, and autonomous docking, most movements and cooperative tasks still require human control, and limitations remain in load capacity, power endurance, and long-term durability.
+  中文：总结：科罗拉多州立大学自适应机器人实验室的研究人员开发了TeCoBot，这是一种灵活且轻便的23英寸（59厘米）机器人，能够弯曲、抓取并与其他单元连接以执行更大的任务。 该机器人可独立运行或作为更大结构的模块，利用基于张拉整体原理的任务自适应形态。 碳纤维杆和三根电机驱动的缆绳使其无需传统关节即可连续改变形状。 尽管展示了爬行、滚动、攀爬和自主对接能力，但其大部分运动和协同任务仍需人类控制，且在负载能力、电力续航和长期耐用性方面仍存在局限性。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer)
+
+- **[2026.11.21] Simply Wall St — Is GLOBALFOUNDRIES (GFS) A Bargain As It Expands Boston Dynamics Robot Trials?**
+  English: GLOBALFOUNDRIES is extending its partnership with Boston Dynamics to deploy Spot robots across its semiconductor fabs and prepare for Atlas humanoid robot trials starting in early 2027. Amid these robotics initiatives and new fab projects, the company's share price has experienced downward pressure, declining 25.38% over 30 days and 25.92% over 90 days, though 1-year total shareholder return stands at 5.14%. Analysts and market observers debate its valuation, weighing CHIPS Act backed investments, customer co-funding, and capacity buildouts against rich earnings multiples compared to the US semiconductor sector.
+  中文：总结：格芯正在扩展与波士顿动力的合作，在其半导体晶圆厂中部署Spot机器人，并为2027年初开始的Atlas人形机器人试验做准备。 在这些机器人计划和新晶圆厂项目推进的同时，该公司股价面临下行压力，30天股价回报率下跌25.38%，90天股价回报率下跌25.92%，不过1年总股东回报率仍为5.14%。 分析师和市场观察人士对其估值展开争论，将《芯片法案》支持的投资、客户共同出资和产能建设与相比美国半导体行业偏高的盈利市盈率进行权衡。
+  📰 [Simply Wall St](https://simplywall.st/stocks/us/semiconductors/nasdaq-gfs/globalfoundries/news/is-globalfoundries-gfs-a-bargain-as-it-expands-boston-dynami)
+
+- **[2026.11.20] Digg — NVIDIA’s GTC D.C. pitch: open models, robot brains and factory floors**
+  English: NVIDIA announced that GTC D. C. will take place from November 30 to December 3, 2026, featuring sessions on robotics, manufacturing, and open models. The event agenda includes Cosmos 3 training, factory simulation workshops, and a December 1 presentation by Kari Briski and Bryan Catanzaro on open models and agents. Additionally, NVIDIA scheduled a December 2 safety discussion with Laurie E. Locascio of ANSI regarding simulation, real-world testing, and industry standards.
+  中文：总结：英伟达宣布GTC D. C. 大会将于2026年11月30日至12月3日举行，会议涵盖机器人、制造和开放模型等议题。 活动议程包括Cosmos 3训练、工厂仿真研讨会，以及Kari Briski和Bryan Catanzaro于12月1日关于开放模型和智能体的演讲。 此外，英伟达安排了12月2日与美国国家标准协会（ANSI）的Laurie E. Locascio共同举行安全讨论，内容涵盖仿真、真实世界测试和行业标准。
+  📰 [Digg](https://digg.com/ai/9tqow2qy)
+
+
+## 🇨🇳 中国 / China
+
+
+- **[2026.11.23] Sohu — 宇树机器人拳击赛鏖战六分钟 夺下人形机器人金腰带**
+  中文：总结：11月21日傍晚，河北雄安体育中心举行了亚洲拳王金腰带争夺战及一场人形机器人拳击比赛。 在机器人对决中，宇树机器人经过6分钟较量战胜对手，摘得人形机器人拳击金腰带。 当晚主赛由吾扎提·努尔郎对阵吴朋阳，最终吾扎提·努尔郎胜出拿下亚洲拳王金腰带。 赛事引发网友对宇树机器人操作方式的讨论，部分评论关注其是否依赖遥控器，也有观点认为半自主运行模式已足够实用。
+  📰 [Sohu](https://m.sohu.com/a/1104949870_447547?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.11.22] 驱动之家 — 机器人拳击正规军！宇树拿下全球首条人形机器人拳击金腰带**
+  中文：总结：2026中国雄安·亚洲拳王争霸赛在雄安体育中心体育馆落幕，赛事包含人形机器人拳击金腰带争霸赛等板块。 在机器人对决中，宇树机器人击败众擎机器人，赢得由WBC认证的职业拳击赛事体系下的人形机器人拳击金腰带。 主赛中吾扎提·努尔郎战胜吴朋阳夺得WBC重量级亚洲拳王金腰带。 同日南京开赛的URKL城市巡回挑战赛中，两台众擎T800人形机器人展开AI自主硬核格斗，其联赛最终冠军将获得价值1000万元的10公斤纯金金腰带。
+  📰 [驱动之家](https://news.mydrivers.com/1/1167/1167612.htm)
+
+- **[2026.11.22] 中华网 — 宇树机器人打了6分钟 收获拳击金腰带 机器人拳赛亮点**
+  中文：总结：11月21日傍晚，河北雄安体育中心举行亚洲拳王金腰带争夺战，吾扎提·努尔郎在10回合较量中战胜吴朋阳。 同日举行的一场机器人拳击赛中，宇树机器人经6分钟战斗击败对手夺得金腰带。 此前8月26日第二届世界人形机器人运动会自由搏击赛项40公斤级决赛中，华北电力大学队伍遥控宇树科技G1机器人夺冠。 此外，宇树科技曾于9月14日将注册资本由约3.64亿人民币增至约4.04亿人民币并变更为上市股份公司，且此前因与英伟达合作生产人形机器人H2 Plus引发外界对供应链依赖的讨论。
+  📰 [中华网](https://news.china.com/socialgd/10000169/20261122/49895064.html)
+
+- **[2026.11.21] 新浪财经_金融信息服务商 — 具身智能赛道“出海潮涌”**
+  中文：总结：国家统计局数据显示今年1至10月我国工业机器人出口额增长17.8%，2025年中国工业机器人出口规模首次超过进口。 云深处、宇树、优必选、智元和墨甲机器人等国内具身智能企业持续拓展海外市场并考量落地建厂。 海关总署副署长王军表示我国机器人产业实现跨越式发展，智能仿生机器人和清洁机器人今年新增专门税号。 罗兰贝格数据显示2035年中国、北美、欧洲将分别占全球机器人市场约25%、23%和19%，东南亚和中东市场规模预计分别达约1700亿元和1100亿元。 艾图科技、墨甲机器人及云深处等企业在马来西亚、泰国、巴西及日本等海外市场落地应用。 同时，灵猴机器人越南生产基地投产，塞尔维亚与智元、敏实集团合作的人形机器人工厂已量产，哈萨克斯坦总统托卡耶夫支持优必选在阿拉木图建厂。 德勤与行业专家指出，企业出海面临贸易限制、市场准入、售后运维、数据合规及本地化适配等多重挑战。
+  📰 [新浪财经_金融信息服务商](https://finance.sina.cn/2026-11-21/detail-inizmmnu3784624.d.html?vt=4)
+
+- **[2026.11.21] 新华网 — 阿联酋学生体验中国光伏机器人**
+  中文：总结：中国驻迪拜总领馆和中国电建中东北非区域总部于19日在阿联酋阿布扎比酋长国举办光伏机器人交流体验活动，沙迦大学、迪拜大学和迪拜中国学校师生及中国电建代表近200人参加。 活动在阿布扎比PV3阿吉班1.5吉瓦光伏项目现场举办，项目占地约20平方公里，由中国电建华东勘测设计研究院有限公司承担总承包任务，是中国电建在阿联酋承建的首个大型光伏项目。 中国工程师向师生讲解太阳能发电原理、电站建设流程及光伏机器人的工作方式，并实地演示机器人搬运、抓取和安装光伏组件。 中国驻迪拜总领事欧渤芊和迪拜中国学校副校长黄海洋分别在活动中致辞，阐述了中阿新能源合作及科技教育的重要意义。
+  📰 [新华网](https://www.news.cn/20261121/6f862b22ffd54679bab2091d499c17c8/c.html)
+
+
+## 🇯🇵 日本 / Japan
+
+
+- **[2026.11.20] Newscast.jp — 日本の警備ロボット市場規模は2034年までに30億980万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）13.04%で推移する見通しである。**
+  日本語：IMARC Groupの調査によると、日本の警備ロボット市場規模は2025年の9億9860万米ドルから、2034年までに30億980万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）13.04%で推移する見通しである。 深刻化する人手不足や高齢化を背景に、自律型巡回ロボットや四足歩行ロボットの導入が進んでおり、丸紅によるアイオロスの展開や東河センロボティクスの四足歩行型警備・巡回ロボットの販売開始、セコムなどの共同実証実験が行われている。
+  中文：总结：根据IMARC Group的最新调查报告，日本的セキュリティロボット市场规模在2025年达到9亿9860万米ドル，预计到2034年将达到30億980万米ドル，2026年至2034年的年平均增长率（CAGR）为13.04%。 在深刻的人手不足和警备员老龄化背景下，自律型巡回机器人、四足步行机器人和人形系统等正被设施运营者和工厂引入。 丸红、东河センロボティクス以及セコム等企业也正在积极开展相关服务、产品展示及联合实证实验。
+  📰 [Newscast.jp](https://newscast.jp/smart/news/5910306)
+
+- **[2026.11.20] Infoseek — 【Telexistence】AIロボット「TX GHOST」を全国のファミリーマート店舗へ2027年1月から本格導入開始**
+  日本語：Telexistence株式会社は、自社開発のAIロボット「TX GHOST」およびデジタル在庫棚「スマートシェルフ」を、株式会社ファミリーマートの全国店舗を対象に2027年1月から順次本格導入することを発表した。 両社は2020年から実証を重ねており、先行導入店舗では1店舗あたり1日約7割の業務削減効果が確認されている。 「TX GHOST」は飲料冷蔵庫内で24時間稼働し、1日最大約1,800本の陳列が可能であり、遠隔操作と基盤モデルの学習を組み合わせることで自律範囲を広げている。
+  中文：总结：Telexistence株式会社宣布，将于2027年1月起在株式会社ファミリーマート的全日本店铺中，正式依次导入自社开发的AI机器人“TX GHOST”以及数字库存架“スマートシェルフ”。 双方自2020年起持续进行实证试验，先行导入店铺已确认1家店铺每天可减少约7%的业务量。 “TX GHOST”可在饮料冷藏柜内24小时运行，每天最多可陈列约1800瓶饮料，并通过远程操作与基础模型学习相结合来扩大自主作业范围。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000045_000027631/)
+
+- **[2026.11.21] 日刊スポーツ — 【日本ハム】ファイターズガールとロボット共演 一糸乱れぬパフォーマンスを披露**
+  日本語：日本ハムの公式チア「ファイターズガール」と5体のニューマノイドロボットが、エスコンフィールドで開催されたファンフェスティバルで共演した。 ロボットはきつねの耳としっぽをつけてグラウンドに登場し、音楽に合わせて手足を動かす一糸乱れぬパフォーマンスを披露した。 ダンス後はDJのアナウンスに手を挙げて応え、落ち着いた足取りで球場裏へ引き揚げた。
+  中文：总结：日本ハム的官方啦啦队“Fighters Girl”与5台人形机器人，在es CON field举行的球迷感谢祭上同台共演。 机器人戴着狐狸耳朵与尾巴登场，伴随音乐整齐划一地摆动手足进行表演。 舞蹈结束后，机器人们向DJ的广播挥手回应，随后迈着稳健的步伐退回球场后台。
+  📰 [日刊スポーツ](https://www.nikkansports.com/baseball/news/202611210000678.html)
+
+- **[2026.11.21] Infoseek — フィジカルAIとロボット社会の未来を体感 ～ 西日本最大規模※のロボット専門展『RoboNext2026』まもなく開催！**
+  日本語：一般社団法人日本ロボット工業会と日刊工業新聞社は、2026年12月2日から4日まで、インテックス大阪で西日本最大規模のロボット専門展「RoboNext2026」を開催する。 テーマは「ロボットをもっと身近に、そして未来へ。 」であり、国内外から318社・団体が出展する。 人手不足や労働力不足などの日本社会が直面する課題に対し、ロボットとAIが提示する解決策を来場者とともに考える場を創出する。 会場では、フィジカルAIやヒューマノイドに関する講演、外食産業の人手不足を助けるうどん提供・下膳ロボットの実演展示などが行われる。
+  中文：总结：一般社团法人日本机器人工业会与日刊工业新闻社将于2026年12月2日至4日，在大阪国际展览中心举办西日本规模最大的机器人专业展会“RoboNext2026”。 展会主题为“让机器人更贴近生活，迈向未来”，国内外共有318家企业及团体参展。 展会将针对日本社会面临的人手不足与劳动力短缺等课题，与参观者共同探讨机器人与人工智能所提供的解决方案。 会场内将举行有关具身智能与人形机器人的演讲，并实演可缓解餐饮业人手不足的乌冬面制作及餐具回收机器人。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/prtimes_000000329_000033323/)
+
+- **[2026.11.20] Yahoo!ニュース — トヨタは次に何で稼ぐのか？元機関投資家が紐解くロボット戦略（LIMO）**
+  日本語：トヨタは工場内のロボット化とあわせて車体構造の変更を進める方針を示し、決算説明会の質疑応答で宮崎洋一CFOが明らかにしている。 1兆円規模の老朽更新は工場へのロボット導入費でありロボットの開発費ではないとし、ロボットの頭脳にあたるAIの学習には映像データを集めて知見を蓄えていると説明した。 さらに自動化を本気で進めるため生産工程や組み付け点数、部品そのものを減らす車体構造への見直しを前提にし、ロボティクスのトップを担う志賀武文CPOらとともにトヨタグループ各社と議論を進めている。
+  中文：总结：丰田汽车表明了在推进工厂机器人化的同时改变车体结构的方针，CFO宫崎洋一在财报说明会的问答环节中对此进行了说明。 他表示1兆日元规模的老旧设备更新是用于向工厂引入机器人的资金，而非机器人本身的开发费，并称正在收集影像数据让AI学习以积累机器人的“大脑”知识。 此外，为了认真推进自动化，丰田以重新审视车体结构、减少生产工序、组装点数及零部件本身为前提，正与担任机器人业务负责人的CPO志贺武文等人及丰田集团各公司展开讨论。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/d5e0ba005f0f2ca4b80abd7f25ae7dcb5bc3b56d?page=3)
+
+
+## 🤖 Humanoid Robotics
+
+
+- **[2026.11.21] The Rundown AI — GlobalFoundries to test Boston Dynamics’ Atlas in chip fabs**
+  English: GlobalFoundries plans to test Boston Dynamics' Atlas humanoid inside its chip fabs starting in early 2027, making it the first manufacturing customer outside automotive to join the Atlas early adopter program. The deal also expands GlobalFoundries' fleet of Spot inspection robots to Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. The Burlington plant has used Spot for over four years, while two units in Singapore logged nearly 900 kilometers and over 90,000 sub-fab inspections since April with a 99% success rate. The companies will hold workshops to assess possible jobs, site readiness, and plant integration, though the number of Atlas units, specific tasks, trial areas, and routine operation dates remain undisclosed.
+  中文：总结：GlobalFoundries 计划于 2027 年初在其芯片晶圆厂内测试波士顿动力的 Atlas 人形机器人，成为汽车行业之外首家加入 Atlas 早期采纳者项目的制造客户。 该协议还将 Spot 巡检机器人的部署扩展至美国纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿以及新加坡。 伯灵顿工厂使用该四足机器人已超过四年，而新加坡的两台机器自 4 月以来已行进近 900 公里，完成超过 90,000 次底盘下巡检，任务成功率达 99%。 两家公司将通过研讨会评估潜在工作、场地准备情况及工厂集成，但 Atlas 的机器人数量、具体任务、确切试验区域以及常规运行日期尚未披露。
+  📰 [The Rundown AI](https://www.therundown.ai/news/globalfoundries-boston-dynamics-atlas-chip-fab-trials)
+
+- **[2026.11.20] Wisevoter — AGIBOT Deploys Cloud Node in Australia**
+  English: Humanoid robotics company AGIBOT has deployed a cloud node in Australia to support local robot operations and showcased its robots at the New Zealand-China Products Expo in Auckland from November 20 to 22, 2026. The deployment provides local infrastructure for AGIBOT's operations in Australia and New Zealand, where regional teams will assess site requirements, support deployments, and provide ongoing technical services to customers and partners. Existing New Zealand teams handle technical and after-sales support. Gary Sun, General Manager of Australia and New Zealand, spoke at the Physical AI on AWS: ANZ Roadshow in Sydney on November 10, 2026. Live demonstrations at the Auckland expo highlighted robots combining Interaction Intelligence, Manipulation Intelligence, and Locomotion Intelligence.
+  中文：总结：人形机器人公司智元机器人（AGIBOT）已在澳大利亚部署了一个云节点以支持当地的机器人运营，并于 2026 年 11 月 20 日至 22 日在奥克兰举行的中国-新西兰商品博览会上展示了其机器人。 此次部署为智元机器人在澳大利亚和新西兰的业务提供了本地基础设施，当地团队将在两地评估场地需求、支持部署并为客户和合作伙伴提供持续的技术服务。 现有新西兰团队负责技术和售后支持。 澳大利亚和新西兰总经理 Gary Sun 于 2026 年 11 月 10 日在悉尼举行的 AWS 物理 AI 澳新路演上发表了讲话。 奥克兰博览会上的现场演示重点展示了结合了交互智能、操作智能和运动智能的机器人。
+  📰 [Wisevoter](https://wisevoter.com/world/au/2026/11/20/agibot-deploys-cloud-node-australia)
+
+- **[2026.11.20] Interesting Engineering — US firm unveils Phantom MKII battlefield humanoid robot with bigger payload, tougher build**
+  English: San Francisco-based robotics startup Foundation Future Industries unveiled its second-generation humanoid robot, the Phantom MKII, and an upgraded AI control system called Cortex II. Engineered for heavy industrial and military support, the bipedal platform hauls up to 200 pounds (91 kilograms) and operates in rain, snow, and dust. Founded in 2024 by CEO Sankaet Pathak and former U. S. Marine Corps officer Mike LeBlanc, the company aims to begin early production in the San Francisco Bay Area in early 2027. The MKII addresses battery, waterproofing, and lifting limitations of the Phantom MK-1 through environmental sealing, higher-load actuators, and a simplified assembly. Cortex II learns physical tasks from human observations using as few as 60 examples. The hardware overhaul follows 2026 non-combat logistics trials in Ukraine. The company embraces a human-in-the-loop defense framework while facing cash-flow pressures, including a missed payroll in late October 2026.
+  中文：总结：总部位于旧金山的机器人初创公司 Foundation Future Industries 推出了第二代人形机器人 Phantom MKII 以及名为 Cortex II 的升级版人工智能控制系统。 该双足平台专为重工业和军事支援角色设计，可承载高达 200 磅（91 公斤）的重量，并能在雨、雪和尘土中行走。 该公司由首席执行官 Sankaet Pathak 和前美国海军陆战队军官 Mike LeBlanc 于 2024 年创立，计划于 2027 年初在旧金山湾区开始 MKII 的早期生产。 MKII 通过环境密封、更高负载的致动器和简化的组装，解决了初代 Phantom MK-1 在电池续航、防水和举升能力方面的限制。 Cortex II 通过观察人类示范来学习物理任务，某些操作仅需 60 个示例。 此次硬件大修紧随 2026 年在乌克兰进行的非战斗后勤试验之后。 该公司在推行“人在回路”的国防框架的同时，也面临着现金流压力，包括在 2026 年 10 月下旬出现错过员工薪资发放的情况。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot)
+
+- **[2026.11.20] 36Kr — UBTECH Team, Please Extend Your Brief Wait Before Entering Your Residences**
+  English: At the 2026 APEC thematic seminar, UBTech founder, chairman, and CEO Zhou Jian stated that the large-scale industrialization of humanoid robots still requires connecting R&D, mass production, and practical application. On November 11, UBTech announced that Yongda Auto will purchase 400 units of its U1 Pro ultra-realistic humanoid robot for shopping guide services, with delivery planned within the year. This follows a July 15 cooperation with Boshi Group and a November 9 agreement to supply 100,000 units over three years to China Telecom E-surfing Terminal. When launched in June as a family emotional companion robot, UBTech projected 13,361 all-channel orders and guaranteed 10,000 deliveries for the year. However, in late August, CFO Zhang Ju forecast actual deliverable volume at 1,500 to 2,000 units due to production capacity constraints, silicone skin yield rates, manual hair implantation, and a two-to-three-month delay in the Guangxi factory commissioning caused by natural factors.
+  中文：总结：在 2026 年 APEC 主题研讨会上，优必选创始人、董事长兼 CEO 周剑表示，人形机器人的大规模产业化仍然需要打通研发、量产和实际应用的全链条。 11 月 11 日，优必选宣布永达汽车将采购 400 台其 U1 Pro 超仿真人形机器人用于导购服务，并计划年内交付。 在此之前，优必选于 7 月 15 日与博时集团开展合作，并于 11 月 9 日签署了向中国电信爱WiFi终端三年内供应 10 万台机器人的协议。 该机器人在 6 月发布时被定位为家庭情感陪伴机器人，当时优必选预计全渠道订单超过 13,361 台，并保证今年交付 1,0000 台。 然而在 8 月底，CFO 张炬预测，由于产能限制、硅胶皮肤良率、人工植发以及广西工厂因自然因素导致投产推迟两到三个月，今年实际可交付量将在 1,500 至 2,000 台左右。
+  📰 [36Kr](https://eu.36kr.com/en/p/4076727621457793)
+
+- **[2026.11.20] Gasgoo — Boston Dynamics' Humanoid Robot Secures First Chip Plant Customer**
+  English: Boston Dynamics and GlobalFoundries announced an expanded partnership to deploy Spot quadruped robots in more wafer fabs across the U. S. , Europe, and Asia, while GlobalFoundries becomes the first customer outside automotive to test the Atlas humanoid robot on-site. GlobalFoundries has used Spot for over four years in Burlington, Vermont. In Singapore, two Spot units logged nearly 900 kilometers in the sub-fab level since April, completing over 90,000 inspections with a 99% success rate and migrating 875 routine inspection tasks in two weeks. Spot acts as a mobile sensor suite reading temperature and gauge data from pumps, motors, and compressed gas systems, supporting predictive maintenance as noted by Chief Manufacturing Officer Pradip Singh. Spot will be deployed to Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. Atlas features dexterous dual-arm manipulation, with on-site testing slated for early 2027 following skill development workshops.
+  中文：总结：波士顿动力与 GlobalFoundries 宣布扩大合作伙伴关系，将 Spot 四足机器人部署到美国、欧洲和亚洲更多的晶圆厂中，同时 GlobalFoundries 成为汽车行业之外首家在现场测试 Atlas 人形机器人的客户。 GlobalFoundries 在佛蒙特州伯灵顿工厂使用 Spot 已超过四年。 在新加坡，两台 Spot 自 4 月以来在底层厂务层行进近 900 公里，完成超过 90,000 次巡检，成功率达 99%，并在两周内迁移了 875 项例行巡检任务。 Spot 充当移动传感器套件，读取泵、电机和压缩气体系统的温度和仪表数据，正如首席制造官 Pradip Singh 所指出，这支持了预测性维护。 Spot 将被部署到纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿以及新加坡。 Atlas 具备灵巧的双臂操作能力，在技能开发研讨会之后，现场测试计划于 2027 年初开始。
+  📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/boston-dynamics-humanoid-robot-secures-first-chip-plant-customer-2123775609070927872)
+
+
+---
+※AI Robot News Digest | 2026.11.23 | full-text items: 18
