@@ -1,0 +1,51 @@
+# 🖐 Dexterous Hand News | 2026.11.24（火曜日 / Tuesday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.24] 生物通 — 面向触觉遥操作抓取的VLM辅助对象感知共享控制框架**
+  中文：总结：《Advanced Intelligent Systems》：SCG-VLM: Vision-Language Model-Assisted Shared Control for Grasping in Haptic Teleoperation 编辑推荐： 在利用触觉设备进行遥操作机器人抓取时，由于需要在选择目标物体的同时实现精准的六自由度（6-DoF）控制以完成稳定抓取，该任务极具挑战性。 现有的共享控制（SC）方法通常依赖基于几何的抓取位姿检测，往往会在与任务无关的物体上选择抓取点，从而无法与操作者意图对齐。 本 在利用触觉设备进行遥操作机器人抓取时，由于需要在选择目标物体的同时实现精准的六自由度（6-DoF）控制以完成稳定抓取，该任务极具挑战性。 现有的共享控制（SC）方法通常依赖基于几何的抓取位姿检测，往往会在与任务无关的物体上选择抓取点，从而无法与操作者意图对齐。
+  📰 [生物通](https://www.ebiotrade.com/newsf/2026-11/20261124000257639.htm)
+
+- **[2026.11.23] Sohu — 景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证**
+  中文：总结：景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证 近日， 景旺电子（603228. SH）举办业绩说明会，就业务布局与经营情况回应投资者提问。 针对人形机器人等新兴赛道，公司持续关注并依托高端PCB技术积累配合客户开发验证。 以人形机器人为例，公司配合开发了灵巧手PCB产品，该产品技术难度大、附加值高，目前尚未形成规模收入，后续将继续推进验证与迭代。 关于AI PCB规格对比，公司表示不同算力平台要求各有侧重，不宜单一维度横向比较。 公司已实现高多层、高阶HDI及SLP等高性能产品大批量稳定量产，具备M7至M9级别及PTFE材料量产加工能力，能满足全球算力客户升级需求。 此外，公司已顺利通过客户下一代产品量产认证，覆盖多款高性能PCB产品；珠海金湾高阶HDI工厂项目进度符合预期；今明两年新增产能将结合在手订单和客户滚动预测有序投放，AI PCB良率能稳定满足客户量产验收标准并实现批量交付。 公司2026年前三季度归母净利润同比增长70.42%，经营活动现金流净额阶段性下降主要受经营规模增长带来的应收账款、原材料备货和在制品增加等综合影响，属业务扩张正常现象，客户回款周期未拉长。
+  📰 [Sohu](https://m.sohu.com/a/1105390535_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334)
+
+- **[2026.11.23] BigGo Finance — China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector**
+  English: China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector Shanghai Oymotion Information Technology Co. (Oymotion Technologies) announced on Nov. 23 that it completed a nine-figure D round — several hundred million yuan — jointly invested by Zhongbing Shunjing, Changjiang Capital, Optics Valley Industrial Investment and other institutions.
+  📰 [BigGo Finance](https://finance.biggo.com/news/589bc362-10d6-4326-a168-08163f7f568d)
+
+- **[2026.11.23] www.gasgoo.com — 灵心巧手绑定腾亚精工，灵巧手竞速从拼设计转向拼量产**
+  中文：总结：盖世具身智能获悉，灵心巧手（北京）科技股份有限公司与南京腾亚精工科技股份有限公司已于近日正式签署战略合作协议。 双方将围绕产业链上下游协同，在精密制造、供应链协同、联合技术开发、场景应用与数据共建等方向，建立多层次、全方位的战略合作关系。 具体而言，灵心巧手的灵巧操作能力，将为腾亚精工的产品智能化升级提供新的可能，而腾亚精工成熟的制造体系与真实场景，则反哺灵巧手在可靠性与量产上的持续迭代。 灵巧手自由度高、结构精密，被视为具身智能最难工程化的部件之一。 当前，该领域的竞争焦点正在变化：从“能不能做出来”，转向“能不能量产、能不能用得起、能不能用得住”。 毕竟，再精巧的设计，如果过不了可靠性、一致性和成本这几关，就难以走出展台。 这正是两家公司合作的基础。 图片来源：灵心巧手 灵心巧手具备灵巧手赛道全栈自研能力，通过持续打磨硬件、感知、运动控制、多模态数据、具身大模型一体化能力，搭建起了包括Linker Hand硬件产品、LinkerSkillNet操作技能库、灵心造物大模型的完整技术体系。
+  📰 [www.gasgoo.com](https://www.gasgoo.com/robot/news/70478805-%E7%81%B5%E5%BF%83%E5%B7%A7%E6%89%8B%E7%BB%91%E5%AE%9A%E8%85%BE%E4%BA%9A%E7%B2%BE%E5%B7%A5/)
+
+- **[2026.11.23] 아시아경제 — IL Signs Exclusive Korea Supply Deal with XYNOVA, Maker of the "World's First Hybrid Robotic Hand"**
+  English: IL Signs Exclusive Korea Supply Deal with XYNOVA, Maker of the "World's First Hybrid Robotic Hand" Song Seong-geun, chairman of IEL, and Xia Yuxuan, founder and CEO of XYNOVA, pose for a commemorative photo at the signing ceremony for an exclusive supply agreement in Korea. Courtesy of IEL. View original image Physical AI data platform company IL is entering South Korea's humanoid robot components market through a partnership with XYNOVA, a global specialist in core robotics components.
+  📰 [아시아경제](https://www.asiae.co.kr/en/article/stock-disclosure/2026112309582080652)
+
+- **[2026.11.23] Robotics & Automation News — Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands**
+  English: Schunk has renamed its humanoid robotics spin-off to Tactilia Robotics, establishing a Munich-based company focused on developing modular robotic hands for industrial automation. Originally founded in January 2026 as Schunk Humanoid Robotics GmbH, the company designs robotic hands for manufacturing and logistics across humanoid robots, collaborative robots, and mobile manipulators. Dr. Markus Netzer became CEO on November 1, 2026. The development program combines mechanical engineering, sensors, actuators, software, and physical AI. CTO Timo Gessmann emphasizes integration and reliability. Tactilia operates independently while drawing on Schunk's gripping expertise and its network of 15 CoLabs worldwide. Headquartered in Munich's Arabellapark district, the company's immediate priority is developing and validating industrial robotic hands.
+  中文：总结：Schunk将其人形机器人衍生公司更名为Tactilia Robotics，设立了一家总部位于慕尼黑的公司，专注于为工业自动化应用开发模块化机器人手。 该公司最初于2026年1月成立时名为Schunk Humanoid Robotics GmbH，其开发的机器人手旨在用于制造和物流环境中的各种物体和零部件处理，技术适用于人形机器人、协作机器人和移动操作臂等不同机器人平台。 Dr. Markus Netzer于2026年11月1日出任首席执行官。 该公司的开发项目结合了机械工程、传感器、执行器、软件和物理人工智能，以创造能够执行需要人类灵活性任务的机器人手。 Schunk首席技术官Timo Gessmann表示，机器人手开启了新的自动化可能性。 Tactilia虽然独立运营，但将继续利用Schunk在抓取和自动化技术方面的专业知识，并可以使用Schunk在全球的15个CoLabs网络。 该公司总部位于慕尼黑的Arabellapark区，其当务之急是开发和验证能够在工业环境中可靠运行的机器人手。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/22/schunk-spin-off-tactilia-robotics-launches-to-develop-dexterous-robot-hands/107466/)
+
+- **[2026.11.23] frostchina.com — 沙利文发布《2026年全球触觉传感器行业白皮书》**
+  中文：总结：本白皮书围绕全球触觉传感器行业展开系统研究，涵盖具身智能产业发展背景、触觉感知技术原理与技术路线、核心性能评价体系、市场发展、产业化挑战、重点下游应用及未来发展趋势等核心内容。 白皮书重点关注触觉传感器在机器人灵巧手精细操作及全身感知等场景中的应用需求，并结合行业技术发展与商业化实践，系统分析触觉传感器行业的发展现状及未来方向。 随着人工智能向物理世界延伸，触觉感知通过提供接触反馈，支持机器人实时调整操作策略，推动其从看见走向做成，成为提升机器人精细操作、环境适应及自主交互能力的重要基础。 当前，全球触觉传感器行业正处于技术持续演进与产业化加速发展的阶段，技术正由单项性能优化向综合感知能力、系统集成及实际任务表现提升转变。 展望未来，触觉传感器将向更高感知性能、更强系统集成能力及更广泛的应用覆盖方向演进。
+  📰 [frostchina.com](https://www.frostchina.com/content/insight/detail/6afebc1f964e5e4a2742c60d)
+
+- **[2026.11.22] Superpower Daily — Sundae Robotics 11: Beyond the Gripper — Teaching Robots Dexterity Through Touch, Vision, and Play**
+  English: Akash Sharma, an Amazon Frontier AI & Robotics Research Scientist and CMU Robotics Institute PhD, presents four approaches to advancing dexterous robot manipulation through touch, vision, human demonstrations, and autonomous play during Sundae Robotics 11. The talk addresses limitations of standard routes like parallel-jaw grippers, human demonstrations, and simulation. First, PTLD learns tactile policies without tactile simulation by distilling a privileged simulation-trained teacher on real hardware. Second, INVAR learns visual invariance once from clean and randomized simulation pairs for zero-shot transfer. Third, CARD retargets human video, glove, and motion-capture demonstrations based on contact rather than movement. Fourth, DSP turns minutes of human play into goal-conditioned dexterity using autonomous play, world models, and distillation. Akash Sharma works with Jitendra Malik at Amazon FAR, received his PhD from CMU advised by Prof. Michael Kaess, and was a visiting researcher with FAIR Robotics at Meta.
+  中文：总结：Amazon Frontier AI & Robotics研究科学家兼CMU机器人研究所博士Akash Sharma在Sundae Robotics 11活动中，展示了通过触觉、视觉、人类示范和自主玩耍推进具身机器人灵巧操作的四种方法。 演讲探讨了这些方法如何帮助机器人超越基本夹爪并学习可靠的双手内技能。 首先，PTLD通过在真实硬件上蒸馏特权模拟训练的教师，在不模拟触觉传感器的前提下学习触觉策略。 其次，INVAR从干净且随机化的模拟对中学习一次视觉不变性，实现零样本迁移。 接着，CARD根据手接触的内容而非运动方式来重定向人类视频、手套和动作捕捉示范。 最后，DSP通过自主玩耍、世界模型和蒸馏，将数分钟的人类玩耍转化为目标条件灵巧性。 Akash Sharma是Amazon FAR的研究科学家，与Jitendra Malik合作从事机器人手和灵巧操作研究，其博士学位毕业于卡耐基梅隆大学机器人研究所，师从Michael Kaess教授，并曾担任Meta FAIR机器人团队的访问研究员。
+  📰 [Superpower Daily](https://superpowerdaily.com/events/sundae-robotics-11-beyond-the-gripper-teaching-robots-dexterity-through-touch-vision-and-play-be5349b8-c9ee-4024-aad4-a0a50c43ed48)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.24 | full-text items: 8

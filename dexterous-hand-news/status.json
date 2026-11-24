@@ -1,11 +1,11 @@
 {
-  "state": "ok",
-  "checked_at": "2026-11-23T12:39:15.388552+09:00",
-  "latest_article_at": "2026-11-23T09:58:20+09:00",
+  "state": "partial",
+  "checked_at": "2026-11-24T15:52:55.773884+09:00",
+  "latest_article_at": "2026-11-24T13:58:43+09:00",
   "articles": 8,
   "sections": {
     "Global": 8
   },
   "shortfalls": {},
-  "translations_missing": 0
+  "translations_missing": 2
 }
