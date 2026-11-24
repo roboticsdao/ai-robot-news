@@ -1,211 +1,30 @@
 {
   "kind": "robot",
-  "updated_at": "2026-11-24T15:55:46.193812+09:00",
+  "updated_at": "2026-11-25T06:08:16.629484+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-24T15:55:46.193812+09:00",
-    "latest_article_at": "2026-11-24T14:20:00+09:00",
-    "articles": 19,
+    "checked_at": "2026-11-25T06:08:16.629484+09:00",
+    "latest_article_at": "2026-11-25T05:30:00+09:00",
+    "articles": 20,
     "sections": {
       "美国 / United States": 5,
       "中国 / China": 5,
-      "日本 / Japan": 4,
+      "日本 / Japan": 5,
       "Humanoid Robotics": 5
     },
-    "shortfalls": {
-      "日本 / Japan": {
-        "target": 5,
-        "actual": 4
-      }
-    },
-    "translations_missing": 6
+    "shortfalls": {},
+    "translations_missing": 5
   },
   "articles": [
     {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T09:55:40+09:00",
-      "headline": "U.S. Physical AI Robot Fund Courts Korean Institutional Investors",
-      "source": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/economy/2026/11/24/us-physical-ai-robot-fund-courts-korean-institutional",
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T00:05:40+09:00",
+      "headline": "Nvidia reinstates Jensen Huang as CEO amid robotics funding concerns",
+      "source": "The Rundown AI",
+      "url": "https://www.therundown.ai/news/nvidia-jensen-huang-ceo-return-robotics-investment",
       "language": "English",
       "section": "美国 / United States",
-      "summary": "U. S. fund RoboStrategy held its first institutional investor relations event in Korea in Seoul's Cheongdam-dong, targeting pension funds, insurers, and professional investors. The fund, which invests in unlisted robotics and physical AI companies including Figure AI, listed on the Nasdaq in May 2026 with a market capitalization of about 810 billion won and forecast a major leap in robotics within three to six months. Co-Chief Executive Andrew Kang outlined the plan. Additionally, Changwon cultural planning firm Bbeonhan Local reported revenue growth, GS25 expanded in Cambodia, and Korea-China FTA service negotiations progressed for the gaming sector.",
-      "summary_zh": "美国机器人与具身智能未上市公司投资基金RoboStrategy在首尔清潭洞举行了其在韩国的首次机构投资者关系活动，目标群体为养老基金、保险公司和专业投资者。 该基金投资了估值约50万亿韩元的人形机器人制造商Figure AI，并于2026年5月在纳斯达克上市，市值约8100亿韩元，其联合首席执行官安德鲁·康（Andrew Kang）在活动中预测机器人技术将在三到六个月内迎来重大飞跃。 此外，昌原市文化策划公司Bbeonhan Local报告了营收增长，GS25在柬埔寨进行了业务扩张，韩中自贸协定在游戏服务领域取得了实质性谈判进展。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T08:50:12+09:00",
-      "headline": "Boston Dynamics takes humanoid Atlas into semiconductor manufacturing",
-      "source": "TechTarget",
-      "url": "https://www.techtarget.com/news/boston-dynamics-takes-humanoid-atlas-into-semiconductor-manufacturing/875450/",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Boston Dynamics has partnered with GlobalFoundries to deploy its humanoid Atlas and quadruped Spot at GF chip fabrication plants, marking Atlas's first application outside the automotive industry. Spot will expand across GF facilities in New York, Vermont, Germany, and Singapore, building on an existing deployment in Vermont and Singapore where two Spot robots achieved a 99% success rate across more than 90,000 inspections. Atlas testing is scheduled to begin in early 2027 with a skills development workshop. Gartner analyst Bill Ray noted that deployment involves practical challenges like battery life and safety considerations, while GF Chief Manufacturing Officer Pradip Singh stated the project supports AI-enabled manufacturing.",
-      "summary_zh": "波士顿动力公司已与格芯（GlobalFoundries）达成合作，在其芯片制造厂部署人形机器人Atlas和四足机器人Spot，标志着Atlas首次应用於汽车行业之外。 Spot机器人的应用将扩展至格芯位于纽约、佛蒙特州、德国和新加坡的工厂，此前其在佛蒙特州和新加坡的部署已在9万多次检查中实现了99%的成功率。 Atlas的测试计划于2027年初开始，首期为技能开发研讨会。 Gartner分析师比尔·雷（Bill Ray）指出，部署面临电池寿命和安全性等实际挑战；而格芯首席制造官普拉迪普·辛格（Pradip Singh）表示，该项目将支持公司的AI赋能制造路线图。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T23:38:54+09:00",
-      "headline": "Huang's Nvidia return puts physical AI back on familiar course",
-      "source": "Fierce Sensors",
-      "url": "https://www.fiercesensors.com/ai/huangs-nvidia-return-puts-physical-ai-back-familiar-course",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Jensen Huang returned as president, CEO, and director of Nvidia following a unanimous board vote, with the move supported by senior U. S. government officials, including President Trump. Nvidia's stock rose 35% early Monday to reach $170.32 at 10:30 a. m. ET. The independent investigation into reports that Huang was targeted by a foreign intelligence effort will continue. Huang's return emphasizes Nvidia's focus on physical AI, which integrates AI systems with sensors like cameras, lidar, and radar to interact with the real world. Nvidia also established a National Security and Export Control Committee composed solely of independent directors and is searching for a new chief compliance officer.",
-      "summary_zh": "黄仁勋在英伟达董事会全票通过后复职，重新担任公司总裁、首席执行官兼董事，该举措得到了包括美国总统特朗普在内的高级美国政府官员的支持。 英伟达股价周一早盘飙升35%，上午10点30分达到170.32美元。 针对黄仁勋成为外国情报活动目标相关报道的独立调查将继续进行。 黄仁勋的回归凸显了英伟达对具身智能的重视，该技术将人工智能系统与摄像头、激光雷达和雷达等传感器相结合以与现实世界交互。 此外，英伟达成立了一个完全由独立董事组成的国家安全与出口管制委员会，并正在物色新的首席合规官。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T21:26:04+09:00",
-      "headline": "Firefighting Robots Market Is Going to Boom |• Boston Dynamics • Thermo Fisher Scientific • Roboteam",
-      "source": "openPR.com",
-      "url": "https://www.openpr.com/news/4697387/firefighting-robots-market-is-going-to-boom-boston-dynamics",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "The Firefighting Robots Market report explores industry expansion factors, growth drivers, restraints, emerging opportunities, investment trends, supply chain developments, and regulatory frameworks. The study profiles leading companies including Boston Dynamics, Thermo Fisher Scientific, Roboteam, FLIR Systems, DJI, QinetiQ, ECA Group, Howe and Howe Technologies, Teledyne FLIR, Ghost Robotics, Clearpath Robotics, and SUEZ. The market is segmented by types into industrial, commercial, residential, military, agricultural, forestry, search and rescue, and hazardous material handling, and by applications into fire suppression, search and rescue, hazardous material handling, surveillance and monitoring, fire scene assessment, training simulations, infrastructure protection, and wildfire management.",
-      "summary_zh": "消防机器人市场报告探讨了行业扩张的因素、增长驱动因素、限制因素、新兴机遇、投资趋势、供应链发展和监管框架。 该研究分析了波士顿动力、赛默飞世尔科技、Roboteam、FLIR Systems、大疆、QinetiQ、ECA集团、Howe and Howe Technologies、Teledyne FLIR、Ghost Robotics、Clearpath Robotics和苏伊士等领先公司。 市场按类型分为工业、商业、住宅、军事、农业、林业、搜救和危险品处理，按应用分为灭火、搜救、危险品处理、监视与监控、火灾现场评估、训练模拟、基础设施保护和野火管理。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T19:05:00+09:00",
-      "headline": "Avalue's U.S. AI Robotics Push Gains Traction; Industrial Control to Be Strongest Growth Driver Next Year",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/0b5b27dd-3af2-466c-a7cb-048d08912222",
-      "language": "English",
-      "section": "美国 / United States",
-      "summary": "Industrial PC maker Avalue Technology Incorporation posted strong results in the North American industrial automation market and is shifting focus toward the U. S. AI robotics sector. The company provides customized carrier boards and embedded computing platforms that help robot OEMs integrate sensors, control, and communications interfaces. Avalue uses customized embedded circuit boards to consolidate camera connectivity, sensor communications, and vehicle control interfaces into a single platform, reducing reliance on external components and integration complexity. The company adopts a modular design separating the computing module from the customized carrier board to facilitate upgrades. Avalue expects industrial control to become its fastest-growing segment next year.",
-      "summary_zh": "工业电脑制造商安立科技在北美工业自动化市场取得了强劲业绩，并将重心转向美国人工智能机器人领域。 该公司提供定制载板和嵌入式计算平台，帮助机器人原始设备制造商整合传感器、控制和通信接口。 安立科技使用定制嵌入式电路板将摄像头连接、传感器通信和车辆控制接口整合到单一平台中，减少了对外部组件的依赖并降低了集成复杂性。 该公司采用将计算模块与定制载板分离的模块化设计，以方便进行升级。 安立科技预计工业控制将成为其明年增长最快的业务板块。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T14:20:00+09:00",
-      "headline": "半导体+人形机器人双主线吸金，宽基底仓同步加码",
-      "source": "中国基金报",
-      "url": "https://www.chnfund.com/article/AR5e422666-7112-1377-dd21-3a251dc48408",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "On November 23, A-share market trading and ETF fund flows showed a clear shift toward the offensive end, with stock-type ETFs being the sole significant net inflow source of 12.822 billion yuan, while bond-type ETFs suffered 7.9 billion yuan in net outflows. Broad-based ETFs saw 14.628 billion yuan in net buying and thematic ETFs saw 2.159 billion yuan. Small-cap and growth broad-based indexes and industrial themes like semiconductors and robots attracted large inflows, driven by policy measures and external factors. Major fund companies such as E Fund, ChinaAMC, and Southern Fund recorded large scale increases, while overall from September 28 to November 23, nearly 780 billion yuan flowed into stock-type ETFs.",
-      "summary_zh": "11月23日，A股市场盘面与ETF资金端动向显示明显转向进攻端，股票型ETF是唯一的显著净流入来源，贡献128.22亿元，而债券型ETF遭遇大额净赎回79亿元。 宽基ETF合计净买入146.28亿元，主题ETF合计净买入21.59亿元。 小盘宽基、成长板块及半导体与机器人等产业主题成为资金净流入主力，受政策组合拳与外部因素驱动。 易方达基金、华夏基金和南方基金等头部机构旗下产品规模显著增长，而9月28日至11月23日期间，全市场有近7800亿元资金流向股票型ETF。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T08:17:50+09:00",
-      "headline": "宇树科技封涨停！机器人ETF集体飙涨，投资怎么选？",
-      "source": "21财经",
-      "url": "https://www.21jingji.com/article/20261124/herald/22f51ecc5aa5f5d55f793fa758e980d9.html",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "On November 23, A-share indexes rose with the robotics sector surging and multiple stocks hitting daily limits, including Unitree Technology closing at limit-up with a price of 708 yuan per share and a total market value of 2864 billion yuan. Tesla pushed FSD V15 and CEO Elon Musk stated that Optimus could perform household chores in the next 12 to 18 months. Meanwhile, four government departments issued an implementation plan mentioning AI agents and service robots for elderly and child care, and the Ministry of Industry and Information Technology approved 274 industry standards including embodiment intelligence data generation. Robot-related ETFs track indexes such as the CSI Robot Index and the CNI Robot Industry Index.",
-      "summary_zh": "11月23日，A股主要指数上涨，机器人板块盘中拉升掀起涨停潮，其中人形机器人企业宇树科技封死涨停，股价报708元/股，总市值达2864亿元。 特斯拉推送FSD V15，CEO马斯克表示预计未来12至18个月Optimus可处理家务。 四部门印发方案鼓励发展适合养老场景的人工智能体和服务机器人，工信部批准了包含具身智能数据生成系统在内的274项行业标准。 市场上机器人相关ETF主要跟踪中证机器人指数和国证机器人产业指数。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T18:59:53+09:00",
-      "headline": "中国总览｜寰宇专论｜我国启动具身智能数据国家标准研制：给智能时代立标，为机器定方圆",
-      "source": "潮新闻客户端",
-      "url": "https://tidenews.com.cn/tmh_news.html?id=6b040e994f4bff000109b683",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "The National Data Bureau has initiated the formulation of national standards for embodied intelligence data, aiming to form over twenty specialized standards during the 15th Five-Year Plan period to support applications like humanoid robots and industrial robotic arms. Setting standardized data rules helps avoid low-level duplicate construction and ensures data circulation and industrial collaboration. China possesses a large population, rich application scenarios, and a complete manufacturing system providing a strong foundation for standard development. The standards also aim to protect human dignity, privacy, and safety while ensuring that human agency and responsibility are not overridden by technology.",
-      "summary_zh": "国家数据局启动具身智能数据国家标准研制，在十五五期间将形成二十余项专项标准，支撑人形机器人和工业协作机械臂等应用场景落地。 制定统一数据标准有助于避免低水平重复建设，并促进数据流通与产业协同。 中国拥有庞大人口、丰富应用场景和完整制造业体系，为标准研制提供了扎实基础。 标准的制定同时旨在保护人的尊严、隐私与安全，确保在技术演进中人的主体性和责任不被僭越。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T13:57:01+09:00",
-      "headline": "《机器人与智能系统》（英文）（Robotics and Intelligent Systems）",
-      "source": "中国科学院",
-      "url": "https://www.cas.cn/zt/kjzt/xk/202611/t20261124_5124912.shtml",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "Robotics and Intelligent Systems is an international open-access English journal sponsored by the Shenyang Institute of Automation of the Chinese Academy of Sciences, with academician Haibin Yu and Professor Ning Xi serving as editors-in-chief, and research fellows Lianqing Liu and Hao Liu as executive editors-in-chief. The journal focuses on original, cutting-edge, and breakthrough research achievements at the deep intersection of artificial intelligence, robotics, and intelligent systems, aiming to support the construction of China's independent and controllable international academic discourse system.",
-      "summary_zh": "《机器人与智能系统》是由中国科学院沈阳自动化研究所主办的国际开放获取英文期刊，由于海斌院士和席宁教授共同担任主编，刘连庆研究员和刘浩研究员共同担任执行主编。 该期刊聚焦人工智能、机器人与智能系统深度交叉融合领域的原创性、前沿性和突破性研究成果，为构建我国自主可控的国际学术话语体系提供重要支撑。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T12:37:48+09:00",
-      "headline": "中国机器人，去马来西亚邮政“干活”了",
-      "source": "www.gasgoo.com",
-      "url": "https://www.gasgoo.com/robot/news/70478917-%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8E%BB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%82%AE%E6%94%BF-%E5%B9%B2%E6%B4%BB-%E4%BA%86/",
-      "language": "Chinese",
-      "section": "中国 / China",
-      "summary": "盖世具身智能获悉，自变量机器人已与马来西亚国家邮政（Pos Malaysia Berhad）在吉隆坡签署合作备忘录，将共同推进具身智能在邮政物流领域的应用。 据悉，这是自变量以APEC峰会为契机，在参会之后与APEC经济体达成的首项重量级合作，也是自变量走向国际商业化的又一重要里程碑。 在此之前，自变量机器人已在马来西亚国家邮政的主要分拣中心实现小规模部署并完成了初步的验证，主要业务面向真实包裹分拣，以更灵活的智能化作业提升分拣效率。 图片来源：自变量机器人 马来西亚国家邮政拥有超过200年的历史，承担了马来西亚全国的邮政服务业务。 其服务网络拥有超过3,000个站点，覆盖超过1,100万个物流地址。 这意味着，一旦推进顺利，自变量将有机会接入这一覆盖全国、串联千万级地址的庞大服务网络之中。 自变量机器人所提供的物流分拣方案，以其自研的具身大模型WALL-B为底座，搭配稳定轻量的硬件双臂、夹爪、一体化支架，已经在真实运转的物流产线上完成了部署，实现超稳定的全无人化应用，简洁、可靠，可支持7x24小时不间断运行。",
-      "summary_zh": "盖世具身智能获悉，自变量机器人已与马来西亚国家邮政（Pos Malaysia Berhad）在吉隆坡签署合作备忘录，将共同推进具身智能在邮政物流领域的应用。 据悉，这是自变量以APEC峰会为契机，在参会之后与APEC经济体达成的首项重量级合作，也是自变量走向国际商业化的又一重要里程碑。 在此之前，自变量机器人已在马来西亚国家邮政的主要分拣中心实现小规模部署并完成了初步的验证，主要业务面向真实包裹分拣，以更灵活的智能化作业提升分拣效率。 图片来源：自变量机器人 马来西亚国家邮政拥有超过200年的历史，承担了马来西亚全国的邮政服务业务。 其服务网络拥有超过3,000个站点，覆盖超过1,100万个物流地址。 这意味着，一旦推进顺利，自变量将有机会接入这一覆盖全国、串联千万级地址的庞大服务网络之中。 自变量机器人所提供的物流分拣方案，以其自研的具身大模型WALL-B为底座，搭配稳定轻量的硬件双臂、夹爪、一体化支架，已经在真实运转的物流产线上完成了部署，实现超稳定的全无人化应用，简洁、可靠，可支持7x24小时不间断运行。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T11:21:53+09:00",
-      "headline": "見た目だけでなく「作業中の音」までAIが聞き分ける！ベテラン職人の技を再現した安川電機の最新ロボットが工場で稼働",
-      "source": "DXマガジン",
-      "url": "https://dxmagazine.jp/news/2665ko02/",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "溶接の自動化を進めても、仕上がりの確認は熟練者頼み。 安川電機は、品質確認と補正まで担うAIロボットをカートの製造現場に導入しました。 フレームの隙間や仕上がりに応じて作業を変える 株式会社安川電機は2026年10月28日、GAZOO Racingと共同開発した、AIを使う自律化ロボット生産技術の導入を発表しました。 9月から「蒲郡GR KART工房」で稼働しており、カートのフレーム製造工程に使われています。 溶接条件を認識して判断するところから、溶接後の品質確認、必要な補正までをロボットが実行します。 研究段階の構想ではなく、顧客の実生産ラインに導入された取り組みです。 採用したのは、GPUとAIを搭載する「MOTOMAN NEXT」です。 パイプフレームの組み付け状態や隙間、溶接した後の仕上がりを捉え、状態に合わせて作業を判断します。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T09:00:02+09:00",
-      "headline": "『【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？』というテーマのウェビナーを開催",
-      "source": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000006123.000054842.html",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "マジセミ株式会社は、ロックウェル・オートメーション ジャパンの湊則男氏を登壇者に迎え、「【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？ 」をテーマにしたウェビナーを開催する。 人手不足や熟練者の退職が進む中、AIやロボットを導入しても使いこなせない、成果を他工場へ広げられないという課題に対し、現場の強みである「すり合わせ」を残しつつ複雑さを引き算する「標準化」の考え方を紹介する。 生産業務、データ基盤、設備の振る舞い・制御設計、仮想工場による事前検討、AI活用・最適制御の5つの標準化を紐解き、既存設備やシステムを生かした自律化への第一歩を示す。 製造業の生産技術、製造DX、スマートファクトリー推進部門の責任者や管理職などを対象としている。",
-      "summary_zh": "マジセミ株式会社将举办主题为“【迫近的工厂变革】如何发挥日本制造业优势，扩大AI与机器人应用？ ”的网络研讨会，由罗克韦尔自动化日本公司的凑则男主讲。 面对人手不足与熟练工退休，研讨会将探讨如何在保留现场“协同调整”优势的同时，通过“标准化”去除复杂性，解决AI和机器人应用停留在个别导入或PoC、难以在工厂或基地整体推广的课题。 讲座将从生产业务、数据基础、设备控制设计、虚拟工厂预先探讨以及AI活用与最优控制等五个方面，介绍发挥现有设备与系统优势迈向自主化的第一步，主要面向制造业生产技术、制造DX及智能工厂推进部门的责任人与管理职能人员。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T05:27:41+09:00",
-      "headline": "フィジカルAIの勝ち筋：㊦日本の活路はロボットを含む「賢い空間づくり」にあり 寺澤豊",
-      "source": "週刊エコノミスト Online",
-      "url": "https://weekly-economist.mainichi.jp/articles/20261208/se1/00m/020/038000c",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "国産AI開発企業ノエトラは2026年、政府の支援を受けて国産マルチモーダル基盤モデルの開発をスタートした。 空間認識などの物理特性を理解し、実世界での活用を前提とした「実世界ネーティブAI」の実現を掲げる。 しかし、モデルの学習が頻繁に起きる事象に強く、めったに起きない事象に弱い点や、ロボットが想定外の場所に置かれた荷物などに柔軟に対応できないという課題がある。 これらの課題を克服するため、ロボットを環境に適応させるのではなく、自動ドアやエレベーター、位置情報の連携などによって環境をロボットが働きやすく再設計し、空間全体を賢くする「空間オーケストレーション」というロボットと設備を統括する空間制御の仕組みの重要性が述べられている。",
-      "summary_zh": "日本国产AI开发企业诺埃特拉（Noetra）于2026年在政府支持下启动了国产多模态基础模型的开发，提出实现理解空间识别等物理特性并以现实世界应用为前提的“现实世界原生AI”。 然而，该模型的学习存在对频繁发生的事件较强、对极少发生的事件较弱的特点，且机器人难以灵活应对放在意料之外地点的物品等突发情况。 为了克服这些课题，文章指出不应让机器人去适应环境，而是通过联动自动门、电梯及位置信息等，将环境重新设计得更易于机器人工作，并阐述了统管机器人与设备的、让整个“空间”变得智能的空间控制机制即“空间编排”的重要性。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T11:43:44+09:00",
-      "headline": "AIがカメラ映像を見て清掃ロボットに指示!? NTT西日本とアイリスが新技術を実証",
-      "source": "DXマガジン",
-      "url": "https://dxmagazine.jp/news/2670uk10/",
-      "language": "Japanese",
-      "section": "日本 / Japan",
-      "summary": "NTT西日本とアイリスオーヤマは11月16日、施設の設備や複数のロボットを連携させる共同実証の成果を発表した。 NTT西日本が開発する「マルチロボティクスプラットフォーム」を使用し、セキュリティカメラの画像をAIで解析して清掃ロボットへ指示する仕組みの技術的な成立性を確認した。 このプラットフォームはカメラ、エレベーター、ゲート、各種ロボットの情報をクラウドで一元的に扱う構想であり、DX清掃ロボット「JILBY」とヒューマノイドロボット「ugo Nova」が情報を共有し役割を分担する技術も検証した。 VLM、LLM、VLAなどを活用し、状況認識から指示、動作に至る一連の流れを扱い、施設管理の効率化を目指した運営の技術的成立性を確認している。",
-      "summary_zh": "西日本电信电话（NTT西日本）与爱丽思欧雅玛（Iris Ohyama）于11月16日公布了联动设施设备与多个机器人的联合验证成果。 双方使用NTT西日本开发的“多机器人平台”，确认了通过AI解析安防摄像头图像并向清洁机器人发出指示这一机制的技术可行性。 该平台构想通过云端统一处理摄像头、电梯、闸机及各类机器人信息，此次还验证了DX清洁机器人“JILBY”与人形机器人“ugo Nova”共享信息并分工合作的技术。 双方利用VLM、LLM、VLA等技术处理从情境识别到指示与动作的一系列流程，旨在提高设施管理的效率并验证了相关技术的可行性。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T14:49:55+09:00",
-      "headline": "「ヒューマノイドロボットの現在地点」（2/18、高西淳夫氏、SJC2027.2月例会）",
-      "source": "senkenkeizai.com",
-      "url": "https://senkenkeizai.com/2026/11/15262/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "■SＪＣ2027.2月例会 「ヒューマノイドロボットの現在地点」 —-仕事と実社会に与える影響と実践例 ◆人型ロボットは、いまどこまで来ているのか？ ―― １．米国の巨大テック企業や中国の新興企業が、人型ロボットの開発・量産競争を加速。 各国が国家戦略として巨額の投資を進める中、その実力と課題は？ ２．生成AIと融合し「身体を持つAI」へ。 言葉を理解し、自ら判断して動くロボットは、どこまで実用の域に達しているのか。 ３．なぜ「人型」なのか――人間のために作られた職場・住まい・道具をそのまま使える強みと、コスト・安全性・耐久性という壁。 ４．1973年、世界初の人間型ロボット「WABOT-1」を生んだ早稲田大学。 二足歩行、情動表出、楽器演奏、医療訓練用の患者ロボットまで、半世紀にわたる研究の到達点。 ５．製造・物流・介護・医療・災害対応――現場で働くロボット「ワークロイド」の実践例と、導入のリアル。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T13:35:00+09:00",
-      "headline": "China's A-shares: Over 3,100 Stocks Rise at Midday; Humanoid Robot Concept Sees Multiple Consecutive Limit-Ups",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/458ccbfb-a43f-4248-974f-efea15aba47e",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "China's A-shares: Over 3,100 Stocks Rise at Midday; Humanoid Robot Concept Sees Multiple Consecutive Limit-Ups On November 24, China's A-shares strengthened in morning trading. By the midday close, the Shanghai Composite Index was up 0.47%, the Shenzhen Component Index up 0.92%, the ChiNext Index up 1.9%, and the STAR Composite Index up 2.38%.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T13:21:53+09:00",
-      "headline": "China Physical AI Roundup: Simplexity Robotics Raises $100M Pre-A, Plus X Square Model, OYMotion and AgiBot Deployment",
-      "source": "AI Insider",
-      "url": "https://theaiinsider.tech/2026/11/24/china-physical-ai-roundup-simplexity-robotics-raises-100m-pre-a-plus-x-square-model-oymotion-and-agibot-deployment/",
-      "language": "English",
-      "section": "Humanoid Robotics",
-      "summary": "Insider Brief - China’s physical AI sector saw new funding, robot technology releases and industrial deployments, alongside government efforts to develop national standards for embodied-intelligence data. - Simplexity Robotics raised $100 million at a $1.6 billion valuation and unveiled its iX wheeled humanoid, while OYMotion secured several hundred million yuan to expand its dexterous hand and robot training technology.",
+      "summary": "Nvidia announced Jensen Huang’s return as president, CEO and a director on November 23 after a unanimous board vote. A company filing says the reinstatement took effect on November 22. The reversal follows a brief absence that raised concerns about Nvidia’s robotics investments, as The Rundown reported. His return likely eases fears that the company could pull back on the aggressive dealmaking that has helped fuel the sector’s boom.",
       "summary_zh": ""
     },
     {
@@ -215,20 +34,207 @@
       "source": "BigGo Finance",
       "url": "https://finance.biggo.com/news/0ae5aae6-2593-4457-8ea1-571925f1373b",
       "language": "English",
-      "section": "Humanoid Robotics",
+      "section": "美国 / United States",
       "summary": "Tesla's Optimus Ignites Rally: Over 50 Humanoid Robot Stocks Hit Limit-Up, Adding Fuel to China Stock Rebound China's stock market shook off its recent weakness on Monday (the 23rd), with all three major indices closing higher. The ChiNext Index surged over 3% in a single day, with more than 100 stocks hitting limit-up, signaling a clear recovery in short-term sentiment.",
       "summary_zh": ""
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T01:07:00+09:00",
-      "headline": "Türkiye launches call for domestic humanoid robot development | Daily Sabah",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/business/tech/turkiye-launches-call-for-domestic-humanoid-robot-development",
+      "published_at": "2026-11-24T08:50:12+09:00",
+      "headline": "Boston Dynamics takes humanoid Atlas into semiconductor manufacturing",
+      "source": "TechTarget",
+      "url": "https://www.techtarget.com/news/boston-dynamics-takes-humanoid-atlas-into-semiconductor-manufacturing/875450/",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "U. S. robot maker Boston Dynamics has partnered with GlobalFoundries to deploy its humanoid Atlas and quadruped Spot at the contract manufacturer's chip fabrication plants. The deal marks Atlas’ first applications outside the automotive industry, and the first program of its kind for semiconductor manufacturing, according to the partners. The partners have not disclosed how many Atlas units will be involved, which tasks they will handle first or when testing could transition into routine operations.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.23",
+      "published_at": "2026-11-23T19:05:00+09:00",
+      "headline": "Avalue's U.S. AI Robotics Push Gains Traction; Industrial Control to Be Strongest Growth Driver Next Year",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/0b5b27dd-3af2-466c-a7cb-048d08912222",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Avalue's U. S. AI Robotics Push Gains Traction; Industrial Control to Be Strongest Growth Driver Next Year Industrial PC maker Avalue Technology Incorporation (3479. TW) posted strong results in the North American industrial automation market this year and is shifting more of its focus toward the U. S. AI robotics sector.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.23",
+      "published_at": "2026-11-23T18:00:24+09:00",
+      "headline": "Boston Dynamics and GlobalFoundries Expand Robotics Collaboration Across Fabs",
+      "source": "Bisinfotech",
+      "url": "https://www.bisinfotech.com/boston-dynamics-globalfoundries-expand-fab-robotics/",
+      "language": "English",
+      "section": "美国 / United States",
+      "summary": "Boston Dynamics, a global leader in mobile robotics, and GlobalFoundries (GF), a premier manufacturer of essential semiconductors, have announced a major expansion of their strategic collaboration to deploy Spot® quadruped robots for autonomous enterprise asset management across GF’s global semiconductor fabrication facilities.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T17:09:00+09:00",
+      "headline": "APEC经贸合作升温 中国头部具身智能公司牵手马来西亚国家邮政",
+      "source": "驱动之家",
+      "url": "https://news.mydrivers.com/1/1168/1168201.htm",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月24日，中国头部具身智能公司自变量机器人与马来西亚国家邮政（Pos Malaysia Berhad）在吉隆坡签署合作备忘录，共同推进具身智能在邮政物流领域的应用。 这是自变量在 APEC 期间，与APEC 经济体达成的首项重量级合作，也是自变量走向国际商业化的又一成果。 在签署合作备忘录之前，自变量的机器人已在马来西亚邮政的主要分拣中心实现小规模部署并完成了初步的验证，主要业务面向真实包裹分拣，以更灵活的智能化作业提升分拣效率。 在此次合作之前，自变量已经与中国多家物流巨头企业达成深度合作，将通用具身模型驱动的物流分拣方案，规模化、常态化部署在真实物流分拣线上，并具备经济效益。 此次与马来西亚邮政合作，标志着自变量的物流分拣方案，已经走出国门、应用到全球更多市场。 马来西亚国家邮政拥有超过200年的历史，承担了马来西亚全国的邮政服务业务。",
+      "summary_zh": "11月24日，中国头部具身智能公司自变量机器人与马来西亚国家邮政（Pos Malaysia Berhad）在吉隆坡签署合作备忘录，共同推进具身智能在邮政物流领域的应用。 这是自变量在 APEC 期间，与APEC 经济体达成的首项重量级合作，也是自变量走向国际商业化的又一成果。 在签署合作备忘录之前，自变量的机器人已在马来西亚邮政的主要分拣中心实现小规模部署并完成了初步的验证，主要业务面向真实包裹分拣，以更灵活的智能化作业提升分拣效率。 在此次合作之前，自变量已经与中国多家物流巨头企业达成深度合作，将通用具身模型驱动的物流分拣方案，规模化、常态化部署在真实物流分拣线上，并具备经济效益。 此次与马来西亚邮政合作，标志着自变量的物流分拣方案，已经走出国门、应用到全球更多市场。 马来西亚国家邮政拥有超过200年的历史，承担了马来西亚全国的邮政服务业务。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T05:15:23+09:00",
+      "headline": "宇树科技封涨停！机器人ETF集体飙涨，投资怎么选？",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20261124/herald/22f51ecc5aa5f5d55f793fa758e980d9.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "11月23日，A股主要指数低开高走，沪指收涨0.15%，创业板指涨超3%，科创综指涨2.62%。 机器人板块盘中直线拉升，个股掀起涨停潮。 从ETF行情数据来看，机器人产业指数相关ETF涨幅遥遥领先于其他产品，最大涨幅达9.72%。 除此之外，影视、机床、汽车零部件ETF表现活跃，在市场波动中获得资金关注。 宇树科技罕见涨停 机器人板块掀“涨停潮” 机器人板块今日大幅走强，截至收盘，“人形机器人第一股”宇树科技封死涨停，股价报708元/股，总市值达2864亿元。 海天瑞声、艾芬达、安培龙等十余只个股实现20cm涨停，拓普集团、瑞芯微等十余只个股实现10cm涨停。 消息面上，11月23日，特斯拉推送FSD V15，底层视觉编码器开始同时服务于FSD、Robotaxi和人形机器人Optimus，尝试将海量道路数据转化为跨产品共享的AI训练资源，为机器人研发铺路。",
+      "summary_zh": "11月23日，A股主要指数低开高走，沪指收涨0.15%，创业板指涨超3%，科创综指涨2.62%。 机器人板块盘中直线拉升，个股掀起涨停潮。 从ETF行情数据来看，机器人产业指数相关ETF涨幅遥遥领先于其他产品，最大涨幅达9.72%。 除此之外，影视、机床、汽车零部件ETF表现活跃，在市场波动中获得资金关注。 宇树科技罕见涨停 机器人板块掀“涨停潮” 机器人板块今日大幅走强，截至收盘，“人形机器人第一股”宇树科技封死涨停，股价报708元/股，总市值达2864亿元。 海天瑞声、艾芬达、安培龙等十余只个股实现20cm涨停，拓普集团、瑞芯微等十余只个股实现10cm涨停。 消息面上，11月23日，特斯拉推送FSD V15，底层视觉编码器开始同时服务于FSD、Robotaxi和人形机器人Optimus，尝试将海量道路数据转化为跨产品共享的AI训练资源，为机器人研发铺路。"
+    },
+    {
+      "date": "2026.11.23",
+      "published_at": "2026-11-23T02:26:28+09:00",
+      "headline": "美国以安全为由禁止进口中国的人形机器人",
+      "source": "朝鮮日報中文版",
+      "url": "https://cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate=M1003&nNewsNumb=20260765146&nidx=65147",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "美国禁止进口中国的机器人 当地时间28日，美国联邦通信委员会（FCC）宣布将限制外国产人形机器人和四足行走机器人的新机型在美国销售。 FCC表示：“机器人收集的敏感数据可能被用于监视美国人和主要的工业设施，或增强外国情报机构的能力。 如果通信网络或控制系统遭到黑客攻击，机器人可能会被夺取，导致工厂、研究所和军事设施的功能有瘫痪的风险。 ” 市场上有观点认为，这次监管措施是以技术安全为借口，引导海外的机器人生产基地迁往美国，试图以本国为中心重组未来的机器人供应链的战略布局。 同时，美国政府还将连接太阳能和电池的数据中心的外国产电力逆变器纳入了监管范围。 这是为了事先阻止掌握全球逆变器市场的华为、阳光电源等中国企业通过远程控制关闭美国数据中心的电力网。 继5G、TikTok和无人机之后，机器人也面临“监管之刃” 美国对中国的技术封锁网正变得更加精密。",
+      "summary_zh": "美国禁止进口中国的机器人 当地时间28日，美国联邦通信委员会（FCC）宣布将限制外国产人形机器人和四足行走机器人的新机型在美国销售。 FCC表示：“机器人收集的敏感数据可能被用于监视美国人和主要的工业设施，或增强外国情报机构的能力。 如果通信网络或控制系统遭到黑客攻击，机器人可能会被夺取，导致工厂、研究所和军事设施的功能有瘫痪的风险。 ” 市场上有观点认为，这次监管措施是以技术安全为借口，引导海外的机器人生产基地迁往美国，试图以本国为中心重组未来的机器人供应链的战略布局。 同时，美国政府还将连接太阳能和电池的数据中心的外国产电力逆变器纳入了监管范围。 这是为了事先阻止掌握全球逆变器市场的华为、阳光电源等中国企业通过远程控制关闭美国数据中心的电力网。 继5G、TikTok和无人机之后，机器人也面临“监管之刃” 美国对中国的技术封锁网正变得更加精密。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T20:27:14+09:00",
+      "headline": "三一AI展馆彰显中国机器人优势",
+      "source": "NAI500",
+      "url": "https://nai500.com/zh-hans/blog/2026/11/ai-114/",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "Bauma CHINA 2026于11月23日至27日在上海举办，采用上海新国际博览中心与世博展览馆双场馆模式。 正值成立40周年的三一以史上最大规模参展，打造展会唯一专属智慧主题展馆，沿着从辅助智能到场景智能的五个阶段呈现完整技术路径。 这场展示释放出清晰信号：中国重型装备制造商正将AI调度能力深度植入矿山等复杂作业场景，推动行业从单机自动化迈向原生AI作业体系。 展馆内最受关注的设备为SKT165Ei，这是行业首款无驾驶室百吨级自主电动矿卡。 移除驾驶室设计后，车辆载重比提升12%；搭载的800伏平台支持2C快充，补能时间不足35分钟。 车辆可在云端调度下自主完成装载、运输与卸料全流程，网络覆盖薄弱区域也可稳定运行。 这些技术特性直接作用于矿山运营效益，可缩短设备闲置时长，提升载重利用效率，同时降低恶劣环境下作业人员的安全暴露风险。 更广泛的产业逻辑在于，中国重工业正步入电气化与自主化融合的全新赛道，两者结合的价值远超单一技术趋势。",
+      "summary_zh": "Bauma CHINA 2026于11月23日至27日在上海举办，采用上海新国际博览中心与世博展览馆双场馆模式。 正值成立40周年的三一以史上最大规模参展，打造展会唯一专属智慧主题展馆，沿着从辅助智能到场景智能的五个阶段呈现完整技术路径。 这场展示释放出清晰信号：中国重型装备制造商正将AI调度能力深度植入矿山等复杂作业场景，推动行业从单机自动化迈向原生AI作业体系。 展馆内最受关注的设备为SKT165Ei，这是行业首款无驾驶室百吨级自主电动矿卡。 移除驾驶室设计后，车辆载重比提升12%；搭载的800伏平台支持2C快充，补能时间不足35分钟。 车辆可在云端调度下自主完成装载、运输与卸料全流程，网络覆盖薄弱区域也可稳定运行。 这些技术特性直接作用于矿山运营效益，可缩短设备闲置时长，提升载重利用效率，同时降低恶劣环境下作业人员的安全暴露风险。 更广泛的产业逻辑在于，中国重工业正步入电气化与自主化融合的全新赛道，两者结合的价值远超单一技术趋势。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T18:27:00+09:00",
+      "headline": "帕西尼加入中国科技新闻学会新质生产力传播专委会 共建具身智能成果转化通道",
+      "source": "人工智能",
+      "url": "https://www.icloudnews.net/a/125319.html",
+      "language": "Chinese",
+      "section": "中国 / China",
+      "summary": "帕西尼加入中国科技新闻学会新质生产力传播专委会 共建具身智能成果转化通道 2026/11/24 17:27AI云资讯10413 11月21日，中国科技新闻学会新质生产力传播专业委员会成立大会暨专题分论坛在北京国家科技传播中心举行。 帕西尼成为专委会单位委员，创始人兼首席执行官许晋诚作为科学企业家代表获颁委员证书，并参加“AI与新质生产力 落地最后一公里”圆桌对话。 大会同期发布面向未来5至10年的“五个100”行动计划，计划汇聚科学企业家、科技领导力城市、科技投资者、科技媒体与专家智库，连接科研、产业、资本和传播力量。 此次加入专委会，也将帕西尼带入一个更大的命题：具身智能如何从前沿技术转化为现实生产力，并被产业和社会真正理解、使用和信任。 具身智能最终改变的是人与机器的劳动分工 人工智能已经深刻改变信息生产。 具身智能继续向前一步，让智能进入工厂、仓库、公共空间和家庭，直接作用于物理世界。",
+      "summary_zh": "帕西尼加入中国科技新闻学会新质生产力传播专委会 共建具身智能成果转化通道 2026/11/24 17:27AI云资讯10413 11月21日，中国科技新闻学会新质生产力传播专业委员会成立大会暨专题分论坛在北京国家科技传播中心举行。 帕西尼成为专委会单位委员，创始人兼首席执行官许晋诚作为科学企业家代表获颁委员证书，并参加“AI与新质生产力 落地最后一公里”圆桌对话。 大会同期发布面向未来5至10年的“五个100”行动计划，计划汇聚科学企业家、科技领导力城市、科技投资者、科技媒体与专家智库，连接科研、产业、资本和传播力量。 此次加入专委会，也将帕西尼带入一个更大的命题：具身智能如何从前沿技术转化为现实生产力，并被产业和社会真正理解、使用和信任。 具身智能最终改变的是人与机器的劳动分工 人工智能已经深刻改变信息生产。 具身智能继续向前一步，让智能进入工厂、仓库、公共空间和家庭，直接作用于物理世界。"
+    },
+    {
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T05:30:00+09:00",
+      "headline": "フィジカルAIで“なんでもできる“ロボが登場？ KDDI幹部が指摘「ロボット大国日本」の強みはどう変わるか",
+      "source": "ITmedia",
+      "url": "https://www.itmedia.co.jp/business/spv/2611/25/news014.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "人工知能の進化に伴い、従来のルールベース型ロボットから、状況を認識して自律的に動く「フィジカルAI」へと注目が広がっている。 日本は長年にわたり産業用ロボットの分野で技術力を培い、「ロボット大国」としての地位を築いてきたが、生成AIや大規模言語モデル（LLM）の進化によりロボットの在り方が変わりつつある。 1961年に米ゼネラルモーターズの工場に産業用ロボットが導入されて以降、日本は特定の用途に合わせて正確な動作を繰り返す技術で強みを発揮してきた。 しかし、想定外の事態には対応しにくいという制約があった。 マルチモーダル化した基盤モデルがロボットの頭脳に組み込まれることで、掃除や配膳、搬送、陳列などの異なる作業を1台でこなす汎用型への転換が進んでいる。",
+      "summary_zh": "随着人工智能的演进，外界对从传统重复固定动作的机器人转向能够识别情况并自主行动的“物理AI”的关注正在扩大。 日本长期在工业机器人领域积累技术实力，构筑了“机器人大国”的形象，但在生成式AI和大语言模型发展的背景下，机器人的形态正发生变化。 自1961年美国通用汽车工厂引入工业机器人以来，日本以针对特定用途设计并快速高精度执行规定动作的技术支撑了机器人产业。 然而这类机器人存在难以应对意料之外状况的制约。 随着多模态基盘模型被整合进机器人的大脑，开发方向正从针对单一作业设计专用机器人的思路，转变为能够同时处理清洁、传菜、搬运、陈列等多种不同作业的通用型机器人。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T11:21:53+09:00",
+      "headline": "見た目だけでなく「作業中の音」までAIが聞き分ける！ベテラン職人の技を再現した安川電機の最新ロボットが工場で稼働",
+      "source": "DXマガジン",
+      "url": "https://dxmagazine.jp/news/2665ko02/",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "株式会社安川電機は2026年10月28日、GAZOO Racingと共同開発したAI自律化ロボット生産技術の導入を発表した。 9月から「蒲郡GR KART工房」のカートフレーム製造工程で稼働しており、溶接条件の認識から溶接後の品質確認、必要な補正までをロボットが実行している。 採用されたのはGPUとAIを搭載する「MOTOMAN NEXT」であり、パイプフレームの組み付け状態や隙間、溶接後の仕上がりだけでなく、溶接中の音や各種データも組み合わせて状態を判断する。 両者が2024年に共同開発したアーク溶接の「SFA工法」の知見を土台としており、熟練作業者の経験に依存していた一連の工程の自動化を実現している。",
+      "summary_zh": "株式会社安川电机于2026年10月28日宣布引入与GAZOO Racing共同开发的AI自律化机器人生产技术。 该技术自9月起在“蒲郡GR KART工房”的卡丁车车架制造工序中投入运行，由机器人执行从识别焊接条件到焊接后品质确认及必要修正的全过程。 项目采用搭载了GPU和AI的“MOTOMAN NEXT”，不仅能捕捉管状车架的组装状态、间隙以及焊接后的成品效果，还能结合焊接过程中的声音与各类数据来判断状态。 该技术以双方于2024年共同开发的气保焊“SFA工法”知识为基础，实现了对原本依赖熟练作业人员经验与技能的一系列工序的自动化。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T09:00:02+09:00",
+      "headline": "『【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？』というテーマのウェビナーを開催",
+      "source": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000006123.000054842.html",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "マジセミ株式会社は、「【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？ 」をテーマにしたウェビナーを開催する。 人手不足や熟練者の退職が進む中、AIやロボットの導入成果を工場全体へ広げるための土台として「標準化」を取り上げる。 日本のものづくりの強みである部門間の「すり合わせ」をなくすのではなく、現場の知恵や価値を生む違いは残しつつ、複雑な仕組みや重複入力を引き算する考え方を紹介する。 登壇するのはロックウェル・オートメーション ジャパンの湊則男氏であり、生産業務、データ基盤、設備の振る舞い・制御設計、仮想工場による事前検討、AI活用・最適制御の5つの標準化をひもとく。 製造業の生産技術や製造DX、スマートファクトリー推進部門の責任者や管理職を主な対象としている。",
+      "summary_zh": "マジセミ株式会社将举办主题为“迫在眉睫的工厂变革：如何发挥日本制造业优势，扩大AI与机器人应用？ ”的网络研讨会。 在人手不足和熟练工退休的背景下，研讨会探讨将“标准化”作为把AI和机器人导入成果推广至整个工厂的基础。 会议不取消日本制造业部门间磨合的优势，而是介绍保留能产生价值的差异、同时精简复杂机制和重复输入的思路。 由洛克威尔自动化日本公司的凑则男担任讲师，围绕生产业务、数据基础设施、设备行为与控制设计、利用虚拟工厂的事前探讨以及AI应用与最优控制这五项标准化进行解读，对象主要为制造业的生产技术、制造DX及智能工厂推进部门的负责人与管理人员。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T05:27:41+09:00",
+      "headline": "フィジカルAIの勝ち筋：㊦日本の活路はロボットを含む「賢い空間づくり」にあり 寺澤豊",
+      "source": "週刊エコノミスト Online",
+      "url": "https://weekly-economist.mainichi.jp/articles/20261208/se1/00m/020/038000c",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "国産AI開発企業のノエトラは2026年、政府の支援を受けて国産マルチモーダル基盤モデルの開発をスタートした。 空間認識などの物理特性を理解し実世界での活用を前提とした「実世界ネーティブAI」の実現を掲げる。 モデルの学習には頻繁に起きる事象には強い一方で、散らばった部品や想定外の場所に置かれた荷物といっためったに起きない事象には弱いという課題がある。 人であれば柔軟に対応できるがロボットには難しいため、ロボットを環境に適応させるのではなく、自動ドアやエレベーター、位置情報の連携などによって環境側をロボットが働きやすく再設計し、不確実性を減らすアプローチが挙げられている。 ロボットと設備を統括する空間制御の仕組みとして「空間オーケストレーション」が挙げられている。",
+      "summary_zh": "日本国产AI开发企业Noetra于2026年在政府支持下启动了国产多模态基础模型的开发，提出实现以理解空间识别等物理特性并在现实世界应用为前提的“现实世界原生AI”。 模型学习存在对频繁发生的事件较强、但对散落的零件或放在非预期位置的行李等极少发生的事件较弱的课题。 人类可以灵活应对，但机器人很难做到，因此与其让机器人适应环境，不如通过自动门、电梯及位置信息联动等方式将环境重新设计得更易于机器人工作，从而减少不确定性。 统筹机器人与设备的空间控制机制被称为“空间编排”。"
+    },
+    {
+      "date": "2026.11.23",
+      "published_at": "2026-11-23T11:43:44+09:00",
+      "headline": "AIがカメラ映像を見て清掃ロボットに指示!? NTT西日本とアイリスが新技術を実証",
+      "source": "DXマガジン",
+      "url": "https://dxmagazine.jp/news/2670uk10/",
+      "language": "Japanese",
+      "section": "日本 / Japan",
+      "summary": "NTT西日本とアイリスオーヤマは11月16日、施設の設備や複数のロボットを連携させる共同実証の成果を発表した。 NTT西日本が開発する「マルチロボティクスプラットフォーム」を使用し、セキュリティカメラの画像をAIで解析した結果に応じて清掃ロボットへ指示する仕組みの技術的な成立性を確認した。 このプラットフォームはカメラ、エレベーター、ゲート、各種ロボットの情報をクラウドで一元的に扱う構想であり、今回はDX清掃ロボット「JILBY」とヒューマノイドロボット「ugo Nova」が情報を共有しタスクを分担する技術も検証した。 VLM、LLM、VLAを活用し状況を認識して指示を出し動作する一連の流れを扱い、清掃、警備、搬送などを役割分担する運営を目指している。",
+      "summary_zh": "NTT西日本与爱丽思欧雅玛于11月16日公布了联动设施设备与多个机器人的共同实证成果。 双方使用NTT西日本开发的“多机器人平台”，确认了通过AI解析安防摄像头图像并根据结果向清洁机器人下达指令这一机制的技术可行性。 该平台构想在云端统一处理摄像头、电梯、闸机及各种机器人的信息，此次还验证了DX清洁机器人“JILBY”与人形机器人“ugo Nova”共享信息并分担任务的技术。 项目利用VLM、VLA及LLM处理识别状况、下达指令并动作的一系列流程，旨在实现清洁、安保、搬运等工作的分担运营。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T15:13:43+09:00",
+      "headline": "「100mを8.64秒で走った」で驚いている場合ではない 中国1,975台のヒューマノイドが示す日本の危機（2026年8月26日）【編集長のロボトピ！】",
+      "source": "ロボスタ",
+      "url": "https://robotstart.info/article/2026/11/24/382663.html",
       "language": "English",
       "section": "Humanoid Robotics",
-      "summary": "The Industry and Technology Ministry on Monday launched a call for proposals for the development of humanoid robots for industrial applications, aiming to produce domestic humanoid robots that outperform rivals. The program targets bipedal robots made for manufacturing assembly, logistics, and precision machining.",
-      "summary_zh": ""
+      "summary": "In August 2026, the World Humanoid Robot Games were held in Beijing, China, where a humanoid robot ran 100 meters in 8.64 seconds, surpassing Usain Bolt's human world record of 9.58 seconds. The event featured various competitions beyond running, including EV charging, cable connection, and object manipulation, designed to test real-world tasks. The author also observed the scale of the event and questioned Japan's presence in it, based on a column published on August 26, 2026.",
+      "summary_zh": "2026年8月，世界ヒューマノイドロボット競技大会が中国・北京で開催され、中国のヒューマノイドロボットが100mを8.64秒で走り、ウサイン・ボルトの持つ人間の世界記録9.58秒を上回った。 大会では、EV充電やケーブル接続、物品操作など実社会での作業を想定した競技も行われた。 著者は、ヒューマノイドの身体能力の進化や実社会での作業を想定した競技、そしてこのような大規模大会における日本の存在感に注目した。"
+    },
+    {
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T01:06:26+09:00",
+      "headline": "Boxing News: The World’s First Humanoid Robot Boxing Title Bout Held In China » November 24, 2026",
+      "source": "FightNews",
+      "url": "https://fightnews.com/the-worlds-first-humanoid-robot-boxing-title-bout-held-in-china/201096",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "On November 21, the 2026 Xiongan Asian Boxing Championship concluded at the Xiongan Sports Center Gymnasium, hosted by Crazy Sports Group. The event featured China's first WBC Heavyweight Asian Title fight and the world's first humanoid robot boxing championship. Two domestically developed humanoid robots from Unitree and QY Robotics competed, with the Unitree robot winning after three rounds. In the human WBC Heavyweight Asian Title fight, Wuzhati Nuerlang defeated Wu Pengyang via decision with scores of 97–92, 97–92, and 98–91 over ten rounds.",
+      "summary_zh": "11月21日，2026雄安亚洲拳击锦标赛在雄安新区体育中心体育馆闭幕，由Crazy Sports Group主办。 赛事包括中国首场WBC重量级亚洲头衔战，以及吸引大量中国观众关注的全球首场人形机器人拳击冠军赛。 由宇树科技与穹宇机器人研发的两台人形机器人展开对决，经过三回合较量，宇树机器人获胜并夺得金腰带。 在人类WBC重量级亚洲头衔战中，吾扎提·努尔郎经过十回合激战，以97-92、97-92和98-91的点数判定战胜吴蓬阳，夺得冠军。"
+    },
+    {
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T00:28:08+09:00",
+      "headline": "YYForce Launches Humanoid Robot for Hotel Concierge Services Using NVIDIA Technology",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/yyforce-launches-humanoid-robot-hotel-152808508.html",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "YYForce Inc. announced the launch of its humanoid robot named Six Seven (67), developed for hotel concierge operations using NVIDIA Jetson edge AI computing and NVIDIA Isaac Sim simulation technology. The robot will be deployed at Novotel Singapore on Stevens to provide lobby concierge services, guest inquiry responses, local attraction information, and interactive storytelling. Integrated into the Workforce OS platform, the deployment supports YYForce's strategy to expand commercial robotics in hospitality and retail, though financial terms and timetables were not disclosed.",
+      "summary_zh": "YYForce Inc. 宣布推出名为Six Seven（67）的人形机器人，该机器人采用NVIDIA Jetson边缘AI计算和NVIDIA Isaac Sim模拟技术开发，旨在用于酒店礼宾服务。 该机器人将部署在新加坡史蒂文斯诺富特酒店的大堂，提供客人咨询、当地景点信息以及互动讲故事等服务。 此次部署基于YYForce的Workforce OS平台，旨在扩大其在酒店和零售等领域的商业服务机器人应用，但未披露财务条款或安装时间表。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T16:25:00+09:00",
+      "headline": "JPMorgan Turns Bullish on China's Humanoid Robot Duo: UBTECH Upgraded to Overweight, Unitree Target Raised to CNY 1,060",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/bd4f5ee6-ffaf-48e6-8047-1d1b9b16c83a",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "JPMorgan upgraded UBTECH to Overweight and raised its target price to HK$77, while increasing Unitree Robotics' target price to CNY 1,060 in a report released on the 24th. The bank stated that physical AI and humanoid robots are entering an acceleration phase driven by technological breakthroughs, policy support, and commercial execution. Unitree retained its Overweight rating with valuation based on 32x 2028 forecast price-to-sales, while UBTECH received a higher rating despite reduced sales forecasts. Top supply chain picks include Orbbec, Leaderdrive, Hengli Hydraulic, and Sanhua Intelligent Controls.",
+      "summary_zh": "摩根大通在24日发布的报告中将优必选的评级上调至“超配”，目标价上调至77港元，同时将宇树科技的目标价上调至1060元人民币。 该报告指出，在技术突破、政策支持和商业执行的驱动下，人形机器人和具身智能正进入加速阶段。 宇树科技维持“超配”评级，估值基础调整为32倍2028年预测市销率；优必选在销售预测被下调的同时评级获调高。 供应链首选标的包括奥比中光、绿的谐波、恒立液压和三花智控。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T23:09:30+09:00",
+      "headline": "TD Cowen initiates coverage of Agility Robotics at Buy, sets price target at $15",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/tradingview:89540a6fed466:0-td-cowen-initiates-coverage-of-agility-robotics-at-buy-sets-price-target-at-15/",
+      "language": "English",
+      "section": "Humanoid Robotics",
+      "summary": "TD Cowen initiated coverage of Agility Robotics with a Buy rating and announced a price target of $15. The established price target represents an upside of 155.5% compared to the company's close of $5.87 on November 23.",
+      "summary_zh": "TD Cowen对Agility Robotics进行了首次覆盖，给予买入评级，并将目标价设定为$15。 该目标价较11月23日$5.87的收盘价隐含着155.5%的上涨空间。"
     }
   ]
 }
