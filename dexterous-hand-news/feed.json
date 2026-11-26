@@ -1,28 +1,61 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-25T14:20:52.641021+09:00",
+  "updated_at": "2026-11-26T13:51:58.365138+09:00",
   "status": {
-    "state": "ok",
-    "checked_at": "2026-11-25T14:20:52.641021+09:00",
-    "latest_article_at": "2026-11-25T08:04:01+09:00",
+    "state": "partial",
+    "checked_at": "2026-11-26T13:51:58.365138+09:00",
+    "latest_article_at": "2026-11-26T12:28:00+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
     },
     "shortfalls": {},
-    "translations_missing": 0
+    "translations_missing": 4
   },
   "articles": [
     {
-      "date": "2026.11.25",
-      "published_at": "2026-11-25T08:04:01+09:00",
-      "headline": "粤宏远Ａ11月24日回应机器人灵巧手话题：标的公司精密传动部件在灵巧手领域少量供货影响甚微",
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T12:28:00+09:00",
+      "headline": "New 3D-printed robotic hand uses low-cost parts to mimic human motion",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand",
+      "language": "English",
+      "section": "Global",
+      "summary": "Researchers at the New Jersey Institute of Technology (NJIT) have developed a dexterous robotic hand designed to make advanced manipulation more accessible. The PHD Hand combines 3D-printed components with relatively simple mechanical systems. Its design aims to reduce manufacturing costs and maintenance without sacrificing functionality. Associate Professor Cong Wang and doctoral student Neel Adwani developed the hand.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T09:16:00+09:00",
+      "headline": "米ニュージャージー工科大、安価な3Dプリンターで作れるロボットハンドを開発",
+      "source": "FabScene",
+      "url": "https://fabscene.com/new/news/njit-phd-hand-3d-printed-linkage-robot-hand/",
+      "language": "Japanese",
+      "section": "Global",
+      "summary": "米ニュージャージー工科大学（NJIT）の研究チームは、安価な3Dプリンターと市販の部品で作れる人型のロボットハンド「PHD-Hand」を開発した。 親指を含む5本の指を、それぞれ3個のサーボモーターで動かす。 手の長さは約200mmで、人の手に近い。 論文は2026年10月21日に論文公開サイトのarXivに掲載され、ロボット工学の国際会議「Humanoids 2026」に採択されている。 論文によると、人の手のように器用なロボットハンドは、家庭や職場で人を手助けするロボットにとって、ハードウェアの最後の壁とされている。 多くのハンドは指の関節をワイヤー（腱）で引いて動かす。 ワイヤー式は費用がかさみ、整備に手間がかかり、ワイヤーが切れやすい。 指の中にモーターを置くと、指が太く重くなる。 そこでチームは指の外に置いたモーターの動きを、棒でつないだ仕組み（リンク機構）で関節に伝える方式を選んだ。",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T08:07:07+09:00",
+      "headline": "美芯晟11月25日回应人形机器人话题：布局灵巧手编码器及关节传感器产品_公司新闻",
       "source": "证券之星",
-      "url": "http://stock.stockstar.com/RB2026112500006487.shtml",
+      "url": "https://stock.stockstar.com/RB2026112600007352.shtml",
       "language": "Chinese",
       "section": "Global",
-      "summary": "粤宏远Ａ于11月24日在投资者互动平台上回复了关于机器人灵巧手的话题。 公司表示标的公司专注于精密传动功能部件领域生产制造，核心产品广泛应用于新能源、3C电子、显示面板、汽车制造装备、医疗等高端自动化领域。 关于机器人灵巧手应用领域，目前该公司存在少量供货、影响甚微。 本次交易进展及标的公司相关规范信息，请以公司在指定信息披露媒体发布的公告为准。",
-      "summary_zh": "粤宏远Ａ于11月24日在投资者互动平台上回复了关于机器人灵巧手的话题。 公司表示标的公司专注于精密传动功能部件领域生产制造，核心产品广泛应用于新能源、3C电子、显示面板、汽车制造装备、医疗等高端自动化领域。 关于机器人灵巧手应用领域，目前该公司存在少量供货、影响甚微。 本次交易进展及标的公司相关规范信息，请以公司在指定信息披露媒体发布的公告为准。"
+      "summary": "证券之星消息，美芯晟（688458）11月25日在投资者互动平台上对人形机器人相关话题对投资者做了答复。 美芯晟回应：公司针对灵巧手开展高精度磁编码器、电感式编码器等控制芯片研发，布局关节位置磁编码器、触觉、电流传感器等产品。 同时持续推进电机驱动芯片的升级研发，实现电机位置、速度与力矩的精准闭环控制，与磁编码器配套形成“感知+执行”的完整闭环，满足关节伺服、灵巧手精细抓取等灵活运动控制需求。 题材释义：人形机器人正从实验室迈向工厂与家庭，其核心逻辑在于AI大模型赋予机器“思考”能力，叠加精密减速器、伺服电机等核心零部件的成本下降，推动产业进入从0到1的规模化量产前夜。 以上内容为证券之星据公开信息整理，仅供参考不构成投资建议。",
+      "summary_zh": "证券之星消息，美芯晟（688458）11月25日在投资者互动平台上对人形机器人相关话题对投资者做了答复。 美芯晟回应：公司针对灵巧手开展高精度磁编码器、电感式编码器等控制芯片研发，布局关节位置磁编码器、触觉、电流传感器等产品。 同时持续推进电机驱动芯片的升级研发，实现电机位置、速度与力矩的精准闭环控制，与磁编码器配套形成“感知+执行”的完整闭环，满足关节伺服、灵巧手精细抓取等灵活运动控制需求。 题材释义：人形机器人正从实验室迈向工厂与家庭，其核心逻辑在于AI大模型赋予机器“思考”能力，叠加精密减速器、伺服电机等核心零部件的成本下降，推动产业进入从0到1的规模化量产前夜。 以上内容为证券之星据公开信息整理，仅供参考不构成投资建议。"
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T03:40:35+09:00",
+      "headline": "NJIT professor's low-tech hospital stint leads to high-tech robotic hand",
+      "source": "EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/1153486",
+      "language": "English",
+      "section": "Global",
+      "summary": "Associate Prof. Cong Wang and doctoral student Neel Adwani designed and built a new kind of robotic hand that’s less expensive and more reliable than high-end commercial options without sacrificing function. Wang and Adwani’s research paper for the IEEE Humanoids conference in December 2026 highlights degrees of automation, kinematic analysis and AI-aided control. The real story began in 2024, as Wang was confined to a hospital bed and barred from using any device with a camera.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.25",
@@ -32,74 +65,41 @@
       "url": "https://www.cls.cn/detail/2462145",
       "language": "Chinese",
       "section": "Global",
-      "summary": "具身智能产业正经历供应链变局，上游灵巧手、电子皮肤与核心传感器企业率先迎来订单增长。 雷赛智能今年上半年交付灵巧手近5000只，较去年全年翻倍；傲意科技CEO倪华良表示公司正推进合计接近五六千台的三笔大单。 行业面临性能、成本和量产矛盾，且存在“一九法则”，即90%客户处于概念验证阶段，10%头部客户贡献90%以上收入。 雷赛智能目标将灵巧手成本控制在整机的10%-15%以内。 同时，汉威科技与瑞芯微指出电子皮肤与感知芯片需求大幅增长，触觉感知成为拓展具身智能能力边界的关键。",
-      "summary_zh": "具身智能产业正经历供应链变局，上游灵巧手、电子皮肤与核心传感器企业率先迎来订单增长。 雷赛智能今年上半年交付灵巧手近5000只，较去年全年翻倍；傲意科技CEO倪华良表示公司正推进合计接近五六千台的三笔大单。 行业面临性能、成本和量产矛盾，且存在“一九法则”，即90%客户处于概念验证阶段，10%头部客户贡献90%以上收入。 雷赛智能目标将灵巧手成本控制在整机的10%-15%以内。 同时，汉威科技与瑞芯微指出电子皮肤与感知芯片需求大幅增长，触觉感知成为拓展具身智能能力边界的关键。"
+      "summary": "①部分灵巧手厂家今年上半年开始批量出货，销量超过去年全年，下游需求增幅明显； ②灵巧手上游电子皮肤、传感器、传感芯片等配件或更先爆发，电子皮肤开始从手扩展到全身。 财联社8月24日讯（记者 张良德 黄路 实习记者 刘亚鹏）从实验室的演示样品到工厂里的实操工具，具身智能产业正在经历一场由“手”引发的供应链变局。 当整机厂商还在万台级量产的门槛前徘徊，上游的灵巧手、电子皮肤与核心传感器企业，已经率先触摸到了确定性的订单。 “去年交付了2000只左右的灵巧手，今年上半年我们已经交付了接近5000只，已经在去年的全年基础上又翻了一倍。 ”在2026世界机器人大会现场，雷赛智能展台人员透露了这一数据。 这并非孤例——傲意科技CEO倪华良同样对财联社记者表示，公司近期正在推进三笔大订单，分别为1000台、2000台、3000台，“合计接近五六千台”。",
+      "summary_zh": "①部分灵巧手厂家今年上半年开始批量出货，销量超过去年全年，下游需求增幅明显； ②灵巧手上游电子皮肤、传感器、传感芯片等配件或更先爆发，电子皮肤开始从手扩展到全身。 财联社8月24日讯（记者 张良德 黄路 实习记者 刘亚鹏）从实验室的演示样品到工厂里的实操工具，具身智能产业正在经历一场由“手”引发的供应链变局。 当整机厂商还在万台级量产的门槛前徘徊，上游的灵巧手、电子皮肤与核心传感器企业，已经率先触摸到了确定性的订单。 “去年交付了2000只左右的灵巧手，今年上半年我们已经交付了接近5000只，已经在去年的全年基础上又翻了一倍。 ”在2026世界机器人大会现场，雷赛智能展台人员透露了这一数据。 这并非孤例——傲意科技CEO倪华良同样对财联社记者表示，公司近期正在推进三笔大订单，分别为1000台、2000台、3000台，“合计接近五六千台”。"
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T21:06:05+09:00",
-      "headline": "Magnetic Tactile Sensor Market Size, Technology Trends, Competitive Landscape and Forecast to 2032",
-      "source": "openPR.com",
-      "url": "https://www.openpr.com/news/4698769/magnetic-tactile-sensor-market-size-technology-trends",
-      "language": "English",
-      "section": "Global",
-      "summary": "The global market for Magnetic Tactile Sensor was estimated to be worth US$ 18.63 million in 2025 and is projected to reach US$ 151 million, growing at a CAGR of 31.9% from 2026 to 2032. Development focuses on application-ready modules combining contact structures, multidirectional sensing, and embedded processing. Demand is driven by automation tasks requiring physical contact feedback, such as handling fragile components and responding to incipient slip. Commercial opportunities concentrate on standardized sensing modules, fingertip products, and AI training data collection. The competitive landscape includes PaXini, XELA Robotics, and Melexis with Tactaxis technology cooperating with OYMotion.",
-      "summary_zh": "全球磁性触觉传感器市场在2025年的价值估计为US$ 18.63 million，预计到2032年将达到US$ 151 million，2026年至2032年的复合年增长率为31.9%。 技术发展正朝着结合接触结构、多方向传感、嵌入式处理和集成支持的应用就绪模块推进。 需求受到自动化任务的推动，这些任务需要物理接触反馈来处理易碎部件并响应滑移。 商业机会集中在标准化的传感模块、指尖产品以及AI训练数据收集上。 竞争格局包括PaXini、XELA Robotics以及采用Tactaxis技术的Melexis，其中OYMotion提供了机器人手部集成途径。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T11:37:45+09:00",
-      "headline": "灵心巧手绑定腾亚精工，灵巧手竞速从拼设计转向拼量产",
-      "source": "www.gasgoo.com",
-      "url": "https://www.gasgoo.com/robot/news/70478805-%E7%81%B5%E5%BF%83%E5%B7%A7%E6%89%8B%E7%BB%91%E5%AE%9A%E8%85%BE%E4%BA%9A%E7%B2%BE%E5%B7%A5/",
+      "published_at": "2026-11-24T13:24:30+09:00",
+      "headline": "人形机器人灵巧手行业首个标准正式发布！灵巧智能联合牵头研制",
+      "source": "具身之家",
+      "url": "https://www.jushenhome.com/news_d.php?id=2541",
       "language": "Chinese",
       "section": "Global",
-      "summary": "灵心巧手（北京）科技股份有限公司与南京腾亚精工科技股份有限公司近日正式签署战略合作协议，围绕精密制造、供应链协同、联合技术开发、场景应用与数据共建展开合作。 灵心巧手具备全栈自研能力，涵盖硬件、感知、运动控制、多模态数据及大模型，并采用PEEK工程塑料替代部分金属结构件。 自2025年10月起推进用灵巧手组装灵巧手，并在今年9月于北京工厂实现规模化量产，单只灵巧手组装下线时间压缩到25分钟。 当前灵巧手领域竞争焦点正从能不能做出来转向能不能量产、用得起和用得住。",
-      "summary_zh": "灵心巧手（北京）科技股份有限公司与南京腾亚精工科技股份有限公司近日正式签署战略合作协议，围绕精密制造、供应链协同、联合技术开发、场景应用与数据共建展开合作。 灵心巧手具备全栈自研能力，涵盖硬件、感知、运动控制、多模态数据及大模型，并采用PEEK工程塑料替代部分金属结构件。 自2025年10月起推进用灵巧手组装灵巧手，并在今年9月于北京工厂实现规模化量产，单只灵巧手组装下线时间压缩到25分钟。 当前灵巧手领域竞争焦点正从能不能做出来转向能不能量产、用得起和用得住。"
+      "summary": "近日，工业和信息化部发布 2026 年第 30 号公告，批准 274 项行业标准。 其中，由工业和信息化部人形机器人与具身智能标准化技术委员会（MIIT/TC8）归口管理的 5 项人形机器人领域标准正式发布，自发布之日起实施。 由上海人工智能研究院与灵巧智能（DexRobot）共同牵头研制的行业首个灵巧手标准《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）位列其中。 此外，灵巧智能还深度参与编制了《人形机器人 训练场构建技术规范》《人形机器人 训练数据管理要求》和《人形机器人 智能化能力分级》3 项标准。 聚焦灵巧手产品技术要求，牵头完成标准研制 灵巧手是人形机器人完成抓取、搬运、装配及精细操作任务的关键执行部件。 灵巧手的研发、制造和应用涉及机械结构、驱动控制、力与触觉感知、操作规划等多项技术，需要零部件、整机、算法、检测和应用等产业链单位协同推进。",
+      "summary_zh": "近日，工业和信息化部发布 2026 年第 30 号公告，批准 274 项行业标准。 其中，由工业和信息化部人形机器人与具身智能标准化技术委员会（MIIT/TC8）归口管理的 5 项人形机器人领域标准正式发布，自发布之日起实施。 由上海人工智能研究院与灵巧智能（DexRobot）共同牵头研制的行业首个灵巧手标准《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）位列其中。 此外，灵巧智能还深度参与编制了《人形机器人 训练场构建技术规范》《人形机器人 训练数据管理要求》和《人形机器人 智能化能力分级》3 项标准。 聚焦灵巧手产品技术要求，牵头完成标准研制 灵巧手是人形机器人完成抓取、搬运、装配及精细操作任务的关键执行部件。 灵巧手的研发、制造和应用涉及机械结构、驱动控制、力与触觉感知、操作规划等多项技术，需要零部件、整机、算法、检测和应用等产业链单位协同推进。"
     },
     {
       "date": "2026.11.23",
-      "published_at": "2026-11-23T09:58:20+09:00",
-      "headline": "IL Signs Exclusive Korea Supply Deal with XYNOVA, Maker of the \"World's First Hybrid Robotic Hand\"",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/stock-disclosure/2026112309582080652",
-      "language": "English",
-      "section": "Global",
-      "summary": "Physical AI data platform company IL signed an exclusive supply agreement in Korea with XYNOVA, a maker of robotic hands. The deal covers XYNOVA's entire lineup of robotic hands and humanoid joint actuators. IL Chairman Song Seonggeun and XYNOVA Founder and CEO Xia Yuxuan attended the signing ceremony. Founded in late 2024, XYNOVA has attracted investment from CATL, Xiaomi, JD. com and Meituan, with cumulative investment totaling approximately 1.5 billion yuan as of July 2026 and a post-investment valuation exceeding $1 billion. Its flagship product, Flex 2, is a 23-degree-of-freedom hybrid robotic hand. IL plans to supply the lineup in Korea and collect task data from manufacturing and logistics sites for AI training.",
-      "summary_zh": "Physical AI数据平台公司IL与机器人手制造商XYNOVA在韩国签署了独家供应协议。 该协议涵盖XYNOVA的全部机器人手和人形机器人关节执行器产品线。 IL董事长宋成根与XYNOVA创始人兼CEO夏雨轩出席了签约仪式。 XYNOVA成立于2024年末，吸引了宁德时代、小米、京东和美团等全球公司的投资，截至2026年7月，其累计投资总额约为1.5 billion yuan，投资后估值超过$1 billion。 其旗舰产品Flex 2是一款23自由度的混合式机器人手。 IL计划在韩国独家供应这些产品线，并从制造和物流现场收集任务数据用于AI训练。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T07:00:00+09:00",
-      "headline": "Sundae Robotics 11: Beyond the Gripper — Teaching Robots Dexterity Through Touch, Vision, and Play",
-      "source": "Superpower Daily",
-      "url": "https://superpowerdaily.com/events/sundae-robotics-11-beyond-the-gripper-teaching-robots-dexterity-through-touch-vision-and-play-be5349b8-c9ee-4024-aad4-a0a50c43ed48",
-      "language": "English",
-      "section": "Global",
-      "summary": "At Sundae Robotics 11, Akash Sharma, an Amazon Frontier AI & Robotics Research Scientist and CMU Robotics Institute PhD, presented four approaches to advance robot dexterity through touch, vision, human demonstrations, and autonomous play. The presentation covered PTLD for learning tactile policies without tactile simulation, INVAR for visual invariance transfer from simulation, CARD for touch-based demonstration retargeting, and DSP for turning human play into goal-conditioned dexterity using world models. Akash works at Amazon Frontier AI & Robotics with Jitendra Malik, received his PhD from Carnegie Mellon University advised by Prof. Michael Kaess, and previously was a visiting researcher with Meta FAIR Robotics.",
-      "summary_zh": "在 Sundae Robotics 11 活动中，Amazon Frontier AI & Robotics 研究科学家兼卡耐基梅隆大学机器人研究所博士 Akash Sharma 介绍了通过触觉、视觉、人类示范和自主玩耍推进机器人灵巧操作的四种方法。 演讲涵盖了无需触觉模拟即可学习触觉策略的 PTLD、从模拟中进行视觉不变性迁移的 INVAR、基于接触部位而非纯粹运动轨迹重定向人类示范的 CARD，以及利用世界模型将人类玩耍转化为目标条件化灵巧性的 DSP。 Akash 目前在 Amazon Frontier AI & Robotics 与 Jitendra Malik 共事，其博士学位由卡耐基梅隆大学授予，导师为 Michael Kaess 教授，此前他曾担任 Meta FAIR Robotics 的访问研究员。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T03:40:01+09:00",
-      "headline": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands",
-      "source": "Robotics & Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/11/22/schunk-spin-off-tactilia-robotics-launches-to-develop-dexterous-robot-hands/107466/",
-      "language": "English",
-      "section": "Global",
-      "summary": "Schunk has renamed its humanoid robotics spin-off to Tactilia Robotics, establishing a Munich-based company focused on developing modular robotic hands for industrial automation. Founded in January 2026 as Schunk Humanoid Robotics GmbH, the company designs robotic hands for manufacturing and logistics to handle various objects across humanoid robots, collaborative robots, and mobile manipulators. Dr. Markus Netzer became CEO on November 1, 2026, while Timo Gessmann serves as CTO. Tactilia operates independently in Munich's Arabellapark district, leveraging Schunk's automation expertise and network of 15 CoLabs worldwide.",
-      "summary_zh": "Schunk 将其人形机器人衍生公司更名为 Tactilia Robotics，在慕尼黑成立了一家专注于为工业自动化应用开发模块化机器人手的公司。 该公司最初于 2026 年 1 月以 Schunk Humanoid Robotics GmbH 的名义成立，致力于设计适用于制造和物流环境的机器人手，以处理人形机器人、协作机器人和移动操作臂上的各种物体和组件。 Dr. Markus Netzer 于 2026 年 11 月 1 日起担任首席执行官，Timo Gessmann 担任首席技术官。 Tactilia 在慕尼黑的 Arabellapark 地区独立运营，并依托 Schunk 在抓取和自动化技术方面的专业知识以及全球 15 个 CoLabs 的网络。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T01:49:55+09:00",
-      "headline": "沙利文发布《2026年全球触觉传感器行业白皮书》",
-      "source": "frostchina.com",
-      "url": "https://www.frostchina.com/content/insight/detail/6afebc1f964e5e4a2742c60d",
+      "published_at": "2026-11-23T22:01:00+09:00",
+      "headline": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证",
+      "source": "Sohu",
+      "url": "https://m.sohu.com/a/1105390535_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "language": "Chinese",
       "section": "Global",
-      "summary": "沙利文发布《2026年全球触觉传感器行业白皮书》，系统研究了全球触觉传感器行业，涵盖具身智能产业背景、触觉感知技术原理与路线、核心性能评价体系、市场发展、产业化挑战、重点下游应用及未来趋势。 白皮书指出，触觉传感器为机器人提供接触反馈，支持其实时调整操作策略，应用需求随人形机器人及灵巧手产业持续增长，部署范围从局部感知拓展至全身感知。 当前行业正处于技术演进与产业化加速阶段，正由单项性能优化向综合感知与系统集成转变，未来将向更高感知性能、更强系统集成及更广泛应用演进。",
-      "summary_zh": "沙利文发布《2026年全球触觉传感器行业白皮书》，系统研究了全球触觉传感器行业，涵盖具身智能产业背景、触觉感知技术原理与路线、核心性能评价体系、市场发展、产业化挑战、重点下游应用及未来趋势。 白皮书指出，触觉传感器为机器人提供接触反馈，支持其实时调整操作策略，应用需求随人形机器人及灵巧手产业持续增长，部署范围从局部感知拓展至全身感知。 当前行业正处于技术演进与产业化加速阶段，正由单项性能优化向综合感知与系统集成转变，未来将向更高感知性能、更强系统集成及更广泛应用演进。"
+      "summary": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证 近日， 景旺电子（603228. SH）举办业绩说明会，就业务布局与经营情况回应投资者提问。 针对人形机器人等新兴赛道，公司持续关注并依托高端PCB技术积累配合客户开发验证。 以人形机器人为例，公司配合开发了灵巧手PCB产品，该产品技术难度大、附加值高，目前尚未形成规模收入，后续将继续推进验证与迭代。 关于AI PCB规格对比，公司表示不同算力平台要求各有侧重，不宜单一维度横向比较。 公司已实现高多层、高阶HDI及SLP等高性能产品大批量稳定量产，具备M7至M9级别及PTFE材料量产加工能力，能满足全球算力客户升级需求。 此外，公司已顺利通过客户下一代产品量产认证，覆盖多款高性能PCB产品；珠海金湾高阶HDI工厂项目进度符合预期；今明两年新增产能将结合在手订单和客户滚动预测有序投放，AI PCB良率能稳定满足客户量产验收标准并实现批量交付。 公司2026年前三季度归母净利润同比增长70.42%，经营活动现金流净额阶段性下降主要受经营规模增长带来的应收账款、原材料备货和在制品增加等综合影响，属业务扩张正常现象，客户回款周期未拉长。",
+      "summary_zh": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证 近日， 景旺电子（603228. SH）举办业绩说明会，就业务布局与经营情况回应投资者提问。 针对人形机器人等新兴赛道，公司持续关注并依托高端PCB技术积累配合客户开发验证。 以人形机器人为例，公司配合开发了灵巧手PCB产品，该产品技术难度大、附加值高，目前尚未形成规模收入，后续将继续推进验证与迭代。 关于AI PCB规格对比，公司表示不同算力平台要求各有侧重，不宜单一维度横向比较。 公司已实现高多层、高阶HDI及SLP等高性能产品大批量稳定量产，具备M7至M9级别及PTFE材料量产加工能力，能满足全球算力客户升级需求。 此外，公司已顺利通过客户下一代产品量产认证，覆盖多款高性能PCB产品；珠海金湾高阶HDI工厂项目进度符合预期；今明两年新增产能将结合在手订单和客户滚动预测有序投放，AI PCB良率能稳定满足客户量产验收标准并实现批量交付。 公司2026年前三季度归母净利润同比增长70.42%，经营活动现金流净额阶段性下降主要受经营规模增长带来的应收账款、原材料备货和在制品增加等综合影响，属业务扩张正常现象，客户回款周期未拉长。"
+    },
+    {
+      "date": "2026.11.23",
+      "published_at": "2026-11-23T14:55:00+09:00",
+      "headline": "China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/589bc362-10d6-4326-a168-08163f7f568d",
+      "language": "English",
+      "section": "Global",
+      "summary": "China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector Shanghai Oymotion Information Technology Co. (Oymotion Technologies) announced on Nov. 23 that it completed a nine-figure D round — several hundred million yuan — jointly invested by Zhongbing Shunjing, Changjiang Capital, Optics Valley Industrial Investment and other institutions.",
+      "summary_zh": ""
     }
   ]
 }
