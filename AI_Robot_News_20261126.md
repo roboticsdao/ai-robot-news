@@ -12,107 +12,110 @@
 ## 🇺🇸 美国 / United States
 
 
+- **[2026.11.26] Drive Tesla Canada — Tesla reportedly plans to acquire stake in German robotics supplier EMAG**
+  English: Tesla is reportedly planning to acquire a stake in German machine-tool manufacturer EMAG, following collaboration on humanoid robots. The potential deal could transfer around 220 EMAG employees to Tesla, and Tesla has registered Tesla Machining Technologies Management SE at EMAG's headquarters in Salach, with Maximilian Stromberger as managing director.
+  中文：总结：据报道，在围绕人形机器人展开合作之后，特斯拉正计划收购德国机床制造商埃马克（EMAG）的股份。 这笔潜在交易预计将把约220名埃马克员工转移至特斯拉，特斯拉已在埃马克位于萨拉赫的总部注册了Tesla Machining Technologies Management SE新公司，并由马克西米利安·斯特罗姆伯格担任董事总经理。
+  📰 [Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-emag-acquisition/)
+
+- **[2026.11.26] 로봇신문 — CLOBOT Unveils Boston Dynamics Spot Live Demo Room in South Korea, Expands Industrial Robotics Business**
+  English: South Korean robotics service provider CLOBOT unveiled its Spot Live Demo Room on November 25 at its Seongnam headquarters. Led by CEO Chang-gu Kim, the company demonstrated nine autonomous industrial tasks using Boston Dynamics' Spot robot and plans to sell 30 Spot units in 2026 for industrial inspection, security patrol, and public safety markets.
+  中文：总结：韩国机器人服务提供商CLOBOT于11月25日在其位于城南市的总部揭幕了Spot现场演示室。 在首席执行官金昌九的领导下，该公司使用波士顿动力的Spot机器人演示了九项自主工业任务，并计划在2026年销售30台Spot机器人，面向工业检查、安防巡逻和公共安全市场。
+  📰 [로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=49803)
+
 - **[2026.11.25] Interesting Engineering — Figure 03 robot passes Elon Musk's apple test, adapts when table moved**
-  English: Figure AI CEO Brett Adcock responded to Elon Musk's criticism of staged humanoid robot demonstrations by sharing a 41-second video of a Figure 03 robot retrieving an apple after the table beneath it was moved. Adcock described the demonstration as zero shot and fully autonomous using the Helix AI system. Musk had previously argued that humanoid robot demonstrations are pre-programmed and fail when surroundings change, adding that Tesla is progressing with its Optimus robot and expects to hold an authentic demonstration in a month or two, with customer deliveries targeted for the end of 2027. Figure also reported that its Helix 2.5 home trials successfully completed 237 of 420 household chore trials across 30 previously unseen homes.
-  中文：总结：Figure AI首席执行官布雷特·阿德考克回应了埃隆·马斯克对摆拍式人形机器人演示的批评，分享了一段41秒的视频，展示Figure 03机器人在其下方的桌子被移动后仍能取回苹果。 阿德考克将该演示描述为使用Helix人工智能系统的零样本且完全自主操作。 马斯克此前曾辩称人形机器人演示是预先编程的，在环境改变时会失效，并补充称特斯拉的Optimus机器人正在取得进展，预计在一两个月内进行真实演示，并以2027年底为客户交付目标。 Figure还报告称，其Helix 2.5家庭试验在30个以前未见过的家庭中完成了420项家务试验中的237项。
+  English: Figure AI CEO Brett Adcock shared a video on November 23 showing a Figure 03 robot picking up an apple after the table beneath it was moved, responding to Elon Musk's criticism of pre-programmed humanoid demonstrations. Adcock described the action as zero-shot and fully autonomous, while Musk noted Tesla is making progress with Optimus and could hold an authentic demonstration in a month or two.
+  中文：总结：Figure AI首席执行官布雷特·阿德考克于11月23日分享了一段视频，展示了Figure 03机器人在其下方的桌子被移动后重新拿起苹果的过程，以此回应埃隆·马斯克对预编程人形机器人演示的批评。 阿德考克将这一动作描述为零样本且完全自主，而马斯克则指出特斯拉在Optimus方面正在取得进展，并可能在一两个月内举行一次真实的演示。
   📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/figure-counters-musks-staged-robot-claim)
 
 - **[2026.11.25] Intelligent CIO — Boston Dynamics and GlobalFoundries take humanoid robots into semiconductor manufacturing**
-  English: Boston Dynamics is expanding its partnership with GlobalFoundries to bring humanoid robots into semiconductor manufacturing across three continents. GlobalFoundries will become the first semiconductor manufacturer and non-automotive customer to test Boston Dynamics' Atlas humanoid under an early adopter program beginning in early 2027 to identify applications and training. Additionally, GlobalFoundries will expand deployments of Boston Dynamics' four-legged Spot robot for autonomous asset inspections in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. Spot has operated in Burlington for over four years and in Singapore has completed over 90,000 inspections since April with a 99% success rate, helping shift maintenance from reactive to predictive.
-  中文：总结：波士顿动力公司正在扩大与格芯的合作，将人形机器人引入三大洲的半导体制造领域。 格芯将成为首家半导体制造商以及汽车行业以外的首位客户，于2027年初开始在早期采用者计划下测试波士顿动力公司的Atlas人形机器人，以确定制造应用并进行培训。 此外，格芯将在纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的半导体制造设施中扩大部署波士顿动力的四足机器人Spot，用于自主资产检查。 Spot在伯灵顿已部署四年多，在新加坡自4月以来已完成90,000多次检查，任务成功率达99%，帮助维护工作从被动转向预测性。
+  English: Boston Dynamics is expanding its partnership with GlobalFoundries to integrate humanoid and quadruped robots into semiconductor manufacturing across three continents. GlobalFoundries will become the first semiconductor manufacturer and non-automotive customer to test Boston Dynamics' Atlas humanoid robot under its early adopter program starting in early 2027. Additionally, GlobalFoundries is expanding deployments of the four-legged Spot robot in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore for autonomous asset inspections and predictive maintenance. In Singapore, Spot robots completed over 90,000 inspections with a 99% success rate, while the company redeployed 875 routine inspections within two weeks using upgraded hardware and software.
+  中文：总结：Boston Dynamics 正在通过与 GlobalFoundries 扩大的合作，将人形和四足机器人引入三大洲的半导体制造中。 GlobalFoundries 将成为第一家半导体制造商以及汽车行业之外的第一家客户，在其早期采用者计划下测试 Boston Dynamics 的 Atlas 人形机器人，测试将于 2027 年初开始。 此外，GlobalFoundries 正在位于美国纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的半导体制造设施中扩大部署四足机器人 Spot，用于自主资产检查和预测性维护。 在新加坡，Spot 机器人完成了超过 90,000 次检查，成功率达到 99%，同时该公司利用升级的硬件和软件在两周内重新部署了 875 次常规检查。
   📰 [Intelligent CIO](https://www.intelligentcio.com/north-america/2026/11/25/boston-dynamics-and-globalfoundries-take-humanoid-robots-into-semiconductor-manufacturing/)
 
 - **[2026.11.25] digitimes — DIGITIMES Insight: Nvidia set to dominate AI robotics chip market with nearly 70% share**
-  English: According to DIGITIMES Intelligence, Nvidia is projected to capture nearly 70% of the AI robotics computing chip market in 2026. This anticipated dominance is driven by the company's early market lead in high-performance processors and its extensive suite of software tools tailored for robot development.
-  中文：总结：根据DIGITIMES Intelligence的数据，英伟达预计将在2026年占据近70%的AI机器人计算芯片市场份额。 这一预期中的主导地位得益于该公司在高性能处理器领域的早期领先优势以及为机器人开发提供的大量软件工具。
+  English: According to DIGITIMES Intelligence, Nvidia is expected to capture nearly 70% of the AI robotics computing chip market in 2026. This dominance is supported by the company's early lead in high-performance processors and a broad portfolio of software tools for robot development.
+  中文：总结：根据 DIGITIMES Intelligence 的数据，预计 Nvidia 在 2026 年将占据近 70% 的 AI 机器人计算芯片市场份额。 这一主导地位得益于该公司在高性能处理器方面的早期领先地位以及用于机器人开发的广泛软件工具组合。
   📰 [digitimes](https://www.digitimes.com/news/a20261124PD227/nvidia-robotics-software-development-2026.html)
-
-- **[2026.11.24] Yahoo Finance UK — YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim**
-  English: YYForce Inc. (NASDAQ: YFOR) launched its proprietary-trained humanoid robot named "Six Seven" (67) for live hospitality concierge operations at Novotel Singapore on Stevens, utilizing NVIDIA Jetson edge AI computing and NVIDIA Isaac Sim simulation workflows. Integrated into YYForce's Workforce OS architecture, the robot provides full hotel and dining concierge, local travel guidance, and interactive storytelling. Mike Fu, Chairman and CEO of YYForce, stated that the deployment demonstrates how humanoid robotics can deliver warmth, accuracy, and operational value on the front line while addressing staffing challenges.
-  中文：总结：YYForce Inc. (纳斯达克股票代码：YFOR) 推出了专为酒店礼宾服务训练的具身人形机器人“Six Seven”(67)，并将其部署在史蒂文斯诺富特新加坡酒店。 该机器人采用英伟达Jetson边缘AI计算和NVIDIA Isaac Sim仿真工作流，并集成到YYForce的Workforce OS架构中，可提供全面的酒店与餐饮礼宾服务、本地旅游指南以及交互式讲故事。 YYForce董事长兼首席执行官Mike Fu表示，此次部署展示了人形机器人如何在酒店前台传递温暖、准确性和运营价值，同时解决持续的人手短缺挑战。
-  📰 [Yahoo Finance UK](https://uk.finance.yahoo.com/news/yyforce-nasdaq-yfor-launches-trained-123500765.html)
-
-- **[2026.11.24] Seoul Economic Daily — U.S. Physical AI Robot Fund Courts Korean Institutional Investors**
-  English: RoboStrategy, a U. S. fund investing in unlisted robotics and physical AI companies, held its first institutional investor relations event in Korea, targeting pension funds, insurers, and professional investors to raise capital. Co-Chief Executive Andrew Kang outlined the plan at the Seoul event on the 22nd, noting the fund listed on the Nasdaq in May this year with a market capitalization of about 810 billion won and that Figure AI, a humanoid manufacturer it invested in, is valued at about 50 trillion won.
-  中文：总结：投资于未上市机器人和具身智能公司的美国基金RoboStrategy在韩国举办了首次机构投资者关系活动，旨在向养老基金、保险公司和专业投资者筹集资金。 联席首席执行官Andrew Kang于22日在首尔的活动上概述了该计划，并指出该基金于今年5月在纳斯达克上市，市值约为8100亿韩元，其投资的人形机器人制造商Figure AI估值约为50万亿韩元。
-  📰 [Seoul Economic Daily](https://en.sedaily.com/economy/2026/11/24/us-physical-ai-robot-fund-courts-korean-institutional)
 
 
 ## 🇨🇳 中国 / China
 
 
-- **[2026.11.26] 万维读者网 — 近20家企业破产 中国机器人产业洗牌**
-  中文：总结：中国机器人产业曾掀起融资热潮，但企业生存压力也开始浮现。 陆媒指，2025年至今，至少29家机器人企业破产、解散或停止营运。 分析指，具身智能仍处早期发展，商业化落地及形成收入需较长时间，随融资降温、IPO窗口收紧，缺乏持续造血能力的中小企业，2027年将面临“兑现大考”。 第一财经提到，退场企业不乏曾获知名投资机构或大型企业押注的明星公司，部分企业经多轮融资、估值走高，甚至成为独角兽，最终仍走向破产或停止营运。 机器人产业去年融资总额近人民币700亿元（下同），年增逾两倍；2026年前三季超千亿元。 其中，盈合机器人2020年成立，由美的创始人之子何剑锋旗下盈峰集团孵化，曾获字节跳动、美团系及金沙江创投等投资，前两轮融资约8亿元，成立不到一年估值一度达5亿美元。 不过，公司承接的佛山照明改造案因未达验收标准遭诉，法院判决返还2,690.4万元并拆除设备。
-  📰 [万维读者网](https://news.creaders.net/china/2026/11/25/3072366.html)
-
-- **[2026.11.25] 虎嗅网 — IT桔子数据：近五年33笔外资大厂投资中国具身智能，韩系最活跃，美系零记录**
-  中文：总结：本文来自微信公众号： IT桔子 ，作者：吴梅梅 过去两年，宇树科技的机器人不止在国内火，更是火到了全球，在海外多次刷屏。 王兴兴不仅成为英伟达年会晚宴的受邀客人，宇树更是被马斯克评价“实力超群，堪称顶级强劲对手”。 但翻遍了宇树科技历史以来的所有融资，股东名单是清一色的中资，没有一家外资大厂。 这个反差正好引出三个我感兴趣的问题：中国人形机器人本体公司第一梯队里，有哪些拿了外资大厂的钱？ 这些外资企业又是从何时开始投资中国具身智能的？ 被投方除了本体厂商，是否还有产业链公司？ 20家中国具身智能样本公司 被外资大厂投过 基于IT桔子的数据，我通过MCP把近五年（2022年1月1日到2026年11月17日）国内具身智能/机器人投资事件全部拉了一遍，共1407条，再逐笔辨认投资方里有没有知名的外资企业和跨国公司，最后筛出33笔。 离现在最近的一笔是2026年11月12日思灵机器人（Agile Robots）宣布完成的5亿美元F轮融资，投后估值85亿美元。
-  📰 [虎嗅网](https://www.huxiu.com/article/4908352.html)
+- **[2026.11.25] 中国新闻网 — 小鹏人形机器人IRON预计2027年1月进入硬件量产阶段**
+  中文：总结：第八届小鹏科技日于11月25日在广州举办。 活动上披露，小鹏高阶通用人形机器人IRON预计2027年1月进入硬件量产阶段，第一季度作为导购进入小鹏门店实习。 该机器人全身拥有76个自由度、超过1500个触点，手、手臂、臀、腿、足等核心区域触觉覆盖率超过80%。 IRON搭载三颗图灵AI芯片，支撑大模型与全身运控端侧部署。 小鹏选择让IRON首先进入导购、导览等商业岗位积累经验，机器人数据工厂围绕250多个场景、15类岗位开展数据采集与训练验证。 小鹏同步推出机器人生态开放平台，支持合作伙伴围绕具体业务开发应用。
+  📰 [中国新闻网](https://www.chinanews.com.cn/cj/2026/11-25/10737811.shtml)
 
 - **[2026.11.25] 智源社区 — 具身智能的「GPT时刻」来了？浙大、宇树开源500万条机器人动作数据**
-  中文：总结：投稿作者：浙江大学与宇树科技具身智能联合实验室 机器人能否只凭一段文字、一句语音、一首音乐，或一段人类视频，生成连贯的全身动作？ 这背后是一个更具体的问题：动作数据能否像文本一样规模化。 与文本不同，它很难直接从互联网规模中获得。 真机遥操作精度高，但采集成本高、场景覆盖有限；互联网人类视频数量庞大，人的身体比例、关节自由度与平衡约束却和机器人不同，视频里的动作无法直接交给机器人执行。 为此，浙江大学、宇树科技团队及其合作者从互联网人类视频出发，构建并开源了预训练数据集 Movens-5M。 该数据集收录 500 万条经仿真执行验证的机器人动作，总时长超过 1 万小时，覆盖行走、深蹲、拖地、拳击等 297 种细分动作，以及居家生活、健身训练、户外休闲等 16 类场景。 论文链接：https://arxiv. org/pdf/2610.41877 项目主页：https://movens-zero.
+  中文：总结：浙江大学与宇树科技具身智能联合实验室及合作者构建并开源了预训练数据集Movens-5M。 该数据集收录500万条经仿真执行验证的机器人动作，总时长超过1万小时，覆盖行走、深蹲、拖地、拳击等297种细分动作，以及居家生活、健身训练、户外休闲等16类场景。 研究团队通过片段生成、质量筛选、语义标注、动作恢复、物理精修五阶段流水线，将互联网人类视频转换为机器人可执行动作。 实验结果显示，在宇树G1上，Movens-Zero可以根据文字、语音、音乐和视频生成动作。 随着训练数据比例从1%增加到100%，文字与动作的匹配得分R@3从12.72%升至62.57%，视频输入下的动作误差MPJPE从132.82毫米降至40.90毫米。 动作专家参数量从64.2M增加到910.5M时，验证集流匹配损失从0.487降至0.159。
   📰 [智源社区](https://hub.baai.ac.cn/view/60011)
 
 - **[2026.11.25] 人民网－四川频道 — 十国开发者齐聚自贡高新区！优必选海外人形机器人实训营收官**
-  中文：总结：十国开发者齐聚自贡高新区！ 优必选海外人形机器人实训营收官 初冬时节，自贡高新区人形机器人数据采集与测试中心内，真机调试、代码编写、模型训练等同步开展。 11月16日至20日，Build With UBTECH・2026优必选海外生态具身人形开发实训营圆满举办，来自德国、意大利、西班牙、匈牙利、泰国、阿根廷、突尼斯等10个国家的生态伙伴与开发者齐聚高新区，完成为期五天的系统化实战训练。 当前全球人形机器人产业已步入商业化深水区，行业关注点已从单机动作演示，转向真实场景落地交付。 产业落地面临场景深度耦合、本土开发运维、全球合规与数据安全三大痛点，海外开发者此次来到自贡高新区，正是寻求场景落地“最后一公里”的系统解决方案。 依托自贡高新区四川人形机器人多模态数据采集测试中心的硬件与场景优势，本次实训摒弃纸上谈兵，以全尺寸真机实操为主线。 实训围绕Walker S2工业人形机器人、Walker C1商业人形机器人两大机型，在工业模拟场景中，开展多模态数据采集、仿真训练、代码解析、端到端部署、二次开发、人体动作模仿学习等实操训练。
+  中文：总结：11月16日至20日，Build With UBTECH·2026优必选海外生态具身人形开发实训营在自贡高新区人形机器人数据采集与测试中心举办，来自德国、意大利、西班牙、匈牙利、泰国、阿根廷、突尼斯等10个国家的生态伙伴与开发者参加。 实训围绕Walker S2工业人形机器人、Walker C1商业人形机器人两大机型，开展多模态数据采集、仿真训练、代码解析、端到端部署、二次开发、人体动作模仿学习等实操训练，向海外伙伴交付工程闭环。 坐落于自贡高新区的四川人形机器人多模态数据采集测试中心总面积约6000平方米，部署150台全尺寸人形机器人，搭建150余个工业模拟场景，2026年1月投运，每年可采集不少于300万条具身智能数据。
   📰 [人民网－四川频道](http://sc.people.com.cn/n2/2026/1125/c345458-41760559.html)
 
 - **[2026.11.24] 华尔街见闻 — 创业板高开低走尾盘翻绿，机器人爆发，半导体活跃，恒科指午后跌超1%，AI大模型双雄齐跌**
-  中文：总结：11月24日，A股在隔夜"黄仁勋复职、英伟达暴涨"的全球AI情绪共振下大幅高开，随后冲高回落、全天高开低走。 早盘创业板指一度高开3.88%、科创50冲高，午后各指数集体回吐涨幅，创业板尾盘翻绿。 在半导体/国产算力的带动下，科创50收涨近2%。 板块方面 半导体国产算力链在“自主可控”逻辑下接力走强；钴、镍等小金属受刚果(金)出口禁令刺激领涨两市；黄金、白银等贵金属则回吐昨日涨幅、集体重挫；保险、银行低开高走托底指数。 港股早盘亦高开，恒指、恒科指盘初涨幅收窄，临近午盘均转跌，午后扩大跌幅，恒科指跌超1%，权重科网股多数下跌，存储芯片等科技股活跃，南方两倍做多三星电子涨超13%。 AI大模型股高台跳水。 石油股走弱，中石油跌超3%；有色金属板块普跌，中国铝业跌超4%。 债市方面，国债期货多数上涨。 商品方面，国内商品期货涨跌参半。 A股：截至收盘，沪指涨0.27%，深成指跌0.29%，创业板指跌0.05%。
+  中文：总结：11月24日，A股全天高开低走，沪指涨0.27%，深成指跌0.29%，创业板指跌0.05%，沪深京三市超3500股飘绿，成交额1.66万亿。 半导体国产算力链接力走强，钴、镍等小金属领涨两市，贵金属回吐昨日涨幅集体重挫，保险、银行托底指数。 港股恒指跌0.73%，恒科指跌1.17%，AI大模型股高台跳水。 国债期货多数上涨，国内商品期货涨跌参半。 物理AI全天走强，安培龙、同星科技等20cm涨停。 特斯拉CEO马斯克表示预计未来12—18个月Optimus人形机器人就能做到倒垃圾、洗碗等家务；智元创新首批精灵G2机器人在上海临港长电科技汽车电子工厂并线。 英伟达董事会决定恢复黄仁勋总裁、首席执行官及董事会成员职务，英伟达单日市值增加约9520亿美元。 刚果(金)战略矿产市场监管局宣布自11月30日起暂停全部钴出口，中联金钴2701合约大幅上涨。
   📰 [华尔街见闻](https://wallstreetcn.com/articles/3786562)
+
+- **[2026.11.24] 21财经 — 宇树科技封涨停！机器人ETF集体飙涨，投资怎么选？**
+  中文：总结：11月23日，A股主要指数低开高走，沪指收涨0.15%，创业板指涨超3%，科创综指涨2.62%。 机器人板块盘中直线拉升，宇树科技封涨停，股价报708元/股，总市值达2864亿元，海天瑞声、艾芬达、安培龙等十余只个股实现20cm涨停。 消息面上，特斯拉推送FSD V15，底层视觉编码器开始同时服务于FSD、Robotaxi和人形机器人Optimus。 特斯拉CEO马斯克表示预计未来12至18个月Optimus人形机器人就能做家务。 国家发改委等四部门印发《“一老一小”服务体系建设实施方案》，工信部批准《人工智能关键基础技术具身智能数据生成系统技术要求》等274项行业标准。 市场上机器人相关ETF主要跟踪中证机器人和国证机器人产业两大指数。
+  📰 [21财经](https://www.21jingji.com/article/20261124/herald/22f51ecc5aa5f5d55f793fa758e980d9.html)
 
 
 ## 🇯🇵 日本 / Japan
 
 
-- **[2026.11.26] newsclip.be — タイ政府、ASEAN教育相会合の成果を報告 日本やGoogleとAI・ロボット教育で連携**
-  日本語：【タイ】政府は11月24日の閣議で、7月20〜23日にシンガポールで開催された第14回ASEAN教育相会合および関連会合の報告を了承した。 パッダーラット・トーンサルアイコーン政府副報道官が明らかにした。 会合の主な成果である教育連携の拡大として、タイは3つのパートナーとの協力を推進する。 インドネシアとは職業教育や訓練の連携を深め、同国の言語学習プログラム「BIPA」や奨学金制度「ダルマシスワ（Darmasiswa）」を通じた学生・教員の相互交流を進める。 日本とは高等専門学校（高専、KOSEN）との協力を拡充し、学生・教員の交流や短期講座を通じてSTEM（科学・技術・工学・数学）、ロボット、AI分野の次世代人材を育成するほか、日本型の特別活動「TOKKATSU」の導入や、学校給食・クラウドキッチン方式の運営ノウハウの共有を図る。 また、グーグル・シンガポールとは、モデル校での教育向けAI「Gemini for Education」の試験導入や教員・生徒のAIスキル向上を協議する。
-  📰 [newsclip.be](https://newsclip.be/thai-news/thai-local/44726)
-
 - **[2026.11.25] PR TIMES — ロボットタクシーのムービーズ、Forbes JAPAN「2027年注目の日本発スタートアップ100選」に選出**
   日本語：自動運転の社会実装を推進する株式会社ムービーズ（本社：石川県金沢市、代表取締役CEO エリック・ウェイ（魏嘉宏）、以下「ムービーズ」）は、リンクタイズ株式会社が発行するビジネス誌「Forbes JAPAN」の「2027年注目の日本発スタートアップ100選」に選出されたことをお知らせいたします。 ■ムービーズ、雪国で培った自動運転技術の社会実装へ ムービーズは、1998年から続く金沢大学の自動運転研究を基盤に、2024年5月に創業しました。 雪や雨などの悪天候に対応する認識・制御技術と、高精度な3次元地図への依存を抑える「マップレス技術」を強みに、ロボットタクシーの実用化に取り組んでいます。 北海道上士幌町では、雪道に対応する技術を生かし、買い物や通院など地域の暮らしを支える移動手段としての検証を進めています。 また、首都圏では、アプリによる配車や車内エンターテインメントを取り入れた実証を重ねてきました。
   📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000032.000162379.html)
-
-- **[2026.11.24] DXマガジン — 見た目だけでなく「作業中の音」までAIが聞き分ける！ベテラン職人の技を再現した安川電機の最新ロボットが工場で稼働**
-  日本語：溶接の自動化を進めても、仕上がりの確認は熟練者頼み。 安川電機は、品質確認と補正まで担うAIロボットをカートの製造現場に導入しました。 フレームの隙間や仕上がりに応じて作業を変える 株式会社安川電機は2026年10月28日、GAZOO Racingと共同開発した、AIを使う自律化ロボット生産技術の導入を発表しました。 9月から「蒲郡GR KART工房」で稼働しており、カートのフレーム製造工程に使われています。 溶接条件を認識して判断するところから、溶接後の品質確認、必要な補正までをロボットが実行します。 研究段階の構想ではなく、顧客の実生産ラインに導入された取り組みです。 採用したのは、GPUとAIを搭載する「MOTOMAN NEXT」です。 パイプフレームの組み付け状態や隙間、溶接した後の仕上がりを捉え、状態に合わせて作業を判断します。
-  📰 [DXマガジン](https://dxmagazine.jp/news/2665ko02/)
 
 - **[2026.11.24] PR TIMES — 『【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？』というテーマのウェビナーを開催**
   日本語：『【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？ 』というテーマのウェビナーを開催 マジセミ株式会社は「【迫られる工場変革】日本のものづくりの強みを生かし、AI・ロボット活用をどう広げるか？ 」というテーマのウェビナーを開催します。 ■ 現場の強みはそのままに。 AI・ロボットを成果につなげる「標準化」とは？ 人手不足や熟練者の退職が進む中、生産力や品質をどう維持し、さらに高めていくか。 生産技術・DX・ITに携わる管理職の皆さまにとって、重要なテーマではないでしょうか。 AIやロボットへの期待が高まる一方、「導入しても十分に使いこなせない」、「成果をほかの工場へ広げられない」という課題もあります。 その土台として考えたいのが「標準化」です。 すべての工場を同じ工程や設備にするのではなく、現場の工夫を生かしながら、データの意味や情報の扱い方、設備とのやり取りを揃えること。
   📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000006123.000054842.html)
 
 - **[2026.11.25] note — 日経平均が全面安の日に、なぜ東京海上（8766）は大商いで急反発したのか？発行済み9.6%の自社株買い、バフェット提携、業界初のAIロボット保険…“王者”に資金が殺到した本当の理由｜日本個別株デューデリジェンスセンター**
-  日本語：日経平均が全面安の日に、なぜ東京海上（8766）は大商いで急反発したのか？ 発行済み9.6%の自社株買い、バフェット提携、業界初のAIロボット保険…“王者”に資金が殺到した本当の理由 2026年11月20日の東京株式市場は、歴史に残る一日になりました。 日経平均株価は前日比3,007円56銭安の5万6,436円65銭で取引を終え、1日の下げ幅としては歴代5番目の大きさを記録しました。 東証プライム市場では9割を超える銘柄が値下がりし、文字どおりの「全面安」です。 ところが、その嵐の中で逆行高を演じた大型株がありました。 国内損害保険の最大手、東京海上ホールディングス（8766）です。 株価は前日比11.5円高の577.5円と4日ぶりに反発し、出来高は前日の約1.7倍にあたる9,722万株まで膨らみました。 日経平均への値上がり寄与度は、225銘柄の中でトップです。
+  日本語：2026年11月20日の東京株式市場で、日経平均株価は前日比3,007円56銭安の5万6,436円65銭となり、歴代5番目の下落幅を記録した。 全面安の相場となる中、国内損害保険最大手の東京海上ホールディングスは逆行高となり、出来高が前日の約1.7倍に膨らみ日経平均の値上がり寄与度トップを記録した。 前日19日の決算発表時に公表された、上限2,800億円・自己株式を除く発行済株式総数の9.6%にあたる自社株買いのほか、バークシャー・ハサウェイとの提携、AIロボット保険、金利上昇、株式分割による個人マネー流入などが資金を集めた要因として挙げられている。
+  中文：总结：在2026年11月20日的东京股票市场上，日经平均指数较前一日下跌3,007点56钱，报56,436点65钱，创下历史第5大单日跌幅。 在市场全面下跌的背景下，日本国内最大财产保险公司东京海上控股逆势上涨，成交量扩大至前一交易日的约1.7倍，并成为对日经平均指数贡献上涨最多的个股。 该公司在前一日19日公布财报时同步披露了回购上限为2,800亿日元、占剔除自身股份后已发行股份总数9.6%的股票回购计划，此外加上与伯克希尔-哈撒韦的合作、人工智能机器人保险、利率上升以及股票拆分吸引个人资金流入等，被认为是吸引资金聚集的原因。
   📰 [note](https://note.com/tatsuya_sabato/n/n05799877183b)
+
+- **[2026.11.25] 週刊エコノミスト Online — フィジカルAIの勝ち筋：㊦日本の活路はロボットを含む「賢い空間づくり」にあり 寺澤豊**
+  日本語：国産AI開発企業のノエトラは2026年、政府支援を受けて空間認識などの物理特性を理解する実世界ネーティブAIの開発をスタートした。 ロボットはめったに起きない事象への対応が難しいため、ロボットを環境に適応させるのではなく、自動ドアやエレベーター、位置情報を連携させて環境側を再設計し、ロボットが働きやすくする空間オーケストレーションが重要となる。
+  中文：总结：日本国产人工智能开发企业Noetra于2026年在政府支持下，启动了旨在理解空间识别等物理特性的“现实世界原生人工智能”开发。 由于机器人难以应对极少发生的事件，因此与其让机器人适应环境，不如通过联动自动门、电梯和位置信息来重新设计环境、使机器人更易工作的空间编排变得至关重要。
+  📰 [週刊エコノミスト Online](https://weekly-economist.mainichi.jp/articles/20261208/se1/00m/020/038000c)
+
+- **[2026.11.25] ITmedia — フィジカルAIで“なんでもできる“ロボが登場？ KDDI幹部が指摘「ロボット大国日本」の強みはどう変わるか**
+  日本語：米アンソロピックの分析によると、LLMのみで影響を受ける仕事は全体の約半分だが、LLMとロボットが融合すると約81%に上昇し、輸送・運搬や事務サポート業務などで影響が大きくなる。 一方でフィジカルAIの開発では物理的な動作データの蓄積が課題となっており、ネット上の情報は全体の0.1%程度にとどまる。 KDDIは新会社ELYZA Roboticsを設立し、ロボット、基盤モデル、学習データの収集、通信、計算基盤、現場運用を組み合わせて社会実装に取り組む方針を示している。
+  中文：总结：根据美国Anthropic公司的分析，仅受大语言模型影响的工作占整体约一半，但当大语言模型与机器人融合时，受影响的比例将上升至约81%，在运输搬运及行政支持等业务中的影响尤为显著。 另一方面，在具身智能的开发中，物理动作数据的积累是一个课题，互联网上的相关信息仅占整体的约0.1%。 KDDI成立了新公司ELYZA Robotics，表明了将机器人、基础模型、学习数据收集、通信、计算基础设施以及现场运营相结合以实现社会应用的方针。
+  📰 [ITmedia](https://www.itmedia.co.jp/business/articles/2611/25/news014_2.html)
 
 
 ## 🤖 Humanoid Robotics
 
 
 - **[2026.11.25] PR TIMES — 国産ヒューマノイドロボットのフルスタック開発を手がけるBlack AI、インキュベイトファンドからシード資金調達を実施**
-  English: Black AI, a Japanese full-stack robotics company developing humanoid robots and general-purpose robot intelligence, announced a seed-round funding led by Incubate Fund. The company integrates mechanical design, hardware, AI models, and motion control to develop humanoid robots aimed at addressing labor shortages in manufacturing. Honda ASIMO development founder Katsutoshi Tagami expressed expectations for the initiative as an opportunity for the re-growth of Japanese manufacturing.
-  中文：总结：专注于国産人形机器人全栈开发的Black AI宣布获得由Incubate Fund领投的种子轮融资。 该公司致力于整合机械设计、硬件、AI模型与运动控制，开发旨在解决制造业劳动力短缺问题的人形机器人。 Honda“ASIMO”开发创始人田上胜俊对该计划表示期待，认为这是日本制造业重新增长的机遇。
+  English: Black AI, a Japanese full-stack robotics company developing humanoid robots, has secured seed funding from Incubate Fund. The company designs both hardware and software, including mechanical design, AI models, and motion control, with the goal of expanding human productivity to address labor shortages in manufacturing. Founder and CEO Li Xunran and investors, including Incubate Fund general partner Toru Akaura and former Honda ASIMO development founder Katsutoshi Tagami, highlighted the role of humanoid robotics in supporting Japan's manufacturing industry.
+  中文：总结：专注于国産人形机器人全栈开发的Black AI宣布获得来自Incubate Fund的种子轮融资。 该公司自主研发机械设计、硬件、AI模型及运动控制，旨在通过人形机器人应对制造业劳动力短缺问题并扩展人类生产力。 创始人兼CEO李迅然以及包括Incubate Fund代表合伙人赤浦彻和本田ASIMO开发创始人田上胜俊在内的多位代表均强调了人形机器人在支持日本制造业再增长方面的重要作用。
   📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000009.000183143.html)
 
-- **[2026.11.26] Investing News Network — XPENG Unveils Turing Physical AI Architecture, and Debuts Advanced General-Purpose Humanoid Robot IRON**
-  English: XPENG unveiled its Turing Physical AI Architecture (VLA 3.0) at the eighth XPENG AI Day, connecting AI cognition, real-time decision-making, and physical execution across vehicles and robots. The company debuted its advanced general-purpose humanoid robot IRON, which is scheduled to train as a store assistant in XPENG retail stores in Q1 2027 and release publicly in Q2 2027. Additionally, its purpose-built Robotaxi model YOYO-01 is scheduled for release in 2027.
-  中文：总结：小鹏汽车在第八届小鹏AI日上发布了图灵物理AI架构（VLA 3.0），连接了智能汽车与人形机器人的AI认知、实时决策和物理执行。 该公司首次公开亮相了先进通用人形机器人IRON，计划于2027年第一季度在小鹏零售店开始作为店面助理培训，并于2027年第二季度正式公开发布。 此外，其首款用于商业部署的专用Robotaxi车型YOYO-01计划于2027年发布。
-  📰 [Investing News Network](https://investingnews.com/xpeng-unveils-turing-physical-ai-architecture-and-debuts-advanced-general-purpose-humanoid-robot-iron/)
+- **[2026.11.26] markets.businessinsider.com — XPENG Achieves New Milestone in Humanoid Robotics as IRON Brings Human-Centric Intelligence into the Mass Production Era**
+  English: XPENG introduced its advanced general-purpose humanoid robot, XPENG IRON, at AI Day 2026, announcing that mass production is scheduled to begin in January 2027. The robot is built on the XPENG Turing Physical AI architecture and features 76 degrees of freedom, 1,500 tactile sensing points, 3D vision, and three proprietary Turing AI chips delivering 2,250 TOPS of computing power. XPENG plans to deploy IRON as a store assistant in its retail stores in the first quarter of 2027 to handle customer reception and product guidance.
+  中文：总结：小鹏汽车在2026 AI日上推出了先进的通用人形机器人XPENG IRON，并宣布计划于2027年1月开始量产。 该机器人基于小鹏图灵物理AI架构打造，拥有76个自由度、超过1500个触觉传感点、3D视觉以及提供2250 TOPS算力的三颗自研图灵AI芯片。 小鹏计划于2027年第一季度开始将IRON安排在零售店内担任店员，进行客户接待和产品导购等服务。
+  📰 [markets.businessinsider.com](https://markets.businessinsider.com/news/stocks/xpeng-achieves-new-milestone-in-humanoid-robotics-as-iron-brings-human-centric-intelligence-into-the-mass-production-era-1036801559)
 
-- **[2026.11.26] TradingView — Citigroup initiates coverage of Agility Robotics at Buy, sets price target at $8**
-  English: Citigroup initiated coverage of Agility Robotics with a Buy rating and set a price target of $8. This price target represents an upside of 48.4% compared to the November 24 close of $5.39.
-  中文：总结：花旗集团开始对Agility Robotics进行评级覆盖，给予买入评级，并将目标价设定为$8。 这一目标价较11月24日$5.39的收盘价隐含48.4%的上行空间。
-  📰 [TradingView](https://www.tradingview.com/news/tradingview:c0e4351e61c84:0-citigroup-initiates-coverage-of-agility-robotics-at-buy-sets-price-target-at-8/)
+- **[2026.11.26] Interesting Engineering — XPENG unveils humanoid robot with 1,500 tactile sensors in China**
+  English: XPENG unveiled its Turing Physical AI Architecture (VLA 3.0) and IRON humanoid robot at its eighth AI Day in Guangzhou on November 25. IRON features 76 degrees of freedom, over 1,500 tactile sensors covering more than 80 percent of key body areas, and three Turing AI chips. XPENG plans to begin training IRON as a store assistant in its retail outlets in the first quarter of 2027, with a public release targeted for the second quarter. The automaker also showcased updates to its vehicle motion control systems and robotaxi program.
+  中文：总结：小鹏汽车于11月25日在广州举行的第八届科技日上发布了图灵物理AI架构（VLA 3.0）及IRON人形机器人。 IRON具备76个自由度、覆盖超过80%关键身体区域的1500多个触觉传感器以及三颗图灵AI芯片。 小鹏计划于2027年第一季度开始在零售门店培训IRON作为店面助理，并在第二季度进行官方公开亮相。 该公司同时展示了其车辆运动控制系统及Robotaxi项目的最新进展。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/xpeng-iron-humanoid-robot-1500-tactile-sensors)
 
 - **[2026.11.25] Gasgoo — UBTECH added to Hang Seng Tech Index, expected to attract over HK$2 billion in fresh capital**
-  English: UBTECH was added as a constituent stock of the Hang Seng Tech Index in the quarterly review, ranking 14th in the Information Technology sector with changes effective December 7. The inclusion is expected to channel over HK$2 billion in fresh capital into UBTECH, based on funds tracking the index holding $40.4 billion in combined assets as of June. UBTECH reported total revenue of 1.27 billion yuan in the first half of 2026, up 104.2% year on year.
-  中文：总结：优必选在恒生指数系列季度检讨中被纳入恒生科技指数成份股，在信息技术行业排名第14位，变动将于12月7日生效。 根据截至6月跟踪该指数的基金持有$40.4 billion的合并资产，此次纳入预计将为优必选引导超过HK$2 billion的新鲜资金。 优必选2026年上半年实现总收入1.27 billion yuan，较去年同期增长104.2%。
+  English: UBTECH has been added as a constituent stock of the Hang Seng Tech Index, taking effect on December 7, with expected fresh capital inflow of over HK$2 billion. In the first half of 2026, UBTECH reported total revenue of 1.27 billion yuan, a 104.2% year-on-year increase, and full-size humanoid robot revenue of 590 million yuan. The company's 10,000-unit-scale super smart factory came online in September, and global deliveries for its Walker C1 and U1 series began in the same month. UBTECH also invested over 300 million yuan in R&D during the first half of the year.
+  中文：总结：优必选已被纳入恒生科技指数成份股，变动将于12月7日生效，预计将吸引超过20亿港元的新资金流入。 2026年上半年，优必选实现总收入12.7亿元，同比增长104.2%，其中全尺寸人形机器人收入达到5.9亿元。 该公司年产达万台规模的超级智能工厂于9月投产，其Walker C1和U1系列全尺寸商业化服务人形机器人也于同月开始全球交付。 优必选在今年上半年投入了超过3亿元的研发资金。
   📰 [Gasgoo](https://autonews.gasgoo.com/articles/news/ubtech-added-to-hang-seng-tech-index-expected-to-attract-over-hk2-billion-in-fresh-capital-2125554258837381121)
 
-- **[2026.11.25] 深潮TechFlow — JPMorgan Humanoid Robot Research Report: Raises Unitree Robotics Price Target to RMB 1,060, Upgrades UBTECH Robotics to…**
-  English: JPMorgan released a research report on the embodied AI and humanoid robot sector on November 24, 2026, raising Unitree Robotics' target price to RMB 1,060 and upgrading UBTECH Robotics to Overweight with a target price of HKD 77. The report notes that the industry is transitioning from conceptual demonstrations to commercial deployment, with the competitive focus shifting to real-world data flywheels and customer ROI.
-  中文：总结：摩根大通于2026年11月24日发布了关于具身智能与人形机器人行业的研报，将宇树科技的目标价上调至RMB 1,060，并将优必选科技的评级上调至增持，目标价为HKD 77。 报告指出，该行业正从概念演示向商业部署过渡，竞争焦点已转向真实世界数据飞轮和客户投资回报率。
-  📰 [深潮TechFlow](https://www.techflowpost.com/en-US/article/35682/jpmorgan-humanoid-robot-report-unitree-target-1060-ubtech-upgrade)
+- **[2026.11.26] Startup Fortune — XPeng Sets a 2027 Release for Its IRON Humanoid Robot but Names No Price**
+  English: XPeng announced that its IRON humanoid robot will begin hardware mass production in January 2027, with store training as a sales assistant scheduled for the first quarter of 2027 and a public release targeted for the second quarter. Standing 170 cm tall and weighing 62 kg, the robot features 76 degrees of freedom, over 1,500 tactile sensing points, and three Turing chips supplying 2,250 TOPS. XPeng CEO He Xiaopeng is taking direct control of the robotics unit as mass production approaches. Financially, XPeng reported record quarterly revenue of 24.28 billion yuan ($3.62 billion) and a net loss of 870 million yuan ($130 million) for the third quarter, alongside 334,604 vehicle deliveries from January through October.
+  中文：总结：小鹏汽车宣布其IRON人形机器人将于2027年1月开始硬件量产，计划于2027年第一季度在门店进行销售助理培训，并在第二季度正式公开亮相。 该机器人身高170厘米，重62公斤，拥有76个自由度、超过1500个触觉传感点以及提供2250 TOPS算力的三颗图灵芯片。 随着量产推进，小鹏CEO何小鹏将直接负责机器人业务部门。 财务方面，小鹏第三季度创下24.28 billion（$3.62 billion）的季度营收纪录，净亏损为8.7亿元（1.3亿美元），1月至10月累计交付汽车334,604辆。
+  📰 [Startup Fortune](https://startupfortune.com/xpeng-sets-a-2027-release-for-its-iron-humanoid-robot-but-names-no-price/)
 
 
 ---
