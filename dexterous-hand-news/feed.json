@@ -1,50 +1,94 @@
 {
   "kind": "hand",
-  "updated_at": "2026-11-26T13:51:58.365138+09:00",
+  "updated_at": "2026-11-27T13:54:40.165939+09:00",
   "status": {
-    "state": "partial",
-    "checked_at": "2026-11-26T13:51:58.365138+09:00",
-    "latest_article_at": "2026-11-26T12:28:00+09:00",
+    "state": "ok",
+    "checked_at": "2026-11-27T13:54:40.165939+09:00",
+    "latest_article_at": "2026-11-27T11:34:45+09:00",
     "articles": 8,
     "sections": {
       "Global": 8
     },
     "shortfalls": {},
-    "translations_missing": 4
+    "translations_missing": 0
   },
   "articles": [
     {
+      "date": "2026.11.27",
+      "published_at": "2026-11-27T11:34:45+09:00",
+      "headline": "工信部发布人形机器人灵巧手行业标准 灵巧智能联合牵头研制",
+      "source": "www.gasgoo.com",
+      "url": "https://www.gasgoo.com/robot/news/70479136-%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%81%B5%E5%B7%A7%E6%89%8B%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86/",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "工业和信息化部发布2026年第30号公告，批准274项行业标准。 由上海人工智能研究院与灵巧智能共同牵头研制的《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）正式发布，这是人形机器人领域首个灵巧手行业标准。 该标准提出了产品分类、结构尺寸、电气运动力学和感知性能等方面的技术要求与测试方法。 灵巧智能还参与了训练场构建、训练数据管理和智能化能力分级等3项标准编制，并联合上海人工智能研究院牵头研制《人形机器人与具身智能 末端执行器接口技术规范第1部分：灵巧手》行业标准，目前已提交送审。 此外，中国电子技术标准化研究院、上海人工智能研究院和灵巧智能共同牵头的国家标准化指导性技术文件《人工智能 具身智能灵巧操作要求》正在拟定中，灵巧智能牵头研制的行业标准《人形机器人 物流应用技术要求》也已正式立项。",
+      "summary_zh": "工业和信息化部发布2026年第30号公告，批准274项行业标准。 由上海人工智能研究院与灵巧智能共同牵头研制的《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）正式发布，这是人形机器人领域首个灵巧手行业标准。 该标准提出了产品分类、结构尺寸、电气运动力学和感知性能等方面的技术要求与测试方法。 灵巧智能还参与了训练场构建、训练数据管理和智能化能力分级等3项标准编制，并联合上海人工智能研究院牵头研制《人形机器人与具身智能 末端执行器接口技术规范第1部分：灵巧手》行业标准，目前已提交送审。 此外，中国电子技术标准化研究院、上海人工智能研究院和灵巧智能共同牵头的国家标准化指导性技术文件《人工智能 具身智能灵巧操作要求》正在拟定中，灵巧智能牵头研制的行业标准《人形机器人 物流应用技术要求》也已正式立项。"
+    },
+    {
+      "date": "2026.11.27",
+      "published_at": "2026-11-27T10:40:00+09:00",
+      "headline": "拓邦发布TH系列三款灵巧手，探索具身智能走进真实制造现场",
+      "source": "人工智能",
+      "url": "https://www.icloudnews.net/a/125423.html",
+      "language": "Chinese",
+      "section": "Global",
+      "summary": "在第二十八届中国国际高新技术成果交易会期间，拓邦股份旗下子公司拓邦电机发布TH09高可靠多姿态执行型、TH14高精度力位协同型和TH21全直驱高自由度型三款TH系列灵巧手产品。 TH09配置9个主动自由度，采用混合驱动架构；TH14配置14个主动自由度，采用连杆驱动与驱控一体设计；TH21配置21个主动自由度，采用全直驱架构与摆线减速传动方案。 这些灵巧手支持关节位置、关节转矩、指尖触觉及拖动示教四种控制模式，配备CAN、RS485、EtherCAT工业总线接口，并提供支持ROS、Python、C++的SDK、API及运动学/动力学算法库，兼容MuJoCo、Isaac Sim等仿真平台与Manus遥操作系统。 目前，搭载拓邦灵巧手的作业单元已在拓邦电机真实产线上开展场景探索和验证，与现有机器及机械臂协作完成转子点胶、上下料、入端盖、入轴、入磁钢、烘烤及激光打标等核心精密装配工序。",
+      "summary_zh": "在第二十八届中国国际高新技术成果交易会期间，拓邦股份旗下子公司拓邦电机发布TH09高可靠多姿态执行型、TH14高精度力位协同型和TH21全直驱高自由度型三款TH系列灵巧手产品。 TH09配置9个主动自由度，采用混合驱动架构；TH14配置14个主动自由度，采用连杆驱动与驱控一体设计；TH21配置21个主动自由度，采用全直驱架构与摆线减速传动方案。 这些灵巧手支持关节位置、关节转矩、指尖触觉及拖动示教四种控制模式，配备CAN、RS485、EtherCAT工业总线接口，并提供支持ROS、Python、C++的SDK、API及运动学/动力学算法库，兼容MuJoCo、Isaac Sim等仿真平台与Manus遥操作系统。 目前，搭载拓邦灵巧手的作业单元已在拓邦电机真实产线上开展场景探索和验证，与现有机器及机械臂协作完成转子点胶、上下料、入端盖、入轴、入磁钢、烘烤及激光打标等核心精密装配工序。"
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T23:08:47+09:00",
+      "headline": "Researchers develop 3D-printable humanoid robotic hand costing less than $650",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/researchers-develop-3d-printable-humanoid-robotic-hand-costing-less-than-650/107748/",
+      "language": "English",
+      "section": "Global",
+      "summary": "Researchers at the New Jersey Institute of Technology developed a dexterous humanoid robotic hand called the PHD-Hand that can be manufactured using an affordable 3D printer and readily available components for less than $650 in parts. Authored by Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu, and Cong Wang, the research paper has been accepted at the IEEE-RAS International Conference on Humanoid Robots (Humanoids 2026). The five-fingered device uses a linkage-driven mechanism with spring steel drive rods and a 3D-printed flexible hinge made of thermoplastic polyurethane at the base of each digit, providing 15 independently actuated degrees of freedom through three actuated degrees of freedom in each finger. The prototype demonstrated all 33 grasp types in the GRASP taxonomy, rotated a 55 mm cube within its palm, repositioned a jar to open its lid, manipulated a precision screwdriver, and adjusted the worm screw of an adjustable wrench. The researchers used Anthropic’s Claude AI system to generate a browser-based control interface and motion trajectories from a textual description, and plan to release CAD models, 3D-printing files, control software, motion sequences, and a bill of materials through an open-source GitHub repository.",
+      "summary_zh": "新泽西理工学院的研究人员开发了一种名为PHD-Hand的灵巧人形机器人手，使用价格实惠的3D打印机和现成组件制造，零件成本低于$650。 该研究论文由Neel Adwani、Muhaiminul Islam Akash、Saffia Ouali、Ethan Liu和Cong Wang撰写，已被IEEE-RAS人形机器人国际会议（Humanoids 2026）接受。 这个五指装置采用连杆驱动机制，配合弹簧钢驱动杆和在每个手指底部的热塑性聚氨酯3D打印柔性铰链，通过每个手指3个驱动自由度提供了总共15个独立驱动的自由度。 该原型展示了GRASP分类法中的所有33种抓握类型，在其手掌内旋转了55 mm的立方体，重新定位罐子以打开其盖子，操作了精密螺丝刀，并调整了活动扳手的蜗杆螺丝。 研究人员使用Anthropic的Claude AI系统根据文本描述生成了基于浏览器的控制接口和运动轨迹，并计划通过开源GitHub repository发布CAD模型、3D打印文件、控制软件、运动序列和物料清单。"
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T18:10:12+09:00",
+      "headline": "NJIT Engineers Develop Inexpensive 3D-Printed Dexterous Robotic Hand with Modular Digits",
+      "source": "Bioengineer.org",
+      "url": "https://bioengineer.org/njit-engineers-develop-inexpensive-3d-printed-dexterous-robotic-hand-with-modular-digits/",
+      "language": "English",
+      "section": "Global",
+      "summary": "Researchers at the New Jersey Institute of Technology designed and built the PHD-Hand, a printable humanoid dexterous robotic hand created by Associate Professor Cong Wang and doctoral student Neel Adwani. The foundational concepts emerged during Wang's 2024 hospital stay, where lack of digital devices led him to focus on mechanical fundamentals and sketch structural designs in a notebook. Upon returning to campus, Wang presented the designs to a multidisciplinary fabrication team including research assistant Muhaiminul Akash, undergraduate researcher Saffia Ouali, and Union County Magnet High School student Ethan Liu. The PHD-Hand features a linkage-driven assembly that eliminates miniature moving parts, allowing production using a budget-grade 3D printer. It incorporates 3D-printed knuckles and joints with internal channels for stabilizing metal rods, modular digits, 3D-printed 2-degree-of-freedom flexure hinges, and springs inside the fingertips. Actuation is driven by standard hobby servos, and the system includes an inherent safety feature where power interruption causes fingers to return to a neutral resting position. Operation and manipulation commands are handled through a web browser-based software interface supporting mouse input and natural language processing.",
+      "summary_zh": "新泽西理工学院的研究人员设计并制造了PHD-Hand，这是一款由副教授Cong Wang和博士生Neel Adwani创建的可打印人形灵巧机器人手。 其基础概念源于Wang在2024年住院期间，当时缺乏数码设备促使他专注于机械基础并在笔记本中绘制结构设计。 回到校园后，Wang将设计展示给由研究助理Muhaiminul Akash、本科研究员Saffia Ouali和Union County Magnet High School学生Ethan Liu组成的多学科制造团队。 PHD-Hand采用连杆驱动组件，消除了微型运动部件，允许使用预算级3D打印机生产。 它结合了带有用于稳定金属棒的内部通道的3D打印指关节和关节、模块化手指、3D打印的2自由度柔性铰链以及指尖内部的弹簧。 驱动由标准的爱好舵机提供，系统包含一个内在的安全特性，即电源中断会导致手指返回中立静止状态。 操作和操纵命令通过支持鼠标输入和自然语言处理的网络浏览器软件接口进行处理。"
+    },
+    {
       "date": "2026.11.26",
       "published_at": "2026-11-26T12:28:00+09:00",
-      "headline": "New 3D-printed robotic hand uses low-cost parts to mimic human motion",
+      "headline": "New 3D-printed robotic hand uses simple parts to replicate human-like movements",
       "source": "Interesting Engineering",
       "url": "https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand",
       "language": "English",
       "section": "Global",
-      "summary": "Researchers at the New Jersey Institute of Technology (NJIT) have developed a dexterous robotic hand designed to make advanced manipulation more accessible. The PHD Hand combines 3D-printed components with relatively simple mechanical systems. Its design aims to reduce manufacturing costs and maintenance without sacrificing functionality. Associate Professor Cong Wang and doctoral student Neel Adwani developed the hand.",
-      "summary_zh": ""
+      "summary": "Researchers at the New Jersey Institute of Technology, including Associate Professor Cong Wang and doctoral student Neel Adwani, have developed the PHD Hand, a dexterous robotic hand combining 3D-printed components with simple mechanical systems to reduce manufacturing costs and maintenance. The research paper will appear at the IEEE Humanoids conference in December 2026. Wang's design process was inspired by a 2024 hospital stay without digital devices, where a notebook and pen became his tools to rethink robotic manipulation after observing medical professionals perform routine tasks. The PHD Hand uses printed joints and knuckles with narrow internal channels for metal rods, springs inside fingertips, and readily available hobby servos for actuation, avoiding complex tendon-driven mechanisms. If electrical power disappears, the fingers return to a preset neutral position. Users control the hand through browser-based software using a mouse, and the system can accommodate typed or spoken instructions through large language model integration. Adwani's doctoral research will explore manipulating everyday objects in natural ways, such as picking up a spatula from its handle's opposite end, alongside investigating tactile sensing and cameras to recognize objects and coordinate complex movements.",
+      "summary_zh": "新泽西理工学院的研究人员（包括副教授Cong Wang和博士生Neel Adwani）开发了PHD Hand，这是一种将3D打印组件与简单机械系统相结合的灵巧机器人手，旨在降低制造成本和维护费用。 该研究论文将出现在2026年12月的IEEE Humanoids会议上。 Wang的设计过程灵感来自2024年在没有数码设备的情况下的住院经历，当时在观察医疗专业人员执行常规任务后，笔记本和笔成为他重新思考机器人操纵的工具。 PHD Hand使用带有用于金属棒的狭窄内部通道的打印关节和指关节、指尖内部的弹簧以及现成的爱好舵机进行驱动，避免了复杂的腱驱动机制。 如果电力消失，手指会返回预设的中立位置。 用户通过基于浏览器的软件使用鼠标控制手，并且系统可以通过大语言模型集成适应键入或口头指令。 Adwani的博士研究将探索以自然方式操纵日常物品（例如从铲子手柄的另一端拿起铲子），同时研究触觉传感和相机以识别物体并协调复杂运动。"
     },
     {
       "date": "2026.11.26",
-      "published_at": "2026-11-26T09:16:00+09:00",
+      "published_at": "2026-11-26T11:21:00+09:00",
+      "headline": "XPENG unveils humanoid robot with 1,500 tactile sensors in China",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/xpeng-iron-humanoid-robot-1500-tactile-sensors",
+      "language": "English",
+      "section": "Global",
+      "summary": "XPENG introduced its Turing Physical AI Architecture, also called VLA 3.0, and the IRON humanoid robot on November 25 at its eighth AI Day in Guangzhou. The architecture connects AI models with computing, perception, control systems, and hardware through System 0, System 1 powered by the VLA 2.0 model, and System 2 for cognition. IRON features 76 degrees of freedom, over 1,500 tactile sensing points covering more than 80 percent of key body areas, and three proprietary Turing AI chips. XPENG plans to train IRON as a store assistant in retail outlets in the first quarter of 2027, with a public release targeted for the second quarter. Additionally, XPENG applied its physical-intelligence strategy to vehicles with the X-VMC 2.0 motion-control system and a VLA Adaptive Deceleration feature scheduled for December 2026. Its robotaxi program obtained L4 demonstration-operation qualification in Guangzhou, and the purpose-built YOYO-01 robotaxi is scheduled for release in 2027 alongside its ARIDGE flying vehicle program.",
+      "summary_zh": "小鹏在11月25日广州举行的第八届科技日上，推出了图灵物理AI架构（即VLA 3.0）与IRON人形机器人。 该架构连接了AI模型、计算、感知、控制系统与硬件，包含系统0、搭载VLA 2.0模型的系统1及负责高层认知的系统2。 IRON拥有76个自由度、超过1,500个覆盖80%以上关键身体区域的触觉传感点，并搭载3颗自研图灵AI芯片。 小鹏计划于2027年第一季度开始在门店培训IRON担任店员，并在第二季度进行官方公开发布。 此外，小鹏将物理智能策略扩展至汽车领域，推出X-VMC 2.0运动控制系统，并计划在2026年12月首次通过OTA推送VLA自适应减速功能。 其Robotaxi项目已在广州获得L4示范运营资质，首款专用Robotaxi车型YOYO-01计划于2027年发布，ARIDGE飞行汽车项目也在推进中。"
+    },
+    {
+      "date": "2026.11.26",
+      "published_at": "2026-11-26T10:00:58+09:00",
       "headline": "米ニュージャージー工科大、安価な3Dプリンターで作れるロボットハンドを開発",
       "source": "FabScene",
       "url": "https://fabscene.com/new/news/njit-phd-hand-3d-printed-linkage-robot-hand/",
       "language": "Japanese",
       "section": "Global",
-      "summary": "米ニュージャージー工科大学（NJIT）の研究チームは、安価な3Dプリンターと市販の部品で作れる人型のロボットハンド「PHD-Hand」を開発した。 親指を含む5本の指を、それぞれ3個のサーボモーターで動かす。 手の長さは約200mmで、人の手に近い。 論文は2026年10月21日に論文公開サイトのarXivに掲載され、ロボット工学の国際会議「Humanoids 2026」に採択されている。 論文によると、人の手のように器用なロボットハンドは、家庭や職場で人を手助けするロボットにとって、ハードウェアの最後の壁とされている。 多くのハンドは指の関節をワイヤー（腱）で引いて動かす。 ワイヤー式は費用がかさみ、整備に手間がかかり、ワイヤーが切れやすい。 指の中にモーターを置くと、指が太く重くなる。 そこでチームは指の外に置いたモーターの動きを、棒でつないだ仕組み（リンク機構）で関節に伝える方式を選んだ。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.26",
-      "published_at": "2026-11-26T08:07:07+09:00",
-      "headline": "美芯晟11月25日回应人形机器人话题：布局灵巧手编码器及关节传感器产品_公司新闻",
-      "source": "证券之星",
-      "url": "https://stock.stockstar.com/RB2026112600007352.shtml",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "证券之星消息，美芯晟（688458）11月25日在投资者互动平台上对人形机器人相关话题对投资者做了答复。 美芯晟回应：公司针对灵巧手开展高精度磁编码器、电感式编码器等控制芯片研发，布局关节位置磁编码器、触觉、电流传感器等产品。 同时持续推进电机驱动芯片的升级研发，实现电机位置、速度与力矩的精准闭环控制，与磁编码器配套形成“感知+执行”的完整闭环，满足关节伺服、灵巧手精细抓取等灵活运动控制需求。 题材释义：人形机器人正从实验室迈向工厂与家庭，其核心逻辑在于AI大模型赋予机器“思考”能力，叠加精密减速器、伺服电机等核心零部件的成本下降，推动产业进入从0到1的规模化量产前夜。 以上内容为证券之星据公开信息整理，仅供参考不构成投资建议。",
-      "summary_zh": "证券之星消息，美芯晟（688458）11月25日在投资者互动平台上对人形机器人相关话题对投资者做了答复。 美芯晟回应：公司针对灵巧手开展高精度磁编码器、电感式编码器等控制芯片研发，布局关节位置磁编码器、触觉、电流传感器等产品。 同时持续推进电机驱动芯片的升级研发，实现电机位置、速度与力矩的精准闭环控制，与磁编码器配套形成“感知+执行”的完整闭环，满足关节伺服、灵巧手精细抓取等灵活运动控制需求。 题材释义：人形机器人正从实验室迈向工厂与家庭，其核心逻辑在于AI大模型赋予机器“思考”能力，叠加精密减速器、伺服电机等核心零部件的成本下降，推动产业进入从0到1的规模化量产前夜。 以上内容为证券之星据公开信息整理，仅供参考不构成投资建议。"
+      "summary": "A research team at the New Jersey Institute of Technology developed the PHD-Hand, an affordable humanoid robot hand made with inexpensive 3D printers and off-the-shelf parts. The hand features five fingers, each moved by three servo motors, and measures about 200mm in length. Published on arXiv on October 21, 2026, and accepted at the Humanoids 2026 conference, the design uses a linkage mechanism instead of tendons. The base joint is 3D printed from soft TPU resin and curves in two directions, reinforced with a 0.6mm stainless steel spring steel rod. Each finger's main components consist of 13 parts for a single-piece print. The team tested the prototype with 33 grasping classifications, successfully performing tasks like turning a precision screwdriver, while tasks requiring narrow finger ranges or lacking a web space were incomplete. Browser-based movement procedures were generated by the Claude AI. Following about 200 hours of testing with two spring steel rod breakages, the team plans to study durability and prepare an open-source release.",
+      "summary_zh": "美国新泽西理工学院的研究团队开发了名为“PHD-Hand”的人型机器人手，可使用安价的3Dプリンター和市贩部品制作。 该手拥有5根手指，每根手指由3个サーボモーター驱动，长度约为200mm。 该论文于2026年10月21日公开于arXiv，并被Humanoids 2026会议收录。 设计采用连杆机构而非腱绳，指根关节使用TPU树脂3D打印并在中心穿入0.6mm不锈钢弹簧钢棒。 手指主体一体打印仅需13个零件。 团队使用原型机进行了33类抓取测试，完成了旋转精密螺丝刀等操作，部分受限于活动范围的操作未能完全完成。 操作界面由生成式AI Claude生成。 在经历了约200小时及两次弹簧钢棒断裂的测试后，团队计划未来研究耐久性并以开源形式发布设计。"
     },
     {
       "date": "2026.11.26",
@@ -54,52 +98,8 @@
       "url": "https://www.eurekalert.org/news-releases/1153486",
       "language": "English",
       "section": "Global",
-      "summary": "Associate Prof. Cong Wang and doctoral student Neel Adwani designed and built a new kind of robotic hand that’s less expensive and more reliable than high-end commercial options without sacrificing function. Wang and Adwani’s research paper for the IEEE Humanoids conference in December 2026 highlights degrees of automation, kinematic analysis and AI-aided control. The real story began in 2024, as Wang was confined to a hospital bed and barred from using any device with a camera.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.25",
-      "published_at": "2026-11-25T00:28:05+09:00",
-      "headline": "灵巧手出货量翻倍背后：电子皮肤与传感器率先迎来“质的变化”",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2462145",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "①部分灵巧手厂家今年上半年开始批量出货，销量超过去年全年，下游需求增幅明显； ②灵巧手上游电子皮肤、传感器、传感芯片等配件或更先爆发，电子皮肤开始从手扩展到全身。 财联社8月24日讯（记者 张良德 黄路 实习记者 刘亚鹏）从实验室的演示样品到工厂里的实操工具，具身智能产业正在经历一场由“手”引发的供应链变局。 当整机厂商还在万台级量产的门槛前徘徊，上游的灵巧手、电子皮肤与核心传感器企业，已经率先触摸到了确定性的订单。 “去年交付了2000只左右的灵巧手，今年上半年我们已经交付了接近5000只，已经在去年的全年基础上又翻了一倍。 ”在2026世界机器人大会现场，雷赛智能展台人员透露了这一数据。 这并非孤例——傲意科技CEO倪华良同样对财联社记者表示，公司近期正在推进三笔大订单，分别为1000台、2000台、3000台，“合计接近五六千台”。",
-      "summary_zh": "①部分灵巧手厂家今年上半年开始批量出货，销量超过去年全年，下游需求增幅明显； ②灵巧手上游电子皮肤、传感器、传感芯片等配件或更先爆发，电子皮肤开始从手扩展到全身。 财联社8月24日讯（记者 张良德 黄路 实习记者 刘亚鹏）从实验室的演示样品到工厂里的实操工具，具身智能产业正在经历一场由“手”引发的供应链变局。 当整机厂商还在万台级量产的门槛前徘徊，上游的灵巧手、电子皮肤与核心传感器企业，已经率先触摸到了确定性的订单。 “去年交付了2000只左右的灵巧手，今年上半年我们已经交付了接近5000只，已经在去年的全年基础上又翻了一倍。 ”在2026世界机器人大会现场，雷赛智能展台人员透露了这一数据。 这并非孤例——傲意科技CEO倪华良同样对财联社记者表示，公司近期正在推进三笔大订单，分别为1000台、2000台、3000台，“合计接近五六千台”。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T13:24:30+09:00",
-      "headline": "人形机器人灵巧手行业首个标准正式发布！灵巧智能联合牵头研制",
-      "source": "具身之家",
-      "url": "https://www.jushenhome.com/news_d.php?id=2541",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "近日，工业和信息化部发布 2026 年第 30 号公告，批准 274 项行业标准。 其中，由工业和信息化部人形机器人与具身智能标准化技术委员会（MIIT/TC8）归口管理的 5 项人形机器人领域标准正式发布，自发布之日起实施。 由上海人工智能研究院与灵巧智能（DexRobot）共同牵头研制的行业首个灵巧手标准《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）位列其中。 此外，灵巧智能还深度参与编制了《人形机器人 训练场构建技术规范》《人形机器人 训练数据管理要求》和《人形机器人 智能化能力分级》3 项标准。 聚焦灵巧手产品技术要求，牵头完成标准研制 灵巧手是人形机器人完成抓取、搬运、装配及精细操作任务的关键执行部件。 灵巧手的研发、制造和应用涉及机械结构、驱动控制、力与触觉感知、操作规划等多项技术，需要零部件、整机、算法、检测和应用等产业链单位协同推进。",
-      "summary_zh": "近日，工业和信息化部发布 2026 年第 30 号公告，批准 274 项行业标准。 其中，由工业和信息化部人形机器人与具身智能标准化技术委员会（MIIT/TC8）归口管理的 5 项人形机器人领域标准正式发布，自发布之日起实施。 由上海人工智能研究院与灵巧智能（DexRobot）共同牵头研制的行业首个灵巧手标准《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）位列其中。 此外，灵巧智能还深度参与编制了《人形机器人 训练场构建技术规范》《人形机器人 训练数据管理要求》和《人形机器人 智能化能力分级》3 项标准。 聚焦灵巧手产品技术要求，牵头完成标准研制 灵巧手是人形机器人完成抓取、搬运、装配及精细操作任务的关键执行部件。 灵巧手的研发、制造和应用涉及机械结构、驱动控制、力与触觉感知、操作规划等多项技术，需要零部件、整机、算法、检测和应用等产业链单位协同推进。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T22:01:00+09:00",
-      "headline": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证",
-      "source": "Sohu",
-      "url": "https://m.sohu.com/a/1105390535_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "language": "Chinese",
-      "section": "Global",
-      "summary": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证 近日， 景旺电子（603228. SH）举办业绩说明会，就业务布局与经营情况回应投资者提问。 针对人形机器人等新兴赛道，公司持续关注并依托高端PCB技术积累配合客户开发验证。 以人形机器人为例，公司配合开发了灵巧手PCB产品，该产品技术难度大、附加值高，目前尚未形成规模收入，后续将继续推进验证与迭代。 关于AI PCB规格对比，公司表示不同算力平台要求各有侧重，不宜单一维度横向比较。 公司已实现高多层、高阶HDI及SLP等高性能产品大批量稳定量产，具备M7至M9级别及PTFE材料量产加工能力，能满足全球算力客户升级需求。 此外，公司已顺利通过客户下一代产品量产认证，覆盖多款高性能PCB产品；珠海金湾高阶HDI工厂项目进度符合预期；今明两年新增产能将结合在手订单和客户滚动预测有序投放，AI PCB良率能稳定满足客户量产验收标准并实现批量交付。 公司2026年前三季度归母净利润同比增长70.42%，经营活动现金流净额阶段性下降主要受经营规模增长带来的应收账款、原材料备货和在制品增加等综合影响，属业务扩张正常现象，客户回款周期未拉长。",
-      "summary_zh": "景旺电子：布局人形机器人灵巧手PCB，AI高端PCB已通过下一代客户量产认证 近日， 景旺电子（603228. SH）举办业绩说明会，就业务布局与经营情况回应投资者提问。 针对人形机器人等新兴赛道，公司持续关注并依托高端PCB技术积累配合客户开发验证。 以人形机器人为例，公司配合开发了灵巧手PCB产品，该产品技术难度大、附加值高，目前尚未形成规模收入，后续将继续推进验证与迭代。 关于AI PCB规格对比，公司表示不同算力平台要求各有侧重，不宜单一维度横向比较。 公司已实现高多层、高阶HDI及SLP等高性能产品大批量稳定量产，具备M7至M9级别及PTFE材料量产加工能力，能满足全球算力客户升级需求。 此外，公司已顺利通过客户下一代产品量产认证，覆盖多款高性能PCB产品；珠海金湾高阶HDI工厂项目进度符合预期；今明两年新增产能将结合在手订单和客户滚动预测有序投放，AI PCB良率能稳定满足客户量产验收标准并实现批量交付。 公司2026年前三季度归母净利润同比增长70.42%，经营活动现金流净额阶段性下降主要受经营规模增长带来的应收账款、原材料备货和在制品增加等综合影响，属业务扩张正常现象，客户回款周期未拉长。"
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T14:55:00+09:00",
-      "headline": "China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/589bc362-10d6-4326-a168-08163f7f568d",
-      "language": "English",
-      "section": "Global",
-      "summary": "China's Oymotion Technologies Closes Nine-Figure D Round as State-Owned Industrial Capital Piles Into Dexterous Hand Sector Shanghai Oymotion Information Technology Co. (Oymotion Technologies) announced on Nov. 23 that it completed a nine-figure D round — several hundred million yuan — jointly invested by Zhongbing Shunjing, Changjiang Capital, Optics Valley Industrial Investment and other institutions.",
-      "summary_zh": ""
+      "summary": "Associate Professor Cong Wang and doctoral student Neel Adwani designed the PHD Hand, an accessible and reliable robotic hand built with ordinary tools and a budget 3D printer. Developed partly during Wang's 2024 hospital stay, the hand uses 3D-printed joints and knuckles with tiny holes for metal rods, spring-loaded fingertips, and hobby-grade servos, allowing fingers to return to a preset neutral position if power is lost. The design avoids complex miniature moving parts and is controlled by browser-based software paired with mouse controls or a large language model for typed or spoken commands. The research is featured at the IEEE Humanoids conference in December 2026. Built by a team including Muhaiminul Akash, Saffia Ouali, and Ethan Liu, the project provides files, videos, and instructions on its website. Future plans include manipulating real-world objects, incorporating tactile sensing, and integrating cameras with AI.",
+      "summary_zh": "副教授Cong Wang与博士生Neel Adwani设计并制造了PHD Hand，这是一种使用普通工具和经济型3D打印机制作且成本更低、更可靠的机器人手。 该设计部分构思于Wang在2024年住院期间，手部采用3D打印的关节、内置金属小孔、指尖弹簧以及ホビー用小型サーボ，断电时可返回预设的中立位置。 该设计避免了复杂的微型运动部件，并通过浏览器端软件与鼠标控制，或由大语言模型解释键入或语音命令来进行控制。 相关研究将在2026年12月的IEEE Humanoids会议上发表。 由Muhaiminul Akash、Saffia Ouali和Ethan Liu等组成的团队负责制造，项目已在网站上发布文件、视频和完整说明。 未来的计划包括操作现实世界的物体、加入触觉感知以及集成配备AI的摄像头。"
     }
   ]
 }
