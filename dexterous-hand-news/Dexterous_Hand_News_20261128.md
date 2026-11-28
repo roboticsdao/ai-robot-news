@@ -1,0 +1,55 @@
+# 🖐 Dexterous Hand News | 2026.11.28（土曜日 / Saturday）
+
+
+
+> ⚠️ 本日报收录全球机器人灵巧手新闻，优先选择7天内内容，数量不足时最多回溯14天；摘要仅压缩原文事实，不添加商业判断或预测。
+
+
+
+---
+
+
+## 🌍 全球灵巧手 / Global Dexterous Hands
+
+
+- **[2026.11.28] 证券之星 — 麦捷科技11月27日回应人形机器人话题：仿生灵巧手项目仅处前期研发阶段_公司新闻**
+  中文：总结：麦捷科技在11月27日的投资者互动平台上表示，公司与光明实验室联合共建的微型驱动关节与仿生灵巧手联合实验室早先发布了微型驱动关节及基于该关节的仿生灵巧手应用方案。 目前该项目仅处于前期研发阶段，存在较大不确定性，并提醒投资者关注相关业务不及预期的投资风险。
+  📰 [证券之星](https://stock.stockstar.com/RB2026112800005123.shtml)
+
+- **[2026.11.28] Robotics & Automation News — Prensilia launches new robotic hand for industrial humanoids and cobots**
+  English: Italian robotics company Prensilia introduced NH1 Era, a robotic hand designed for humanoid and collaborative robots, unveiled at SPS 2026 in Nuremberg, Germany. The robotic hand combines versatile grasping capabilities with industrial durability and robustness, aiming to help bring physical AI capabilities from research laboratories to factory floors. NH1 Era supports multiple grasping modes, features underactuated fingers with mechanical intelligence, and can be equipped with force sensors. Key technical features include up to 70 newtons of thumb fingertip force, tri-axis fingertip force sensors, an ISO 9409-1-compatible mechanical interface or an interface adapted to humanoid robot wrists, supply voltage of up to 48 volts, RS-485 and Ethernet communication protocols, and Robot Operating System libraries. Founded in 2009 as a spin-off from the Scuola Superiore Sant'Anna in Pisa, Prensilia is based in Pontedera, Italy. Pre-orders for the first production batch are open through the Prensilia website.
+  中文：总结：意大利机器人公司Prensilia在德国纽伦堡的SPS 2026展会上推出了专为人形机器人和协作机器人设计的NH1 Era机器人手。 该产品结合了多功能抓取能力与工业耐久性，旨在将具身智能能力从实验室带到工厂车间。 NH1 Era支持多种抓取模式，采用具有机械智能的欠驱动手指，并可配备力传感器。 其关键技术特征包括最高70牛顿的拇指指尖力、三轴指尖力传感器、兼容ISO 9409-1或适配人形机器人手腕的机械接口、最高48伏的供电电压、RS-485及以太网通信协议，以及用于控制和仿真的机器人操作系统库。 Prensilia于2009年作为比萨圣安娜高等学校的分支机构创立，总部位于意大利蓬泰代拉。 首批产品的预订已通过Prensilia网站开放。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/27/prensilia-launches-new-robotic-hand-for-industrial-humanoids-and-cobots/107822/)
+
+- **[2026.11.27] www.gasgoo.com — 工信部发布人形机器人灵巧手行业标准 灵巧智能联合牵头研制**
+  中文：总结：工业和信息化部发布2026年第30号公告，批准274项行业标准。 其中，由上海人工智能研究院与灵巧智能共同牵头研制的《人形机器人与具身智能 灵巧手技术规范》（SJ/T 12357—2026）正式发布，这是人形机器人领域首个灵巧手行业标准。 该标准对灵巧手的分类、结构与尺寸、电气性能、运动性能等提出技术要求及测试方法。 灵巧智能还参与了训练场构建技术规范、训练数据管理要求、智能化能力分级3项标准编制，并与上海人工智能研究院牵头研制《人形机器人与具身智能 末端执行器接口技术规范第1部分：灵巧手》行业标准。 此外，由中国电子技术标准化研究院、上海人工智能研究院和灵巧智能共同牵头的国家标准化指导性技术文件《人工智能 具身智能灵巧操作要求》正在拟定中，灵巧智能牵头研制的行业标准《人形机器人 物流应用技术要求》已正式立项。
+  📰 [www.gasgoo.com](https://www.gasgoo.com/robot/news/70479136-%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%81%B5%E5%B7%A7%E6%89%8B%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86/)
+
+- **[2026.11.26] Robotics & Automation News — Researchers develop 3D-printable humanoid robotic hand costing less than $650**
+  English: Researchers at the New Jersey Institute of Technology developed the PHD-Hand, a five-fingered dexterous humanoid robotic hand that can be manufactured using an affordable 3D printer and readily available components for less than $650 in parts. Authored by Neel Adwani, Muhaiminul Islam Akash, Saffia Ouali, Ethan Liu, and Cong Wang, the research paper has been accepted at the IEEE-RAS International Conference on Humanoid Robots (Humanoids 2026). The hand features 15 independently actuated degrees of freedom, using 3D-printed flexible hinges made from thermoplastic polyurethane and spring steel drive rods to eliminate miniature moving parts. It enables bidirectional actuation and demonstrates all 33 grasp types in the GRASP taxonomy, alongside capabilities to manipulate objects like a 55 mm cube, jar lid, precision screwdriver, and adjustable wrench. The researchers used Anthropic's Claude AI system to generate the graphical control interface and motion trajectories. They plan to release CAD models, 3D-printing files, control software, motion sequences, and bill of materials through an open-source GitHub repository.
+  中文：总结：新泽西理工学院的研究人员开发了PHD-Hand，这是一种五指具身灵巧人形机器人手，使用经济实惠的3D打印机和易获取的零部件制造，零件成本低于$650。 该研究论文由Neel Adwani、Muhaiminul Islam Akash、Saffia Ouali、Ethan Liu和Cong Wang撰写，已被IEEE-RAS人形机器人国际会议（Humanoids 2026）接受。 该手具备15个独立驱动的自由度，采用由热塑性聚氨酯制成的3D打印柔性铰链和弹簧钢传动杆，省去了微型活动部件。 它支持双向驱动，展示了GRASP分类法中的全部33种抓取类型，并能操作55毫米立方体、瓶盖、精密螺丝刀和活动扳手等物品。 研究人员使用Anthropic的Claude人工智能系统生成了图形控制界面和运动轨迹。 他们计划通过开源GitHub仓库发布CAD模型、3D打印文件、控制软件、运动序列和物料清单。
+  📰 [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/26/researchers-develop-3d-printable-humanoid-robotic-hand-costing-less-than-650/107748/)
+
+- **[2026.11.26] Bioengineer.org — NJIT Engineers Develop Inexpensive 3D-Printed Dexterous Robotic Hand with Modular Digits**
+  English: Researchers at the New Jersey Institute of Technology, including Associate Professor Cong Wang, doctoral student Neel Adwani, research assistant Muhaiminul Akash, undergraduate researcher Saffia Ouali, and high school student Ethan Liu, designed and built the PHD-Hand, a printable humanoid dexterous robotic hand. The project was initiated following Wang's 2024 hospital stay, which inspired him to pursue a simplified, resilient alternative to existing commercial robotic hands that he viewed as expensive and complex. The PHD-Hand avoids traditional tendon-driven architectures and miniature moving parts, relying on an accessible mechanical architecture produced using a budget-grade 3D printer. The design incorporates 3D-printed knuckles, modular digits, a 2-degree-of-freedom flexure hinge, internal springs, and off-the-shelf hobby servos, featuring an inherent safety mechanism where digits passively return to a neutral resting position upon power loss. System operation is handled via a web browser-based software interface supporting mouse inputs and natural language processing.
+  中文：总结：新泽西理工学院的研究人员（包括副教授Cong Wang、博士生Neel Adwani、研究助理Muhaiminul Akash、本科研究员Saffia Ouali以及高中生Ethan Liu）设计并制造了PHD-Hand，这是一款可打印的人形灵巧机器人手。 该项目始于Wang在2024年的住院经历，这激发他去寻找现有商业机器人手的简化且具韧性的替代方案，他认为商业机器人手过于昂贵和复杂。 PHD-Hand避开了传统的线传动架构和微型活动部件，依赖于使用经济型3D打印机制造的可及机械架构。 该设计结合了3D打印指关节、模块化手指、2个自由度的柔性铰链、内部弹簧以及现成的业余爱好级伺服电机，并具有在断电时手指被动回到中立静止位置的固有安全机制。 系统操作通过支持鼠标输入和自然语言处理的网络浏览器软件界面进行处理。
+  📰 [Bioengineer.org](https://bioengineer.org/njit-engineers-develop-inexpensive-3d-printed-dexterous-robotic-hand-with-modular-digits/)
+
+- **[2026.11.26] Interesting Engineering — New 3D-printed robotic hand uses low-cost parts to mimic human motion**
+  English: Researchers at the New Jersey Institute of Technology developed the PHD Hand, a dexterous robotic hand that combines 3D-printed components with simple mechanical systems to reduce manufacturing costs and maintenance. Developed by Associate Professor Cong Wang and doctoral student Neel Adwani, the hand features 3D-printed joints and knuckles with internal metal rods, springs, and hobby servos. Wang conceived the design during a hospital stay in 2024 when he sought to create a simpler robotic hand. The hand returns to a preset neutral position without power and is controlled via browser-based software supporting mouse movements or LLM-driven voice and text instructions. The team plans to explore tactile sensing and object manipulation tasks.
+  中文：总结：新泽西理工学院的副教授Cong Wang和博士生Neel Adwani开发了名为PHD Hand的灵巧手，旨在通过3D打印组件与简单机械系统降低制造成本和维护难度。 Wang在2024年住院期间构思了这一设计。 该机械手采用3D打印的关节、内部金属棒、弹簧以及业余级伺服电机，断电时可回到预设的中心位置，并由基于浏览器的软件通过鼠标操作或大语言模型支持的指令进行控制。 研究团队计划未来探索触觉传感以及更复杂的物体抓取和操作任务。
+  📰 [Interesting Engineering](https://interestingengineering.com/ai-robotics/njit-phd-hand-low-cost-robotic-hand)
+
+- **[2026.11.26] FabScene — 米ニュージャージー工科大、安価な3Dプリンターで作れるロボットハンドを開発**
+  日本語：Researchers at the New Jersey Institute of Technology developed the PHD-Hand, a robotic hand made with low-cost 3D printers and off-the-shelf parts, featuring five fingers driven by three servo motors each. Measuring about 200mm in length, the hand uses a linkage mechanism where motors are placed outside the fingers. The flexible TPU joints bend in two directions and contain a 0.6mm stainless steel spring steel rod. Each finger uses 13 main parts when printed as a single unit. In testing, the prototype performed 33 grasp types and tasks like operating a precision screwdriver, though chopsticks handling was limited due to range and missing webbing. The team tested the prototype for about 200 hours, experiencing two spring steel rod breakages.
+  中文：总结：米ニュージャージー工科大学的研究团队开发了人型机器人手“PHD-Hand”，由低成本3D打印机和市販零件制成，每根手指由三个伺服电机驱动，长度约200mm。 该手采用将电机置于指外的连杆机构，由TPU材料打印的柔性关节可通过中心厚度0.6mm的不锈钢弹簧钢棒进行双向弯曲。 一体打印的单指主要部件为13点。 在测试中，样机完成了33种抓握分类中的动作及精密螺丝刀操作，但在使用筷子等操作上受到限制。 团队进行了约200小时的测试，期间发生了两次弹簧钢棒折断。
+  📰 [FabScene](https://fabscene.com/new/news/njit-phd-hand-3d-printed-linkage-robot-hand/)
+
+- **[2026.11.26] EurekAlert! — NJIT professor's low-tech hospital stint leads to high-tech robotic hand**
+  English: Associate Professor Cong Wang and doctoral student Neel Adwani designed the PHD Hand to offer a less expensive and more reliable robotic hand using ordinary tools. Inspired by a camera-free hospital stay in 2024 where Wang sketched ideas on paper, the hand avoids complex tendon-driven systems by using 3D-printed joints, internal metal rods, fingertips with springs, and off-the-shelf hobby servos. The hand returns to a preset neutral position upon power loss and uses browser-based software for mouse-driven or LLM-interpreted commands. The team plans to investigate tactile sensing, camera integration, and everyday manipulation tasks like opening eyeglasses cases.
+  中文：总结：副教授Cong Wang与博士生Neel Adwani设计了PHD Hand，旨在用普通工具打造一款更便宜、更可靠的机器人手。 Wang在2024年因住院被禁止使用带摄像头的设备时，在纸上构思了该设计。 该机械手避开了昂贵的肌腱驱动系统，采用3D打印关节、内部金属棒、指尖弹簧以及现成的爱好级伺服电机。 断电时手指可恢复预设的中立位置，并通过浏览器软件结合鼠标或大语言模型指令进行控制。 团队计划未来研究触觉传感、摄像头集成及开眼镜盒等日常操作。
+  📰 [EurekAlert!](https://www.eurekalert.org/news-releases/1153486)
+
+
+---
+※Dexterous Hand News Digest | 2026.11.28 | full-text items: 8
